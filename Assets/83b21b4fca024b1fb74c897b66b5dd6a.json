@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Sailboat_Static_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Vehicles/Kuwait_Sailboat_Static_0/Kuwait_Sailboat_Static_0.dat",
+  "data": {
+    "GUID": "83b21b4fca024b1fb74c897b66b5dd6a",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5012",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwaiti Ship #1"
+  }
+}

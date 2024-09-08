@@ -1,0 +1,14 @@
+{
+  "name": "PS_Pallet_Jack",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Pallet_Jack/PS_Pallet_Jack.dat",
+  "data": {
+    "GUID": "ecbaaacada2e460996ec9f9b716c42e1",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59990",
+    "Material_Palette": "8a84ddccd9764091abbd75f8b31bf512"
+  },
+  "translation": {
+    "Name": "PS Pallett Lifter #1"
+  }
+}

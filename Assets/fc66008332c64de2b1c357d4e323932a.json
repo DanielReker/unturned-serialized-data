@@ -1,0 +1,14 @@
+{
+  "name": "28503KVC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28501KLNVD/28503KVC/Asset.dat",
+  "data": {
+    "GUID": "fc66008332c64de2b1c357d4e323932a",
+    "Type": "Dialogue",
+    "ID": "28503",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Stay safe, now."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Gardening_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Gardening_0/Gardening_0.dat",
+  "data": {
+    "GUID": "a4624e3ddbd146c69e84a475a500a776",
+    "Type": "Large",
+    "ID": "663",
+    "LOD": "Mesh",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hawaii Gardening"
+  }
+}

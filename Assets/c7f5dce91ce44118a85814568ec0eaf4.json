@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait_Outlands_Component_Placed_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Small/Quests/Kuwait_Outlands/Kuwait_Outlands_Component_Placed_2/Kuwait_Outlands_Component_Placed_2.dat",
+  "data": {
+    "GUID": "c7f5dce91ce44118a85814568ec0eaf4",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "5950",
+    "Master_Bundle_Override": "kuwait.masterbundle",
+    "Bundle_Override_Path": "/Objects/Small/Quests/Kuwait_Outlands/Kuwait_Outlands_Component_2",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "5498",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Kuwait Dynamite Component Place #3 (Quest)"
+  }
+}

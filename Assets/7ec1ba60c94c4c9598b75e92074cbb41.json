@@ -1,0 +1,33 @@
+{
+  "name": "PS_Crate_Halloween",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Barricades/PS_Crate_Halloween/PS_Crate_Halloween.dat",
+  "data": {
+    "GUID": "7ec1ba60c94c4c9598b75e92074cbb41",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Barricade",
+    "ID": "59166",
+    "SalvageItem": "7ec1ba60c94c4c9598b75e92074cbb41",
+    "Min_Items_Dropped_On_Destroy": "8",
+    "Max_Items_Dropped_On_Destroy": "20",
+    "Item_Dropped_On_Destroy": "1bbd5c04ec244cddbf8d8fdfc18a1152",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.7",
+    "Health": "90",
+    "Range": "4",
+    "Radius": "0.6",
+    "Offset": "0.75",
+    "Explosion": "59094",
+    "Vulnerable": "",
+    "PlacementAudioClip": "Sounds/WoodenPlacement.mp3",
+    "Salvage_Duration_Multiplier": "0.2",
+    "PlacementPreviewPrefab": "Items/Barricades/PS_Crate_Wood/Placement.prefab"
+  },
+  "translation": {
+    "Name": "Spooky Box",
+    "Description": "<color=#FFC023>90 Health</color><br><color=#21B427>Drops goodies upon destruction.</color>"
+  }
+}

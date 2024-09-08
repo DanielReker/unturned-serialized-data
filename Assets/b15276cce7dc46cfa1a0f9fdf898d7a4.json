@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Obselisk_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Scenery/Kuwait_Obselisk_7/Kuwait_Obselisk_7.dat",
+  "data": {
+    "GUID": "b15276cce7dc46cfa1a0f9fdf898d7a4",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5275"
+  },
+  "translation": {
+    "Name": "Kuwait Obelisk #8"
+  }
+}

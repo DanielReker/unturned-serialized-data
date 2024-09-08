@@ -1,0 +1,16 @@
+{
+  "name": "BQuad",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/BQuad/BQuad.dat",
+  "data": {
+    "GUID": "b38987db014c43fba3b6a3b1f8ac10f5",
+    "Type": "Large",
+    "ID": "45755",
+    "Collision_Important": "",
+    "Soft": "",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Shelter Quad"
+  }
+}

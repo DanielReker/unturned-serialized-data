@@ -1,0 +1,25 @@
+{
+  "name": "Metro_Magazines_Low",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Magazines_Low/Metro_Magazines_Low.dat",
+  "data": {
+    "GUID": "b3164234d6484f009ae30d6907b38010",
+    "Type": "Spawn",
+    "ID": "57047",
+    "Tables": "7",
+    "Table_0_Asset_ID": "57127",
+    "Table_0_Weight": "400",
+    "Table_1_Asset_ID": "57134",
+    "Table_1_Weight": "400",
+    "Table_2_Asset_ID": "57031",
+    "Table_2_Weight": "200",
+    "Table_3_Asset_ID": "57055",
+    "Table_3_Weight": "200",
+    "Table_4_Asset_ID": "57131",
+    "Table_4_Weight": "200",
+    "Table_5_Asset_ID": "57056",
+    "Table_5_Weight": "50",
+    "Table_6_Asset_ID": "57114",
+    "Table_6_Weight": "5"
+  },
+  "translation": null
+}

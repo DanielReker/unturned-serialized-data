@@ -1,0 +1,136 @@
+{
+  "name": "AirdropSmall",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/AirdropSmall/AirdropSmall.dat",
+  "data": {
+    "GUID": "323a9ba62ba94e69a6ec1dc09e904569",
+    "Type": "Spawn",
+    "ID": "51150",
+    "Tables": [
+      {
+        "Guid": "e3dd91edb4de411ca4386689357fa060",
+        "Weight": "60"
+      },
+      {
+        "Guid": "13686590317e4873a99962a18fe8737e",
+        "Weight": "60"
+      },
+      {
+        "Guid": "1d54bb1bcf0647fc92015c5ff04c4e59",
+        "Weight": "60"
+      },
+      {
+        "Guid": "31bd8ac06b544fd1b4220912cc642acf",
+        "Weight": "60"
+      },
+      {
+        "Guid": "71660a4c14ab47d5b7d8ad1bd6e74573",
+        "Weight": "60"
+      },
+      {
+        "Guid": "424cafbc2c454076a5fa989377281a45",
+        "Weight": "50"
+      },
+      {
+        "Guid": "bb560f56ca2b4f638df93460f674b42d",
+        "Weight": "50"
+      },
+      {
+        "Guid": "4bb8496f288346ccb869a5cc93f9b31d",
+        "Weight": "50"
+      },
+      {
+        "Guid": "249fe1c36cfa4714862b0fc0aabfc6b1",
+        "Weight": "30"
+      },
+      {
+        "Guid": "ee0530de710b411c962b2673489aa875",
+        "Weight": "30"
+      },
+      {
+        "Guid": "135d1651d9d940e580c5610ab276941a",
+        "Weight": "30"
+      },
+      {
+        "Guid": "0b54ee1c68df4cd6800d52a9c86e1a93",
+        "Weight": "30"
+      },
+      {
+        "Guid": "46c6db37785d4cd19ee70a21de7afa1a",
+        "Weight": "30"
+      },
+      {
+        "Guid": "f6f946744fac49e68e9cdee020887dca",
+        "Weight": "30"
+      },
+      {
+        "Guid": "171663bacecf437899224e2ecb2a1bcf",
+        "Weight": "30"
+      },
+      {
+        "Guid": "3ca169532e564cde855b3384369f0ca5",
+        "Weight": "30"
+      },
+      {
+        "Guid": "ef2f901cade64c939220ce2da5c6ab22",
+        "Weight": "30"
+      },
+      {
+        "Guid": "0995731f2adb4152bf0153b1801cf853",
+        "Weight": "25"
+      },
+      {
+        "Guid": "cd6275ba582b47509581114b5fbeee35",
+        "Weight": "20"
+      },
+      {
+        "Guid": "c2bc13c65b664a76aba53e1a2ef228dc",
+        "Weight": "20"
+      },
+      {
+        "Guid": "e17a99f39e9446899d184eb78e736833",
+        "Weight": "20"
+      },
+      {
+        "Guid": "92df9551782e4cb4a7143f64e2222aa4",
+        "Weight": "20"
+      },
+      {
+        "Guid": "4ed0ec85a53e4fadaf1a49189fa24dc1",
+        "Weight": "20"
+      },
+      {
+        "Guid": "49163d9e098749688d87fa187a721084",
+        "Weight": "15"
+      },
+      {
+        "Guid": "ba818789052c41d689b986775740d393",
+        "Weight": "15"
+      },
+      {
+        "Guid": "6b24fef08e5044dc81571b2f7c09a70d",
+        "Weight": "15"
+      },
+      {
+        "Guid": "583bc4f0284047c3964b46a44e60fd33",
+        "Weight": "15"
+      },
+      {
+        "Guid": "c94b91bd79954f1f9fa0df44300ec494",
+        "Weight": "10"
+      },
+      {
+        "Guid": "9fe3e904c65a41c086ef082bded6fa94",
+        "Weight": "10"
+      },
+      {
+        "Guid": "6d7677d8761d4d7ab9e9cf6fd90c7741",
+        "Weight": "10"
+      },
+      {
+        "Guid": "9a97b2460dc24f3fa51fcadaeca3f162",
+        "Weight": "2"
+      }
+    ]
+  },
+  "translation": null
+}

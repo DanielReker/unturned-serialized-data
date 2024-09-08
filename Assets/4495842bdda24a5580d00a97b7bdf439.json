@@ -1,0 +1,15 @@
+{
+  "name": "Buak_LAB_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_LAB/Buak_LAB_00/Buak_LAB_00.dat",
+  "data": {
+    "GUID": "4495842bdda24a5580d00a97b7bdf439",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Soft": "",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_LAB_00"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PEI Arena_Arena_Armor_Helmet",
+  "path": "Bundles/Spawns/Items/PEI Arena_Arena_Armor_Helmet/PEI Arena_Arena_Armor_Helmet.dat",
+  "data": {
+    "GUID": "b835f47c1bbb4200b53c63a92dbf0ca1",
+    "Type": "Spawn",
+    "ID": "53",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "38",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

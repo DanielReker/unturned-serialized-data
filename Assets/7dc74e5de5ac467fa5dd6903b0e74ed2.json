@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Wall_Plywood_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Medium/Frost_Wall_Plywood_02/Frost_Wall_Plywood_02.dat",
+  "data": {
+    "GUID": "7dc74e5de5ac467fa5dd6903b0e74ed2",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000"
+  },
+  "translation": {
+    "Name": "Frost Wall Plywood #3"
+  }
+}

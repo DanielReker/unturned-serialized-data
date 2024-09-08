@@ -1,0 +1,13 @@
+{
+  "name": "PS_Radio_Towers_Proper",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Radio_Towers_Proper/PS_Radio_Towers_Proper.dat",
+  "data": {
+    "GUID": "e2a471f05afb4d8199e54ac9cbe9f153",
+    "Type": "Spawn",
+    "ID": "59116",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "59022",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

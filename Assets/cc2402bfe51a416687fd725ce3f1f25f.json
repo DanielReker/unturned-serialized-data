@@ -1,0 +1,24 @@
+{
+  "name": "Boss_Shirt_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Misc/Bosses/Boss_Shirt_2/Boss_Shirt_2.dat",
+  "data": {
+    "GUID": "cc2402bfe51a416687fd725ce3f1f25f",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "27002",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.5",
+    "Width": "6",
+    "Height": "5",
+    "Unobtainable": "",
+    "Unsaveable": "",
+    "Pro": "",
+    "Armor": "1",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Boss_Shirt_2",
+    "Description": "Chop Chop!"
+  }
+}

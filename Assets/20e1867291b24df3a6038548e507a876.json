@@ -1,0 +1,72 @@
+{
+  "name": "Buak_Junk_Collection",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Landscapes/Collections/Buak_Junk_Collection.asset",
+  "data": {
+    "GUID": "20e1867291b24df3a6038548e507a876",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "31dab0967037494eaec75fe5ed26da09"
+        },
+        "Weight": "0.1"
+      },
+      {
+        "Asset": {
+          "GUID": "72ad6b4a45f1473a92fa6b1d8d0809ef"
+        },
+        "Weight": "0.1"
+      },
+      {
+        "Asset": {
+          "GUID": "0e2bd392451c4631827c36008b3816f4"
+        },
+        "Weight": "0.1"
+      },
+      {
+        "Asset": {
+          "GUID": "d5aa8797caa243c294506a8c91a92b32"
+        },
+        "Weight": "0.1"
+      },
+      {
+        "Asset": {
+          "GUID": "0c2d901fc7b2443285f21578cbb959dd"
+        },
+        "Weight": "0.1"
+      },
+      {
+        "Asset": {
+          "GUID": "7f185bfce4784987b62cffa4d7e33cb2"
+        },
+        "Weight": "0.1"
+      },
+      {
+        "Asset": {
+          "GUID": "554de30427bb4971b3b1647446ac7f21"
+        },
+        "Weight": "0.1"
+      },
+      {
+        "Asset": {
+          "GUID": "b9d924b8484a4ddfbe68e85d23047a9d"
+        },
+        "Weight": "0.1"
+      },
+      {
+        "Asset": {
+          "GUID": "e6a2784f618840b7b87ede7e2a473c4b"
+        },
+        "Weight": "0.1"
+      },
+      {
+        "Asset": {
+          "GUID": "7c17ad28954a41658d5c595da71f390e"
+        },
+        "Weight": "0.1"
+      }
+    ]
+  },
+  "translation": null
+}

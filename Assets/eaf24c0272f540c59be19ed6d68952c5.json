@@ -1,0 +1,39 @@
+{
+  "name": "PBS_Ruth_Info",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Ruth/PBS_Ruth_Info/Asset.dat",
+  "data": {
+    "GUID": "eaf24c0272f540c59be19ed6d68952c5",
+    "Type": "Dialogue",
+    "ID": "52274",
+    "Messages": "2",
+    "Message_0_Pages": "1",
+    "Message_0_Conditions": "1",
+    "Message_0_Condition_0_Type": "Flag_Short",
+    "Message_0_Condition_0_ID": "52009",
+    "Message_0_Condition_0_Value": "999",
+    "Message_0_Condition_0_Logic": "Not_Equal",
+    "Message_0_Rewards": "1",
+    "Message_0_Reward_0_Type": "Flag_Short_Random",
+    "Message_0_Reward_0_ID": "52009",
+    "Message_0_Reward_0_Min_Value": "0",
+    "Message_0_Reward_0_Max_Value": "999",
+    "Message_0_Reward_0_Modification": "Assign",
+    "Message_1_Pages": "1",
+    "Message_1_FaceOverride": "4",
+    "Message_1_Conditions": "1",
+    "Message_1_Condition_0_Type": "Flag_Short",
+    "Message_1_Condition_0_ID": "52009",
+    "Message_1_Condition_0_Value": "999",
+    "Message_1_Condition_0_Logic": "Equal",
+    "Message_1_Rewards": "1",
+    "Message_1_Reward_0_Type": "Flag_Short_Random",
+    "Message_1_Reward_0_ID": "52009",
+    "Message_1_Reward_0_Min_Value": "0",
+    "Message_1_Reward_0_Max_Value": "999",
+    "Message_1_Reward_0_Modification": "Assign"
+  },
+  "translation": {
+    "Message_0_Page_0": "It's harder to live without a living, so we need to make a proper living.",
+    "Message_1_Page_0": "Dugflation has hit us hard."
+  }
+}

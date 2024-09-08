@@ -1,0 +1,17 @@
+{
+  "name": "California_Military_High_Mags",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_Military_High_Mags/California_Military_High_Mags.dat",
+  "data": {
+    "GUID": "0c666ad7fd8742dbb7ec4f5ac600dde5",
+    "Type": "Spawn",
+    "ID": "4383",
+    "Tables": "3",
+    "Table_0_Asset_ID": "6",
+    "Table_0_Weight": "15",
+    "Table_1_Asset_ID": "4010",
+    "Table_1_Weight": "15",
+    "Table_2_Asset_ID": "1485",
+    "Table_2_Weight": "10"
+  },
+  "translation": null
+}

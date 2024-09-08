@@ -1,0 +1,14 @@
+{
+  "name": "Roundhouse_0",
+  "path": "Bundles/Objects/Large/Buildings/Roundhouse_0/Roundhouse_0.dat",
+  "data": {
+    "GUID": "9dfd5312371045039c70cb8756655b88",
+    "Type": "Large",
+    "ID": "618",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Roundhouse #1"
+  }
+}

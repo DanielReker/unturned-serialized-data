@@ -1,0 +1,17 @@
+{
+  "name": "Grease 5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Decals/City/Grease 5/Grease 5.dat",
+  "data": {
+    "GUID": "3e2a417f529c4e6b88dbf5aeffdb696f",
+    "Type": "Decal",
+    "ID": "51049",
+    "Decal_X": "3",
+    "Decal_Y": "3",
+    "Decal_LOD_Bias": "1",
+    "Decal_Alpha": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Decal Grease 5"
+  }
+}

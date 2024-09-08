@@ -1,0 +1,21 @@
+{
+  "name": "Metro_Cow",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Animals/Metro_Cow/Metro_Cow.dat",
+  "data": {
+    "GUID": "db47d0ca436d42b18d11f39c405b2b1c",
+    "Type": "Animal",
+    "ID": "57001",
+    "Speed_Run": "12",
+    "Speed_Walk": "4",
+    "Behaviour": "Ignore",
+    "Health": "65",
+    "Reward_ID": "57017",
+    "Reward_XP": "8",
+    "Reward_Min": "5",
+    "Reward_Max": "5",
+    "Panics": "3"
+  },
+  "translation": {
+    "Name": "Cow"
+  }
+}

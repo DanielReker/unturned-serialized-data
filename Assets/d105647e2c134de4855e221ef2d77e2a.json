@@ -1,0 +1,17 @@
+{
+  "name": "Kuwait_Briefcase_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Supplies/Kuwait_Briefcase_0/Kuwait_Briefcase_0.dat",
+  "data": {
+    "GUID": "d105647e2c134de4855e221ef2d77e2a",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "5505",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65"
+  },
+  "translation": {
+    "Name": "Briefcase",
+    "Description": "Give this briefcase to an NPC to open it! It must include something you don't know you want. "
+  }
+}

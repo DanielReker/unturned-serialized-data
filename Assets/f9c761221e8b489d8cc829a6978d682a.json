@@ -1,0 +1,15 @@
+{
+  "name": "Navy_Join_Request",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Crew/Captain_Fabricio/Navy_Join_Request/Asset.dat",
+  "data": {
+    "GUID": "f9c761221e8b489d8cc829a6978d682a",
+    "Type": "Dialogue",
+    "ID": "9220",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "We don't recruit strangers who just arrived. For all we know, you could be just as good as one of those prisoners we have locked up in the cell.",
+    "Message_0_Page_1": "Although...<pause> you can take an interview from Officer Rodrigues and if you help out a little bit around here, you might have a shot at being recruited."
+  }
+}

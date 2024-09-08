@@ -1,0 +1,16 @@
+{
+  "name": "Windmill_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Guard_Omega_Otis/Windmill_Completed/Asset.dat",
+  "data": {
+    "GUID": "c844c40e54284a779578085fdff48a45",
+    "Type": "Dialogue",
+    "ID": "3281",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Perfect! <pause> Looks like that covers just about all the criteria, well done!",
+    "Response_0": "Thank you!"
+  }
+}

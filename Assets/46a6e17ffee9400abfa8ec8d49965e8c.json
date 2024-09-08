@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Outlands_News_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Small/Quests/Kuwait_Outlands/Kuwait_Outlands_News_5/Kuwait_Outlands_News_5.dat",
+  "data": {
+    "GUID": "46a6e17ffee9400abfa8ec8d49965e8c",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "5999",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Outlands News #6"
+  }
+}

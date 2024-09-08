@@ -1,0 +1,13 @@
+{
+  "name": "Dock_2",
+  "path": "Bundles/Objects/Medium/Parks/Dock_2/Dock_2.dat",
+  "data": {
+    "GUID": "eaba37cdf5b04907b5f4c4edf9f6657e",
+    "Type": "Medium",
+    "ID": "919",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Dock #3"
+  }
+}

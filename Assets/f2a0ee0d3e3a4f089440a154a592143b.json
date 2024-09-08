@@ -1,0 +1,14 @@
+{
+  "name": "Grass_Boulder_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Grass_Boulder_00/Grass_Boulder_00.dat",
+  "data": {
+    "GUID": "f2a0ee0d3e3a4f089440a154a592143b",
+    "Type": "Large",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false",
+    "Allow_Structures": ""
+  },
+  "translation": {
+    "Name": "PBS Grass Boulder 1"
+  }
+}

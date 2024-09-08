@@ -1,0 +1,14 @@
+{
+  "name": "Fran_Demands_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Mechanic Fran/Fran_Demands_Accepted/Asset.dat",
+  "data": {
+    "GUID": "b5b99ca77ef340bc9d798b489619b32c",
+    "Type": "Dialogue",
+    "ID": "9003",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I want to see you done pretty quick. So hurry!"
+  }
+}

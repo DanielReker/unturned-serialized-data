@@ -1,0 +1,22 @@
+{
+  "name": "Eel_Raw",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Food/Eel_Raw/Eel_Raw.dat",
+  "data": {
+    "GUID": "a1cbe739a20441798567ad8feb6a8519",
+    "Type": "Food",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "6645",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Food": "40",
+    "Virus": "40",
+    "Vision": "20",
+    "Health": "5"
+  },
+  "translation": {
+    "Name": "Raw Eel",
+    "Description": "Slippery and smelly."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "28102KATQA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28101KATTD/28102KATQA/Asset.dat",
+  "data": {
+    "GUID": "838bc2c0f9f4401c96b8ba9312ab3d25",
+    "Type": "Dialogue",
+    "ID": "28102",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "28101"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hey, thanks! Good luck out there!"
+  }
+}

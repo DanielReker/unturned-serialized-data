@@ -1,0 +1,20 @@
+{
+  "name": "IR_Army_Colors",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/terrain/Material_Pallete/Army/IR_Army_Colors.asset",
+  "data": {
+    "GUID": "d74fd85851d94fbab279315064b3e292",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "Ireland.masterbundle",
+        "Path": "terrain/Material_Pallete/Army/Army_1.mat"
+      },
+      {
+        "Name": "Ireland.masterbundle",
+        "Path": "terrain/Material_Pallete/Army/Army_2.mat"
+      }
+    ]
+  },
+  "translation": null
+}

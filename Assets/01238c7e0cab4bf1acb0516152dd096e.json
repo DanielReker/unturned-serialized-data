@@ -1,0 +1,15 @@
+{
+  "name": "France_Medic_Supplies_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Medic/France_Medic_Supplies_Completed/Asset.dat",
+  "data": {
+    "GUID": "01238c7e0cab4bf1acb0516152dd096e",
+    "Type": "Dialogue",
+    "ID": "4133",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you so much.",
+    "Message_0_Page_1": "This will help us a lot."
+  }
+}

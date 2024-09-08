@@ -1,0 +1,33 @@
+{
+  "name": "Civilian Brent",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Vendors/Civilian Brent/Asset.dat",
+  "data": {
+    "GUID": "ddb5a14e0d4e405aa7d5d25449e533a5",
+    "Type": "Vendor",
+    "ID": "9009",
+    "Selling": "5",
+    "Selling_0_ID": "77",
+    "Selling_0_Cost": "20",
+    "Selling_1_ID": "78",
+    "Selling_1_Cost": "20",
+    "Selling_2_ID": "84",
+    "Selling_2_Cost": "15",
+    "Selling_3_ID": "14",
+    "Selling_3_Cost": "20",
+    "Selling_4_ID": "80",
+    "Selling_4_Cost": "20",
+    "Buying": "4",
+    "Buying_0_ID": "391",
+    "Buying_0_Cost": "8",
+    "Buying_1_ID": "392",
+    "Buying_1_Cost": "8",
+    "Buying_2_ID": "387",
+    "Buying_2_Cost": "8",
+    "Buying_3_ID": "95",
+    "Buying_3_Cost": "8"
+  },
+  "translation": {
+    "Name": "Brent's Shop",
+    "Description": "I have a ton of supplies that will surely help you!"
+  }
+}

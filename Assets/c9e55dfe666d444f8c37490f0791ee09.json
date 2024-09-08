@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Crop_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Crop_1/Rio_Crop_1.dat",
+  "data": {
+    "GUID": "c9e55dfe666d444f8c37490f0791ee09",
+    "Type": "Large",
+    "ID": "6080",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Wheat Crop #2"
+  }
+}

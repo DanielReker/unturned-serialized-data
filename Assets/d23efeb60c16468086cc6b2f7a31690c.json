@@ -1,0 +1,30 @@
+{
+  "name": "Military_Traitor_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Traitor_4/Asset.dat",
+  "data": {
+    "GUID": "d23efeb60c16468086cc6b2f7a31690c",
+    "Type": "NPC",
+    "ID": "3953",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3571",
+    "Condition_0_Value": "4",
+    "Condition_0_Logic": "Equal",
+    "Shirt": "3508",
+    "Pants": "209",
+    "Mask": "434",
+    "Hat": "3511",
+    "Face": "22",
+    "Hair": "12",
+    "Beard": "6",
+    "Color_Skin": "#94764B",
+    "Color_Hair": "#352C22",
+    "Pose": "UNDER_ARREST",
+    "Secondary": "3515",
+    "Dialogue": "3580"
+  },
+  "translation": {
+    "Name": "Greek Traitor Ephial #5",
+    "Character": "<color=epic>Sergeant First Class Ephial</color>"
+  }
+}

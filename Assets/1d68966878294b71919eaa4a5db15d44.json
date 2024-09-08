@@ -1,0 +1,25 @@
+{
+  "name": "Metro_AR_Civ_Bayonet_Sight",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_AR_Civ_Bayonet_Sight/Metro_AR_Civ_Bayonet_Sight.dat",
+  "data": {
+    "GUID": "1d68966878294b71919eaa4a5db15d44",
+    "Type": "Sight",
+    "Rarity": "Rare",
+    "ID": "57521",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.125",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "57521",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "67",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Deflection Sight",
+    "Description": ""
+  }
+}

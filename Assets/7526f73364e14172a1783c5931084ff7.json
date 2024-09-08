@@ -1,0 +1,12 @@
+{
+  "name": "Bubbling",
+  "path": "Bundles/Mythics/Bubbling/Bubbling.dat",
+  "data": {
+    "GUID": "7526f73364e14172a1783c5931084ff7",
+    "Type": "Mythic",
+    "ID": "9"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Bubbling"
+  }
+}

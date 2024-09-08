@@ -1,0 +1,14 @@
+{
+  "name": "PS_Airfield_Building_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Airfield_Building_2/PS_Airfield_Building_2.dat",
+  "data": {
+    "GUID": "d4aa813dff20494abad790a395073780",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60161",
+    "LOD": "Area"
+  },
+  "translation": {
+    "Name": "PS Airfield Building #3"
+  }
+}

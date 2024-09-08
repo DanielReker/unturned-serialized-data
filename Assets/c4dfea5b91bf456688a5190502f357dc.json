@@ -1,0 +1,13 @@
+{
+  "name": "PS_Bunker_Pipe_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Bunker_Pipe_1/PS_Bunker_Pipe_1.dat",
+  "data": {
+    "GUID": "c4dfea5b91bf456688a5190502f357dc",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59627"
+  },
+  "translation": {
+    "Name": "PS Bunker Pipe #2 [Turn 90]"
+  }
+}

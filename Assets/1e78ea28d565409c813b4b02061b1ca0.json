@@ -1,0 +1,15 @@
+{
+  "name": "France_Civilian_2_Radio_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Civilian_2/France_Civilian_2_Radio_Completed/Asset.dat",
+  "data": {
+    "GUID": "1e78ea28d565409c813b4b02061b1ca0",
+    "Type": "Dialogue",
+    "ID": "4192",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you so much.",
+    "Message_0_Page_1": "Now I won't have to argue with Jack over the radio..."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "RugShopping_03_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Carter/Carter_02/RugShopping_03_Welcome/Asset.dat",
+  "data": {
+    "GUID": "ade0432a2b02458dab6c5fb6748dede0",
+    "Type": "Dialogue",
+    "ID": "24527",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "5",
+    "Responses": "2",
+    "Response_0_Dialogue": "c796aaf08dfd44c38a0b55c0872ab8ad",
+    "Response_0_Quest": "59cce9e0fe674786b0d83b729a186420",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "59cce9e0fe674786b0d83b729a186420",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "59cce9e0fe674786b0d83b729a186420"
+  },
+  "translation": {
+    "Message_0_Page_0": "I don't know if you're up for the challenge, but would you be down to get a moose rug? They can be quite deadly.",
+    "Response_0": "Sure thing!",
+    "Response_1": "Not now."
+  }
+}

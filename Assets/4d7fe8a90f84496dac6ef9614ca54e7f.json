@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Natalie_Complete",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Natalie/PBS_Natalie_Complete/Asset.dat",
+  "data": {
+    "GUID": "4d7fe8a90f84496dac6ef9614ca54e7f",
+    "Type": "Dialogue",
+    "ID": "52153",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Okay now..."
+  }
+}

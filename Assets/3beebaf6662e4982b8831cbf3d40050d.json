@@ -1,0 +1,14 @@
+{
+  "name": "Buak_AN_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Props/Buak_AN_00/Buak_AN_00.dat",
+  "data": {
+    "GUID": "3beebaf6662e4982b8831cbf3d40050d",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_AN_00"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Quest_2_Barter_3_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_2/Quest_2_Barter_3_1/Asset.dat",
+  "data": {
+    "GUID": "3d5dda877dc64d7f9fc1c75db4ebd176",
+    "Type": "Vendor",
+    "ID": "57791",
+    "Selling": "1",
+    "Selling_0_ID": "57677   ",
+    "Selling_0_Cost": "1",
+    "Disable_Sorting": "",
+    "Currency": "5e4a902052c747b8b11ab605aac2274c"
+  },
+  "translation": {
+    "Name": "<color=#64c819>Bipod Barter</color>",
+    "Description": "Exchange grips for bipods."
+  }
+}

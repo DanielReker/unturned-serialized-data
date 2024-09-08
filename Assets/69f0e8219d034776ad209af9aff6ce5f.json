@@ -1,0 +1,40 @@
+{
+  "name": "Kuwait_Outlands_Light_On_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Quests/Kuwait_Outlands/Kuwait_Outlands_Light_On_0/Kuwait_Outlands_Light_On_0.dat",
+  "data": {
+    "GUID": "69f0e8219d034776ad209af9aff6ce5f",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5443",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "5434",
+    "Condition_0_Value": "1",
+    "Condition_0_Logic": "Equal",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Short",
+    "Interactability_Condition_0_ID": "5454",
+    "Interactability_Condition_0_Value": "9",
+    "Interactability_Condition_0_Logic": "Not_Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "3",
+    "Interactability_Reward_0_Type": "Flag_Math",
+    "Interactability_Reward_0_A_ID": "5434",
+    "Interactability_Reward_0_B_ID": "5452",
+    "Interactability_Reward_0_Operation": "Multiplication",
+    "Interactability_Reward_1_Type": "Flag_Math",
+    "Interactability_Reward_1_A_ID": "5435",
+    "Interactability_Reward_1_B_ID": "5452",
+    "Interactability_Reward_1_Operation": "Multiplication",
+    "Interactability_Reward_2_Type": "Flag_Math",
+    "Interactability_Reward_2_A_ID": "5437",
+    "Interactability_Reward_2_B_ID": "5452",
+    "Interactability_Reward_2_Operation": "Multiplication"
+  },
+  "translation": {
+    "Name": "Kuwait Active Cube #1 (QUEST)",
+    "Interact": "Turn On Cube [{0}]",
+    "Interactability_Condition_0": "Puzzle complete."
+  }
+}

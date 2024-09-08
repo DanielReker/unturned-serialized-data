@@ -1,0 +1,14 @@
+{
+  "name": "Elver2_Skater_Bottom_White",
+  "path": "Bundles/Items/Elver2/Elver2_Skater_Bottom_White/Elver2_Skater_Bottom_White.dat",
+  "data": {
+    "GUID": "1e7993da06d346e092b22d5c3e662ef2",
+    "Type": "Pants",
+    "Useable": "Clothing",
+    "ID": "1621",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Pro": ""
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Cultist_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Metro_Cultist_1/Metro_Cultist_1.dat",
+  "data": {
+    "GUID": "c1f11cab46f54a2c94e8b3a41ade7563",
+    "Type": "Spawn",
+    "ID": "57151",
+    "Tables": "1",
+    "Table_0_Asset_ID": "57570",
+    "Table_0_Weight": "111"
+  },
+  "translation": null
+}

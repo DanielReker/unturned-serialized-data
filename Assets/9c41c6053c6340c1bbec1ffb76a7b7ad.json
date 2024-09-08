@@ -1,0 +1,21 @@
+{
+  "name": "Buak_LAB_Armory",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_LAB/Buak_LAB_Armory/Buak_LAB_Armory.dat",
+  "data": {
+    "GUID": "9c41c6053c6340c1bbec1ffb76a7b7ad",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "150",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "25475",
+    "Rubble_Reward_ID": "25402",
+    "Rubble_Rewards_Min": "1",
+    "Rubble_Rewards_Max": "2"
+  },
+  "translation": {
+    "Name": "Buak_LAB_Armory"
+  }
+}

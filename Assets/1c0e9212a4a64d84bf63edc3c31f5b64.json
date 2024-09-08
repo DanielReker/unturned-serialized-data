@@ -1,0 +1,13 @@
+{
+  "name": "Modularladder2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Modularladder2/Modularladder2.dat",
+  "data": {
+    "GUID": "1c0e9212a4a64d84bf63edc3c31f5b64",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Modularladder 2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Chainlink_Fence_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Chainlink_Fence_6/PS_Chainlink_Fence_6.dat",
+  "data": {
+    "GUID": "03c8dc11074d4919ae6bbeb82bf3e4d8",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59258"
+  },
+  "translation": {
+    "Name": "PS Chainlink Fence #7 [Gray]"
+  }
+}

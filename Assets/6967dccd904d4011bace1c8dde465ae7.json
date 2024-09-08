@@ -1,0 +1,21 @@
+{
+  "name": "Note_Hawaii10",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Note_Hawaii10/Note_Hawaii10.dat",
+  "data": {
+    "GUID": "6967dccd904d4011bace1c8dde465ae7",
+    "Type": "Medium",
+    "ID": "6209",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Hawaii Note - Aegis Security",
+    "Interactability_Text_Line_0": "Security Orders: ",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Primary Objectives: Secure foothold at the laboratory and obseratory. Maintain security until the laboratory technicians have had time to complete harvesting and testing the possible vaccination materials."
+  }
+}

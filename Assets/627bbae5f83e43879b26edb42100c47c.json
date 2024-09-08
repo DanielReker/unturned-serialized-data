@@ -1,0 +1,31 @@
+{
+  "name": "Metro_Dorms_04_Clothes",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Dorms_04_Clothes/Metro_Dorms_04_Clothes.dat",
+  "data": {
+    "GUID": "627bbae5f83e43879b26edb42100c47c",
+    "Type": "Spawn",
+    "ID": "57158",
+    "Tables": "10",
+    "Table_0_Asset_ID": "57006",
+    "Table_0_Weight": "50",
+    "Table_1_Asset_ID": "57007",
+    "Table_1_Weight": "50",
+    "Table_2_Asset_ID": "57008",
+    "Table_2_Weight": "50",
+    "Table_3_Asset_ID": "57009",
+    "Table_3_Weight": "20",
+    "Table_4_Asset_ID": "57010",
+    "Table_4_Weight": "20",
+    "Table_5_Asset_ID": "57012",
+    "Table_5_Weight": "20",
+    "Table_6_Asset_ID": "57213",
+    "Table_6_Weight": "10",
+    "Table_7_Asset_ID": "57011",
+    "Table_7_Weight": "5",
+    "Table_8_Asset_ID": "57020",
+    "Table_8_Weight": "5",
+    "Table_9_Asset_ID": "57308",
+    "Table_9_Weight": "5"
+  },
+  "translation": null
+}

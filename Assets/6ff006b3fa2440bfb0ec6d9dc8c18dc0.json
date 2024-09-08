@@ -1,0 +1,15 @@
+{
+  "name": "PlushRush_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Viola/Viola_02/PlushRush_Completed/Asset.dat",
+  "data": {
+    "GUID": "6ff006b3fa2440bfb0ec6d9dc8c18dc0",
+    "Type": "Dialogue",
+    "ID": "24428",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you! Amber is gonna love these!"
+  }
+}

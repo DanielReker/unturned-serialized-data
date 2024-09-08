@@ -1,0 +1,16 @@
+{
+  "name": "Kira_Question_11",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Kira/Kira_04/Kira_Question_11/Asset.dat",
+  "data": {
+    "GUID": "eb62c4dacb024cf4b090ef333470b865",
+    "Type": "Dialogue",
+    "ID": "24075",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "...There were others. Many lost their lives tragically, others had it coming.",
+    "Response_0": "Good to know!"
+  }
+}

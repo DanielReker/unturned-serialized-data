@@ -1,0 +1,32 @@
+{
+  "name": "PS_Military_Ration",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Military_Ration/PS_Military_Ration.dat",
+  "data": {
+    "GUID": "e67ffef4e25a409a8a60d731521bf1dc",
+    "Type": "Food",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "59059",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.54",
+    "Quality_Min": "100",
+    "Quest_Rewards": "4",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "59046",
+    "Quest_Reward_0_Amount": "1",
+    "Quest_Reward_1_Type": "Item",
+    "Quest_Reward_1_ID": "59056",
+    "Quest_Reward_1_Amount": "1",
+    "Quest_Reward_2_Type": "Item",
+    "Quest_Reward_2_ID": "59045",
+    "Quest_Reward_2_Amount": "1",
+    "Quest_Reward_3_Type": "Hint",
+    "Quest_Reward_3_Text": "Meal Unpacked",
+    "Quest_Reward_3_Duration": "1"
+  },
+  "translation": {
+    "Name": "Military Ration",
+    "Description": "Complete meal preserved in a vacuum seal."
+  }
+}

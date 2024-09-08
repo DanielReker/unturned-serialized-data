@@ -1,0 +1,13 @@
+{
+  "name": "PS_Graffiti_55",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Graffiti_55/PS_Graffiti_55.dat",
+  "data": {
+    "GUID": "12758ee00cdd4a8185de37b9fea57cdf",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60005"
+  },
+  "translation": {
+    "Name": "PS Graffiti #56 [Moon]"
+  }
+}

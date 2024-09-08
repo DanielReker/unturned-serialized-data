@@ -1,0 +1,20 @@
+{
+  "name": "PS_A_Hospital_Beds_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/Material_Palettes/PS_A_Hospital_Beds_0.asset",
+  "data": {
+    "GUID": "31292a5735414662a72dec47f44dda80",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/Hospital_Beds/Hospital_Bed_0.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/Hospital_Beds/Hospital_Bed_1.mat"
+      }
+    ]
+  },
+  "translation": null
+}

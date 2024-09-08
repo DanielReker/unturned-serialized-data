@@ -1,0 +1,33 @@
+{
+  "name": "Terrya_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/02/Terrya_02/Asset.dat",
+  "data": {
+    "GUID": "77d6dd451fd642a4a6e19cb9a1bf8923",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "4b5340d8442147ddb43a3ee421876964",
+    "Shirt": "885ef191c16f4455b9e12dfa54cf19fa",
+    "Has_Christmas_Outfit": "True",
+    "Christmas_Shirt": "9a16f0add9f54f2283dccc2d316ae7aa",
+    "Christmas_Hat": "b6d5d6b58f5c49af8a7836899318aa7e",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Hat": "3dfce76b4b184a5782113b4c4ccbf4c4",
+    "Halloween_Shirt": "885ef191c16f4455b9e12dfa54cf19fa",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "6",
+    "Hair": "4",
+    "Color_Skin": "#F4E6D2",
+    "Color_Hair": "#161616",
+    "Dialogue": "42e59b57a0ab4b01868a0c9992af8d46",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24787",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Terrya_02",
+    "Character": "<color=legendary>Terrya</color>"
+  }
+}

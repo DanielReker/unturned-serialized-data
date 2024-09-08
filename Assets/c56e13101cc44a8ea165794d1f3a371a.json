@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Outlands_Text_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Quests/Kuwait_Outlands/Kuwait_Outlands_Text_0/Kuwait_Outlands_Text_0.dat",
+  "data": {
+    "GUID": "c56e13101cc44a8ea165794d1f3a371a",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5429",
+    "Chart": "Ignore",
+    "GPS": "Ignore"
+  },
+  "translation": {
+    "Name": "Kuwait Final Text #1"
+  }
+}

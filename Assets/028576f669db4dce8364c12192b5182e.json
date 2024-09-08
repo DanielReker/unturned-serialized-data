@@ -1,0 +1,12 @@
+{
+  "name": "IR_Drop_Ship_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Vehicle/IR_Drop_Ship_1/IR_Drop_Ship_1.dat",
+  "data": {
+    "GUID": "028576f669db4dce8364c12192b5182e",
+    "Type": "Large",
+    "ID": "17124"
+  },
+  "translation": {
+    "Name": "Irish Drop Ship# 1"
+  }
+}

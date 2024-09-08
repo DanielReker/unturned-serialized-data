@@ -1,0 +1,12 @@
+{
+  "name": "Shelf",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Shelf/Shelf.dat",
+  "data": {
+    "GUID": "0120d19051344acfa904d0459ace571f",
+    "Type": "Medium",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Shelf Military"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Metro_Present_Placed_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Snowy/Metro_Present_Placed_0/Metro_Present_Placed_0.dat",
+  "data": {
+    "GUID": "b98b1d14bb784480bff06e617cd9ed86",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57931",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57351",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "57335",
+    "Condition_1_Value": "True",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": "",
+    "Master_Bundle_Override": "metro.masterbundle",
+    "Bundle_Override_Path": "/Objects/Quest/NPC/Snowy/Metro_Present_0_Placed"
+  },
+  "translation": {
+    "Name": "Metro Snowy Present [Placed #1]"
+  }
+}

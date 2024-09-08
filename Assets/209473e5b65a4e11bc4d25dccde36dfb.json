@@ -1,0 +1,13 @@
+{
+  "name": "BE Apartment #3 Wood",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Apartment #3 Wood/BE Apartment #3 Wood.dat",
+  "data": {
+    "GUID": "209473e5b65a4e11bc4d25dccde36dfb",
+    "Type": "Large",
+    "ID": "9008",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Apartment #3 Wood"
+  }
+}

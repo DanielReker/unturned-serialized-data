@@ -1,0 +1,14 @@
+{
+  "name": "PS_Bunker_Prop_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Bunker_Prop_7/PS_Bunker_Prop_7.dat",
+  "data": {
+    "GUID": "ef15b4062dbc4bbf96937a967bc8a086",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59972",
+    "Material_Palette": "e41140f8622042fdae4dffba01cdbc79"
+  },
+  "translation": {
+    "Name": "PS Bunker Prop #8"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Kuwait_Flare_Explosion",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Effects/Explosions/Kuwait_Flare_Explosion/Kuwait_Flare_Explosion.dat",
+  "data": {
+    "GUID": "1285d113e0d54e758a310395cffe87c8",
+    "Type": "Effect",
+    "ID": "5280",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": null
+}

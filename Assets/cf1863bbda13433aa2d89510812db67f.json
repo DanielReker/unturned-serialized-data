@@ -1,0 +1,18 @@
+{
+  "name": "Bunker_2",
+  "path": "Bundles/Objects/Large/Buildings/Bunker_2/Bunker_2.dat",
+  "data": {
+    "GUID": "cf1863bbda13433aa2d89510812db67f",
+    "Type": "Large",
+    "ID": "601",
+    "LOD": "Mesh",
+    "LOD_Bias": "2",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Collision_Important": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Bunker #3"
+  }
+}

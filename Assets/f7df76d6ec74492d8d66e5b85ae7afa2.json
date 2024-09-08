@@ -1,0 +1,12 @@
+{
+  "name": "PS_Tank_Loading",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Other/PS_Tank_Loading/PS_Tank_Loading.dat",
+  "data": {
+    "GUID": "f7df76d6ec74492d8d66e5b85ae7afa2",
+    "Type": "Effect",
+    "ID": "59093",
+    "Relevant_Distance": "32",
+    "Spawn_On_Dedicated_Server": ""
+  },
+  "translation": null
+}

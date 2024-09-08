@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Police_Low",
+    "tableID": 546,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.392156869,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Police_High",
+    "tableID": 548,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Military_Low",
+    "tableID": 550,
+    "tiers": [],
+    "color": {
+      "r": 0.784313738,
+      "g": 0.784313738,
+      "b": 0.392156869
+    }
+  },
+  {
+    "name": "Military_High",
+    "tableID": 552,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Special_Low",
+    "tableID": 554,
+    "tiers": [],
+    "color": {
+      "r": 0.196078435,
+      "g": 0.196078435,
+      "b": 0.196078435
+    }
+  },
+  {
+    "name": "Special_High",
+    "tableID": 556,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Fire",
+    "tableID": 558,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Medic",
+    "tableID": 559,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "School",
+    "tableID": 560,
+    "tiers": [],
+    "color": {
+      "r": 0.490196079,
+      "g": 0.5882353,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Food",
+    "tableID": 561,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.392156869,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Gas",
+    "tableID": 562,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.6862745,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Construction",
+    "tableID": 563,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.490196079,
+      "b": 0.09803922
+    }
+  },
+  {
+    "name": "Camp",
+    "tableID": 564,
+    "tiers": [],
+    "color": {
+      "r": 0.196078435,
+      "g": 0.392156869,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Prison",
+    "tableID": 565,
+    "tiers": [],
+    "color": {
+      "r": 0.5882353,
+      "g": 0.5882353,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Chef",
+    "tableID": 566,
+    "tiers": [],
+    "color": {
+      "r": 0.294117659,
+      "g": 0.09803922,
+      "b": 0.294117659
+    }
+  },
+  {
+    "name": "Botanist",
+    "tableID": 567,
+    "tiers": [],
+    "color": {
+      "r": 0.196078435,
+      "g": 0.392156869,
+      "b": 0.196078435
+    }
+  },
+  {
+    "name": "Farm",
+    "tableID": 568,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.196078435,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Militia_Russia",
+    "tableID": 569,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Guns_Russia",
+    "tableID": 571,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.392156869,
+      "b": 0.392156869
+    }
+  },
+  {
+    "name": "Kitchen",
+    "tableID": 573,
+    "tiers": [],
+    "color": {
+      "r": 0.196078435,
+      "g": 0.294117659,
+      "b": 0.392156869
+    }
+  },
+  {
+    "name": "Post",
+    "tableID": 574,
+    "tiers": [],
+    "color": {
+      "r": 0.6862745,
+      "g": 0.392156869,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Civilian_Russia",
+    "tableID": 575,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Doughnut",
+    "tableID": 577,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.0,
+      "b": 0.392156869
+    }
+  },
+  {
+    "name": "Pizza",
+    "tableID": 578,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Mafia",
+    "tableID": 579,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.784313738,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Airport",
+    "tableID": 581,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.0,
+      "b": 0.784313738
+    }
+  },
+  {
+    "name": "Mine",
+    "tableID": 583,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.490196079,
+      "b": 0.784313738
+    }
+  },
+  {
+    "name": "Beach",
+    "tableID": 585,
+    "tiers": [],
+    "color": {
+      "r": 0.784313738,
+      "g": 0.294117659,
+      "b": 0.196078435
+    }
+  },
+  {
+    "name": "Cloth",
+    "tableID": 262,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.490196079,
+      "b": 0.294117659
+    }
+  },
+  {
+    "name": "Sports",
+    "tableID": 672,
+    "tiers": [],
+    "color": {
+      "r": 0.58431375,
+      "g": 0.0,
+      "b": 0.2
+    }
+  }
+]

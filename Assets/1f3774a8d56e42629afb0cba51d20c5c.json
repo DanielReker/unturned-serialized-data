@@ -1,0 +1,12 @@
+{
+  "name": "IR_Asylum_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Asylum_1/IR_Asylum_1.dat",
+  "data": {
+    "GUID": "1f3774a8d56e42629afb0cba51d20c5c",
+    "Type": "Large",
+    "ID": "17110"
+  },
+  "translation": {
+    "Name": "Irish Asylum# 1"
+  }
+}

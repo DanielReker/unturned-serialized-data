@@ -1,0 +1,27 @@
+{
+  "name": "Disposable_Camera",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Tools/Disposable_Camera/Disposable_Camera.dat",
+  "data": {
+    "GUID": "797fd290d7494ed3a8926b768e308eb9",
+    "Type": "Throwable",
+    "Rarity": "Rare",
+    "Useable": "Throwable",
+    "ID": "25414",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Use_Auto_Icon_Measurements": "False",
+    "Flash": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "25414",
+    "Blueprint_0_Product": "25359",
+    "Blueprint_0_Products": "6",
+    "Blueprint_0_Build": "25520",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Disposable Camera",
+    "Description": "Expensive film grade throwable device for disorienting senses."
+  }
+}

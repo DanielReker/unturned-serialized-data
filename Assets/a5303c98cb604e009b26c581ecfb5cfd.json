@@ -1,0 +1,40 @@
+{
+  "name": "Worn_Biker_Jacket_Brown",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Tops/Biker_Jackets/Worn/Worn_Biker_Jacket_Brown/Worn_Biker_Jacket_Brown.dat",
+  "data": {
+    "GUID": "a5303c98cb604e009b26c581ecfb5cfd",
+    "Rarity": "Rare",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "26585",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "4",
+    "Height": "2",
+    "Armor": "1",
+    "WearAudio": "Sounds/Clothes/Zipper.asset",
+    "Actions": "2",
+    "Action_1_Type": "Blueprint",
+    "Action_1_Source": "26584",
+    "Action_1_Blueprints": "1",
+    "Action_1_Blueprint_0_Index": "2",
+    "Action_1_Text": "Stitch up ",
+    "Action_1_Tooltip": "Sew up any holes with a sewing kit.",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Key": "Salvage",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26585",
+    "Blueprint_0_Product": "25300",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "25535",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Worn Brown Biker Jacket",
+    "Description": "A biker jacket that needs some stitching up, there's holes in the pockets!"
+  }
+}

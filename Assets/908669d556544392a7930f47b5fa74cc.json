@@ -1,0 +1,13 @@
+{
+  "name": "Peaks_Military_Peaks_Heli",
+  "path": "Bundles/Spawns/Vehicles/Peaks_Military_Peaks_Heli/Peaks_Military_Peaks_Heli.dat",
+  "data": {
+    "GUID": "908669d556544392a7930f47b5fa74cc",
+    "Type": "Spawn",
+    "ID": "732",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "733",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

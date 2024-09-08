@@ -1,0 +1,16 @@
+{
+  "name": "ILE",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Decals/ILE/ILE.dat",
+  "data": {
+    "GUID": "3c7e194f412e47f48dfdac8fcc9d2f66",
+    "Type": "Decal",
+    "ID": "51037",
+    "Decal_X": "6",
+    "Decal_Y": "6",
+    "Decal_LOD_Bias": "1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Decal ILE"
+  }
+}

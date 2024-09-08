@@ -1,0 +1,14 @@
+{
+  "name": "29462KBVC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29460KBD/29462KBVC/Asset.dat",
+  "data": {
+    "GUID": "ec37c74f1cdd4b75a823aa5dda98d3c5",
+    "Type": "Dialogue",
+    "ID": "29462",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Careful out there <name_char>!"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Black Box",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Black Box/Black Box.dat",
+  "data": {
+    "GUID": "90ec131d0c7b475f88d9bfb9b5545330",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Black Box"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Watertower_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_Watertower_00/Buak_Watertower_00.dat",
+  "data": {
+    "GUID": "b597452d559744c2ad4141e07dc36e24",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Watertower_00"
+  }
+}

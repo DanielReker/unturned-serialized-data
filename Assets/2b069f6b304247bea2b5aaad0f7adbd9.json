@@ -1,0 +1,11 @@
+{
+  "name": "Jersey_PrideProgress",
+  "path": "Bundles/Items/Shirts/Jersey_PrideProgress/Jersey_PrideProgress.dat",
+  "data": {
+    "GUID": "2b069f6b304247bea2b5aaad0f7adbd9",
+    "Type": "Shirt",
+    "Ignore_Hand": "",
+    "Pro": ""
+  },
+  "translation": null
+}

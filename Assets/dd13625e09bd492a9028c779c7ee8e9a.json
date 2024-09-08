@@ -1,0 +1,15 @@
+{
+  "name": "28702KBQA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/2/D/28701KB3D/28702KBQA/Asset.dat",
+  "data": {
+    "GUID": "dd13625e09bd492a9028c779c7ee8e9a",
+    "Type": "Dialogue",
+    "ID": "28702",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "28701"
+  },
+  "translation": {
+    "Message_0_Page_0": "Be careful!"
+  }
+}

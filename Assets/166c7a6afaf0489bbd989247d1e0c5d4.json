@@ -1,0 +1,16 @@
+{
+  "name": "Necromancer_Mask",
+  "path": "Bundles/Items/Masks/Necromancer_Mask/Necromancer_Mask.dat",
+  "data": {
+    "GUID": "166c7a6afaf0489bbd989247d1e0c5d4",
+    "Type": "Mask",
+    "ID": "737",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Hair": "",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

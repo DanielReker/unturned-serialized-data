@@ -1,0 +1,23 @@
+{
+  "name": "PS_Marking_Flare_Placed_17",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Quest_Objects/PS_Marking_Flare_Placed_17/PS_Marking_Flare_Placed_17.dat",
+  "data": {
+    "GUID": "9e6ff10b9bb245dd93f18e9dd4ebb761",
+    "Type": "Small",
+    "ID": "60177",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "59101",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "59099",
+    "Condition_1_Value": "True",
+    "Condition_1_Logic": "Equal",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Smol/PS_Marking_Flare_0"
+  },
+  "translation": {
+    "Name": "PS Marking Flare Placed [Cloth #1 #2]"
+  }
+}

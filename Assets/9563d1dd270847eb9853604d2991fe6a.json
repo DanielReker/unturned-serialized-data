@@ -1,0 +1,13 @@
+{
+  "name": "Brazil_Carepackage_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Carepackage/Brazil_Carepackage_Brazil/Brazil_Carepackage_Brazil.dat",
+  "data": {
+    "GUID": "9563d1dd270847eb9853604d2991fe6a",
+    "Type": "Spawn",
+    "ID": "5085",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5084",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

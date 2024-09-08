@@ -1,0 +1,16 @@
+{
+  "name": "Median_Services",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Roads/Median/Median_Services/Median_Services.dat",
+  "data": {
+    "GUID": "74d83759d6524e40b9eaf2547402db80",
+    "Type": "Large",
+    "ID": "35016",
+    "Soft": "",
+    "Chart": "Street",
+    "Collision_Important": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Median Services"
+  }
+}

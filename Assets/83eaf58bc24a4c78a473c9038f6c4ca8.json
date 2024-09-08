@@ -1,0 +1,36 @@
+{
+  "name": "Metro_Guy_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Metro_Guy_0/Metro_Guy_0.dat",
+  "data": {
+    "GUID": "83eaf58bc24a4c78a473c9038f6c4ca8",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57631",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "57102",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "58000",
+    "Interactability_Reward_0_Value": "True",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "58000",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "58100",
+    "Condition_1_Value": "True",
+    "Condition_1_Logic": "Equal",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Metro Final #1 [Hello]",
+    "Interact": "Hello... ? [{0}]",
+    "Interactability_Condition_1": "Sacrifice a <color=#C832FA>Horde Beacon</color> at the Town"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "IR_School_Classic",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_School_Classic/IR_School_Classic.dat",
+  "data": {
+    "GUID": "1a80b8a9b079464cb8221dec6530b963",
+    "Type": "Large",
+    "ID": "17046",
+    "Material_Palette": "87aba6cecf1c40788e98ab17a1c38783",
+    "Bundle_Override_Path": "/Objects/Large/Buildings/IR_School_1"
+  },
+  "translation": {
+    "Name": "Irish School#1 ( Classic )"
+  }
+}

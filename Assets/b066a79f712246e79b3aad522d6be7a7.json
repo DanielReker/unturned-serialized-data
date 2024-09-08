@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Vending_Cola",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Vending_Cola/Buak_Vending_Cola.dat",
+  "data": {
+    "GUID": "b066a79f712246e79b3aad522d6be7a7",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Dropper",
+    "Interactability_Delay": "240",
+    "Interactability_Hint": "Use",
+    "Interactability_Reward_ID": "25318"
+  },
+  "translation": {
+    "Name": "Buak_Vending_Cola",
+    "Description": "Alternatively powered."
+  }
+}

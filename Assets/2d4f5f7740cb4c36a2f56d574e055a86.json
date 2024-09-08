@@ -1,0 +1,14 @@
+{
+  "name": "Combatia",
+  "path": "Bundles/Skins/Schofield/Combatia/Combatia.dat",
+  "data": {
+    "GUID": "2d4f5f7740cb4c36a2f56d574e055a86",
+    "Type": "Skin",
+    "ID": "202",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": ""
+  },
+  "translation": null
+}

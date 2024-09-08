@@ -1,0 +1,26 @@
+{
+  "name": "Military_Mechanic_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Mechanic_1/Asset.dat",
+  "data": {
+    "GUID": "c46a56195c62440d867ea0a21f79ab4e",
+    "Type": "NPC",
+    "ID": "3596",
+    "Shirt": "405",
+    "Pants": "406",
+    "Mask": "1446",
+    "Glasses": "568",
+    "Face": "29",
+    "Hair": "18",
+    "Beard": "0",
+    "Color_Skin": "#94764B",
+    "Color_Hair": "#191919",
+    "Secondary": "76",
+    "Equipped": "Secondary",
+    "Pose": "Crouch",
+    "Dialogue": "6200"
+  },
+  "translation": {
+    "Name": "Greek Military Mechanic Peterson",
+    "Character": "<color=rare>Mechanic Peterson</color>"
+  }
+}

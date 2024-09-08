@@ -1,0 +1,17 @@
+{
+  "name": "Rio_Bridge_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Bridge_4/Rio_Bridge_4.dat",
+  "data": {
+    "GUID": "b219af53fff44899a00c16cde7a2b0f7",
+    "Type": "Large",
+    "ID": "6043",
+    "Snowshoe": "",
+    "Soft": "",
+    "Chart": "Highway",
+    "Collision_Important": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Bridge #3"
+  }
+}

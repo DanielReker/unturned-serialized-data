@@ -1,0 +1,16 @@
+{
+  "name": "PaintingScreenshot",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingScreenshot/PaintingScreenshot.dat",
+  "data": {
+    "GUID": "ca7ba4b1ad1d42feab3ee4664048dd5f",
+    "Type": "Spawn",
+    "ID": "51243",
+    "Tables": [
+      {
+        "Guid": "fba45ec7312f41c1874488931570631b",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

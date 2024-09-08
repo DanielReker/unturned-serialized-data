@@ -1,0 +1,41 @@
+{
+  "name": "Seed_Carrot",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Tools/Seed_Carrot/Seed_Carrot.dat",
+  "data": {
+    "GUID": "0e2c9a400145477697427707eccca84b",
+    "Type": "Farm",
+    "Rarity": "Common",
+    "Useable": "Barricade",
+    "Build": "Farm",
+    "ID": "25418",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.24",
+    "Use_Auto_Icon_Measurements": "False",
+    "Has_Clip_Prefab": "false",
+    "Unrepairable": "",
+    "Salvage_Duration_Multiplier": ".3",
+    "Bypass_Pickup_Ownership": "True",
+    "Health": "4",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "0.375",
+    "Growth": "12000",
+    "Grow_SpawnTable": "cde6096bf0794753bd8d7e3d082a0bbc",
+    "Explosion": "25358",
+    "Vulnerable": "",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "25747",
+    "Blueprint_0_Build": "25530",
+    "Blueprint_1_Type": "Utilities",
+    "Blueprint_1_Supply_0_ID": "25748",
+    "Blueprint_1_Build": "25530",
+    "PlacementAudioClip": "Sounds/Placement/FoliagePlacement.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Carrot Seed",
+    "Description": "Ready for planting and growing. Watching it grow probably won't improve your eyesight."
+  }
+}

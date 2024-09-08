@@ -1,0 +1,15 @@
+{
+  "name": "Civilian_Brazil_BB_Guns_J",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Civilian_Brazil_BB_Guns_J/Civilian_Brazil_BB_Guns_J.dat",
+  "data": {
+    "GUID": "8a76e0f272aa489bbc8fa05b5ec08661",
+    "Type": "Spawn",
+    "ID": "5092",
+    "Tables": "2",
+    "Table_0_Asset_ID": "8080",
+    "Table_0_Weight": "75",
+    "Table_1_Asset_ID": "8079",
+    "Table_1_Weight": "25"
+  },
+  "translation": null
+}

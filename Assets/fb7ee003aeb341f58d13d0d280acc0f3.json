@@ -1,0 +1,27 @@
+{
+  "name": "Kuwait_Cross_Scope",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Sights/Kuwait_Cross_Scope/Kuwait_Cross_Scope.dat",
+  "data": {
+    "GUID": "fb7ee003aeb341f58d13d0d280acc0f3",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "ID": "5069",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Spread": "0.8",
+    "Zoom": "6",
+    "Paintable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "5069",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Cross Scope",
+    "Description": "<color=#FF69B4>6x Zoom</color><br><color=#FF69B4>+20% Accuracy Aiming</color>"
+  }
+}

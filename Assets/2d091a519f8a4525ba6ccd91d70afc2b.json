@@ -1,0 +1,15 @@
+{
+  "name": "Metro_Dorms_03_Guns",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Dorms_03_Guns/Metro_Dorms_03_Guns.dat",
+  "data": {
+    "GUID": "2d091a519f8a4525ba6ccd91d70afc2b",
+    "Type": "Spawn",
+    "ID": "57157",
+    "Tables": "2",
+    "Table_0_Spawn_ID": "57053",
+    "Table_0_Weight": "95",
+    "Table_1_Asset_ID": "57577",
+    "Table_1_Weight": "5"
+  },
+  "translation": null
+}

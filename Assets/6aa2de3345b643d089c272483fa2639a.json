@@ -1,0 +1,16 @@
+{
+  "name": "PS_Boulder_14",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Boulder_14/PS_Boulder_14.dat",
+  "data": {
+    "GUID": "6aa2de3345b643d089c272483fa2639a",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59854",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground"
+  },
+  "translation": {
+    "Name": "PS Boulder #15 [Hole]"
+  }
+}

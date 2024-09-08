@@ -1,0 +1,16 @@
+{
+  "name": "Boulder1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Assets/Material_Palettes/Boulder1.asset",
+  "data": {
+    "GUID": "d55d84beccb449ffafc426d40ab5d2ae",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "easterisland.masterbundle",
+        "Path": "Assets/Material_Pallets/boulder0/stone1.mat"
+      }
+    ]
+  },
+  "translation": null
+}

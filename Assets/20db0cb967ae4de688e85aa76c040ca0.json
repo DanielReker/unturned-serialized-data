@@ -1,0 +1,18 @@
+{
+  "name": "Basketball_0",
+  "path": "Bundles/Objects/Medium/Parks/Basketball_0/Basketball_0.dat",
+  "data": {
+    "GUID": "20db0cb967ae4de688e85aa76c040ca0",
+    "Type": "Medium",
+    "ID": "934",
+    "Chart": "Ignore",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "275",
+    "Rubble_Effect": "72",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Basketball #1"
+  }
+}

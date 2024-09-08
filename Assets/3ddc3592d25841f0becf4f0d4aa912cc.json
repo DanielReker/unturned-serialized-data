@@ -1,0 +1,16 @@
+{
+  "name": "CA_Chair_19",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Chair_19/CA_Chair_19.dat",
+  "data": {
+    "GUID": "3ddc3592d25841f0becf4f0d4aa912cc",
+    "Type": "Medium",
+    "ID": "4442",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "120",
+    "Interactability_Health": "25",
+    "Interactability_Effect": "72"
+  },
+  "translation": {
+    "Name": "California Chair #20"
+  }
+}

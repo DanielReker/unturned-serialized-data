@@ -1,0 +1,17 @@
+{
+  "name": "Ice_0",
+  "path": "Bundles/Objects/Medium/Parks/Ice_0/Ice_0.dat",
+  "data": {
+    "GUID": "7f8696ce80214d3ebb1e0287fbc3a8ac",
+    "Type": "Medium",
+    "ID": "197",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Water",
+    "Collision_Important": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Ice #1"
+  }
+}

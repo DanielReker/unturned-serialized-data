@@ -1,0 +1,16 @@
+{
+  "name": "Recruit_Story_Judas",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IDF/Recruit_Judas/Recruit_Story_Judas/Asset.dat",
+  "data": {
+    "GUID": "abe17938a3b7431ea0632196a8609489",
+    "Type": "Dialogue",
+    "ID": "15171",
+    "Messages": "1",
+    "Message_0_Pages": "3"
+  },
+  "translation": {
+    "Message_0_Page_0": "I joined the military because I wanted to go to college. Funny now, huh?",
+    "Message_0_Page_1": "When Moneypoint had its meltdown, we got the heck out of there and onto Fort Aileen. According to the docs I'm fine. Pretty sure I'm not growing a third hand.",
+    "Message_0_Page_2": "We haven't done a military operation in a few weeks. I'm usually assigned to Turbine Maintainment, but someone else took that position, so I get a few days off."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Buak_Bee",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Animals/Buak_Bee/Buak_Bee.dat",
+  "data": {
+    "GUID": "90504d26c6404290999fe86bf8153306",
+    "Type": "Animal",
+    "ID": "25302",
+    "Speed_Run": ".8",
+    "Speed_Walk": ".1",
+    "Behaviour": "Ignore",
+    "Health": "20",
+    "Reward_ID": "25335",
+    "Reward_Min": "0",
+    "Reward_Max": "1",
+    "Reward_XP": "1",
+    "Panics": "1"
+  },
+  "translation": {
+    "Name": "Buak_Bee"
+  }
+}

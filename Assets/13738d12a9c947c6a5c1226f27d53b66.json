@@ -1,0 +1,16 @@
+{
+  "name": "Easter_Tent_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Buildings/Easter_Tent_0/Easter_Tent_0.dat",
+  "data": {
+    "GUID": "13738d12a9c947c6a5c1226f27d53b66",
+    "Type": "Large",
+    "ID": "6679",
+    "LOD": "Area",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Tent #1"
+  }
+}

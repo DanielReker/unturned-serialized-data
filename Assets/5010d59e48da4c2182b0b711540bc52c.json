@@ -1,0 +1,21 @@
+{
+  "name": "Cryo-Remix",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Music/Cryo-Remix/Cryo-Remix.asset",
+  "data": {
+    "GUID": "5010d59e48da4c2182b0b711540bc52c",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Title": {
+      "Namespace": "SDG",
+      "Token": "Stereo_Songs.Cryo1.Title"
+    },
+    "Song": {
+      "MasterBundle": "frost.masterbundle",
+      "AssetPath": "F_soundtrack10.wav"
+    },
+    "Link_URL": "https://www.youtube.com/watch?v=p9rU1A2cELs"
+  },
+  "translation": {
+    "Name": "Cryophobia - Remix"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Adrenaline",
+  "path": "Bundles/Items/Medical/Adrenaline/Adrenaline.dat",
+  "data": {
+    "GUID": "221fbf175e594e68892dede8dbd93aa8",
+    "Type": "Medical",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "387",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Aid": "",
+    "Virus": "5",
+    "Energy": "100"
+  },
+  "translation": {
+    "Name": "Adrenaline",
+    "Description": "Suspicious concoction capable of increasing energy."
+  }
+}

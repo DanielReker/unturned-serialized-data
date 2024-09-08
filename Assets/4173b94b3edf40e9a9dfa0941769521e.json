@@ -1,0 +1,26 @@
+{
+  "name": "TKRFIRE",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/TKRFIRE/TKRFIRE.dat",
+  "data": {
+    "GUID": "4173b94b3edf40e9a9dfa0941769521e",
+    "Type": "Barricade",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Campfire",
+    "ID": "51693",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.45",
+    "Health": "500",
+    "Range": "4",
+    "Radius": "0.5",
+    "Offset": "0.55",
+    "Explosion": "36",
+    "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "TKRFIRE",
+    "Description": "you shouldnt have this"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Vengeance_Shirt",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Vengeance_Shirt/Vengeance_Shirt.dat",
+  "data": {
+    "GUID": "827ee5a361f1421488d7a975a717ce4b",
+    "Rarity": "Uncommon",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "27027",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "8",
+    "Height": "4",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Vengeance_Shirt",
+    "Description": "NPC Shirt."
+  }
+}

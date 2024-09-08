@@ -1,0 +1,23 @@
+{
+  "name": "Metro_J_Cloth_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_J_Cloth_0/Metro_J_Cloth_0.dat",
+  "data": {
+    "GUID": "004cf982587a45938ca04422e0c53209",
+    "Type": "Supply",
+    "ID": "57100",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.75",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "57100",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Cloth J",
+    "Description": "Lowercase j. Can be turned into <color=#ffffff>Cloth</color>."
+  }
+}

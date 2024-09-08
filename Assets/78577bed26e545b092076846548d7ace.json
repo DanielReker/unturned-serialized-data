@@ -1,0 +1,18 @@
+{
+  "name": "Elver2_Obsidian",
+  "path": "Bundles/Skins/Nightraider/Elver2_Obsidian/Elver2_Obsidian.dat",
+  "data": {
+    "GUID": "78577bed26e545b092076846548d7ace",
+    "Type": "Skin",
+    "ID": "289",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": "",
+    "Secondary_Skins": "2",
+    "Secondary_0": "123",
+    "Secondary_1": "125"
+  },
+  "translation": null
+}

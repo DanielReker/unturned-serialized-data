@@ -1,0 +1,14 @@
+{
+  "name": "Samurai_Top",
+  "path": "Bundles/Items/Shirts/Samurai_Top/Samurai_Top.dat",
+  "data": {
+    "GUID": "696e26e9e1f44c468b345d18dce338dd",
+    "Type": "Shirt",
+    "ID": "717",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Pro": ""
+  },
+  "translation": null
+}

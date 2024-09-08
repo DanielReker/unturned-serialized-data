@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Bedroll",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Bedroll/PS_Drops_Bedroll.dat",
+  "data": {
+    "GUID": "428be7af70374b028fe9e03778338497",
+    "Type": "Spawn",
+    "ID": "59359",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59218",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

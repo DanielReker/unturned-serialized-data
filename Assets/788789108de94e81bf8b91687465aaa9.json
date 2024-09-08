@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Vines_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Small/Rio_Vines_3/Rio_Vines_3.dat",
+  "data": {
+    "GUID": "788789108de94e81bf8b91687465aaa9",
+    "Type": "Small",
+    "ID": "7010",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Vines #4"
+  }
+}

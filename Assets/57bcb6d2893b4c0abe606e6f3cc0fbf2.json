@@ -1,0 +1,25 @@
+{
+  "name": "GreeceBirch_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Trees/Greece/GreeceBirch_1/GreeceBirch_1.dat",
+  "data": {
+    "GUID": "57bcb6d2893b4c0abe606e6f3cc0fbf2",
+    "Type": "Resource",
+    "ID": "6001",
+    "Health": "800",
+    "Radius": "4",
+    "Scale": "0.3",
+    "Explosion": "21",
+    "Reward_ID": "515",
+    "Reward_XP": "4",
+    "Reward_Min": "7",
+    "Reward_Max": "10",
+    "Reset": "450",
+    "Auto_Skybox": "",
+    "SpeedTree": "",
+    "SpeedTree_Default_LOD_Weights": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Birch #2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Buak_LAB_ELV_1_OFF_ON",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_LAB/Buak_LAB_ELV_1_OFF_ON/Buak_LAB_ELV_1_OFF_ON.dat",
+  "data": {
+    "GUID": "0b8206dffa5a4efb9aa1d6237931dc32",
+    "Type": "Small",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_LAB_ELV_1_OFF_ON"
+  }
+}

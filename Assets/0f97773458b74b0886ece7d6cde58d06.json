@@ -1,0 +1,17 @@
+{
+  "name": "Imran_End Response",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military Soldier Imran/Imran_End Response/Asset.dat",
+  "data": {
+    "GUID": "0f97773458b74b0886ece7d6cde58d06",
+    "Type": "Dialogue",
+    "ID": "9048",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Alright good luck out there in the wilderness!",
+    "Response_0": "Thanks, the same goes for you!",
+    "Response_1": "I need all the luck I can get!"
+  }
+}

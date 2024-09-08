@@ -1,0 +1,14 @@
+{
+  "name": "26281KLYC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26260KLYD/26280KLYC/26281KLYC/Asset.dat",
+  "data": {
+    "GUID": "39de64f386cd4c05a7df2db16c8ca914",
+    "Type": "Dialogue",
+    "ID": "26281",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Here's the stuff you wanted. Gonna go spend the money you gave me now-"
+  }
+}

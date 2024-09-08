@@ -1,0 +1,13 @@
+{
+  "name": "Wheel_5",
+  "path": "Bundles/Objects/Small/Business/Wheel_5/Wheel_5.dat",
+  "data": {
+    "GUID": "b09d6a2ee1a94686b02471cf39a8a2d6",
+    "Type": "Small",
+    "ID": "428",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Wheel #6"
+  }
+}

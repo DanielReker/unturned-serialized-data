@@ -1,0 +1,33 @@
+{
+  "name": "Metro_Wall_Ramp_Pine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Overrides_Structures_Pine/Metro_Wall_Ramp_Pine/Metro_Wall_Ramp_Pine.dat",
+  "data": {
+    "GUID": "32ef9336f103433996d0f62f531859da",
+    "Type": "Structure",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Rare",
+    "Useable": "Structure",
+    "Construct": "Wall",
+    "ID": "57331",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Health": "450",
+    "Range": "8",
+    "Explosion": "29",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "41",
+    "Blueprint_0_Supply_0_Amount": "3",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Elver",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Structures/Wall_Ramp_Pine",
+    "PlacementAudioClip": "Sounds/WoodenPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Pine Ramp Wall",
+    "Description": "<color=#64c819>450</color> Health"
+  }
+}

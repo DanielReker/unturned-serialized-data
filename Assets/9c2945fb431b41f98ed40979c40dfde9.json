@@ -1,0 +1,19 @@
+{
+  "name": "Metro_Seeds",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Seeds/Metro_Seeds.dat",
+  "data": {
+    "GUID": "9c2945fb431b41f98ed40979c40dfde9",
+    "Type": "Spawn",
+    "ID": "57020",
+    "Tables": "4",
+    "Table_0_Asset_ID": "57184",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "57189",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "57195",
+    "Table_2_Weight": "10",
+    "Table_3_Asset_ID": "57201",
+    "Table_3_Weight": "10"
+  },
+  "translation": null
+}

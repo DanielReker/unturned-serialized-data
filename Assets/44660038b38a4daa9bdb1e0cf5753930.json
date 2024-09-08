@@ -1,0 +1,14 @@
+{
+  "name": "PS_Stove_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Stove_1/PS_Stove_1.dat",
+  "data": {
+    "GUID": "44660038b38a4daa9bdb1e0cf5753930",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59070",
+    "Material_Palette": "7e15087180b743c08477a4c206c35018"
+  },
+  "translation": {
+    "Name": "PS Stove #2"
+  }
+}

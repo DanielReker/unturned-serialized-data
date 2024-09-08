@@ -1,0 +1,38 @@
+{
+  "name": "IR_APC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Vehicle/IR_APC/IR_APC.dat",
+  "data": {
+    "GUID": "fed7f55f7fc34dd49c0dab7be1ceffb8",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "ID": "14518",
+    "Speed_Min": "-6",
+    "Speed_Max": "13",
+    "Wheel_Collider_Mass_Override": "5",
+    "Num_Steering_Tires": "4",
+    "Steering_Tire_2": "4",
+    "Steering_Tire_3": "5",
+    "Steer_Min": "16",
+    "Steer_Max": "32",
+    "Brake": "32",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "2500",
+    "Health_Min": "800",
+    "Health_Max": "900",
+    "Health": "1000",
+    "Exit": "3.5",
+    "Passenger_Explosion_Armor": "0.2",
+    "Traction": "",
+    "Trunk_Storage_X": "10",
+    "Trunk_Storage_Y": "20",
+    "Explosion": "20",
+    "Invulnerable": "",
+    "Tires_Invulnerable": "",
+    "Size2_Z": "5",
+    "Material_Palette": "d74fd85851d94fbab279315064b3e292"
+  },
+  "translation": {
+    "Name": "Irish APC"
+  }
+}

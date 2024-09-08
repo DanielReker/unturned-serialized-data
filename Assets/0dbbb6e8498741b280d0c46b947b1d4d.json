@@ -1,0 +1,40 @@
+{
+  "name": "Riot_Vest",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Vests/Riot_Vest/Riot_Vest.dat",
+  "data": {
+    "GUID": "0dbbb6e8498741b280d0c46b947b1d4d",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "51126",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "4",
+    "Height": "2",
+    "Movement_Speed_Multiplier": ".9",
+    "Armor": "0.75",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51126",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "51017",
+    "Blueprint_0_Output_0_Amount": "3",
+    "Blueprint_0_Output_1_ID": "51020",
+    "Blueprint_0_Output_1_Amount": "3",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "2",
+    "Blueprint_1_Supply_0_ID": "51017",
+    "Blueprint_1_Supply_0_Amount": "3",
+    "Blueprint_1_Supply_1_ID": "51020",
+    "Blueprint_1_Supply_1_Amount": "3",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Riot Plate Carrier",
+    "Description": "Vest with little storage but good protection."
+  }
+}

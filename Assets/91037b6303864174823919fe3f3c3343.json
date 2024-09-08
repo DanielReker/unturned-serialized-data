@@ -1,0 +1,14 @@
+{
+  "name": "Scientist_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Scientist_Sarah/Scientist_Completed/Asset.dat",
+  "data": {
+    "GUID": "91037b6303864174823919fe3f3c3343",
+    "Type": "Dialogue",
+    "ID": "2166",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yes! These pictures are exactly what we've been looking for. I bet with some explosive we could get through that door..."
+  }
+}

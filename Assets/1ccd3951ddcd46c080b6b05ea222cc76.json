@@ -1,0 +1,13 @@
+{
+  "name": "Gun_Store_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Gun_Store_0/Gun_Store_0.dat",
+  "data": {
+    "GUID": "1ccd3951ddcd46c080b6b05ea222cc76",
+    "Type": "Large",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Gun Store 1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "France_Airport_France_Plane",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Vehicles/France_Airport_France_Plane/France_Airport_France_Plane.dat",
+  "data": {
+    "GUID": "f3e90b1597f7486d8599423053a297e2",
+    "Type": "Spawn",
+    "ID": "2139",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "2138",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

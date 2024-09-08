@@ -1,0 +1,12 @@
+{
+  "name": "Elver_Cards",
+  "path": "Bundles/Mythics/Elver_Cards/Elver_Cards.dat",
+  "data": {
+    "GUID": "87475498388e4fc6851ad140fd53088e",
+    "Type": "Mythic",
+    "ID": "33"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Decked Out"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ski_Shirt",
+  "path": "Bundles/Items/Outfits/AuroraSkier/Ski_Shirt/Ski_Shirt.dat",
+  "data": {
+    "GUID": "77f71ec3bd15499cb6b3a71df486a76e",
+    "Type": "Shirt",
+    "Pro": ""
+  },
+  "translation": null
+}

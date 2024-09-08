@@ -1,0 +1,14 @@
+{
+  "name": "29533KPC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/2/D/29530KPD/29533KPC/Asset.dat",
+  "data": {
+    "GUID": "7401d73bfbcc4ffeb3c4335d1c9aaa22",
+    "Type": "Dialogue",
+    "ID": "29533",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You've cleared them out? Man, I got to be your friend now!"
+  }
+}

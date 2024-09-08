@@ -1,0 +1,20 @@
+{
+  "name": "Metro_Popper_Flash",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_Popper_Flash/Metro_Popper_Flash.dat",
+  "data": {
+    "GUID": "e9797710fed64abf9e0ed647015fd645",
+    "Type": "Throwable",
+    "Rarity": "Uncommon",
+    "Useable": "Throwable",
+    "ID": "57716",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Flash": "",
+    "Fuse_Length": "0.6"
+  },
+  "translation": {
+    "Name": "Flashy Party Popper",
+    "Description": "<color=#64c819>Flashes</color> Players"
+  }
+}

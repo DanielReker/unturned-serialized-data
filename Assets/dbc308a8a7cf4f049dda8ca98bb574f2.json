@@ -1,0 +1,43 @@
+{
+  "name": "PS_Regen_Stim",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Medical/PS_Regen_Stim/PS_Regen_Stim.dat",
+  "data": {
+    "GUID": "dbc308a8a7cf4f049dda8ca98bb574f2",
+    "Type": "Medical",
+    "Rarity": "Epic",
+    "Useable": "Consumeable",
+    "ID": "59356",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.295",
+    "Virus": "25",
+    "Health": "0",
+    "Equipable_Movement_Speed_Multiplier": "0.8",
+    "Quest_Rewards": "7",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "59670",
+    "Quest_Reward_0_Amount": "1",
+    "Quest_Reward_1_Type": "Hint",
+    "Quest_Reward_1_Text": "Empty Syringe Received",
+    "Quest_Reward_1_Duration": "1",
+    "Quest_Reward_2_Type": "Player_Life_Health",
+    "Quest_Reward_2_Value": "9",
+    "Quest_Reward_2_GrantDelaySeconds": "1",
+    "Quest_Reward_3_Type": "Player_Life_Health",
+    "Quest_Reward_3_Value": "9",
+    "Quest_Reward_3_GrantDelaySeconds": "2",
+    "Quest_Reward_4_Type": "Player_Life_Health",
+    "Quest_Reward_4_Value": "9",
+    "Quest_Reward_4_GrantDelaySeconds": "3",
+    "Quest_Reward_5_Type": "Player_Life_Health",
+    "Quest_Reward_5_Value": "9",
+    "Quest_Reward_5_GrantDelaySeconds": "4",
+    "Quest_Reward_6_Type": "Player_Life_Health",
+    "Quest_Reward_6_Value": "9",
+    "Quest_Reward_6_GrantDelaySeconds": "5"
+  },
+  "translation": {
+    "Name": "Regen Stim",
+    "Description": "<color=#21B427>+45 Health / 5s</color><br><color=#C02E2E>-25 Immunity</color>"
+  }
+}

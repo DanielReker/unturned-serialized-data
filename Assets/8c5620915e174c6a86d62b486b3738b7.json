@@ -1,0 +1,28 @@
+{
+  "name": "Kuwait_Sunken_Ship_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Quests/Kuwait_Sunken_Ship_0/Kuwait_Sunken_Ship_0.dat",
+  "data": {
+    "GUID": "8c5620915e174c6a86d62b486b3738b7",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5379",
+    "Chart": "Ignore",
+    "GPS": "Ignore",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "27265",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "27265",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Kuwait Sunken Ship #1(QUEST)",
+    "Interact": "Salvage Shipwreck [{0}]"
+  }
+}

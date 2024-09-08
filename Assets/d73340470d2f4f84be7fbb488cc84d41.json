@@ -1,0 +1,27 @@
+{
+  "name": "Keytar_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Owen/Owen_02/Keytar_Welcome/Asset.dat",
+  "data": {
+    "GUID": "d73340470d2f4f84be7fbb488cc84d41",
+    "Type": "Dialogue",
+    "ID": "24477",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "5688b6ed822349bcad2fcca0777fc67d",
+    "Response_0_Quest": "fa333547e15d46ce8d437e1d5d718bf9",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "fa333547e15d46ce8d437e1d5d718bf9",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "fa333547e15d46ce8d437e1d5d718bf9"
+  },
+  "translation": {
+    "Message_0_Page_0": "If you're willing, my keytar here needs some new batteries, would you mind keeping an eye out for some?",
+    "Response_0": "Sure thing!",
+    "Response_1": "Not now."
+  }
+}

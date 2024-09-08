@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Q_ADITS_Tire",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_ADITS_Tire/Buak_Q_ADITS_Tire.dat",
+  "data": {
+    "GUID": "70e1a5ec37194ed1a7d9cc418ea68258",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24196",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_Q_ADITS_Tire",
+    "Interact": "Place {0}/{1} {2} [{0}]"
+  }
+}

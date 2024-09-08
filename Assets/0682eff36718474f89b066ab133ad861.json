@@ -1,0 +1,13 @@
+{
+  "name": "PEI_Guns_Canada",
+  "path": "Bundles/Spawns/Items/PEI_Guns_Canada/PEI_Guns_Canada.dat",
+  "data": {
+    "GUID": "0682eff36718474f89b066ab133ad861",
+    "Type": "Spawn",
+    "ID": "239",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "240",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Gas",
+  "path": "Bundles/Spawns/Items/Gas/Gas.dat",
+  "data": {
+    "GUID": "2c29571045f54ffb8b2f24db76cdec03",
+    "Type": "Spawn",
+    "ID": "163",
+    "Tables": [
+      {
+        "LegacySpawnId": "112",
+        "Weight": "80"
+      },
+      {
+        "LegacySpawnId": "164",
+        "Weight": "80"
+      },
+      {
+        "LegacySpawnId": "165",
+        "Weight": "44"
+      },
+      {
+        "LegacySpawnId": "166",
+        "Weight": "14"
+      },
+      {
+        "Guid": "424d1cd228a4493890f3d7f101612447",
+        "Weight": "13"
+      },
+      {
+        "LegacySpawnId": "167",
+        "Weight": "10"
+      }
+    ]
+  },
+  "translation": null
+}

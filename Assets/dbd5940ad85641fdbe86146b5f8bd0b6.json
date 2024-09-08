@@ -1,0 +1,25 @@
+{
+  "name": "Alexey",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Characters/Alexey/Asset.dat",
+  "data": {
+    "GUID": "dbd5940ad85641fdbe86146b5f8bd0b6",
+    "Type": "NPC",
+    "ID": "7000",
+    "Hat": "426",
+    "Shirt": "173",
+    "Pants": "2",
+    "Backpack": "23521",
+    "Vest": "23509",
+    "Face": "5",
+    "Hair": "1",
+    "Color_Skin": "#F9E2AC",
+    "Color_Hair": "#F9A811",
+    "Primary": "97",
+    "Equipped": "Primary",
+    "Dialogue": "7900"
+  },
+  "translation": {
+    "Name": "Alexey",
+    "Character": "<color=rare>Alexey</color>"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Police_Sign_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Police_Sign_0/PS_Police_Sign_0.dat",
+  "data": {
+    "GUID": "e98bac956db3425597d7b58f27cf9b8b",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59601"
+  },
+  "translation": {
+    "Name": "PS Police Sign #1"
+  }
+}

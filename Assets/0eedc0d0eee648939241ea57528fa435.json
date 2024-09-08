@@ -1,0 +1,32 @@
+{
+  "name": "Lost_Documents",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Quests/Lost_Documents/Asset.dat",
+  "data": {
+    "GUID": "0eedc0d0eee648939241ea57528fa435",
+    "Type": "Quest",
+    "ID": "4044",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "4055",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "4",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "15",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "25",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "4014",
+    "Reward_2_Value": "1",
+    "Reward_2_Modification": "Increment",
+    "Reward_3_Type": "Flag_Short",
+    "Reward_3_ID": "4038",
+    "Reward_3_Value": "1",
+    "Reward_3_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "<color=legendary>Lost Documents</color>",
+    "Description": "Colonel Jourdon has some important documents that were left behind during his hasty evacuation. Recover them for him.",
+    "Condition_0": "Recover <color=legendary>Documents</color> {0}/1 "
+  }
+}

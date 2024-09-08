@@ -1,0 +1,10 @@
+{
+  "name": "Carepackage",
+  "path": "Bundles/Effects/Explosions/Carepackage/Carepackage.dat",
+  "data": {
+    "GUID": "2c17fbd0f0ce49aeb3bc4637b68809a2",
+    "Type": "Effect",
+    "ID": "120"
+  },
+  "translation": null
+}

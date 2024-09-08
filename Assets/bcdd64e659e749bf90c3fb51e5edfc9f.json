@@ -1,0 +1,22 @@
+{
+  "name": "Owen_Hat_XMAS",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Owen_Hat_XMAS/Owen_Hat_XMAS.dat",
+  "data": {
+    "GUID": "bcdd64e659e749bf90c3fb51e5edfc9f",
+    "Rarity": "Uncommon",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "27060",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Beard": "",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Owen_Hat_XMAS",
+    "Description": "NPC Hat."
+  }
+}

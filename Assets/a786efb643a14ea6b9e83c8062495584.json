@@ -1,0 +1,34 @@
+{
+  "name": "Seed_Potato",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Barricades/Seed_Potato/Seed_Potato.dat",
+  "data": {
+    "GUID": "a786efb643a14ea6b9e83c8062495584",
+    "Type": "Farm",
+    "Useable": "Barricade",
+    "Build": "Farm",
+    "ID": "5265",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Health": "1",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "0.375",
+    "Growth": "10800",
+    "Grow": "5213",
+    "Explosion": "43",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "5213",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Kuwait",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/Seed_Potato",
+    "PlacementAudioClip": "Sounds/FoliagePlacement.mp3"
+  },
+  "translation": {
+    "Name": "Potato Seed",
+    "Description": "Ready for planting and eating.<br><color=#B8B188>3 Hour Growth Time</color>"
+  }
+}

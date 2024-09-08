@@ -1,0 +1,12 @@
+{
+  "name": "Breakfast_Glasses",
+  "path": "Bundles/Items/Outfits/Breakfast/Breakfast_Glasses/Breakfast_Glasses.dat",
+  "data": {
+    "GUID": "ea336f4616a34965b0faa91d1252261a",
+    "Type": "Glasses",
+    "Hair": "",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

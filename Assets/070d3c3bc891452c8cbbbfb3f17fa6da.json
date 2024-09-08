@@ -1,0 +1,12 @@
+{
+  "name": "CA_Cooler_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Cooler_2/CA_Cooler_2.dat",
+  "data": {
+    "GUID": "070d3c3bc891452c8cbbbfb3f17fa6da",
+    "Type": "Medium",
+    "ID": "4422"
+  },
+  "translation": {
+    "Name": "California Cooler #3"
+  }
+}

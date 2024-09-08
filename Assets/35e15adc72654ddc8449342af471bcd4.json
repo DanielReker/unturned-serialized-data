@@ -1,0 +1,21 @@
+{
+  "name": "PS_Trader_8_Lore_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_8_Dialogue/PS_Trader_8_Lore_1/Asset.dat",
+  "data": {
+    "GUID": "35e15adc72654ddc8449342af471bcd4",
+    "Type": "Dialogue",
+    "ID": "59440",
+    "Messages": "1",
+    "Message_0_Pages": "3",
+    "Responses": "2",
+    "Response_0_Dialogue": "59441",
+    "Response_1_Dialogue": "59325"
+  },
+  "translation": {
+    "Message_0_Page_0": "Well..",
+    "Message_0_Page_1": "Why wouldnt I? She's a kind soul.",
+    "Message_0_Page_2": "Yes, a bit irresposnible perhaps, but I know she's got a kind heart.",
+    "Response_0": "...",
+    "Response_1": "Gotcha."
+  }
+}

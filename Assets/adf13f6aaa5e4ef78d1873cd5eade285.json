@@ -1,0 +1,18 @@
+{
+  "name": "Easter_Vines_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Small/Overgrowth/Easter_Vines_6/Easter_Vines_6.dat",
+  "data": {
+    "GUID": "adf13f6aaa5e4ef78d1873cd5eade285",
+    "Type": "Small",
+    "ID": "6689",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "60",
+    "Interactability_Health": "25",
+    "Interactability_Effect": "76",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Vines #7"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Metal_Drops_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Metal_Drops_1/PS_Metal_Drops_1.dat",
+  "data": {
+    "GUID": "82805d3db7464c3bbdd2d8b476f96a1d",
+    "Type": "Spawn",
+    "ID": "59029",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59504",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

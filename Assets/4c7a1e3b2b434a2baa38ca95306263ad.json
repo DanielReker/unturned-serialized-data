@@ -1,0 +1,25 @@
+{
+  "name": "Egg",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Egg/Egg.dat",
+  "data": {
+    "GUID": "4c7a1e3b2b434a2baa38ca95306263ad",
+    "Type": "Food",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "25686",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.16",
+    "Use_Auto_Icon_Measurements": "False",
+    "Food": "20",
+    "Water": "15",
+    "Quality_Min": "60",
+    "Quality_Max": "100",
+    "ConsumeAudioClip": "Sounds/Food/EatSquishy.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Egg",
+    "Description": "Jimmy the egg, not to be confused with Jimmy the rock, or Jimmy the rifle."
+  }
+}

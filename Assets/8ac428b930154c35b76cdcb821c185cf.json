@@ -1,0 +1,14 @@
+{
+  "name": "28952KAH",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28951KAD/28952KAH/Asset.dat",
+  "data": {
+    "GUID": "8ac428b930154c35b76cdcb821c185cf",
+    "Type": "Dialogue",
+    "ID": "28952",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Just waiting for the big one - or maybe some treasure. I've seen the glint of something shiny down in the waters - or the shadow of a fish, perhaps maybe you can get those? I'll buy that sort of thing off you."
+  }
+}

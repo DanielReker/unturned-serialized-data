@@ -1,0 +1,17 @@
+{
+  "name": "PS_Floodlight_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Floodlight_0/PS_Floodlight_0.dat",
+  "data": {
+    "GUID": "56a5c34893294a1b811b3f9b38f40cab",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59644",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "600",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "59006"
+  },
+  "translation": {
+    "Name": "PS Floodlight #1 [OFF]"
+  }
+}

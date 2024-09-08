@@ -1,0 +1,22 @@
+{
+  "name": "Easter_Head_11_Used",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Moai/Easter_Head_11_Used/Easter_Head_11_Used.dat",
+  "data": {
+    "GUID": "f84e77e4fba2487cba70e0e8d5c8a6d5",
+    "Type": "Large",
+    "ID": "6821",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "245",
+    "Condition_0_Value": "2",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Snowshoe": "",
+    "Landmark_Quality": "High",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Head #12 [USED]"
+  }
+}

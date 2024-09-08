@@ -1,0 +1,13 @@
+{
+  "name": "CA_Apartment_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Apartment_1/CA_Apartment_1.dat",
+  "data": {
+    "GUID": "e361eb48451840ea809e2a7a17ee84fa",
+    "Type": "Large",
+    "ID": "4241",
+    "Material_Palette": "3987063d60df43e2ac4ca66fe91880f1"
+  },
+  "translation": {
+    "Name": "California Apartment #2"
+  }
+}

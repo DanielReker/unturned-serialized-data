@@ -1,0 +1,14 @@
+{
+  "name": "Pilot_Valentines_Note",
+  "path": "Bundles/NPCs/Dialogues/Pilot/Pilot_Valentines_Note/Asset.dat",
+  "data": {
+    "GUID": "fe7b10698df84a608abc174591d7c7c2",
+    "Type": "Dialogue",
+    "ID": "235",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh interesting let's see...<pause> There's another note in here addressed to <color=legendary>Captain Sydney</color>!"
+  }
+}

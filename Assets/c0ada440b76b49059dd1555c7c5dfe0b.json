@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Fence_00_Door",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Fences/Buak_Fence_00_Door/Buak_Fence_00_Door.dat",
+  "data": {
+    "GUID": "c0ada440b76b49059dd1555c7c5dfe0b",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Fence_00_Door"
+  }
+}

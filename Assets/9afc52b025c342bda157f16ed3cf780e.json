@@ -1,0 +1,21 @@
+{
+  "name": "Rainwrights_Prophecy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Music/Rainwrights_Prophecy/Rainwrights_Prophecy.asset",
+  "data": {
+    "GUID": "9afc52b025c342bda157f16ed3cf780e",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Title": {
+      "Namespace": "SDG",
+      "Token": "Stereo_Songs.Rainwright.Title"
+    },
+    "Song": {
+      "MasterBundle": "metro.masterbundle",
+      "AssetPath": "Objects/Quest/NPC/Rainwrights_Prophecy.mp3"
+    },
+    "Link_URL": "https://www.youtube.com/watch?v=tG0547VasNE"
+  },
+  "translation": {
+    "Name": "Rainwright's Prophecy"
+  }
+}

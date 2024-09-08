@@ -1,0 +1,25 @@
+{
+  "name": "Easter_Vehicle_Spraypaint_Vermillin",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Tools/Easter_Vehicle_Spraypaint_Vermillin/Easter_Vehicle_Spraypaint_Vermillin.dat",
+  "data": {
+    "GUID": "f917d10b3bfc4ca08bec1a0a8bd4975f",
+    "Type": "Vehicle_Paint_Tool",
+    "Rarity": "Uncommon",
+    "Useable": "Vehicle_Paint",
+    "ID": "6742",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "UseAudioClip": "core.masterbundle:Sounds/Vehicle_Spraypaint.wav",
+    "PaintColor": "#7A4A50",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supply_0_ID": "6742",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Vermillin Vehicle Spraypaint",
+    "Description": "Refreshes most vehicles with a beautiful new coat of paint."
+  }
+}

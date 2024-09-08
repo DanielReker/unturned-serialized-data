@@ -1,0 +1,35 @@
+{
+  "name": "Metro_Bunk_Bed_Green",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Beds/Metro_Bunk_Bed_Green/Metro_Bunk_Bed_Green.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "9e3997c8766f40feb92039e2906ef971",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Useable": "Barricade",
+    "Build": "Bed",
+    "ID": "57642",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Health": "200",
+    "Range": "4",
+    "Radius": "0.1",
+    "Offset": "0.5",
+    "Explosion": "37",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "57645 ",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "57068         ",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Supply_1_Critical": "",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Green Bunk Bed",
+    "Description": "Sets <color=#64c819>Spawn Point</color>                                                           <color=#64c819>200</color> Health"
+  }
+}

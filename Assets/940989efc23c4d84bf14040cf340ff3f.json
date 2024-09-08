@@ -1,0 +1,13 @@
+{
+  "name": "PS_Offices_Gate_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Offices_Gate_1/PS_Offices_Gate_1.dat",
+  "data": {
+    "GUID": "940989efc23c4d84bf14040cf340ff3f",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60106"
+  },
+  "translation": {
+    "Name": "PS Offices Gate #2"
+  }
+}

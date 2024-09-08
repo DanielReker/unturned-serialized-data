@@ -1,0 +1,17 @@
+{
+  "name": "Kriegs_Iron_Sights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Items/France/Sights/Kriegs_Iron_Sights/Kriegs_Iron_Sights.dat",
+  "data": {
+    "GUID": "51ccee0c1f7a463abcd2eaa249c36510",
+    "Type": "Sight",
+    "ID": "3109",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.08",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Kriegs Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

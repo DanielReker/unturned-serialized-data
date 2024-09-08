@@ -1,0 +1,13 @@
+{
+  "name": "Rula_France_Hyrdro_Bars",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/Rula_France_Hyrdro_Bars/Rula_France_Hyrdro_Bars.dat",
+  "data": {
+    "GUID": "a14f21a0a65c40089f238c37b93cb59f",
+    "Type": "Spawn",
+    "ID": "2170",
+    "Tables": "1",
+    "Table_0_Asset_ID": "3117",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

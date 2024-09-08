@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Nails",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Nails/Drop_Nails.dat",
+  "data": {
+    "GUID": "fb20f86a41d44d4a8b6be6db5d68b7fd",
+    "Type": "Spawn",
+    "ID": "25508",
+    "Tables": [
+      {
+        "Guid": "d07dc3d9f128436396bddd4f11f41a1b",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Harbour",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_Harbour/Buak_Harbour.dat",
+  "data": {
+    "GUID": "cddd6fa3b7a3454b95f8a6bbd39fbcc3",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Harbour"
+  }
+}

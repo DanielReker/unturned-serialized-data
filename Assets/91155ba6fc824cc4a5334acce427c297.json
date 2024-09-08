@@ -1,0 +1,23 @@
+{
+  "name": "Omega_Cafeteria_Chef",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Cafeteria_Chef/Asset.dat",
+  "data": {
+    "GUID": "91155ba6fc824cc4a5334acce427c297",
+    "Type": "NPC",
+    "ID": "3602",
+    "Shirt": "230",
+    "Pants": "231",
+    "Hat": "239",
+    "Face": "25",
+    "Hair": "9",
+    "Beard": "12",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#665037",
+    "Secondary": "1030",
+    "Dialogue": "3064"
+  },
+  "translation": {
+    "Name": "Greek Omega Chef Pekka",
+    "Character": "<color=epic>Head Chef Pekka</color>"
+  }
+}

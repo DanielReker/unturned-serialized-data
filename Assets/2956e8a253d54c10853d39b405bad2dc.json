@@ -1,0 +1,21 @@
+{
+  "name": "Omega_Barracks_Officer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Barracks_Officer/Asset.dat",
+  "data": {
+    "GUID": "2956e8a253d54c10853d39b405bad2dc",
+    "Type": "NPC",
+    "ID": "3619",
+    "Shirt": "182",
+    "Pants": "3525",
+    "Face": "24",
+    "Hair": "18",
+    "Beard": "0",
+    "Color_Skin": "#706049",
+    "Color_Hair": "#191919",
+    "Dialogue": "3081"
+  },
+  "translation": {
+    "Name": "Greek Omega Barracks Nicole",
+    "Character": "<color=epic>Colonel Nicole</color>"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Firetruck",
+  "path": "Bundles/Objects/Large/Vehicles/Firetruck/Firetruck.dat",
+  "data": {
+    "GUID": "63de1c957c424fccabd821debd271318",
+    "Type": "Large",
+    "ID": "170",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Firetruck"
+  }
+}

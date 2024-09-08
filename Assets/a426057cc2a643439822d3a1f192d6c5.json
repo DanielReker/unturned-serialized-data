@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Train_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Train_3/Metro_Train_3.dat",
+  "data": {
+    "GUID": "a426057cc2a643439822d3a1f192d6c5",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57444",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Train #4"
+  }
+}

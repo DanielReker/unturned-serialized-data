@@ -1,0 +1,14 @@
+{
+  "name": "Simon_Frying_Pan_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Poacher Simon/Simon_Frying_Pan_Completed/Asset.dat",
+  "data": {
+    "GUID": "72e4fc2afc3e412aa9dbfd81295a5b14",
+    "Type": "Dialogue",
+    "ID": "9223",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You really found them, I've been looking forever!"
+  }
+}

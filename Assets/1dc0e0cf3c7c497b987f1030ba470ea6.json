@@ -1,0 +1,28 @@
+{
+  "name": "Metro_Eggs",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Overrides/Metro_Eggs/Metro_Eggs.dat",
+  "data": {
+    "GUID": "1dc0e0cf3c7c497b987f1030ba470ea6",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "57197",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.155",
+    "Quality_Max": "50",
+    "Food": "20",
+    "Water": "20",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "57200",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Eggs",
+    "ConsumeAudioClip": "Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Eggs",
+    "Description": "<color=#64c819>20</color> Food <color=#64c819>20</color> Water"
+  }
+}

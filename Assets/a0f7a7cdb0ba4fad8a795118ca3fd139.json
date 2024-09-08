@@ -1,0 +1,40 @@
+{
+  "name": "Police_Vest",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Vests/Police_Vest/Police_Vest.dat",
+  "data": {
+    "GUID": "a0f7a7cdb0ba4fad8a795118ca3fd139",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "51983",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "4",
+    "Height": "2",
+    "Movement_Speed_Multiplier": ".95",
+    "Armor": "0.8",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51983",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "51017",
+    "Blueprint_0_Output_0_Amount": "2",
+    "Blueprint_0_Output_1_ID": "51020",
+    "Blueprint_0_Output_1_Amount": "2",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "2",
+    "Blueprint_1_Supply_0_ID": "51017",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Supply_1_ID": "51020",
+    "Blueprint_1_Supply_1_Amount": "2",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Police Vest",
+    "Description": "Law enforcement vest."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Photocathode",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/Music/Photocathode/Photocathode.asset",
+  "data": {
+    "GUID": "6f50a8df125c420589751a3d23be5634",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Title": {
+      "Namespace": "SDG",
+      "Token": "Stereo_Songs.Photocathode.Title"
+    },
+    "Song": {
+      "MasterBundle": "arid_music.masterbundle",
+      "AssetPath": "Photocathode/Photocathode.wav"
+    },
+    "Link_URL": "https://youtu.be/wVs61srgvUQ"
+  },
+  "translation": {
+    "Name": "Staswalle - Photocathode"
+  }
+}

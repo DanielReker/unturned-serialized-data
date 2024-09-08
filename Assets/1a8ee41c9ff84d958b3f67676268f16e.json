@@ -1,0 +1,15 @@
+{
+  "name": "Metro_Road_Wall_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Road_Wall_1/Metro_Road_Wall_1.dat",
+  "data": {
+    "GUID": "1a8ee41c9ff84d958b3f67676268f16e",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57009",
+    "Soft": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Road Wall #2"
+  }
+}

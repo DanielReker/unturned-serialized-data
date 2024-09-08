@@ -1,0 +1,14 @@
+{
+  "name": "Alex_Favor_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Alex/Alex_Favor_Completed/Asset.dat",
+  "data": {
+    "GUID": "c7d78a23293949b786e1caf5e999ed36",
+    "Type": "Dialogue",
+    "ID": "7159",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You found it? Great, come on here... <pause> Good. Now I'll fix my bulletproof vest. Here is the promised reward."
+  }
+}

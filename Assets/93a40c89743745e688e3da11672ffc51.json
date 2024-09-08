@@ -1,0 +1,17 @@
+{
+  "name": "PS_Random_0_Good_Luck",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Random_0_Dialogue/PS_Random_0_Good_Luck/Asset.dat",
+  "data": {
+    "GUID": "93a40c89743745e688e3da11672ffc51",
+    "Type": "Dialogue",
+    "ID": "59162",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "59158"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good luck out there.",
+    "Response_0": "Thank you."
+  }
+}

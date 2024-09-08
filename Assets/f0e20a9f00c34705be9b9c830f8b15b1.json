@@ -1,0 +1,31 @@
+{
+  "name": "France_Sand_00_Material",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Assets/Landscape/Materials/France_Sand_00_Material.asset",
+  "data": {
+    "GUID": "f0e20a9f00c34705be9b9c830f8b15b1",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "france.masterbundle",
+      "Path": "assets/materials/sand.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "SAND_STATIC",
+    "Foliage": {
+      "GUID": "00000000000000000000000000000000"
+    },
+    "Use_Auto_Slope": "false",
+    "Auto_Min_Angle_Begin": "0",
+    "Auto_Min_Angle_End": "0",
+    "Auto_Max_Angle_Begin": "0",
+    "Auto_Max_Angle_End": "0",
+    "Use_Auto_Foundation": "false",
+    "Auto_Ray_Radius": "0",
+    "Auto_Ray_Length": "0",
+    "Auto_Ray_Mask": "0"
+  },
+  "translation": null
+}

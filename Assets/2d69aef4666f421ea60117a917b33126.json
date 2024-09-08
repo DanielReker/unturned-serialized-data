@@ -1,0 +1,13 @@
+{
+  "name": "Crashed_Plane_Tail",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Vehicles/Crashed_Plane/Crashed_Plane_Tail/Crashed_Plane_Tail.dat",
+  "data": {
+    "GUID": "2d69aef4666f421ea60117a917b33126",
+    "Type": "Large",
+    "ID": "35315",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Crashed Plane Tail"
+  }
+}

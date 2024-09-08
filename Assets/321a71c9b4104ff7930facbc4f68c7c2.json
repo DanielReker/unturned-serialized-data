@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Vehicle_Back",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Props/Buak_Vehicle_Back/Buak_Vehicle_Back.dat",
+  "data": {
+    "GUID": "321a71c9b4104ff7930facbc4f68c7c2",
+    "Type": "Small",
+    "ID": "25300",
+    "Interactability": "Dropper",
+    "Interactability_Hint": "Custom",
+    "Interactability_Delay": "600",
+    "Interactability_Reward_ID": "25400",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Vehicle_Back",
+    "Interact": "Search [{0}]"
+  }
+}

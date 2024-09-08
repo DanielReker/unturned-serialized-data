@@ -1,0 +1,14 @@
+{
+  "name": "Event_0_Spooky_1_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Event_0/Event_0_Spooky_1_Return/Asset.dat",
+  "data": {
+    "GUID": "e7d3d1dc68294e34b7ae4af146c7d620",
+    "Type": "Dialogue",
+    "ID": "57818",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=#B74000>Spooky 1</color> <color=#64c819>Completed</color>"
+  }
+}

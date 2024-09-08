@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Tires",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Tires/Drop_Tires.dat",
+  "data": {
+    "GUID": "4b0aa8cb844b43f7bb36427164274b9c",
+    "Type": "Spawn",
+    "ID": "25488",
+    "Tables": [
+      {
+        "Guid": "ae9b0aea4d574896be43aab7eeb58735",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

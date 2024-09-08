@@ -1,0 +1,14 @@
+{
+  "name": "Hangglider_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Find_Hangglider/Hangglider_Completed/Asset.dat",
+  "data": {
+    "GUID": "a3b0ba01db9f4069a854d6280feae88c",
+    "Type": "Dialogue",
+    "ID": "2042",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Aw Gee thanks! Now I can at least pretend to fly!"
+  }
+}

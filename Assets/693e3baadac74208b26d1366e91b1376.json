@@ -1,0 +1,13 @@
+{
+  "name": "PS_Brick_Break_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Explosions/PS_Brick_Break_0/PS_Brick_Break_0.dat",
+  "data": {
+    "GUID": "693e3baadac74208b26d1366e91b1376",
+    "Type": "Effect",
+    "ID": "59060",
+    "Relevant_Distance": "600",
+    "CameraShake_Radius": "1",
+    "CameraShake_MagnitudeDegrees": "50"
+  },
+  "translation": null
+}

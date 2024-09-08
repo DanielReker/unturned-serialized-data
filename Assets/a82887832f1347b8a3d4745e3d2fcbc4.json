@@ -1,0 +1,32 @@
+{
+  "name": "Combat_Top",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Shirts/Combat_Top/Combat_Top.dat",
+  "data": {
+    "GUID": "a82887832f1347b8a3d4745e3d2fcbc4",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "51104",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "6",
+    "Height": "4",
+    "Armor": "0.90",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "51104",
+    "Blueprint_0_Product": "51020",
+    "Blueprint_0_Products": "3",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51020",
+    "Blueprint_1_Supply_0_Amount": "3",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Combat Top",
+    "Description": "Military top designed for combat operations."
+  }
+}

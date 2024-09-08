@@ -1,0 +1,13 @@
+{
+  "name": "SUV_Green",
+  "path": "Bundles/Objects/Large/Vehicles/SUV_Green/SUV_Green.dat",
+  "data": {
+    "GUID": "279aae22e32a4644ac32826fb1bf5dc0",
+    "Type": "Large",
+    "ID": "656",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Green Rover"
+  }
+}

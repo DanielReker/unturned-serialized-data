@@ -1,0 +1,27 @@
+{
+  "name": "Buak_KCS7_LV4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_LAB/Buak_KCS7_LV4/Buak_KCS7_LV4.dat",
+  "data": {
+    "GUID": "71edf802544e4aedaa7892b9f4873f5a",
+    "Type": "Small",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24996",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "24996",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Buak_KCS7_LV4",
+    "Interact": "Pickup Keycard #4 [{0}]"
+  }
+}

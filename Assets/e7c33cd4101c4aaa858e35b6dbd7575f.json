@@ -1,0 +1,22 @@
+{
+  "name": "PS_Armory_Box_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Armory_Box_4/PS_Armory_Box_4.dat",
+  "data": {
+    "GUID": "e7c33cd4101c4aaa858e35b6dbd7575f",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60126",
+    "Exclude_From_Level_Batching": "true",
+    "Interactability": "Dropper",
+    "Interactability_Delay": "65",
+    "Interactability_Hint": "Custom",
+    "Interactability_Reward_ID": "59459",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Event",
+    "Interactability_Reward_0_ID": "PMC_Box_0"
+  },
+  "translation": {
+    "Name": "PS Armory Box #5 [PMC_0]",
+    "Interact": "Open [{0}]"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Blueprint_Library",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Blueprints/Blueprint_Library/Blueprint_Library.dat",
+  "data": {
+    "GUID": "a1ab97b82efb4829bb34f6ea68e035af",
+    "Type": "Food",
+    "Rarity": "Legendary",
+    "Useable": "Consumeable",
+    "ID": "25650",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.46",
+    "Quality_Min": "100",
+    "Quality_Max": "100",
+    "Food": "0",
+    "Water": "0",
+    "ConsumeAudioClip": "Sounds/Items/Blueprint.wav",
+    "Quest_Rewards": "3",
+    "Quest_Reward_0_Type": "Item_Random",
+    "Quest_Reward_0_ID": "25390",
+    "Quest_Reward_0_Amount": "1",
+    "Quest_Reward_0_Value": "True",
+    "Quest_Reward_1_Type": "Hint",
+    "Quest_Reward_1_Text": "Blueprint Given!",
+    "Quest_Reward_1_Duration": "3",
+    "Quest_Reward_2_Type": "Experience",
+    "Quest_Reward_2_Value": "6",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25649",
+    "Blueprint_0_Supply_0_Amount": "3",
+    "Blueprint_0_Build": "25528",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Blueprint Library",
+    "Description": "Gives a random high tier blueprint.<br><color=#758aff>Consume To Obtain Random Blueprint</color>"
+  }
+}

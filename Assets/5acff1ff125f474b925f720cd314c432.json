@@ -1,0 +1,10 @@
+{
+  "name": "Executioner_Backpack",
+  "path": "Bundles/Items/Outfits/Executioner/Executioner_Backpack/Executioner_Backpack.dat",
+  "data": {
+    "GUID": "5acff1ff125f474b925f720cd314c432",
+    "Type": "Backpack",
+    "Pro": ""
+  },
+  "translation": null
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Civilian Ayoub_Quest_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Civilian Ayoub/Civilian Ayoub_Quest_Completed/Asset.dat",
+  "data": {
+    "GUID": "32fa675db6154823a75d813f5955eb88",
+    "Type": "Dialogue",
+    "ID": "9078",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "All of them?!",
+    "Response_0": "Anytime! We have to look out for fellow survivors!"
+  }
+}

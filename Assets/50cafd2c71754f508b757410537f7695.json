@@ -1,0 +1,10 @@
+{
+  "name": "Craft_Ammo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Crafting/Craft_Ammo/Craft_Ammo.dat",
+  "data": {
+    "GUID": "50cafd2c71754f508b757410537f7695",
+    "Type": "Effect",
+    "ID": "25524"
+  },
+  "translation": null
+}

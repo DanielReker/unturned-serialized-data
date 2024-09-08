@@ -1,0 +1,18 @@
+{
+  "name": "PictureEOD2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/PicturesEOD/PictureEOD2/PictureEOD2.dat",
+  "data": {
+    "GUID": "c12487a0149f4a3daa1696ea109c7539",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "51000",
+    "Conditions": "1",
+    "Condition_0_Type": "Quest",
+    "Condition_0_ID": "52581",
+    "Condition_0_Status": "Active",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS Screen EOD 2 (QUEST)"
+  }
+}

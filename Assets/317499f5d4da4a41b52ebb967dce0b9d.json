@@ -1,0 +1,22 @@
+{
+  "name": "DrHome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/NPC/DrHome/DrHome.dat",
+  "data": {
+    "GUID": "317499f5d4da4a41b52ebb967dce0b9d",
+    "Type": "Shirt",
+    "Rarity": "Mythical",
+    "Useable": "Clothing",
+    "ID": "51961",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "10",
+    "Height": "20",
+    "Hair_Visible": "True",
+    "Armor": "1"
+  },
+  "translation": {
+    "Name": "Dr Home",
+    "Description": "More zombie bites!"
+  }
+}

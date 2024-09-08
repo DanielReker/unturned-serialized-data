@@ -1,0 +1,24 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Kira/Kira_04/Welcome/Asset.dat",
+  "data": {
+    "GUID": "647c7ca924114882adee100cd7bb01b2",
+    "Type": "Dialogue",
+    "ID": "24088",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_1_Dialogue": "f04e91499a8d4c238818af77eb2bff5b",
+    "Response_1_Conditions": "1",
+    "Response_1_Condition_0_Type": "Quest",
+    "Response_1_Condition_0_Logic": "Equal",
+    "Response_1_Condition_0_ID": "d901cec9f75340a0bbd4ed5a84cff487",
+    "Response_1_Condition_0_Status": "Completed"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hello",
+    "Response_0": "Hello!",
+    "Response_1": "I have some questions.",
+    "Response_2": "Goodbye!"
+  }
+}

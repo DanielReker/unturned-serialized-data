@@ -1,0 +1,15 @@
+{
+  "name": "Bucket_Wheel_Excavator",
+  "path": "Bundles/Skins/Chainsaw/Bucket_Wheel_Excavator/Bucket_Wheel_Excavator.dat",
+  "data": {
+    "GUID": "75d1574869f04d238ca15feeb878cfcb",
+    "Type": "Skin",
+    "ID": "50103",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

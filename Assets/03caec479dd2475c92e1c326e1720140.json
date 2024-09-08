@@ -1,0 +1,10 @@
+{
+  "name": "Casing",
+  "path": "Bundles/Effects/General/Casing/Casing.dat",
+  "data": {
+    "GUID": "03caec479dd2475c92e1c326e1720140",
+    "Type": "Effect",
+    "ID": "30"
+  },
+  "translation": null
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Military_Traitor_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Traitor_7/Asset.dat",
+  "data": {
+    "GUID": "a5c8311271234540a1c72dc4b12892e4",
+    "Type": "NPC",
+    "ID": "3954",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3571",
+    "Condition_0_Value": "7",
+    "Condition_0_Logic": "Equal",
+    "Shirt": "303",
+    "Pants": "304",
+    "Face": "25",
+    "Hair": "12",
+    "Beard": "6",
+    "Color_Skin": "#94764B",
+    "Color_Hair": "#352C22",
+    "Pose": "Rest",
+    "Dialogue": "3580"
+  },
+  "translation": {
+    "Name": "Greek Traitor Ephial #8",
+    "Character": "Prisoner Ephial"
+  }
+}

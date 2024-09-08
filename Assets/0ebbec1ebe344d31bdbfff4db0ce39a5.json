@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Bunker_Text_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Small/Metro_Bunker_Text_04/Metro_Bunker_Text_04.dat",
+  "data": {
+    "GUID": "0ebbec1ebe344d31bdbfff4db0ce39a5",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57802"
+  },
+  "translation": {
+    "Name": "Metro Bunker Text #5"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Town_Sign_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Town_Sign_0/PS_Town_Sign_0.dat",
+  "data": {
+    "GUID": "dab61e436f7140f2982dc6883422456a",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59550"
+  },
+  "translation": {
+    "Name": "PS Town Sign #1"
+  }
+}

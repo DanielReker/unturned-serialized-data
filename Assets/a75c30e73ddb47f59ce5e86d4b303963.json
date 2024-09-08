@@ -1,0 +1,29 @@
+{
+  "name": "Kuwait_Carepackage",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Barricades/Kuwait_Carepackage/Kuwait_Carepackage.dat",
+  "data": {
+    "GUID": "a75c30e73ddb47f59ce5e86d4b303963",
+    "Type": "Storage",
+    "Rarity": "Epic",
+    "Build": "Storage",
+    "ID": "5411",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "1",
+    "Health": "600",
+    "Storage_X": "8",
+    "Storage_Y": "8",
+    "Explosion": "19",
+    "Vulnerable": "",
+    "Unrepairable": "",
+    "Unpickupable": "",
+    "Unsaveable": "",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Kuwait Carepackage",
+    "Description": "You shouldn't have this. "
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Farmer_Pests_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Farmer_Omega/Farmer_Pests_Accepted/Asset.dat",
+  "data": {
+    "GUID": "b741b6a4eb224fcf82d759773aeec5f2",
+    "Type": "Dialogue",
+    "ID": "3219",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Excellent, go talk to Myrtle over there and see if you can help her with the pest problem.",
+    "Response_0": "I'll go talk to her now."
+  }
+}

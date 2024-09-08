@@ -1,0 +1,13 @@
+{
+  "name": "Police_Heli_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Police_Heli_Brazil/Police_Heli_Brazil.dat",
+  "data": {
+    "GUID": "7072e979c456442692bbb24a2f603db2",
+    "Type": "Spawn",
+    "ID": "5502",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "432",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

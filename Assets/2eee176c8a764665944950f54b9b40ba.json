@@ -1,0 +1,30 @@
+{
+  "name": "Quest_0_Beacon_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_0/Quest_0_Beacon_2/Asset.dat",
+  "data": {
+    "GUID": "2eee176c8a764665944950f54b9b40ba",
+    "Type": "Quest",
+    "ID": "57595",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Horde",
+    "Condition_0_ID": "57401",
+    "Condition_0_Value": "4",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_0_Nav": "0",
+    "Rewards": "3",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "57469 ",
+    "Reward_0_Amount": "2",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "57476  ",
+    "Reward_1_Amount": "1",
+    "Reward_2_Type": "Experience",
+    "Reward_2_Value": "1"
+  },
+  "translation": {
+    "Name": "<color=#CE7208>Summoner 3</color>",
+    "Description": "Successfully complete <color=#64c819>3</color> horde beacons in <color=#64c819>Ghost Valley</color>.",
+    "Condition_0": "{0}/{1} Horde Beacons",
+    "Reward_2": "Purchase of <color=#c832fa>Golden Heatwave</color>"
+  }
+}

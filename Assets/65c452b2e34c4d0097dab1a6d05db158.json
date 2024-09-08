@@ -1,0 +1,23 @@
+{
+  "name": "Map",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Supplies/Map/Map.dat",
+  "data": {
+    "GUID": "65c452b2e34c4d0097dab1a6d05db158",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "6696",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.425",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supply_0_ID": "6696",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "4",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Map ",
+    "Description": "Hidden treasure!"
+  }
+}

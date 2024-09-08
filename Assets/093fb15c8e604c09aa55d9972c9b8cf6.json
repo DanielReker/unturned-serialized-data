@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Town_Turned",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Turned/Buak_Town_Turned.asset",
+  "data": {
+    "GUID": "093fb15c8e604c09aa55d9972c9b8cf6",
+    "Type": "SDG.Unturned.ZombieDifficultyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Overrides_Spawn_Chance": "true",
+    "Crawler_Chance": "0.25",
+    "Sprinter_Chance": "0.1",
+    "Flanker_Chance": "0.05",
+    "Burner_Chance": "0.01",
+    "Acid_Chance": "0.02",
+    "Spirit_Chance": "0",
+    "Mega_Stun_Threshold": "1000",
+    "Normal_Stun_Threshold": "40",
+    "Allow_Horde_Beacon": "true"
+  },
+  "translation": null
+}

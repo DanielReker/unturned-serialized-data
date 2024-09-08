@@ -1,0 +1,21 @@
+{
+  "name": "France_Armorer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Characters/France_Armorer/Asset.dat",
+  "data": {
+    "GUID": "e89969af32dd49518cf748adff49d4ec",
+    "Type": "NPC",
+    "ID": "4002",
+    "Shirt": "3017",
+    "Pants": "3018",
+    "Hat": "3022",
+    "Face": "0",
+    "Color_Skin": "#885f4b",
+    "Primary": "3043",
+    "Secondary": "3039",
+    "Dialogue": "4150"
+  },
+  "translation": {
+    "Name": "France Sergeant Thierry",
+    "Character": "<color=epic>Sergeant Thierry</color>"
+  }
+}

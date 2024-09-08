@@ -1,0 +1,13 @@
+{
+  "name": "Dam_1",
+  "path": "Bundles/Objects/Large/Utilities/Dam_1/Dam_1.dat",
+  "data": {
+    "GUID": "3e7b87c2b05141709f8d6f1000f9bbd6",
+    "Type": "Large",
+    "ID": "916",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Dam #2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "CA_Bush_Russet",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Resources/CA_Bush_Russet/CA_Bush_Russet.dat",
+  "data": {
+    "GUID": "d4ae318582254df699ad01a4dbd59c41",
+    "Type": "Resource",
+    "ID": "4014",
+    "Health": "1",
+    "Radius": "3",
+    "Scale": "0.1",
+    "Explosion": "43",
+    "Log": "273",
+    "Forage": "",
+    "Reset": "1000",
+    "Christmas_Redirect": "b9f632b09a3d4633a57c66988b09120d"
+  },
+  "translation": {
+    "Name": "California Bush Russet #1"
+  }
+}

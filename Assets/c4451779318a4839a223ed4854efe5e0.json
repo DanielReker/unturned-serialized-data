@@ -1,0 +1,36 @@
+{
+  "name": "RiotWeapons",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Riot/RiotWeapons/RiotWeapons.dat",
+  "data": {
+    "GUID": "c4451779318a4839a223ed4854efe5e0",
+    "Type": "Spawn",
+    "ID": "51037",
+    "Tables": [
+      {
+        "Guid": "2e6de3968b1a4b2b9221a87432e3eb64",
+        "Weight": "20"
+      },
+      {
+        "Guid": "592f62365c0e4a74a39c14dfa37631fa",
+        "Weight": "10"
+      },
+      {
+        "Guid": "2f31123007014cf4a896d5d0a88997bd",
+        "Weight": "10"
+      },
+      {
+        "Guid": "48e99fe983854d3fab0d4ad2cb24ff46",
+        "Weight": "10"
+      },
+      {
+        "Guid": "424cafbc2c454076a5fa989377281a45",
+        "Weight": "10"
+      },
+      {
+        "Guid": "6242203f124f44c19d42a866fbede88a",
+        "Weight": "10"
+      }
+    ]
+  },
+  "translation": null
+}

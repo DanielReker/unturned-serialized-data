@@ -1,0 +1,17 @@
+{
+  "name": "Screen_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Screen_3/Screen_3.dat",
+  "data": {
+    "GUID": "1d6b4e401ff448c6b39bd239747a39ce",
+    "Type": "Small",
+    "ID": "3869",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3403",
+    "Condition_0_Value": "70",
+    "Condition_0_Logic": "Greater_Than"
+  },
+  "translation": {
+    "Name": "Operation Screen #1"
+  }
+}

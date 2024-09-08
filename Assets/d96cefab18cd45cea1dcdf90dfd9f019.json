@@ -1,0 +1,23 @@
+{
+  "name": "Big_Cookie",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Big_Cookie/Big_Cookie.dat",
+  "data": {
+    "GUID": "d96cefab18cd45cea1dcdf90dfd9f019",
+    "Type": "Food",
+    "Rarity": "Mythical",
+    "Useable": "Consumeable",
+    "ID": "25728",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.45",
+    "Use_Auto_Icon_Measurements": "False",
+    "Food": "80",
+    "Water": "0",
+    "ConsumeAudioClip": "Sounds/Food/EatCrunchyShort.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Big Cookie",
+    "Description": "A massive cookie! It's so big it could be a collectable, alongside some blue coins."
+  }
+}

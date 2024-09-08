@@ -1,0 +1,13 @@
+{
+  "name": "PS_Offices_Door_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Offices_Door_0/PS_Offices_Door_0.dat",
+  "data": {
+    "GUID": "0d2daeb1400b48048e40c4a9e76011ee",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59718"
+  },
+  "translation": {
+    "Name": "PS Offices Door #1 [Main]"
+  }
+}

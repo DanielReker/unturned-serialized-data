@@ -1,0 +1,12 @@
+{
+  "name": "Glorified_BWTY_PYELLOW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Vehicles/Redirectors/Glorified_BWT/Glorified_BWTY_PYELLOW.asset",
+  "data": {
+    "GUID": "73b4e55f29964e5db5b7f3052b731e3c",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "25413",
+    "TargetVehicle": "0857c9cd0ee24d7697c5793b4fa02f95",
+    "LoadPaintColor": "#CDB34F"
+  },
+  "translation": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Kira_Question_06",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Kira/Kira_04/Kira_Question_06/Asset.dat",
+  "data": {
+    "GUID": "dfabac02aca14953859749345bd5afe3",
+    "Type": "Dialogue",
+    "ID": "24080",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "2",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm the “Left Handed Gunslinger”, I have to look the part! ...Well that, and also I haven't found any other style that suits me. Though in the end it doesn't really matter does it?",
+    "Response_0": "Good to know!"
+  }
+}

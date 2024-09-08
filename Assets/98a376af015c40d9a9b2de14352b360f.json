@@ -1,0 +1,15 @@
+{
+  "name": "CatsInBag_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Viola/Viola_02/CatsInBag_Completed/Asset.dat",
+  "data": {
+    "GUID": "98a376af015c40d9a9b2de14352b360f",
+    "Type": "Dialogue",
+    "ID": "24439",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "11"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you! I don't know how they got moved... maybe Stinky and Minky had something to do with it... Guess I'll never truly know."
+  }
+}

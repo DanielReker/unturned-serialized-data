@@ -1,0 +1,20 @@
+{
+  "name": "Mechanic Fran",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Mechanic Fran/Asset.dat",
+  "data": {
+    "GUID": "425dee4d19714e0b981f11e783bf5aaf",
+    "Type": "NPC",
+    "ID": "9000",
+    "Shirt": "405",
+    "Pants": "406",
+    "Face": "3",
+    "Hair": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#269FAC",
+    "Dialogue": "9000"
+  },
+  "translation": {
+    "Name": "Mechanic Fran",
+    "Character": "Fran"
+  }
+}

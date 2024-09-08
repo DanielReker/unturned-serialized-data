@@ -1,0 +1,31 @@
+{
+  "name": "Frost_Expedition_01_Quest_00_Lore",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Expedition_01/Frost_Expedition_01_Quest_00_Lore/Asset.dat",
+  "data": {
+    "GUID": "67773ed8489d42a6af57344caaa12875",
+    "Type": "Dialogue",
+    "ID": "36022",
+    "Messages": "1",
+    "Message_0_Pages": "5",
+    "Responses": "2",
+    "Response_0_Quest": "36029",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "36029",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_ID": "36029",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Dialogue": "36025"
+  },
+  "translation": {
+    "Message_0_Page_0": "Penguins migrate to the south in the early spring.",
+    "Message_0_Page_1": "I've attached a tracking device to one of them white ones...",
+    "Message_0_Page_2": "And discovered a super secret radar station!",
+    "Message_0_Page_3": "Tell me, why would penguins disappear for 6 months just to operate a radio tower?",
+    "Message_0_Page_4": "We must do it, <color=#64c819>Blow up the Radio Tower</color>.",
+    "Response_0": "Uh... okay sure.",
+    "Response_1": "No thanks??"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "IR_Spec_Pants",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Items/Pants/IR_Spec_Pants/IR_Spec_Pants.dat",
+  "data": {
+    "GUID": "504c4afc10024362863355e2a22e28ba",
+    "Type": "Pants",
+    "Rarity": "Legendary",
+    "Useable": "Clothing",
+    "ID": "16272",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Width": "4",
+    "Height": "2",
+    "Armor": "0.85",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "16272",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "3",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "3",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Spec Ops Bottom",
+    "Description": "Tactical uniform pants."
+  }
+}

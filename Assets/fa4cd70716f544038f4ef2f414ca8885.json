@@ -1,0 +1,19 @@
+{
+  "name": "Easter_Crab_Trap_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Business/Easter_Crab_Trap_0/Easter_Crab_Trap_0.dat",
+  "data": {
+    "GUID": "fa4cd70716f544038f4ef2f414ca8885",
+    "Type": "Medium",
+    "ID": "6853",
+    "Interactability": "Dropper",
+    "Interactability_Delay": "3600",
+    "Interactability_Hint": "Use",
+    "Interactability_Reward_ID": "6603",
+    "Asset_Bundle_Version_2": "",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Crab Trap #1"
+  }
+}

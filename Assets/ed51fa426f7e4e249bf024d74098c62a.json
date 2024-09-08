@@ -1,0 +1,13 @@
+{
+  "name": "Fishing_Boat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Vehicles/Fishing_Boat/Fishing_Boat.dat",
+  "data": {
+    "GUID": "ed51fa426f7e4e249bf024d74098c62a",
+    "Type": "Spawn",
+    "ID": "831",
+    "Tables": "1",
+    "Table_0_Asset_ID": "827",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

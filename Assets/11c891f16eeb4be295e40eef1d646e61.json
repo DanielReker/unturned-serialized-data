@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Glass",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Rio_Glass/Rio_Glass.dat",
+  "data": {
+    "GUID": "11c891f16eeb4be295e40eef1d646e61",
+    "Type": "Medium",
+    "ID": "6090",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Glass #1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Cupboard_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Cupboard_2/PS_Cupboard_2.dat",
+  "data": {
+    "GUID": "e9978a9922034796ac70d62f480daad0",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59502"
+  },
+  "translation": {
+    "Name": "PS Cupboard #3"
+  }
+}

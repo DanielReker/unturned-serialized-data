@@ -1,0 +1,30 @@
+{
+  "name": "Frost_Grenade_Boss",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Weapons/Frost_Grenade_Boss/Frost_Grenade_Boss.dat",
+  "data": {
+    "GUID": "e9f06424d5aa4f72b13ab8a399d44909",
+    "Type": "Throwable",
+    "Rarity": "Epic",
+    "Useable": "Throwable",
+    "ID": "36138",
+    "Size_Z": "0.3",
+    "Player_Damage": "5",
+    "Zombie_Damage": "5500",
+    "Animal_Damage": "25",
+    "Barricade_Damage": "25",
+    "Structure_Damage": "25",
+    "Vehicle_Damage": "25",
+    "Resource_Damage": "25",
+    "Object_Damage": "25",
+    "Range": "10",
+    "Explosion": "34",
+    "Explode_On_Impact": "",
+    "Explosion_Launch_Speed": "19",
+    "Explosive": "",
+    "Sticky": ""
+  },
+  "translation": {
+    "Name": "Grenade",
+    "Description": "<color=#64c819>500</color> Zombie Damage<br><color=#64c819>High</color> Knockback"
+  }
+}

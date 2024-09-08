@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait_Arbiter_Suppressor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Barrels/Kuwait_Arbiter_Suppressor/Kuwait_Arbiter_Suppressor.dat",
+  "data": {
+    "GUID": "ed92944eb64743fca5aa6bb59921e45b",
+    "Type": "Barrel",
+    "Rarity": "Rare",
+    "ID": "5054",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.125",
+    "Silenced": "",
+    "Volume": "0.95",
+    "Ballistic_Drop": "1.5"
+  },
+  "translation": {
+    "Name": "Arbiter Suppressor",
+    "Description": "You shouldn't have this."
+  }
+}

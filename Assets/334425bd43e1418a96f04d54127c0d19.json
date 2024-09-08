@@ -1,0 +1,22 @@
+{
+  "name": "Easter_Note_Weather",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Small/Notes/Easter_Note_Weather/Easter_Note_Weather.dat",
+  "data": {
+    "GUID": "334425bd43e1418a96f04d54127c0d19",
+    "Type": "Small",
+    "ID": "6848",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Easter Note - Weather",
+    "Interactability_Text_Line_0": "Weather Alert!",
+    "Interactability_Text_Line_1": "------",
+    "Interactability_Text_Line_2": "A strong thunderstorm has been detected off the South Western coast, it’s expected to make landfall on the 22nd of May, be prepared for the storm and potential ash rain."
+  }
+}

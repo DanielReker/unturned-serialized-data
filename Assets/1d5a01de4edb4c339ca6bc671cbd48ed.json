@@ -1,0 +1,35 @@
+{
+  "name": "PS_Wall_Wood",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Structures/PS_Wall_Wood/PS_Wall_Wood.dat",
+  "data": {
+    "GUID": "1d5a01de4edb4c339ca6bc671cbd48ed",
+    "Type": "Structure",
+    "Has_Clip_Prefab": "False",
+    "Rarity": "Common",
+    "Useable": "Structure",
+    "Construct": "Wall",
+    "ID": "59207",
+    "SalvageItem": "1d5a01de4edb4c339ca6bc671cbd48ed",
+    "Min_Items_Dropped_On_Destroy": "1",
+    "Max_Items_Dropped_On_Destroy": "1",
+    "Item_Dropped_On_Destroy": "160ddb8f36cf4533b72dce8ad8d2ec6a",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Health": "400",
+    "Range": "6",
+    "Explosion": "19",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59201",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "Sounds/WoodenPlacement.mp3",
+    "Salvage_Duration_Multiplier": "0.2"
+  },
+  "translation": {
+    "Name": "Wooden Wall",
+    "Description": "<color=#FFC023>400 Health</color>"
+  }
+}

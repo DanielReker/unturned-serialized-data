@@ -1,0 +1,14 @@
+{
+  "name": "Hannah_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Find_Friend/Hannah_Accepted/Asset.dat",
+  "data": {
+    "GUID": "4996ee2093ce4913aba5ebb23d0f477e",
+    "Type": "Dialogue",
+    "ID": "2101",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Please see if she is at Tadaaki Light! Let me know if you find anything!"
+  }
+}

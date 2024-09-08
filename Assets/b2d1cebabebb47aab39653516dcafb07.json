@@ -1,0 +1,12 @@
+{
+  "name": "Snowmobile_Red",
+  "path": "Bundles/Vehicles/Redirectors/Snowmobile/Snowmobile_Red.asset",
+  "data": {
+    "GUID": "b2d1cebabebb47aab39653516dcafb07",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "64",
+    "TargetVehicle": "35b0b159124f405694a7a624e6707265",
+    "LoadPaintColor": "#9a2525"
+  },
+  "translation": null
+}

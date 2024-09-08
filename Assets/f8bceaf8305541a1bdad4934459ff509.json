@@ -1,0 +1,17 @@
+{
+  "name": "PBS_FalconSetup",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/PBS_FalconSetup/PBS_FalconSetup.dat",
+  "data": {
+    "GUID": "f8bceaf8305541a1bdad4934459ff509",
+    "Type": "RewardsList",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51217",
+    "Reward_0_Barrel": "51090",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "51039",
+    "Reward_1_Amount": "3"
+  },
+  "translation": null
+}

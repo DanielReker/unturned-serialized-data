@@ -1,0 +1,13 @@
+{
+  "name": "GreeceColoredBeam_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceColoredBeam_3/GreeceColoredBeam_3.dat",
+  "data": {
+    "GUID": "9f46c93483a8496aac353e8e6719b78e",
+    "Type": "Large",
+    "ID": "6362",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Colored Beam Green"
+  }
+}

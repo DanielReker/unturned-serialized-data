@@ -1,0 +1,26 @@
+{
+  "name": "Bone_2",
+  "path": "Bundles/Objects/Small/Quests/Bones/Bone_2/Bone_2.dat",
+  "data": {
+    "GUID": "0d468208c9434f48b0268bdede8f18a3",
+    "Type": "Small",
+    "ID": "839",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "208",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "208",
+    "Interactability_Reward_0_Value": "True",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Bone #3",
+    "Interact": "Pickup Cursed Pirate Bone [{0}]"
+  }
+}

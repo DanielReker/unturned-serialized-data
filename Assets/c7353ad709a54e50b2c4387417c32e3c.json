@@ -1,0 +1,19 @@
+{
+  "name": "Kuwait_Outlands_Observatory_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Quests/Kuwait_Outlands/Kuwait_Outlands_Observatory_1/Kuwait_Outlands_Observatory_1.dat",
+  "data": {
+    "GUID": "c7353ad709a54e50b2c4387417c32e3c",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5999",
+    "Asset_Bundle_Version": "2",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "5506",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Kuwait Outlands Observatory #2"
+  }
+}

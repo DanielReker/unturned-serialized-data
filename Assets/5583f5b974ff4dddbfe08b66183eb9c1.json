@@ -1,0 +1,15 @@
+{
+  "name": "CA_Bistro_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Bistro_0/CA_Bistro_0.dat",
+  "data": {
+    "GUID": "5583f5b974ff4dddbfe08b66183eb9c1",
+    "Type": "Large",
+    "ID": "4688",
+    "Material_Palette": "3987063d60df43e2ac4ca66fe91880f1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Mooki/Bistro_0"
+  },
+  "translation": {
+    "Name": "California Bistro #1"
+  }
+}

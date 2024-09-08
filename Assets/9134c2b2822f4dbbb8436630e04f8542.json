@@ -1,0 +1,14 @@
+{
+  "name": "Engineer_Bemus_Capacity_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Engineer_Military_Bemus/Engineer_Bemus_Capacity_Completed/Asset.dat",
+  "data": {
+    "GUID": "9134c2b2822f4dbbb8436630e04f8542",
+    "Type": "Dialogue",
+    "ID": "3629",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "These will do the trick, thanks! Here, we have this sitting around but have no need for a rifle rack in here."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Headphones",
+  "path": "Bundles/Items/Masks/Headphones/Headphones.dat",
+  "data": {
+    "GUID": "a1b535234d8547058693cd704930cb4d",
+    "Type": "Mask",
+    "ID": "418",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Beard": "",
+    "Hair": "",
+    "Pro": ""
+  },
+  "translation": null
+}

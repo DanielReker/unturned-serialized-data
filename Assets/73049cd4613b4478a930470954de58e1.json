@@ -1,0 +1,28 @@
+{
+  "name": "Canned_Beef",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Food/Canned_Beef/Canned_Beef.dat",
+  "data": {
+    "GUID": "73049cd4613b4478a930470954de58e1",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "5228",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Health": "10",
+    "Food": "40",
+    "Quality_Min": "50",
+    "Quality_Max": "100",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "5538",
+    "Quest_Reward_0_Amount": "1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Canned_Beef",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Canned Beef",
+    "Description": "Tender and somehow cooked.<br><color=#BF1F1F>+10 HP</color><br><color=#AB8019>+40 Food</color>"
+  }
+}

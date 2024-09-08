@@ -1,0 +1,17 @@
+{
+  "name": "Bridge_Line_5",
+  "path": "Bundles/Objects/Large/Roads/Bridge_Line_5/Bridge_Line_5.dat",
+  "data": {
+    "GUID": "eea0e541f05140d4af9ed02574dd5101",
+    "Type": "Large",
+    "ID": "979",
+    "Snowshoe": "",
+    "Soft": "",
+    "Chart": "Highway",
+    "Collision_Important": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Bridge Line #6"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "29442KJA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29440KJD/29442KJA/Asset.dat",
+  "data": {
+    "GUID": "edaec3ec6f4e4cf1a9d43e820e5b2e14",
+    "Type": "Dialogue",
+    "ID": "29442",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Quite a crazy world we're living in. Be careful."
+  }
+}

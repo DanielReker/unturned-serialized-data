@@ -1,0 +1,36 @@
+{
+  "name": "PS_Trader_1_Quest_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_1_Dialogue/PS_Trader_1_Quest_0/Asset.dat",
+  "data": {
+    "GUID": "74b80d1938274d43a8c45412b489f9f6",
+    "Type": "Quest",
+    "ID": "59036",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59028",
+    "Condition_0_Amount": "4",
+    "Condition_0_Reset": "",
+    "Rewards": "5",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "59031",
+    "Reward_0_Value": "True",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "59518",
+    "Reward_1_Amount": "1",
+    "Reward_2_Type": "Item",
+    "Reward_2_ID": "59532",
+    "Reward_2_Amount": "0",
+    "Reward_3_Type": "Item",
+    "Reward_3_ID": "59535",
+    "Reward_3_Amount": "0",
+    "Reward_4_Type": "Experience",
+    "Reward_4_Value": "100"
+  },
+  "translation": {
+    "Name": "Reinforcements I",
+    "Description": "Bring me 4x <color=#ffffff>Plastic Fragments</color>.",
+    "Reward_1": "Plastic Crate",
+    "Reward_2": "Plastic Crate Blueprint Unlocked",
+    "Reward_3": "More purchase options."
+  }
+}

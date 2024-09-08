@@ -1,0 +1,17 @@
+{
+  "name": "PS_Boulder_Smol",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Boulder_Smol/PS_Boulder_Smol.dat",
+  "data": {
+    "GUID": "445cb563c97841a59fe64ed49a8fc331",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60269",
+    "Material_Palette": "12462313f3564243861a841ca2d5b56d",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground"
+  },
+  "translation": {
+    "Name": "PS Boulder Smol #1"
+  }
+}

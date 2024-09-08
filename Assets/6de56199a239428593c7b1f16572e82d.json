@@ -1,0 +1,13 @@
+{
+  "name": "Military_Brazil_Low",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Military_Brazil_Low/Military_Brazil_Low.dat",
+  "data": {
+    "GUID": "6de56199a239428593c7b1f16572e82d",
+    "Type": "Spawn",
+    "ID": "5516",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5515\t",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

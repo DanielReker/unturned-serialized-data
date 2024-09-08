@@ -1,0 +1,13 @@
+{
+  "name": "Russia_Military_High",
+  "path": "Bundles/Spawns/Items/Russia_Military_High/Russia_Military_High.dat",
+  "data": {
+    "GUID": "4e765920d3d2487cafc295479309cf37",
+    "Type": "Spawn",
+    "ID": "552",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "553",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

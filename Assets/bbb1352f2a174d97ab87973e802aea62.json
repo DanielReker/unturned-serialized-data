@@ -1,0 +1,14 @@
+{
+  "name": "French_Cinema",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/French_Cinema/French_Cinema.dat",
+  "data": {
+    "GUID": "bbb1352f2a174d97ab87973e802aea62",
+    "Type": "Large",
+    "ID": "35029",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "French Cinema #1"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Recon_Belfast",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Quests/Coali/Recon_Belfast/Asset.dat",
+  "data": {
+    "GUID": "f7e8906c7b4249bd96c27d8d5853f7b7",
+    "Type": "Quest",
+    "ID": "15307",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "15102",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "6",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "1420",
+    "Reward_1_Amount": "1",
+    "Reward_2_Type": "Item",
+    "Reward_2_ID": "1419",
+    "Reward_2_Amount": "1",
+    "Reward_3_Type": "Item",
+    "Reward_3_ID": "1426",
+    "Reward_3_Amount": "1",
+    "Reward_4_Type": "Flag_Bool",
+    "Reward_4_ID": "15005",
+    "Reward_4_Value": "True",
+    "Reward_5_Type": "Flag_Short",
+    "Reward_5_ID": "14002",
+    "Reward_5_Value": "1",
+    "Reward_5_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "Up to the Front Lines",
+    "Description": "For the past few weeks, the <color=blue>Coalition</color> has been fighting the <color=red>IFR</color> stationed in Belfast. Get over there and check out the situation on the battlefield.",
+    "Condition_0": "Check out <color=blue>Coalition's</color> outpost in Belfast {0}/1"
+  }
+}

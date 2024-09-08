@@ -1,0 +1,16 @@
+{
+  "name": "FRoom_Lab0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/FRoom_Lab0/FRoom_Lab0.dat",
+  "data": {
+    "GUID": "23021f0d7e17449da349661db348d3fe",
+    "Type": "Large",
+    "ID": "6613",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Facility Lab #1"
+  }
+}

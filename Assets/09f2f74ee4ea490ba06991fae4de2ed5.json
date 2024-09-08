@@ -1,0 +1,22 @@
+{
+  "name": "Electrician_Jacob",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IDF/Electrician_Jacob/Asset.dat",
+  "data": {
+    "GUID": "09f2f74ee4ea490ba06991fae4de2ed5",
+    "Type": "NPC",
+    "ID": "15025",
+    "Shirt": "15005",
+    "Pants": "15003",
+    "Mask": "418",
+    "Secondary": "76",
+    "Face": "5",
+    "Hair": "10",
+    "Color_Skin": "#f7e8cf",
+    "Color_Hair": "#a06538",
+    "Dialogue": "15164"
+  },
+  "translation": {
+    "Name": "IDF Electrican Jacob",
+    "Character": "<color=rare>Lieutenant Jacob</color>"
+  }
+}

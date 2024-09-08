@@ -1,0 +1,34 @@
+{
+  "name": "PBS_Chuck",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Chuck/Asset.dat",
+  "data": {
+    "GUID": "abd1e6be077c40ee84cd08dd27632c9f",
+    "Type": "NPC",
+    "ID": "52400",
+    "Hat": "51113",
+    "Shirt": "51197",
+    "Pants": "51105",
+    "Vest": "51114",
+    "Backpack": "51115",
+    "Face": "5",
+    "Hair": "20",
+    "Beard": "1",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#352C22",
+    "Dialogue": "52401",
+    "Primary": "51203",
+    "Secondary": "51209",
+    "Tertiary": "51254",
+    "Equipped": "Tertiary",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "52405",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "PBS NPC Chuck",
+    "Character": "Chuck"
+  }
+}

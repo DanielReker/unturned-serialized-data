@@ -1,0 +1,15 @@
+{
+  "name": "ArmoryExtra_Military_Chimera_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/ArmoryExtra/ArmoryExtra_Military_Chimera_Completed/Asset.dat",
+  "data": {
+    "GUID": "f41da5c8474c4148afafb9eba8c72da1",
+    "Type": "Dialogue",
+    "ID": "3591",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "3028"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hmm, it's... nice.<pause> Okay, I suppose it will do."
+  }
+}

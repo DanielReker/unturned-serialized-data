@@ -1,0 +1,15 @@
+{
+  "name": "26824KMPVC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/265 CO/2664-2691 Mili/26820KMPD/26824KMPVC/Asset.dat",
+  "data": {
+    "GUID": "0bfa5fe7586143fcb78f3e8ead571daa",
+    "Type": "Dialogue",
+    "ID": "26824",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "26821"
+  },
+  "translation": {
+    "Message_0_Page_0": "Make sure to not get those dirty."
+  }
+}

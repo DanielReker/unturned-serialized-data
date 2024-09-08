@@ -1,0 +1,14 @@
+{
+  "name": "PBSNoBeacon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Assets/Zombies/PBSNoBeacon.asset",
+  "data": {
+    "GUID": "7d99bdf2d86f46fcaa027ba8143a3323",
+    "Type": "SDG.Unturned.ZombieDifficultyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Overrides_Spawn_Chance": "false",
+    "Mega_Stun_Threshold": "1000",
+    "Normal_Stun_Threshold": "100",
+    "Allow_Horde_Beacon": "true"
+  },
+  "translation": null
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Roomy_BWTN_PYELLOW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Vehicles/Redirectors/Roomy/Roomy_BWTN_PYELLOW.asset",
+  "data": {
+    "GUID": "87b62930ca0a492490f5c8ba91482cd8",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "25342",
+    "TargetVehicle": "aaa8b572b3474b7c8e0e0d3a8babd51b",
+    "LoadPaintColor": "#CDB34F"
+  },
+  "translation": null
+}

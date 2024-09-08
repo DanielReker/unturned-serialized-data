@@ -1,0 +1,27 @@
+{
+  "name": "Buak_Bran",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Bran/Buak_Bran.dat",
+  "data": {
+    "GUID": "7d59044fdeca4ddd9012c7fbe44f2b10",
+    "Type": "Spawn",
+    "ID": "25472",
+    "Tables": "8",
+    "Table_0_Asset_ID": "27663",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "27664",
+    "Table_1_Weight": "100",
+    "Table_2_Asset_ID": "27665",
+    "Table_2_Weight": "100",
+    "Table_3_Asset_ID": "27666",
+    "Table_3_Weight": "100",
+    "Table_4_Asset_ID": "27667",
+    "Table_4_Weight": "100",
+    "Table_5_Asset_ID": "27668",
+    "Table_5_Weight": "100",
+    "Table_6_Asset_ID": "27669",
+    "Table_6_Weight": "100",
+    "Table_7_Asset_ID": "25609",
+    "Table_7_Weight": "100"
+  },
+  "translation": null
+}

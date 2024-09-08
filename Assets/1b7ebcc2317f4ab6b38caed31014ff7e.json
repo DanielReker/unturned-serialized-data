@@ -1,0 +1,15 @@
+{
+  "name": "Orange",
+  "path": "Bundles/Skins/Patterns/Orange/Orange.dat",
+  "data": {
+    "GUID": "1b7ebcc2317f4ab6b38caed31014ff7e",
+    "Type": "Skin",
+    "ID": "81",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Pattern": ""
+  },
+  "translation": null
+}

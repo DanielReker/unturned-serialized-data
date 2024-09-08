@@ -1,0 +1,29 @@
+{
+  "name": "IR_Humvee",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Vehicle/IR_Humvee/IR_Humvee.dat",
+  "data": {
+    "GUID": "63d99de682fe4658856b9a610f75be0b",
+    "Type": "Vehicle",
+    "Rarity": "Rare",
+    "ID": "14524",
+    "Speed_Min": "-6",
+    "Speed_Max": "14",
+    "Steer_Min": "12",
+    "Steer_Max": "24",
+    "Brake": "40",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "2000",
+    "Health_Min": "350",
+    "Health_Max": "450",
+    "Health": "550",
+    "Traction": "",
+    "Trunk_Storage_X": "6",
+    "Trunk_Storage_Y": "5",
+    "Explosion": "20",
+    "Invulnerable": ""
+  },
+  "translation": {
+    "Name": "Irish Humvee"
+  }
+}

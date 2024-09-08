@@ -1,0 +1,14 @@
+{
+  "name": "PS_Metal_Sheet_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Metal_Sheet_2/PS_Metal_Sheet_2.dat",
+  "data": {
+    "GUID": "9dfdeeac00f44a0fa637a682f4fe8723",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59164",
+    "Material_Palette": "1a1043ee05a242e0b86df81da16539b1"
+  },
+  "translation": {
+    "Name": "PS Metal Sheet #3"
+  }
+}

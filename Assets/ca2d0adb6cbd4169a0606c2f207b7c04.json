@@ -1,0 +1,23 @@
+{
+  "name": "Greece_Note_Military_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Greece_Note_Military_6/Greece_Note_Military_6.dat",
+  "data": {
+    "GUID": "ca2d0adb6cbd4169a0606c2f207b7c04",
+    "Type": "Medium",
+    "ID": "3983",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "4",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Greece Note Refugees",
+    "Interactability_Text_Line_0": "REFUGEE REPORT",
+    "Interactability_Text_Line_1": "Sergeant Per, June 20th",
+    "Interactability_Text_Line_2": "------",
+    "Interactability_Text_Line_3": "Survivors are showing up in dozens now, we will soon have to allocate more space to their protection. While this is certainly the right thing to do, I have begun to worry about the noise levels. As of late, the amount of wandering infected has almost trippled. If this keeps up, we might have issues in the near future. Especially with the full moon approaching."
+  }
+}

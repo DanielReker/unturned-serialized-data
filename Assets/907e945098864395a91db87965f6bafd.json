@@ -1,0 +1,14 @@
+{
+  "name": "France_Chef_Water_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Chef/France_Chef_Water_Accepted/Asset.dat",
+  "data": {
+    "GUID": "907e945098864395a91db87965f6bafd",
+    "Type": "Dialogue",
+    "ID": "4138",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Drink up, you'll feel much better."
+  }
+}

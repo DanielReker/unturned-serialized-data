@@ -1,0 +1,12 @@
+{
+  "name": "CA_Mall_Shelf_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Mall_Shelf_1/CA_Mall_Shelf_1.dat",
+  "data": {
+    "GUID": "024b2ea15ee2422f986b075ae21abf13",
+    "Type": "Medium",
+    "ID": "4560"
+  },
+  "translation": {
+    "Name": "California Mall Shelf #2"
+  }
+}

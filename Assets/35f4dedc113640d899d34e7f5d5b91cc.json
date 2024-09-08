@@ -1,0 +1,41 @@
+{
+  "name": "Ensign_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/Coali/Ensign_Adney/Ensign_Welcome/Asset.dat",
+  "data": {
+    "GUID": "35f4dedc113640d899d34e7f5d5b91cc",
+    "Type": "Dialogue",
+    "ID": "15132",
+    "Messages": "3",
+    "Message_0_Pages": "1",
+    "Message_0_Responses": "1",
+    "Message_0_Response_0": "2",
+    "Message_0_Conditions": "1",
+    "Message_0_Condition_0_Type": "Flag_Bool",
+    "Message_0_Condition_0_ID": "15000",
+    "Message_0_Condition_0_Value": "True",
+    "Message_0_Condition_0_Logic": "Equal",
+    "Message_1_Pages": "1",
+    "Message_1_Responses": "2",
+    "Message_1_Response_0": "0",
+    "Message_1_Response_1": "1",
+    "Message_1_Conditions": "1",
+    "Message_1_Condition_0_Type": "Flag_Bool",
+    "Message_1_Condition_0_ID": "15005",
+    "Message_1_Condition_0_Value": "True",
+    "Message_1_Condition_0_Logic": "Equal",
+    "Message_2_Pages": "1",
+    "Message_2_Responses": "1",
+    "Message_2_Response_0": "2",
+    "Responses": "3",
+    "Response_0_Dialogue": "15133",
+    "Response_0_Vendor": "15202"
+  },
+  "translation": {
+    "Message_0_Page_0": "Go away, <color=red>IFR</color> spy!",
+    "Message_1_Page_0": "Good day! ",
+    "Message_2_Page_0": "Go up to <color=mythical>Sir Thomas</color> if you want to join.",
+    "Response_0": "I'd like to gear up.",
+    "Response_1": "You too!",
+    "Response_2": "Will do."
+  }
+}

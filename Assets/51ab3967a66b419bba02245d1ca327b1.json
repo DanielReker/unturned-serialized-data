@@ -1,0 +1,19 @@
+{
+  "name": "PS_Weapons_Cache_Explosives",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Weapons_Cache_Explosives/PS_Weapons_Cache_Explosives.dat",
+  "data": {
+    "GUID": "51ab3967a66b419bba02245d1ca327b1",
+    "Type": "Spawn",
+    "ID": "59020",
+    "Tables": "4",
+    "Table_0_Asset_ID": "59419",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "59649",
+    "Table_1_Weight": "100",
+    "Table_2_Asset_ID": "59198",
+    "Table_2_Weight": "25",
+    "Table_3_Asset_ID": "59199",
+    "Table_3_Weight": "10"
+  },
+  "translation": null
+}

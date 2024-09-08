@@ -1,0 +1,33 @@
+{
+  "name": "Ladder_Wooden",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Ladder_Wooden/Ladder_Wooden.dat",
+  "data": {
+    "GUID": "0af68d696f614663ba24e50a05ee90a4",
+    "Type": "Barricade",
+    "Rarity": "Uncommon",
+    "Useable": "Barricade",
+    "Build": "Ladder",
+    "ID": "51651",
+    "SalvageItem": "0af68d696f614663ba24e50a05ee90a4",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Health": "500",
+    "Range": "4",
+    "Offset": "0.125",
+    "Vulnerable": "",
+    "Explosion": "19",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51023",
+    "Blueprint_0_Supply_0_Amount": "6",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Wooden Ladder",
+    "Description": "Wooden ladder ideal for ascent and descent."
+  }
+}

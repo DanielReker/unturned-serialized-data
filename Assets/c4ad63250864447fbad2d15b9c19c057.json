@@ -1,0 +1,14 @@
+{
+  "name": "26081KEZC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26060KEZD/26080KEZC/26081KEZC/Asset.dat",
+  "data": {
+    "GUID": "c4ad63250864447fbad2d15b9c19c057",
+    "Type": "Dialogue",
+    "ID": "26081",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Here ya go boss. Thanks for the cash."
+  }
+}

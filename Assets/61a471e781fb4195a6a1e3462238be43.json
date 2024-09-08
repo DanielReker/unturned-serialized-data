@@ -1,0 +1,17 @@
+{
+  "name": "PS_Trader_5_Quest_0_Good_Luck",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_5_Dialogue/PS_Trader_5_Quest_0_Good_Luck/Asset.dat",
+  "data": {
+    "GUID": "61a471e781fb4195a6a1e3462238be43",
+    "Type": "Dialogue",
+    "ID": "59368",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "59125"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good Luck",
+    "Response_0": "Thank you."
+  }
+}

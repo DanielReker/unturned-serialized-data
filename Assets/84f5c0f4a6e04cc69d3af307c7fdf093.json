@@ -1,0 +1,13 @@
+{
+  "name": "Volga_Yellow",
+  "path": "Bundles/Objects/Large/Vehicles/Volga_Yellow/Volga_Yellow.dat",
+  "data": {
+    "GUID": "84f5c0f4a6e04cc69d3af307c7fdf093",
+    "Type": "Large",
+    "ID": "653",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Yellow Auto"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "France_Rula_France_Hydro",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/France_Rula_France_Hydro/France_Rula_France_Hydro.dat",
+  "data": {
+    "GUID": "eabf2fe04c454da786097a5a580a6603",
+    "Type": "Spawn",
+    "ID": "2173",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "2172",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

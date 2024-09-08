@@ -1,0 +1,30 @@
+{
+  "name": "Disease_Page_Symptom_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Disease_Page_Symptom_1/Disease_Page_Symptom_1.dat",
+  "data": {
+    "GUID": "3fb35e28d98d4ae1979f3b47a899b0ea",
+    "Type": "Small",
+    "ID": "3815",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3300",
+    "Condition_0_Value": "1",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "9",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Disease Page #2",
+    "Interactability_Text_Line_0": "MODERN DISEASES",
+    "Interactability_Text_Line_1": "PAGE 122",
+    "Interactability_Text_Line_2": "-----",
+    "Interactability_Text_Line_3": "Malaria",
+    "Interactability_Text_Line_4": "-----",
+    "Interactability_Text_Line_5": "Common Symptoms: ",
+    "Interactability_Text_Line_6": "•Fever",
+    "Interactability_Text_Line_7": "•Headache",
+    "Interactability_Text_Line_8": "•Chills"
+  }
+}

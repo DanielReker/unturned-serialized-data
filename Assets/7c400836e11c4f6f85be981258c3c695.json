@@ -1,0 +1,26 @@
+{
+  "name": "Kuwait_Money_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Supplies/Kuwait_Money_01/Kuwait_Money_01.dat",
+  "data": {
+    "GUID": "7c400836e11c4f6f85be981258c3c695",
+    "Type": "Supply",
+    "Rarity": "Common",
+    "ID": "5509",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.375",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "5509",
+    "Blueprint_0_Supply_0_Amount": "5",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Product": "5510",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Kuwait"
+  },
+  "translation": {
+    "Name": "One Dinar",
+    "Description": "Valuable currency used for trading.<br><color=#FF69B4>Worth 1 KWD</color><br>"
+  }
+}

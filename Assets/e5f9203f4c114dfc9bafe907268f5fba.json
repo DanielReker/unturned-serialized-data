@@ -1,0 +1,12 @@
+{
+  "name": "PBS_Spiritual",
+  "path": "Bundles/Mythics/PBS_Spiritual/PBS_Spiritual.dat",
+  "data": {
+    "GUID": "e5f9203f4c114dfc9bafe907268f5fba",
+    "Type": "Mythic",
+    "ID": "53"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Spirit Signs"
+  }
+}

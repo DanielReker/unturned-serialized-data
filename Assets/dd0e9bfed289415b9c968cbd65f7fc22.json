@@ -1,0 +1,34 @@
+{
+  "name": "Hat_Pirate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Hats/Hat_Pirate/Hat_Pirate.dat",
+  "data": {
+    "GUID": "dd0e9bfed289415b9c968cbd65f7fc22",
+    "Rarity": "Legendary",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "26739",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.52",
+    "Use_Auto_Icon_Measurements": "False",
+    "WearAudio": "Sounds/Clothes/Clothes.asset",
+    "Beard": "",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26739",
+    "Blueprint_0_Product": "25300",
+    "Blueprint_0_Products": "4",
+    "Blueprint_0_Build": "25535",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25300",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Build": "25534",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Pirate Hat",
+    "Description": "Watch all the movies you want for free."
+  }
+}

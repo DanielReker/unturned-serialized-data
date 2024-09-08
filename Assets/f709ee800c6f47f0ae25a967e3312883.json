@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Outlands_Trophy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Kuwait_Outlands_Trophy/Kuwait_Outlands_Trophy.dat",
+  "data": {
+    "GUID": "f709ee800c6f47f0ae25a967e3312883",
+    "Type": "Spawn",
+    "ID": "7240",
+    "Tables": "1",
+    "Table_0_Asset_ID": "5491",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

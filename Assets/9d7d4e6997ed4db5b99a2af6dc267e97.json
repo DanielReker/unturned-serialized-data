@@ -1,0 +1,14 @@
+{
+  "name": "Frost_Crystal_Cyan",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Crafting/Frost_Crystal_Cyan/Frost_Crystal_Cyan.dat",
+  "data": {
+    "GUID": "9d7d4e6997ed4db5b99a2af6dc267e97",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "36017"
+  },
+  "translation": {
+    "Name": "Cyan Crystal",
+    "Description": "<color=#64c819>Crafting Material</color>"
+  }
+}

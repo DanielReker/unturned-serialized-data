@@ -1,0 +1,33 @@
+{
+  "name": "Metro_Floor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Structures/Metal/Metro_Floor/Metro_Floor.dat",
+  "data": {
+    "GUID": "1ffd9fe102704ebfa7cfaf821320c96c",
+    "Type": "Structure",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Epic",
+    "Useable": "Structure",
+    "Construct": "Floor",
+    "ID": "57243 ",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Health": "1300",
+    "Range": "8",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "67",
+    "Blueprint_0_Supply_0_Amount": "10",
+    "Blueprint_0_Level": "2",
+    "Blueprint_0_Skill": "Craft",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Elver",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Metal Floor",
+    "Description": "<color=#64c819>1300</color> Health"
+  }
+}

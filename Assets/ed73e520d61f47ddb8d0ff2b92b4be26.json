@@ -1,0 +1,13 @@
+{
+  "name": "Eiffel_Tower",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/Eiffel_Tower/Eiffel_Tower.dat",
+  "data": {
+    "GUID": "ed73e520d61f47ddb8d0ff2b92b4be26",
+    "Type": "Large",
+    "ID": "35032",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Eiffel Tower"
+  }
+}

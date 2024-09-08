@@ -1,0 +1,44 @@
+{
+  "name": "Easter_Garbage",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Spawns/Items/Easter_Garbage/Easter_Garbage.dat",
+  "data": {
+    "GUID": "044f6158256944629180d037117c7016",
+    "Type": "Spawn",
+    "ID": "6660",
+    "Tables": [
+      {
+        "LegacyAssetId": "67",
+        "Weight": "40"
+      },
+      {
+        "LegacyAssetId": "71",
+        "Weight": "25"
+      },
+      {
+        "LegacyAssetId": "72",
+        "Weight": "25"
+      },
+      {
+        "LegacyAssetId": "69",
+        "Weight": "25"
+      },
+      {
+        "LegacyAssetId": "66",
+        "Weight": "25"
+      },
+      {
+        "Guid": "b64484f2c2df4262bd6990b4818b607d",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "28",
+        "Weight": "5"
+      },
+      {
+        "LegacyAssetId": "1353",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BE Billboard #5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Billboard #5/BE Billboard #5.dat",
+  "data": {
+    "GUID": "95b36ac633744532840f5e62c943db11",
+    "Type": "Large",
+    "ID": "9108",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Billboard #5"
+  }
+}

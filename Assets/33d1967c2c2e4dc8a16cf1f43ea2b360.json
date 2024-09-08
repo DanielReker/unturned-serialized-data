@@ -1,0 +1,30 @@
+{
+  "name": "gurt",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Vendors/gurt/Asset.dat",
+  "data": {
+    "GUID": "33d1967c2c2e4dc8a16cf1f43ea2b360",
+    "Type": "Vendor",
+    "ID": "52188",
+    "Disable_Sorting": "",
+    "Selling": "1",
+    "Selling_0_ID": "52019",
+    "Selling_0_Cost": "50",
+    "Selling_0_Rewards": "4",
+    "Selling_0_Reward_0_Type": "Item_Random",
+    "Selling_0_Reward_0_ID": "51109",
+    "Selling_0_Reward_0_Amount": "1",
+    "Selling_0_Reward_1_Type": "Rewards_List_Asset",
+    "Selling_0_Reward_1_GUID": "d424d1658c214b4c938c022f9c2eaace",
+    "Selling_0_Reward_2_Type": "Flag_Short",
+    "Selling_0_Reward_2_ID": "52191",
+    "Selling_0_Reward_2_Value": "1",
+    "Selling_0_Reward_2_Modification": "Increment",
+    "Selling_0_Reward_3_Type": "Rewards_List_Asset",
+    "Selling_0_Reward_3_GUID": "23e63ae98ee74631b1f875b6a896322c",
+    "Currency": "561f74cdccdf48abaa6d49343b56aab0"
+  },
+  "translation": {
+    "Name": "gurt cool item",
+    "Description": "look what gurt found"
+  }
+}

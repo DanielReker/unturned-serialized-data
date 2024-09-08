@@ -1,0 +1,19 @@
+{
+  "name": "Rodrigues_Interview_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Misc/Officer_Rodrigues/Rodrigues_Interview_3/Asset.dat",
+  "data": {
+    "GUID": "44561fcac0b84c98b67c63ad5ada3033",
+    "Type": "Dialogue",
+    "ID": "9213",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "9214",
+    "Response_1_Dialogue": "9214"
+  },
+  "translation": {
+    "Message_0_Page_0": "Final question<pause>.<pause>.<pause>.<pause>Pineapple on pizza?",
+    "Response_0": "Yes",
+    "Response_1": "No"
+  }
+}

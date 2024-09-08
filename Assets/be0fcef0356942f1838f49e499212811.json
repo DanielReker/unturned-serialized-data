@@ -1,0 +1,14 @@
+{
+  "name": "26886KACCF",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/265 CO/2664-2691 Mili/26880KACD/26886KACCF/Asset.dat",
+  "data": {
+    "GUID": "be0fcef0356942f1838f49e499212811",
+    "Type": "Dialogue",
+    "ID": "26886",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh, I'll talk to their superior and sort it out. Thanks for letting me know!"
+  }
+}

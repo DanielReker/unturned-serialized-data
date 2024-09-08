@@ -1,0 +1,28 @@
+{
+  "name": "PBS_Cruz_A10",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Quests/PBS_Cruz_A10/Asset.dat",
+  "data": {
+    "GUID": "68dfe1ddc3ba421daae4a9e64dbcdd67",
+    "Type": "Quest",
+    "ID": "52171",
+    "Conditions": "2",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "51329",
+    "Condition_0_Amount": "1",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Currency",
+    "Condition_1_GUID": "561f74cdccdf48abaa6d49343b56aab0",
+    "Condition_1_Value": "7500",
+    "Condition_1_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_1_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51331",
+    "Reward_0_Amount": "1"
+  },
+  "translation": {
+    "Name": "<color=legendary>Strike Package: Close Air Support</color>",
+    "Description": "A ground attack aircraft will provide precise rapid munitions over a small area.  Ideal for clearing targets."
+  }
+}

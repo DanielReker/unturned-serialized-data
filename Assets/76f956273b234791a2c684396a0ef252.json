@@ -1,0 +1,13 @@
+{
+  "name": "PS_Military_Radio_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Military_Radio_2/PS_Military_Radio_2.dat",
+  "data": {
+    "GUID": "76f956273b234791a2c684396a0ef252",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59142"
+  },
+  "translation": {
+    "Name": "PS Military Radio #3"
+  }
+}

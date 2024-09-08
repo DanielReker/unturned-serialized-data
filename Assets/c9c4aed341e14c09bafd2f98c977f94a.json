@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Gas_Station",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Stores/Buak_Gas_Station/Buak_Gas_Station.dat",
+  "data": {
+    "GUID": "c9c4aed341e14c09bafd2f98c977f94a",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "LOD": "Area",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Gas_Station"
+  }
+}

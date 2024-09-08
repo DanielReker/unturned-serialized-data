@@ -1,0 +1,19 @@
+{
+  "name": "Big_Snowman_02",
+  "path": "Bundles/Objects/Small/Quests/Big_Snowman_02/Big_Snowman_02.dat",
+  "data": {
+    "GUID": "3d6cc2ef26714c9f8acb0ade78485484",
+    "Type": "Small",
+    "ID": "1",
+    "Holiday_Restriction": "CHRISTMAS",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "267",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Big Snowman #3"
+  }
+}

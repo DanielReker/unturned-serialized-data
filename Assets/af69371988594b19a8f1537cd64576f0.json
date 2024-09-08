@@ -1,0 +1,17 @@
+{
+  "name": "Frost_Grip_Mosin_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Attachments/Frost_Grip_Mosin_0/Frost_Grip_Mosin_0.dat",
+  "data": {
+    "GUID": "af69371988594b19a8f1537cd64576f0",
+    "Type": "Grip",
+    "Rarity": "Rare",
+    "ID": "36521",
+    "Sway": "255",
+    "Master_Bundle_Override": "frost.masterbundle",
+    "Bundle_Override_Path": "/Items/Attachments/Frost_Grip_Mosin"
+  },
+  "translation": {
+    "Name": "Moses Grip",
+    "Description": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "IR_AirGun_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/City/IR_AirGun_1/IR_AirGun_1.dat",
+  "data": {
+    "GUID": "f6f66b4b241a4814a4ce4432654a1985",
+    "Type": "Large",
+    "ID": "17043"
+  },
+  "translation": {
+    "Name": "Irish AirGun#1"
+  }
+}

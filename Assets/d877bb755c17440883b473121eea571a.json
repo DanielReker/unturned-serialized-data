@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Q_AG_Intro_P2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/AG_00/Buak_Q_AG_Intro_P2/Buak_Q_AG_Intro_P2.dat",
+  "data": {
+    "GUID": "d877bb755c17440883b473121eea571a",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Q_AG_Intro_P2"
+  }
+}

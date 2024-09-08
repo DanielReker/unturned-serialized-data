@@ -1,0 +1,13 @@
+{
+  "name": "PS_Garage_Gate_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Garage_Gate_0/PS_Garage_Gate_0.dat",
+  "data": {
+    "GUID": "1a97300c92f745dc8ff0364289358ef2",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59499"
+  },
+  "translation": {
+    "Name": "PS Garage Gate #1"
+  }
+}

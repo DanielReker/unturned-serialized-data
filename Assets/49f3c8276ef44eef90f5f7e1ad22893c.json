@@ -1,0 +1,13 @@
+{
+  "name": "Keg_0",
+  "path": "Bundles/Objects/Medium/Business/Keg_0/Keg_0.dat",
+  "data": {
+    "GUID": "49f3c8276ef44eef90f5f7e1ad22893c",
+    "Type": "Medium",
+    "ID": "1010",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Keg #1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Grave_1",
+  "path": "Bundles/Objects/Medium/Furniture/Grave_1/Grave_1.dat",
+  "data": {
+    "GUID": "1fe4f18eecf545d89af0ddd4635bbed0",
+    "Type": "Medium",
+    "ID": "860",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Grave #2"
+  }
+}

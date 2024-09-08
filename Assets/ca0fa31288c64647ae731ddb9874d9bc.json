@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Silver",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Silver/Drop_Silver.dat",
+  "data": {
+    "GUID": "ca0fa31288c64647ae731ddb9874d9bc",
+    "Type": "Spawn",
+    "ID": "25490",
+    "Tables": [
+      {
+        "Guid": "659de03f86ba4141af3e520079c44b2a",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

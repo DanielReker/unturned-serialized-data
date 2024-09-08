@@ -1,0 +1,16 @@
+{
+  "name": "HescoGreen",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/HescoGreen/HescoGreen.dat",
+  "data": {
+    "GUID": "976986e0ec3940e7a0f4d0a41222dfd2",
+    "Type": "Medium",
+    "ID": "51000",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Hesco Green"
+  }
+}

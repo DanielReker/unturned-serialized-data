@@ -1,0 +1,22 @@
+{
+  "name": "Metro_Door_Purple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/Metro_Door_Purple/Metro_Door_Purple.dat",
+  "data": {
+    "GUID": "8e8ef743fc29434482f698dc39ba6ba0",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57420",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "57005",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability": "Binary_State",
+    "Interactability_Delay": "2",
+    "Interactability_Hint": "Use"
+  },
+  "translation": {
+    "Name": "Metro Door [PURPLE]",
+    "Interactability_Condition_0": "Missing Purple Keycard"
+  }
+}

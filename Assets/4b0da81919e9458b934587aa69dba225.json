@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Outlands_Dartboard_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Quests/Kuwait_Outlands/Kuwait_Outlands_Dartboard_0/Kuwait_Outlands_Dartboard_0.dat",
+  "data": {
+    "GUID": "4b0da81919e9458b934587aa69dba225",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5999",
+    "Chart": "Ignore",
+    "GPS": "Ignore"
+  },
+  "translation": {
+    "Name": "Kuwait Outlands Dartboard #1"
+  }
+}

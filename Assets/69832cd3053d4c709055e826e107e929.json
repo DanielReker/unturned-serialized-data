@@ -1,0 +1,32 @@
+{
+  "name": "PS_AN_Fertilizer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Growers/PS_AN_Fertilizer/PS_AN_Fertilizer.dat",
+  "data": {
+    "GUID": "69832cd3053d4c709055e826e107e929",
+    "Type": "Grower",
+    "Rarity": "Uncommon",
+    "Useable": "Grower",
+    "ID": "59133",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Actions": "2",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Source": "59198",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Blueprint_0_Link": "",
+    "Action_0_Text": "Craft Homemade Explosives",
+    "Action_0_Tooltip": "Combine Fertilizer with other ingredients",
+    "Action_1_Type": "Blueprint",
+    "Action_1_Blueprints": "1",
+    "Action_1_Source": "59360",
+    "Action_1_Blueprint_0_Index": "0",
+    "Action_1_Text": "Craft Planter",
+    "Action_1_Tooltip": "Use Fertilizer and Planks."
+  },
+  "translation": {
+    "Name": "Chemical Fertilizer ",
+    "Description": "Artificial fertilizer. Can be used in homemade explosives."
+  }
+}

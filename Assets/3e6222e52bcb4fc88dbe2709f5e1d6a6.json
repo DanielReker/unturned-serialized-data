@@ -1,0 +1,33 @@
+{
+  "name": "Prisoner_Bottom_Belgium",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Items/Pants/Prisoner_Bottom_Belgium/Prisoner_Bottom_Belgium.dat",
+  "data": {
+    "GUID": "3e6222e52bcb4fc88dbe2709f5e1d6a6",
+    "Type": "Pants",
+    "Rarity": "Uncommon",
+    "Useable": "Clothing",
+    "ID": "9038",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Width": "5",
+    "Height": "2",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "9038",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "32",
+    "Asset_Bundle_Version_2": ""
+  },
+  "translation": {
+    "Name": "Prisoner Bottom",
+    "Description": "Belgian Prisoner uniform pants."
+  }
+}

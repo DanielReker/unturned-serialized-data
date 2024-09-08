@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Toll_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Toll_0/Metro_Toll_0.dat",
+  "data": {
+    "GUID": "24a87a816a5c4e1a94e2dff1b0e047de",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57044",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "Metro Toll #1"
+  }
+}

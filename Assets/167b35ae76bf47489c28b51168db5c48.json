@@ -1,0 +1,24 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Others/May/May_01/Welcome/Asset.dat",
+  "data": {
+    "GUID": "167b35ae76bf47489c28b51168db5c48",
+    "Type": "Dialogue",
+    "ID": "24121",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "4",
+    "Response_1_Dialogue": "add96252afa347f0b5eb21ff90763986",
+    "Response_2_Dialogue": "42341954ea604fe9b2d55175f0827990",
+    "Response_3_Dialogue": "167b35ae76bf47489c28b51168db5c48",
+    "Response_3_Vendor": "d28ba29e67bc4e638223b323d84ccf62"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hi!",
+    "Response_0": "Hello!",
+    "Response_1": "Do you live around here?",
+    "Response_2": "How long do you plan on staying?",
+    "Response_3": "Anything to sell?",
+    "Response_4": "Goodbye!"
+  }
+}

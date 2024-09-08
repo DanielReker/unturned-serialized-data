@@ -1,0 +1,13 @@
+{
+  "name": "Brazil_Boats_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Brazil_Boats_Brazil/Brazil_Boats_Brazil.dat",
+  "data": {
+    "GUID": "055868cf9fd54e01b5392f5887e20b06",
+    "Type": "Spawn",
+    "ID": "5525",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5524",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

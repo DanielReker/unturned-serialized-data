@@ -1,0 +1,23 @@
+{
+  "name": "Survivor Ivanildo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Survivors/Survivor Ivanildo/Asset.dat",
+  "data": {
+    "GUID": "a62595ee479547c28a006d3941deaec5",
+    "Type": "NPC",
+    "ID": "9013",
+    "Shirt": "420",
+    "Pants": "208",
+    "Glasses": "568",
+    "Face": "22",
+    "Hair": "4",
+    "Beard": "1",
+    "Color_Skin": "#9b754f",
+    "Color_Hair": "#211102",
+    "Pose": "Sit",
+    "Dialogue": "9201"
+  },
+  "translation": {
+    "Name": "NAM Survivor Ivanildo",
+    "Character": "Ivanildo"
+  }
+}

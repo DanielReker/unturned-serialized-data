@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Krieger_VendComp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Visitors/Dialogues/PBS_Krieger/PBS_Krieger_VendComp/Asset.dat",
+  "data": {
+    "GUID": "1fc0e4ff526940f983fea84ccb22ffce",
+    "Type": "Dialogue",
+    "ID": "52642",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hope this solves your problem."
+  }
+}

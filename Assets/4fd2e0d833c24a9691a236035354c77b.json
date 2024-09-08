@@ -1,0 +1,39 @@
+{
+  "name": "Metro_Snare",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Overrides_Barricades/Metro_Snare/Metro_Snare.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "4fd2e0d833c24a9691a236035354c77b",
+    "Type": "Trap",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Spike",
+    "ID": "57397",
+    "Size_X": "2",
+    "Health": "1",
+    "Range": "4",
+    "Radius": "0.05",
+    "Offset": "0.075",
+    "Player_Damage": "10",
+    "Zombie_Damage": "175",
+    "Animal_Damage": "175",
+    "Broken": "",
+    "Explosion": "36",
+    "Vulnerable": "",
+    "Unrepairable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "67",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "285",
+    "Blueprint_0_Supply_1_Amount": "3",
+    "Blueprint_0_Build": "27",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/Snare"
+  },
+  "translation": {
+    "Name": "Snare",
+    "Description": "<color=#64c819>10</color> Player Damage                                                         <color=#64c819>1</color> Health"
+  }
+}

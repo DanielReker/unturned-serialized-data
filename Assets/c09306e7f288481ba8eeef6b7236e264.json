@@ -1,0 +1,24 @@
+{
+  "name": "Socks_Knee_Purple_Black",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Socks/Socks_Knee_Purple_Black/Socks_Knee_Purple_Black.dat",
+  "data": {
+    "GUID": "c09306e7f288481ba8eeef6b7236e264",
+    "Rarity": "Mythical",
+    "Type": "Supply",
+    "ID": "26392",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26392",
+    "Blueprint_0_Product": "25300",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "25535",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Purple & Black Knee High Socks",
+    "Description": "Purple & black knee high socks. Craft onto a pair of Sawed-Off Shorts."
+  }
+}

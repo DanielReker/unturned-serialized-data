@@ -1,0 +1,23 @@
+{
+  "name": "BP_Sledgehammer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Sledgehammer/Asset.dat",
+  "data": {
+    "GUID": "ee46611f5e2f4e97ad417196468c31af",
+    "Type": "Quest",
+    "ID": "24973",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "1d4472f8c7ba4df2924745239a710d7d",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24972",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Sledgehammer Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Sledgehammer Recipe"
+  }
+}

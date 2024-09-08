@@ -1,0 +1,13 @@
+{
+  "name": "Coastguard_Special",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Vehicles/Coastguard_Special/Coastguard_Special.dat",
+  "data": {
+    "GUID": "af6734190dcf4c9c9916069b7e384b67",
+    "Type": "Spawn",
+    "ID": "820",
+    "Tables": "1",
+    "Table_0_Asset_ID": "830",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

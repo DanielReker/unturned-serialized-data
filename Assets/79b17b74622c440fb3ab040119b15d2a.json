@@ -1,0 +1,13 @@
+{
+  "name": "PS_Armory_Shelf_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Armory_Shelf_2/PS_Armory_Shelf_2.dat",
+  "data": {
+    "GUID": "79b17b74622c440fb3ab040119b15d2a",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59784"
+  },
+  "translation": {
+    "Name": "PS Armory Shelf #3"
+  }
+}

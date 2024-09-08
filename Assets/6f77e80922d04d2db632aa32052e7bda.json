@@ -1,0 +1,33 @@
+{
+  "name": "PS_Electric_Fence_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Barricades/PS_Electric_Fence_0/PS_Electric_Fence_0.dat",
+  "data": {
+    "GUID": "6f77e80922d04d2db632aa32052e7bda",
+    "Type": "Trap",
+    "Rarity": "Mythical",
+    "Useable": "Barricade",
+    "Build": "Spike",
+    "ID": "60009",
+    "Has_Clip_Prefab": "False",
+    "Size_X": "4",
+    "Size_Y": "4",
+    "Size_Z": "0.35",
+    "Unrepairable": "",
+    "Unpickupable": "",
+    "Proof_Explosion": "",
+    "Can_Be_Damaged": "False",
+    "Health": "51232",
+    "Range": "4",
+    "Radius": "0.28",
+    "Offset": "0.25",
+    "Player_Damage": "66",
+    "Zombie_Damage": "60",
+    "Animal_Damage": "80",
+    "Explosion": "19",
+    "PlacementAudioClip": "Sounds/WoodenPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Electric Fence OP",
+    "Description": "You should not place this item!"
+  }
+}

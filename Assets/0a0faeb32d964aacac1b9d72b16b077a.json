@@ -1,0 +1,19 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Others/Molt/Welcome/Asset.dat",
+  "data": {
+    "GUID": "0a0faeb32d964aacac1b9d72b16b077a",
+    "Type": "Dialogue",
+    "ID": "24647",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_1_Dialogue": "fd91376a5810401d957e6b59cbe6af41"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hey!",
+    "Response_0": "Hello!",
+    "Response_1": "How do you know Amber and Viola?",
+    "Response_2": "Goodbye!"
+  }
+}

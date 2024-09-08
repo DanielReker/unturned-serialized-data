@@ -1,0 +1,14 @@
+{
+  "name": "PEI_Sand_00_PhysicsMaterial",
+  "path": "Bundles/Assets/PhysicsMaterials/PEI_Sand_00_PhysicsMaterial.asset",
+  "data": {
+    "GUID": "aa4d5fb66aba40c08a2f54b5b543b2c9",
+    "Type": "SDG.Unturned.PhysicsMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "UnityNames": [
+      "PEI_Sand_00"
+    ],
+    "Fallback": "50bac8b8bf8648fc88fd012ccd176f17",
+    "TireMotionEffect": "b134d38c1df448f7b2446ccab2ce181b"
+  },
+  "translation": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Note_Hawaii15",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Note_Hawaii15/Note_Hawaii15.dat",
+  "data": {
+    "GUID": "9cce62ed252148e9b8eb5f9cba27425d",
+    "Type": "Medium",
+    "ID": "6214",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Hawaii Note - Akoni",
+    "Interactability_Text_Line_0": "Journal Entry:",
+    "Interactability_Text_Line_1": "*   *   * ",
+    "Interactability_Text_Line_2": "They've been holding us here for days! Even though the ship is lovely I can't take much more of this! Why haven't we docked yet? I'll have to go ask the crew again."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Canned_Ham",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Food/Canned_Ham/Canned_Ham.dat",
+  "data": {
+    "GUID": "679a7a94b6514a84b9ad6e8656cc5885",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "5243",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Health": "10",
+    "Food": "40",
+    "Quality_Min": "50",
+    "Quality_Max": "100",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "5538",
+    "Quest_Reward_0_Amount": "1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Canned_Ham",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Canned Ham",
+    "Description": "Pink and somehow cooked. Not legal here.<br><color=#BF1F1F>+10 HP</color><br><color=#AB8019>+40 Food</color>"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "May_Question_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Others/May/May_Question_01/Asset.dat",
+  "data": {
+    "GUID": "add96252afa347f0b5eb21ff90763986",
+    "Type": "Dialogue",
+    "ID": "24041",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "28",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Nope! N-not that this place stinks though! I just travel with my partner, so we are just stopping by and paying our respects.",
+    "Response_0": "Good to know!"
+  }
+}

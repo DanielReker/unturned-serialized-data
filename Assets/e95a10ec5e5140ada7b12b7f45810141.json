@@ -1,0 +1,17 @@
+{
+  "name": "Frost_Fisher_00_Quest_00_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Fisher_00/Frost_Fisher_00_Quest_00_Return/Asset.dat",
+  "data": {
+    "GUID": "e95a10ec5e5140ada7b12b7f45810141",
+    "Type": "Dialogue",
+    "ID": "36114",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "36111"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=#d2bf22>Fisher I</color> <color=#64c819>Completed</color>",
+    "Response_0": "Continue"
+  }
+}

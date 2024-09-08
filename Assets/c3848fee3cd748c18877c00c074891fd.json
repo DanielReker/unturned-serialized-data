@@ -1,0 +1,25 @@
+{
+  "name": "Metro_Art_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Paintings/Metro_Art_4/Metro_Art_4.dat",
+  "data": {
+    "GUID": "c3848fee3cd748c18877c00c074891fd",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Sign_Wall",
+    "ID": "57616",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.575",
+    "Health": "200",
+    "Range": "4",
+    "Offset": "0.125",
+    "Vulnerable": "",
+    "Explosion": "19"
+  },
+  "translation": {
+    "Name": "Sunset",
+    "Description": "<color=#64c819>200</color> Health<br>Collection #1<br>Painting 5/7"
+  }
+}

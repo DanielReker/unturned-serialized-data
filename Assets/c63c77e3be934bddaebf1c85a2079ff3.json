@@ -1,0 +1,32 @@
+{
+  "name": "FarmAmmo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Farm/FarmAmmo/FarmAmmo.dat",
+  "data": {
+    "GUID": "c63c77e3be934bddaebf1c85a2079ff3",
+    "Type": "Spawn",
+    "ID": "51095",
+    "Tables": [
+      {
+        "Guid": "2316fd2a2d5641c790c0197ce7ff4274",
+        "Weight": "4"
+      },
+      {
+        "Guid": "52a43d9cf72843a7b6d2410885f001ef",
+        "Weight": "4"
+      },
+      {
+        "Guid": "11e199ee44f34f8683d98f83870667e3",
+        "Weight": "3"
+      },
+      {
+        "Guid": "89ca704a018f4b7590d4f25eff758054",
+        "Weight": "2"
+      },
+      {
+        "Guid": "cc283a092cd5496a86c2447229eaef03",
+        "Weight": "2"
+      }
+    ]
+  },
+  "translation": null
+}

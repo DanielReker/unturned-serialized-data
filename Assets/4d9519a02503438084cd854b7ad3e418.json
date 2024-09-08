@@ -1,0 +1,21 @@
+{
+  "name": "Engineer_Thomas",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Engineer_Thomas/Asset.dat",
+  "data": {
+    "GUID": "4d9519a02503438084cd854b7ad3e418",
+    "Type": "NPC",
+    "ID": "2169",
+    "Shirt": "1462",
+    "Pants": "1463",
+    "Face": "10",
+    "Hair": "11",
+    "Beard": "13",
+    "Color_Skin": "#C7AE8B",
+    "Color_Hair": "#815050",
+    "Dialogue": "2170"
+  },
+  "translation": {
+    "Name": "Engineer Thomas",
+    "Character": "Thomas"
+  }
+}

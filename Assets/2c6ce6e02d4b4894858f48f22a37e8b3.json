@@ -1,0 +1,13 @@
+{
+  "name": "PS_Debris_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Debris_2/PS_Debris_2.dat",
+  "data": {
+    "GUID": "2c6ce6e02d4b4894858f48f22a37e8b3",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59787"
+  },
+  "translation": {
+    "Name": "PS Debris #3"
+  }
+}

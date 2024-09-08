@@ -1,0 +1,13 @@
+{
+  "name": "PS_Whiteboard_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Whiteboard_0/PS_Whiteboard_0.dat",
+  "data": {
+    "GUID": "cf527768ce1943698ab007c653f2090d",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59567"
+  },
+  "translation": {
+    "Name": "PS Whiteboard #1"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Kuwait_Electric_Fence",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Barricades/Kuwait_Electric_Fence/Kuwait_Electric_Fence.dat",
+  "data": {
+    "GUID": "8198ce783af8445eb53abd833a75f1ba",
+    "Type": "Trap",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Spike",
+    "ID": "5408",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Health": "250",
+    "Range": "4",
+    "Radius": "1",
+    "Offset": "1",
+    "Player_Damage": "55",
+    "Zombie_Damage": "100",
+    "Animal_Damage": "125",
+    "Explosion": "36",
+    "Allow_Placement_On_Vehicle": "False",
+    "Salvage_Duration_Multiplier": "0.6",
+    "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Electric Fence",
+    "Description": "Zap.<br><color=#BF1F1F>250 HP</color><br><color=#b8b188>55 Player Damage</color><br><color=#738769>100 Zombie Damage</color>"
+  }
+}

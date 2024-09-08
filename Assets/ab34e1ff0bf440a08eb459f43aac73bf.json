@@ -1,0 +1,15 @@
+{
+  "name": "House_04",
+  "path": "Bundles/Objects/Large/Buildings/House_04/House_04.dat",
+  "data": {
+    "GUID": "ab34e1ff0bf440a08eb459f43aac73bf",
+    "Type": "Large",
+    "ID": "76",
+    "LOD": "Mesh",
+    "Material_Palette": "87aba6cecf1c40788e98ab17a1c38783",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "House #05"
+  }
+}

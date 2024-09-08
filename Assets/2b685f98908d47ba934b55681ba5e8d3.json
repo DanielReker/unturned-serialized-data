@@ -1,0 +1,37 @@
+{
+  "name": "Frost_Fish_Black",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Edible/Frost_Fish_Black/Frost_Fish_Black.dat",
+  "data": {
+    "GUID": "2b685f98908d47ba934b55681ba5e8d3",
+    "Type": "Food",
+    "Rarity": "Epic",
+    "Useable": "Consumeable",
+    "ID": "36072",
+    "Size_X": "3",
+    "Player_Damage": "150",
+    "Zombie_Damage": "0",
+    "Animal_Damage": "0",
+    "Barricade_Damage": "0",
+    "Structure_Damage": "0",
+    "Vehicle_Damage": "0",
+    "Resource_Damage": "0",
+    "Object_Damage": "0",
+    "Range": "0",
+    "Explosion": "31",
+    "Food": "5",
+    "Water": "5",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supply_0_ID": "36072",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "36066",
+    "Blueprint_0_Output_0_Amount": "3",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Black Sakana",
+    "Description": "<color=#64c819>5</color> Food <color=#64c819>5</color> Water<br>Can be turned into <color=#ffffff>Raw Fish Meat</color> and then <color=#64c819>Cooked</color><br>\"Don't eat.\""
+  }
+}

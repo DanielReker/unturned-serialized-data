@@ -1,0 +1,27 @@
+{
+  "name": "Mag_Buckshot_Icon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Misc/Gun_Icons/Mag_Buckshot_Icon/Mag_Buckshot_Icon.dat",
+  "data": {
+    "GUID": "b18f8a8297a34dca8f0668c484359e3e",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "ID": "27515",
+    "Use_Auto_Icon_Measurements": "False",
+    "Bundle_Override_Path": "/Items/Magazines/Mag_Buckshot",
+    "Pro": "",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.14",
+    "Amount": "2",
+    "Count_Min": "1",
+    "Count_Max": "2",
+    "Calibers": "1",
+    "Caliber_0": "25309",
+    "Pellets": "8",
+    "Tracer": "48"
+  },
+  "translation": {
+    "Name": "Buckshot",
+    "Description": "Buckshot designed for a double barrel shotgun."
+  }
+}

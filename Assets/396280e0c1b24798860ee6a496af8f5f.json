@@ -1,0 +1,29 @@
+{
+  "name": "Meteor Artifact #2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Medium/Quests/Meteor Artifact #2/Meteor Artifact #2.dat",
+  "data": {
+    "GUID": "396280e0c1b24798860ee6a496af8f5f",
+    "Type": "Medium",
+    "ID": "9113",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "9093",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "2",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "9093",
+    "Interactability_Reward_0_Value": "True",
+    "Interactability_Reward_1_Type": "Flag_Short",
+    "Interactability_Reward_1_ID": "9095",
+    "Interactability_Reward_1_Value": "1",
+    "Interactability_Reward_1_Modification": "Increment",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Meteor Artifact #2",
+    "Interact": "Pickup Artifact [{0}]"
+  }
+}

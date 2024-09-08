@@ -1,0 +1,15 @@
+{
+  "name": "ZhugeLiangHat",
+  "path": "Bundles/Items/Outfits/ZhugeLiang/ZhugeLiangHat/ZhugeLiangHat.dat",
+  "data": {
+    "GUID": "aaf946a3e41c4f4e909c698ddffe3e69",
+    "Type": "Hat",
+    "ID": "1581",
+    "Beard": "",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.32",
+    "Pro": ""
+  },
+  "translation": null
+}

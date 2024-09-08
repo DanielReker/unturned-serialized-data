@@ -1,0 +1,28 @@
+{
+  "name": "Sergeant_Hale",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Sergeant_Hale/Asset.dat",
+  "data": {
+    "GUID": "6eb9cc7564ce4524ae7b5cc593196d1b",
+    "Type": "NPC",
+    "ID": "4522",
+    "Conditions": "1",
+    "Condition_0_Type": "Quest",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "45756",
+    "Condition_0_Status": "Completed",
+    "Condition_0_Allow_Unset": "",
+    "Shirt": "1011",
+    "Pants": "1012",
+    "Face": "22",
+    "Hair": "18",
+    "Beard": "11",
+    "Color_Skin": "#937854",
+    "Color_Hair": "#7D5541",
+    "Dialogue": "45771",
+    "Secondary": "488"
+  },
+  "translation": {
+    "Name": "Sergeant Hale",
+    "Character": "<color=uncommon>Sergeant Hale</color>"
+  }
+}

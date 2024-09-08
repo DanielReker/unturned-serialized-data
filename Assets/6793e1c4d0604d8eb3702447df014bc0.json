@@ -1,0 +1,34 @@
+{
+  "name": "PS_Trader_1_Barter_8",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_1_Dialogue/PS_Trader_1_Barter_8/Asset.dat",
+  "data": {
+    "GUID": "6793e1c4d0604d8eb3702447df014bc0",
+    "Type": "Quest",
+    "ID": "59115",
+    "Conditions": "4",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59514",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "59512",
+    "Condition_1_Amount": "1",
+    "Condition_1_Reset": "",
+    "Condition_2_Type": "Item",
+    "Condition_2_ID": "59236",
+    "Condition_2_Amount": "3",
+    "Condition_2_Reset": "",
+    "Condition_3_Type": "Item",
+    "Condition_3_ID": "59967",
+    "Condition_3_Amount": "2",
+    "Condition_3_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "59856",
+    "Reward_0_Amount": "1"
+  },
+  "translation": {
+    "Name": "Barter - Oxygenator",
+    "Description": "Exchange of goods."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Military_WalkyTalky_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Military_WalkyTalky_3/Military_WalkyTalky_3.dat",
+  "data": {
+    "GUID": "00a0cc4dff1a4f2d91e25ef3a8a59fde",
+    "Type": "Small",
+    "ID": "3685",
+    "Asset_Bundle_Version": "2",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "3077",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Military Perimeter #2 On"
+  }
+}

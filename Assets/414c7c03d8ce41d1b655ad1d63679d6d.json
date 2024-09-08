@@ -1,0 +1,16 @@
+{
+  "name": "HawaiiCoral_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiCoral_4/HawaiiCoral_4.dat",
+  "data": {
+    "GUID": "414c7c03d8ce41d1b655ad1d63679d6d",
+    "Type": "Large",
+    "ID": "828",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Hawaii Coral #5"
+  }
+}

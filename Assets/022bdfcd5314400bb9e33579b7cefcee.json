@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Watch",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Watch/Buak_Watch.dat",
+  "data": {
+    "GUID": "022bdfcd5314400bb9e33579b7cefcee",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1"
+  },
+  "translation": {
+    "Name": "Buak_Watch",
+    "Description": "01010100 01101000 01101001 01110010 01110011 01110100 01111001",
+    "Interactability_Text_Line_0": "*It seems to want to latch onto your wrist...*"
+  }
+}

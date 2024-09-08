@@ -1,0 +1,20 @@
+{
+  "name": "Patient Josuke",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Patients/Patient Josuke/Asset.dat",
+  "data": {
+    "GUID": "8b2c53696f0e425698490cd61b4f8a86",
+    "Type": "NPC",
+    "ID": "9031",
+    "Shirt": "8029",
+    "Pants": "8030",
+    "Hat": "8044",
+    "Face": "21",
+    "Color_Skin": "#fcefde",
+    "Pose": "Asleep",
+    "Dialogue": "9206"
+  },
+  "translation": {
+    "Name": "NAM Patient Josuke",
+    "Character": "???"
+  }
+}

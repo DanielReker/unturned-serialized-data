@@ -1,0 +1,14 @@
+{
+  "name": "26471KECBA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26460KECBD/26470KECBAD/26471KECBA/Asset.dat",
+  "data": {
+    "GUID": "2530057115674551a3497e873c25922f",
+    "Type": "Dialogue",
+    "ID": "26471",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You picked the right person for this, I'll get it done."
+  }
+}

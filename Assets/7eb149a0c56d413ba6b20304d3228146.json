@@ -1,0 +1,23 @@
+{
+  "name": "Military_Farm_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Farm_2/Asset.dat",
+  "data": {
+    "GUID": "7eb149a0c56d413ba6b20304d3228146",
+    "Type": "NPC",
+    "ID": "3573",
+    "Shirt": "161",
+    "Pants": "3504",
+    "Hat": "427",
+    "Face": "10",
+    "Hair": "16",
+    "Beard": "15",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#665037",
+    "Pose": "Sit",
+    "Dialogue": "3509"
+  },
+  "translation": {
+    "Name": "Greek Military Farmer George",
+    "Character": "<color=rare>Botanist George</color>"
+  }
+}

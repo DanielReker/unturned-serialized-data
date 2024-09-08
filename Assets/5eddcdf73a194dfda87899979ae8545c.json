@@ -1,0 +1,14 @@
+{
+  "name": "Security_Argus_Caught",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Military_Security_Argus/Security_Argus_Caught/Asset.dat",
+  "data": {
+    "GUID": "5eddcdf73a194dfda87899979ae8545c",
+    "Type": "Dialogue",
+    "ID": "3575",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good job, Soldier. Seeing as he is now rotting in a cell, he won't be needing his <color=rare>kopis</color>. Take it, it's yours."
+  }
+}

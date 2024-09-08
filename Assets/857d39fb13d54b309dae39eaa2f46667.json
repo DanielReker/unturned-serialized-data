@@ -1,0 +1,31 @@
+{
+  "name": "Argo_Green",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Vehicles/Hawaii/Argo_Green/Argo_Green.dat",
+  "data": {
+    "GUID": "857d39fb13d54b309dae39eaa2f46667",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "ID": "834",
+    "Speed_Min": "-6",
+    "Speed_Max": "13.5",
+    "Steer_Min": "16",
+    "Steer_Max": "32",
+    "Brake": "24",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "1000",
+    "Health_Min": "250",
+    "Health_Max": "450",
+    "Health": "600",
+    "Exit": "1.5",
+    "Trunk_Storage_X": "5",
+    "Trunk_Storage_Y": "4",
+    "Zip": "",
+    "Traction": "",
+    "Explosion": "20",
+    "Tires_Invulnerable": ""
+  },
+  "translation": {
+    "Name": "Green Scrounger"
+  }
+}

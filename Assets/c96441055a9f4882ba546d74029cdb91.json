@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Ashley_VendComp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Visitors/Dialogues/PBS_Ashley/PBS_Ashley_VendComp/Asset.dat",
+  "data": {
+    "GUID": "c96441055a9f4882ba546d74029cdb91",
+    "Type": "Dialogue",
+    "ID": "52772",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Don't lose your ways, stranger..."
+  }
+}

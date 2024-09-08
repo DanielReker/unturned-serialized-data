@@ -1,0 +1,17 @@
+{
+  "name": "BM2_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Songs/BM2_2/BM2_2.asset",
+  "data": {
+    "GUID": "6a935d74c26c4b76bfe2efbae94bd05d",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Song": {
+      "MasterBundle": "buak.masterbundle",
+      "AssetPath": "Music/BM2_2.ogg"
+    },
+    "Link_URL": "https://www.youtube.com/watch?v=v08rW7JLMX4",
+    "Is_Loop": "true"
+  },
+  "translation": {
+    "Name": "Don't Be A Coward - staswalle"
+  }
+}

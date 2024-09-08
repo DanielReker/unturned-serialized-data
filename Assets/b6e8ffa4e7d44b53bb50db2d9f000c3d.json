@@ -1,0 +1,33 @@
+{
+  "name": "Muscle_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Assets/Material_Palletes/Muscle_0.asset",
+  "data": {
+    "GUID": "b6e8ffa4e7d44b53bb50db2d9f000c3d",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "metro.masterbundle",
+        "Path": "Terrain/Metro/Material_Palletes/Muscle_0/Material_0.mat"
+      },
+      {
+        "Name": "metro.masterbundle",
+        "Path": "Terrain/Metro/Material_Palletes/Muscle_0/Material_1.mat"
+      },
+      {
+        "Name": "metro.masterbundle",
+        "Path": "Terrain/Metro/Material_Palletes/Muscle_0/Material_2.mat"
+      },
+      {
+        "Name": "metro.masterbundle",
+        "Path": "Terrain/Metro/Material_Palletes/Muscle_0/Material_3.mat"
+      },
+      {
+        "Name": "metro.masterbundle",
+        "Path": "Terrain/Metro/Material_Palletes/Muscle_0/Material_4.mat"
+      },
+      "}"
+    ]
+  },
+  "translation": null
+}

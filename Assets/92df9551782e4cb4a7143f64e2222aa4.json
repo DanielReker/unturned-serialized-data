@@ -1,0 +1,36 @@
+{
+  "name": "HMG",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/HMG/HMG.dat",
+  "data": {
+    "GUID": "92df9551782e4cb4a7143f64e2222aa4",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "ID": "51914",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.1",
+    "Amount": "100",
+    "Count_Min": "50",
+    "Count_Max": "100",
+    "Calibers": "1",
+    "Caliber_0": "51009",
+    "Tracer": "51000",
+    "Blueprints": "3",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51914",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51946",
+    "Blueprint_1_Build": "30",
+    "Blueprint_2_Type": "Ammo",
+    "Blueprint_2_Supplies": "1",
+    "Blueprint_2_Supply_0_ID": "51947",
+    "Blueprint_2_Build": "30"
+  },
+  "translation": {
+    "Name": "HMG Box",
+    "Description": "Holds 100 rounds of <color=#DB871A>High Caliber</color> ammo. Compatible with <color=legendary>HMT-250</color>."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Craft_Vehicle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Crafting/Craft_Vehicle/Craft_Vehicle.dat",
+  "data": {
+    "GUID": "30e1927c0fda434994ddef8e554a9679",
+    "Type": "Effect",
+    "ID": "25518"
+  },
+  "translation": null
+}

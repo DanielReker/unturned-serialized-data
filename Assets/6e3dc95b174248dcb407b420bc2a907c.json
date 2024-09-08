@@ -1,0 +1,14 @@
+{
+  "name": "CoralCrop_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/CoralCrop_0/CoralCrop_0.dat",
+  "data": {
+    "GUID": "6e3dc95b174248dcb407b420bc2a907c",
+    "Type": "Large",
+    "ID": "673",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Hawaii Coral Crop #1"
+  }
+}

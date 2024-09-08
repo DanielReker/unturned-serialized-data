@@ -1,0 +1,15 @@
+{
+  "name": "Sakura",
+  "path": "Bundles/Skins/Katana/Sakura/Sakura.dat",
+  "data": {
+    "GUID": "7a26921e8b244e5db5a42c248e41ac7d",
+    "Type": "Skin",
+    "ID": "50150",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

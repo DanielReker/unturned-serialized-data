@@ -1,0 +1,44 @@
+{
+  "name": "PS_Valuables_Bunker_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Valuables_Bunker_0/PS_Valuables_Bunker_0.dat",
+  "data": {
+    "GUID": "acb74aa77d0c4aa49bcfedf18696e91d",
+    "Type": "Spawn",
+    "ID": "59285",
+    "Tables": [
+      {
+        "LegacySpawnId": "59237",
+        "Weight": "40"
+      },
+      {
+        "LegacyAssetId": "59555",
+        "Weight": "22"
+      },
+      {
+        "LegacyAssetId": "59042",
+        "Weight": "22"
+      },
+      {
+        "LegacyAssetId": "59605",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "59041",
+        "Weight": "14"
+      },
+      {
+        "LegacyAssetId": "59143",
+        "Weight": "12"
+      },
+      {
+        "LegacyAssetId": "59401",
+        "Weight": "8"
+      },
+      {
+        "LegacyAssetId": "59374",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

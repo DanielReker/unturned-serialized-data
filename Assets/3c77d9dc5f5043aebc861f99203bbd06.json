@@ -1,0 +1,28 @@
+{
+  "name": "PBS_Devos",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Visitors/Characters/PBS_Devos/Asset.dat",
+  "data": {
+    "GUID": "3c77d9dc5f5043aebc861f99203bbd06",
+    "Type": "NPC",
+    "ID": "52670",
+    "Shirt": "9bc9872056cf47239b552f2609ae2a37",
+    "Pants": "f0067775c857440890cb7fbdb7214122",
+    "Hat": "fd7b71a3b99548aea9010d59fc81ce15",
+    "Face": "1",
+    "Hair": "0",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#CDC08C",
+    "Dialogue": "52671",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Date_Counter",
+    "Condition_0_Value": "5",
+    "Condition_0_Divisor": "13",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS NPC Visitor Devos",
+    "Character": "Mr. Devos"
+  }
+}

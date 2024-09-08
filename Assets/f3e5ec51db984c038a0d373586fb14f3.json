@@ -1,0 +1,14 @@
+{
+  "name": "Lais_Help_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Trading/Lais_Dialogue/Lais_Help_Completed/Asset.dat",
+  "data": {
+    "GUID": "f3e5ec51db984c038a0d373586fb14f3",
+    "Type": "Dialogue",
+    "ID": "8266",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I can't thank you enough! Here, take these. They aren't much but they are the only way I can repay you."
+  }
+}

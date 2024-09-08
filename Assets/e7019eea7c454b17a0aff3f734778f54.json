@@ -1,0 +1,28 @@
+{
+  "name": "Frost_Shell_Slug",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Attachments/Frost_Shell_Slug/Frost_Shell_Slug.dat",
+  "data": {
+    "GUID": "e7019eea7c454b17a0aff3f734778f54",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "ID": "36525",
+    "Amount": "8",
+    "Count_Min": "4",
+    "Count_Max": "7",
+    "Calibers": "1",
+    "Caliber_0": "36003",
+    "Pellets": "1",
+    "Spread": "0.2",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "36525",
+    "Blueprint_0_Build": "30",
+    "Ballistic_Damage_Multiplier": "6",
+    "Delete_Empty": ""
+  },
+  "translation": {
+    "Name": "Slug",
+    "Description": "<color=#4b64fa>12 Gauge</color> Caliber<br><color=#64c819>8</color> Round Capacity<br><color=#64c819>6</color>x Damage<br><color=#64c819>-80%</color> Spread<br><color=#64c819>168</color> Zombie Damage"
+  }
+}

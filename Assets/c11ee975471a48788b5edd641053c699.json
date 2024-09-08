@@ -1,0 +1,13 @@
+{
+  "name": "Carnaval_Trio",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Carnaval_Trio/Carnaval_Trio.dat",
+  "data": {
+    "GUID": "c11ee975471a48788b5edd641053c699",
+    "Type": "Spawn",
+    "ID": "5529",
+    "Tables": "1",
+    "Table_0_Asset_ID": "4403 ",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

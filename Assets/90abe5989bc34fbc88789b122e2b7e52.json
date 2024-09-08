@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Loader_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Medium/Frost_Loader_02/Frost_Loader_02.dat",
+  "data": {
+    "GUID": "90abe5989bc34fbc88789b122e2b7e52",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000"
+  },
+  "translation": {
+    "Name": "Frost Loader #3"
+  }
+}

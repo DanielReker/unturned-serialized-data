@@ -1,0 +1,38 @@
+{
+  "name": "Seed_Lemon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Tools/Seed_Lemon/Seed_Lemon.dat",
+  "data": {
+    "GUID": "03834bc84bf94360800f036daf5437af",
+    "Type": "Farm",
+    "Rarity": "Common",
+    "Useable": "Barricade",
+    "Build": "Farm",
+    "ID": "25436",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.24",
+    "Use_Auto_Icon_Measurements": "False",
+    "Has_Clip_Prefab": "false",
+    "Unrepairable": "",
+    "Salvage_Duration_Multiplier": ".3",
+    "Bypass_Pickup_Ownership": "True",
+    "Health": "1",
+    "Range": "4",
+    "Radius": "0.33",
+    "Offset": "0.75",
+    "Growth": "12000",
+    "Grow_SpawnTable": "ccbad6c5fb1a423c84c41c24d919b42c",
+    "Explosion": "25358",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "25764",
+    "Blueprint_0_Build": "25530",
+    "PlacementAudioClip": "Sounds/Placement/FoliagePlacement.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Lemon Seed",
+    "Description": "Ready for planting and growing."
+  }
+}

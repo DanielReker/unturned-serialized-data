@@ -1,0 +1,24 @@
+{
+  "name": "RugShopping_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Quests/Chapter_03/RugShopping_03/Asset.dat",
+  "data": {
+    "GUID": "59cce9e0fe674786b0d83b729a186420",
+    "Type": "Quest",
+    "ID": "24525",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "cc5ae5c7b2994fa8b342590f5921844f",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "20"
+  },
+  "translation": {
+    "Name": "Rug Shopping #1 (Optional Quest)",
+    "Description": "Collect a moose rug by using a Bowie Knife on a moose corpse.",
+    "Condition_0": "Collect {0}/1 {2}"
+  }
+}

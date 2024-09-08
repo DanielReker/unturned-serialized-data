@@ -1,0 +1,12 @@
+{
+  "name": "Pineglow",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Pineglow/Pineglow.dat",
+  "data": {
+    "GUID": "776fc4b32ec84f088b0373f9ab6dc456",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Pineglow"
+  }
+}

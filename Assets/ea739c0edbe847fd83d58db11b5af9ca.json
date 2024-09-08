@@ -1,0 +1,21 @@
+{
+  "name": "Note_Rio8",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Note_Rio8/Note_Rio8.dat",
+  "data": {
+    "GUID": "ea739c0edbe847fd83d58db11b5af9ca",
+    "Type": "Medium",
+    "ID": "7069",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "5",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Note - Military #1",
+    "Interactability_Text_Line_0": "Damage relatory - 08/10/2016",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Due to the Exterminators attack, we need to repair the fences immediately. We've lost 1 APC and 2 armored offroaders, and 1 damaged Ural, and, apparently, some of our supplies were stolen.",
+    "Interactability_Text_Line_3": "Now about human losses, we've lost 5 men, but the majority of the raiders were also taken down, including their leader.",
+    "Interactability_Text_Line_4": "We expect for repairs to start soon."
+  }
+}

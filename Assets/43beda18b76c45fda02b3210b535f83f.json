@@ -1,0 +1,20 @@
+{
+  "name": "Rio_Computer_Note_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Rio_Computer_Note_4/Rio_Computer_Note_4.dat",
+  "data": {
+    "GUID": "43beda18b76c45fda02b3210b535f83f",
+    "Type": "Medium",
+    "ID": "7137",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "4",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Computer - Experiment #1",
+    "Interactability_Text_Line_0": "Zombie Prevention Department",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Experiment #31H2 - We've received weird reports from infected regions about powerful zombies, like zombies capable of spitting acid, or zombies that burns eternally. We still don't know how a virus can do that, but this for sure doesn't look like something from this world. ",
+    "Interactability_Text_Line_3": "We've received 10 zombies with some of those powers. The research will start soon. We may get some important data out of this, but until then... lets hope for the best."
+  }
+}

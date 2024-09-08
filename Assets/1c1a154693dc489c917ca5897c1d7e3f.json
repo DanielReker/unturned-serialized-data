@@ -1,0 +1,13 @@
+{
+  "name": "Militia_LAND_Belgium",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Spawns/Vehicles/Militia_LAND_Belgium/Militia_LAND_Belgium.dat",
+  "data": {
+    "GUID": "1c1a154693dc489c917ca5897c1d7e3f",
+    "Type": "Spawn",
+    "ID": "9017",
+    "Tables": "1",
+    "Table_0_Asset_ID": "123",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

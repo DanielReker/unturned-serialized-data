@@ -1,0 +1,30 @@
+{
+  "name": "PS_Currency_Saws_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/PS_Currency_Saws_0.asset",
+  "data": {
+    "GUID": "8d59327431924326905c0bf9da3c088e",
+    "Type": "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ValueFormat": "{0:N0} Saw Parts",
+    "Entries": [
+      {
+        "Item": {
+          "GUID": "28eb4d1af99a4015874c88438a094308"
+        },
+        "Value": "1"
+      },
+      {
+        "Item": {
+          "GUID": "62859fab235e4e00a1f46cf947ffdc1c"
+        },
+        "Value": "1"
+      },
+      {
+        "Item": {
+          "GUID": "d6e505a517ad452aaeacdfeeb14ecc98"
+        },
+        "Value": "1"
+      }
+    ]
+  },
+  "translation": null
+}

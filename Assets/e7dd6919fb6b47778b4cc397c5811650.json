@@ -1,0 +1,13 @@
+{
+  "name": "Knight_Statue",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Scenery/Knight_Statue/Knight_Statue.dat",
+  "data": {
+    "GUID": "e7dd6919fb6b47778b4cc397c5811650",
+    "Type": "Large",
+    "ID": "35281",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "French Statue#1"
+  }
+}

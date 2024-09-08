@@ -1,0 +1,27 @@
+{
+  "name": "Buak_Shadow_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Animals/Buak_Shadow_00/Buak_Shadow_00.dat",
+  "data": {
+    "GUID": "3e4beafac9e9411d8b471f6ebb76f9fb",
+    "Type": "Animal",
+    "ID": "25310",
+    "Speed_Run": "3",
+    "Speed_Walk": "1",
+    "Regen": "30",
+    "Behaviour": "Offense",
+    "Damage": "30",
+    "Health": "200",
+    "Reward_ID": "25347",
+    "Reward_XP": "10",
+    "Reward_Min": "1",
+    "Reward_Max": "1",
+    "Attack_Anim_Variants": "3",
+    "Glance_Anim_Variants": "2",
+    "Startle_Anim_Variants": "1",
+    "Eat_Anim_Variants": "0"
+  },
+  "translation": {
+    "Name": "Buak_Lurker_00",
+    "Description": "Erased."
+  }
+}

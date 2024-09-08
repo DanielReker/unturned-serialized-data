@@ -1,0 +1,24 @@
+{
+  "name": "Note_9219",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Medium/Furniture/Note_9219/Note_9219.dat",
+  "data": {
+    "GUID": "12e12fb408ec4cda85bcfcafa5c59948",
+    "Type": "Medium",
+    "ID": "9219",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "5",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Belgium Note - Liège Police-Prison #1",
+    "Interactability_Text_Line_0": "The guards will do their routine checks at 8:00, 16:00 and 24:00 to ensure that all prisoners are in the right place. ",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Today is the only day to escape out of the grasp of law enforcement and the military; before we are taken in for experimentation by the Nulirane.",
+    "Interactability_Text_Line_3": "---",
+    "Interactability_Text_Line_4": "-Oscar and Axel"
+  }
+}

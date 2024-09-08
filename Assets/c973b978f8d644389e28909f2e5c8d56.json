@@ -1,0 +1,13 @@
+{
+  "name": "PS_Graffiti_59",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Graffiti_59/PS_Graffiti_59.dat",
+  "data": {
+    "GUID": "c973b978f8d644389e28909f2e5c8d56",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60009"
+  },
+  "translation": {
+    "Name": "PS Graffiti #60 [Peace]"
+  }
+}

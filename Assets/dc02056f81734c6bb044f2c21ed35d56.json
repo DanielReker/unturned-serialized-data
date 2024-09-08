@@ -1,0 +1,14 @@
+{
+  "name": "Ibrahim_End Reposne",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Afzetter Leader Ibrahim/Ibrahim_End Reposne/Asset.dat",
+  "data": {
+    "GUID": "dc02056f81734c6bb044f2c21ed35d56",
+    "Type": "Dialogue",
+    "ID": "9132",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Don't tell anyone about this place!"
+  }
+}

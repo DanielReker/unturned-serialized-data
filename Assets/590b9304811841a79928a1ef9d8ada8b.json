@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Crane_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Vehicles/Easter_Crane_0/Easter_Crane_0.dat",
+  "data": {
+    "GUID": "590b9304811841a79928a1ef9d8ada8b",
+    "Type": "Large",
+    "ID": "6759",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Crane #1"
+  }
+}

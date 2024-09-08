@@ -1,0 +1,22 @@
+{
+  "name": "Note_2",
+  "path": "Bundles/Objects/Medium/Furniture/Note_2/Note_2.dat",
+  "data": {
+    "GUID": "43c3746dc20d4e56a9fc042cce0a5d8b",
+    "Type": "Medium",
+    "ID": "2003",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "4",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Note - Mission Briefing #1",
+    "Interactability_Text_Line_0": "Mission Briefing",
+    "Interactability_Text_Line_1": "Bravo Team - 00:30",
+    "Interactability_Text_Line_2": "---",
+    "Interactability_Text_Line_3": "Intel suggests they have experienced a containment leak, so you are tasked with moving in earlier than expected. Exercise extreme caution, remember that these guys are heavily armed. If given the opportunity take any tangos captive for interrogation later."
+  }
+}

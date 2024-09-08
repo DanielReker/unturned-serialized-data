@@ -1,0 +1,23 @@
+{
+  "name": "CA_Street_Light_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Props/CA_Street_Light_0/CA_Street_Light_0.dat",
+  "data": {
+    "GUID": "a472f63bc2e34cfd889894df5e655e25",
+    "Type": "Medium",
+    "ID": "4498",
+    "Interactability": "Binary_State",
+    "Interactability_Hint": "Switch",
+    "Interactability_Power": "Stay",
+    "Chart": "Ignore",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "275",
+    "Rubble_Effect": "72",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/Traffic/Street_Light_1",
+    "Material_Palette": "f5265766ef1c480fa09388be9cce9949"
+  },
+  "translation": {
+    "Name": "California Street Light #2"
+  }
+}

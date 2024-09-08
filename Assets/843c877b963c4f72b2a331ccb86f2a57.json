@@ -1,0 +1,17 @@
+{
+  "name": "BM4_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Songs/BM4_2/BM4_2.asset",
+  "data": {
+    "GUID": "843c877b963c4f72b2a331ccb86f2a57",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Song": {
+      "MasterBundle": "buak.masterbundle",
+      "AssetPath": "Music/BM4_2.ogg"
+    },
+    "Link_URL": "https://www.youtube.com/watch?v=O1ChZyEhAhs",
+    "Is_Loop": "true"
+  },
+  "translation": {
+    "Name": "His Genius Unleashed - staswalle"
+  }
+}

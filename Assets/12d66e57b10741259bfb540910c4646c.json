@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Bucket_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Rio_Bucket_1/Rio_Bucket_1.dat",
+  "data": {
+    "GUID": "12d66e57b10741259bfb540910c4646c",
+    "Type": "Medium",
+    "ID": "6060",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Bucket #1"
+  }
+}

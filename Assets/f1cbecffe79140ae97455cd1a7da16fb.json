@@ -1,0 +1,15 @@
+{
+  "name": "CarpatLastmanOutfit",
+  "path": "Bundles/Items/Outfits/CarpatLastmanOutfit.asset",
+  "data": {
+    "GUID": "f1cbecffe79140ae97455cd1a7da16fb",
+    "Type": "SDG.Unturned.OutfitAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Items": [
+      "2a6d2707e3874f98ab7d46e5247a7d4b",
+      "145d3cb859d84bad9a53c9097ec389e9",
+      "e5cbc1ce10a343f49488d9be952d189e",
+      "a3d63286d3184744a87e47d4edfef397"
+    ]
+  },
+  "translation": null
+}

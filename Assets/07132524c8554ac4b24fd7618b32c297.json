@@ -1,0 +1,13 @@
+{
+  "name": "Crate_4",
+  "path": "Bundles/Objects/Medium/Military/Crate_4/Crate_4.dat",
+  "data": {
+    "GUID": "07132524c8554ac4b24fd7618b32c297",
+    "Type": "Medium",
+    "ID": "411",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Crate #5"
+  }
+}

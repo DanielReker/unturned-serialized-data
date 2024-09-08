@@ -1,0 +1,12 @@
+{
+  "name": "CA_Quest_Weapon_Case",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Small/Misc/CA_Quest_Weapon_Case/CA_Quest_Weapon_Case.dat",
+  "data": {
+    "GUID": "2ba1729f900247dab939c8f9f3d171d6",
+    "Type": "Small",
+    "ID": "4702"
+  },
+  "translation": {
+    "Name": "California Weapon Case #1"
+  }
+}

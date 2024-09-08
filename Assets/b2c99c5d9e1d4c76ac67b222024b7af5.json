@@ -1,0 +1,29 @@
+{
+  "name": "Vaccine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Meds/Vaccine/Vaccine.dat",
+  "data": {
+    "GUID": "b2c99c5d9e1d4c76ac67b222024b7af5",
+    "Type": "Medical",
+    "Rarity": "Legendary",
+    "Useable": "Consumeable",
+    "ID": "25631",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.4",
+    "Instantiated_Item_Name_Override": "BuakNeedle",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "25319",
+    "Quest_Reward_0_Amount": "1",
+    "Quest_Reward_0_Value": "True",
+    "Use_Auto_Icon_Measurements": "False",
+    "Aid": "",
+    "Health": "4",
+    "Disinfectant": "90",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Vaccine",
+    "Description": "A needle full of Vaccine to help with infection sickness, where has it been? Probably somewhere clean. Well... you can atleast tell yourself that.<br><size=14><color=#ff4466>Health 4</color> <color=#029a30>Disinfectant 90</color></size>"
+  }
+}

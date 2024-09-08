@@ -1,0 +1,36 @@
+{
+  "name": "Buak_Shipping_Containers",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Material_Palettes/Buak_Shipping_Containers.asset",
+  "data": {
+    "GUID": "6a73c9478ce54eb99489fbc1e7093447",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Shipping_Containers/Buak_Shipping_Container_00.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Shipping_Containers/Buak_Shipping_Container_01.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Shipping_Containers/Buak_Shipping_Container_02.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Shipping_Containers/Buak_Shipping_Container_03.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Shipping_Containers/Buak_Shipping_Container_04.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Shipping_Containers/Buak_Shipping_Container_05.mat"
+      }
+    ]
+  },
+  "translation": null
+}

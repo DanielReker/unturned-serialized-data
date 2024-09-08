@@ -1,0 +1,13 @@
+{
+  "name": "PS_Mount_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Mount_1/PS_Mount_1.dat",
+  "data": {
+    "GUID": "2c9db0fa961d4dc992ba4261a1478239",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60016"
+  },
+  "translation": {
+    "Name": "PS Mount #2"
+  }
+}

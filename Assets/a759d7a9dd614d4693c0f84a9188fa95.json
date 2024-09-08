@@ -1,0 +1,13 @@
+{
+  "name": "Civilian_Canada_Tools",
+  "path": "Bundles/Spawns/Items/Civilian_Canada_Tools/Civilian_Canada_Tools.dat",
+  "data": {
+    "GUID": "a759d7a9dd614d4693c0f84a9188fa95",
+    "Type": "Spawn",
+    "ID": "284",
+    "Tables": "1",
+    "Table_0_Asset_ID": "333",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Space_Shuttle_2",
+  "path": "Bundles/Objects/Large/Vehicles/Space_Shuttle_2/Space_Shuttle_2.dat",
+  "data": {
+    "GUID": "4e2424974bf64321a1e91209c1e70e9b",
+    "Type": "Large",
+    "ID": "887",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Space Shuttle #3"
+  }
+}

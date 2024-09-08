@@ -1,0 +1,13 @@
+{
+  "name": "Radio Tower",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Radio Tower/Radio Tower.dat",
+  "data": {
+    "GUID": "83b2406a11864e2caceac9ddfd58d492",
+    "Type": "Large",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Radio Tower"
+  }
+}

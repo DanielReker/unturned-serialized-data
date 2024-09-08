@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Truck_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Vehicles/Buak_Truck_00/Buak_Truck_00.dat",
+  "data": {
+    "GUID": "73bdbcda4f8d4a6c874ba174cc38cace",
+    "Type": "Large",
+    "ID": "25300",
+    "Material_Palette": "115d9d196cf44e1aab48246dcc246dd2",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Truck_00"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Audio_Tape_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Misc/Audio_Tape_00/Audio_Tape_00.dat",
+  "data": {
+    "GUID": "c4fb3a5e9e204fdf9d542f299fdc234c",
+    "Type": "Cloud",
+    "Useable": "Cloud",
+    "Rarity": "Rare",
+    "ID": "27410",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.42",
+    "Use_Auto_Icon_Measurements": "False",
+    "Instantiated_Item_Name_Override": "Audio_Tape",
+    "Gravity": "1",
+    "InspectAudioDef": "Sounds/Items/Audio_Tapes/Audio_Tape_00.asset",
+    "EquipablePrefab": "Items/Misc/Audio_Tape_00/Item_Equip.prefab"
+  },
+  "translation": {
+    "Name": "Audio Tape (Mike Crusader #1)",
+    "Description": "An audio tape diary.<br><color=#cd32da>Inspect To Play Audio Recording</color><br><br>\"With this lab being in a cave, we may need some tools to mine it out for future expansions down the line. I might be able to make a device that creates condensed explosions for maximum speed and precision. Would it be possible to do that? To condense an entire explosion to work like the jet setting on a hose nozzle, for laser precision cutting? We’ll find out soon!\""
+  }
+}

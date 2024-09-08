@@ -1,0 +1,12 @@
+{
+  "name": "CA_Board_Turn",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Other/CA_Board_Turn/CA_Board_Turn.dat",
+  "data": {
+    "GUID": "c852faf436a644d39ae06ba8eb9470a6",
+    "Type": "Large",
+    "ID": "4324"
+  },
+  "translation": {
+    "Name": "California Board Turn #1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PS_Radiation_Sign_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Radiation_Sign_0/PS_Radiation_Sign_0.dat",
+  "data": {
+    "GUID": "8dd37b2cc3124e05b7cc5dd6408e36e6",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60245",
+    "Snowshoe": "",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "10",
+    "Interactability_Effect": "72"
+  },
+  "translation": {
+    "Name": "PS Radiation Sign #1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Black_Panther",
+  "path": "Bundles/Skins/Augewehr/Black_Panther/Black_Panther.dat",
+  "data": {
+    "GUID": "e0d2c39c1aee45a19147be1e095ecf0e",
+    "Type": "Skin",
+    "ID": "50012",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": "",
+    "Secondary_Skins": "2",
+    "Secondary_0": "1363",
+    "Secondary_1": "123"
+  },
+  "translation": null
+}

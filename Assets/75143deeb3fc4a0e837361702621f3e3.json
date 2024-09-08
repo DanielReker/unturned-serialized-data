@@ -1,0 +1,39 @@
+{
+  "name": "29710KuwaitSebastianPossessed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/4/C/29710KuwaitSebastianPossessed/Asset.dat",
+  "data": {
+    "GUID": "75143deeb3fc4a0e837361702621f3e3",
+    "Type": "NPC",
+    "ID": "29710",
+    "Hat": "1761",
+    "Mask": "1762",
+    "Vest": "1760",
+    "Shirt": "1759",
+    "Pants": "1758",
+    "Face": "16",
+    "Hair": "14",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#191919",
+    "Dialogue": "29711",
+    "Pose": "Asleep",
+    "Conditions": "3",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "29706",
+    "Condition_0_Value": "3",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "29800",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": "",
+    "Condition_2_Type": "Flag_Bool",
+    "Condition_2_ID": "25050",
+    "Condition_2_Value": "False",
+    "Condition_2_Logic": "Equal",
+    "Condition_2_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitSurvivorSebastianPossessed",
+    "Character": "Sebastian"
+  }
+}

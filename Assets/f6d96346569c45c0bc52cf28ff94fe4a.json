@@ -1,0 +1,17 @@
+{
+  "name": "HawaiiCinder_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiCinder_0/HawaiiCinder_0.dat",
+  "data": {
+    "GUID": "f6d96346569c45c0bc52cf28ff94fe4a",
+    "Type": "Medium",
+    "ID": "45746",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "256",
+    "Interactability_Health": "75",
+    "Interactability_Effect": "71",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hawaii Cinderblock #1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Locker",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Locker/Locker.dat",
+  "data": {
+    "GUID": "144b4a0fbe404f8fb31379f7b80fcfe4",
+    "Type": "Storage",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Storage",
+    "ID": "51611",
+    "SalvageItem": "144b4a0fbe404f8fb31379f7b80fcfe4",
+    "Size_X": "2",
+    "Size_Y": "3",
+    "Size_Z": "0.5",
+    "Health": "300",
+    "Range": "4",
+    "Radius": ".4",
+    "Offset": ".5",
+    "Storage_X": "6",
+    "Storage_Y": "6",
+    "Locked": "",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "51018",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Supply_1_ID": "51033",
+    "Blueprint_0_Supply_1_Amount": "2",
+    "Blueprint_0_Build": "27",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Locker",
+    "Description": "Reinforced metal locker."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Peaks_Guns_Peaks",
+  "path": "Bundles/Spawns/Items/Peaks_Guns_Peaks/Peaks_Guns_Peaks.dat",
+  "data": {
+    "GUID": "eae0fede49dc4bbfaff3dcc34f6182fc",
+    "Type": "Spawn",
+    "ID": "711",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "683",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

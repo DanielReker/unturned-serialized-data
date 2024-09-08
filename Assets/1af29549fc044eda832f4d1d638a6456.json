@@ -1,0 +1,16 @@
+{
+  "name": "29580KGBD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/2/D/29580KGBD/Asset.dat",
+  "data": {
+    "GUID": "1af29549fc044eda832f4d1d638a6456",
+    "Type": "Dialogue",
+    "ID": "29581",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hello survivor! These guns have some quite interesting mechanics.",
+    "Response_0": "Stay safe!"
+  }
+}

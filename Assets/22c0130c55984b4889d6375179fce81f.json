@@ -1,0 +1,13 @@
+{
+  "name": "ZPD_Bunker_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/ZPD_Bunker_0/ZPD_Bunker_0.dat",
+  "data": {
+    "GUID": "22c0130c55984b4889d6375179fce81f",
+    "Type": "Large",
+    "ID": "7115",
+    "LOD": "Area"
+  },
+  "translation": {
+    "Name": "Rio ZPD Bunker #1"
+  }
+}

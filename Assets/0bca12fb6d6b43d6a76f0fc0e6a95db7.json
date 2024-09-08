@@ -1,0 +1,28 @@
+{
+  "name": "IR_Box_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Small/IR_Box_2/IR_Box_2.dat",
+  "data": {
+    "GUID": "0bca12fb6d6b43d6a76f0fc0e6a95db7",
+    "Type": "Small",
+    "ID": "15926",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "16702",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "2",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "16702",
+    "Interactability_Reward_0_Value": "True",
+    "Interactability_Reward_1_Type": "Flag_Short",
+    "Interactability_Reward_1_ID": "16501",
+    "Interactability_Reward_1_Value": "1",
+    "Interactability_Reward_1_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "Irish Q Box# 2",
+    "Interact": "Pick up [{0}]"
+  }
+}

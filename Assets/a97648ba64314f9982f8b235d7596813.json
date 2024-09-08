@@ -1,0 +1,13 @@
+{
+  "name": "Farm_Bows",
+  "path": "Bundles/Spawns/Items/Farm_Bows/Farm_Bows.dat",
+  "data": {
+    "GUID": "a97648ba64314f9982f8b235d7596813",
+    "Type": "Spawn",
+    "ID": "218",
+    "Tables": "1",
+    "Table_0_Asset_ID": "357",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

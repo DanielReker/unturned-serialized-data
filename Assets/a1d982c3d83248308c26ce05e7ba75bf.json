@@ -1,0 +1,18 @@
+{
+  "name": "Grass_3",
+  "path": "Bundles/Objects/Large/Scenery/Grass_3/Grass_3.dat",
+  "data": {
+    "GUID": "a1d982c3d83248308c26ce05e7ba75bf",
+    "Type": "Large",
+    "ID": "480",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Allow_Structures": "",
+    "Ignore_TexRW": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Grass #4"
+  }
+}

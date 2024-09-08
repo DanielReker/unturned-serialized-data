@@ -1,0 +1,17 @@
+{
+  "name": "Buak_Door_INT_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Building_Details/Buak_Door_INT_03/Buak_Door_INT_03.dat",
+  "data": {
+    "GUID": "e341078dc22f4003a236ba1cee7a8929",
+    "Type": "Large",
+    "ID": "25300",
+    "Interactability": "Binary_State",
+    "Interactability_Delay": "0.75",
+    "Interactability_Hint": "Door",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Door_INT_03"
+  }
+}

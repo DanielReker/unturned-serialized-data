@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Snowy_Light_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Snowy/Metro_Snowy_Light_3/Metro_Snowy_Light_3.dat",
+  "data": {
+    "GUID": "a0f8cad1af4149caa5fef7e3e4dbb428",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57945",
+    "Holiday_Restriction": "CHRISTMAS"
+  },
+  "translation": {
+    "Name": "Metro Snowy Light #4"
+  }
+}

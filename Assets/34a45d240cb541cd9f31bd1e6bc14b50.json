@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Road_Sign",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Road_Sign/Obj_Road_Sign.dat",
+  "data": {
+    "GUID": "34a45d240cb541cd9f31bd1e6bc14b50",
+    "Type": "Effect",
+    "ID": "25331"
+  },
+  "translation": null
+}

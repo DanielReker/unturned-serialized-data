@@ -1,0 +1,15 @@
+{
+  "name": "Admiral_Lieutenant",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/Coali/Admiral_Sir_Thomas/Admiral_Lieutenant/Asset.dat",
+  "data": {
+    "GUID": "b05d539ba3fd49e5b83ebe9408993da7",
+    "Type": "Dialogue",
+    "ID": "15127",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you for being a great soldier. Here's your fatigues, now go out there and make this <color=blue>Navy</color> proud!",
+    "Message_0_Page_1": "Oh, by the way, we were planning on launching a few operations regarding the <color=red>Irish Freedom Republic</color>. Go talk to <color=legendary>Commander Keith</color> in the briefing room."
+  }
+}

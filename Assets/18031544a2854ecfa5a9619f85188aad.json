@@ -1,0 +1,13 @@
+{
+  "name": "Missile_0",
+  "path": "Bundles/Objects/Large/Military/Missile_0/Missile_0.dat",
+  "data": {
+    "GUID": "18031544a2854ecfa5a9619f85188aad",
+    "Type": "Large",
+    "ID": "594",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Missile #1"
+  }
+}

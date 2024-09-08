@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Solar_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/NPCs/Easter_Solar_0/Easter_Solar_0.dat",
+  "data": {
+    "GUID": "49738963539844d79398c11f15ba7cbc",
+    "Type": "Medium",
+    "ID": "6879",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Solar #1"
+  }
+}

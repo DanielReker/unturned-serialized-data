@@ -1,0 +1,33 @@
+{
+  "name": "Senator_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Magazines/Senator_5/Senator_5.dat",
+  "data": {
+    "GUID": "c13b9df7c3c8422c89d30c3e7b14fa82",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "ID": "6719",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Amount": "6",
+    "Count_Min": "2",
+    "Count_Max": "5",
+    "Calibers": "1",
+    "Caliber_0": "6719",
+    "Pellets": "6",
+    "Tracer": "48",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "113",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "6719",
+    "Blueprint_1_Build": "30"
+  },
+  "translation": {
+    "Name": "Senator Clip",
+    "Description": "Low caliber civilian grade <color=rare>Senator</color> clip. Designed to fit 5 rounds."
+  }
+}

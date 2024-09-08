@@ -1,0 +1,156 @@
+{
+  "name": "PS_Spooky_Guns",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Spooky_Guns/PS_Spooky_Guns.dat",
+  "data": {
+    "GUID": "82d9b3195d1e4d4b9e2784a92b25f352",
+    "Type": "Spawn",
+    "ID": "59478",
+    "Tables": [
+      {
+        "LegacyAssetId": "60004",
+        "Weight": "8"
+      },
+      {
+        "LegacyAssetId": "60010",
+        "Weight": "8"
+      },
+      {
+        "LegacyAssetId": "59961",
+        "Weight": "8"
+      },
+      {
+        "LegacyAssetId": "59494",
+        "Weight": "8"
+      },
+      {
+        "LegacyAssetId": "59960",
+        "Weight": "8"
+      },
+      {
+        "LegacyAssetId": "59932",
+        "Weight": "8"
+      },
+      {
+        "LegacySpawnId": "59442",
+        "Weight": "5"
+      },
+      {
+        "LegacyAssetId": "59699",
+        "Weight": "3"
+      },
+      {
+        "LegacyAssetId": "59368",
+        "Weight": "3"
+      },
+      {
+        "LegacyAssetId": "59802",
+        "Weight": "3"
+      },
+      {
+        "LegacyAssetId": "59992",
+        "Weight": "2"
+      },
+      {
+        "LegacyAssetId": "59950",
+        "Weight": "2"
+      },
+      {
+        "LegacyAssetId": "59991",
+        "Weight": "2"
+      },
+      {
+        "LegacyAssetId": "59309",
+        "Weight": "2"
+      },
+      {
+        "LegacySpawnId": "59446",
+        "Weight": "2"
+      },
+      {
+        "LegacyAssetId": "59423",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59436",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59348",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59259",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59320",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59853",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59833",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59930",
+        "Weight": "1"
+      },
+      {
+        "LegacySpawnId": "59443",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59993",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59927",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59832",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59972",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59735",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59890",
+        "Weight": "1"
+      },
+      {
+        "LegacySpawnId": "59445",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59996",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "60007",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59736",
+        "Weight": "1"
+      },
+      {
+        "LegacySpawnId": "59444",
+        "Weight": "1"
+      },
+      {
+        "Guid": "a9b8ea2bc4734213b9a0c5e7265cb784",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

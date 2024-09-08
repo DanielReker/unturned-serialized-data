@@ -1,0 +1,16 @@
+{
+  "name": "HawaiiJump_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiJump_0/HawaiiJump_0.dat",
+  "data": {
+    "GUID": "7c140f9f65454fa2b0c4315341809b0e",
+    "Type": "Medium",
+    "ID": "815",
+    "Soft": "",
+    "Snowshoe": "",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hawaii Stunt Jump"
+  }
+}

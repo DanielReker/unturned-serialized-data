@@ -1,0 +1,15 @@
+{
+  "name": "Stat_Tracker_Total_Kills",
+  "path": "Bundles/Items/Keys/Stat_Tracker_Total_Kills/Stat_Tracker_Total_Kills.dat",
+  "data": {
+    "GUID": "0f821afe597f4bb78b8a6755ec6f9003",
+    "Type": "Key",
+    "ID": "845",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.06",
+    "Exchange_With_Target_Item": "",
+    "Pro": ""
+  },
+  "translation": null
+}

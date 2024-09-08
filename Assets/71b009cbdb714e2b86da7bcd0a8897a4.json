@@ -1,0 +1,13 @@
+{
+  "name": "Hawaii_Medic_Heli",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Vehicles/Hawaii_Medic_Heli/Hawaii_Medic_Heli.dat",
+  "data": {
+    "GUID": "71b009cbdb714e2b86da7bcd0a8897a4",
+    "Type": "Spawn",
+    "ID": "829",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "815",
+    "Table_0_Weight": "50"
+  },
+  "translation": null
+}

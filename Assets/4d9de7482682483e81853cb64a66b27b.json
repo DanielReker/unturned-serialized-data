@@ -1,0 +1,14 @@
+{
+  "name": "Boardwalk_Cap0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Boardwalk_Cap0/Boardwalk_Cap0.dat",
+  "data": {
+    "GUID": "4d9de7482682483e81853cb64a66b27b",
+    "Type": "Large",
+    "ID": "59956",
+    "Soft": "",
+    "Collision_Important": ""
+  },
+  "translation": {
+    "Name": "Boardwalk Cap #1"
+  }
+}

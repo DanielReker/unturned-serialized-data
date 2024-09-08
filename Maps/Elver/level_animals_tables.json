@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Pig Rare",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "RARE SUPER FUNNY OINK",
+        "chance": 0.00666666636,
+        "table": [
+          {
+            "animal": 57003
+          }
+        ]
+      },
+      {
+        "name": "Oink",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 57000
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.831372559,
+      "g": 0.333333343,
+      "b": 0.458823532
+    }
+  },
+  {
+    "name": "Cow",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Moo",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 57001
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.270588249,
+      "g": 0.258823544,
+      "b": 0.266666681
+    }
+  },
+  {
+    "name": "Chicken",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "chicken sound",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 57002
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.7764706,
+      "g": 0.733333349,
+      "b": 0.619607866
+    }
+  },
+  {
+    "name": "Deer",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "mmmmmmmmm",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 57004
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Cult",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "grrrrr",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 57005
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Pig",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Oink",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 57000
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.7372549,
+      "g": 0.2901961,
+      "b": 0.4117647
+    }
+  },
+  {
+    "name": "Cult Shotgun",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "PEW",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 57007
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.356862754,
+      "g": 0.0,
+      "b": 0.0
+    }
+  }
+]

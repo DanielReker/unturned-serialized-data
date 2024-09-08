@@ -1,0 +1,13 @@
+{
+  "name": "BE Destroyed #9",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Destroyed #9/BE Destroyed #9.dat",
+  "data": {
+    "GUID": "9168eb40f03b4203adf7410ca25ad4e7",
+    "Type": "Large",
+    "ID": "9101",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Destroyed #9"
+  }
+}

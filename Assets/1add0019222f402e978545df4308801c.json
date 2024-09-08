@@ -1,0 +1,12 @@
+{
+  "name": "Solo_BWTN_PORANGE",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Vehicles/Redirectors/Solo/Solo_BWTN_PORANGE.asset",
+  "data": {
+    "GUID": "1add0019222f402e978545df4308801c",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "25320",
+    "TargetVehicle": "20810308391544abb4b040e8cc5a3045",
+    "LoadPaintColor": "#B67D4A"
+  },
+  "translation": null
+}

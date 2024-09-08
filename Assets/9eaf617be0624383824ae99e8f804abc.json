@@ -1,0 +1,13 @@
+{
+  "name": "PS_Palette_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Palette_3/PS_Palette_3.dat",
+  "data": {
+    "GUID": "9eaf617be0624383824ae99e8f804abc",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59751"
+  },
+  "translation": {
+    "Name": "PS Pallet #4 [Metal]"
+  }
+}

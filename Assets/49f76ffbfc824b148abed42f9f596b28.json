@@ -1,0 +1,36 @@
+{
+  "name": "Deadzone",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Deadzone/Deadzone/Deadzone.dat",
+  "data": {
+    "GUID": "49f76ffbfc824b148abed42f9f596b28",
+    "Type": "Spawn",
+    "ID": "51135",
+    "Tables": [
+      {
+        "Guid": "84b40f1213be497a9bfd3a4566cc94c5",
+        "Weight": "20"
+      },
+      {
+        "Guid": "56572403e734434d99d7d011c8399f49",
+        "Weight": "20"
+      },
+      {
+        "Guid": "fbe61c081e54441fac8ba5693c01b26c",
+        "Weight": "20"
+      },
+      {
+        "Guid": "404eb4b2694b476b84eed74323960870",
+        "Weight": "12"
+      },
+      {
+        "Guid": "d52240252f8e463a83489c51a8664cac",
+        "Weight": "12"
+      },
+      {
+        "Guid": "ec40fd11f18a4607a8dc1e637cfdc9de",
+        "Weight": "6"
+      }
+    ]
+  },
+  "translation": null
+}

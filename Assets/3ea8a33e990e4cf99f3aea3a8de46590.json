@@ -1,0 +1,14 @@
+{
+  "name": "Chalet_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/Chalet_0/Chalet_0.dat",
+  "data": {
+    "GUID": "3ea8a33e990e4cf99f3aea3a8de46590",
+    "Type": "Large",
+    "ID": "35059",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "French Chalet #1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Alastair_Crash_Down_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Major_Alastair/Alastair_Crash_Down_Accepted/Asset.dat",
+  "data": {
+    "GUID": "585cb23e4bb6422eb16e76e089f4d935",
+    "Type": "Dialogue",
+    "ID": "45717",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "A word from the wise, use some proper diving gear. Seeya soon soldier!"
+  }
+}

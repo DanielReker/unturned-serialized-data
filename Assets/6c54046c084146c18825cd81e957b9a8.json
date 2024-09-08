@@ -1,0 +1,16 @@
+{
+  "name": "GROAN",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Decals/GROAN/GROAN.dat",
+  "data": {
+    "GUID": "6c54046c084146c18825cd81e957b9a8",
+    "Type": "Decal",
+    "ID": "51033",
+    "Decal_X": "6",
+    "Decal_Y": "6",
+    "Decal_LOD_Bias": "1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Decal GROAN"
+  }
+}

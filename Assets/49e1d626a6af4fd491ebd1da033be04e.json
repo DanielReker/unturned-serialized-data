@@ -1,0 +1,13 @@
+{
+  "name": "RULA_Pipe_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Medium/RULA/RULA_Pipe_3/RULA_Pipe_3.dat",
+  "data": {
+    "GUID": "49e1d626a6af4fd491ebd1da033be04e",
+    "Type": "Medium",
+    "ID": "35212",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "RULA Pipe #4"
+  }
+}

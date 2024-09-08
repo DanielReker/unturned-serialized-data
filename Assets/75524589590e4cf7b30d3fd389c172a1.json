@@ -1,0 +1,13 @@
+{
+  "name": "France_Construction_France",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Vehicles/France_Construction_France/France_Construction_France.dat",
+  "data": {
+    "GUID": "75524589590e4cf7b30d3fd389c172a1",
+    "Type": "Spawn",
+    "ID": "2143",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "2142",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

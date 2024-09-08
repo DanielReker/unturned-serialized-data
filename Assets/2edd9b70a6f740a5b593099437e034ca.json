@@ -1,0 +1,14 @@
+{
+  "name": "FirstLove_01_Reminder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_02/FirstLove_01_Reminder/Asset.dat",
+  "data": {
+    "GUID": "2edd9b70a6f740a5b593099437e034ca",
+    "Type": "Dialogue",
+    "ID": "24556",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "All I need is some coal and iron ore, there's a mineshaft in the mountain. One of the entrances should be north from the factory."
+  }
+}

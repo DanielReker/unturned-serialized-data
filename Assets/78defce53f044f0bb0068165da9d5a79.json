@@ -1,0 +1,13 @@
+{
+  "name": "Gas_Cover_0",
+  "path": "Bundles/Objects/Large/Utilities/Gas_Cover_0/Gas_Cover_0.dat",
+  "data": {
+    "GUID": "78defce53f044f0bb0068165da9d5a79",
+    "Type": "Large",
+    "ID": "62",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Gas Cover #1"
+  }
+}

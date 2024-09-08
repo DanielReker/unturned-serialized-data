@@ -1,0 +1,17 @@
+{
+  "name": "Mona_Middle Response",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Nulirane Technology Specialist Mona/Mona_Middle Response/Asset.dat",
+  "data": {
+    "GUID": "87f359e6388946a699cc892e2d3ecf67",
+    "Type": "Dialogue",
+    "ID": "9200",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "9199"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yes indeed I am. <color=rare>Professor Camile</color> probably mentioned me to you.",
+    "Response_0": "I'm a big fan of your work!"
+  }
+}

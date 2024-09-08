@@ -1,0 +1,32 @@
+{
+  "name": "Rubicon_10",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Items/France/Magazines/Rubicon_10/Rubicon_10.dat",
+  "data": {
+    "GUID": "61bf17c885f94b80ad92815ab014fccc",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "ID": "3028",
+    "Size_X": "1\t\t",
+    "Size_Y": "1",
+    "Size_Z": "0.15",
+    "Amount": "10",
+    "Count_Min": "5",
+    "Count_Max": "10",
+    "Calibers": "1",
+    "Caliber_0": "64",
+    "Tracer": "48",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "43",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "3028",
+    "Blueprint_1_Build": "30"
+  },
+  "translation": {
+    "Name": "Rubicon Magazine",
+    "Description": "Low caliber military grade <color=legendary>Rubicon</color> magazine. Designed to fit 10 rounds."
+  }
+}

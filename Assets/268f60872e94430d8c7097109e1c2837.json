@@ -1,0 +1,18 @@
+{
+  "name": "ChumBox",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/CraftingSupplies/ChumBox/ChumBox.dat",
+  "data": {
+    "GUID": "268f60872e94430d8c7097109e1c2837",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "51930",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.4",
+    "InventoryAudio": "core.masterbundle:Sounds/Inventory/SmallMetal.asset"
+  },
+  "translation": {
+    "Name": "Chum Box",
+    "Description": "Can be used upgrade two rods to a better rod."
+  }
+}

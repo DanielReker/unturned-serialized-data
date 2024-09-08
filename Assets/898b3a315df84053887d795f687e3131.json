@@ -1,0 +1,26 @@
+{
+  "name": "Doctor_Lifeline_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Doctor_Military/Doctor_Lifeline_Accepted/Asset.dat",
+  "data": {
+    "GUID": "898b3a315df84053887d795f687e3131",
+    "Type": "Dialogue",
+    "ID": "3535",
+    "Messages": "2",
+    "Message_0_Pages": "1",
+    "Message_0_Conditions": "1",
+    "Message_0_Condition_0_Type": "Flag_Short",
+    "Message_0_Condition_0_Logic": "Less_Than_Or_Equal_To",
+    "Message_0_Condition_0_ID": "3403",
+    "Message_0_Condition_0_Value": "-70",
+    "Message_1_Pages": "1",
+    "Message_1_Conditions": "1",
+    "Message_1_Condition_0_Type": "Flag_Short",
+    "Message_1_Condition_0_Logic": "Greater_Than",
+    "Message_1_Condition_0_ID": "3403",
+    "Message_1_Condition_0_Value": "-70"
+  },
+  "translation": {
+    "Message_0_Page_0": "We don't seem to have the correct type of blood bags, which is an issue. <color=legendary>Master Sergeant Tennyson</color> is in critical condition and will need a blood transfusion to survive.",
+    "Message_1_Page_0": "<color=legendary>Master Sergeant Tennyson</color> could have made it, had we the correct blood type. We'll have to see about blood donations again. But until then, could you go get us some bloodbags?"
+  }
+}

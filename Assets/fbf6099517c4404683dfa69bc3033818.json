@@ -1,0 +1,17 @@
+{
+  "name": "PS_Matchbox",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Matchbox/PS_Matchbox.dat",
+  "data": {
+    "GUID": "fbf6099517c4404683dfa69bc3033818",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "59581",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.225"
+  },
+  "translation": {
+    "Name": "Matchbox",
+    "Description": "Box of matches, woooah.<br><br><color=#FFC000>Nomad's Exchange Item</color>"
+  }
+}

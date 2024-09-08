@@ -1,0 +1,17 @@
+{
+  "name": "James_Question_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/James/James_04/James_Question_00/Asset.dat",
+  "data": {
+    "GUID": "1bc9f0560944437187fda10446ee617a",
+    "Type": "Dialogue",
+    "ID": "24051",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "28",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "It's going good! Gonna have plenty of food!",
+    "Response_0": "Good to know!"
+  }
+}

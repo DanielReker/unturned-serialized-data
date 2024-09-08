@@ -1,0 +1,34 @@
+{
+  "name": "26550KuwaitSnow",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/C/265 Concord/2654 Concord Civ/26550KuwaitSnow/Asset.dat",
+  "data": {
+    "GUID": "8f2cdeb6c1b644078f9f69707f13fca4",
+    "Type": "NPC",
+    "ID": "26550",
+    "Shirt": "181",
+    "Pants": "548",
+    "Mask": "570",
+    "Glasses": "1674",
+    "Face": "24",
+    "Hair": "8",
+    "Color_Skin": "#d9cab4",
+    "Color_Hair": "#191919",
+    "Primary": "5140",
+    "Secondary": "5148",
+    "Dialogue": "26551",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "26515",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "26559",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitCivSnow",
+    "Character": "Snow"
+  }
+}

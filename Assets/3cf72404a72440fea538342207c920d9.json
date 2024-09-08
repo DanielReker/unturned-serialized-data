@@ -1,0 +1,16 @@
+{
+  "name": "White Lines",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Decals/City/White Lines/White Lines.dat",
+  "data": {
+    "GUID": "3cf72404a72440fea538342207c920d9",
+    "Type": "Decal",
+    "ID": "51019",
+    "Decal_X": "3",
+    "Decal_Y": "3",
+    "Decal_LOD_Bias": "1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Decal White Lines"
+  }
+}

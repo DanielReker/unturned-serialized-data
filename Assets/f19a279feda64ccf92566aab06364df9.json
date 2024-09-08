@@ -1,0 +1,13 @@
+{
+  "name": "Civilian_France_Tools",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/Civilian_France_Tools/Civilian_France_Tools.dat",
+  "data": {
+    "GUID": "f19a279feda64ccf92566aab06364df9",
+    "Type": "Spawn",
+    "ID": "2064",
+    "Tables": "1",
+    "Table_0_Asset_ID": "333",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

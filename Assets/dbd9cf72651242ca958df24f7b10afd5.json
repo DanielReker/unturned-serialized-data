@@ -1,0 +1,15 @@
+{
+  "name": "Easter_Police_High_Special",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Spawns/Items/Easter_Police_High/Easter_Police_High_Special/Easter_Police_High_Special.dat",
+  "data": {
+    "GUID": "dbd9cf72651242ca958df24f7b10afd5",
+    "Type": "Spawn",
+    "ID": "6667",
+    "Tables": "2",
+    "Table_0_Asset_ID": "1044",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "6735",
+    "Table_1_Weight": "10"
+  },
+  "translation": null
+}

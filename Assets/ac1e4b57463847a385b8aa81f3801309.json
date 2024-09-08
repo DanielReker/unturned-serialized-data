@@ -1,0 +1,17 @@
+{
+  "name": "Amber_Question_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_04/Amber_Question_01/Asset.dat",
+  "data": {
+    "GUID": "ac1e4b57463847a385b8aa81f3801309",
+    "Type": "Dialogue",
+    "ID": "24072",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "9",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I was investigating the lighthouse when we were scouting around the island. I don't quite remember what happened but I came face to face with her. She couldn't hear what I was saying but I let her know I couldn't help. I... was very scared and I think she knew it. I felt pretty bad afterwards, and everyone thought I dreamed it or something.",
+    "Response_0": "Good to know!"
+  }
+}

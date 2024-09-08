@@ -1,0 +1,42 @@
+{
+  "name": "Metro_Respirator",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Military/Clothing/Metro_Respirator/Metro_Respirator.dat",
+  "data": {
+    "GUID": "c428f55f0e77407784eeb52d3a26694b",
+    "Type": "Mask",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "57018",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Quality_Min": "100",
+    "Quality_Max": "100",
+    "Proof_Radiation": "",
+    "Hair": "",
+    "Beard": "",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "57018",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "32",
+    "Blueprint_0_Map": "Elver",
+    "Blueprint_1_Type": "Apparel",
+    "Blueprint_1_Supplies": "4",
+    "Blueprint_1_Supply_0_ID": "75",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Supply_1_ID": "57023",
+    "Blueprint_1_Supply_1_Amount": "10",
+    "Blueprint_1_Supply_2_ID": "57022",
+    "Blueprint_1_Supply_2_Amount": "1",
+    "Blueprint_1_Supply_3_ID": "66",
+    "Blueprint_1_Supply_3_Amount": "6",
+    "Blueprint_1_Build": "27",
+    "Blueprint_1_Map": "Elver"
+  },
+  "translation": {
+    "Name": "Respirator Mask",
+    "Description": "<color=#64c819>+Radiation Protection</color>"
+  }
+}

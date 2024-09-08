@@ -1,0 +1,19 @@
+{
+  "name": "Deadzone_Belgium_Special",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Spawns/Items/Deadzone_Belgium_Special/Deadzone_Belgium_Special.dat",
+  "data": {
+    "GUID": "2640c57812b447edbf14c308f80e8bed",
+    "Type": "Spawn",
+    "ID": "9026",
+    "Tables": "4",
+    "Table_0_Asset_ID": "9021",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "9022",
+    "Table_1_Weight": "12",
+    "Table_2_Asset_ID": "300",
+    "Table_2_Weight": "10",
+    "Table_3_Asset_ID": "301",
+    "Table_3_Weight": "20"
+  },
+  "translation": null
+}

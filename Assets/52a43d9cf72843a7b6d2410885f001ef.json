@@ -1,0 +1,36 @@
+{
+  "name": "M1 Clip",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/M1 Clip/M1 Clip.dat",
+  "data": {
+    "GUID": "52a43d9cf72843a7b6d2410885f001ef",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "ID": "51042",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Amount": "8",
+    "Count_Min": "4",
+    "Count_Max": "8",
+    "Calibers": "1",
+    "Caliber_0": "51004",
+    "Tracer": "51000",
+    "Blueprints": "3",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51042",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51946",
+    "Blueprint_1_Build": "30",
+    "Blueprint_2_Type": "Ammo",
+    "Blueprint_2_Supplies": "1",
+    "Blueprint_2_Supply_0_ID": "51947",
+    "Blueprint_2_Build": "30"
+  },
+  "translation": {
+    "Name": "Rifle Clip",
+    "Description": "Holds 8 rounds of <color=#DB871A>High Caliber</color> ammo. Compatible with <color=rare>Private</color>, <color=rare>Government</color> and <color=epic>CSO-85</color>."
+  }
+}

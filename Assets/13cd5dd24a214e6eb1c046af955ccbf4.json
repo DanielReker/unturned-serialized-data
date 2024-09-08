@@ -1,0 +1,32 @@
+{
+  "name": "Spelunker",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii_Special/Characters/Spelunker/Asset.dat",
+  "data": {
+    "GUID": "13cd5dd24a214e6eb1c046af955ccbf4",
+    "Type": "NPC",
+    "ID": "45697",
+    "Shirt": "167",
+    "Pants": "227",
+    "Backpack": "200",
+    "Face": "25",
+    "Hair": "14",
+    "Beard": "15",
+    "Color_Skin": "#E5CABE",
+    "Color_Hair": "#714C26",
+    "Secondary": "276",
+    "Equipped": "Secondary",
+    "Dialogue": "45696",
+    "Pose": "Crouch",
+    "Pose_Head_Offset": "0.1",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "45687",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "Stressed Spelunker",
+    "Character": "Stressed Spelunker"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Generator_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Generator_3/PS_Generator_3.dat",
+  "data": {
+    "GUID": "2e40e5f7105c45548d9dda0031a61b9e",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59987"
+  },
+  "translation": {
+    "Name": "PS Generator #4"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Buak_MushGreen",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Resources/Buak_MushGreen/Buak_MushGreen.dat",
+  "data": {
+    "GUID": "6fc8a418edaf49baace6f126e59d2c8a",
+    "Type": "Resource",
+    "ID": "25351",
+    "Health": "1",
+    "Radius": "5",
+    "Scale": "0.2",
+    "Explosion": "25320",
+    "Reward_ID": "25474",
+    "Reward_XP": "1",
+    "Forage": "",
+    "No_Debris": "",
+    "Reset": "250",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_MushGreen"
+  }
+}

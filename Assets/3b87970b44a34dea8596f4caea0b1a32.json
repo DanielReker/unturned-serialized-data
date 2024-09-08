@@ -1,0 +1,14 @@
+{
+  "name": "PS_Marking_Flare_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Quest_Objects/PS_Marking_Flare_0/PS_Marking_Flare_0.dat",
+  "data": {
+    "GUID": "3b87970b44a34dea8596f4caea0b1a32",
+    "Type": "Small",
+    "ID": "59905",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Smol/PS_Marking_Flare_0"
+  },
+  "translation": {
+    "Name": "PS Marking Flare #1"
+  }
+}

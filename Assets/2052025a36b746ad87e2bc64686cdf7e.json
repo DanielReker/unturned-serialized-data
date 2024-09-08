@@ -1,0 +1,33 @@
+{
+  "name": "28100KATNL",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/C/28100KATNL/Asset.dat",
+  "data": {
+    "GUID": "2052025a36b746ad87e2bc64686cdf7e",
+    "Type": "NPC",
+    "ID": "28100",
+    "Shirt": "182",
+    "Pants": "214",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Hat": "560",
+    "Halloween_Shirt": "558",
+    "Halloween_Pants": "559",
+    "Hair": "2",
+    "Face": "5",
+    "Color_Skin": "#332c25",
+    "Color_Hair": "#191919",
+    "Dialogue": "28101",
+    "Conditions": "2",
+    "Condition_0_Type": "Time_Of_Day",
+    "Condition_0_Second": "21600",
+    "Condition_0_Logic": "Less_Than",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitNPCAtlasAstronomerNightLeft",
+    "Character": "Atlas"
+  }
+}

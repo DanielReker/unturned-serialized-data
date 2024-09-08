@@ -1,0 +1,16 @@
+{
+  "name": "PBS_MV10A",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardConditioned/PBS_MV10A/PBS_MV10A.dat",
+  "data": {
+    "GUID": "add4fa798c3c4e53a77b582b8dd53969",
+    "Type": "RewardsList",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "51055",
+    "Condition_0_Amount": "1",
+    "Rewards": "1",
+    "Reward_0_Type": "Player_Life_Virus",
+    "Reward_0_Value": "10"
+  },
+  "translation": null
+}

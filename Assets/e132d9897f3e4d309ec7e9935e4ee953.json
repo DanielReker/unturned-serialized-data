@@ -1,0 +1,15 @@
+{
+  "name": "Aegis_Security_Weapons",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Hawaii/Aegis_Security_Weapons/Aegis_Security_Weapons.dat",
+  "data": {
+    "GUID": "e132d9897f3e4d309ec7e9935e4ee953",
+    "Type": "Spawn",
+    "ID": "841",
+    "Tables": "2",
+    "Table_0_Asset_ID": "97",
+    "Table_0_Weight": "15",
+    "Table_1_Asset_ID": "1481",
+    "Table_1_Weight": "10"
+  },
+  "translation": null
+}

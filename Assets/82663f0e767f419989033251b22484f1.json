@@ -1,0 +1,14 @@
+{
+  "name": "SecondLove_00_Reminder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_02/SecondLove_00_Reminder/Asset.dat",
+  "data": {
+    "GUID": "82663f0e767f419989033251b22484f1",
+    "Type": "Dialogue",
+    "ID": "24390",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Just setup some of the decorations, the spot we are setting up is on the work in progress house that we are using as a stage."
+  }
+}

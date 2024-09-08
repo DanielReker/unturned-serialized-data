@@ -1,0 +1,19 @@
+{
+  "name": "Trader_1_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Trader_1/Trader_1_Welcome/Asset.dat",
+  "data": {
+    "GUID": "8601f9de67c34d88a86c65c583b428b9",
+    "Type": "Dialogue",
+    "ID": "57520",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Responses": "1",
+    "Message_0_Response_0": "0",
+    "Responses": "1",
+    "Response_0_Vendor": "57521"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hello.",
+    "Response_0": "Trade"
+  }
+}

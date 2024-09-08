@@ -1,0 +1,18 @@
+{
+  "name": "CarpatLegacy_Terrain_Sand_Collection",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatFix/Assets/Landscapes/Foliage/Grass/CarpatLegacy_Terrain_Sand_Collection.asset",
+  "data": {
+    "GUID": "aa708df91a4940838975ff1df7b7bee9",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "e145629762c3442782d40a2fcd15e306"
+        },
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

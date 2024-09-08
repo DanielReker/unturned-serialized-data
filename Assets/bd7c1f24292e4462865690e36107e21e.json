@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Q_T_00_Still",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_T_00_Still/Buak_Q_T_00_Still.dat",
+  "data": {
+    "GUID": "bd7c1f24292e4462865690e36107e21e",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24718",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "Buak_Q_T_00_Still"
+  }
+}

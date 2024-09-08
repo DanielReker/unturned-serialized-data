@@ -1,0 +1,13 @@
+{
+  "name": "Ural_Desert",
+  "path": "Bundles/Objects/Large/Vehicles/Ural_Desert/Ural_Desert.dat",
+  "data": {
+    "GUID": "7dbd37f093314f4d99c3d33a0cc89931",
+    "Type": "Large",
+    "ID": "408",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Desert Ural"
+  }
+}

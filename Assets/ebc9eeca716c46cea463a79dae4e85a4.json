@@ -1,0 +1,23 @@
+{
+  "name": "BP_Generator",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Generator/Asset.dat",
+  "data": {
+    "GUID": "ebc9eeca716c46cea463a79dae4e85a4",
+    "Type": "Quest",
+    "ID": "24873",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "fc03275a240e426490f254385ed2d3a3",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24872",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Generator Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Generator Recipe"
+  }
+}

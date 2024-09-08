@@ -1,0 +1,34 @@
+{
+  "name": "Legendary_Griefer_Mask",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Glasses/Legendary_Griefer_Mask/Legendary_Griefer_Mask.dat",
+  "data": {
+    "GUID": "fd3ab8f381dc476e80d8ad9c7d51b4f1",
+    "Type": "Glasses",
+    "Rarity": "Legendary",
+    "Useable": "Clothing",
+    "ID": "26761",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.32",
+    "Use_Auto_Icon_Measurements": "False",
+    "WearAudio": "Sounds/Clothes/Clothes.asset",
+    "Hair": "",
+    "Beard": "",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26761",
+    "Blueprint_0_Product": "25300",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "25535",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25300",
+    "Blueprint_1_Supply_0_Amount": "3",
+    "Blueprint_1_Build": "25534",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Legendary Griefer Mask",
+    "Description": "A mask for legendary grade griefers."
+  }
+}

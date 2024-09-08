@@ -1,0 +1,25 @@
+{
+  "name": "Belgium Military Soldier Felix",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Belgium Military Soldier Felix/Asset.dat",
+  "data": {
+    "GUID": "d52dd663f6c9429a8a00e79edc9188de",
+    "Type": "NPC",
+    "ID": "9096",
+    "Shirt": "9009",
+    "Pants": "9010",
+    "Vest": "9011",
+    "Hat": "9013",
+    "Primary": "9000",
+    "Secondary": "9026",
+    "Equipped": "Primary",
+    "Face": "29",
+    "Hair": "0",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#998033",
+    "Dialogue": "9096"
+  },
+  "translation": {
+    "Name": "Belgium Military Soldier Felix",
+    "Character": "<color=uncommon>Private Felix</color>"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "29353KTQA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29351KTD/29353KTQA/Asset.dat",
+  "data": {
+    "GUID": "2bb475861c7b41a18fdbb38898ec1647",
+    "Type": "Dialogue",
+    "ID": "29353",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Make sure to come soon! Those tunnels won't dig themselves, after all!"
+  }
+}

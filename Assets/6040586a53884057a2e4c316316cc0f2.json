@@ -1,0 +1,22 @@
+{
+  "name": "PEI_Sand_00_Material",
+  "path": "Bundles/Assets/Landscapes/Materials/PEI/PEI_Sand_00_Material.asset",
+  "data": {
+    "GUID": "6040586a53884057a2e4c316316cc0f2",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "core.masterbundle",
+      "Path": "Terrain/Materials/PEI/Sand_00.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "PEI_Sand_00",
+    "Foliage": {
+      "GUID": "f5dd551c560e4f7f9bf870214f500ccf"
+    }
+  },
+  "translation": null
+}

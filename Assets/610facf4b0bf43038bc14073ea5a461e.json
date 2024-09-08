@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Gun_Parts",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Gun_Parts/Drop_Gun_Parts.dat",
+  "data": {
+    "GUID": "610facf4b0bf43038bc14073ea5a461e",
+    "Type": "Spawn",
+    "ID": "25510",
+    "Tables": [
+      {
+        "Guid": "801629b5eb6a44dbabfd7b8881a6ef56",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

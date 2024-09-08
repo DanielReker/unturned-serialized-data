@@ -1,0 +1,18 @@
+{
+  "name": "Nolan_End",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Civilian Nolan/Nolan_End/Asset.dat",
+  "data": {
+    "GUID": "6aeec5d3d65947ed946b4bd0466b0ff8",
+    "Type": "Dialogue",
+    "ID": "9215",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Responses": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh that's my bad.",
+    "Message_0_Page_1": "Anyways...isn't it beautiful here?",
+    "Response_0": "I would have to agree.",
+    "Response_1": "I would have to disagree."
+  }
+}

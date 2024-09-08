@@ -1,0 +1,23 @@
+{
+  "name": "Cough_Syrup",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Meds/Cough_Syrup/Cough_Syrup.dat",
+  "data": {
+    "GUID": "bebd06dbd6ee4e5387b37d6ce8aa935f",
+    "Type": "Medical",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "25627",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.16",
+    "Use_Auto_Icon_Measurements": "False",
+    "Aid": "",
+    "Health": "15",
+    "Disinfectant": "20",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Cough Syrup",
+    "Description": "Maple flavored for those Canadian cold coughs.<br><size=14><color=#ff4466>Health 15</color> <color=#029a30>Disinfectant 20</color></size>"
+  }
+}

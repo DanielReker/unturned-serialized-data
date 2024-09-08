@@ -1,0 +1,12 @@
+{
+  "name": "Gyro_PYELLOW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Vehicles/Redirectors/Gyro/Gyro_PYELLOW.asset",
+  "data": {
+    "GUID": "c4457a711eee4dd2918d42dabdf614ef",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "25423",
+    "TargetVehicle": "9e6ac91595dc4edd999a6e8d364281c6",
+    "LoadPaintColor": "#CDB34F"
+  },
+  "translation": null
+}

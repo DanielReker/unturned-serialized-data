@@ -1,0 +1,13 @@
+{
+  "name": "Special_High_Brazil_High",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Special_High_Brazil_High/Special_High_Brazil_High.dat",
+  "data": {
+    "GUID": "bb76e4c7c3f443c496220d01b3ee3bb6",
+    "Type": "Spawn",
+    "ID": "5083",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5081",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

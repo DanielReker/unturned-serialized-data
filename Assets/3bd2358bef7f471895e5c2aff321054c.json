@@ -1,0 +1,12 @@
+{
+  "name": "Fracking_Field",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Fracking_Field/Fracking_Field.dat",
+  "data": {
+    "GUID": "3bd2358bef7f471895e5c2aff321054c",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Fracking Field"
+  }
+}

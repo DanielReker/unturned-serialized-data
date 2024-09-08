@@ -1,0 +1,21 @@
+{
+  "name": "Shadow",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Music/Music/Shadow/Shadow.asset",
+  "data": {
+    "GUID": "c333d532e609441fa17b65ee4a26c6f3",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Title": {
+      "Namespace": "SDG",
+      "Token": "Stereo_Songs.Unlike_Pluto12.Title"
+    },
+    "Song": {
+      "MasterBundle": "up.masterbundle",
+      "AssetPath": "Unlike Pluto - Shadow.wav"
+    },
+    "Link_URL": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga?si=HUDPSJR0SwyWE97dlv_liA"
+  },
+  "translation": {
+    "Name": "Unlike Pluto - Shadow"
+  }
+}

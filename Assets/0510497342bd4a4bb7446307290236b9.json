@@ -1,0 +1,20 @@
+{
+  "name": "PS_Mine_Door_18",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Mine_Door_18/PS_Mine_Door_18.dat",
+  "data": {
+    "GUID": "0510497342bd4a4bb7446307290236b9",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60095",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "Tunnels_Entrance_0",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/PS_Mine_Door_16"
+  },
+  "translation": {
+    "Name": "PS Mine Door #19 [Tunnels Entrance #1]",
+    "Interact": "Enter the tunnels [{0}]"
+  }
+}

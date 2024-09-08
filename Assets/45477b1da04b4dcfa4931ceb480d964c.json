@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Q_S7M1_Door_Light_Static",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M1/Buak_Q_S7M1_Door_Light_Static/Buak_Q_S7M1_Door_Light_Static.dat",
+  "data": {
+    "GUID": "45477b1da04b4dcfa4931ceb480d964c",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24309",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M1_Door_Light_Static"
+  }
+}

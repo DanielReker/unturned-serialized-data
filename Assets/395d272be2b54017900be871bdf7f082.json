@@ -1,0 +1,40 @@
+{
+  "name": "Metro_Tanktrap",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Overrides_Barricades/Metro_Tanktrap/Metro_Tanktrap.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "395d272be2b54017900be871bdf7f082",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "57399",
+    "Health": "150",
+    "Range": "4",
+    "Radius": "0.4",
+    "Offset": "0.5",
+    "Vulnerable": "",
+    "Explosion": "35",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supply_0_ID": "285",
+    "Blueprint_0_Supply_0_Amount": "7",
+    "Blueprint_0_Tool": "76",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Tool",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "57399",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "67",
+    "Blueprint_1_Output_0_Amount": "1",
+    "Blueprint_1_Build": "27",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/Tanktrap",
+    "PlacementAudioClip": "Sounds/MetalPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Tanktrap",
+    "Description": "<color=#64c819>150</color> Health"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fish_Bait",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Spawns/Fishing/Fish_Bait/Fish_Bait.dat",
+  "data": {
+    "GUID": "ce7e94971b0f450793c346009ba81499",
+    "Type": "Spawn",
+    "ID": "6602",
+    "Tables": "6",
+    "Table_0_Asset_ID": "6679",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "6630",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "6632",
+    "Table_2_Weight": "10",
+    "Table_3_Asset_ID": "6634",
+    "Table_3_Weight": "10",
+    "Table_4_Asset_ID": "6645",
+    "Table_4_Weight": "10",
+    "Table_5_Asset_ID": "6647",
+    "Table_5_Weight": "6"
+  },
+  "translation": null
+}

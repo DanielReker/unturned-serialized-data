@@ -1,0 +1,16 @@
+{
+  "name": "PaintingDelusion",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingDelusion/PaintingDelusion.dat",
+  "data": {
+    "GUID": "347cc229888d4db689ae2dd9b9ab40af",
+    "Type": "Spawn",
+    "ID": "51292",
+    "Tables": [
+      {
+        "Guid": "f54b2606756d4847a66bac09189a7df2",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

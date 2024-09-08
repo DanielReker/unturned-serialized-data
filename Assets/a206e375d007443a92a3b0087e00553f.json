@@ -1,0 +1,14 @@
+{
+  "name": "Radio_00_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Other/Radio/Radio_00_Completed/Asset.dat",
+  "data": {
+    "GUID": "a206e375d007443a92a3b0087e00553f",
+    "Type": "Dialogue",
+    "ID": "24173",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<size=-5>01001101 01010101 01010010 01000100 01000101 01010010 00100000 01010111 01001001 01010100 01001000 00100000 01000001 00100000 01000110 01000001 01001100 01010011 01000101 00100000 01010000 01010010 01001111 01001101 01001001 01010011 01000101</size>"
+  }
+}

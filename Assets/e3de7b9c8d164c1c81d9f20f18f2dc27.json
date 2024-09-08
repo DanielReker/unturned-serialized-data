@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Cardboard_Box",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Cardboard_Box/Obj_Cardboard_Box.dat",
+  "data": {
+    "GUID": "e3de7b9c8d164c1c81d9f20f18f2dc27",
+    "Type": "Effect",
+    "ID": "25461"
+  },
+  "translation": null
+}

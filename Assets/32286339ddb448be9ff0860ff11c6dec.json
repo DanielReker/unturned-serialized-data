@@ -1,0 +1,18 @@
+{
+  "name": "PS_Cobalt_Crystal_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Cobalt_Crystal_0/PS_Cobalt_Crystal_0.dat",
+  "data": {
+    "GUID": "32286339ddb448be9ff0860ff11c6dec",
+    "Type": "Supply",
+    "Rarity": "Legendary",
+    "ID": "60000",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Should_Drop_On_Death": "False"
+  },
+  "translation": {
+    "Name": "Cobalt Crystal",
+    "Description": "Rare chemical element, has pleasant colors. <color=#C02E2E>Destroyed upon death.</color>"
+  }
+}

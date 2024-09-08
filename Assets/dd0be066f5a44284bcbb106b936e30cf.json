@@ -1,0 +1,21 @@
+{
+  "name": "CA_Light_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Props/CA_Light_1/CA_Light_1.dat",
+  "data": {
+    "GUID": "dd0be066f5a44284bcbb106b936e30cf",
+    "Type": "Medium",
+    "ID": "4312",
+    "Interactability": "Binary_State",
+    "Interactability_Hint": "Switch",
+    "Interactability_Power": "Stay",
+    "Interactability_Emission": "",
+    "Chart": "Ignore",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "150",
+    "Rubble_Effect": "72"
+  },
+  "translation": {
+    "Name": "California Traffic Light #1"
+  }
+}

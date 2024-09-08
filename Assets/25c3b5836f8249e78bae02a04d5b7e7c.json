@@ -1,0 +1,14 @@
+{
+  "name": "Canister_1",
+  "path": "Bundles/Objects/Medium/Business/Canister_1/Canister_1.dat",
+  "data": {
+    "GUID": "25c3b5836f8249e78bae02a04d5b7e7c",
+    "Type": "Medium",
+    "ID": "510",
+    "Snowshoe": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Canister #2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Control_Board_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Control_Board_0/PS_Control_Board_0.dat",
+  "data": {
+    "GUID": "41200daae41c4333bf7aa3cbdfdf68e8",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59206"
+  },
+  "translation": {
+    "Name": "PS Control Board #1"
+  }
+}

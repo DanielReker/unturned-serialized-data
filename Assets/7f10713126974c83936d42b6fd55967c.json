@@ -1,0 +1,19 @@
+{
+  "name": "Metro_Frame",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Metro_Frame/Metro_Frame.dat",
+  "data": {
+    "GUID": "7f10713126974c83936d42b6fd55967c",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57518",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57102",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Metro Sacrifice Quest [Frame]"
+  }
+}

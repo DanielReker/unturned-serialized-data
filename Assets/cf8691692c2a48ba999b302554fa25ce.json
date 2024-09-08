@@ -1,0 +1,16 @@
+{
+  "name": "Rio_ZE_Graffiti_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Decals/Rio_ZE_Graffiti_2/Rio_ZE_Graffiti_2.dat",
+  "data": {
+    "GUID": "cf8691692c2a48ba999b302554fa25ce",
+    "Type": "Decal",
+    "ID": "7098",
+    "Decal_X": "4",
+    "Decal_Y": "2",
+    "Decal_LOD_Bias": "1",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio ZE Decal #3"
+  }
+}

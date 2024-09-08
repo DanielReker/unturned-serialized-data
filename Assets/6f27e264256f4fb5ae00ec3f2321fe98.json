@@ -1,0 +1,14 @@
+{
+  "name": "Shuttle_Launch_1",
+  "path": "Bundles/Objects/Large/Buildings/Shuttle_Launch_1/Shuttle_Launch_1.dat",
+  "data": {
+    "GUID": "6f27e264256f4fb5ae00ec3f2321fe98",
+    "Type": "Large",
+    "ID": "899",
+    "Soft": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Shuttle Launch #2"
+  }
+}

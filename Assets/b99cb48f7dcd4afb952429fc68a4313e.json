@@ -1,0 +1,13 @@
+{
+  "name": "PS_Chemlight_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Chemlight_1/PS_Chemlight_1.dat",
+  "data": {
+    "GUID": "b99cb48f7dcd4afb952429fc68a4313e",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59781"
+  },
+  "translation": {
+    "Name": "PS Chemlight #2"
+  }
+}

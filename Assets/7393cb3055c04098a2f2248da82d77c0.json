@@ -1,0 +1,19 @@
+{
+  "name": "Nelson_1_Punisher_1_Explanation",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Nelson_1/Nelson_1_Punisher_1_Explanation/Asset.dat",
+  "data": {
+    "GUID": "7393cb3055c04098a2f2248da82d77c0",
+    "Type": "Dialogue",
+    "ID": "58091",
+    "Messages": "1",
+    "Message_0_Pages": "3",
+    "Responses": "1",
+    "Response_0_Dialogue": "57971"
+  },
+  "translation": {
+    "Message_0_Page_0": "This sword is our only hope at killing him, he is almost immune to ranged weaponry.",
+    "Message_0_Page_1": "Each strike will deal <color=#64c819>180</color> damage.",
+    "Message_0_Page_2": "A strong attack will deal <color=#64c819>4</color>x damage, so go for those when possible.",
+    "Response_0": "Alright then but, Sword of Light? Seriously?"
+  }
+}

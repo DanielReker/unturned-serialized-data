@@ -1,0 +1,15 @@
+{
+  "name": "CA_Grocer_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Grocer_0/CA_Grocer_0.dat",
+  "data": {
+    "GUID": "bd2cfc0d81854561bfec9d32e3568693",
+    "Type": "Large",
+    "ID": "4686",
+    "Material_Palette": "3987063d60df43e2ac4ca66fe91880f1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Large/Buildings/Grocer_1"
+  },
+  "translation": {
+    "Name": "California Grocer #1"
+  }
+}

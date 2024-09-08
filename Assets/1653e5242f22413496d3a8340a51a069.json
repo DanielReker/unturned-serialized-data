@@ -1,0 +1,42 @@
+{
+  "name": "Seed_Apple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Seed_Apple/Seed_Apple.dat",
+  "data": {
+    "GUID": "1653e5242f22413496d3a8340a51a069",
+    "Type": "Farm",
+    "Useable": "Barricade",
+    "Build": "Farm",
+    "ID": "51625",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Health": "1",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "0.375",
+    "Growth": "3600",
+    "Grow": "51487",
+    "Harvest_Reward_Experience": "3",
+    "Affected_By_Agriculture_Skill": "False",
+    "Explosion": "43",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "51487",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/FoliagePlacement.mp3",
+    "Has_Clip_Prefab": "false",
+    "Harvest_Rewards": "2",
+    "Harvest_Reward_0_Type": "Item",
+    "Harvest_Reward_0_ID": "51487",
+    "Harvest_Reward_0_Amount": "1",
+    "Harvest_Reward_1_Type": "Flag_Short",
+    "Harvest_Reward_1_ID": "52134",
+    "Harvest_Reward_1_Value": "1",
+    "Harvest_Reward_1_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "Apple Seed",
+    "Description": "Ready to grow in some fertile soil."
+  }
+}

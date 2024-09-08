@@ -1,0 +1,12 @@
+{
+  "name": "Glorified_BWTN_PPURPLE",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Vehicles/Redirectors/Glorified/Glorified_BWTN_PPURPLE.asset",
+  "data": {
+    "GUID": "44185a7e35664d1e95b2b72903810780",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "25400",
+    "TargetVehicle": "e8adbc01795f42ce8a01605f757c0bdb",
+    "LoadPaintColor": "#6F5571"
+  },
+  "translation": null
+}

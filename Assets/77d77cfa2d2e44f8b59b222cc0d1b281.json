@@ -1,0 +1,40 @@
+{
+  "name": "Tie_Science",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Vests/Tie_Science/Tie_Science.dat",
+  "data": {
+    "GUID": "77d77cfa2d2e44f8b59b222cc0d1b281",
+    "Rarity": "Uncommon",
+    "Type": "Vest",
+    "Useable": "Clothing",
+    "ID": "26830",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.44",
+    "Use_Auto_Icon_Measurements": "False",
+    "Width": "8",
+    "Height": "8",
+    "Armor": "0.95",
+    "WearAudio": "Sounds/Clothes/Clothes.asset",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Key": "Salvage",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26830",
+    "Blueprint_0_Product": "25300",
+    "Blueprint_0_Products": "4",
+    "Blueprint_0_Build": "25535",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25300",
+    "Blueprint_1_Supply_0_Amount": "6",
+    "Blueprint_1_Build": "25534",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Science Tie",
+    "Description": "Scientifically uncomfortable neckwear."
+  }
+}

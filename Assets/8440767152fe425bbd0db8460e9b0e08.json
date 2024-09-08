@@ -1,0 +1,13 @@
+{
+  "name": "PS_Poster_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Poster_00/PS_Poster_00.dat",
+  "data": {
+    "GUID": "8440767152fe425bbd0db8460e9b0e08",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59381"
+  },
+  "translation": {
+    "Name": "PS Poster #1"
+  }
+}

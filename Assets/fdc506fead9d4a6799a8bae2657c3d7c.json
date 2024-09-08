@@ -1,0 +1,24 @@
+{
+  "name": "Metal_node",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Trees/Metal_node/Metal_node.dat",
+  "data": {
+    "GUID": "fdc506fead9d4a6799a8bae2657c3d7c",
+    "Type": "Resource",
+    "ID": "51031",
+    "Health": "1200",
+    "Radius": "4",
+    "Scale": "0.3",
+    "Explosion": "52",
+    "Reward_ID": "51004",
+    "Reward_XP": "6",
+    "Reward_Min": "3",
+    "Reward_Max": "7",
+    "BladeID": "2",
+    "No_Debris": "",
+    "Reset": "1000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Metal_Node"
+  }
+}

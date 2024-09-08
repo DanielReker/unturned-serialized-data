@@ -1,0 +1,17 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Viola/Viola_01/Welcome/Asset.dat",
+  "data": {
+    "GUID": "8f6625708aa849e69f993b567645db9e",
+    "Type": "Dialogue",
+    "ID": "24129",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Heyo whats up?",
+    "Response_0": "Hello!",
+    "Response_1": "Goodbye."
+  }
+}

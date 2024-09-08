@@ -1,0 +1,42 @@
+{
+  "name": "Container_Brick",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Barricades/Container_Brick/Container_Brick.dat",
+  "data": {
+    "GUID": "f9637e898bd04f50bef1ec2c9a7b5d09",
+    "Type": "Storage",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Storage",
+    "ID": "6649",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Health": "500",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "0.69",
+    "Storage_X": "8",
+    "Storage_Y": "8",
+    "Locked": "",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "74",
+    "Blueprint_0_Supply_0_Amount": "5",
+    "Blueprint_0_Supply_1_ID": "6641",
+    "Blueprint_0_Supply_1_Amount": "2",
+    "Blueprint_0_Tool": "76",
+    "Blueprint_0_Level": "3",
+    "Blueprint_0_Skill": "Craft",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Easter Island",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Brick Container",
+    "Description": "Brick container for storing items."
+  }
+}

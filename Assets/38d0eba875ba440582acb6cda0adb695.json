@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Q_S7M2_Parking",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M2/Buak_Q_S7M2_Parking/Buak_Q_S7M2_Parking.dat",
+  "data": {
+    "GUID": "38d0eba875ba440582acb6cda0adb695",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24297",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M2_Parking"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Napolean_Statue",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Scenery/Napolean_Statue/Napolean_Statue.dat",
+  "data": {
+    "GUID": "6edf728b1f50422284087aaea293fd6b",
+    "Type": "Large",
+    "ID": "35097",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Napoeleon Statue #1"
+  }
+}

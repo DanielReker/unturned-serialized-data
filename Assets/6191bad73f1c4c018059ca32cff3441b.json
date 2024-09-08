@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Car_Lift_00_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Car_Lift_00_1/Buak_Car_Lift_00_1.dat",
+  "data": {
+    "GUID": "6191bad73f1c4c018059ca32cff3441b",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Car_Lift_00_1"
+  }
+}

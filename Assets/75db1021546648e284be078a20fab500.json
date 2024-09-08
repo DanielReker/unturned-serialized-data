@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Sedan_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Vehicles/Buak_Sedan_01/Buak_Sedan_01.dat",
+  "data": {
+    "GUID": "75db1021546648e284be078a20fab500",
+    "Type": "Large",
+    "ID": "25300",
+    "Material_Palette": "115d9d196cf44e1aab48246dcc246dd2",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Sedan_01"
+  }
+}

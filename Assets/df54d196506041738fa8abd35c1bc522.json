@@ -1,0 +1,13 @@
+{
+  "name": "Military_America_Humvee",
+  "path": "Bundles/Spawns/Vehicles/Military_America_Humvee/Military_America_Humvee.dat",
+  "data": {
+    "GUID": "df54d196506041738fa8abd35c1bc522",
+    "Type": "Spawn",
+    "ID": "410",
+    "Tables": "1",
+    "Table_0_Asset_ID": "56",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

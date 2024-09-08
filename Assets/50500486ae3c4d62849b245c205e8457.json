@@ -1,0 +1,14 @@
+{
+  "name": "BE_Bejeweled_Tophat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Cosmetics/BE_Bejeweled_Tophat/BE_Bejeweled_Tophat.dat",
+  "data": {
+    "GUID": "50500486ae3c4d62849b245c205e8457",
+    "Type": "Hat",
+    "ID": "1551",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Beard": ""
+  },
+  "translation": null
+}

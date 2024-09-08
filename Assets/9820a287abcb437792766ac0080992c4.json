@@ -1,0 +1,14 @@
+{
+  "name": "25611KMKrissAccepted1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/256 CS/25610KMKD/25611KMKrissAccepted1/Asset.dat",
+  "data": {
+    "GUID": "9820a287abcb437792766ac0080992c4",
+    "Type": "Dialogue",
+    "ID": "25611",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Be careful, <name_char>."
+  }
+}

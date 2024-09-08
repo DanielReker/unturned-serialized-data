@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Box_Planter",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Box_Planter/PS_Drops_Box_Planter.dat",
+  "data": {
+    "GUID": "81c67ae82d6248369ef14728ece290aa",
+    "Type": "Spawn",
+    "ID": "59353",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59360",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Buak_Q_FL_Box",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_FL_Box/Buak_Q_FL_Box.dat",
+  "data": {
+    "GUID": "7bf3d6e3104b4bfab300d4f672c0c595",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24584",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "2",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "24584",
+    "Interactability_Reward_0_Value": "True",
+    "Interactability_Reward_1_Type": "Hint",
+    "Interactability_Reward_1_Text": "Collected Small Black Box",
+    "Interactability_Reward_1_Duration": "3"
+  },
+  "translation": {
+    "Name": "Buak_Q_FL_Box",
+    "Interact": "Collect Box [{0}]"
+  }
+}

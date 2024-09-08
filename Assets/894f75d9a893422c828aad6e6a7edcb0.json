@@ -1,0 +1,12 @@
+{
+  "name": "CA_Security_Booth_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Security_Booth_0/CA_Security_Booth_0.dat",
+  "data": {
+    "GUID": "894f75d9a893422c828aad6e6a7edcb0",
+    "Type": "Large",
+    "ID": "4646"
+  },
+  "translation": {
+    "Name": "California Hotel Booth #1"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "HawaiiBush_Amber",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Trees/Hawaii/HawaiiBush_Amber/HawaiiBush_Amber.dat",
+  "data": {
+    "GUID": "1d8636ec726042b3b298366840eb14f2",
+    "Type": "Resource",
+    "ID": "2012",
+    "Health": "1",
+    "Radius": "3",
+    "Scale": "0.025",
+    "Offset": ".25",
+    "Explosion": "43",
+    "Log": "270",
+    "Forage": "",
+    "Reset": "1000",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hawaii Amber Bush"
+  }
+}

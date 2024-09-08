@@ -1,0 +1,25 @@
+{
+  "name": "Belgium Military Soldier Imran",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Belgium Military Soldier Imran/Asset.dat",
+  "data": {
+    "GUID": "93c7c72532694f5d9c16708e875d577b",
+    "Type": "NPC",
+    "ID": "9047",
+    "Shirt": "9009",
+    "Pants": "9010",
+    "Vest": "9011",
+    "Hat": "9013",
+    "Primary": "9028",
+    "Secondary": "9026",
+    "Face": "5",
+    "Hair": "0",
+    "Beard": "15",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#998033",
+    "Dialogue": "9047"
+  },
+  "translation": {
+    "Name": "Belgium Military Soldier Imran",
+    "Character": "<color=uncommon>Private Imran</color>"
+  }
+}

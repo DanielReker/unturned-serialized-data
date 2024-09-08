@@ -1,0 +1,13 @@
+{
+  "name": "Yukon_Medic_Arctic",
+  "path": "Bundles/Spawns/Items/Yukon_Medic_Arctic/Yukon_Medic_Arctic.dat",
+  "data": {
+    "GUID": "93957105e5a44bc4ad61db6426bdcdc1",
+    "Type": "Spawn",
+    "ID": "436",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "437",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

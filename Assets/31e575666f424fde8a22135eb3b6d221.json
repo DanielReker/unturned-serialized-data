@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Cooler_Orange",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Cooler_Orange/Buak_Cooler_Orange.dat",
+  "data": {
+    "GUID": "31e575666f424fde8a22135eb3b6d221",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "500",
+    "Rubble_Health": "4",
+    "Rubble_Effect": "25486",
+    "Rubble_Reward_ID": "25341",
+    "Rubble_Reward_Probability": "0.2"
+  },
+  "translation": {
+    "Name": "Buak_Cooler_Orange"
+  }
+}

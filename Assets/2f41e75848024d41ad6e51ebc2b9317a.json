@@ -1,0 +1,40 @@
+{
+  "name": "Syndicate_Guns",
+  "path": "Bundles/Spawns/Items/Syndicate_Guns/Syndicate_Guns.dat",
+  "data": {
+    "GUID": "2f41e75848024d41ad6e51ebc2b9317a",
+    "Type": "Spawn",
+    "ID": "768",
+    "Tables": [
+      {
+        "LegacyAssetId": "1360",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "1039",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "1480",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "1477",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "1369",
+        "Weight": "10"
+      },
+      {
+        "Guid": "7d6c442450c3419aa73405930919d067",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "122",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

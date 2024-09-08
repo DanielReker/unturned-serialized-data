@@ -1,0 +1,16 @@
+{
+  "name": "PaintingGrenade",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingGrenade/PaintingGrenade.dat",
+  "data": {
+    "GUID": "8d69f08c390a40448e3967bcd76d3d86",
+    "Type": "Spawn",
+    "ID": "51289",
+    "Tables": [
+      {
+        "Guid": "e998b083ab974b779cccbb5f4b876afb",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

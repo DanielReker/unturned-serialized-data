@@ -1,0 +1,12 @@
+{
+  "name": "IR_FirePlace_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/Debris/IR_FirePlace_2/IR_FirePlace_2.dat",
+  "data": {
+    "GUID": "4dd5ad56842a45408945b94fdd609dac",
+    "Type": "Medium",
+    "ID": "17125"
+  },
+  "translation": {
+    "Name": "Irish FirePlace# 2"
+  }
+}

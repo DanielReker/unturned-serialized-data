@@ -1,0 +1,27 @@
+{
+  "name": "California_Civilian_Interceptor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Vehicles/California_Civilian_Interceptor/California_Civilian_Interceptor.dat",
+  "data": {
+    "GUID": "ad392e77dddb4665a6405976513ef3ed",
+    "Type": "Spawn",
+    "ID": "4327",
+    "Tables": "8",
+    "Table_0_Asset_ID": "4001",
+    "Table_0_Weight": "1",
+    "Table_1_Asset_ID": "4007",
+    "Table_1_Weight": "1",
+    "Table_2_Asset_ID": "4006",
+    "Table_2_Weight": "1",
+    "Table_3_Asset_ID": "4005",
+    "Table_3_Weight": "1",
+    "Table_4_Asset_ID": "4004",
+    "Table_4_Weight": "1",
+    "Table_5_Asset_ID": "4003",
+    "Table_5_Weight": "1",
+    "Table_6_Asset_ID": "4002",
+    "Table_6_Weight": "1",
+    "Table_7_Asset_ID": "4008",
+    "Table_7_Weight": "1"
+  },
+  "translation": null
+}

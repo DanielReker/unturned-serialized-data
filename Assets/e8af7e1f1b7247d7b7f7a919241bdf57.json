@@ -1,0 +1,16 @@
+{
+  "name": "France_Guard_2_Question_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Guard_2/France_Guard_2_Question_3/Asset.dat",
+  "data": {
+    "GUID": "e8af7e1f1b7247d7b7f7a919241bdf57",
+    "Type": "Dialogue",
+    "ID": "4220",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Message_0_Prev": "4217"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks, but no thanks.",
+    "Message_0_Page_1": "There's nothing I need at all. I'm sure the more important people here have stuff to do."
+  }
+}

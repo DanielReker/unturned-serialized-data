@@ -1,0 +1,13 @@
+{
+  "name": "Military_Peaks_Tank",
+  "path": "Bundles/Spawns/Vehicles/Military_Peaks_Tank/Military_Peaks_Tank.dat",
+  "data": {
+    "GUID": "80b84e22d102431bb31f670aad875b02",
+    "Type": "Spawn",
+    "ID": "746",
+    "Tables": "1",
+    "Table_0_Asset_ID": "137",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

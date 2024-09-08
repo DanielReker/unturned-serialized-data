@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Oven_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Furniture/Frost_Oven_01/Frost_Oven_01.dat",
+  "data": {
+    "GUID": "9a779bc0c9504cf9be09f3329e39ffc8",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000"
+  },
+  "translation": {
+    "Name": "Frost Oven #2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PaintingBuak",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingBuak/PaintingBuak.dat",
+  "data": {
+    "GUID": "99e1424f8d07402599318aaa2ea2ff3a",
+    "Type": "Spawn",
+    "ID": "51235",
+    "Tables": [
+      {
+        "Guid": "bfbc4096c3f34ec6885988f762dc3431",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

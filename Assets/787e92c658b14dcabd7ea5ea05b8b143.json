@@ -1,0 +1,13 @@
+{
+  "name": "Military_Brazil_L3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Military_Brazil_L3/Military_Brazil_L3.dat",
+  "data": {
+    "GUID": "787e92c658b14dcabd7ea5ea05b8b143",
+    "Type": "Spawn",
+    "ID": "5534",
+    "Tables": "1",
+    "Table_0_Asset_ID": "4427",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

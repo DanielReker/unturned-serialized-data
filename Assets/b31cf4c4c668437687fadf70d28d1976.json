@@ -1,0 +1,13 @@
+{
+  "name": "PS_Items_05",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Items_05/PS_Items_05.dat",
+  "data": {
+    "GUID": "b31cf4c4c668437687fadf70d28d1976",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59873"
+  },
+  "translation": {
+    "Name": "PS Items #6 [Walkie-Talkie]"
+  }
+}

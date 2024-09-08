@@ -1,0 +1,14 @@
+{
+  "name": "Dango_NinjaVest",
+  "path": "Bundles/Items/Dango/Dango_NinjaVest/Dango_NinjaVest.dat",
+  "data": {
+    "GUID": "6acdbce7e6b545a696c575e476f17282",
+    "Type": "Vest",
+    "ID": "912",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Pro": ""
+  },
+  "translation": null
+}

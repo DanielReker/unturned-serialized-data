@@ -1,0 +1,13 @@
+{
+  "name": "Jeep_Forest",
+  "path": "Bundles/Objects/Large/Vehicles/Jeep_Forest/Jeep_Forest.dat",
+  "data": {
+    "GUID": "b16b1dc5aeba4004b613fffa2e9a3a4e",
+    "Type": "Large",
+    "ID": "467",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Forest Jeep"
+  }
+}

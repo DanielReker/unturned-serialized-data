@@ -1,0 +1,13 @@
+{
+  "name": "PS_Military_Fence_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Military_Fence_1/PS_Military_Fence_1.dat",
+  "data": {
+    "GUID": "a190b1b9ab5c41f6a549ef685f3a6323",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59474"
+  },
+  "translation": {
+    "Name": "PS Military Fence #2"
+  }
+}

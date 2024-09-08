@@ -1,0 +1,27 @@
+{
+  "name": "PS_Bus_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/PS_Bus_1/Asset.dat",
+  "data": {
+    "GUID": "39d4494ad2d2496bbc0a27b7539e4a21",
+    "Type": "NPC",
+    "ID": "59016",
+    "Face": "22",
+    "Hair": "2",
+    "Beard": "0",
+    "Color_Skin": "#937E61",
+    "Color_Hair": "#776945",
+    "Dialogue": "59083",
+    "Shirt": "59744",
+    "Pants": "59160",
+    "Hat": "59745",
+    "Pose": "Sit",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Shirt": "59636",
+    "Halloween_Pants": "59068",
+    "Halloween_Hat": "0"
+  },
+  "translation": {
+    "Name": "PS Bus #2 [Bus1]",
+    "Character": "Bus Driver"
+  }
+}

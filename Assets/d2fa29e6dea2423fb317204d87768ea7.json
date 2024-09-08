@@ -1,0 +1,33 @@
+{
+  "name": "Benson_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/Others/Benson_00/Asset.dat",
+  "data": {
+    "GUID": "d2fa29e6dea2423fb317204d87768ea7",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "e0af6fb4727c42f8a446a21f118a8505",
+    "Shirt": "4aabffd2a20641cf9181b11b15d7d0bb",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "Face": "1",
+    "Hair": "9",
+    "Color_Skin": "#829CE1",
+    "Color_Hair": "#D8E0BD",
+    "Pose": "Sit",
+    "Tertiary": "d6005e7d314d43ee897c704722ba9535",
+    "Equipped": "Tertiary",
+    "Dialogue": "e03effb962d74783ab119f9f1083038a",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24786",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Benson_00",
+    "Character": "<color=#905e4b>Benson</color>"
+  }
+}

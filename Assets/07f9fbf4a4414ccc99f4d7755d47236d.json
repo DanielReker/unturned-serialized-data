@@ -1,0 +1,28 @@
+{
+  "name": "Frost_Crate_556_Smol",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Attachments/Frost_Crate_556_Smol/Frost_Crate_556_Smol.dat",
+  "data": {
+    "GUID": "07f9fbf4a4414ccc99f4d7755d47236d",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "36328",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Amount": "40",
+    "Count_Min": "10",
+    "Count_Max": "30",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "36327",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "36328",
+    "Blueprint_1_Build": "30"
+  },
+  "translation": {
+    "Name": "5.56mm Ammo Crate",
+    "Description": "<color=#64c819>5.56</color>mm Caliber<br><color=#64c819>40</color> Round Capacity"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Reactor_Turbine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Utilities/Reactor_Turbine/Reactor_Turbine.dat",
+  "data": {
+    "GUID": "c5733235bdfd4a969123cffbd053471a",
+    "Type": "Large",
+    "ID": "35057",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Reactor Turbine #1"
+  }
+}

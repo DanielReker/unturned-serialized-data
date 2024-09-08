@@ -1,0 +1,13 @@
+{
+  "name": "Quarry_Catwalk_2",
+  "path": "Bundles/Objects/Medium/Business/Quarry_Catwalk_2/Quarry_Catwalk_2.dat",
+  "data": {
+    "GUID": "e1150048593844e18fd9aa749e030d69",
+    "Type": "Medium",
+    "ID": "875",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Quarry Catwalk Railing"
+  }
+}

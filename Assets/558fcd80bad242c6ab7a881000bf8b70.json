@@ -1,0 +1,29 @@
+{
+  "name": "PBS_Snow",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Visitors/Characters/PBS_Snow/Asset.dat",
+  "data": {
+    "GUID": "558fcd80bad242c6ab7a881000bf8b70",
+    "Type": "NPC",
+    "ID": "52610",
+    "Glasses": "5fe00f8f33ed4bd7b21dd719b86c18e9",
+    "Shirt": "0f3cff20af83400ea70ed040664fff3c",
+    "Pants": "6ad2f0767c2a468b82a7166eab46875b",
+    "Face": "24",
+    "Hair": "8",
+    "Beard": "0",
+    "Color_Skin": "#F4E6D2",
+    "Color_Hair": "#191919",
+    "Primary": "52200",
+    "Dialogue": "52611",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Date_Counter",
+    "Condition_0_Value": "3",
+    "Condition_0_Divisor": "6",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS NPC Visitor Snow",
+    "Character": "Snow"
+  }
+}

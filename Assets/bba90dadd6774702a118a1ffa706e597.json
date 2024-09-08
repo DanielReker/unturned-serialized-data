@@ -1,0 +1,13 @@
+{
+  "name": "Sofa",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Sofa/Sofa.dat",
+  "data": {
+    "GUID": "bba90dadd6774702a118a1ffa706e597",
+    "Material_Palette": "f07c34a2a7b14e2d9d76395c0a48d107",
+    "Type": "Medium",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Sofa"
+  }
+}

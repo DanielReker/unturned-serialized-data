@@ -1,0 +1,12 @@
+{
+  "name": "Easter_Steam_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Effects/Volumes/Easter_Steam_0/Easter_Steam_0.dat",
+  "data": {
+    "GUID": "37e7bed262df4a3a82c3269471b6ff35",
+    "Type": "Effect",
+    "ID": "6601",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": null
+}

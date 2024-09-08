@@ -1,0 +1,14 @@
+{
+  "name": "Lais_Help_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Trading/Lais_Dialogue/Lais_Help_Accepted/Asset.dat",
+  "data": {
+    "GUID": "fb088365edbb470092a411e2e8952f70",
+    "Type": "Dialogue",
+    "ID": "8265",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you so much for helping. Everybody here will be happy to have some actual food instead of canned preservatives."
+  }
+}

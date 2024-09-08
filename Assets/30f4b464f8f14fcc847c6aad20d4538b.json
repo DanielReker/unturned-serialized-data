@@ -1,0 +1,20 @@
+{
+  "name": "Civilian Olivia",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Civilian Olivia/Asset.dat",
+  "data": {
+    "GUID": "30f4b464f8f14fcc847c6aad20d4538b",
+    "Type": "NPC",
+    "ID": "9216",
+    "Shirt": "170",
+    "Pants": "548",
+    "Face": "18",
+    "Hair": "8",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#715C4B",
+    "Dialogue": "9216"
+  },
+  "translation": {
+    "Name": "Civilian Olivia",
+    "Character": "Olivia"
+  }
+}

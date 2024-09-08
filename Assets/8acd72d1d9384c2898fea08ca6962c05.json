@@ -1,0 +1,17 @@
+{
+  "name": "Carpat_Vityaz_Iron_Sight",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Items/Sights/Carpat_Vityaz_Iron_Sight/Carpat_Vityaz_Iron_Sight.dat",
+  "data": {
+    "GUID": "8acd72d1d9384c2898fea08ca6962c05",
+    "Type": "Sight",
+    "ID": "23003",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Vityaz Iron Sight",
+    "Description": "Rail mounted iron sights."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Rodrigues_Complete",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Misc/Officer_Rodrigues/Rodrigues_Complete/Asset.dat",
+  "data": {
+    "GUID": "4558cf69a18a40c882cfd62a704658a5",
+    "Type": "Dialogue",
+    "ID": "9214",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": ".<pause>.<pause>.<pause>Great Job! You passed, Go to ####### and get your uniform, Sailor.",
+    "Response_0": "I'm ready to serve officer."
+  }
+}

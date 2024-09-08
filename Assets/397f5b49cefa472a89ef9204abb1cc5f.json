@@ -1,0 +1,37 @@
+{
+  "name": "Frost_Note",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Barricades/Frost_Note/Frost_Note.dat",
+  "data": {
+    "GUID": "397f5b49cefa472a89ef9204abb1cc5f",
+    "Type": "Barricade",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Build": "Sign_Wall",
+    "ID": "36495",
+    "Health": "20",
+    "Range": "4",
+    "Offset": "0.125",
+    "Explosion": "58",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "36045",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Supply",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "36495",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "36045",
+    "Blueprint_1_Output_0_Amount": "1",
+    "Blueprint_1_Build": "32",
+    "Ignore_TexRW": "true",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "core.masterbundle:Items/Barricades/Note/Use.mp3"
+  },
+  "translation": {
+    "Name": "Note",
+    "Description": "<color=#64c819>20</color> Health<br>Bypasses Player <color=#64c819>Claims</color>"
+  }
+}

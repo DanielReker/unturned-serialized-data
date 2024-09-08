@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Gas_Can",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Gas_Can/PS_Drops_Gas_Can.dat",
+  "data": {
+    "GUID": "146ad2fc085946b481cb37b7d730a7a4",
+    "Type": "Spawn",
+    "ID": "59365",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59129",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

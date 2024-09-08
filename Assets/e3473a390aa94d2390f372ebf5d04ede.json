@@ -1,0 +1,29 @@
+{
+  "name": "IR_Ural",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Vehicle/IR_Ural/IR_Ural.dat",
+  "data": {
+    "GUID": "e3473a390aa94d2390f372ebf5d04ede",
+    "Type": "Vehicle",
+    "Rarity": "Rare",
+    "ID": "14525",
+    "Speed_Min": "-6",
+    "Speed_Max": "14.5",
+    "Steer_Min": "24",
+    "Steer_Max": "48",
+    "Brake": "32",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "2500",
+    "Health_Min": "500",
+    "Health_Max": "600",
+    "Health": "700",
+    "Traction": "",
+    "Trunk_Storage_X": "15",
+    "Trunk_Storage_Y": "6",
+    "Explosion": "20",
+    "Tires_Invulnerable": ""
+  },
+  "translation": {
+    "Name": "Irish Ural"
+  }
+}

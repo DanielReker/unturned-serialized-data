@@ -1,0 +1,16 @@
+{
+  "name": "Doctor_Organize_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Doctor_Military/Doctor_Organize_Accepted/Asset.dat",
+  "data": {
+    "GUID": "530dd6b5c9c14db4bec4ed8663516c68",
+    "Type": "Dialogue",
+    "ID": "3119",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I've been very busy and just haven't gotten around to it. I'd greatly appreciate the help.",
+    "Response_0": "Any time."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Mine_Door_32",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Mine_Door_32/PS_Mine_Door_32.dat",
+  "data": {
+    "GUID": "3270fb5c5476446b8a078bc9b2f327db",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60263"
+  },
+  "translation": {
+    "Name": "PS Mine Door #33 [Wood Frame]"
+  }
+}

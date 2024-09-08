@@ -1,0 +1,17 @@
+{
+  "name": "Kuwait_Money_20",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Supplies/Kuwait_Money_20/Kuwait_Money_20.dat",
+  "data": {
+    "GUID": "5ec77d49da6f43dab3449bb0706bbb8b",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "5512",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.375"
+  },
+  "translation": {
+    "Name": "Twenty Dinars",
+    "Description": "Valuable currency used for trading.<br><color=#FF69B4>Worth 20 KWD</color><br>"
+  }
+}

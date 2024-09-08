@@ -1,0 +1,16 @@
+{
+  "name": "PosterKSG",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PosterKSG/PosterKSG.dat",
+  "data": {
+    "GUID": "f063f6fbe7564ca5adceb47b34958bbe",
+    "Type": "Spawn",
+    "ID": "51282",
+    "Tables": [
+      {
+        "Guid": "876b2ae172b64426bf28d1f7108fd372",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

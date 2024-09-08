@@ -1,0 +1,16 @@
+{
+  "name": "Buak_News",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Material_Palettes/Buak_News.asset",
+  "data": {
+    "GUID": "f0c1c41ffe2d4056a3a5eb5aee21eb4c",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_News/News_00.mat"
+      }
+    ]
+  },
+  "translation": null
+}

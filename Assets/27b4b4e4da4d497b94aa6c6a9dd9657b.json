@@ -1,0 +1,15 @@
+{
+  "name": "France_Tourist_Food_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Tourist/France_Tourist_Food_Accepted/Asset.dat",
+  "data": {
+    "GUID": "27b4b4e4da4d497b94aa6c6a9dd9657b",
+    "Type": "Dialogue",
+    "ID": "4204",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "4193"
+  },
+  "translation": {
+    "Message_0_Page_0": "No dissin' to the Chef, I just want something new."
+  }
+}

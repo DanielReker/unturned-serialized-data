@@ -1,0 +1,20 @@
+{
+  "name": "Officer_Callahan",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IFR/Officer_Callahan/Asset.dat",
+  "data": {
+    "GUID": "ebdb0086dc27460481b44007ae0fd8fe",
+    "Type": "NPC",
+    "ID": "15032",
+    "Shirt": "17214",
+    "Pants": "16219",
+    "Face": "1",
+    "Hair": "12",
+    "Color_Skin": "#c1a589",
+    "Color_Hair": "#473731",
+    "Dialogue": "15182"
+  },
+  "translation": {
+    "Name": "IFR Officer Callahan",
+    "Character": "<color=epic>Officer Callahan</color>"
+  }
+}

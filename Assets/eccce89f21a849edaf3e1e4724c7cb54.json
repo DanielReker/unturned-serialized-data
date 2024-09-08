@@ -1,0 +1,26 @@
+{
+  "name": "Pistachios",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Pistachios/Pistachios.dat",
+  "data": {
+    "GUID": "eccce89f21a849edaf3e1e4724c7cb54",
+    "Type": "Food",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "25710",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Use_Auto_Icon_Measurements": "False",
+    "Left_Handed_Characters_Mirror_Equipable": "false",
+    "Food": "30",
+    "Water": "0",
+    "Quality_Min": "60",
+    "Quality_Max": "100",
+    "ConsumeAudioClip": "Sounds/Food/EatCrunchyShort.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Pistachios",
+    "Description": "A bag of nuts that are highly lethal if harvested poorly."
+  }
+}

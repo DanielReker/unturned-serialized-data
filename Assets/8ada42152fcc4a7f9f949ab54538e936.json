@@ -1,0 +1,27 @@
+{
+  "name": "28500KLN",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/C/28500KLN/Asset.dat",
+  "data": {
+    "GUID": "8ada42152fcc4a7f9f949ab54538e936",
+    "Type": "NPC",
+    "ID": "28500",
+    "Shirt": "181 ",
+    "Pants": "214",
+    "Face": "24",
+    "Hair": "15",
+    "Beard": "0",
+    "Color_Skin": "#4B3D31",
+    "Color_Hair": "#191919",
+    "Dialogue": "28501",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "25050",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitLailaNight",
+    "Character": "Laila"
+  }
+}

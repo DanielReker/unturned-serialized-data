@@ -1,0 +1,12 @@
+{
+  "name": "Square_Pipe",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Square_Pipe/Square_Pipe.dat",
+  "data": {
+    "GUID": "acd2a7e3264a47fb9a418365921945ef",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Square Pipe"
+  }
+}

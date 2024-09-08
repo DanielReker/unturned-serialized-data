@@ -1,0 +1,11 @@
+{
+  "name": "Kuwait_Ghost",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Effects/Explosions/Kuwait_Ghost/Kuwait_Ghost.dat",
+  "data": {
+    "GUID": "d1807d3bcd34456db47aa44ab7d98814",
+    "Type": "Effect",
+    "ID": "5266",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": null
+}

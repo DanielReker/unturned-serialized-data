@@ -1,0 +1,13 @@
+{
+  "name": "Industrial_Smoke",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Industrial_Smoke/Industrial_Smoke.dat",
+  "data": {
+    "GUID": "81c65669312240368843a87f5cd20d84",
+    "Type": "Large",
+    "ID": "45699",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Industrial #4"
+  }
+}

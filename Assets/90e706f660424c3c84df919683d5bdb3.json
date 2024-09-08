@@ -1,0 +1,13 @@
+{
+  "name": "Scaffhold_0",
+  "path": "Bundles/Objects/Medium/Business/Scaffhold_0/Scaffhold_0.dat",
+  "data": {
+    "GUID": "90e706f660424c3c84df919683d5bdb3",
+    "Type": "Medium",
+    "ID": "255",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Scaffold #1"
+  }
+}

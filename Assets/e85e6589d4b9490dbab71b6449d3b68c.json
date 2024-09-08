@@ -1,0 +1,19 @@
+{
+  "name": "Kuwait_Starter",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Assets/Zombie_Difficulty/Kuwait_Starter.asset",
+  "data": {
+    "GUID": "e85e6589d4b9490dbab71b6449d3b68c",
+    "Type": "SDG.Unturned.ZombieDifficultyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Crawler_Chance": "0.0",
+    "Sprinter_Chance": "0.0",
+    "Flanker_Chance": "0.0",
+    "Burner_Chance": "0",
+    "Acid_Chance": "0",
+    "Boss_Electric_Chance": "0",
+    "Boss_Wind_Chance": "0",
+    "Boss_Fire_Chance": "0",
+    "Allow_Horde_Beacon": "false"
+  },
+  "translation": null
+}

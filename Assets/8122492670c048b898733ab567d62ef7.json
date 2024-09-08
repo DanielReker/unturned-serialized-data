@@ -1,0 +1,14 @@
+{
+  "name": "Boulder_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Boulder_01/Boulder_01.dat",
+  "data": {
+    "GUID": "8122492670c048b898733ab567d62ef7",
+    "Type": "Large",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false",
+    "Allow_Structures": ""
+  },
+  "translation": {
+    "Name": "PBS Boulder 2"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Buak_Bush_Berry_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Resources/Buak_Bush_Berry_00/Buak_Bush_Berry_00.dat",
+  "data": {
+    "GUID": "c0a18021b1b74cb2971e9530ae56e200",
+    "Type": "Resource",
+    "ID": "25327",
+    "Health": "1",
+    "Radius": "3",
+    "Scale": "0.5",
+    "Explosion": "25319",
+    "Reward_ID": "25345",
+    "Reward_XP": "1",
+    "Forage": "",
+    "Reset": "250",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Bush_Berry_00"
+  }
+}

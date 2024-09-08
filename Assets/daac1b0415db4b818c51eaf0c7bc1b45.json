@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait_Piano_Track_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Assets/Songs/Kuwait_Piano_Track_1/Kuwait_Piano_Track_1.asset",
+  "data": {
+    "GUID": "daac1b0415db4b818c51eaf0c7bc1b45",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Title": {
+      "Namespace": "SDG",
+      "Token": "Stereo_Songs.Music_Guitar_Track_0.Title"
+    },
+    "Song": {
+      "MasterBundle": "kuwait.masterbundle",
+      "AssetPath": "Songs/Music_Piano_Track_1.mp3"
+    }
+  },
+  "translation": {
+    "Name": "Piano Track #2"
+  }
+}

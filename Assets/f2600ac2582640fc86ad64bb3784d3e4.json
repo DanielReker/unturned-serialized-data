@@ -1,0 +1,48 @@
+{
+  "name": "Jetski_Police",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Vehicles/Jetski_Police/Jetski_Police.dat",
+  "data": {
+    "GUID": "f2600ac2582640fc86ad64bb3784d3e4",
+    "Type": "Vehicle",
+    "ID": "6621",
+    "Speed_Min": "-4",
+    "Speed_Max": "14",
+    "Steer_Min": "8",
+    "Steer_Max": "4",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "1000",
+    "Health_Min": "250",
+    "Health_Max": "350",
+    "Health": "450",
+    "Zip": "",
+    "Engine": "Boat",
+    "Trunk_Storage_X": "3",
+    "Trunk_Storage_Y": "2",
+    "Explosion": "20",
+    "Should_Spawn_Seat_Capsules": "true",
+    "BatteryMode_Headlights": "Charging",
+    "BatteryMode_Sirens": "Charging",
+    "Can_Steal_Battery": "False",
+    "BatteryMode_Driving": "Charging",
+    "BatteryMode_Empty": "Charging",
+    "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
+    "Has_Clip_Prefab": "false",
+    "PaintableSections": [
+      {
+        "Path": "Model_0",
+        "MaterialIndex": "0"
+      },
+      {
+        "Path": "Model_1",
+        "MaterialIndex": "0"
+      }
+    ],
+    "DefaultPaintColors": [
+      "#3C683A"
+    ]
+  },
+  "translation": {
+    "Name": "Police Jetski"
+  }
+}

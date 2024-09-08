@@ -1,0 +1,19 @@
+{
+  "name": "Frost_Boss_Vest",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Gear/Frost_Boss_Vest/Frost_Boss_Vest.dat",
+  "data": {
+    "GUID": "397a4aad0013465591f04b355b1ddff3",
+    "Type": "Vest",
+    "Useable": "Clothing",
+    "ID": "36019",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Width": "5",
+    "Height": "4",
+    "Armor": "1"
+  },
+  "translation": {
+    "Name": "Vest",
+    "Description": ""
+  }
+}

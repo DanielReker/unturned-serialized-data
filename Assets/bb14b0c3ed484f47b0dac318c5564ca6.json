@@ -1,0 +1,29 @@
+{
+  "name": "Splint",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Medical/Splint/Splint.dat",
+  "data": {
+    "GUID": "bb14b0c3ed484f47b0dac318c5564ca6",
+    "Type": "Medical",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "5534",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Aid": "",
+    "Broken": "",
+    "Health": "10",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supply_0_ID": "67",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Kuwait",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Medical/Splint"
+  },
+  "translation": {
+    "Name": "Splint",
+    "Description": "Brace designed to set a bone after fracturing.<br><color=#BF1F1F>+10 HP</color><br><color=#FF69B4>Fixes Broken Bones</color>"
+  }
+}

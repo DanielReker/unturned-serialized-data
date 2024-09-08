@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Pipe_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Pipe_4/Metro_Pipe_4.dat",
+  "data": {
+    "GUID": "bc698079f31749e19214d3bc8577473b",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57130",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Pipe #5"
+  }
+}

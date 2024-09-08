@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait_Coalition_Top_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Shirts/Kuwait_Coalition_Top_7/Kuwait_Coalition_Top_7.dat",
+  "data": {
+    "GUID": "1bf3b410e1b34499be7a2e2531e5acfd",
+    "Type": "Shirt",
+    "Rarity": "Mythical",
+    "Useable": "Clothing",
+    "ID": "5320",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Unpickupable": "",
+    "Unsaveable": ""
+  },
+  "translation": {
+    "Name": "Admiral Coalition Top",
+    "Description": "You shouldn't have this."
+  }
+}

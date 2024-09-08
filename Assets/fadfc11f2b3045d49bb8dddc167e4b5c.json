@@ -1,0 +1,18 @@
+{
+  "name": "Tired1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Small/Pictures/Tired1/Tired1.dat",
+  "data": {
+    "GUID": "fadfc11f2b3045d49bb8dddc167e4b5c",
+    "Type": "Small",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "58",
+    "Rubble_Reward_ID": "51246"
+  },
+  "translation": {
+    "Name": "PBS Picture Tired 1"
+  }
+}

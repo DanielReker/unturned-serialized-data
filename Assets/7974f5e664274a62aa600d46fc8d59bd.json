@@ -1,0 +1,21 @@
+{
+  "name": "Note_Peaks_13",
+  "path": "Bundles/Objects/Medium/Furniture/Note_Peaks_13/Note_Peaks_13.dat",
+  "data": {
+    "GUID": "7974f5e664274a62aa600d46fc8d59bd",
+    "Type": "Medium",
+    "ID": "2042",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Peaks Note - Shuttle Crash",
+    "Interactability_Text_Line_0": "Shuttle Recovery - 03:26",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Our most recent shuttle launch has failed, crashing landing into Cologne 3 clicks east of here. Your squad is assigned to locking down the area and beginning the recovery process. We need to know what went wrong and salvage as much of the equipment as possible. Don't reveal this information to your team, but be cautious: it was carrying extremely radioactive material which might cause a much more powerful secondary explosion."
+  }
+}

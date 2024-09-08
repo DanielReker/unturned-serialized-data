@@ -1,0 +1,33 @@
+{
+  "name": "MartiniBullet",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/MartiniBullet/MartiniBullet.dat",
+  "data": {
+    "GUID": "f6cf574f9a2f4b439635989460e9a8a5",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "ID": "51917",
+    "Delete_Empty": "",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Amount": "1",
+    "Count_Min": "1",
+    "Count_Max": "1",
+    "Delete": "",
+    "Calibers": "1",
+    "Caliber_0": "51015",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51018",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Tool": "51218",
+    "Blueprint_0_Product": "51917",
+    "Blueprint_0_Products": "5",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Crown Bullet",
+    "Description": "Single high-power round. Used by <color=epic>Crown</color> rifle."
+  }
+}

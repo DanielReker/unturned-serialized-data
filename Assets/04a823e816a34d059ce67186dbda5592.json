@@ -1,0 +1,23 @@
+{
+  "name": "PBS_Jennifer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Jennifer/Asset.dat",
+  "data": {
+    "GUID": "04a823e816a34d059ce67186dbda5592",
+    "Type": "NPC",
+    "ID": "52090",
+    "Shirt": "51962",
+    "Glasses": "66f41b434cf6418d938abfd75cbf37e2",
+    "Face": "26",
+    "Hair": "7",
+    "Beard": "0",
+    "Color_Skin": "#4B3D31",
+    "Color_Hair": "#191919",
+    "Dialogue": "52091",
+    "Has_Clip_Prefab": "false",
+    "Pose": "Asleep"
+  },
+  "translation": {
+    "Name": "PBS NPC Jennifer",
+    "Character": "Jennifer"
+  }
+}

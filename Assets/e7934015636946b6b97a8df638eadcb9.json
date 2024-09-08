@@ -1,0 +1,21 @@
+{
+  "name": "Greece_Note_Military_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Greece_Note_Military_4/Greece_Note_Military_4.dat",
+  "data": {
+    "GUID": "e7934015636946b6b97a8df638eadcb9",
+    "Type": "Medium",
+    "ID": "3980",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "2",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Greece Note FOB Heracles",
+    "Interactability_Text_Line_0": "3:18:03:27:33 - Transmission Transcription Recieved",
+    "Interactability_Text_Line_1": "This is F.O.B. Heracles, I repeat, F.O.B. Heracles! The infected have breached the main entrance and are rapidly swarming in... There... There are too many, we are falling back. I repeat we are falling ba... Sergeant, are you okay?! Answer me!...What, what ha...<Indistinguishable>"
+  }
+}

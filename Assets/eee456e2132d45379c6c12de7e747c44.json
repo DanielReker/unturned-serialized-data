@@ -1,0 +1,14 @@
+{
+  "name": "27262KSABA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27250KSAD/27262KSABA/Asset.dat",
+  "data": {
+    "GUID": "eee456e2132d45379c6c12de7e747c44",
+    "Type": "Dialogue",
+    "ID": "27262",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hopefully you can get those parts from the deep blue. Don't drown now!"
+  }
+}

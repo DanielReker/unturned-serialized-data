@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Brochure_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Brochure_00/Buak_Brochure_00.dat",
+  "data": {
+    "GUID": "ab38853d32274022a635b2ad935ff7ce",
+    "Type": "Spawn",
+    "ID": "25396",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25640",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

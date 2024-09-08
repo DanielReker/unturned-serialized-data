@@ -1,0 +1,12 @@
+{
+  "name": "Carpat_Bunker_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Objects/Large/Carpat_Bunker_01/Carpat_Bunker_01.dat",
+  "data": {
+    "GUID": "3d3cb4a17eca4995b21d7c6034071a8c",
+    "Type": "Large",
+    "ID": "23158"
+  },
+  "translation": {
+    "Name": "Carpat Bunker #1"
+  }
+}

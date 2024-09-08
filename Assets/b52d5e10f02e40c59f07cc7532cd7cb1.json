@@ -1,0 +1,24 @@
+{
+  "name": "PS_Bus_1_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Bus_1_Dialogue/PS_Bus_1_Welcome/Asset.dat",
+  "data": {
+    "GUID": "b52d5e10f02e40c59f07cc7532cd7cb1",
+    "Type": "Dialogue",
+    "ID": "59083",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Teleport",
+    "Response_0_Reward_0_Spawnpoint": "Bus0",
+    "Response_1_Rewards": "1",
+    "Response_1_Reward_0_Type": "Teleport",
+    "Response_1_Reward_0_Spawnpoint": "Bus2"
+  },
+  "translation": {
+    "Message_0_Page_0": "...where to now?",
+    "Response_0": "Take me to the safezone.",
+    "Response_1": "Take me to the fishing spot up north.",
+    "Response_2": "Thanks!"
+  }
+}

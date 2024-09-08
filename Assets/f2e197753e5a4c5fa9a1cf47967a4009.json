@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Sign_Cherry_Cape",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Signs/Buak_Sign_Cherry_Cape/Buak_Sign_Cherry_Cape.dat",
+  "data": {
+    "GUID": "f2e197753e5a4c5fa9a1cf47967a4009",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Sign_Cherry_Cape"
+  }
+}

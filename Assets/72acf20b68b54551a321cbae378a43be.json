@@ -1,0 +1,14 @@
+{
+  "name": "Amir_Extreme_Shopping_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Chef Amir/Amir_Extreme_Shopping_Completed/Asset.dat",
+  "data": {
+    "GUID": "72acf20b68b54551a321cbae378a43be",
+    "Type": "Dialogue",
+    "ID": "9208",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yes! Yes! Yes! I can't believe you found them!"
+  }
+}

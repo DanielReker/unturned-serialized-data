@@ -1,0 +1,33 @@
+{
+  "name": "Metro_Glass_Roof",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Structures/Metro_Glass_Roof/Metro_Glass_Roof.dat",
+  "data": {
+    "GUID": "2c3feeeba2cc4c4fac7558e9d6ee5bdd",
+    "Type": "Structure",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Epic",
+    "Useable": "Structure",
+    "Construct": "Roof",
+    "ID": "57723",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.45",
+    "Health": "1000",
+    "Range": "8",
+    "Explosion": "97",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "57389",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "285",
+    "Blueprint_0_Supply_1_Amount": "6",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Elver",
+    "Use_Water_Height_Transparent_Sort": ""
+  },
+  "translation": {
+    "Name": "Metal Glass Roof",
+    "Description": "<color=#64c819>1000</color> Health"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "PS_Placard",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Barricades/PS_Placard/PS_Placard.dat",
+  "data": {
+    "GUID": "9ff2666df5ec47c5bbb5f192ed4f2e2b",
+    "Type": "Barricade",
+    "Rarity": "Uncommon",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Sign_Wall",
+    "ID": "59788",
+    "SalvageItem": "9ff2666df5ec47c5bbb5f192ed4f2e2b",
+    "Min_Items_Dropped_On_Destroy": "2",
+    "Max_Items_Dropped_On_Destroy": "2",
+    "Item_Dropped_On_Destroy": "fb19455fa9524f36b91f153b7c2e0117",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Health": "200",
+    "Range": "4",
+    "Offset": "0.125",
+    "Explosion": "29",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supply_0_ID": "59202",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Tool": "59006",
+    "Blueprint_0_Build": "27",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "Sounds/WoodenPlacement.mp3",
+    "Salvage_Duration_Multiplier": "0.1",
+    "Locked": ""
+  },
+  "translation": {
+    "Name": "Wooden Placard",
+    "Description": "Placard coupled with colorful markers."
+  }
+}

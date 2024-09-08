@@ -1,0 +1,20 @@
+{
+  "name": "Frost_Spinny_12",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Spinny_2/Frost_Spinny_12/Frost_Spinny_12.dat",
+  "data": {
+    "GUID": "b2715958f54c4151bbb4bc35526f0ad4",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "36227",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Master_Bundle_Override": "frost.masterbundle",
+    "Bundle_Override_Path": "/Objects/Safezone/Frost_Spinny_01"
+  },
+  "translation": {
+    "Name": "Frost Spinny #13 [Inactive]"
+  }
+}

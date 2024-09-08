@@ -1,0 +1,14 @@
+{
+  "name": "Event_2_Snowy_2_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Event_2/Event_2_Snowy_2_Return/Asset.dat",
+  "data": {
+    "GUID": "740b00f8e7dd4cd2add759ac27151676",
+    "Type": "Dialogue",
+    "ID": "57899",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=#88D3E0>Festive 3</color> <color=#64c819>Completed</color>"
+  }
+}

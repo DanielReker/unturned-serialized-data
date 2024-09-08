@@ -1,0 +1,20 @@
+{
+  "name": "Survivor_Neil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Survivor_Neil/Asset.dat",
+  "data": {
+    "GUID": "d16a3e2917c440d5920252e0c5cd4c7b",
+    "Type": "NPC",
+    "ID": "2095",
+    "Shirt": "607",
+    "Pants": "608",
+    "Face": "21",
+    "Hair": "18",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#c7ae7d",
+    "Dialogue": "2096"
+  },
+  "translation": {
+    "Name": "Survivor Neil",
+    "Character": "Neil"
+  }
+}

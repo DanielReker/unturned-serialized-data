@@ -1,0 +1,13 @@
+{
+  "name": "California_Printer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_Printer/California_Printer.dat",
+  "data": {
+    "GUID": "54203fed19c24493b6adac9d9045d63c",
+    "Type": "Spawn",
+    "ID": "4368",
+    "Tables": "1",
+    "Table_0_Asset_ID": "1328",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

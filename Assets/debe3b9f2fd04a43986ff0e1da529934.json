@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Bar_Potato",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Bar_Potato/Buak_Bar_Potato.dat",
+  "data": {
+    "GUID": "debe3b9f2fd04a43986ff0e1da529934",
+    "Type": "Spawn",
+    "ID": "25460",
+    "Tables": "2",
+    "Table_0_Asset_ID": "25750",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "25751",
+    "Table_1_Weight": "5"
+  },
+  "translation": null
+}

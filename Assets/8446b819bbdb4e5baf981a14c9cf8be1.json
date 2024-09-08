@@ -1,0 +1,35 @@
+{
+  "name": "29060KC3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/3/C/29060KC3/Asset.dat",
+  "data": {
+    "GUID": "8446b819bbdb4e5baf981a14c9cf8be1",
+    "Type": "NPC",
+    "ID": "29060",
+    "Shirt": "667 ",
+    "Pants": "214",
+    "Face": "22",
+    "Hair": "18",
+    "Beard": "1",
+    "Color_Skin": "#bea582",
+    "Color_Hair": "#473928",
+    "Secondary": "141",
+    "Tertiary": "1328 ",
+    "Equipped": "Tertiary",
+    "Pose": "Sit",
+    "Dialogue": "29061",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "27031",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitCivi3",
+    "Character": "Rashad"
+  }
+}

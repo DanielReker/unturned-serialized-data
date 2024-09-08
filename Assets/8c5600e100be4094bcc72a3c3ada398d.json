@@ -1,0 +1,14 @@
+{
+  "name": "29557KNC2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/2/D/29550KNHED/29557KNC2/Asset.dat",
+  "data": {
+    "GUID": "8c5600e100be4094bcc72a3c3ada398d",
+    "Type": "Dialogue",
+    "ID": "29557",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good stuff my man. Enjoy that loot!"
+  }
+}

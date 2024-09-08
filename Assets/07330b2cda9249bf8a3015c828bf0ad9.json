@@ -1,0 +1,25 @@
+{
+  "name": "Frost_NPC_Door_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Frost_NPC_Door_01/Frost_NPC_Door_01.dat",
+  "data": {
+    "GUID": "07330b2cda9249bf8a3015c828bf0ad9",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "Lighthouse",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "36008",
+    "Condition_0_Value": "0",
+    "Condition_0_Logic": "Equal",
+    "Master_Bundle_Override": "frost.masterbundle",
+    "Bundle_Override_Path": "/Objects/Safezone/Frost_NPC_Door_00"
+  },
+  "translation": {
+    "Name": "Frost NPC Door #2 [To Lighthouse]",
+    "Interact": "Exit Safezone [{0}]"
+  }
+}

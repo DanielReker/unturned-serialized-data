@@ -1,0 +1,14 @@
+{
+  "name": "Dirt_Boulder_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Dirt_Boulder_0/Dirt_Boulder_0.dat",
+  "data": {
+    "GUID": "9665aadd040b457cbf8a50a4f76a1434",
+    "Type": "Large",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false",
+    "Allow_Structures": ""
+  },
+  "translation": {
+    "Name": "PBS Dirt Boulder 1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Rula_France_Supplies",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/Rula_France_Supplies/Rula_France_Supplies.dat",
+  "data": {
+    "GUID": "7fb6fc77133240bc806bff93aa5ec927",
+    "Type": "Spawn",
+    "ID": "2186",
+    "Tables": "1",
+    "Table_0_Asset_ID": "3125",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Fence_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Fence_3/Metro_Fence_3.dat",
+  "data": {
+    "GUID": "81d9a1547e5c4a579736a439e0b34cf5",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57341",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Metro Fence #4"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Sign_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Business/Easter_Sign_0/Easter_Sign_0.dat",
+  "data": {
+    "GUID": "c8e9182e0d8140f5bf792e3c123b668c",
+    "Type": "Large",
+    "ID": "6733",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Sign #1"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PS_Cinematic_Goggles_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Glasses/PS_Cinematic_Goggles_3/PS_Cinematic_Goggles_3.dat",
+  "data": {
+    "GUID": "16ef725a361c4d32a7c1ac2e697f62c9",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "59880",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.175",
+    "Hair": "",
+    "Beard": "",
+    "Movement_Speed_Multiplier": "0.5"
+  },
+  "translation": {
+    "Name": "Cinematic Goggles 0.5",
+    "Description": "Unobtainable item that slows down the character, was used to film the trailer where characters move slower than walking :D"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Scrap_Metal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Crafting/Scrap_Metal/Scrap_Metal.dat",
+  "data": {
+    "GUID": "e0bbd0a4b46d47488b513188e28ecadc",
+    "Type": "Effect",
+    "ID": "25520"
+  },
+  "translation": null
+}

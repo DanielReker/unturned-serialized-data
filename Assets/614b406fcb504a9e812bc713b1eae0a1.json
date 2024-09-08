@@ -1,0 +1,13 @@
+{
+  "name": "PS_Items_06",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Items_06/PS_Items_06.dat",
+  "data": {
+    "GUID": "614b406fcb504a9e812bc713b1eae0a1",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59874"
+  },
+  "translation": {
+    "Name": "PS Items #7 [Mug]"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Mili_APC_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Mili_APC_1/PS_Mili_APC_1.dat",
+  "data": {
+    "GUID": "15c5742e64c9444dad67bdc146fc2bd1",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59812"
+  },
+  "translation": {
+    "Name": "PS Mili APC #2"
+  }
+}

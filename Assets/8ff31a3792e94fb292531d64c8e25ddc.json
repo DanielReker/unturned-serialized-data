@@ -1,0 +1,25 @@
+{
+  "name": "Note_Hawaii6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Note_Hawaii6/Note_Hawaii6.dat",
+  "data": {
+    "GUID": "8ff31a3792e94fb292531d64c8e25ddc",
+    "Type": "Medium",
+    "ID": "6205",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "7",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Hawaii Note - Aegis 4",
+    "Interactability_Text_Line_0": "TO: F.o.b Highrise",
+    "Interactability_Text_Line_1": "*   *   *",
+    "Interactability_Text_Line_2": "FROM: HQ",
+    "Interactability_Text_Line_3": "*   *   *",
+    "Interactability_Text_Line_4": "Our destroyer has just been rammed by Aegis forces and communications are down. The entire area is highly radioactive due to the chemicals the Aegis frigate was carrying. No rescue mission will be possible",
+    "Interactability_Text_Line_5": "Furthermore we can expect no more support any time soon. Food and ammunition supplies are already running dangerously low. ",
+    "Interactability_Text_Line_6": "Orders are to abandon the base, regroup with local Coastguard and await further orders. Godspeed"
+  }
+}

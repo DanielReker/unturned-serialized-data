@@ -1,0 +1,33 @@
+{
+  "name": "Metro_Dorms_02_Mats",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Dorms_02_Mats/Metro_Dorms_02_Mats.dat",
+  "data": {
+    "GUID": "5df43d560a614afc9e170dc48369528b",
+    "Type": "Spawn",
+    "ID": "57154",
+    "Tables": "11",
+    "Table_0_Asset_ID": "57023",
+    "Table_0_Weight": "22000",
+    "Table_1_Asset_ID": "75",
+    "Table_1_Weight": "5000",
+    "Table_2_Asset_ID": "57340",
+    "Table_2_Weight": "2500",
+    "Table_3_Asset_ID": "76",
+    "Table_3_Weight": "2500",
+    "Table_4_Asset_ID": "57017",
+    "Table_4_Weight": "1750",
+    "Table_5_Asset_ID": "57026",
+    "Table_5_Weight": "1750",
+    "Table_6_Asset_ID": "57016",
+    "Table_6_Weight": "1750",
+    "Table_7_Asset_ID": "57027",
+    "Table_7_Weight": "1250",
+    "Table_8_Asset_ID": "57015",
+    "Table_8_Weight": "650",
+    "Table_9_Asset_ID": "57021",
+    "Table_9_Weight": "650",
+    "Table_10_Asset_ID": "57033",
+    "Table_10_Weight": "450"
+  },
+  "translation": null
+}

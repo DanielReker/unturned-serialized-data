@@ -1,0 +1,11 @@
+{
+  "name": "Gravel_Static",
+  "path": "Bundles/Effects/Impacts/Gravel_Static/Gravel_Static.dat",
+  "data": {
+    "GUID": "6735e1d89952479d968f49ce9d060449",
+    "Type": "Effect",
+    "ID": "14",
+    "Preload": "4"
+  },
+  "translation": null
+}

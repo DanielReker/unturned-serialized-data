@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Secure_Crate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Secure_Crate/PS_Drops_Secure_Crate.dat",
+  "data": {
+    "GUID": "5aa9fc06b15241af99daad4906a14262",
+    "Type": "Spawn",
+    "ID": "59362",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59784",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

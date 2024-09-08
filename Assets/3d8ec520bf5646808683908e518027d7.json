@@ -1,0 +1,13 @@
+{
+  "name": "PS_Military_Crate_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Military_Crate_2/PS_Military_Crate_2.dat",
+  "data": {
+    "GUID": "3d8ec520bf5646808683908e518027d7",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59058"
+  },
+  "translation": {
+    "Name": "PS Military Crate #3"
+  }
+}

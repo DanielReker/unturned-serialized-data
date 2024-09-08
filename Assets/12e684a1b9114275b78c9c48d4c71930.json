@@ -1,0 +1,15 @@
+{
+  "name": "Buak_RadarDish",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_RadarDish/Buak_RadarDish.dat",
+  "data": {
+    "GUID": "12e684a1b9114275b78c9c48d4c71930",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "LOD": "Area",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_RadarDish"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Safezone_W",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Safezone_W/Buak_Safezone_W.dat",
+  "data": {
+    "GUID": "df66d6a047414c9da2b91a0f7afeb790",
+    "Type": "Spawn",
+    "ID": "25332",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25773",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

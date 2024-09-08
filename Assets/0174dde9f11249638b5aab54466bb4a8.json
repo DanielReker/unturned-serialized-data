@@ -1,0 +1,13 @@
+{
+  "name": "PS_Sink_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Sink_1/PS_Sink_1.dat",
+  "data": {
+    "GUID": "0174dde9f11249638b5aab54466bb4a8",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59092"
+  },
+  "translation": {
+    "Name": "PS Sink #2"
+  }
+}

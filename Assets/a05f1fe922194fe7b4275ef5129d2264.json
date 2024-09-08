@@ -1,0 +1,14 @@
+{
+  "name": "Mathéo_Conquest_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Police Officer Mathéo/Mathéo_Conquest_Completed/Asset.dat",
+  "data": {
+    "GUID": "a05f1fe922194fe7b4275ef5129d2264",
+    "Type": "Dialogue",
+    "ID": "9041",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You have no idea how much this helped me!"
+  }
+}

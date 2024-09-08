@@ -1,0 +1,14 @@
+{
+  "name": "PS_AG17_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_AG17_1/PS_AG17_1.dat",
+  "data": {
+    "GUID": "ee6188169de445798b5805953a1f878f",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59618",
+    "Collision_Important": ""
+  },
+  "translation": {
+    "Name": "PS AG17 #2"
+  }
+}

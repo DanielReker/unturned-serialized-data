@@ -1,0 +1,15 @@
+{
+  "name": "GreeceDecal_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceDecal_4/GreeceDecal_4.dat",
+  "data": {
+    "GUID": "3a407efa781d4494b5ef547917ee6cc4",
+    "Type": "Decal",
+    "ID": "6292",
+    "Decal_X": "2",
+    "Decal_Y": "2",
+    "Decal_LOD_Bias": "1"
+  },
+  "translation": {
+    "Name": "Greece Bullet Decal Stone 2"
+  }
+}

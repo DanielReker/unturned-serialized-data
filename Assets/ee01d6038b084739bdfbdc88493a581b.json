@@ -1,0 +1,29 @@
+{
+  "name": "Buak_Q_LH_BD_00_Int",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/AG_00/Buak_Q_LH_BD_00_Int/Buak_Q_LH_BD_00_Int.dat",
+  "data": {
+    "GUID": "ee01d6038b084739bdfbdc88493a581b",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24717",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "2",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "24717",
+    "Interactability_Reward_0_Value": "False",
+    "Interactability_Reward_1_Type": "Flag_Bool",
+    "Interactability_Reward_1_ID": "24750",
+    "Interactability_Reward_1_Value": "True"
+  },
+  "translation": {
+    "Name": "Buak_Q_LH_BD_00_Int",
+    "Interact": "Open [{0}]"
+  }
+}

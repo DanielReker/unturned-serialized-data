@@ -1,0 +1,37 @@
+{
+  "name": "GascanIndustrial",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Tools/GascanIndustrial/GascanIndustrial.dat",
+  "data": {
+    "GUID": "90300639433c49bb9acd03748b2b5992",
+    "Type": "Fuel",
+    "Rarity": "Epic",
+    "Useable": "Fuel",
+    "ID": "51942",
+    "Size_X": "3",
+    "Size_Y": "3",
+    "Size_Z": "0.6",
+    "Fuel": "3000",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "51936",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Supply_1_ID": "51060",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "51942",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Tool",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51942",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "51028",
+    "Blueprint_1_Output_0_Amount": "8",
+    "Blueprint_1_Build": "27"
+  },
+  "translation": {
+    "Name": "Industrial Gascan",
+    "Description": "Massively sized can of gasoline."
+  }
+}

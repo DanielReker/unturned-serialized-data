@@ -1,0 +1,18 @@
+{
+  "name": "Geode",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Geode/Geode.dat",
+  "data": {
+    "GUID": "830eb2c3f4b34270abf363ddbaf78168",
+    "Type": "Supply",
+    "Rarity": "Mythical",
+    "ID": "25340",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.28"
+  },
+  "translation": {
+    "Name": "Geode",
+    "Description": "A mineral that's valuable for trading."
+  }
+}

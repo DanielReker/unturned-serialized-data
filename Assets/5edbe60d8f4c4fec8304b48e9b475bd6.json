@@ -1,0 +1,16 @@
+{
+  "name": "Lena_Situation",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Lena/Lena_Situation/Asset.dat",
+  "data": {
+    "GUID": "5edbe60d8f4c4fec8304b48e9b475bd6",
+    "Type": "Dialogue",
+    "ID": "5003",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Well, how to say... <pause> There are wounded, not fatal, but there isn't enough medicine... <pause> And <pause> everything is ok.",
+    "Response_0": "I hope it is.s"
+  }
+}

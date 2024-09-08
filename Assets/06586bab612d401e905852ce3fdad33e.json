@@ -1,0 +1,17 @@
+{
+  "name": "Kira_Question_05",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Kira/Kira_04/Kira_Question_05/Asset.dat",
+  "data": {
+    "GUID": "06586bab612d401e905852ce3fdad33e",
+    "Type": "Dialogue",
+    "ID": "24081",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "22",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yeah... not on Buak though. There were a few nice ones, though most of our interactions don't end nicely...",
+    "Response_0": "Good to know!"
+  }
+}

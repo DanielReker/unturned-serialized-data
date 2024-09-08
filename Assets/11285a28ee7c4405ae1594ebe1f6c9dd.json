@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Police_Handbook",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/BarricadeDestroy/Drop_Police_Handbook/Drop_Police_Handbook.dat",
+  "data": {
+    "GUID": "11285a28ee7c4405ae1594ebe1f6c9dd",
+    "Type": "Spawn",
+    "ID": "51319",
+    "Tables": [
+      {
+        "Guid": "c9dd441c915a4b0db17b7b5c041971b4",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

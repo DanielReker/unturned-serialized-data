@@ -1,0 +1,12 @@
+{
+  "name": "Military_Crate 1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Military_Crate 1/Military_Crate 1.dat",
+  "data": {
+    "GUID": "e5f57274e5b24138b9a8ba7958d186d9",
+    "Type": "Medium",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Military Crate 2"
+  }
+}

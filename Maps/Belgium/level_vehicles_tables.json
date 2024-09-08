@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Military LAND Belgium ",
+    "tableID": 9004,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.549019635,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Military AIR Belgium",
+    "tableID": 9005,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.549019635,
+      "b": 0.5882353
+    }
+  },
+  {
+    "name": "Police LAND Belgium ",
+    "tableID": 724,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Police AIR Belgium ",
+    "tableID": 725,
+    "tiers": [],
+    "color": {
+      "r": 0.5372549,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Fire Station",
+    "tableID": 0,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.6901961,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Medic",
+    "tableID": 952,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Civilian LAND Belgium",
+    "tableID": 9014,
+    "tiers": [],
+    "color": {
+      "r": 0.243137255,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Camp LAND Belgium",
+    "tableID": 9028,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.733333349,
+      "b": 0.6039216
+    }
+  },
+  {
+    "name": "Camp WATER Belgium",
+    "tableID": 9029,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.870588243,
+      "b": 0.6039216
+    }
+  },
+  {
+    "name": "Farm LAND",
+    "tableID": 315,
+    "tiers": [],
+    "color": {
+      "r": 0.7764706,
+      "g": 0.431372553,
+      "b": 0.145098045
+    }
+  },
+  {
+    "name": "Farm AIR",
+    "tableID": 424,
+    "tiers": [],
+    "color": {
+      "r": 0.772549033,
+      "g": 0.607843161,
+      "b": 0.145098045
+    }
+  },
+  {
+    "name": "Farm AIR-WATER",
+    "tableID": 322,
+    "tiers": [],
+    "color": {
+      "r": 0.6039216,
+      "g": 0.431372553,
+      "b": 0.145098045
+    }
+  },
+  {
+    "name": "Militia LAND Belgium ",
+    "tableID": 9017,
+    "tiers": [],
+    "color": {
+      "r": 0.8235294,
+      "g": 0.345098048,
+      "b": 0.270588249
+    }
+  },
+  {
+    "name": "Transit",
+    "tableID": 418,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.6901961,
+      "b": 0.458823532
+    }
+  },
+  {
+    "name": "Airport LAND",
+    "tableID": 611,
+    "tiers": [],
+    "color": {
+      "r": 0.6392157,
+      "g": 0.286274523,
+      "b": 0.4117647
+    }
+  },
+  {
+    "name": "Airport AIR",
+    "tableID": 613,
+    "tiers": [],
+    "color": {
+      "r": 0.698039234,
+      "g": 0.243137255,
+      "b": 0.8117647
+    }
+  },
+  {
+    "name": "Research LAND",
+    "tableID": 58,
+    "tiers": [],
+    "color": {
+      "r": 0.5764706,
+      "g": 0.09803922,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Research AIR",
+    "tableID": 507,
+    "tiers": [],
+    "color": {
+      "r": 0.5764706,
+      "g": 0.09803922,
+      "b": 0.196078435
+    }
+  },
+  {
+    "name": "Military AIR 2 Belgium",
+    "tableID": 9030,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.5294118,
+      "b": 0.7490196
+    }
+  },
+  {
+    "name": "Airport AIR 2 Belgium",
+    "tableID": 9031,
+    "tiers": [],
+    "color": {
+      "r": 0.478431374,
+      "g": 0.0,
+      "b": 0.572549045
+    }
+  },
+  {
+    "name": "Camp AIR",
+    "tableID": 322,
+    "tiers": [],
+    "color": {
+      "r": 0.698039234,
+      "g": 1.0,
+      "b": 0.423529416
+    }
+  }
+]

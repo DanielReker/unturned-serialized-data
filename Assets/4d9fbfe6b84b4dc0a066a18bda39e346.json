@@ -1,0 +1,15 @@
+{
+  "name": "IR_Train_Car_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/City/IR_Train_Car_2/IR_Train_Car_2.dat",
+  "data": {
+    "GUID": "4d9fbfe6b84b4dc0a066a18bda39e346",
+    "Type": "Large",
+    "ID": "17102",
+    "Interactability": "Water",
+    "Interactability_Reset": "3500",
+    "Interactability_Resource": "20"
+  },
+  "translation": {
+    "Name": "Irish Train Car# 2"
+  }
+}

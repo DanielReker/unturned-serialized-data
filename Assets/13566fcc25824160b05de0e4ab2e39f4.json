@@ -1,0 +1,41 @@
+{
+  "name": "Sandbag",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Sandbag/Sandbag.dat",
+  "data": {
+    "GUID": "13566fcc25824160b05de0e4ab2e39f4",
+    "Type": "Barricade",
+    "Rarity": "Uncommon",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "51634",
+    "SalvageItem": "13566fcc25824160b05de0e4ab2e39f4",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.5",
+    "Health": "500",
+    "Range": "4",
+    "Radius": "0.3",
+    "Offset": "0.325",
+    "Vulnerable": "",
+    "Explosion": "19",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supply_0_ID": "51021",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Tool",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51634",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "51020",
+    "Blueprint_1_Output_0_Amount": "2",
+    "Blueprint_1_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Sandbag",
+    "Description": "Sandbag for blocking bullets."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "CA_CS5_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Magazines/CA_CS5_6/CA_CS5_6.dat",
+  "data": {
+    "GUID": "207d9db680084769972724c86df690d0",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "ID": "4063",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.18",
+    "Amount": "5",
+    "Count_Min": "2",
+    "Count_Max": "4",
+    "Calibers": "1",
+    "Caliber_0": "4062",
+    "Tracer": "48",
+    "Range": "8",
+    "Player_Damage": "25",
+    "Zombie_Damage": "50",
+    "Animal_Damage": "60",
+    "Barricade_Damage": "20",
+    "Structure_Damage": "20",
+    "Vehicle_Damage": "55",
+    "Resource_Damage": "100",
+    "Object_Damage": "200",
+    "Explosion": "4000",
+    "Explosive": "",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "1192",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "4063",
+    "Blueprint_1_Build": "30"
+  },
+  "translation": {
+    "Name": "Tacit Magazine",
+    "Description": "Military grade <color=legendary>Tacit</color> magazine. Holds 5 cartridges and utilises explosive bullets."
+  }
+}

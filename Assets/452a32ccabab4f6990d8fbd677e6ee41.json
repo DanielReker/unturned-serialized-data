@@ -1,0 +1,22 @@
+{
+  "name": "Guard_Johnny",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IDF/Filler/Guard_Johnny/Asset.dat",
+  "data": {
+    "GUID": "452a32ccabab4f6990d8fbd677e6ee41",
+    "Type": "NPC",
+    "ID": "15046",
+    "Shirt": "16225",
+    "Pants": "16322",
+    "Face": "11",
+    "Hair": "12",
+    "Color_Skin": "#e8d4ae",
+    "Color_Hair": "#2fe2e2",
+    "Primary": "1362",
+    "Equipped": "Primary",
+    "Dialogue": "15194"
+  },
+  "translation": {
+    "Name": "IDF Guard Johnny",
+    "Character": "<color=uncommon>Private Johnny</color>"
+  }
+}

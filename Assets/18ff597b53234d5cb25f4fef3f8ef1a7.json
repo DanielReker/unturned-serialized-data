@@ -1,0 +1,16 @@
+{
+  "name": "Farmer_Georgette_Secret_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Farmer_Omega_Daughter/Farmer_Georgette_Secret_Accepted/Asset.dat",
+  "data": {
+    "GUID": "18ff597b53234d5cb25f4fef3f8ef1a7",
+    "Type": "Dialogue",
+    "ID": "3210",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you! His and my, now deceased, mothers anniversary is approaching. She would always bake the sweetest pies and I thought that might be a nice way to remember her.",
+    "Response_0": "How sweet, I'll get right on it."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Store_Sign_Post",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Stores/Buak_Store_Sign_Post/Buak_Store_Sign_Post.dat",
+  "data": {
+    "GUID": "4d01f73cba424dbdb387c9905d897b39",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Store_Sign_Post"
+  }
+}

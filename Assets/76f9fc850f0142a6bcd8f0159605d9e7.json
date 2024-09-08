@@ -1,0 +1,24 @@
+{
+  "name": "27269KSAB",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/V/27269KSAB/Asset.dat",
+  "data": {
+    "GUID": "76f9fc850f0142a6bcd8f0159605d9e7",
+    "Type": "Vendor",
+    "ID": "27270",
+    "Selling": "2",
+    "Selling_0_ID": "5039",
+    "Selling_0_Type": "Vehicle",
+    "Selling_0_Spawnpoint": "27269",
+    "Selling_0_Cost": "5000",
+    "Selling_1_ID": "5040",
+    "Selling_1_Type": "Vehicle",
+    "Selling_1_Spawnpoint": "27269",
+    "Selling_1_Cost": "5000",
+    "Disable_Sorting": "",
+    "Currency": "b76b37b2d40c4054b850458e135408c6"
+  },
+  "translation": {
+    "Name": "<color=epic>Samantha's</color> Sailboats",
+    "Description": "Ready to explore the ocean blue!"
+  }
+}

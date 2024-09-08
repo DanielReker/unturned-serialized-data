@@ -1,0 +1,14 @@
+{
+  "name": "PS_Snow_0_Barter_0_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/AridSnow/SnowDialogue/PS_Snow_0_Dialogue/PS_Snow_0_Barter_0_Accepted/Asset.dat",
+  "data": {
+    "GUID": "0dea542fc9af491190003bf0e2cf4c24",
+    "Type": "Dialogue",
+    "ID": "59386",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "All yours."
+  }
+}

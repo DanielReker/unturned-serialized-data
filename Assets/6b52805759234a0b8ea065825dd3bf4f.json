@@ -1,0 +1,13 @@
+{
+  "name": "Cliffs_Chef",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Spawns/Items/Cliffs_Chef/Cliffs_Chef.dat",
+  "data": {
+    "GUID": "6b52805759234a0b8ea065825dd3bf4f",
+    "Type": "Spawn",
+    "ID": "10026",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "204",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

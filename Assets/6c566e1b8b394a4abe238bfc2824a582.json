@@ -1,0 +1,15 @@
+{
+  "name": "FirstLove_00_Accept",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_02/FirstLove_00_Accept/Asset.dat",
+  "data": {
+    "GUID": "6c566e1b8b394a4abe238bfc2824a582",
+    "Type": "Dialogue",
+    "ID": "24586",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks! Good Luck!"
+  }
+}

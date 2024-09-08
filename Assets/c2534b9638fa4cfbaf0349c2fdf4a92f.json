@@ -1,0 +1,17 @@
+{
+  "name": "Metro_Key_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Ranger/Metro_Key_2/Metro_Key_2.dat",
+  "data": {
+    "GUID": "c2534b9638fa4cfbaf0349c2fdf4a92f",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "57576",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.55"
+  },
+  "translation": {
+    "Name": "Room 03 Key",
+    "Description": "Opens <color=#64c819>Room 03</color> in the <color=#64c819>Dorms</color>"
+  }
+}

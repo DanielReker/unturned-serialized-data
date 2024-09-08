@@ -1,0 +1,208 @@
+{
+  "name": "Buak_Plates",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Material_Palettes/Buak_Plates.asset",
+  "data": {
+    "GUID": "5f666e0520164dcbbfb60abd2430ce71",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_00.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_01.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_02.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_03.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_04.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_05.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_06.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_07.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_08.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_09.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_10.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_11.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_12.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_13.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_14.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_15.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_16.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_17.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_18.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_19.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_20.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_21.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_22.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_23.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_24.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_25.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_26.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_27.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_28.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_29.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_30.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_31.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_32.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_33.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_34.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_35.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_36.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_37.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_38.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_39.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_40.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_41.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_42.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_43.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_44.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_45.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_46.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_47.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Plates/Plate_48.mat"
+      }
+    ]
+  },
+  "translation": null
+}

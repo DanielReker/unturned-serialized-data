@@ -1,0 +1,15 @@
+{
+  "name": "Army",
+  "path": "Bundles/Skins/Blowtorch/Army/Army.dat",
+  "data": {
+    "GUID": "903911ff9ec0420f9a4e5234530cde63",
+    "Type": "Skin",
+    "ID": "50087",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

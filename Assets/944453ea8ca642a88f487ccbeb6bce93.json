@@ -1,0 +1,33 @@
+{
+  "name": "Nelson_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/Others/Nelson_00/Asset.dat",
+  "data": {
+    "GUID": "944453ea8ca642a88f487ccbeb6bce93",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "7bed12b1ce97436888a1eff5aeb2746f",
+    "Shirt": "2db071f97a4d4e85a6bef52f5423557c",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "Face": "1",
+    "Hair": "9",
+    "Color_Skin": "#CB9A1C",
+    "Color_Hair": "#223D91",
+    "Pose": "Sit",
+    "Tertiary": "d6005e7d314d43ee897c704722ba9535",
+    "Equipped": "Tertiary",
+    "Dialogue": "213bfa707dfa4a1cac387a363e59c71c",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24786",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Nelson_00",
+    "Character": "<color=#6fa1b4>Nelson</color>"
+  }
+}

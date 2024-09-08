@@ -1,0 +1,25 @@
+{
+  "name": "France_Gold_Pan",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Small/Quests/France_Gold_Pan/France_Gold_Pan.dat",
+  "data": {
+    "GUID": "a205fd14aef3423ca04868e3702d8d34",
+    "Type": "Small",
+    "ID": "35109",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "4145",
+    "Condition_0_Value": "0",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Short",
+    "Interactability_Reward_0_ID": "4145",
+    "Interactability_Reward_0_Value": "1",
+    "Interactability_Reward_0_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "France Gold Pan",
+    "Interact": "Pickup Golden Pan [{0}]"
+  }
+}

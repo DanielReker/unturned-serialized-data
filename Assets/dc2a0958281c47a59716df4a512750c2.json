@@ -1,0 +1,13 @@
+{
+  "name": "Bus",
+  "path": "Bundles/Objects/Large/Vehicles/Bus/Bus.dat",
+  "data": {
+    "GUID": "dc2a0958281c47a59716df4a512750c2",
+    "Type": "Large",
+    "ID": "463",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Bus"
+  }
+}

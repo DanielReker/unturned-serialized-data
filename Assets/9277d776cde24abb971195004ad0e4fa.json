@@ -1,0 +1,14 @@
+{
+  "name": "Cali_Mercenary_Heavy_Rig",
+  "path": "Bundles/Items/Outfits/Cali_Mercenary/Cali_Mercenary_Heavy_Rig/Cali_Mercenary_Heavy_Rig.dat",
+  "data": {
+    "GUID": "9277d776cde24abb971195004ad0e4fa",
+    "Type": "Vest",
+    "ID": "932",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.275",
+    "Pro": ""
+  },
+  "translation": null
+}

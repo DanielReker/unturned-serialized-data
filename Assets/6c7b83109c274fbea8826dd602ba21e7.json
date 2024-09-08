@@ -1,0 +1,12 @@
+{
+  "name": "Atomic",
+  "path": "Bundles/Mythics/Atomic/Atomic.dat",
+  "data": {
+    "GUID": "6c7b83109c274fbea8826dd602ba21e7",
+    "Type": "Mythic",
+    "ID": "20"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Atomic"
+  }
+}

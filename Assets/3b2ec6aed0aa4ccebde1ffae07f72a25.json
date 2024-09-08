@@ -1,0 +1,52 @@
+{
+  "name": "Table_Medical",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Table_Medical/Table_Medical.dat",
+  "data": {
+    "GUID": "3b2ec6aed0aa4ccebde1ffae07f72a25",
+    "Type": "Spawn",
+    "ID": "51103",
+    "Tables": [
+      {
+        "Guid": "05a85e6d8c3b4f33bca50dad4ab57369",
+        "Weight": "6"
+      },
+      {
+        "Guid": "2ce768fb3c1944cdafd8ff381727e4a4",
+        "Weight": "6"
+      },
+      {
+        "Guid": "639560ab05344528b6d819e044fd8f7b",
+        "Weight": "6"
+      },
+      {
+        "Guid": "bdd099bb295b4bb787e98bdaa02fefb4",
+        "Weight": "6"
+      },
+      {
+        "Guid": "2568148365324621a31f64ef8a6c3288",
+        "Weight": "6"
+      },
+      {
+        "Guid": "8a2d56bc513b4ce79700761102bf0747",
+        "Weight": "5"
+      },
+      {
+        "Guid": "f9640d5d11614adf82ab4ce7c24af3e7",
+        "Weight": "4"
+      },
+      {
+        "Guid": "00b57f6fe8fe4c8997001d451bf036d1",
+        "Weight": "3"
+      },
+      {
+        "Guid": "249fe1c36cfa4714862b0fc0aabfc6b1",
+        "Weight": "1"
+      },
+      {
+        "Guid": "f6f946744fac49e68e9cdee020887dca",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,12 @@
+{
+  "name": "CA_Shelf_9",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Shelf_9/CA_Shelf_9.dat",
+  "data": {
+    "GUID": "8937f6ed932245748316b86cb660aba6",
+    "Type": "Medium",
+    "ID": "4465"
+  },
+  "translation": {
+    "Name": "California Shelf #10"
+  }
+}

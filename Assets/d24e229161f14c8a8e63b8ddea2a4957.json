@@ -1,0 +1,19 @@
+{
+  "name": "Buak_LAB_ELV_3_OFF",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_LAB/Buak_LAB_ELV_3_OFF/Buak_LAB_ELV_3_OFF.dat",
+  "data": {
+    "GUID": "d24e229161f14c8a8e63b8ddea2a4957",
+    "Type": "Small",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24997",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "Buak_LAB_ELV_3_OFF"
+  }
+}

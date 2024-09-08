@@ -1,0 +1,12 @@
+{
+  "name": "IR_Police_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Police_1/IR_Police_1.dat",
+  "data": {
+    "GUID": "e8a8f29221b04fd48a94c07435f6be94",
+    "Type": "Large",
+    "ID": "17014"
+  },
+  "translation": {
+    "Name": "Irish Police#1"
+  }
+}

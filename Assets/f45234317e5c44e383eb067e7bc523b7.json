@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Munitions_Handbook",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/BarricadeDestroy/Drop_Munitions_Handbook/Drop_Munitions_Handbook.dat",
+  "data": {
+    "GUID": "f45234317e5c44e383eb067e7bc523b7",
+    "Type": "Spawn",
+    "ID": "51318",
+    "Tables": [
+      {
+        "Guid": "2307135fbc4f4b88a56ed443a3243cec",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

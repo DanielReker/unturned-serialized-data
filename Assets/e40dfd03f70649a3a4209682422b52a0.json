@@ -1,0 +1,14 @@
+{
+  "name": "Buak_AC_Vent_Curve",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Props/Buak_AC_Vent_Curve/Buak_AC_Vent_Curve.dat",
+  "data": {
+    "GUID": "e40dfd03f70649a3a4209682422b52a0",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_AC_Vent_Curve"
+  }
+}

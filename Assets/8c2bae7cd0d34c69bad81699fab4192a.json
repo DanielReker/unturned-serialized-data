@@ -1,0 +1,13 @@
+{
+  "name": "BE Garage",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Garage/BE Garage.dat",
+  "data": {
+    "GUID": "8c2bae7cd0d34c69bad81699fab4192a",
+    "Type": "Large",
+    "ID": "9031",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Garage"
+  }
+}

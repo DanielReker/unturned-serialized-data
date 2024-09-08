@@ -1,0 +1,22 @@
+{
+  "name": "Heavy_Bolt_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Items/France/Magazines/Heavy_Bolt_1/Heavy_Bolt_1.dat",
+  "data": {
+    "GUID": "84ac738ce23f431d9936998c05c8fe93",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "ID": "3101",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Amount": "1",
+    "Calibers": "1",
+    "Caliber_0": "76",
+    "Tracer": "48",
+    "Stuck": "5"
+  },
+  "translation": {
+    "Name": "Crossbow Bolt",
+    "Description": "Designed to not split under the high force a heavy crossbow exerts."
+  }
+}

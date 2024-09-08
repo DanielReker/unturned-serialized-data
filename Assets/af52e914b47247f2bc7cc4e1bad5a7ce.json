@@ -1,0 +1,21 @@
+{
+  "name": "Note_Hawaii17",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Note_Hawaii17/Note_Hawaii17.dat",
+  "data": {
+    "GUID": "af52e914b47247f2bc7cc4e1bad5a7ce",
+    "Type": "Medium",
+    "ID": "6216",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Hawaii Note - Facility",
+    "Interactability_Text_Line_0": "Journal Entry:",
+    "Interactability_Text_Line_1": "*   *   *",
+    "Interactability_Text_Line_2": "A cargo plane just crashed a few hundred meters from the facility. We're starting to take on water and may need to evacuate. I'm going to go assist the repair crew."
+  }
+}

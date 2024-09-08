@@ -1,0 +1,13 @@
+{
+  "name": "Hawaii_Balloon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Vehicles/Hawaii_Balloon/Hawaii_Balloon.dat",
+  "data": {
+    "GUID": "1f2932b581fd456a9c5850f4f7bdd291",
+    "Type": "Spawn",
+    "ID": "891",
+    "Tables": "1",
+    "Table_0_Asset_ID": "849",
+    "Table_0_Weight": "70"
+  },
+  "translation": null
+}

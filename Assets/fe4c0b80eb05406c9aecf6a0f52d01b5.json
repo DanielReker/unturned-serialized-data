@@ -1,0 +1,17 @@
+{
+  "name": "CA_Vest_Pouches",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Supplies/CA_Vest_Pouches/CA_Vest_Pouches.dat",
+  "data": {
+    "GUID": "fe4c0b80eb05406c9aecf6a0f52d01b5",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "4034",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.35"
+  },
+  "translation": {
+    "Name": "Rig Pouches",
+    "Description": "Pouches which can be attached to a vest in order to increase carrying capacity."
+  }
+}

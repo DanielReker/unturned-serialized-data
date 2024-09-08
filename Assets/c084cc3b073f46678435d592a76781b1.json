@@ -1,0 +1,31 @@
+{
+  "name": "Sailboat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Vehicles/Sailboat/Sailboat.dat",
+  "data": {
+    "GUID": "c084cc3b073f46678435d592a76781b1",
+    "Type": "Vehicle",
+    "Rarity": "Rare",
+    "ID": "51014",
+    "Speed_Min": "-4",
+    "Speed_Max": "15",
+    "Steer_Min": "32",
+    "Steer_Max": "16",
+    "Fuel_Min": "250",
+    "Fuel_Max": "500",
+    "Fuel": "1500",
+    "Health_Min": "500",
+    "Health_Max": "1000",
+    "Health": "1000",
+    "Exit": "3",
+    "Engine": "Boat",
+    "Trunk_Storage_X": "6",
+    "Trunk_Storage_Y": "8",
+    "Explosion": "51008",
+    "Has_Clip_Prefab": "false",
+    "Default_Battery": "c934328c0f1b44c1b0e1627c1aef223b",
+    "Drops_Table_ID": "51003"
+  },
+  "translation": {
+    "Name": "G-Yacht"
+  }
+}

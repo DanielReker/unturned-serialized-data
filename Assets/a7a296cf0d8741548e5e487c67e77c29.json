@@ -1,0 +1,26 @@
+{
+  "name": "Grapeshot",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Magazines/Grapeshot/Grapeshot.dat",
+  "data": {
+    "GUID": "a7a296cf0d8741548e5e487c67e77c29",
+    "Type": "Magazine",
+    "Rarity": "Uncommon",
+    "ID": "6689",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Amount": "1",
+    "Count_Min": "1",
+    "Count_Max": "1",
+    "Calibers": "1",
+    "Caliber_0": "6692",
+    "Damage": "0.9",
+    "Pellets": "3",
+    "Tracer": "48",
+    "Delete_Empty": ""
+  },
+  "translation": {
+    "Name": "Grapeshot",
+    "Description": "A pile of 3 smaller rounds."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Metro_Car_Lift_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Car_Lift_0/Metro_Car_Lift_0.dat",
+  "data": {
+    "GUID": "bb5814d1a3964e5db69993012acf03c9",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57504",
+    "Interactability": "Binary_State",
+    "Interactability_Delay": "2.25",
+    "Interactability_Hint": "Door",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/Utilities/Car_Lift_0"
+  },
+  "translation": {
+    "Name": "Metro Car Lift #1"
+  }
+}

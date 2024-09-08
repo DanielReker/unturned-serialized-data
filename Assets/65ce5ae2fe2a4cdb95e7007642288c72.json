@@ -1,0 +1,35 @@
+{
+  "name": "Noisemaker_Shadow_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Noisemaker_Shadow_1/Noisemaker_Shadow_1.dat",
+  "data": {
+    "GUID": "65ce5ae2fe2a4cdb95e7007642288c72",
+    "Type": "Small",
+    "ID": "4519",
+    "Conditions": "3",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "45759",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Condition_1_Type": "Flag_Short",
+    "Condition_1_ID": "45762",
+    "Condition_1_Value": "0",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": "",
+    "Condition_2_Type": "Flag_Short",
+    "Condition_2_ID": "45752",
+    "Condition_2_Value": "2",
+    "Condition_2_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "61",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "45759",
+    "Interactability_Reward_0_Value": "True",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Noisemaker Shadow #2",
+    "Interact": "Deploy Noisemaker[{0}]"
+  }
+}

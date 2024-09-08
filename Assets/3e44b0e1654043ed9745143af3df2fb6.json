@@ -1,0 +1,14 @@
+{
+  "name": "Scout_Aouli_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Scout_Stuart/Scout_Aouli_Completed/Asset.dat",
+  "data": {
+    "GUID": "3e44b0e1654043ed9745143af3df2fb6",
+    "Type": "Dialogue",
+    "ID": "2149",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Glad to hear you didn't have too many problems, this location will be perfect for getting supplies to us from the other side of the island!"
+  }
+}

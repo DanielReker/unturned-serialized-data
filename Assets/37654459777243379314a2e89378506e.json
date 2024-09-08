@@ -1,0 +1,23 @@
+{
+  "name": "Metro_Cult",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Animals/Metro_Cult/Metro_Cult.dat",
+  "data": {
+    "GUID": "37654459777243379314a2e89378506e",
+    "Type": "Animal",
+    "ID": "57005",
+    "Speed_Run": "5",
+    "Speed_Walk": "2",
+    "Behaviour": "Offense",
+    "Health": "110",
+    "Regen": "0.2",
+    "Damage": "15",
+    "Reward_ID": "57152",
+    "Reward_XP": "8",
+    "Reward_Min": "1",
+    "Reward_Max": "1",
+    "Roars": "1"
+  },
+  "translation": {
+    "Name": "Cultist"
+  }
+}

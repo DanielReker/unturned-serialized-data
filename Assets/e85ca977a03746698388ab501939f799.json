@@ -1,0 +1,100 @@
+{
+  "name": "PBS_FiberglassRod",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Fishing/PBS_FiberglassRod/PBS_FiberglassRod.dat",
+  "data": {
+    "GUID": "e85ca977a03746698388ab501939f799",
+    "Type": "Spawn",
+    "ID": "51191",
+    "Tables": [
+      {
+        "Guid": "e5e1ba68d74449248e0df38924ffdd33",
+        "Weight": "60"
+      },
+      {
+        "Guid": "5cbe1c506e1a4d2f906f80b4ba8c05e4",
+        "Weight": "50"
+      },
+      {
+        "Guid": "e2d1bca9ff7f46bcb997430a1694b6cd",
+        "Weight": "40"
+      },
+      {
+        "Guid": "835a5de7933548c29e3710aee1d36278",
+        "Weight": "30"
+      },
+      {
+        "Guid": "c39a5496c2ee4897b03469f7a9d488f0",
+        "Weight": "6"
+      },
+      {
+        "Guid": "3e7e34e3ec534072b865ee0015c4eada",
+        "Weight": "6"
+      },
+      {
+        "Guid": "1465299f973c4fe2bad926b923d07f70",
+        "Weight": "6"
+      },
+      {
+        "Guid": "997e711f94a848c985b8bf72dbf9ce8d",
+        "Weight": "6"
+      },
+      {
+        "Guid": "3c1fcd4cc0274bc29571979bbb56ce72",
+        "Weight": "6"
+      },
+      {
+        "Guid": "b15012ac19e143d59717036e9cdc2f3d",
+        "Weight": "6"
+      },
+      {
+        "Guid": "be2cfffd38f34d5db65fb080a5be794b",
+        "Weight": "6"
+      },
+      {
+        "Guid": "3f393b35dc22447b8582e6cfa9d185cf",
+        "Weight": "6"
+      },
+      {
+        "Guid": "866c8b1fb646475aa635490312e3b89f",
+        "Weight": "6"
+      },
+      {
+        "Guid": "223d88c12e9f4bbfa9d10d829868a21f",
+        "Weight": "6"
+      },
+      {
+        "Guid": "3d928892f4d24e0d917f97b99283aba7",
+        "Weight": "6"
+      },
+      {
+        "Guid": "c5942245c8e94d42b5ef800547bdc6f5",
+        "Weight": "6"
+      },
+      {
+        "Guid": "268f60872e94430d8c7097109e1c2837",
+        "Weight": "6"
+      },
+      {
+        "Guid": "29a959567bd0476ba9e60d17331e23b7",
+        "Weight": "6"
+      },
+      {
+        "Guid": "ab6772bda536483193356c3e0ae2cb01",
+        "Weight": "6"
+      },
+      {
+        "Guid": "451bd9b58146463f8af3f54e9c69a3de",
+        "Weight": "5"
+      },
+      {
+        "Guid": "bc401718e3e34c348afc17775dcd0845",
+        "Weight": "4"
+      },
+      {
+        "Guid": "93f98550663b493bb6a66adaa5425b9b",
+        "Weight": "2"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Gantry_Track_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Gantry_Track_1/PS_Gantry_Track_1.dat",
+  "data": {
+    "GUID": "3b5eb415024547feb4419cd1ef962f06",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59486"
+  },
+  "translation": {
+    "Name": "PS Gantry Track #2"
+  }
+}

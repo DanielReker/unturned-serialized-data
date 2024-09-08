@@ -1,0 +1,19 @@
+{
+  "name": "PS_File_Cabinet_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_File_Cabinet_0/PS_File_Cabinet_0.dat",
+  "data": {
+    "GUID": "f5a794120fc043fc871d3a12c6c6c60c",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59574",
+    "Material_Palette": "e25fcfc88236445295b42509d6e24e94",
+    "Interactability": "Dropper",
+    "Interactability_Delay": "600",
+    "Interactability_Hint": "Custom",
+    "Interactability_Reward_ID": "59102"
+  },
+  "translation": {
+    "Name": "PS File Cabinet #1",
+    "Interact": "Search [{0}]"
+  }
+}

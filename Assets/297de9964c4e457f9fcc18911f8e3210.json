@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Vehicle_Des",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Vehicle_Des/Buak_Vehicle_Des.dat",
+  "data": {
+    "GUID": "297de9964c4e457f9fcc18911f8e3210",
+    "Type": "Spawn",
+    "ID": "25317",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25310",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

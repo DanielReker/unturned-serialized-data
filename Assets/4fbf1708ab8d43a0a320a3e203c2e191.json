@@ -1,0 +1,14 @@
+{
+  "name": "PS_Tube_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Tube_0/PS_Tube_0.dat",
+  "data": {
+    "GUID": "4fbf1708ab8d43a0a320a3e203c2e191",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59991",
+    "Exclude_From_Level_Batching": "true"
+  },
+  "translation": {
+    "Name": "PS Tube #1"
+  }
+}

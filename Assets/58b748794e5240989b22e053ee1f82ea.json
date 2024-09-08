@@ -1,0 +1,43 @@
+{
+  "name": "Rope",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Rope/Rope.dat",
+  "data": {
+    "GUID": "58b748794e5240989b22e053ee1f82ea",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "25355",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.5",
+    "Actions": "2",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "25323",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "▲ Craft Paracord",
+    "Action_0_Tooltip": "Craft into paracord.",
+    "Action_1_Type": "Blueprint",
+    "Action_1_Source": "25357",
+    "Action_1_Blueprints": "1",
+    "Action_1_Blueprint_0_Index": "1",
+    "Action_1_Text": "▼ Craft Cloth",
+    "Action_1_Tooltip": "Craft into cloth.",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25357",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Build": "25534",
+    "Blueprint_1_Type": "Supply",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25323",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Products": "2",
+    "Blueprint_1_Build": "25534"
+  },
+  "translation": {
+    "Name": "Rope",
+    "Description": "Rope, known for its pyromaniac behavior. Don't get burned by it!"
+  }
+}

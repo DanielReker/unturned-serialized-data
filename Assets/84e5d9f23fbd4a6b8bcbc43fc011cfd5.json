@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Dumpster_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Props/Buak_Dumpster_02/Buak_Dumpster_02.dat",
+  "data": {
+    "GUID": "84e5d9f23fbd4a6b8bcbc43fc011cfd5",
+    "Type": "Large",
+    "ID": "25300",
+    "Material_Palette": "0aae2822cd2a44909475c847fd127b4b",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Dumpster_02"
+  }
+}

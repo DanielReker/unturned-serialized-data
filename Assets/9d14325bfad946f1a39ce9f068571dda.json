@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Note_06",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Note_06/Buak_Note_06.dat",
+  "data": {
+    "GUID": "9d14325bfad946f1a39ce9f068571dda",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Material_Palette": "3758ac9d1b774a4a99a407c069e2a21a",
+    "Bundle_Override_Path": "/Objects/Small/Furniture/Buak_Note_00"
+  },
+  "translation": {
+    "Name": "Buak_Note_06",
+    "Interactability_Text_Line_0": "At long last! We’ve found ourselves a new home away from this place. But first, the matter of that factory. Soon, the factory too will be vacant- after we invade it and cleanse the earth from everything in there that’s breathing."
+  }
+}

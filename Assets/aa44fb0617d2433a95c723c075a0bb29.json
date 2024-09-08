@@ -1,0 +1,29 @@
+{
+  "name": "Alexander_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/01/Alexander_01/Asset.dat",
+  "data": {
+    "GUID": "aa44fb0617d2433a95c723c075a0bb29",
+    "Type": "NPC",
+    "ID": "25300",
+    "Shirt": "35a4b95ec551461a8942b3bf47e713fe",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "0",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#161616",
+    "Dialogue": "3c5f0e4fff714a63bcc7d84d9c33927d",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24788",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Alexander_01",
+    "Character": "<color=legendary>Alexander</color>"
+  }
+}

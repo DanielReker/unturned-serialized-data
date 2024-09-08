@@ -1,0 +1,16 @@
+{
+  "name": "Guard_Rail",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Guard_Rail/Guard_Rail.dat",
+  "data": {
+    "GUID": "dfbf4ddf78944506af84a121a02b8d75",
+    "Type": "Medium",
+    "ID": "51000",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Guard Rail"
+  }
+}

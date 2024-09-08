@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Pine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Pine/Drop_Pine.dat",
+  "data": {
+    "GUID": "70a85bcac83f41508e24b2bfa1fe9968",
+    "Type": "Spawn",
+    "ID": "25482",
+    "Tables": [
+      {
+        "Guid": "8bf387bc26104ee192ef42f9bb738b50",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

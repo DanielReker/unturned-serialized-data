@@ -1,0 +1,17 @@
+{
+  "name": "Bridge_Turn_1",
+  "path": "Bundles/Objects/Large/Roads/Bridge_Turn_1/Bridge_Turn_1.dat",
+  "data": {
+    "GUID": "e3226d1d2fa443c0a8e04615fa1b869b",
+    "Type": "Large",
+    "ID": "206",
+    "Snowshoe": "",
+    "Soft": "",
+    "Chart": "Highway",
+    "Collision_Important": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Bridge Turn #2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Silo_Grain_0",
+  "path": "Bundles/Objects/Large/Utilities/Silo_Grain_0/Silo_Grain_0.dat",
+  "data": {
+    "GUID": "0782b08fa3ac4482981aa970e9d27121",
+    "Type": "Large",
+    "ID": "28",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Grain Silo #1"
+  }
+}

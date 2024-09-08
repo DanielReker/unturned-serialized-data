@@ -1,0 +1,16 @@
+{
+  "name": "Drop_FilamentStackB",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/BarricadeDestroy/Drop_FilamentStackB/Drop_FilamentStackB.dat",
+  "data": {
+    "GUID": "460dcd9548eb4e24bccc06fa4b936b7e",
+    "Type": "Spawn",
+    "ID": "51321",
+    "Tables": [
+      {
+        "Guid": "2bc8a0ba592f4810bf78dc00e1634d1b",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

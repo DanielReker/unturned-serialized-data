@@ -1,0 +1,25 @@
+{
+  "name": "Metro_Present_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Christmas/Metro_Present_4/Metro_Present_4.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "d8d9c1efe24f4e9aad10405b76d4f5b0",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "57705",
+    "Size_X": "2",
+    "Health": "50",
+    "Range": "4",
+    "Radius": "0.125",
+    "Offset": "0.3",
+    "Explosion": "37",
+    "Vulnerable": "",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Purple Present",
+    "Description": "<color=#64c819>50</color> Health"
+  }
+}

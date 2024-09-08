@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Beach",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Turtle",
+        "chance": 0.399999976,
+        "table": [
+          {
+            "animal": 6604
+          }
+        ]
+      },
+      {
+        "name": "Normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 6601
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.05882353,
+      "b": 0.09803922
+    }
+  },
+  {
+    "name": "Wildlife",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Cow",
+        "chance": 0.453333378,
+        "table": [
+          {
+            "animal": 6
+          }
+        ]
+      },
+      {
+        "name": "Boar",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 6602
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.6117647,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Passive",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Horse",
+        "chance": 0.3,
+        "table": [
+          {
+            "animal": 6603
+          }
+        ]
+      },
+      {
+        "name": "Rabbit",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 6607
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.6313726,
+      "g": 0.733333349,
+      "b": 0.7529412
+    }
+  },
+  {
+    "name": "Tide",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Crab",
+        "chance": 0.09999989,
+        "table": [
+          {
+            "animal": 6601
+          }
+        ]
+      },
+      {
+        "name": "Turtle",
+        "chance": 0.449999869,
+        "table": [
+          {
+            "animal": 6604
+          }
+        ]
+      },
+      {
+        "name": "Snail",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 6605
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.6039216,
+      "b": 0.458823532
+    }
+  },
+  {
+    "name": "Underwater",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Snail",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 6605
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0784313753,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Rats",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "d",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 6606
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.490196079,
+      "g": 0.0,
+      "b": 0.0
+    }
+  }
+]

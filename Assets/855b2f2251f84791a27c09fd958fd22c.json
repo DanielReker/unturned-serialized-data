@@ -1,0 +1,60 @@
+{
+  "name": "PBS_NewsPaper_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Grass/PBS_NewsPaper_3.asset",
+  "data": {
+    "GUID": "855b2f2251f84791a27c09fd958fd22c",
+    "Type": "SDG.Framework.Foliage.FoliageInstancedMeshInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Density": "5",
+    "Min_Normal_Position_Offset": ".01",
+    "Max_Normal_Position_Offset": ".01",
+    "Normal_Rotation_Offset": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Normal_Rotation_Alignment": "1",
+    "Min_Weight": "0.5",
+    "Max_Weight": "1",
+    "Min_Angle": "0",
+    "Max_Angle": "60",
+    "Min_Rotation": {
+      "X": "90",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Max_Rotation": {
+      "X": "90",
+      "Y": "360",
+      "Z": "0"
+    },
+    "Min_Scale": {
+      "X": "1",
+      "Y": "1",
+      "Z": "1"
+    },
+    "Max_Scale": {
+      "X": "1",
+      "Y": "1",
+      "Z": "1"
+    },
+    "Mesh": {
+      "Name": "pbs.masterbundle",
+      "Path": "Grass/PBS_NewsPaper.fbx"
+    },
+    "Material": {
+      "Name": "pbs.masterbundle",
+      "Path": "Grass/NewsPaper_3.mat"
+    },
+    "Cast_Shadows": "false",
+    "Tile_Dither": "true",
+    "Draw_Distance": "2",
+    "Christmas_Redirect": {
+      "GUID": "00000000000000000000000000000000"
+    },
+    "Halloween_Redirect": {
+      "GUID": "00000000000000000000000000000000"
+    }
+  },
+  "translation": null
+}

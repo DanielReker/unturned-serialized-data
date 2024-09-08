@@ -1,0 +1,16 @@
+{
+  "name": "CQ",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Decals/CQ/CQ.dat",
+  "data": {
+    "GUID": "0fb351216c5d44f6af50fe8214c87839",
+    "Type": "Decal",
+    "ID": "51003",
+    "Decal_X": "6",
+    "Decal_Y": "3",
+    "Decal_LOD_Bias": "1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Decal CQ"
+  }
+}

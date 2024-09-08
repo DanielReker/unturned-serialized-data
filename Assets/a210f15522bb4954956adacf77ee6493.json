@@ -1,0 +1,14 @@
+{
+  "name": "Oscar_Escape_Room_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Prisoner Oscar/Oscar_Escape_Room_Completed/Asset.dat",
+  "data": {
+    "GUID": "a210f15522bb4954956adacf77ee6493",
+    "Type": "Dialogue",
+    "ID": "9106",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good it's all here. Thank you."
+  }
+}

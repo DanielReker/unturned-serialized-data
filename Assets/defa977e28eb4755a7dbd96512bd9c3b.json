@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Lava_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Scenery/Easter_Lava_1/Easter_Lava_1.dat",
+  "data": {
+    "GUID": "defa977e28eb4755a7dbd96512bd9c3b",
+    "Type": "Large",
+    "ID": "6630",
+    "Soft": "",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Lava #2"
+  }
+}

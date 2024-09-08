@@ -1,0 +1,19 @@
+{
+  "name": "Rodrigues_Interview_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Misc/Officer_Rodrigues/Rodrigues_Interview_0/Asset.dat",
+  "data": {
+    "GUID": "b093b1e1c4334e3e98c9ad32f9cf202d",
+    "Type": "Dialogue",
+    "ID": "9210",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "9211",
+    "Response_1_Dialogue": "9215"
+  },
+  "translation": {
+    "Message_0_Page_0": "Alright let's get started then. If you were walking found and saw a survivor with a gun, would you negotiate and try to talk to the survivor or shoot on sight?",
+    "Response_0": "I would negotiate with the survivor, try to achieve the most peaceful outcome possible.",
+    "Response_1": "I would shoot immediately, I am not risking myself getting hurt, or worse."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "France_Tourist_Charger_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Tourist/France_Tourist_Charger_Accepted/Asset.dat",
+  "data": {
+    "GUID": "2cdf12994e68450fb45a63471c2ee0aa",
+    "Type": "Dialogue",
+    "ID": "4208",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "4193"
+  },
+  "translation": {
+    "Message_0_Page_0": "I bet one's in a place called Rula. That mechanic guy probably knows more about it."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "PS_Lantern_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Barricades/PS_Lantern_1/PS_Lantern_1.dat",
+  "data": {
+    "GUID": "18281114754943c1b74a046ec8bca993",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Campfire",
+    "ID": "59165",
+    "SalvageItem": "18281114754943c1b74a046ec8bca993",
+    "Min_Items_Dropped_On_Destroy": "1",
+    "Max_Items_Dropped_On_Destroy": "1",
+    "Item_Dropped_On_Destroy": "a85d4d0b39484497afa2a0ef7d566535",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Health": "33",
+    "Range": "4",
+    "Radius": "0.1",
+    "Offset": "0.2",
+    "Explosion": "19",
+    "Vulnerable": "",
+    "PlacementAudioClip": "Sounds/WoodenPlacement.mp3",
+    "Salvage_Duration_Multiplier": "0.2"
+  },
+  "translation": {
+    "Name": "Jack-o'-lantern",
+    "Description": "Funny glowy pumpkin."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "RV_Camp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/RV_Camp/RV_Camp.dat",
+  "data": {
+    "GUID": "611db724eeb54e24aee7a06715d24426",
+    "Type": "Large",
+    "ID": "3523",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "RV #1"
+  }
+}

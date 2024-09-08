@@ -1,0 +1,24 @@
+{
+  "name": "Kuwait_Track_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Tracks/Kuwait_Track_4/Kuwait_Track_4.dat",
+  "data": {
+    "GUID": "8d7de815afee4d639e231747c9ed27f0",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5323",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "5324",
+    "Condition_0_Value": "4",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "5325",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Radio Track #5"
+  }
+}

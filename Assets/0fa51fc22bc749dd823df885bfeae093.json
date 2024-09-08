@@ -1,0 +1,19 @@
+{
+  "name": "PBS_EmpeySetup",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/PBS_EmpeySetup/PBS_EmpeySetup.dat",
+  "data": {
+    "GUID": "0fa51fc22bc749dd823df885bfeae093",
+    "Type": "RewardsList",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51223",
+    "Reward_0_Barrel": "51089",
+    "Reward_0_Sight": "51084",
+    "Reward_0_Tactical": "51075",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "51912",
+    "Reward_1_Amount": "3"
+  },
+  "translation": null
+}

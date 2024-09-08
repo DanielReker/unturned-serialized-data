@@ -1,0 +1,19 @@
+{
+  "name": "Water_Zombie_Kelp_Vest",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Clothing/Vests/Water_Zombie_Kelp_Vest/Water_Zombie_Kelp_Vest.dat",
+  "data": {
+    "GUID": "d4b13391d9a64215a852447e00d86317",
+    "Type": "Vest",
+    "Useable": "Clothing",
+    "ID": "6661",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.6",
+    "Width": "1",
+    "Height": "1"
+  },
+  "translation": {
+    "Name": "Water_Zombie_Kelp_Vest",
+    "Description": "Water_Zombie_Kelp_Vest"
+  }
+}

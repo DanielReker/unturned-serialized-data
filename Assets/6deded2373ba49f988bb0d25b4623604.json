@@ -1,0 +1,12 @@
+{
+  "name": "EODBombSound1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Effects/Grenades/EODBombSound1/EODBombSound1.dat",
+  "data": {
+    "GUID": "6deded2373ba49f988bb0d25b4623604",
+    "Type": "Effect",
+    "ID": "51039",
+    "Spawn_On_Dedicated_Server": "",
+    "Relevant_Distance": "256"
+  },
+  "translation": null
+}

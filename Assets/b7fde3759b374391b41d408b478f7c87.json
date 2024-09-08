@@ -1,0 +1,17 @@
+{
+  "name": "RadioEquipment_Setup_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/RadioEquipment_Setup_0/RadioEquipment_Setup_0.dat",
+  "data": {
+    "GUID": "b7fde3759b374391b41d408b478f7c87",
+    "Type": "Small",
+    "ID": "4513",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "45738",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Relay Airport Setup #1"
+  }
+}

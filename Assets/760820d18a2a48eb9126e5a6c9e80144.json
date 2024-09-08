@@ -1,0 +1,22 @@
+{
+  "name": "Rio_Birch_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Resources/Rio_Birch_0/Rio_Birch_0.dat",
+  "data": {
+    "GUID": "760820d18a2a48eb9126e5a6c9e80144",
+    "Type": "Resource",
+    "ID": "4255",
+    "Health": "800",
+    "Radius": "4",
+    "Scale": "0.3",
+    "Explosion": "21",
+    "Reward_ID": "515",
+    "Reward_XP": "4",
+    "Reward_Min": "7",
+    "Reward_Max": "10",
+    "Reset": "450",
+    "Auto_Skybox": ""
+  },
+  "translation": {
+    "Name": "Rio Birch #1"
+  }
+}

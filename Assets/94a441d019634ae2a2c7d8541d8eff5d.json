@@ -1,0 +1,14 @@
+{
+  "name": "Function_Tent_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/Function_Tent_0/Function_Tent_0.dat",
+  "data": {
+    "GUID": "94a441d019634ae2a2c7d8541d8eff5d",
+    "Type": "Large",
+    "ID": "35088",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Function Tent #1"
+  }
+}

@@ -1,0 +1,830 @@
+{
+  "Available_Instance_ID": 13,
+  "Items": [
+    {
+      "Type": "FoliageSystem",
+      "Instance_ID": 1,
+      "Item": {
+        "Version": 2,
+        "Tiles": []
+      }
+    },
+    {
+      "Type": "Landscape",
+      "Instance_ID": 2,
+      "Item": {
+        "Tiles": [
+          {
+            "Coord": {
+              "X": 0,
+              "Y": 0
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -2,
+              "Y": -2
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -2,
+              "Y": -1
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -2,
+              "Y": 0
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -2,
+              "Y": 1
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -1,
+              "Y": -2
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -1,
+              "Y": -1
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -1,
+              "Y": 0
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -1,
+              "Y": 1
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 0,
+              "Y": -2
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 0,
+              "Y": -1
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 0,
+              "Y": 1
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 1,
+              "Y": -2
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 1,
+              "Y": -1
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 1,
+              "Y": 0
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 1,
+              "Y": 1
+            },
+            "Materials": [
+              {
+                "GUID": "e52b20e26b7c47c89aa5a350938f8f42"
+              },
+              {
+                "GUID": "e981f9fae3fa43d68a9a0bfa6472a69f"
+              },
+              {
+                "GUID": "3d7717c2bc074401853b2fdacd9db1ba"
+              },
+              {
+                "GUID": "a14df8dd9bb44f1d967a53f43bde54e6"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              },
+              {
+                "GUID": "e25f0351181f4ad1a9c0dc31d2fedade"
+              },
+              {
+                "GUID": "50acf0bddd844f93addd0097f7d95d95"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "FoliageVolume",
+      "Instance_ID": 3,
+      "Item": {
+        "Position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 2048.0,
+          "y": 2048.0,
+          "z": 2048.0
+        },
+        "Shape": 0,
+        "Mode": 0,
+        "Instanced_Meshes": true,
+        "Resources": true,
+        "Objects": true
+      }
+    },
+    {
+      "Type": "DeadzoneVolume",
+      "Instance_ID": 4,
+      "Item": {
+        "Position": {
+          "x": -557.3989,
+          "y": 133.881454,
+          "z": 100.908325
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 197.333344,
+          "y": 197.333344,
+          "z": 197.333344
+        },
+        "Shape": 1,
+        "Deadzone_Type": 0,
+        "UnprotectedDamagePerSecond": 0.0,
+        "ProtectedDamagePerSecond": 0.0,
+        "UnprotectedRadiationPerSecond": 6.25,
+        "MaskFilterDamagePerSecond": 0.4
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 5,
+      "Item": {
+        "Position": {
+          "x": 720.2241,
+          "y": 63.9960938,
+          "z": 110.574341
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Whitehorse",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 6,
+      "Item": {
+        "Position": {
+          "x": 671.9,
+          "y": 62.1494,
+          "z": 574.6389
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Beaufort Bay",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 7,
+      "Item": {
+        "Position": {
+          "x": -770.5303,
+          "y": 173.522034,
+          "z": -1.68481445
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Mount Logan",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 8,
+      "Item": {
+        "Position": {
+          "x": -83.9704,
+          "y": 38.1730347,
+          "z": 634.6323
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Ibex Valley",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 9,
+      "Item": {
+        "Position": {
+          "x": -556.6495,
+          "y": 107.502731,
+          "z": 675.13385
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Kluane Lake",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 10,
+      "Item": {
+        "Position": {
+          "x": 319.3201,
+          "y": 62.5910339,
+          "z": -542.8563
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Quill Creek",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 11,
+      "Item": {
+        "Position": {
+          "x": 652.6406,
+          "y": 64.02754,
+          "z": -703.528442
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Dawson Airstrip",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 12,
+      "Item": {
+        "Position": {
+          "x": -661.667236,
+          "y": 103.318726,
+          "z": -831.727
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Off Limits",
+        "IsVisibleOnMap": true
+      }
+    }
+  ]
+}

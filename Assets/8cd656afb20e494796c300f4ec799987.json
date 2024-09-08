@@ -1,0 +1,26 @@
+{
+  "name": "Buak_Bear",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Animals/Buak_Bear/Buak_Bear.dat",
+  "data": {
+    "GUID": "8cd656afb20e494796c300f4ec799987",
+    "Type": "Animal",
+    "ID": "25305",
+    "Speed_Run": "8",
+    "Speed_Walk": "2",
+    "Behaviour": "Offense",
+    "Damage": "35",
+    "Horizontal_Attack_Range": "5",
+    "Attack_Interval": "2",
+    "Health": "500",
+    "Reward_ID": "25340",
+    "Reward_XP": "50",
+    "Reward_Min": "1",
+    "Reward_Max": "1",
+    "Attack_Anim_Variants": "1",
+    "Roars": "3",
+    "Glance_Anim_Variants": "1"
+  },
+  "translation": {
+    "Name": "Buak_Bear"
+  }
+}

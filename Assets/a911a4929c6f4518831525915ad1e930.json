@@ -1,0 +1,21 @@
+{
+  "name": "Mindless_Bliss",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Music/Music/Mindless_Bliss/Mindless_Bliss.asset",
+  "data": {
+    "GUID": "a911a4929c6f4518831525915ad1e930",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Title": {
+      "Namespace": "SDG",
+      "Token": "Stereo_Songs.Unlike_Pluto4.Title"
+    },
+    "Song": {
+      "MasterBundle": "up.masterbundle",
+      "AssetPath": "Unlike Pluto - Mindless Bliss.wav"
+    },
+    "Link_URL": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga?si=HUDPSJR0SwyWE97dlv_liA"
+  },
+  "translation": {
+    "Name": "Unlike Pluto - Mindless Bliss"
+  }
+}

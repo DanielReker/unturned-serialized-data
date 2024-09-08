@@ -1,0 +1,39 @@
+{
+  "name": "Riot_Helmet",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Hats/Riot_Helmet/Riot_Helmet.dat",
+  "data": {
+    "GUID": "643e622fd5a44ba296fced4bb92d69b6",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "51125",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Beard": "",
+    "Armor": ".7",
+    "Movement_Speed_Multiplier": ".95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51125",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "51017",
+    "Blueprint_0_Output_0_Amount": "2",
+    "Blueprint_0_Output_1_ID": "51028",
+    "Blueprint_0_Output_1_Amount": "2",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "2",
+    "Blueprint_1_Supply_0_ID": "51017",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Supply_1_ID": "51028",
+    "Blueprint_1_Supply_1_Amount": "2",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Riot Helmet",
+    "Description": "High quality law enforcement grade helmet for protecting your noggin."
+  }
+}

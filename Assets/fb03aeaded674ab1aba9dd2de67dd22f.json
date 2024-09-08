@@ -1,0 +1,13 @@
+{
+  "name": "Bricks_3",
+  "path": "Bundles/Objects/Small/Rubble/Bricks_3/Bricks_3.dat",
+  "data": {
+    "GUID": "fb03aeaded674ab1aba9dd2de67dd22f",
+    "Type": "Small",
+    "ID": "938",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Bricks #4"
+  }
+}

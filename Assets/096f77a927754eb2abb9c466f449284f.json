@@ -1,0 +1,18 @@
+{
+  "name": "Easter_Grocer_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Buildings/Easter_Grocer_0/Easter_Grocer_0.dat",
+  "data": {
+    "GUID": "096f77a927754eb2abb9c466f449284f",
+    "Type": "Large",
+    "ID": "6730",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Grocer #1"
+  }
+}

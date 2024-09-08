@@ -1,0 +1,19 @@
+{
+  "name": "Kuwait_Gas_Can",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Fuels/Kuwait_Gas_Can/Kuwait_Gas_Can.dat",
+  "data": {
+    "GUID": "6454c5d1d47349fb8f2c4d89103f98a9",
+    "Type": "Fuel",
+    "Rarity": "Uncommon",
+    "Useable": "Fuel",
+    "ID": "5535",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Fuel": "500"
+  },
+  "translation": {
+    "Name": "Portable Gas Can",
+    "Description": "Sizeable can of gasoline.<br><color=#b8b188>500 Fuel</color>"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Greece_3_Grass",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Terrain/Materials/Greece_3_Grass.asset",
+  "data": {
+    "GUID": "98c2ae7c2aad48148c9daeb6fab4aa2a",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "greece.masterbundle",
+      "Path": "Terrain/Materials/3 Grass.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "FOLIAGE_STATIC",
+    "Foliage": "b8edb818e1804c8c8e1d883e7b6eeaf1"
+  },
+  "translation": null
+}

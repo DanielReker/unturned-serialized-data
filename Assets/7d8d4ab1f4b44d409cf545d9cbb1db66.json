@@ -1,0 +1,24 @@
+{
+  "name": "Alessio_Prized_Possession",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Quests/Alessio_Prized_Possession/Asset.dat",
+  "data": {
+    "GUID": "7d8d4ab1f4b44d409cf545d9cbb1db66",
+    "Type": "Quest",
+    "ID": "9191",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "9192",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "20",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "10"
+  },
+  "translation": {
+    "Name": "<color=legendary>Prized Possession</color>",
+    "Description": "I had lost my favorite pocket watch that I've had for ages somewhere off the coast near Port Haven.",
+    "Condition_0": "Find {0}/1 Pocket Watch"
+  }
+}

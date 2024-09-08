@@ -1,0 +1,12 @@
+{
+  "name": "Kuwait_Sunrise",
+  "path": "Bundles/Mythics/Kuwait_Sunrise/Kuwait_Sunrise.dat",
+  "data": {
+    "GUID": "2fdf2147b9a2490a835a9a54837bb780",
+    "Type": "Mythic",
+    "ID": "41"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Sunrise"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "CA_Ghillie_Top",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Shirts/CA_Ghillie_Top/CA_Ghillie_Top.dat",
+  "data": {
+    "GUID": "b15173399c2d4affb3912da16ca956b8",
+    "Type": "Shirt",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "4002",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "4",
+    "Height": "2",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "4002",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "67",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "27"
+  },
+  "translation": {
+    "Name": "Ghillie Top",
+    "Description": "Military foliage stealth shirt."
+  }
+}

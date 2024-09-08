@@ -1,0 +1,14 @@
+{
+  "name": "Coastguard_Truck",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Vehicles/Coastguard_Truck/Coastguard_Truck.dat",
+  "data": {
+    "GUID": "8ad8b658ecb8485eb64f2cdf130136c1",
+    "Coastguard_Truck": "",
+    "Type": "Spawn",
+    "ID": "811",
+    "Tables": "1",
+    "Table_0_Asset_ID": "809",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

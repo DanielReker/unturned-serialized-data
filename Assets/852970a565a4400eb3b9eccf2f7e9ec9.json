@@ -1,0 +1,11 @@
+{
+  "name": "Kuwait_Dust_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Effects/Volumes/Kuwait_Dust_2/Kuwait_Dust_2.dat",
+  "data": {
+    "GUID": "852970a565a4400eb3b9eccf2f7e9ec9",
+    "Type": "Effect",
+    "ID": "5263",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": null
+}

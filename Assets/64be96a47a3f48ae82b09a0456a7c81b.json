@@ -1,0 +1,15 @@
+{
+  "name": "SeedyPlace_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/James/James_02/SeedyPlace_Completed/Asset.dat",
+  "data": {
+    "GUID": "64be96a47a3f48ae82b09a0456a7c81b",
+    "Type": "Dialogue",
+    "ID": "24469",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "28"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks! Time to start planting. We shall have a sustainable food source in no time!"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "26163KENDD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26160KEND/26163KENDD/Asset.dat",
+  "data": {
+    "GUID": "1b8f86034da44a2489758944f0742a60",
+    "Type": "Dialogue",
+    "ID": "26163",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Masa' alkhayr <name_char>!",
+    "Response_0": "Masa' alkhayr!"
+  }
+}

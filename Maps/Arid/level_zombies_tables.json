@@ -1,0 +1,1545 @@
+[
+  {
+    "name": "test",
+    "isMega": false,
+    "health": 1,
+    "damage": 1,
+    "lootIndex": 0,
+    "lootID": 0,
+    "xp": 0,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    },
+    "tableUniqueId": 1,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "soviet zombos",
+    "isMega": false,
+    "health": 130,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 59088,
+    "xp": 0,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59091
+          },
+          {
+            "item": 59092
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59090
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59117
+          },
+          {
+            "item": 59155
+          },
+          {
+            "item": 59161
+          }
+        ]
+      },
+      {
+        "chance": 0.7471273,
+        "table": [
+          {
+            "item": 59127
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.129411772,
+      "g": 0.647058845,
+      "b": 0.129411772
+    },
+    "tableUniqueId": 2,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "PMC Zombos",
+    "isMega": false,
+    "health": 130,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 59089,
+    "xp": 0,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59337
+          },
+          {
+            "item": 59338
+          },
+          {
+            "item": 59339
+          },
+          {
+            "item": 59188
+          },
+          {
+            "item": 59189
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59334
+          },
+          {
+            "item": 59335
+          },
+          {
+            "item": 59336
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59341
+          },
+          {
+            "item": 59876
+          },
+          {
+            "item": 59429
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59340
+          },
+          {
+            "item": 59749
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.31764707,
+      "b": 0.9607843
+    },
+    "tableUniqueId": 3,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "police zombos",
+    "isMega": false,
+    "health": 130,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 59154,
+    "xp": 0,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59150
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59148
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59152
+          },
+          {
+            "item": 59153
+          }
+        ]
+      },
+      {
+        "chance": 0.7088118,
+        "table": [
+          {
+            "item": 59154
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.360784322,
+      "g": 1.0,
+      "b": 0.1764706
+    },
+    "tableUniqueId": 4,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "civilian 0",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 59006,
+    "xp": 0,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59190
+          },
+          {
+            "item": 59189
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59069
+          },
+          {
+            "item": 59159
+          },
+          {
+            "item": 59160
+          }
+        ]
+      },
+      {
+        "chance": 0.5019141,
+        "table": [
+          {
+            "item": 59302
+          },
+          {
+            "item": 59303
+          },
+          {
+            "item": 59304
+          },
+          {
+            "item": 59305
+          },
+          {
+            "item": 59306
+          },
+          {
+            "item": 59307
+          },
+          {
+            "item": 59308
+          }
+        ]
+      },
+      {
+        "chance": 0.5938688,
+        "table": [
+          {
+            "item": 59156
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.58431375,
+      "b": 0.58431375
+    },
+    "tableUniqueId": 5,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "civilian 1",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 59006,
+    "xp": 0,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59188
+          },
+          {
+            "item": 59189
+          },
+          {
+            "item": 59190
+          },
+          {
+            "item": 59191
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59159
+          },
+          {
+            "item": 59160
+          }
+        ]
+      },
+      {
+        "chance": 0.647509754,
+        "table": [
+          {
+            "item": 59302
+          },
+          {
+            "item": 59303
+          },
+          {
+            "item": 59304
+          },
+          {
+            "item": 59305
+          },
+          {
+            "item": 59306
+          },
+          {
+            "item": 59307
+          },
+          {
+            "item": 59308
+          }
+        ]
+      },
+      {
+        "chance": 0.7547884,
+        "table": [
+          {
+            "item": 59157
+          },
+          {
+            "item": 59158
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.498039216,
+      "b": 0.384313732
+    },
+    "tableUniqueId": 6,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "construction",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 59134,
+    "xp": 0,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59629
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59064
+          },
+          {
+            "item": 59065
+          },
+          {
+            "item": 59068
+          },
+          {
+            "item": 59069
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59546
+          },
+          {
+            "item": 59547
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.8156863,
+      "g": 0.654902,
+      "b": 0.392156869
+    },
+    "tableUniqueId": 7,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "bunker 0",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 59088,
+    "xp": 0,
+    "regen": 15.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59091
+          },
+          {
+            "item": 59092
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59090
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59117
+          },
+          {
+            "item": 59161
+          },
+          {
+            "item": 59155
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59127
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.309803933,
+      "g": 0.5058824,
+      "b": 0.215686277
+    },
+    "tableUniqueId": 8,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "BUNKER 1",
+    "isMega": false,
+    "health": 80,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 59177,
+    "xp": 0,
+    "regen": 15.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59091
+          },
+          {
+            "item": 59092
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59090
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59155
+          },
+          {
+            "item": 59426
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59127
+          },
+          {
+            "item": 59128
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0235294122,
+      "g": 0.149019614,
+      "b": 0.0
+    },
+    "tableUniqueId": 9,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "US VIP",
+    "isMega": false,
+    "health": 400,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 59222,
+    "xp": 0,
+    "regen": 20.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59722
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59723
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59721
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.8666667,
+      "g": 0.6745098,
+      "b": 0.56078434
+    },
+    "tableUniqueId": 10,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "OFFICES 1",
+    "isMega": false,
+    "health": 111,
+    "damage": 21,
+    "lootIndex": 0,
+    "lootID": 59221,
+    "xp": 0,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59434
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59433
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59677
+          },
+          {
+            "item": 59429
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59430
+          },
+          {
+            "item": 59673
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.698039234,
+      "g": 0.286274523,
+      "b": 0.1764706
+    },
+    "tableUniqueId": 11,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "OFFICES 2",
+    "isMega": false,
+    "health": 111,
+    "damage": 21,
+    "lootIndex": 0,
+    "lootID": 59221,
+    "xp": 0,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59434
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59433
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59720
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.447058827,
+      "g": 0.2627451,
+      "b": 0.223529413
+    },
+    "tableUniqueId": 12,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "soviet zombos horde",
+    "isMega": false,
+    "health": 75,
+    "damage": 17,
+    "lootIndex": 0,
+    "lootID": 59087,
+    "xp": 0,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59091
+          },
+          {
+            "item": 59092
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59090
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59117
+          },
+          {
+            "item": 59155
+          },
+          {
+            "item": 59161
+          }
+        ]
+      },
+      {
+        "chance": 0.601531565,
+        "table": [
+          {
+            "item": 59127
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "tableUniqueId": 13,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "soviet zombos horde mega",
+    "isMega": true,
+    "health": 1010,
+    "damage": 30,
+    "lootIndex": 0,
+    "lootID": 59088,
+    "xp": 0,
+    "regen": 20.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59091
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59090
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59426
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59128
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "tableUniqueId": 14,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "press",
+    "isMega": false,
+    "health": 450,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 59252,
+    "xp": 0,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59188
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59159
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59753
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59432
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 15,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "bunker deaadzone",
+    "isMega": false,
+    "health": 90,
+    "damage": 22,
+    "lootIndex": 0,
+    "lootID": 59273,
+    "xp": 0,
+    "regen": 15.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59091
+          },
+          {
+            "item": 59092
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59090
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59426
+          },
+          {
+            "item": 59155
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59127
+          },
+          {
+            "item": 59128
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 16,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "PMC mega",
+    "isMega": true,
+    "health": 700,
+    "damage": 40,
+    "lootIndex": 0,
+    "lootID": 59290,
+    "xp": 0,
+    "regen": 20.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59339
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59336
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59411
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59749
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.08627451,
+      "g": 0.101960786,
+      "b": 0.4627451
+    },
+    "tableUniqueId": 17,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Steel Mega",
+    "isMega": true,
+    "health": 600,
+    "damage": 30,
+    "lootIndex": 0,
+    "lootID": 59291,
+    "xp": 0,
+    "regen": 20.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59629
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59068
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59547
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 18,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "soviet mega",
+    "isMega": true,
+    "health": 700,
+    "damage": 40,
+    "lootIndex": 0,
+    "lootID": 59292,
+    "xp": 0,
+    "regen": 20.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59091
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59090
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59426
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59128
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.6313726,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "tableUniqueId": 19,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "construction mega",
+    "isMega": true,
+    "health": 600,
+    "damage": 30,
+    "lootIndex": 0,
+    "lootID": 59294,
+    "xp": 0,
+    "regen": 20.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59629
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59068
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59547
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 20,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "offices LCT",
+    "isMega": false,
+    "health": 210,
+    "damage": 33,
+    "lootIndex": 0,
+    "lootID": 59320,
+    "xp": 0,
+    "regen": 25.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59936
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59935
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "tableUniqueId": 21,
+    "difficultyGUID": "268870a0ec9b490fb47a656a0631ea7f",
+    "difficulty": {
+      "GUID": "268870a0ec9b490fb47a656a0631ea7f",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "traffic construction",
+    "isMega": false,
+    "health": 222,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 59321,
+    "xp": 0,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59629
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59064
+          },
+          {
+            "item": 59065
+          },
+          {
+            "item": 59068
+          },
+          {
+            "item": 59069
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59793
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.7137255,
+      "b": 0.7294118
+    },
+    "tableUniqueId": 22,
+    "difficultyGUID": "ee15847c0bed4a29bcccb6d49d841151",
+    "difficulty": {
+      "GUID": "ee15847c0bed4a29bcccb6d49d841151",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "nvg soviet",
+    "isMega": false,
+    "health": 450,
+    "damage": 30,
+    "lootIndex": 0,
+    "lootID": 59330,
+    "xp": 0,
+    "regen": 35.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59091
+          },
+          {
+            "item": 59092
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59090
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59976
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59128
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.333333343,
+      "g": 0.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 23,
+    "difficultyGUID": "84e0b924fd4d44b89182f4c6325867c3",
+    "difficulty": {
+      "GUID": "84e0b924fd4d44b89182f4c6325867c3",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "nvg pmc",
+    "isMega": false,
+    "health": 450,
+    "damage": 30,
+    "lootIndex": 0,
+    "lootID": 59458,
+    "xp": 0,
+    "regen": 35.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59339
+          },
+          {
+            "item": 59337
+          },
+          {
+            "item": 59338
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59335
+          },
+          {
+            "item": 59334
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 60038
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59749
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    },
+    "tableUniqueId": 24,
+    "difficultyGUID": "84e0b924fd4d44b89182f4c6325867c3",
+    "difficulty": {
+      "GUID": "84e0b924fd4d44b89182f4c6325867c3",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "pmc office",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 59089,
+    "xp": 0,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59337
+          },
+          {
+            "item": 59338
+          },
+          {
+            "item": 59339
+          },
+          {
+            "item": 59188
+          },
+          {
+            "item": 59189
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 59334
+          },
+          {
+            "item": 59335
+          },
+          {
+            "item": 59336
+          }
+        ]
+      },
+      {
+        "chance": 0.74666667,
+        "table": [
+          {
+            "item": 59341
+          },
+          {
+            "item": 59876
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.533333361,
+      "g": 0.7176471,
+      "b": 1.0
+    },
+    "tableUniqueId": 25,
+    "difficultyGUID": "84e0b924fd4d44b89182f4c6325867c3",
+    "difficulty": {
+      "GUID": "84e0b924fd4d44b89182f4c6325867c3",
+      "isValid": true,
+      "isNull": false
+    }
+  }
+]

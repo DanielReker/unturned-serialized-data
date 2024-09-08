@@ -1,0 +1,22 @@
+{
+  "name": "Boss_Moai",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Quests/Boss_Moai/Asset.dat",
+  "data": {
+    "GUID": "fb229641614f40209cef3fedf78a5bb5",
+    "Type": "Quest",
+    "ID": "6602",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_ID": "6600",
+    "Condition_0_Value": "1",
+    "Condition_0_Zombie": "Boss_All",
+    "Condition_0_Spawn": "",
+    "Condition_0_Nav": "14",
+    "Condition_0_Reset": ""
+  },
+  "translation": {
+    "Name": "<color=mythical>Remnants of Creation</color>",
+    "Description": "Counter to Origin. Plauge of Rapa Nui.",
+    "Condition_0": "Defeat {0}/{1} <color=mythical>Flaw of Creation, Tukuturi</color>"
+  }
+}

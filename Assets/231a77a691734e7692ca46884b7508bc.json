@@ -1,0 +1,23 @@
+{
+  "name": "Omega_Supply_Depot_Lead",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Supply_Depot_Lead/Asset.dat",
+  "data": {
+    "GUID": "231a77a691734e7692ca46884b7508bc",
+    "Type": "NPC",
+    "ID": "3719",
+    "Shirt": "419",
+    "Pants": "214",
+    "Backpack": "245",
+    "Glasses": "409",
+    "Face": "29",
+    "Hair": "18",
+    "Beard": "6",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#352C22",
+    "Dialogue": "3180"
+  },
+  "translation": {
+    "Name": "Greek Omega Supply Milos",
+    "Character": "<color=epic>Supply Manager Milos</color>"
+  }
+}

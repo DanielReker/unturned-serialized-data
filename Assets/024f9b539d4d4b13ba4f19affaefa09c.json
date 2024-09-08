@@ -1,0 +1,13 @@
+{
+  "name": "PS_Razor_Wire_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Razor_Wire_1/PS_Razor_Wire_1.dat",
+  "data": {
+    "GUID": "024f9b539d4d4b13ba4f19affaefa09c",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59448"
+  },
+  "translation": {
+    "Name": "PS Razor Wire #2"
+  }
+}

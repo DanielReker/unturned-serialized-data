@@ -1,0 +1,22 @@
+{
+  "name": "Bar_Granola",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Food/Bar_Granola/Bar_Granola.dat",
+  "data": {
+    "GUID": "980ac4ae55284b4199f5b3223116df45",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "5222",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.35",
+    "Food": "25",
+    "Energy": "15",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Bar_Granola",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Granola Bar",
+    "Description": "Healthy mix of granola and dried fruit.<br><color=#AB8019>+25 Food</color><br><color=#DCB413>+15 Energy</color>"
+  }
+}

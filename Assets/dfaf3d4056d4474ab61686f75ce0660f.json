@@ -1,0 +1,43 @@
+{
+  "name": "Door_Vault",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Door_Vault/Door_Vault.dat",
+  "data": {
+    "GUID": "dfaf3d4056d4474ab61686f75ce0660f",
+    "Type": "Barricade",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Door",
+    "ID": "51675",
+    "SalvageItem": "dfaf3d4056d4474ab61686f75ce0660f",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Health": "5000",
+    "Range": "4",
+    "Radius": "1",
+    "Offset": "1.25",
+    "Locked": "",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supplies": "3",
+    "Blueprint_0_Supply_0_ID": "51018",
+    "Blueprint_0_Supply_0_Amount": "5",
+    "Blueprint_0_Supply_1_ID": "51033",
+    "Blueprint_0_Supply_1_Amount": "2",
+    "Blueprint_0_Supply_2_ID": "51949",
+    "Blueprint_0_Supply_2_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Skill": "Cook",
+    "Blueprint_0_Level": "1",
+    "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3",
+    "Has_Clip_Prefab": "false",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/Door_Vault",
+    "Armor_Tier": "Low"
+  },
+  "translation": {
+    "Name": "Vault Door",
+    "Description": "Vault door ideal for keeping out unwanted visitors."
+  }
+}

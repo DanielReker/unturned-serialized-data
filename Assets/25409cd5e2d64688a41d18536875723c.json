@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Birch",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Birch/Buak_Birch.dat",
+  "data": {
+    "GUID": "25409cd5e2d64688a41d18536875723c",
+    "Type": "Spawn",
+    "ID": "25300",
+    "Tables": "2",
+    "Table_0_Asset_ID": "25302",
+    "Table_0_Weight": "200",
+    "Table_1_Asset_ID": "25686",
+    "Table_1_Weight": "1"
+  },
+  "translation": null
+}

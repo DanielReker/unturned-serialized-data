@@ -1,0 +1,16 @@
+{
+  "name": "Admiral_Introduction",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/Coali/Admiral_Sir_Thomas/Admiral_Introduction/Asset.dat",
+  "data": {
+    "GUID": "e0705ace3aa04730853654156e5cfaa5",
+    "Type": "Dialogue",
+    "ID": "15126",
+    "Messages": "1",
+    "Message_0_Pages": "3"
+  },
+  "translation": {
+    "Message_0_Page_0": "<name_char>. That's a great name. I'm <color=mythical>Admiral Sir Thomas</color>, the head of the <color=blue>West Coalition Navy</color>. We serve around the North Atlantic, rescuing surivors and civilizing unstable areas.",
+    "Message_0_Page_1": "We prefer to focus our efforts on Ireland, considering the amount of bandit and military factions. Have you heard of the <color=red>IFR</color>? They're a prevelant bandit cell that wishes to reunite Ireland. Bunch of bad dudes.",
+    "Message_0_Page_2": "Alright, if you would like to join, please go to <color=legendary>Captain Isaac</color>. He'd run you through a mission and if you do it you'll be recruited as an <color=uncommon>Ensign</color>."
+  }
+}

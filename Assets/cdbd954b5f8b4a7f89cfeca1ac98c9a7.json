@@ -1,0 +1,10 @@
+{
+  "name": "Res_Fruit",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Resources/Res_Fruit/Res_Fruit.dat",
+  "data": {
+    "GUID": "cdbd954b5f8b4a7f89cfeca1ac98c9a7",
+    "Type": "Effect",
+    "ID": "25321"
+  },
+  "translation": null
+}

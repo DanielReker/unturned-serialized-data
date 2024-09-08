@@ -1,0 +1,14 @@
+{
+  "name": "PS_Debris_Pipe_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Debris_Pipe_0/PS_Debris_Pipe_0.dat",
+  "data": {
+    "GUID": "6e0d4267f40d48e49cbeb0b18be28a91",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "60028",
+    "Material_Palette": "ed5ae7a4d5354bea9cad8982d8ad289e"
+  },
+  "translation": {
+    "Name": "PS Debris Pipe #1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Vilaskis Shalashev",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Characters/Vilaskis Shalashev/Asset.dat",
+  "data": {
+    "GUID": "1ee0fc09ff094c0eb3b6687dac97ddba",
+    "Type": "NPC",
+    "ID": "8050",
+    "Shirt": "23502",
+    "Pants": "23517",
+    "Face": "5",
+    "Hair": "1",
+    "Beard": "1",
+    "Color_Skin": "#F9E2C5",
+    "Color_Hair": "#2B1900",
+    "Pose": "Sit",
+    "Dialogue": "8051"
+  },
+  "translation": {
+    "Name": "Vilaskis Shalashev",
+    "Character": "<color=rare>Vilaskis Shalashev</color>"
+  }
+}

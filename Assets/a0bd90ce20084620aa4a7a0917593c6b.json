@@ -1,0 +1,31 @@
+{
+  "name": "Tourist_Shirt",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Clothing/Shirts/Tourist_Shirt/Tourist_Shirt.dat",
+  "data": {
+    "GUID": "a0bd90ce20084620aa4a7a0917593c6b",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "6618",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "4",
+    "Height": "2",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "6618",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Tourist T-Shirt",
+    "Description": "Merchandise from a souvenir shop. "
+  }
+}

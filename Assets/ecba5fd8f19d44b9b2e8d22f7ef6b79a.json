@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Ladder_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Medium/Frost_Ladder_01/Frost_Ladder_01.dat",
+  "data": {
+    "GUID": "ecba5fd8f19d44b9b2e8d22f7ef6b79a",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "36052"
+  },
+  "translation": {
+    "Name": "Frost Ladder #2"
+  }
+}

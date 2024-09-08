@@ -1,0 +1,14 @@
+{
+  "name": "Leader_Recon_Dublin_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IFR/Leader_Holiday/Leader_Recon_Dublin_Accepted/Asset.dat",
+  "data": {
+    "GUID": "6477a0ace8c243188a60f320e6c12015",
+    "Type": "Dialogue",
+    "ID": "15104",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Godspeed, recruit. Let's hope they bring good news."
+  }
+}

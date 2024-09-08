@@ -1,0 +1,17 @@
+{
+  "name": "Kuwait_Armour_Plate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Supplies/Kuwait_Armour_Plate/Kuwait_Armour_Plate.dat",
+  "data": {
+    "GUID": "7373239d24a24610bd1d4c2ac4b7665f",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "5550",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35"
+  },
+  "translation": {
+    "Name": "Armour Plate",
+    "Description": "Even more protective when actually put onto a vest.<br><color=#FF69B4>Used in crafting.</color><br>"
+  }
+}

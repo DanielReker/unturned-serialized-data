@@ -1,0 +1,17 @@
+{
+  "name": "Zubeknakov_Iron_Sights",
+  "path": "Bundles/Items/Sights/Zubeknakov_Iron_Sights/Zubeknakov_Iron_Sights.dat",
+  "data": {
+    "GUID": "d95dd1456c7c45dd8f756faa2c1187ab",
+    "Type": "Sight",
+    "ID": "124",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Zubeknakov Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

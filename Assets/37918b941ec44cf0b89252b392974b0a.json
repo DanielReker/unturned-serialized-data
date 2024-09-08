@@ -1,0 +1,15 @@
+{
+  "name": "PS_DRTP",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_DRTP/PS_DRTP.dat",
+  "data": {
+    "GUID": "37918b941ec44cf0b89252b392974b0a",
+    "Type": "Spawn",
+    "ID": "59471",
+    "Tables": "2",
+    "Table_0_Asset_ID": "59052",
+    "Table_0_Weight": "1",
+    "Table_1_Asset_ID": "59055",
+    "Table_1_Weight": "1"
+  },
+  "translation": null
+}

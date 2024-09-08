@@ -1,0 +1,17 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Kira/Kira_03/Welcome/Asset.dat",
+  "data": {
+    "GUID": "42c1a6a267b14c57aa4de06af2348548",
+    "Type": "Dialogue",
+    "ID": "24098",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hello",
+    "Response_0": "Hello!",
+    "Response_1": "Goodbye!"
+  }
+}

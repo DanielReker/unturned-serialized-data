@@ -1,0 +1,22 @@
+{
+  "name": "Guard_Cedric",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IFR/Filler/Guard_Cedric/Asset.dat",
+  "data": {
+    "GUID": "d9d5c6679851430aa9cc005a537bfa07",
+    "Type": "NPC",
+    "ID": "15034",
+    "Shirt": "15000",
+    "Pants": "15001",
+    "Face": "3",
+    "Beard": "9",
+    "Color_Skin": "#c9ba9d",
+    "Color_Hair": "#070707",
+    "Primary": "126",
+    "Equipped": "Primary",
+    "Dialogue": "15185"
+  },
+  "translation": {
+    "Name": "IFR Guard Cedric",
+    "Character": "<color=uncommon>Recruit Cedric</color>"
+  }
+}

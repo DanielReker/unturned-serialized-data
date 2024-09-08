@@ -1,0 +1,24 @@
+{
+  "name": "Lieutenant Cas_Seize",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Quests/Lieutenant Cas_Seize/Asset.dat",
+  "data": {
+    "GUID": "924860a9872345a683488de0d3ddaf4d",
+    "Type": "Quest",
+    "ID": "9063",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Horde",
+    "Condition_0_ID": "9064",
+    "Condition_0_Value": "1",
+    "Condition_0_Nav": "5",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "75",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "5"
+  },
+  "translation": {
+    "Name": "<color=rare>Seize Florennes Military Base</color>",
+    "Description": "There's an influx of zombies at the Florennes Military Base. I'm way to busy right now to take care of them. So your mission will be to clear that area out.",
+    "Condition_0": "Clear Florennes Military Base <color=legendary>Horde Beacon</color> {0}/{1}"
+  }
+}

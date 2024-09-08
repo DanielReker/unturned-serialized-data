@@ -1,0 +1,15 @@
+{
+  "name": "Bloodsport",
+  "path": "Bundles/Skins/Schofield/Bloodsport/Bloodsport.dat",
+  "data": {
+    "GUID": "c0325835154d4ef1aa3274c07bbdd7db",
+    "Type": "Skin",
+    "ID": "50184",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

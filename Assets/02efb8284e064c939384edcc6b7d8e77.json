@@ -1,0 +1,14 @@
+{
+  "name": "EI_Explorer_Gear",
+  "path": "Bundles/Items/Vests/EI_Explorer_Gear/EI_Explorer_Gear.dat",
+  "data": {
+    "GUID": "02efb8284e064c939384edcc6b7d8e77",
+    "Type": "Vest",
+    "ID": "950",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Pro": ""
+  },
+  "translation": null
+}

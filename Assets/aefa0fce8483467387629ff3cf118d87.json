@@ -1,0 +1,21 @@
+{
+  "name": "Omega_Barracks_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Barracks_1/Asset.dat",
+  "data": {
+    "GUID": "aefa0fce8483467387629ff3cf118d87",
+    "Type": "NPC",
+    "ID": "3617",
+    "Shirt": "3526",
+    "Pants": "3525",
+    "Face": "5",
+    "Hair": "14",
+    "Beard": "6",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#665037",
+    "Dialogue": "3675"
+  },
+  "translation": {
+    "Name": "Greek Omega Barracks Leo",
+    "Character": "<color=rare>Hoplite Leo</color>"
+  }
+}

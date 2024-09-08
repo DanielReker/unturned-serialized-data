@@ -1,0 +1,15 @@
+{
+  "name": "California_Military_High_Guns",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_Military_High_Guns/California_Military_High_Guns.dat",
+  "data": {
+    "GUID": "5daf6efd6d7b4c9f93af6eec3709e08d",
+    "Type": "Spawn",
+    "ID": "4384",
+    "Tables": "2",
+    "Table_0_Asset_ID": "4074",
+    "Table_0_Weight": "50",
+    "Table_1_Asset_ID": "4009",
+    "Table_1_Weight": "50"
+  },
+  "translation": null
+}

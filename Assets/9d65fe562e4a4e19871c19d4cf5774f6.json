@@ -1,0 +1,14 @@
+{
+  "name": "Engineer_Paris_Circuit_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Engineer_Military_Paris/Engineer_Paris_Circuit_Completed/Asset.dat",
+  "data": {
+    "GUID": "9d65fe562e4a4e19871c19d4cf5774f6",
+    "Type": "Dialogue",
+    "ID": "3508",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You did it! Excellent work, thanks to you I'll have this machine up and working in no time!"
+  }
+}

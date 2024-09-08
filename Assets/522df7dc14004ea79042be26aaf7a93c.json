@@ -1,0 +1,12 @@
+{
+  "name": "StoneFence",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/StoneFence/StoneFence.dat",
+  "data": {
+    "GUID": "522df7dc14004ea79042be26aaf7a93c",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Stone Fence"
+  }
+}

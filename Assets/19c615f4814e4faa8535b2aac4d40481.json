@@ -1,0 +1,13 @@
+{
+  "name": "Rebar_0",
+  "path": "Bundles/Objects/Small/Rubble/Rebar_0/Rebar_0.dat",
+  "data": {
+    "GUID": "19c615f4814e4faa8535b2aac4d40481",
+    "Type": "Small",
+    "ID": "45",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Rebar #1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "UK_Flag_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/City/UK_Flag_1/UK_Flag_1.dat",
+  "data": {
+    "GUID": "8067ff67e8124fb39dc6c89e641d7d94",
+    "Type": "Medium",
+    "ID": "14491",
+    "Snowshoe": "",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "100",
+    "Interactability_Effect": "72"
+  },
+  "translation": {
+    "Name": "UK Flag"
+  }
+}

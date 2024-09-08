@@ -1,0 +1,21 @@
+{
+  "name": "Chef_Aberham",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/Coalition/Chef_Aberham/Asset.dat",
+  "data": {
+    "GUID": "a133e284b19b489ca508755384763df4",
+    "Type": "NPC",
+    "ID": "15015",
+    "Shirt": "230",
+    "Pants": "231",
+    "Hat": "239",
+    "Face": "17",
+    "Hair": "17",
+    "Color_Skin": "#ceb9ab",
+    "Color_Hair": "#0a0604",
+    "Dialogue": "15140"
+  },
+  "translation": {
+    "Name": "Coalition Chef Aberham",
+    "Character": "<color=uncommon>Chef Aberham</color>"
+  }
+}

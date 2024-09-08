@@ -1,0 +1,24 @@
+{
+  "name": "Frost_Boat_02_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Boat_02/Frost_Boat_02_Welcome/Asset.dat",
+  "data": {
+    "GUID": "be23f924ff454f98a4dfa89e718f7b7f",
+    "Type": "Dialogue",
+    "ID": "36005",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Teleport",
+    "Response_0_Reward_0_Spawnpoint": "Boat0",
+    "Response_1_Rewards": "1",
+    "Response_1_Reward_0_Type": "Teleport",
+    "Response_1_Reward_0_Spawnpoint": "Boat2"
+  },
+  "translation": {
+    "Message_0_Page_0": "I don't actually have a boating license.",
+    "Response_0": "Take me to the east.",
+    "Response_1": "Take me to the south.",
+    "Response_2": "Thanks!"
+  }
+}

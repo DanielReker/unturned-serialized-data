@@ -1,0 +1,26 @@
+{
+  "name": "Metro_Fragment_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_Fragment_3/Metro_Fragment_3.dat",
+  "data": {
+    "GUID": "4f2ab606b2944adaa88a67c40e0f9d02",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "58065",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57232",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "57232",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Metro Fragment #4",
+    "Interact": "Pickup [{0}]"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Dust 1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Effects/Grenades/Dust 1/Dust 1.dat",
+  "data": {
+    "GUID": "196fce8ed8084d1ba6753a04c49f0d78",
+    "Type": "Effect",
+    "ID": "51041",
+    "Spawn_On_Dedicated_Server": "",
+    "Relevant_Distance": "256"
+  },
+  "translation": null
+}

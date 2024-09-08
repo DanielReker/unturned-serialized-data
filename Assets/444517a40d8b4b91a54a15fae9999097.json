@@ -1,0 +1,13 @@
+{
+  "name": "PS_AC_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_AC_6/PS_AC_6.dat",
+  "data": {
+    "GUID": "444517a40d8b4b91a54a15fae9999097",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59727"
+  },
+  "translation": {
+    "Name": "PS AC #7"
+  }
+}

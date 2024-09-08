@@ -1,0 +1,14 @@
+{
+  "name": "27456KASCIK",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27450KACD/27456KASCIK/Asset.dat",
+  "data": {
+    "GUID": "4e676aa84e624dc7a6a2159fdbf8d6cd",
+    "Type": "Dialogue",
+    "ID": "27456",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "We actually don't know much about them. They just kind of showed up. They weren't aggressive, and they were able to provide us with quite a bit of intel. They seem dangerous though. Careful."
+  }
+}

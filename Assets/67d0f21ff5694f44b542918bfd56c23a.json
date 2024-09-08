@@ -1,0 +1,24 @@
+{
+  "name": "Sailor Lucas",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Guards/Sailor Lucas/Asset.dat",
+  "data": {
+    "GUID": "67d0f21ff5694f44b542918bfd56c23a",
+    "Type": "NPC",
+    "ID": "9025",
+    "Shirt": "8036",
+    "Pants": "8033",
+    "Face": "15",
+    "Hair": "11",
+    "Beard": "7",
+    "Color_Skin": "#F0B583",
+    "Color_Hair": "#060504",
+    "Primary": "8014",
+    "Equipped": "Primary",
+    "Pose": "Stand",
+    "Dialogue": "9202"
+  },
+  "translation": {
+    "Name": "NAM Sailor Lucas",
+    "Character": "<color=uncommon>Sailor Lucas</color>"
+  }
+}

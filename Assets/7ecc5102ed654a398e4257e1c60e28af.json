@@ -1,0 +1,14 @@
+{
+  "name": "Cali_Journalist_Shirt",
+  "path": "Bundles/Items/Outfits/Cali_Journalist/Cali_Journalist_Shirt/Cali_Journalist_Shirt.dat",
+  "data": {
+    "GUID": "7ecc5102ed654a398e4257e1c60e28af",
+    "Type": "Shirt",
+    "ID": "937",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Pro": ""
+  },
+  "translation": null
+}

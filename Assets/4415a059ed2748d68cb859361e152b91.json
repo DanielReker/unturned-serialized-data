@@ -1,0 +1,20 @@
+{
+  "name": "Frost_Penguin_00_Vendor_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Penguin_00/Frost_Penguin_00_Vendor_02/Asset.dat",
+  "data": {
+    "GUID": "4415a059ed2748d68cb859361e152b91",
+    "Type": "Vendor",
+    "ID": "36618",
+    "Selling": "2",
+    "Selling_0_ID": "36017",
+    "Selling_0_Cost": "2",
+    "Selling_1_ID": "36015",
+    "Selling_1_Cost": "2",
+    "Disable_Sorting": "",
+    "Currency": "45008b35d8184e338d756c6f1b2a0813"
+  },
+  "translation": {
+    "Name": "Exchange Copper Coils",
+    "Description": "Supplies"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Supply_Scavenge_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Supply_Depot/Supply_Scavenge_Accepted/Asset.dat",
+  "data": {
+    "GUID": "2b0a05377f0f4fb68a1ad2f5e76eac69",
+    "Type": "Dialogue",
+    "ID": "3183",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Volos has a gun store, so that may be your best bet.",
+    "Response_0": "Understood."
+  }
+}

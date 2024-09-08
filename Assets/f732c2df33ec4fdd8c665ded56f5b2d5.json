@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Metal_Bars",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Metal_Bars/PS_Drops_Metal_Bars.dat",
+  "data": {
+    "GUID": "f732c2df33ec4fdd8c665ded56f5b2d5",
+    "Type": "Spawn",
+    "ID": "59349",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59009",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

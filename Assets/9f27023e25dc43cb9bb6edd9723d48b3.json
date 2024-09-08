@@ -1,0 +1,23 @@
+{
+  "name": "Frost_Boat_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Boat_01/Frost_Boat_01/Asset.dat",
+  "data": {
+    "GUID": "9f27023e25dc43cb9bb6edd9723d48b3",
+    "Type": "NPC",
+    "ID": "36002",
+    "Face": "2",
+    "Hair": "2",
+    "Beard": "0",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#665037",
+    "Glasses": "36058",
+    "Pants": "1454 ",
+    "Vest": "36530",
+    "Backpack": "36062",
+    "Dialogue": "36003"
+  },
+  "translation": {
+    "Name": "Frost NPC Boater #2 [East]",
+    "Character": "Boater"
+  }
+}

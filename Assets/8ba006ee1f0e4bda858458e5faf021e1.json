@@ -1,0 +1,13 @@
+{
+  "name": "Military_Brazil_Ural",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Military_Brazil_Ural/Military_Brazil_Ural.dat",
+  "data": {
+    "GUID": "8ba006ee1f0e4bda858458e5faf021e1",
+    "Type": "Spawn",
+    "ID": "5512",
+    "Tables": "1",
+    "Table_0_Asset_ID": "4426 ",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

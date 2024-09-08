@@ -1,0 +1,24 @@
+{
+  "name": "Recon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Characters/Recon/Asset.dat",
+  "data": {
+    "GUID": "b6280da6a4a246f180fca83f6d02a54e",
+    "Type": "NPC",
+    "ID": "5150",
+    "Shirt": "23525",
+    "Pants": "243",
+    "Vest": "23509",
+    "Face": "5",
+    "Hair": "1",
+    "Beard": "1",
+    "Color_Skin": "#F9E2AC",
+    "Color_Hair": "#3A2101",
+    "Tertiary": "333",
+    "Equipped": "Tertiary",
+    "Dialogue": "5151"
+  },
+  "translation": {
+    "Name": "Recon Ilya",
+    "Character": "<color=rare>Recon Ilya</color>"
+  }
+}

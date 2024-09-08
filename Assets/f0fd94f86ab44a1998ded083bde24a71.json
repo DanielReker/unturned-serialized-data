@@ -1,0 +1,22 @@
+{
+  "name": "GreeceOlive_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Trees/Greece/GreeceOlive_2/GreeceOlive_2.dat",
+  "data": {
+    "GUID": "f0fd94f86ab44a1998ded083bde24a71",
+    "Type": "Resource",
+    "ID": "6010",
+    "Health": "800",
+    "Radius": "3",
+    "Scale": "0.1",
+    "Explosion": "43",
+    "Reward_ID": "6001",
+    "Reward_XP": "4",
+    "Reward_Min": "3",
+    "Reward_Max": "6",
+    "Reset": "450",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Olive Tree #3"
+  }
+}

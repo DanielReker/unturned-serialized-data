@@ -1,0 +1,43 @@
+{
+  "name": "Metro_Staff_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Ranger/Metro_Staff_3/Metro_Staff_3.dat",
+  "data": {
+    "GUID": "d8d46d91f22f4bf69aa7d6e64ad87984",
+    "Type": "Melee",
+    "Rarity": "Legendary",
+    "Useable": "Melee",
+    "Slot": "Any",
+    "ID": "57746",
+    "Size_X": "2",
+    "Size_Y": "4",
+    "Size_Z": "0.09",
+    "Range": "4.75",
+    "Strength": "4",
+    "Stamina": "22",
+    "Weak": "0.06",
+    "Strong": "0.3125",
+    "Player_Damage": "83",
+    "Player_Leg_Multiplier": "0.6",
+    "Player_Arm_Multiplier": "0.6",
+    "Player_Spine_Multiplier": "0.8",
+    "Player_Skull_Multiplier": "1.1",
+    "Zombie_Damage": "180",
+    "Zombie_Leg_Multiplier": "0.3",
+    "Zombie_Arm_Multiplier": "0.3",
+    "Zombie_Spine_Multiplier": "0.6",
+    "Zombie_Skull_Multiplier": "1.1",
+    "Animal_Damage": "100",
+    "Animal_Leg_Multiplier": "0.3",
+    "Animal_Spine_Multiplier": "0.6",
+    "Animal_Skull_Multiplier": "1.1",
+    "Barricade_Damage": "10",
+    "Structure_Damage": "10",
+    "Vehicle_Damage": "50",
+    "Resource_Damage": "200",
+    "Object_Damage": "200"
+  },
+  "translation": {
+    "Name": "Scissor",
+    "Description": "<color=#64c819>83</color> Player Damage<br>\"Don't lose your way.\""
+  }
+}

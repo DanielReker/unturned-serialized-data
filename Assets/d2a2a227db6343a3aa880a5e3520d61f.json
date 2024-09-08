@@ -1,0 +1,27 @@
+{
+  "name": "RULA_Note5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Medium/Furniture/RULA_Note5/RULA_Note5.dat",
+  "data": {
+    "GUID": "d2a2a227db6343a3aa880a5e3520d61f",
+    "Type": "Medium",
+    "ID": "35286",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "9",
+    "Has_Clip_Prefab": "false",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Rula Note - Flamethrowers",
+    "Interactability_Text_Line_0": "Rula Production Log: Nov. 16",
+    "Interactability_Text_Line_1": "----------------------------------",
+    "Interactability_Text_Line_2": "Our first weapon has been completed. This weapon is crude and brings to question the ethics of survival. Our engineers have designed a modernized flamethrower, and its actually quite impressive. We can only trust that the Military will only use them on infected targets.",
+    "Interactability_Text_Line_3": "----------------------------------",
+    "Interactability_Text_Line_4": "Despite using such a small fuel tank, the tank uses a special napalm recipe that can be compressed to very high pressures. Not only can these fuel tanks hold lots of napalm, when connected to each other, one tank will donate all of its remaining napalm into the other tank. This allows partially used tanks to be refueled with each other, decreasing waste.",
+    "Interactability_Text_Line_5": "----------------------------------",
+    "Interactability_Text_Line_6": "However, this special napalm does not leave flames lingering around like its World War II or Vietnam counterparts. The fuel seems to splatter on impact and burn out quickly. Chemists are attempting to improve the napalm to burn longer, but it seems to be mutually exclusive to the high-pressure storage method. ",
+    "Interactability_Text_Line_7": "----------------------------------",
+    "Interactability_Text_Line_8": "These flamethrowers have passed our internal tests, and have been approved for mass production. I hope the French Government is satisfied with its performance."
+  }
+}

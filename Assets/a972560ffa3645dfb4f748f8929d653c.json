@@ -1,0 +1,18 @@
+{
+  "name": "Devtest4",
+  "path": "Bundles/Assets/Maps/Devtest4.asset",
+  "data": {
+    "GUID": "a972560ffa3645dfb4f748f8929d653c",
+    "Type": "SDG.Unturned.LevelAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Default_Game_Mode": {
+      "Type": "SDG.Unturned.SurvivalGameMode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "Supported_Game_Modes": [
+      {
+        "Type": "SDG.Unturned.SurvivalGameMode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+      }
+    ]
+  },
+  "translation": null
+}

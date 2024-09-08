@@ -1,0 +1,17 @@
+{
+  "name": "Gurt_Sad",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/NPC/Gurt_Sad/Gurt_Sad.dat",
+  "data": {
+    "GUID": "19a2cfd1bd2740e5a7cf0270a7ed7615",
+    "Type": "Shirt",
+    "ID": "51195",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.65",
+    "Asset_Bundle_Version": "4"
+  },
+  "translation": {
+    "Name": "gurt sad",
+    "Description": "gurt sad"
+  }
+}

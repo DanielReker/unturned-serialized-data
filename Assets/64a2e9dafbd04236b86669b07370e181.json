@@ -1,0 +1,12 @@
+{
+  "name": "Hardware_Shelf",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Hardware_Shelf/Hardware_Shelf.dat",
+  "data": {
+    "GUID": "64a2e9dafbd04236b86669b07370e181",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Tall Shelf"
+  }
+}

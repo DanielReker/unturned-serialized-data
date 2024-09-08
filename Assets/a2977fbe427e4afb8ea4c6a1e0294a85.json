@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Film_Reel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Props/Buak_Film_Reel/Buak_Film_Reel.dat",
+  "data": {
+    "GUID": "a2977fbe427e4afb8ea4c6a1e0294a85",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Film_Reel"
+  }
+}

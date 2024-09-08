@@ -1,0 +1,33 @@
+{
+  "name": "CA_Swat_Vest_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Vests/CA_Swat_Vest_0/CA_Swat_Vest_0.dat",
+  "data": {
+    "GUID": "b9da11b1a5a148f88467c40a065d4ac8",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "4036",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "2",
+    "Height": "2",
+    "Armor": "0.8",
+    "Armor_Explosion": "0.3",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "4036",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "3",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "67",
+    "Blueprint_1_Supply_0_Amount": "4",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Swat Rig",
+    "Description": "Swat vest providing strong protection against explosives and bullets. Attach pouches to it for extra space."
+  }
+}

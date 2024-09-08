@@ -1,0 +1,19 @@
+{
+  "name": "Unknown Patient",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Unknown Patient/Asset.dat",
+  "data": {
+    "GUID": "c08d2091b4184a63bdafe9cbf5bac697",
+    "Type": "NPC",
+    "ID": "9036",
+    "Pose": "Sit",
+    "Face": "21",
+    "Hair": "3",
+    "Color_Skin": "#6EA082",
+    "Color_Hair": "#BB903A",
+    "Dialogue": "9036"
+  },
+  "translation": {
+    "Name": "Unknown Patient",
+    "Character": "Unknown Patient"
+  }
+}

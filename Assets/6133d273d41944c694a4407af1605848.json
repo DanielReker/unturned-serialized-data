@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Newman_VendComp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Newman/PBS_Newman_VendComp/Asset.dat",
+  "data": {
+    "GUID": "6133d273d41944c694a4407af1605848",
+    "Type": "Dialogue",
+    "ID": "52603",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Nice doin' business."
+  }
+}

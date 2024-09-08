@@ -1,0 +1,11 @@
+{
+  "name": "Metal_Static",
+  "path": "Bundles/Effects/Impacts/Metal_Static/Metal_Static.dat",
+  "data": {
+    "GUID": "8711900d530a4b6fbde89a95768b1b9e",
+    "Type": "Effect",
+    "ID": "12",
+    "Preload": "4"
+  },
+  "translation": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Boulder_XMAS_14",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Scenery/Boulders_XMAS/Buak_Boulder_XMAS_14/Buak_Boulder_XMAS_14.dat",
+  "data": {
+    "GUID": "dce9c89ac65b40d3accc93c8a5caf88c",
+    "Type": "Large",
+    "ID": "25300",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Allow_Structures": "",
+    "Has_Clip_Prefab": "false",
+    "Landmark_Quality": "Off",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Boulder_XMAS_14"
+  }
+}

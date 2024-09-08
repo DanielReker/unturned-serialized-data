@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Donut_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Donut_1/Metro_Donut_1.dat",
+  "data": {
+    "GUID": "8886e01cf6934969bc506afdab8a01f8",
+    "Type": "Spawn",
+    "ID": "57156",
+    "Tables": "1",
+    "Table_0_Asset_ID": "57575",
+    "Table_0_Weight": "200"
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Artillery_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Artillery_0/PS_Artillery_0.dat",
+  "data": {
+    "GUID": "837de3517ed44a959d635fb989a713e9",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60082"
+  },
+  "translation": {
+    "Name": "PS Artillery #1"
+  }
+}

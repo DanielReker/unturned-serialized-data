@@ -1,0 +1,21 @@
+{
+  "name": "gurtrandom",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/ProItems/gurtrandom/gurtrandom.dat",
+  "data": {
+    "GUID": "88e99227c47a473c8c832c18bbc4f97d",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "52019",
+    "Pro": "",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Health": "0",
+    "Master_Bundle_Override": "pbs.masterbundle",
+    "Bundle_Override_Path": "/Items/Supplies/Currency/Grubby_50"
+  },
+  "translation": {
+    "Name": "Random Item for 50 GRB",
+    "Description": "gurt give cool item gurt find"
+  }
+}

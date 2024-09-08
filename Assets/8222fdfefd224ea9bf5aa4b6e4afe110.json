@@ -1,0 +1,21 @@
+{
+  "name": "PS_Medbox_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Medbox_0/PS_Medbox_0.dat",
+  "data": {
+    "GUID": "8222fdfefd224ea9bf5aa4b6e4afe110",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59068",
+    "Interactability": "Dropper",
+    "Interactability_Delay": "600",
+    "Interactability_Hint": "Custom",
+    "Interactability_Reward_ID": "59004",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Event",
+    "Interactability_Reward_0_ID": "Open"
+  },
+  "translation": {
+    "Name": "PS Medbox #1",
+    "Interact": "Search [{0}]"
+  }
+}

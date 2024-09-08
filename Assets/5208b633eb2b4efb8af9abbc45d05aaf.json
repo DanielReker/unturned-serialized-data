@@ -1,0 +1,18 @@
+{
+  "name": "Metro_Alarm_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Small/Metro_Alarm_1/Metro_Alarm_1.dat",
+  "data": {
+    "GUID": "5208b633eb2b4efb8af9abbc45d05aaf",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57351",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "1",
+    "Interactability_Effect": "64",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Alarm #2"
+  }
+}

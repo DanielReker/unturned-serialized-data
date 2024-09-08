@@ -1,0 +1,29 @@
+{
+  "name": "FirstLove_00_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_02/FirstLove_00_Welcome/Asset.dat",
+  "data": {
+    "GUID": "1e39e64d2e924799af3b601d508432e5",
+    "Type": "Dialogue",
+    "ID": "24587",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Message_0_FaceOverride": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "6c566e1b8b394a4abe238bfc2824a582",
+    "Response_0_Quest": "b72f2508194f4eec8f220d1ce0ddc721",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "b72f2508194f4eec8f220d1ce0ddc721",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "b72f2508194f4eec8f220d1ce0ddc721"
+  },
+  "translation": {
+    "Message_0_Page_0": "Help? Yeah, though can you keep it between us? I need you to grab a few things. For starters though, could you find a small black box?",
+    "Message_0_Page_1": "It should be on some shelf in factory building 1, I don't quite remember which one though.",
+    "Response_0": "Sure thing!",
+    "Response_1": "Not now."
+  }
+}

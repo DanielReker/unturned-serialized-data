@@ -1,0 +1,13 @@
+{
+  "name": "Buak_MushGreen",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_MushGreen/Buak_MushGreen.dat",
+  "data": {
+    "GUID": "1e0af72cd80c49508e7b7dd375bb339f",
+    "Type": "Spawn",
+    "ID": "25474",
+    "Tables": "1",
+    "Table_0_Asset_ID": "27826",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

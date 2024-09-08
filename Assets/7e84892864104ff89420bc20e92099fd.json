@@ -1,0 +1,16 @@
+{
+  "name": "Buak_Cargo_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_Cargo_00/Buak_Cargo_00.dat",
+  "data": {
+    "GUID": "7e84892864104ff89420bc20e92099fd",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "LOD": "Area",
+    "Exclude_From_Culling_Volumes": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Cargo_00"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Volcano_Rat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Animals/Volcano_Rat/Volcano_Rat.dat",
+  "data": {
+    "GUID": "562717ce50594a6da788aee6f80f04a5",
+    "Type": "Animal",
+    "ID": "6606",
+    "Speed_Run": "8",
+    "Speed_Walk": "2",
+    "Behaviour": "Ignore",
+    "Health": "35",
+    "Reward_ID": "6673",
+    "Reward_XP": "10",
+    "Reward_Min": "1",
+    "Reward_Max": "3",
+    "Panics": "3"
+  },
+  "translation": {
+    "Name": "Volcano Rat"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "PS_Round_Glasses_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Glasses/PS_Round_Glasses_0/PS_Round_Glasses_0.dat",
+  "data": {
+    "GUID": "82bc7eeaf31e4edcaeeeb0a1cfb82ad6",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "59524",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.175",
+    "Hair": "",
+    "Beard": ""
+  },
+  "translation": {
+    "Name": "Round Glasses",
+    "Description": "Classy."
+  }
+}

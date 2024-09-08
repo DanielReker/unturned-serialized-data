@@ -1,0 +1,14 @@
+{
+  "name": "Tee_Spark",
+  "path": "Bundles/Items/Shirts/Tee_Spark/Tee_Spark.dat",
+  "data": {
+    "GUID": "87119e549ca14368b10fda771f74f6d0",
+    "Type": "Shirt",
+    "ID": "525",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Pro": ""
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Captain_3_sergeant",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Crew/Captain_Fabricio/Captain_3_sergeant/Asset.dat",
+  "data": {
+    "GUID": "f9b4b2d814f14fc89e9b28825a88856b",
+    "Type": "Dialogue",
+    "ID": "9119",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Your efforts in the amount of time on the force has been eye-catching, and the NAM couldn't be more grateful, and neither could I be. Good work, <color=epic>Sergeant <name_char></color>."
+  }
+}

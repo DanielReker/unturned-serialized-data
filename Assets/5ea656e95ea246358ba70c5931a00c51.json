@@ -1,0 +1,16 @@
+{
+  "name": "Rio_Decal_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Decals/Rio_Decal_7/Rio_Decal_7.dat",
+  "data": {
+    "GUID": "5ea656e95ea246358ba70c5931a00c51",
+    "Type": "Decal",
+    "ID": "7200",
+    "Decal_X": "8",
+    "Decal_Y": "4",
+    "Decal_LOD_Bias": "1",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Decal #7"
+  }
+}

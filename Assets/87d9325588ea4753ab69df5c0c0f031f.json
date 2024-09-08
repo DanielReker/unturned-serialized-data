@@ -1,0 +1,12 @@
+{
+  "name": "Jetski_Orange",
+  "path": "Bundles/Vehicles/Redirectors/Jetski/Jetski_Orange.asset",
+  "data": {
+    "GUID": "87d9325588ea4753ab69df5c0c0f031f",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "101",
+    "TargetVehicle": "66261510c9b04cbab68fd28789122632",
+    "LoadPaintColor": "#bd6e27"
+  },
+  "translation": null
+}

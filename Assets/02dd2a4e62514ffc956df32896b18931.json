@@ -1,0 +1,20 @@
+{
+  "name": "PS_Exit_Door_06",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Exit_Door_06/PS_Exit_Door_06.dat",
+  "data": {
+    "GUID": "02dd2a4e62514ffc956df32896b18931",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59617",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/PS_Exit_Door_00",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "EXIT_DESERT_0"
+  },
+  "translation": {
+    "Name": "PS Exit Door #7 [AG17 Exit to Desert]",
+    "Interact": "Exit to Desert [{0}]"
+  }
+}

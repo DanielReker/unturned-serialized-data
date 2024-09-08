@@ -1,0 +1,13 @@
+{
+  "name": "BE Barracks #1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Barracks #1/BE Barracks #1.dat",
+  "data": {
+    "GUID": "13009ea3db26435193f5700872d61d73",
+    "Type": "Large",
+    "ID": "9056",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Barracks #1"
+  }
+}

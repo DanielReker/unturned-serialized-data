@@ -1,0 +1,14 @@
+{
+  "name": "Giles_Snack_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Military/Cafeteria_Giles/Giles_Snack_Completed/Asset.dat",
+  "data": {
+    "GUID": "c2ebb0da084b4823960674103bfd721c",
+    "Type": "Dialogue",
+    "ID": "3632",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I haven't had these in quite some time, thank you! Here, have some of my chewing gum. It has a rather explosive flavor, so be careful."
+  }
+}

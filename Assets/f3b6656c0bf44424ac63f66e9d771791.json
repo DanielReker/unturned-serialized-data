@@ -1,0 +1,19 @@
+{
+  "name": "Imran_Buy_Shop",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military Soldier Imran/Imran_Buy_Shop/Asset.dat",
+  "data": {
+    "GUID": "f3b6656c0bf44424ac63f66e9d771791",
+    "Type": "Dialogue",
+    "ID": "9050",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "9048",
+    "Response_1_Dialogue": "9048"
+  },
+  "translation": {
+    "Message_0_Page_0": "I hope you were able to find something you liked!",
+    "Response_0": "Oh yes I did!",
+    "Response_1": "I'll be back!"
+  }
+}

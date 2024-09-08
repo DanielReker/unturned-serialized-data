@@ -1,0 +1,16 @@
+{
+  "name": "Engineer_Materials_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Workshop_Military/Engineer_Materials_Accepted/Asset.dat",
+  "data": {
+    "GUID": "a624dc44b32446af9762504b71e8a861",
+    "Type": "Dialogue",
+    "ID": "3165",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I doubt it will be a challenge for someone like you.",
+    "Response_0": "Of course not, I do it all the time!"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Frost_Construction_Clothes_Pants",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Spawns/Spawns/Frost_Construction_Clothes_Pants/Frost_Construction_Clothes_Pants.dat",
+  "data": {
+    "GUID": "1059d5bc675d4c109137f5db3ecf4855",
+    "Type": "Spawn",
+    "ID": "36066",
+    "Tables": "2",
+    "Table_0_Asset_ID": "36174",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "36176",
+    "Table_1_Weight": "10"
+  },
+  "translation": null
+}

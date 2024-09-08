@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Stadium_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Stadium_2/Rio_Stadium_2.dat",
+  "data": {
+    "GUID": "56f165457733448b8b5aaeec3fa8c1d4",
+    "Type": "Medium",
+    "ID": "6057",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Stadium #2"
+  }
+}

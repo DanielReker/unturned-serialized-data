@@ -1,0 +1,15 @@
+{
+  "name": "Hawaii_Junkyard",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Vehicles/Hawaii_Junkyard/Hawaii_Junkyard.dat",
+  "data": {
+    "GUID": "351a6ed9826743e8a9f886c56bc9f6eb",
+    "Type": "Spawn",
+    "ID": "892",
+    "Tables": "2",
+    "Table_0_Asset_ID": "842",
+    "Table_0_Weight": "30",
+    "Table_1_Asset_ID": "844",
+    "Table_1_Weight": "30"
+  },
+  "translation": null
+}

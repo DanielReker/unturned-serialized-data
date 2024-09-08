@@ -1,0 +1,172 @@
+{
+  "name": "Buak_Armory",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Armory/Buak_Armory.dat",
+  "data": {
+    "GUID": "364080ce6c92408a8c11836d50fffd63",
+    "Type": "Spawn",
+    "ID": "25402",
+    "Tables": [
+      {
+        "LegacyAssetId": "25514",
+        "Weight": "400"
+      },
+      {
+        "LegacyAssetId": "25516",
+        "Weight": "400"
+      },
+      {
+        "LegacyAssetId": "25522",
+        "Weight": "350"
+      },
+      {
+        "LegacyAssetId": "25520",
+        "Weight": "350"
+      },
+      {
+        "LegacyAssetId": "25518",
+        "Weight": "350"
+      },
+      {
+        "LegacyAssetId": "25507",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25512",
+        "Weight": "150"
+      },
+      {
+        "LegacyAssetId": "25486",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25498",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25485",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25505",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26803",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26706",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25499",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25504",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25484",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25469",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25500",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25411",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25496",
+        "Weight": "40"
+      },
+      {
+        "LegacyAssetId": "25494",
+        "Weight": "40"
+      },
+      {
+        "LegacyAssetId": "25495",
+        "Weight": "40"
+      },
+      {
+        "LegacyAssetId": "25467",
+        "Weight": "40"
+      },
+      {
+        "LegacyAssetId": "25468",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "25463",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "25464",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "25462",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "25526",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25517",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25515",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25502",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25503",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "26958",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "25521",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "25519",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "25523",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "25527",
+        "Weight": "8"
+      },
+      {
+        "LegacyAssetId": "25413",
+        "Weight": "8"
+      },
+      {
+        "LegacyAssetId": "25412",
+        "Weight": "8"
+      },
+      {
+        "LegacyAssetId": "25471",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

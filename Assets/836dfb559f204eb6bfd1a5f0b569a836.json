@@ -1,0 +1,12 @@
+{
+  "name": "Policetruck",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Policetruck/Policetruck.dat",
+  "data": {
+    "GUID": "836dfb559f204eb6bfd1a5f0b569a836",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Police truck"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Fire_Captain",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Vehicles/Hawaii/Fire_Captain/Fire_Captain.dat",
+  "data": {
+    "GUID": "3ef8f7e501744c83a683972de55c3ff5",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon",
+    "ID": "805",
+    "Speed_Min": "-6.5",
+    "Speed_Max": "15.5",
+    "Steer_Min": "14",
+    "Steer_Max": "28",
+    "Brake": "32",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "2000",
+    "Health_Min": "400",
+    "Health_Max": "500",
+    "Health": "600",
+    "Traction": "",
+    "Explosion": "20",
+    "Trunk_Storage_X": "4",
+    "Trunk_Storage_Y": "2",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Fire Chief"
+  }
+}

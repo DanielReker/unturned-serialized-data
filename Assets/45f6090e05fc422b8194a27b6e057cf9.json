@@ -1,0 +1,37 @@
+{
+  "name": "Buak_Stone_00_Material",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Landscapes/Materials/Buak_Stone_00_Material.asset",
+  "data": {
+    "GUID": "45f6090e05fc422b8194a27b6e057cf9",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "buak.masterbundle",
+      "Path": "Materials/Buak_Stone_00.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "GRAVEL_STATIC",
+    "Foliage": {
+      "GUID": "9b9e294331544ff7b8c78991e624236e"
+    },
+    "Christmas_Redirect": {
+      "GUID": "00000000000000000000000000000000"
+    },
+    "Halloween_Redirect": {
+      "GUID": "00000000000000000000000000000000"
+    },
+    "Use_Auto_Slope": "true",
+    "Auto_Min_Angle_Begin": "30",
+    "Auto_Min_Angle_End": "24",
+    "Auto_Max_Angle_Begin": "100",
+    "Auto_Max_Angle_End": "120",
+    "Use_Auto_Foundation": "false",
+    "Auto_Ray_Radius": "0",
+    "Auto_Ray_Length": "0",
+    "Auto_Ray_Mask": "0"
+  },
+  "translation": null
+}

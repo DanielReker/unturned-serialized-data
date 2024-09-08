@@ -1,0 +1,40 @@
+{
+  "name": "Ibrahim_Verraad",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Quests/Ibrahim_Verraad/Asset.dat",
+  "data": {
+    "GUID": "f1e68b3ff07e4606896737893c0c0973",
+    "Type": "Quest",
+    "ID": "9129",
+    "Conditions": "3",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "1036",
+    "Condition_0_Amount": "3",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "9130",
+    "Condition_1_Value": "True",
+    "Condition_1_Logic": "Equal",
+    "Condition_2_Type": "Flag_Bool",
+    "Condition_2_ID": "9131",
+    "Condition_2_Value": "True",
+    "Condition_2_Logic": "Equal",
+    "Rewards": "4",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "20",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "-20",
+    "Reward_2_Type": "Item ",
+    "Reward_2_ID": "1379",
+    "Reward_2_Amount": "1",
+    "Reward_3_Type": "Item ",
+    "Reward_3_ID": "119",
+    "Reward_3_Amount": "1"
+  },
+  "translation": {
+    "Name": "<color=legendary>Verraad</color>",
+    "Description": "I need the BXZ Sample so we are able to take the credit for saving the world. If things go astray we need to figure out when they are evacuating people. We are formulating the plan the final details as we speak, so we will need as many weapons as possible.",
+    "Condition_0": "Find {0}/{1} Katanas",
+    "Condition_1": "Find {0}/1 Evacuation Schedule",
+    "Condition_2": "Find {0}/1 BXZ Sample"
+  }
+}

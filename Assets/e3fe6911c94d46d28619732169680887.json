@@ -1,0 +1,14 @@
+{
+  "name": "26231KEHC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26210KEHD/26230KEHC/26231KEHC/Asset.dat",
+  "data": {
+    "GUID": "e3fe6911c94d46d28619732169680887",
+    "Type": "Dialogue",
+    "ID": "26231",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Here you go."
+  }
+}

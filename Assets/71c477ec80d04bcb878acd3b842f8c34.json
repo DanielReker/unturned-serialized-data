@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Microwave",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Furniture/Buak_Microwave/Buak_Microwave.dat",
+  "data": {
+    "GUID": "71c477ec80d04bcb878acd3b842f8c34",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "600",
+    "Rubble_Health": "4",
+    "Rubble_Effect": "25549",
+    "Rubble_Reward_ID": "25377",
+    "Rubble_Reward_Probability": "0.5"
+  },
+  "translation": {
+    "Name": "Buak_Microwave"
+  }
+}

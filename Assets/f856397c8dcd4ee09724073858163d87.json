@@ -1,0 +1,34 @@
+{
+  "name": "Metro_Planter",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Farming/Metro_Planter/Metro_Planter.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "f856397c8dcd4ee09724073858163d87",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "57188",
+    "Size_X": "2",
+    "Health": "100",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "0.5",
+    "Explosion": "19",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "63",
+    "Blueprint_0_Supply_0_Amount": "3",
+    "Blueprint_0_Supply_1_ID": "57187",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Planter",
+    "Description": "Allows for the planting of <color=#64c819>Seeds</color>"
+  }
+}

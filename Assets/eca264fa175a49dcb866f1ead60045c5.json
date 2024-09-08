@@ -1,0 +1,15 @@
+{
+  "name": "HayBale_3",
+  "path": "Bundles/Objects/Medium/Parks/HayBale_3/HayBale_3.dat",
+  "data": {
+    "GUID": "eca264fa175a49dcb866f1ead60045c5",
+    "Type": "Medium",
+    "ID": "516",
+    "Snowshoe": "",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Russia HayBale #2"
+  }
+}

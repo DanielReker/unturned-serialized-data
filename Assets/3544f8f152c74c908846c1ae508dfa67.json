@@ -1,0 +1,16 @@
+{
+  "name": "Buak_Lumber_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Props/Buak_Lumber_01/Buak_Lumber_01.dat",
+  "data": {
+    "GUID": "3544f8f152c74c908846c1ae508dfa67",
+    "Type": "Large",
+    "ID": "25300",
+    "Material_Palette": "2f2b61cfc6e1434d89d9aaf7cdf3ff78",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Lumber_01"
+  }
+}

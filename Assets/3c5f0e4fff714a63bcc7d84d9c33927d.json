@@ -1,0 +1,17 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Alexander/Alexander_01/Welcome/Asset.dat",
+  "data": {
+    "GUID": "3c5f0e4fff714a63bcc7d84d9c33927d",
+    "Type": "Dialogue",
+    "ID": "24127",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Howdy.",
+    "Response_0": "Howdy!",
+    "Response_1": "Goodbye."
+  }
+}

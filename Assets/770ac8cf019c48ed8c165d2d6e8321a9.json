@@ -1,0 +1,28 @@
+{
+  "name": "Metro_KeyD_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Metro_KeyD_3/Metro_KeyD_3.dat",
+  "data": {
+    "GUID": "770ac8cf019c48ed8c165d2d6e8321a9",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57658",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "58007",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "58007",
+    "Interactability_Reward_0_Value": "True",
+    "Master_Bundle_Override": "metro.masterbundle",
+    "Bundle_Override_Path": "/Objects/Quest/NPC/Final/Metro_Key_0"
+  },
+  "translation": {
+    "Name": "Metro Door Key #4",
+    "Interact": "Pickup Key [{0}]"
+  }
+}

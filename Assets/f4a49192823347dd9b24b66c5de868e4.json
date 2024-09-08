@@ -1,0 +1,14 @@
+{
+  "name": "IR_Roof_Detalis_0_Clothes",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Roof_Detalis_0_Clothes/IR_Roof_Detalis_0_Clothes.dat",
+  "data": {
+    "GUID": "f4a49192823347dd9b24b66c5de868e4",
+    "Type": "Large",
+    "ID": "18815",
+    "Material_Palette": "b3579a85553e4023b811881ee3368121",
+    "Bundle_Override_Path": "/Objects/Large/Buildings/IR_Roof_Detalis_0"
+  },
+  "translation": {
+    "Name": "Irish Roof Detail# 1 ( Clothes )"
+  }
+}

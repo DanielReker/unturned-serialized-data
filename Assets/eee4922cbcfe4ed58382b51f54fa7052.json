@@ -1,0 +1,13 @@
+{
+  "name": "BE Apartment #1 Grey",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Apartment #1 Grey/BE Apartment #1 Grey.dat",
+  "data": {
+    "GUID": "eee4922cbcfe4ed58382b51f54fa7052",
+    "Type": "Large",
+    "ID": "9001",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Apartment #1 Grey"
+  }
+}

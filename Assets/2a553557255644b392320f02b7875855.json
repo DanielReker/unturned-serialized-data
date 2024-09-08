@@ -1,0 +1,25 @@
+{
+  "name": "Buak_Node_Iron",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Node_Iron/Buak_Node_Iron.dat",
+  "data": {
+    "GUID": "2a553557255644b392320f02b7875855",
+    "Type": "Spawn",
+    "ID": "25312",
+    "Tables": "7",
+    "Table_0_Asset_ID": "25325",
+    "Table_0_Weight": "1000",
+    "Table_1_Asset_ID": "25318",
+    "Table_1_Weight": "100",
+    "Table_2_Asset_ID": "25345",
+    "Table_2_Weight": "80",
+    "Table_3_Asset_ID": "25351",
+    "Table_3_Weight": "35",
+    "Table_4_Asset_ID": "25343",
+    "Table_4_Weight": "35",
+    "Table_5_Asset_ID": "25340",
+    "Table_5_Weight": "2",
+    "Table_6_Asset_ID": "25348",
+    "Table_6_Weight": "1"
+  },
+  "translation": null
+}

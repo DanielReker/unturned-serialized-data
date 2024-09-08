@@ -1,0 +1,10 @@
+{
+  "name": "Classic_Rucksack",
+  "path": "Bundles/Items/Anniversary_10/Classic_Rucksack/Classic_Rucksack.dat",
+  "data": {
+    "GUID": "0236a768907c4fed8d53033104a28905",
+    "Type": "Backpack",
+    "Pro": ""
+  },
+  "translation": null
+}

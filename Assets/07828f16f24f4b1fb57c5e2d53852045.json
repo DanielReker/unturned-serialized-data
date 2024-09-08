@@ -1,0 +1,13 @@
+{
+  "name": "California_Special_Low_Guns",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_Special_Low_Guns/California_Special_Low_Guns.dat",
+  "data": {
+    "GUID": "07828f16f24f4b1fb57c5e2d53852045",
+    "Type": "Spawn",
+    "ID": "4389",
+    "Tables": "1",
+    "Table_0_Asset_ID": "4069",
+    "Table_0_Weight": "33"
+  },
+  "translation": null
+}

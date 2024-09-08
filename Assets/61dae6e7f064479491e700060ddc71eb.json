@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Cushin",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Cushin/Obj_Cushin.dat",
+  "data": {
+    "GUID": "61dae6e7f064479491e700060ddc71eb",
+    "Type": "Effect",
+    "ID": "25326"
+  },
+  "translation": null
+}

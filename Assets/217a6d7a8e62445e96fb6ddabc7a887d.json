@@ -1,0 +1,31 @@
+{
+  "name": "Olive_Oil_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Quests/Military/Cafeteria/Olive_Oil_0/Asset.dat",
+  "data": {
+    "GUID": "217a6d7a8e62445e96fb6ddabc7a887d",
+    "Type": "Quest",
+    "ID": "3045",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3048",
+    "Condition_0_Value": "3",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "3",
+    "Reward_0_Type": "Reputation",
+    "Reward_0_Value": "5",
+    "Reward_1_Type": "Experience",
+    "Reward_1_Value": "25",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "3030",
+    "Reward_2_Value": "2",
+    "Reward_2_Modification": "Increment",
+    "Reward_3_Type": "Item",
+    "Reward_3_ID": "13",
+    "Reward_3_Amount": "1"
+  },
+  "translation": {
+    "Name": "Resupplier II",
+    "Description": "The Cafeteria is in drastic need of some olive oil, you've been sent to find it at the nearby farms.",
+    "Condition_0": "Retrieve Olive Oil {0}/{1}"
+  }
+}

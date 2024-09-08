@@ -1,0 +1,16 @@
+{
+  "name": "GreekGas_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreekGas_4/GreekGas_4.dat",
+  "data": {
+    "GUID": "32a6485f3bb4471b8bb745f38f21f593",
+    "Type": "Medium",
+    "ID": "3505",
+    "Interactability": "Fuel",
+    "Interactability_Reset": "1500",
+    "Interactability_Resource": "2500",
+    "Material_Palette": "8acb4b496d07408d9627c9acf7d6e0f6"
+  },
+  "translation": {
+    "Name": "Greece Gas Pump #2"
+  }
+}

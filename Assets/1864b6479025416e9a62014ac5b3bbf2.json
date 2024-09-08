@@ -1,0 +1,24 @@
+{
+  "name": "Irish_Coffe",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Items/Water/Irish_Coffe/Irish_Coffe.dat",
+  "data": {
+    "GUID": "1864b6479025416e9a62014ac5b3bbf2",
+    "Type": "Water",
+    "Useable": "Consumeable",
+    "ID": "15101",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.4",
+    "Water": "55",
+    "Energy": "75",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "392",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Bottled Coffee",
+    "Description": "What’s sleep?"
+  }
+}

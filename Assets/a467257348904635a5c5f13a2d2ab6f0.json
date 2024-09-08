@@ -1,0 +1,32 @@
+{
+  "name": "Recon_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Recon/Recon_Welcome/Asset.dat",
+  "data": {
+    "GUID": "a467257348904635a5c5f13a2d2ab6f0",
+    "Type": "Dialogue",
+    "ID": "5151",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "5152",
+    "Response_0_Conditions": "2",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "5180",
+    "Response_0_Condition_0_Status": "Active",
+    "Response_0_Condition_1_Type": "Flag_Bool",
+    "Response_0_Condition_1_ID": "5181",
+    "Response_0_Condition_1_Value": "False",
+    "Response_0_Condition_1_Logic": "Equal",
+    "Response_0_Condition_1_Allow_Unset": "",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Flag_Bool",
+    "Response_0_Reward_0_ID": "5181",
+    "Response_0_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Message_0_Page_0": "Who are you and what are you doing here?!",
+    "Response_0": "Dmitry Davydov asked to know the situation.",
+    "Response_1": "Sorry I'm leaving."
+  }
+}

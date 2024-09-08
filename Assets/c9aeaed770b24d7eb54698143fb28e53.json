@@ -1,0 +1,20 @@
+{
+  "name": "ConstructionRefinery",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Construction/ConstructionRefinery/ConstructionRefinery.dat",
+  "data": {
+    "GUID": "c9aeaed770b24d7eb54698143fb28e53",
+    "Type": "Spawn",
+    "ID": "51066",
+    "Tables": [
+      {
+        "Guid": "138ce4f539e741d8a5a5b20dd4e04f70",
+        "Weight": "95"
+      },
+      {
+        "Guid": "3a2c0cdeb2f74773b85da9655f9093e7",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

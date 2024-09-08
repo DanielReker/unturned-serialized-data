@@ -1,0 +1,12 @@
+{
+  "name": "CA_Counter_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Counter_2/CA_Counter_2.dat",
+  "data": {
+    "GUID": "aa0f5022b08743fdbff8168b0310b5dd",
+    "Type": "Medium",
+    "ID": "4446"
+  },
+  "translation": {
+    "Name": "California Counter #3"
+  }
+}

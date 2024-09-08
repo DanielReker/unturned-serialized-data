@@ -1,0 +1,16 @@
+{
+  "name": "Cat2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/Cat2/Cat2.dat",
+  "data": {
+    "GUID": "6d7a7eccb2c0444d9e4d2b7c43d3eaf8",
+    "Type": "Spawn",
+    "ID": "51217",
+    "Tables": [
+      {
+        "Guid": "b2690f6a631940a385fdd58bc9a1fd1b",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,43 @@
+{
+  "name": "BarbedWireFence",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/BarbedWireFence/BarbedWireFence.dat",
+  "data": {
+    "GUID": "f3e286a5fd894acd84bfda3767805643",
+    "Type": "Trap",
+    "Rarity": "Uncommon",
+    "Useable": "Barricade",
+    "Build": "Wire",
+    "ID": "51656",
+    "PlacementPreviewPrefab": "Items/Barricades/BarbedWireFence/Placement.prefab",
+    "SalvageItem": "f3e286a5fd894acd84bfda3767805643",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Health": "300",
+    "Range": "4",
+    "Radius": "0.15",
+    "Offset": "1",
+    "Player_Damage": "45",
+    "Zombie_Damage": "90",
+    "Animal_Damage": "90",
+    "Explosion": "36",
+    "Vulnerable": "",
+    "Unrepairable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "51018",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Supply_1_ID": "51023",
+    "Blueprint_0_Supply_1_Amount": "4",
+    "Blueprint_0_Tool": "51056",
+    "Blueprint_0_Tool_Critical": "",
+    "Blueprint_0_Build": "27",
+    "Has_Clip_Prefab": "false",
+    "Allow_Placement_On_Vehicle": "False"
+  },
+  "translation": {
+    "Name": "Concertina Wire",
+    "Description": "Large mass of spiky and pointy wire."
+  }
+}

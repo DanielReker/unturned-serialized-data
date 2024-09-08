@@ -1,0 +1,22 @@
+{
+  "name": "PBS_Arthur",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Arthur/Asset.dat",
+  "data": {
+    "GUID": "15186a144ca7437ea5d0830cab294d30",
+    "Type": "NPC",
+    "ID": "52260",
+    "Hat": "896",
+    "Shirt": "51193",
+    "Face": "4",
+    "Hair": "0",
+    "Beard": "1",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#352C22",
+    "Secondary": "51201",
+    "Dialogue": "52261"
+  },
+  "translation": {
+    "Name": "PBS NPC Arthur",
+    "Character": "Arthur"
+  }
+}

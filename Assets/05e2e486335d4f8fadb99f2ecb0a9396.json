@@ -1,0 +1,29 @@
+{
+  "name": "Buggy_Black",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Vehicles/Hawaii/Buggy_Black/Buggy_Black.dat",
+  "data": {
+    "GUID": "05e2e486335d4f8fadb99f2ecb0a9396",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon",
+    "ID": "821",
+    "Speed_Min": "-6",
+    "Speed_Max": "14",
+    "Steer_Min": "24",
+    "Steer_Max": "48",
+    "Brake": "32",
+    "Fuel_Min": "100",
+    "Fuel_Max": "200",
+    "Fuel": "400",
+    "Health_Min": "200",
+    "Health_Max": "300",
+    "Health": "500",
+    "Explosion": "20",
+    "Trunk_Storage_X": "4",
+    "Trunk_Storage_Y": "2",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Black Dune Buggy"
+  }
+}

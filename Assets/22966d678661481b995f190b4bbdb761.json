@@ -1,0 +1,22 @@
+{
+  "name": "Metro_Door_Red",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/Metro_Door_Red/Metro_Door_Red.dat",
+  "data": {
+    "GUID": "22966d678661481b995f190b4bbdb761",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57105",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "57000",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability": "Binary_State",
+    "Interactability_Delay": "2",
+    "Interactability_Hint": "Use"
+  },
+  "translation": {
+    "Name": "Metro Door [RED]",
+    "Interactability_Condition_0": "Missing Red Keycard"
+  }
+}

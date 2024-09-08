@@ -1,0 +1,14 @@
+{
+  "name": "HawaiiFishRack_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiFishRack_0/HawaiiFishRack_0.dat",
+  "data": {
+    "GUID": "d3ad311059bf479eb36d9eee06402df8",
+    "Type": "Medium",
+    "ID": "814",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hawaii Small Fish Rack"
+  }
+}

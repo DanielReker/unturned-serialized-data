@@ -1,0 +1,31 @@
+{
+  "name": "Fire_Hawaii",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Vehicles/Hawaii/Fire_Hawaii/Fire_Hawaii.dat",
+  "data": {
+    "GUID": "d157cec601a94378be04af2f10032837",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon",
+    "ID": "804",
+    "Speed_Min": "-6",
+    "Speed_Max": "14.5",
+    "Steer_Min": "24",
+    "Steer_Max": "48",
+    "Brake": "32",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "2250",
+    "Health_Min": "500",
+    "Health_Max": "600",
+    "Health": "700",
+    "Traction": "",
+    "Explosion": "20",
+    "Trunk_Storage_X": "4",
+    "Trunk_Storage_Y": "2",
+    "Tires_Invulnerable": "",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Fire Tanker"
+  }
+}

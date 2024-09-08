@@ -1,0 +1,13 @@
+{
+  "name": "PS_Bus_Stop_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Bus_Stop_2/PS_Bus_Stop_2.dat",
+  "data": {
+    "GUID": "94d4dbf17e5a4fcd975ea70ab442e915",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60141"
+  },
+  "translation": {
+    "Name": "PS Bus Stop #3"
+  }
+}

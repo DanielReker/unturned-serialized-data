@@ -1,0 +1,13 @@
+{
+  "name": "France_Military_Low_France",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Vehicles/France_Military_Low_France/France_Military_Low_France.dat",
+  "data": {
+    "GUID": "25bb12fc10cf4f2fa87bb7095468860e",
+    "Type": "Spawn",
+    "ID": "2042",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "2041",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

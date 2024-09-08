@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Sign_Exit_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Props/Buak_Sign_Exit_00/Buak_Sign_Exit_00.dat",
+  "data": {
+    "GUID": "cffbcc96a55c472ab28319e2636f050c",
+    "Type": "Small",
+    "ID": "25300",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "600",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "25470",
+    "Rubble_Reward_ID": "25320",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Sign_Exit_00"
+  }
+}

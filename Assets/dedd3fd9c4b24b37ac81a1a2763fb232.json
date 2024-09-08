@@ -1,0 +1,13 @@
+{
+  "name": "PEI_Construction",
+  "path": "Bundles/Spawns/Items/PEI_Construction/PEI_Construction.dat",
+  "data": {
+    "GUID": "dedd3fd9c4b24b37ac81a1a2763fb232",
+    "Type": "Spawn",
+    "ID": "168",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "169",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

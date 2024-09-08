@@ -1,0 +1,20 @@
+{
+  "name": "Rio_Computer_Note_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Rio_Computer_Note_0/Rio_Computer_Note_0.dat",
+  "data": {
+    "GUID": "3085427ff8a04220828905acbfe1e11e",
+    "Type": "Medium",
+    "ID": "6118",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "4",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Computer - Relatory #1",
+    "Interactability_Text_Line_0": "Zombie Prevention Department",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "02/01/2017 - Due to the new year, most of the people in the facility stopped working for a while, but now we are back to work and we believe that we got some progress on the cure. Analysing the \"Horde Beacon\", made by the group \"ZE\", we found some chemicals that seens to interact with the virus in a very peculiar way. Unfortunately, due to an accident, we've lost most of the chemicals obtained from the horde beacon, making it harder to make further researches.",
+    "Interactability_Text_Line_3": "Doctor Paulo."
+  }
+}

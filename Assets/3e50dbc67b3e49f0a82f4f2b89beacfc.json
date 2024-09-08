@@ -1,0 +1,13 @@
+{
+  "name": "Bedroll_Green",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Bedroll_Green/Bedroll_Green.dat",
+  "data": {
+    "GUID": "3e50dbc67b3e49f0a82f4f2b89beacfc",
+    "Type": "Spawn",
+    "ID": "25324",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25854",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Alia_Comp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Alia/PBS_Alia_Comp/Asset.dat",
+  "data": {
+    "GUID": "7c7696b56a21497098e130cef736a037",
+    "Type": "Dialogue",
+    "ID": "52473",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Back to work! Can I join you? I need to work too. Can't stop working."
+  }
+}

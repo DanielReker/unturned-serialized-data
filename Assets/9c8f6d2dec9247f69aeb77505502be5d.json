@@ -1,0 +1,18 @@
+{
+  "name": "Unknown_Patient_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Unknown Patient/Unknown_Patient_Welcome/Asset.dat",
+  "data": {
+    "GUID": "9c8f6d2dec9247f69aeb77505502be5d",
+    "Type": "Dialogue",
+    "ID": "9036",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "9037"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm.<pause> <pause>I actually can't remember...",
+    "Response_0": "Are you okay?",
+    "Response_1": "Oh, well I better get going then."
+  }
+}

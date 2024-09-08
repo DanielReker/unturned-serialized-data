@@ -1,0 +1,17 @@
+{
+  "name": "Alexander_Question_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Alexander/Alexander_04/Alexander_Question_00/Asset.dat",
+  "data": {
+    "GUID": "60f4f7e182cb47b990d8ee4727fed8f4",
+    "Type": "Dialogue",
+    "ID": "24061",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "20",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Going great! Nearly have this nailed in properly!",
+    "Response_0": "Good to know!"
+  }
+}

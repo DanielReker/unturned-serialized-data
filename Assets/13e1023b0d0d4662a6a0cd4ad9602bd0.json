@@ -1,0 +1,14 @@
+{
+  "name": "25312KMSC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/253 RG/25310KMSD/25312KMSC/Asset.dat",
+  "data": {
+    "GUID": "13e1023b0d0d4662a6a0cd4ad9602bd0",
+    "Type": "Dialogue",
+    "ID": "25312",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I will take these tips to heart. Thank you very much, <name_char>."
+  }
+}

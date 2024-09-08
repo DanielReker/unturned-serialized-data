@@ -1,0 +1,38 @@
+{
+  "name": "Metro_Civ_Black",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Vehicles/Metro_Civ_Black/Metro_Civ_Black.dat",
+  "data": {
+    "GUID": "4c25e37da43749b8a028ce957d385d0a",
+    "Type": "Vehicle",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Rare",
+    "ID": "57015",
+    "Speed_Min": "-12",
+    "Speed_Max": "22",
+    "Steer_Min": "32",
+    "Steer_Max": "38",
+    "Brake": "32",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "1500",
+    "Health_Min": "350",
+    "Health_Max": "450",
+    "Health": "600",
+    "Wheel_Collider_Mass_Override": "9",
+    "Trunk_Storage_X": "5",
+    "Trunk_Storage_Y": "4",
+    "Explosion": "20",
+    "Physics_Profile": "ece2cc1ec6ea45e385a3c133641c7f16",
+    "Can_Be_Locked": "False",
+    "Tires_Invulnerable": "",
+    "BatteryMode_Headlights": "Charging",
+    "BatteryMode_Sirens": "Charging",
+    "Can_Steal_Battery": "False",
+    "BatteryMode_Driving": "Charging",
+    "BatteryMode_Empty": "Charging",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Black Beeb"
+  }
+}

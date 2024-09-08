@@ -1,0 +1,17 @@
+{
+  "name": "Oil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/CraftingSupplies/Oil/Oil.dat",
+  "data": {
+    "GUID": "3a2c0cdeb2f74773b85da9655f9093e7",
+    "Type": "Supply",
+    "ID": "51949",
+    "Rarity": "Rare",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5"
+  },
+  "translation": {
+    "Name": "Refined Oil",
+    "Description": "Separated high quality oil."
+  }
+}

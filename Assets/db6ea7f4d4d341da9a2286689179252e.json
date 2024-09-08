@@ -1,0 +1,13 @@
+{
+  "name": "Reactor_Fuel_Rods",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Utilities/Reactor_Fuel_Rods/Reactor_Fuel_Rods.dat",
+  "data": {
+    "GUID": "db6ea7f4d4d341da9a2286689179252e",
+    "Type": "Large",
+    "ID": "35058",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Reactor Fuel Rods #1"
+  }
+}

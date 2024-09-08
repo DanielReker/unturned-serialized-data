@@ -1,0 +1,15 @@
+{
+  "name": "Cliffs_Special_Low_Ammo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Spawns/Items/Cliffs_Special_Low_Ammo/Cliffs_Special_Low_Ammo.dat",
+  "data": {
+    "GUID": "149241b898fb45b08d773ff0692e97ce",
+    "Type": "Spawn",
+    "ID": "10077",
+    "Tables": "2",
+    "Table_0_Asset_ID": "43",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "1192",
+    "Table_1_Weight": "5"
+  },
+  "translation": null
+}

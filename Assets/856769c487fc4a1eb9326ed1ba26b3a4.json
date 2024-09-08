@@ -1,0 +1,12 @@
+{
+  "name": "Easter_Foliage_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Effects/Explosions/Easter_Foliage_2/Easter_Foliage_2.dat",
+  "data": {
+    "GUID": "856769c487fc4a1eb9326ed1ba26b3a4",
+    "Type": "Effect",
+    "ID": "6608",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Concrete_Base_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Concrete_Base_0/PS_Concrete_Base_0.dat",
+  "data": {
+    "GUID": "37e3864d02884be38f35dd9b36a851b5",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59376"
+  },
+  "translation": {
+    "Name": "PS Concrete Base #1"
+  }
+}

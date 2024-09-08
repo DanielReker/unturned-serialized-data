@@ -1,0 +1,32 @@
+{
+  "name": "Farm",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Farm/Farm/Farm.dat",
+  "data": {
+    "GUID": "7355a81e6d8e40b191b44613a8242085",
+    "Type": "Spawn",
+    "ID": "51090",
+    "Tables": [
+      {
+        "Guid": "304fb45506bf47678c32b3b1e1f556af",
+        "Weight": "25"
+      },
+      {
+        "Guid": "9eb6659691c846ea96ba4f5d7dba9db4",
+        "Weight": "25"
+      },
+      {
+        "Guid": "2ff525bc497a407f9b4aa262ceb515c6",
+        "Weight": "25"
+      },
+      {
+        "Guid": "011b1ee7ca5f47178c4b28f76d76b92a",
+        "Weight": "15"
+      },
+      {
+        "Guid": "c63c77e3be934bddaebf1c85a2079ff3",
+        "Weight": "10"
+      }
+    ]
+  },
+  "translation": null
+}

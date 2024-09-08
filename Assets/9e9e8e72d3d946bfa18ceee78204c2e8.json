@@ -1,0 +1,43 @@
+{
+  "name": "PS_Weapon_Mod_Kit_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Weapon_Mod_Kit_0/PS_Weapon_Mod_Kit_0.dat",
+  "data": {
+    "GUID": "9e9e8e72d3d946bfa18ceee78204c2e8",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "SalvageItem": "9e9e8e72d3d946bfa18ceee78204c2e8",
+    "Min_Items_Dropped_On_Destroy": "1",
+    "Max_Items_Dropped_On_Destroy": "1",
+    "Item_Dropped_On_Destroy": "78f24f286a2c4845bb716c62f07f06ac",
+    "Has_Clip_Prefab": "False",
+    "Build": "Barricade",
+    "ID": "59845",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.53",
+    "Health": "200",
+    "Range": "4",
+    "Radius": "0.17",
+    "Offset": "0.21",
+    "Explosion": "36",
+    "Vulnerable": "",
+    "Salvage_Duration_Multiplier": "0.1",
+    "PlacementAudioClip": "Sounds/MetalPlacement.mp3",
+    "Bypass_Pickup_Ownership": "True",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59845",
+    "Blueprint_0_Product": "59845",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Tool": "58999",
+    "Blueprint_0_Tool_Critical": "",
+    "Blueprint_0_Searchable": "False",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Weapon Mod Kit",
+    "Description": "Supplies used for various weapon modifications."
+  }
+}

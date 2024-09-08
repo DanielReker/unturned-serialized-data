@@ -1,0 +1,15 @@
+{
+  "name": "Warfare",
+  "path": "Bundles/Skins/Determinator/Warfare/Warfare.dat",
+  "data": {
+    "GUID": "37ef3315d2834b2b9b6cbca586f86e76",
+    "Type": "Skin",
+    "ID": "50111",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

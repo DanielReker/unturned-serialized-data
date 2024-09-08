@@ -1,0 +1,13 @@
+{
+  "name": "PS_Parking_Line_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Parking_Line_0/PS_Parking_Line_0.dat",
+  "data": {
+    "GUID": "1102fad93c34420883a3d8b0c3f81c39",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59460"
+  },
+  "translation": {
+    "Name": "PS Parking Line #1"
+  }
+}

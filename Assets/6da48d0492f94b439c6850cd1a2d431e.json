@@ -1,0 +1,15 @@
+{
+  "name": "25116KuwaitDevosEquipment",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/250 MC/25100KLDD/25116KuwaitDevosEquipment/Asset.dat",
+  "data": {
+    "GUID": "6da48d0492f94b439c6850cd1a2d431e",
+    "Type": "Dialogue",
+    "ID": "25116",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=uncommon>Ensign Astrid</color> is responsible for the uniforms, feel free to buy a replacement from her.",
+    "Message_0_Page_1": "<color=epic>Major Kriss</color> is responsible for the armory, so you can get armed from him."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "ATMNumber2-7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/ATMObjects2/7/ATMNumber2-7/ATMNumber2-7.dat",
+  "data": {
+    "GUID": "a251759ff78b424faae2881e1b93d823",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "51000",
+    "Master_Bundle_Override": "PBS.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/ATMObjects/ATMNumber2",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "52856",
+    "Condition_0_Value": "2",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS ATM Screen #2-7"
+  }
+}

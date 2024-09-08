@@ -1,0 +1,16 @@
+{
+  "name": "Celtic_Iron_Sights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Sights/Celtic_Iron_Sights/Celtic_Iron_Sights.dat",
+  "data": {
+    "GUID": "10c0cad4583f40f9a9799d92192891a6",
+    "Type": "Sight",
+    "ID": "6724",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1"
+  },
+  "translation": {
+    "Name": "Celtic Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

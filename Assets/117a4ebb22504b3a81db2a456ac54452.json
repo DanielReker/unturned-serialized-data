@@ -1,0 +1,14 @@
+{
+  "name": "Cafeteria_Adonis_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Military/Cafeteria_Adonis/Cafeteria_Adonis_Completed/Asset.dat",
+  "data": {
+    "GUID": "117a4ebb22504b3a81db2a456ac54452",
+    "Type": "Dialogue",
+    "ID": "3588",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "That is a lot more of them than I expected, thank you!"
+  }
+}

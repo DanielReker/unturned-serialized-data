@@ -1,0 +1,14 @@
+{
+  "name": "25411KLG",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/253 RG/25410KELD/25411KLG/Asset.dat",
+  "data": {
+    "GUID": "430c54d517604b228939eb000211bf08",
+    "Type": "Dialogue",
+    "ID": "25411",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh hey, thanks a bunch! I had lost mine earlier."
+  }
+}

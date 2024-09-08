@@ -1,0 +1,22 @@
+{
+  "name": "25175KuwaitG",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/4/C/25175KuwaitG/Asset.dat",
+  "data": {
+    "GUID": "c7957bcaa71c4681b5f8d22cc7260c13",
+    "Type": "NPC",
+    "ID": "25175",
+    "Shirt": "1727",
+    "Pants": "1723",
+    "Vest": "1632",
+    "Face": "5",
+    "Hair": "2",
+    "Beard": "0",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#191919",
+    "Dialogue": "25176"
+  },
+  "translation": {
+    "Name": "KuwaitFINALGMan",
+    "Character": "G-Man"
+  }
+}

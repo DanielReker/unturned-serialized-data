@@ -1,0 +1,15 @@
+{
+  "name": "Frost_Fishing_Huge",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Spawns/Spawns/Frost_Fishing_Huge/Frost_Fishing_Huge.dat",
+  "data": {
+    "GUID": "615ceb9329854d6d82f2cb1a9c63c91e",
+    "Type": "Spawn",
+    "ID": "36093",
+    "Tables": "2",
+    "Table_0_Spawn_ID": "36088",
+    "Table_0_Weight": "50",
+    "Table_1_Spawn_ID": "36089",
+    "Table_1_Weight": "50"
+  },
+  "translation": null
+}

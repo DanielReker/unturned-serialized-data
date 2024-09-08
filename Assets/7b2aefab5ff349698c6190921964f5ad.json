@@ -1,0 +1,25 @@
+{
+  "name": "Buak_Q_AG_Intro_P1_TP",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/AG_00/Buak_Q_AG_Intro_P1_TP/Buak_Q_AG_Intro_P1_TP.dat",
+  "data": {
+    "GUID": "7b2aefab5ff349698c6190921964f5ad",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24566",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "AG_LH_INTRO"
+  },
+  "translation": {
+    "Name": "Buak_Q_AG_Intro_P1_TP",
+    "Interact": "Enter Lighthouse [{0}]"
+  }
+}

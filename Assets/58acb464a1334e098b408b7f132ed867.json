@@ -1,0 +1,12 @@
+{
+  "name": "FloorGen",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/FloorGen/FloorGen.dat",
+  "data": {
+    "GUID": "58acb464a1334e098b408b7f132ed867",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Floor Gen"
+  }
+}

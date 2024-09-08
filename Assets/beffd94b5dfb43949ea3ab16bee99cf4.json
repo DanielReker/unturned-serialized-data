@@ -1,0 +1,14 @@
+{
+  "name": "Janitor_Exterimator_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Janitor/Janitor_Exterimator_Completed/Asset.dat",
+  "data": {
+    "GUID": "beffd94b5dfb43949ea3ab16bee99cf4",
+    "Type": "Dialogue",
+    "ID": "3570",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You sure? Hmm, <pause> I'll take your word for it but, there is a chance there are more out there."
+  }
+}

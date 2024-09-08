@@ -1,0 +1,27 @@
+{
+  "name": "Metro_AreaC_Lever_Down_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_AreaC_Lever_Down_1/Metro_AreaC_Lever_Down_1.dat",
+  "data": {
+    "GUID": "b82d1476a94548dab6e3ca2845a81974",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "58128",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57133",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "57133",
+    "Interactability_Reward_0_Value": "False",
+    "Master_Bundle_Override": "metro.masterbundle",
+    "Bundle_Override_Path": "Objects/Quest/NPC/Final/Boss/Metro_AreaC_Lever_Down"
+  },
+  "translation": {
+    "Name": "Metro AreaC Lever Down #2",
+    "Interact": "Turn Off [{0}]"
+  }
+}

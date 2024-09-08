@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait_Billboard_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Utilities/Kuwait_Billboard_4/Kuwait_Billboard_4.dat",
+  "data": {
+    "GUID": "84c2ba08342c4cf8aafb82c74b8e1403",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5048",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "275",
+    "Rubble_Effect": "72",
+    "Chart": "Ignore",
+    "Add_Night_Light_Script": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Billboard #5"
+  }
+}

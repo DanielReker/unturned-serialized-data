@@ -1,0 +1,20 @@
+{
+  "name": "Note_Rio9",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Note_Rio9/Note_Rio9.dat",
+  "data": {
+    "GUID": "604729d0ba7f44f1926cccaa49824a2f",
+    "Type": "Medium",
+    "ID": "7116",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "4",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Note - World Paper News #1",
+    "Interactability_Text_Line_0": "World Paper News",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "After two weeks of silence, the terrorist group called \"Zombie Exterminators\", also know as \"ZE\" or \"Exterminators\", has been seen once again near Petrópolis and Alto da Serra.",
+    "Interactability_Text_Line_3": "It was believed that the group was disbanded after the death of Silva, ex-leader of the group. The Brazillian Military Force Command hasn't pronounced about it yet."
+  }
+}

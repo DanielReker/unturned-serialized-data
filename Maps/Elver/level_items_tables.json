@@ -1,0 +1,532 @@
+[
+  {
+    "name": "wqJ",
+    "tableID": 57018,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Food",
+    "tableID": 57019,
+    "tiers": [],
+    "color": {
+      "r": 0.2784314,
+      "g": 0.09019608,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Fish n' chips",
+    "tableID": 57022,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.203921571
+    }
+  },
+  {
+    "name": "Scrub",
+    "tableID": 57025,
+    "tiers": [],
+    "color": {
+      "r": 0.243137255,
+      "g": 0.270588249,
+      "b": 0.09803922
+    }
+  },
+  {
+    "name": "Door Store",
+    "tableID": 57026,
+    "tiers": [],
+    "color": {
+      "r": 0.152941182,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Clothing",
+    "tableID": 57027,
+    "tiers": [],
+    "color": {
+      "r": 0.6431373,
+      "g": 0.6784314,
+      "b": 0.9254902
+    }
+  },
+  {
+    "name": "Sky",
+    "tableID": 57032,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Civilian Generic",
+    "tableID": 57031,
+    "tiers": [],
+    "color": {
+      "r": 0.345098048,
+      "g": 0.3647059,
+      "b": 0.545098066
+    }
+  },
+  {
+    "name": "Civilian Materials",
+    "tableID": 57040,
+    "tiers": [],
+    "color": {
+      "r": 0.137254909,
+      "g": 0.164705887,
+      "b": 0.192156866
+    }
+  },
+  {
+    "name": "Technology",
+    "tableID": 57041,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Mechanic",
+    "tableID": 57038,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.305882365,
+      "b": 0.298039228
+    }
+  },
+  {
+    "name": "Medical",
+    "tableID": 57044,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Gun Stores",
+    "tableID": 57052,
+    "tiers": [],
+    "color": {
+      "r": 0.7254902,
+      "g": 0.9372549,
+      "b": 0.533333361
+    }
+  },
+  {
+    "name": "Ranger",
+    "tableID": 57062,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.917647064,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Fishing",
+    "tableID": 57065,
+    "tiers": [],
+    "color": {
+      "r": 0.905882359,
+      "g": 0.545098066,
+      "b": 0.5058824
+    }
+  },
+  {
+    "name": "Kitchen",
+    "tableID": 57066,
+    "tiers": [],
+    "color": {
+      "r": 0.380392164,
+      "g": 0.0,
+      "b": 0.211764708
+    }
+  },
+  {
+    "name": "Grocer",
+    "tableID": 57067,
+    "tiers": [],
+    "color": {
+      "r": 0.5764706,
+      "g": 0.7764706,
+      "b": 0.298039228
+    }
+  },
+  {
+    "name": "Construction",
+    "tableID": 57068,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.5921569,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Police",
+    "tableID": 57072,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Prison",
+    "tableID": 57076,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.2509804,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Mines",
+    "tableID": 57077,
+    "tiers": [],
+    "color": {
+      "r": 0.509803951,
+      "g": 0.3764706,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Firefighter",
+    "tableID": 57078,
+    "tiers": [],
+    "color": {
+      "r": 0.709803939,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Military",
+    "tableID": 57080,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Farm",
+    "tableID": 57095,
+    "tiers": [],
+    "color": {
+      "r": 0.6117647,
+      "g": 0.596078455,
+      "b": 0.443137258
+    }
+  },
+  {
+    "name": "Logs",
+    "tableID": 57098,
+    "tiers": [],
+    "color": {
+      "r": 0.258823544,
+      "g": 0.180392161,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Deadzone Mine",
+    "tableID": 57101,
+    "tiers": [],
+    "color": {
+      "r": 0.509803951,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Deadzone Black Mechanic",
+    "tableID": 57113,
+    "tiers": [],
+    "color": {
+      "r": 0.1254902,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Deadzone Black Ammo",
+    "tableID": 57102,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.13333334,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Deadzone Black Attachments",
+    "tableID": 57106,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0784313753
+    }
+  },
+  {
+    "name": "Deadzone Red Food",
+    "tableID": 57115,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.137254909,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Deadzone Red Meds",
+    "tableID": 57117,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.156862751
+    }
+  },
+  {
+    "name": "Deadzone Red Clothing",
+    "tableID": 57114,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Deadzone Red Rooms",
+    "tableID": 57116,
+    "tiers": [],
+    "color": {
+      "r": 0.733333349,
+      "g": 0.0,
+      "b": 0.003921569
+    }
+  },
+  {
+    "name": "Deadzone Blue",
+    "tableID": 57099,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Deadzone Green",
+    "tableID": 57119,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Deadzone Generic",
+    "tableID": 57103,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.533333361
+    }
+  },
+  {
+    "name": "Camp",
+    "tableID": 57136,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.419607848,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Seattle",
+    "tableID": 57146,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Clock",
+    "tableID": 57150,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Dorms Yellow",
+    "tableID": 57153,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Dorms Blue",
+    "tableID": 57154,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.466666669,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Deez nuts",
+    "tableID": 57155,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "DONUTSSS",
+    "tableID": 57156,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.6117647,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Dorms Red",
+    "tableID": 57157,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Dorms Green Clothes",
+    "tableID": 57158,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Dorms Green Mats",
+    "tableID": 57159,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.5568628,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Dorms Random",
+    "tableID": 57160,
+    "tiers": [],
+    "color": {
+      "r": 0.305882365,
+      "g": 0.392156869,
+      "b": 0.2627451
+    }
+  },
+  {
+    "name": "Key 01 Kitchen",
+    "tableID": 57161,
+    "tiers": [],
+    "color": {
+      "r": 0.572549045,
+      "g": 0.129411772,
+      "b": 0.3764706
+    }
+  },
+  {
+    "name": "Key 02 Mats",
+    "tableID": 57162,
+    "tiers": [],
+    "color": {
+      "r": 0.105882354,
+      "g": 0.13333334,
+      "b": 0.345098048
+    }
+  },
+  {
+    "name": "Key 03 Military",
+    "tableID": 57163,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.7372549,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Key 04 Prison",
+    "tableID": 57164,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.466666669,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Key 05 Mats",
+    "tableID": 57165,
+    "tiers": [],
+    "color": {
+      "r": 0.152941182,
+      "g": 0.172549024,
+      "b": 0.403921574
+    }
+  },
+  {
+    "name": "Mall Painting",
+    "tableID": 57166,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.733333349
+    }
+  }
+]

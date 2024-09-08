@@ -1,0 +1,37 @@
+{
+  "name": "Metro_Crossy_Wood",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Weapons/Metro_Crossy_Wood/Metro_Crossy_Wood.dat",
+  "data": {
+    "GUID": "e231a45ba724431b81179ca31bcd477c",
+    "Type": "Magazine",
+    "Rarity": "Uncommon",
+    "ID": "57515",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.35",
+    "Amount": "1",
+    "Calibers": "1",
+    "Caliber_0": "57007",
+    "Speed": "1.4",
+    "Ballistic_Damage_Multiplier": "1",
+    "Tracer": "57025",
+    "Stuck": "5",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "42",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Supply_1_ID": "71",
+    "Blueprint_0_Products": "5",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Elver",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supply_0_ID": "42",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Build": "27"
+  },
+  "translation": {
+    "Name": "Wooden Bolt",
+    "Description": "For <color=#1f871f>Crusader</color><br><color=#64c819>130</color> Zombie Damage"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Guest_Hat_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Guest_Hat_3/Guest_Hat_3.dat",
+  "data": {
+    "GUID": "e0af6fb4727c42f8a446a21f118a8505",
+    "Rarity": "Uncommon",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "26999",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Beard": "",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Guest_Hat_3",
+    "Description": "NPC Hat."
+  }
+}

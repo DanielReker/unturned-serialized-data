@@ -1,0 +1,24 @@
+{
+  "name": "25060KIU",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/Q/250 MC/25060KIU/Asset.dat",
+  "data": {
+    "GUID": "97f38b6287db458aa741419fc78e2ed0",
+    "Type": "Quest",
+    "ID": "25060",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "25061",
+    "Condition_0_Value": "9",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "25",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "3"
+  },
+  "translation": {
+    "Name": "<color=#567DBC>Coalition: </color><color=#567DBC>Uniform Distribution</color>",
+    "Description": "<color=legendary>Admiral Isch</color><br>Your first job is to distribute uniforms to the <color=legendary>Concord.</color>",
+    "Condition_0": "Distribute uniforms to <color=legendary>Concord</color> {0}/9"
+  }
+}

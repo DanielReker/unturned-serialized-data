@@ -1,0 +1,31 @@
+{
+  "name": "ImpactGrenade",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Throwables/ImpactGrenade/ImpactGrenade.dat",
+  "data": {
+    "GUID": "1e00c70680f54d3b99ee9208ebef7280",
+    "Type": "Throwable",
+    "Rarity": "Rare",
+    "Useable": "Throwable",
+    "ID": "51315",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Player_Damage": "80",
+    "Zombie_Damage": "160",
+    "Animal_Damage": "160",
+    "Barricade_Damage": "25",
+    "Structure_Damage": "25",
+    "Vehicle_Damage": "50",
+    "Resource_Damage": "500",
+    "Object_Damage": "250",
+    "Range": "8",
+    "Explosion": "51008",
+    "Explosive": "",
+    "Fuse_Length": "10",
+    "Explode_On_Impact": ""
+  },
+  "translation": {
+    "Name": "Impact Grenade",
+    "Description": "Militia grade fragmentation explosive.  Explodes on impact."
+  }
+}

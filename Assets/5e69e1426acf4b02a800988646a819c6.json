@@ -1,0 +1,24 @@
+{
+  "name": "PBS_Fred",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Fred/Asset.dat",
+  "data": {
+    "GUID": "5e69e1426acf4b02a800988646a819c6",
+    "Type": "NPC",
+    "ID": "52390",
+    "Hat": "fd7b71a3b99548aea9010d59fc81ce15",
+    "Shirt": "51137",
+    "Pants": "51156",
+    "Face": "20",
+    "Hair": "0",
+    "Beard": "0",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#191919",
+    "Dialogue": "52391",
+    "Tertiary": "51252",
+    "Equipped": "Tertiary"
+  },
+  "translation": {
+    "Name": "PBS NPC Fred",
+    "Character": "Fred"
+  }
+}

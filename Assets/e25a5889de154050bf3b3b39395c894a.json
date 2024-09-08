@@ -1,0 +1,22 @@
+{
+  "name": "PBS_Newman_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Newman/PBS_Newman_Welcome/Asset.dat",
+  "data": {
+    "GUID": "e25a5889de154050bf3b3b39395c894a",
+    "Type": "Dialogue",
+    "ID": "52601",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Dialogue": "52603",
+    "Response_0_Vendor": "52602",
+    "Response_1_Dialogue": "52603",
+    "Response_1_Vendor": "52604"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yo, what's new?",
+    "Response_0": "Exchange funds.",
+    "Response_1": "Exchange experience.",
+    "Response_2": "Nothin' much."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "MechanicClothes",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Mechanic/MechanicClothes/MechanicClothes.dat",
+  "data": {
+    "GUID": "c7def5d28fe94f41bdd6152edb74ef7e",
+    "Type": "Spawn",
+    "ID": "51056",
+    "Tables": [
+      {
+        "Guid": "99b94bdeb56044e596ed3d208246a0b2",
+        "Weight": "10"
+      },
+      {
+        "Guid": "32489f4b774d4262876b3df9536197d6",
+        "Weight": "10"
+      }
+    ]
+  },
+  "translation": null
+}

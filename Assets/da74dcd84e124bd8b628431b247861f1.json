@@ -1,0 +1,23 @@
+{
+  "name": "Buak_Moose",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Animals/Buak_Moose/Buak_Moose.dat",
+  "data": {
+    "GUID": "da74dcd84e124bd8b628431b247861f1",
+    "Type": "Animal",
+    "ID": "25304",
+    "Speed_Run": "8",
+    "Speed_Walk": "4",
+    "Behaviour": "Offense",
+    "Damage": "25",
+    "Horizontal_Attack_Range": "5",
+    "Health": "500",
+    "Reward_ID": "25339",
+    "Reward_XP": "100",
+    "Reward_Min": "1",
+    "Reward_Max": "1",
+    "Glance_Anim_Variants": "2"
+  },
+  "translation": {
+    "Name": "Buak_Moose"
+  }
+}

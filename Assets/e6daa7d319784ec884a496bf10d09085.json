@@ -1,0 +1,32 @@
+{
+  "name": "IR_Orel_Ammo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Items/Ammo/IR_Orel_Ammo/IR_Orel_Ammo.dat",
+  "data": {
+    "GUID": "e6daa7d319784ec884a496bf10d09085",
+    "Type": "Magazine",
+    "Rarity": "Uncommon",
+    "ID": "15047",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.2",
+    "Amount": "25",
+    "Count_Min": "3",
+    "Count_Max": "31",
+    "Calibers": "1",
+    "Caliber_0": "95",
+    "Tracer": "48",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "119",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "15047",
+    "Blueprint_1_Build": "30"
+  },
+  "translation": {
+    "Name": "Orel Box",
+    "Description": "Low caliber ranger grade extended <color=uncommon>Orel</color> magazine. Designed to fit 25 rounds."
+  }
+}

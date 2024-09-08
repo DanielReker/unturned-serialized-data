@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Bar_Carrot",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Bar_Carrot/Buak_Bar_Carrot.dat",
+  "data": {
+    "GUID": "cde6096bf0794753bd8d7e3d082a0bbc",
+    "Type": "Spawn",
+    "ID": "25454",
+    "Tables": "2",
+    "Table_0_Asset_ID": "25747",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "25748",
+    "Table_1_Weight": "5"
+  },
+  "translation": null
+}

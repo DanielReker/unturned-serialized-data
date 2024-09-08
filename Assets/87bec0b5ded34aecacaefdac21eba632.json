@@ -1,0 +1,14 @@
+{
+  "name": "26172KENC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26160KEND/26170KENAD/26172KENC/Asset.dat",
+  "data": {
+    "GUID": "87bec0b5ded34aecacaefdac21eba632",
+    "Type": "Dialogue",
+    "ID": "26172",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "La taqlaq. Have some of your money back."
+  }
+}

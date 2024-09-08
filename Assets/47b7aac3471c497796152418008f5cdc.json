@@ -1,0 +1,14 @@
+{
+  "name": "28813KAQ3C",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28801KACD/28813KAQ3C/Asset.dat",
+  "data": {
+    "GUID": "47b7aac3471c497796152418008f5cdc",
+    "Type": "Dialogue",
+    "ID": "28813",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "It's assembled? Great! Now, we just need to find somewhere to put it..."
+  }
+}

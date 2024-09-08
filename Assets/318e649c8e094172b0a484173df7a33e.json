@@ -1,0 +1,13 @@
+{
+  "name": "Substation_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Substation_0/Substation_0.dat",
+  "data": {
+    "GUID": "318e649c8e094172b0a484173df7a33e",
+    "Type": "Medium",
+    "ID": "45708",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Substation #1"
+  }
+}

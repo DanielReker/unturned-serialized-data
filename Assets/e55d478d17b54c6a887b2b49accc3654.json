@@ -1,0 +1,14 @@
+{
+  "name": "Sarah_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Scientist_Sarah/Sarah_Completed/Asset.dat",
+  "data": {
+    "GUID": "e55d478d17b54c6a887b2b49accc3654",
+    "Type": "Dialogue",
+    "ID": "2168",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Excellent work! I am going to have to run a bunch of tests on this sample. We can only hope Aegis may have figured out a cure, and hopefully that is exactly what is in this tube!"
+  }
+}

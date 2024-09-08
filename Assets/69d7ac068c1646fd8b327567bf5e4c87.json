@@ -1,0 +1,14 @@
+{
+  "name": "VariousVehicles_Reminder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Vengeance/Vengeance_02/VariousVehicles_Reminder/Asset.dat",
+  "data": {
+    "GUID": "69d7ac068c1646fd8b327567bf5e4c87",
+    "Type": "Dialogue",
+    "ID": "24463",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Search under the hood of the destroyed vehicles around Buak, Some should contain a component or two that can be used."
+  }
+}

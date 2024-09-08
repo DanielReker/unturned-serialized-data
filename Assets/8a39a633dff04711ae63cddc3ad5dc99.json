@@ -1,0 +1,17 @@
+{
+  "name": "Swissgewehr_Iron_Sights",
+  "path": "Bundles/Items/Sights/Swissgewehr_Iron_Sights/Swissgewehr_Iron_Sights.dat",
+  "data": {
+    "GUID": "8a39a633dff04711ae63cddc3ad5dc99",
+    "Type": "Sight",
+    "ID": "1489",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Swissgewehr Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

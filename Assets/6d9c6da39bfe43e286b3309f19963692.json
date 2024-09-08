@@ -1,0 +1,13 @@
+{
+  "name": "Semi_1",
+  "path": "Bundles/Objects/Large/Vehicles/Semi_1/Semi_1.dat",
+  "data": {
+    "GUID": "6d9c6da39bfe43e286b3309f19963692",
+    "Type": "Large",
+    "ID": "1006",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Semi #2"
+  }
+}

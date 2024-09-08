@@ -1,0 +1,12 @@
+{
+  "name": "IR_Military_Tent_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Military_Tent_2/IR_Military_Tent_2.dat",
+  "data": {
+    "GUID": "497f51fd37bf48bcb68d5e492a724a65",
+    "Type": "Large",
+    "ID": "17047"
+  },
+  "translation": {
+    "Name": "Irish Military Tent#2"
+  }
+}

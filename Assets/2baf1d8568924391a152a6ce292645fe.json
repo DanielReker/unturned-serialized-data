@@ -1,0 +1,31 @@
+{
+  "name": "Metro_Popper",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_Popper/Metro_Popper.dat",
+  "data": {
+    "GUID": "2baf1d8568924391a152a6ce292645fe",
+    "Type": "Throwable",
+    "Rarity": "Uncommon",
+    "Useable": "Throwable",
+    "ID": "57714",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Player_Damage": "120",
+    "Zombie_Damage": "900",
+    "Animal_Damage": "600",
+    "Barricade_Damage": "50",
+    "Structure_Damage": "50",
+    "Vehicle_Damage": "800",
+    "Resource_Damage": "1000",
+    "Object_Damage": "500",
+    "Range": "4",
+    "Explosion": "57029",
+    "Fuse_Length": "0.6",
+    "Explosive": "",
+    "Flash": ""
+  },
+  "translation": {
+    "Name": "Explosive Party Popper",
+    "Description": "<color=#64c819>120</color> Player Damage                                                  <color=#64c819>900</color> Zombie Damage                                                    <color=#64c819>800</color> Vehicle Damage                                              <color=#64c819>6 Meter</color> Explosion Radius "
+  }
+}

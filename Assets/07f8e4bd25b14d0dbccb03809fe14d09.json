@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Sleeping_Bag_Black",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Sleeping_Bag_Black/Buak_Sleeping_Bag_Black.dat",
+  "data": {
+    "GUID": "07f8e4bd25b14d0dbccb03809fe14d09",
+    "Type": "Small",
+    "ID": "25300",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "600",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "25326",
+    "Rubble_Reward_ID": "25322",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Bedroll_Black"
+  }
+}

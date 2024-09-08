@@ -1,0 +1,25 @@
+{
+  "name": "27960KuwaitSnowPitch45CrouchEquip",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/C/27960KuwaitSnowPitch45CrouchEquip/Asset.dat",
+  "data": {
+    "GUID": "32eeb27792b04190bb6ab2f7e8a16cdb",
+    "Type": "NPC",
+    "ID": "27960",
+    "Shirt": "5301",
+    "Pants": "5302",
+    "Glasses": "1674",
+    "Face": "24",
+    "Hair": "8",
+    "Color_Skin": "#d9cab4",
+    "Color_Hair": "#191919",
+    "Pose": "Crouch",
+    "Pose_Pitch": "180",
+    "Primary": "5140",
+    "Secondary": "5148",
+    "Equipped": "Primary"
+  },
+  "translation": {
+    "Name": "KuwaitNPCPosSnowPitchCrouchTEST",
+    "Character": "<color=legendary>General Snow</color>"
+  }
+}

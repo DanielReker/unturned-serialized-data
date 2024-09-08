@@ -1,0 +1,13 @@
+{
+  "name": "Metro_TV_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_TV_3/Metro_TV_3.dat",
+  "data": {
+    "GUID": "bbbd12a3b9744b6fa8bdedf80c752169",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57172"
+  },
+  "translation": {
+    "Name": "Metro TV #4"
+  }
+}

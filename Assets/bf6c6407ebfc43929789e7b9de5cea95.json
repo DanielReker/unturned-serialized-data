@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Ice_Box",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Ice_Box/Buak_Ice_Box.dat",
+  "data": {
+    "GUID": "bf6c6407ebfc43929789e7b9de5cea95",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Ice_Box"
+  }
+}

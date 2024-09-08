@@ -1,0 +1,12 @@
+{
+  "name": "Forklift_Fork",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Forklift_Fork/Forklift_Fork.dat",
+  "data": {
+    "GUID": "9fccb60b663e4f25940e3f35a5ee76fb",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Forklift Fork"
+  }
+}

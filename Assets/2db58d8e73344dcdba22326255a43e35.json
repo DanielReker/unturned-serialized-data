@@ -1,0 +1,72 @@
+{
+  "name": "Rio_Grass_00_Collection",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Assets/Foliage/Rio_Grass_00_Collection.asset",
+  "data": {
+    "GUID": "2db58d8e73344dcdba22326255a43e35",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "04b8829ed41745fbadaa8772d9de8698"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "a116f427c9d742eea20f6ff8145d5545"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "f84b099dd6814696aad45ebf3b61b0c3"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "ffa3da37d1594a8692dd62ddfd1495d0"
+        },
+        "Weight": "0.5"
+      },
+      {
+        "Asset": {
+          "GUID": "7f38ee97422e4d479a484baa2c265051"
+        },
+        "Weight": "0.5"
+      },
+      {
+        "Asset": {
+          "GUID": "14f3ca6c71ba4b5f9284e7864d2467a1"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "3e72901f2123493c9fc897a77ff7766c"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "6354292fd2984be582115afdb2f789f1"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "8b99b548942249528198d6f87647338d"
+        },
+        "Weight": "0.5"
+      },
+      {
+        "Asset": {
+          "GUID": "2ccc79a2c56642449354c9753f58e2c9"
+        },
+        "Weight": "0.5"
+      }
+    ]
+  },
+  "translation": null
+}

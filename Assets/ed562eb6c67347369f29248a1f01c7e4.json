@@ -1,0 +1,25 @@
+{
+  "name": "RULA_Note7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Medium/Furniture/RULA_Note7/RULA_Note7.dat",
+  "data": {
+    "GUID": "ed562eb6c67347369f29248a1f01c7e4",
+    "Type": "Medium",
+    "ID": "35288",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "7",
+    "Has_Clip_Prefab": "false",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Rula Note - Focus Weapon",
+    "Interactability_Text_Line_0": "Rula Development Log: Jan. 2",
+    "Interactability_Text_Line_1": "----------------------------------",
+    "Interactability_Text_Line_2": "XE-564 has reached the phase of easily produced prototypes. Multiple prototypes will be manufactured to begin work on the E-564, the model that will be eventually distributed to the French Military.",
+    "Interactability_Text_Line_3": "----------------------------------",
+    "Interactability_Text_Line_4": "XE-564 has been chosen as the preferred model due to its 76% efficiency, when compared to the efficiency of the other models. Hopefully E-564 can be designed and manufactured quickly.",
+    "Interactability_Text_Line_5": "----------------------------------",
+    "Interactability_Text_Line_6": "The energy weapon project that XE-564 and all related models are in has also been renamed to \"Focus.\""
+  }
+}

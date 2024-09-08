@@ -1,0 +1,13 @@
+{
+  "name": "Yukon_Gas",
+  "path": "Bundles/Spawns/Items/Yukon_Gas/Yukon_Gas.dat",
+  "data": {
+    "GUID": "63295c7c4816473f97801003fdc3cfb1",
+    "Type": "Spawn",
+    "ID": "443",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "163",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

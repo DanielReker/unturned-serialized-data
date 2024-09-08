@@ -1,0 +1,23 @@
+{
+  "name": "PBS_Clint",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Clint/Asset.dat",
+  "data": {
+    "GUID": "abaf3ffce0b241248da74d469bcd4395",
+    "Type": "NPC",
+    "ID": "52520",
+    "Shirt": "a64a9a24af3e4613afb715c8e1fd6d62",
+    "Vest": "5f8cf1aa180447129360096bd7710fb8",
+    "Face": "4",
+    "Hair": "9",
+    "Beard": "0",
+    "Color_Skin": "#FFFFFF",
+    "Color_Hair": "#57452F",
+    "Dialogue": "52521",
+    "Secondary": "51224",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS NPC Clint",
+    "Character": "Clint"
+  }
+}

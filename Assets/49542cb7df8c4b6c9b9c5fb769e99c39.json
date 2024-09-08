@@ -1,0 +1,13 @@
+{
+  "name": "PS_Refinery_Pipe_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Refinery_Pipe_0/PS_Refinery_Pipe_0.dat",
+  "data": {
+    "GUID": "49542cb7df8c4b6c9b9c5fb769e99c39",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59386"
+  },
+  "translation": {
+    "Name": "PS Refinery Pipe #1"
+  }
+}

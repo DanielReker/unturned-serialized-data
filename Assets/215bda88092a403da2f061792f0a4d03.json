@@ -1,0 +1,15 @@
+{
+  "name": "Priest_Clothes",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Priest_Clothes/Priest_Clothes.dat",
+  "data": {
+    "GUID": "215bda88092a403da2f061792f0a4d03",
+    "Type": "Spawn",
+    "ID": "5023",
+    "Tables": "2",
+    "Table_0_Asset_ID": "8004",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "8005",
+    "Table_1_Weight": "10"
+  },
+  "translation": null
+}

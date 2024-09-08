@@ -1,0 +1,31 @@
+{
+  "name": "25450KEOswald",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/C/253 SG/25450KEOswald/Asset.dat",
+  "data": {
+    "GUID": "a4cce65c4130405eabc3dc61585e3313",
+    "Type": "NPC",
+    "ID": "25450",
+    "Hat": "5325",
+    "Shirt": "5316",
+    "Pants": "5322 ",
+    "Face": "20",
+    "Color_Skin": "#BEA582",
+    "Backward": "",
+    "Dialogue": "25460",
+    "Secondary": "5147",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "26515",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitNPCLiberatorEnsignOswald",
+    "Character": "<color=uncommon>Ensign Oswald</color>"
+  }
+}

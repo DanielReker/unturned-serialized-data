@@ -1,0 +1,36 @@
+{
+  "name": "PS_Trader_7_Quest_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_7_Dialogue/PS_Trader_7_Quest_0/Asset.dat",
+  "data": {
+    "GUID": "e60a8cc60fd64f878c00b7c2e40606ad",
+    "Type": "Quest",
+    "ID": "59413",
+    "Conditions": "3",
+    "Condition_0_Type": "Quest",
+    "Condition_0_ID": "59017",
+    "Condition_0_Status": "Completed",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Quest",
+    "Condition_1_ID": "59040",
+    "Condition_1_Status": "Completed",
+    "Condition_1_Logic": "Equal",
+    "Condition_2_Type": "Quest",
+    "Condition_2_ID": "59095",
+    "Condition_2_Status": "Completed",
+    "Condition_2_Logic": "Equal",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "59563",
+    "Reward_0_Amount": "2",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "59662",
+    "Reward_1_Amount": "2"
+  },
+  "translation": {
+    "Name": "Introduction",
+    "Description": "Complete previous quests.",
+    "Condition_0": "Complete Arsenal IV",
+    "Condition_1": "Complete Reinforcements IV",
+    "Condition_2": "Complete Supplier IV"
+  }
+}

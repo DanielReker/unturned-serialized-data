@@ -1,0 +1,18 @@
+{
+  "name": "Kuwait_Road_Turn_Twoway",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Roads/Kuwait_Road_Turn_Twoway/Kuwait_Road_Turn_Twoway.dat",
+  "data": {
+    "GUID": "3e7e16aab7ef494aa69c002b65b4d913",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5125",
+    "Soft": "",
+    "Chart": "Street",
+    "Collision_Important": "",
+    "Landmark_Quality": "Ultra",
+    "Material_Palette": "2960a999c1854992a6e3bda9171302b1"
+  },
+  "translation": {
+    "Name": "Kuwait Road Turn #1"
+  }
+}

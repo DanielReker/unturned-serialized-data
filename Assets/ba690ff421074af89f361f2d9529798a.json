@@ -1,0 +1,52 @@
+{
+  "name": "Table_Riot",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Table_Riot/Table_Riot.dat",
+  "data": {
+    "GUID": "ba690ff421074af89f361f2d9529798a",
+    "Type": "Spawn",
+    "ID": "51102",
+    "Tables": [
+      {
+        "Guid": "475eaf01366d4d8eb7e78cb24787575d",
+        "Weight": "5"
+      },
+      {
+        "Guid": "d1ae8a4c539a4bac935c272efaa40789",
+        "Weight": "5"
+      },
+      {
+        "Guid": "9fc34a4c63e344439b2294e897fd2a80",
+        "Weight": "5"
+      },
+      {
+        "Guid": "d970690dfae544339bbb15942e5ec137",
+        "Weight": "4"
+      },
+      {
+        "Guid": "0b8684b4136a4f3690cc215b5543dfc1",
+        "Weight": "4"
+      },
+      {
+        "Guid": "0dbbb6e8498741b280d0c46b947b1d4d",
+        "Weight": "4"
+      },
+      {
+        "Guid": "643e622fd5a44ba296fced4bb92d69b6",
+        "Weight": "4"
+      },
+      {
+        "Guid": "656d0c41cfd7425fb04f5d18ce9481dd",
+        "Weight": "3"
+      },
+      {
+        "Guid": "6242203f124f44c19d42a866fbede88a",
+        "Weight": "3"
+      },
+      {
+        "Guid": "2f31123007014cf4a896d5d0a88997bd",
+        "Weight": "2"
+      }
+    ]
+  },
+  "translation": null
+}

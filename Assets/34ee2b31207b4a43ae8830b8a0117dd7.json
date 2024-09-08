@@ -1,0 +1,23 @@
+{
+  "name": "PS_Marking_Flare_Placed_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Quest_Objects/PS_Marking_Flare_Placed_4/PS_Marking_Flare_Placed_4.dat",
+  "data": {
+    "GUID": "34ee2b31207b4a43ae8830b8a0117dd7",
+    "Type": "Small",
+    "ID": "59904",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "59030",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "59009",
+    "Condition_1_Value": "True",
+    "Condition_1_Logic": "Equal",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Smol/PS_Marking_Flare_0"
+  },
+  "translation": {
+    "Name": "PS Marking Flare Placed #5"
+  }
+}

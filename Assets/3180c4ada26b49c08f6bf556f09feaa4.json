@@ -1,0 +1,14 @@
+{
+  "name": "Balaclava_Bandit",
+  "path": "Bundles/Items/Masks/Balaclava_Bandit/Balaclava_Bandit.dat",
+  "data": {
+    "GUID": "3180c4ada26b49c08f6bf556f09feaa4",
+    "Type": "Mask",
+    "ID": "812",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Pro": ""
+  },
+  "translation": null
+}

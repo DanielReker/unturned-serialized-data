@@ -1,0 +1,13 @@
+{
+  "name": "PS_Police_Ammo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Police_Ammo/PS_Police_Ammo.dat",
+  "data": {
+    "GUID": "e2f5dc6bb2f64e3aa0212cdbec4d17e0",
+    "Type": "Spawn",
+    "ID": "59137",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59325",
+    "Table_0_Weight": "25"
+  },
+  "translation": null
+}

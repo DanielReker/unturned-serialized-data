@@ -1,0 +1,19 @@
+{
+  "name": "Coastguard_America_Special",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Items/Coastguard_America_Special/Coastguard_America_Special.dat",
+  "data": {
+    "GUID": "b9efaa680dee47f59a34c09a20fc5863",
+    "Type": "Spawn",
+    "ID": "834",
+    "Tables": "4",
+    "Table_0_Spawn_ID": "354",
+    "Table_0_Weight": "95",
+    "Table_1_Spawn_ID": "353",
+    "Table_1_Weight": "10",
+    "Table_2_Spawn_ID": "352",
+    "Table_2_Weight": "10",
+    "Table_3_Spawn_ID": "350",
+    "Table_3_Weight": "10"
+  },
+  "translation": null
+}

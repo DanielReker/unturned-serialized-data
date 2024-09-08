@@ -1,0 +1,17 @@
+{
+  "name": "Brazil_Military_Low_Magazines",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Brazil_Military_Low_Magazines/Brazil_Military_Low_Magazines.dat",
+  "data": {
+    "GUID": "d12ab13670bd4bb687ca0eb8e953c52b",
+    "Type": "Spawn",
+    "ID": "5034",
+    "Tables": "3",
+    "Table_0_Asset_ID": "1022",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "8032 ",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "6",
+    "Table_2_Weight": "10"
+  },
+  "translation": null
+}

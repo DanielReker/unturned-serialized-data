@@ -1,0 +1,17 @@
+{
+  "name": "Shelter_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Shelter_0/Shelter_0.dat",
+  "data": {
+    "GUID": "19770f362aef40f18c5e1fe88132ea87",
+    "Type": "Large",
+    "ID": "45735",
+    "LOD": "Mesh",
+    "LOD_Bias": "1.25",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Shelter #1"
+  }
+}

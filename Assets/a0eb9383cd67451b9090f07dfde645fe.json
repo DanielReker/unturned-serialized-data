@@ -1,0 +1,13 @@
+{
+  "name": "Hawaii_Raft",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Vehicles/Hawaii_Raft/Hawaii_Raft.dat",
+  "data": {
+    "GUID": "a0eb9383cd67451b9090f07dfde645fe",
+    "Type": "Spawn",
+    "ID": "888",
+    "Tables": "1",
+    "Table_0_Asset_ID": "848",
+    "Table_0_Weight": "70"
+  },
+  "translation": null
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Canned_Cola",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Water/Canned_Cola/Canned_Cola.dat",
+  "data": {
+    "GUID": "827e4577760d487bae7544edbd239dfd",
+    "Type": "Water",
+    "Useable": "Consumeable",
+    "ID": "5225",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Water": "25",
+    "Energy": "25",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "5528",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "5538",
+    "Quest_Reward_0_Amount": "1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Water/Canned_Cola"
+  },
+  "translation": {
+    "Name": "Canned Cola",
+    "Description": "Water saturated with sugar.<br><color=#3298C8>+25 Water</color><br><color=#DCB413>+25 Energy</color>"
+  }
+}

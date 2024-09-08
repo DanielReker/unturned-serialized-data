@@ -1,0 +1,18 @@
+{
+  "name": "Frost_Pump_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Frost_Pump_01/Frost_Pump_01.dat",
+  "data": {
+    "GUID": "421b76daf7804b7591f44488d6992394",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Interactability": "Fuel",
+    "Interactability_Reset": "500",
+    "Interactability_Resource": "2500",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Large/Utilities/Tank_Fuel_0"
+  },
+  "translation": {
+    "Name": "Frost Pump #2"
+  }
+}

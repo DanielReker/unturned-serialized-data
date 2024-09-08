@@ -1,0 +1,15 @@
+{
+  "name": "GrandmaGrindset_Completed_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Grandma/Grandma_02/GrandmaGrindset_Completed_01/Asset.dat",
+  "data": {
+    "GUID": "df6b74cb594e4e8aadb3731c1ba36f3c",
+    "Type": "Dialogue",
+    "ID": "24418",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Let's see here... Oh! Here's one! And here's that cookie I promised!"
+  }
+}

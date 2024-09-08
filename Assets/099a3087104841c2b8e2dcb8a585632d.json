@@ -1,0 +1,43 @@
+{
+  "name": "Reinforced_Ramp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Structures/B2/RF2/Reinforced_Ramp/Reinforced_Ramp.dat",
+  "data": {
+    "GUID": "099a3087104841c2b8e2dcb8a585632d",
+    "Type": "Structure",
+    "Rarity": "Rare",
+    "Useable": "Structure",
+    "Construct": "Roof",
+    "ID": "51890",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.55",
+    "Health": "1500",
+    "Range": "8",
+    "Explosion": "29",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "51708",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "51018",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Structure",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51890",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "51023",
+    "Blueprint_1_Output_0_Amount": "3",
+    "Blueprint_1_Build": "27",
+    "Blueprint_1_Tool": "51025",
+    "Blueprint_1_Tool_Critical": "",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false",
+    "PlacementPreviewPrefab": "Items/Structures/B2/RF2/Reinforced_Ramp/Placement.prefab"
+  },
+  "translation": {
+    "Name": "Reinforced Roof",
+    "Description": "Reinforced roof. Beware of armored termites."
+  }
+}

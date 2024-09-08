@@ -1,0 +1,24 @@
+{
+  "name": "Heatwave_Iron_Sights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Sights/Heatwave_Iron_Sights/Heatwave_Iron_Sights.dat",
+  "data": {
+    "GUID": "20ae823a25f74405ab5742420772f3cc",
+    "Type": "Sight",
+    "ID": "5004",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.125",
+    "Paintable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "5004",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Suncrack Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

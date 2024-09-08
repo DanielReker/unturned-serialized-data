@@ -1,0 +1,21 @@
+{
+  "name": "PBS_Singer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Singer/Asset.dat",
+  "data": {
+    "GUID": "deefde910f6a4ff39328cc0328244db9",
+    "Type": "NPC",
+    "ID": "52730",
+    "Mask": "765",
+    "Shirt": "52037",
+    "Face": "18",
+    "Hair": "7",
+    "Beard": "0",
+    "Color_Skin": "#706049",
+    "Color_Hair": "#191919",
+    "Dialogue": "52731"
+  },
+  "translation": {
+    "Name": "PBS NPC Singer",
+    "Character": "Singer"
+  }
+}

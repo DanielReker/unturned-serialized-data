@@ -1,0 +1,13 @@
+{
+  "name": "Ex_Landmine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Bombs/Ex_Landmine/Ex_Landmine.dat",
+  "data": {
+    "GUID": "ff1bdd52eb4a4af6b8ce3c9507365659",
+    "Type": "Effect",
+    "ID": "25420",
+    "CameraShake_Radius": "16",
+    "CameraShake_MagnitudeDegrees": "30",
+    "Blast": "137"
+  },
+  "translation": null
+}

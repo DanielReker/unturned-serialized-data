@@ -1,0 +1,36 @@
+{
+  "name": "Firm_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Firm Matvel/Firm_Welcome/Asset.dat",
+  "data": {
+    "GUID": "a414d49d49e346ab8a9493976ac82a33",
+    "Type": "Dialogue",
+    "ID": "5051",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "5",
+    "Response_0_Vendor": "5052",
+    "Response_1_Dialogue": "5053",
+    "Response_2_Dialogue": "5057",
+    "Response_2_Conditions": "1",
+    "Response_2_Condition_0_Type": "Quest",
+    "Response_2_Condition_0_Logic": "Equal",
+    "Response_2_Condition_0_ID": "5055",
+    "Response_2_Condition_0_Status": "None",
+    "Response_3_Dialogue": "5059",
+    "Response_3_Quest": "5055",
+    "Response_3_Conditions": "1",
+    "Response_3_Condition_0_Type": "Quest",
+    "Response_3_Condition_0_Logic": "Equal",
+    "Response_3_Condition_0_ID": "5055",
+    "Response_3_Condition_0_Status": "Ready",
+    "Response_3_Condition_0_Reset": ""
+  },
+  "translation": {
+    "Message_0_Page_0": "Hey. Something you want to buy?, or something to help with?",
+    "Response_0": "Trade.",
+    "Response_1": "What are you doing?",
+    "Response_2": "Need something to help?",
+    "Response_3": "I found the Makarovs.",
+    "Response_4": "Bye!"
+  }
+}

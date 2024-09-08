@@ -1,0 +1,22 @@
+{
+  "name": "Terrya_Hat_XMAS",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Terrya_Hat_XMAS/Terrya_Hat_XMAS.dat",
+  "data": {
+    "GUID": "b6d5d6b58f5c49af8a7836899318aa7e",
+    "Rarity": "Uncommon",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "27062",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Beard": "",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Terrya_Hat_XMAS",
+    "Description": "NPC Hat."
+  }
+}

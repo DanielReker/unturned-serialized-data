@@ -1,0 +1,13 @@
+{
+  "name": "PS_Elevator_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Elevator_0/PS_Elevator_0.dat",
+  "data": {
+    "GUID": "8a90141767aa43389f7dc02ca202afba",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59657"
+  },
+  "translation": {
+    "Name": "PS Elevator #1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Graffiti_31",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Graffiti_31/PS_Graffiti_31.dat",
+  "data": {
+    "GUID": "801ae32919b64448b528e2f714e76749",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59864"
+  },
+  "translation": {
+    "Name": "PS Graffiti #32"
+  }
+}

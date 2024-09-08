@@ -1,0 +1,14 @@
+{
+  "name": "Ibrahim_Necessary_Chores__Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Afzetter Leader Ibrahim/Ibrahim_Necessary_Chores__Accepted/Asset.dat",
+  "data": {
+    "GUID": "d9f45096e6e54adf8cc05718666e69a6",
+    "Type": "Dialogue",
+    "ID": "9124",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I would have to kill you if you didn't accept."
+  }
+}

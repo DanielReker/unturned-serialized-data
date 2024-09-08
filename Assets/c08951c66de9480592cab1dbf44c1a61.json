@@ -1,0 +1,13 @@
+{
+  "name": "PS_Tank_Support_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Tank_Support_1/PS_Tank_Support_1.dat",
+  "data": {
+    "GUID": "c08951c66de9480592cab1dbf44c1a61",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59038"
+  },
+  "translation": {
+    "Name": "PS Tank Support#2"
+  }
+}

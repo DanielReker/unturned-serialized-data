@@ -1,0 +1,39 @@
+{
+  "name": "Mannequin_Plastic",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Mannequin_Plastic/Mannequin_Plastic.dat",
+  "data": {
+    "GUID": "f2ef59c1d68b478397e64622a9c4f92c",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Mannequin",
+    "ID": "51622",
+    "SalvageItem": "f2ef59c1d68b478397e64622a9c4f92c",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Health": "200",
+    "Range": "4",
+    "Radius": "0.8",
+    "Offset": "1",
+    "Explosion": "37",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "51028",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Supply_1_ID": "51020",
+    "Blueprint_0_Supply_1_Amount": "4",
+    "Blueprint_0_Build": "27",
+    "Ignore_TexRW": "",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/Mannequin_Cloth",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Plastic Mannequin",
+    "Description": "Plastic mannequin for storing clothes on."
+  }
+}

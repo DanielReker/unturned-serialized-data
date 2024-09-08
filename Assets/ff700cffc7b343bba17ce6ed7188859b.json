@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Bricks_Drops",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Kuwait_Bricks_Drops/Kuwait_Bricks_Drops.dat",
+  "data": {
+    "GUID": "ff700cffc7b343bba17ce6ed7188859b",
+    "Type": "Spawn",
+    "ID": "7133",
+    "Tables": "1",
+    "Table_0_Asset_ID": "5502",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

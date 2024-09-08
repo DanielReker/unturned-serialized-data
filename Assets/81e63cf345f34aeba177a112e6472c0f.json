@@ -1,0 +1,26 @@
+{
+  "name": "Metro_Radio_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Military/Metro_Radio_1/Metro_Radio_1.dat",
+  "data": {
+    "GUID": "81e63cf345f34aeba177a112e6472c0f",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Useable": "Barricade",
+    "Build": "Stereo",
+    "Rarity": "Mythical",
+    "ID": "57611",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.4",
+    "Health": "65000",
+    "Range": "4",
+    "Radius": "0.2",
+    "Offset": "0.25",
+    "Explosion": "36",
+    "Unpickupable": ""
+  },
+  "translation": {
+    "Name": "Military Radio Object",
+    "Description": "<color=#FF0000>Unobtainable</color>"
+  }
+}

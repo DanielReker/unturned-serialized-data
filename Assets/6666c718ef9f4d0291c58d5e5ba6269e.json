@@ -1,0 +1,15 @@
+{
+  "name": "Mortar",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Effects/Test/Mortar/Mortar.dat",
+  "data": {
+    "GUID": "6666c718ef9f4d0291c58d5e5ba6269e",
+    "Type": "Effect",
+    "ID": "51093",
+    "Spawn_On_Dedicated_Server": "True",
+    "Relevant_Distance": "5000",
+    "Lifetime": "15",
+    "Lifetime_Spread": "0",
+    "Should_Play_Anims_On_Dedicated_Server": "True"
+  },
+  "translation": null
+}

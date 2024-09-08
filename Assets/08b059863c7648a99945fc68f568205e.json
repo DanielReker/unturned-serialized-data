@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Pyrite",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Pyrite/Buak_Pyrite.dat",
+  "data": {
+    "GUID": "08b059863c7648a99945fc68f568205e",
+    "Type": "Spawn",
+    "ID": "25451",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25350",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

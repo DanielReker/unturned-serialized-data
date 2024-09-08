@@ -1,0 +1,26 @@
+{
+  "name": "Whatztha_Fuzz",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Whatztha_Fuzz/Whatztha_Fuzz.dat",
+  "data": {
+    "GUID": "a539f18c92f3483ca54765248002d0ea",
+    "Type": "Food",
+    "Rarity": "Legendary",
+    "Useable": "Consumeable",
+    "ID": "25719",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Use_Auto_Icon_Measurements": "False",
+    "Left_Handed_Characters_Mirror_Equipable": "false",
+    "Food": "10",
+    "Water": "0",
+    "Quality_Min": "80",
+    "Quality_Max": "100",
+    "ConsumeAudioClip": "Sounds/Food/EatCrunchyFizzy.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Whatztha Fuzz",
+    "Description": "Sour rock candy with a fizzy sugary inside."
+  }
+}

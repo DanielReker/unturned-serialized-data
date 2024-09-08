@@ -1,0 +1,18 @@
+{
+  "name": "PaintingDango",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PaintingDango/PaintingDango.dat",
+  "data": {
+    "GUID": "adb1595ecf914469b018bcfa8be70b38",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "58",
+    "Rubble_Reward_ID": "51239"
+  },
+  "translation": {
+    "Name": "PBS Painting Dango"
+  }
+}

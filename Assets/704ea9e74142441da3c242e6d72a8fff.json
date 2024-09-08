@@ -1,0 +1,28 @@
+{
+  "name": "25240KuwaitSebastianFinal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/4/C/25240KuwaitSebastianFinal/Asset.dat",
+  "data": {
+    "GUID": "704ea9e74142441da3c242e6d72a8fff",
+    "Type": "NPC",
+    "ID": "25240",
+    "Hat": "1761",
+    "Mask": "1762",
+    "Vest": "1760",
+    "Shirt": "1759",
+    "Pants": "1758",
+    "Face": "16",
+    "Hair": "14",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#191919",
+    "Dialogue": "25241",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "25050",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "KuwaitFINALSebastian",
+    "Character": "Sebastian"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tank_Profile",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Content/Vehicle/Tank_Profile.asset",
+  "data": {
+    "GUID": "3e927d82f7f54282bb43afd62e036225",
+    "Type": "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Wheel_Suspension_Damper": "10",
+    "Wheel_Drive_Model": "All",
+    "Wheel_Damping_Rate": "0.7",
+    "Carjack_Force_Multiplier": "1"
+  },
+  "translation": null
+}

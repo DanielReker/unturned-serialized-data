@@ -1,0 +1,27 @@
+{
+  "name": "Greece_Military_Sights_Low",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Spawns/Greece_Items/Greece_Military_Sights_Low/Greece_Military_Sights_Low.dat",
+  "data": {
+    "GUID": "7624d291dd4542fea8bfe7b12a491066",
+    "Type": "Spawn",
+    "ID": "1011",
+    "Tables": "8",
+    "Table_0_Asset_ID": "146",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "147",
+    "Table_1_Weight": "100",
+    "Table_2_Asset_ID": "22",
+    "Table_2_Weight": "100",
+    "Table_3_Asset_ID": "1004",
+    "Table_3_Weight": "100",
+    "Table_4_Asset_ID": "148",
+    "Table_4_Weight": "100",
+    "Table_5_Asset_ID": "153",
+    "Table_5_Weight": "80",
+    "Table_6_Asset_ID": "21",
+    "Table_6_Weight": "75",
+    "Table_7_Asset_ID": "296",
+    "Table_7_Weight": "60"
+  },
+  "translation": null
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Radio_Help_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Other/Radio/Radio_Help_1/Asset.dat",
+  "data": {
+    "GUID": "25edccca23c84b54870ef3310a176af4",
+    "Type": "Dialogue",
+    "ID": "24217",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "9d81584b32ae42898467477acab03c97",
+    "Response_0_Quest": "b85248b598b84e0a84e77ce658b272bf",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "b85248b598b84e0a84e77ce658b272bf",
+    "Response_0_Condition_0_Status": "Ready",
+    "Response_0_Condition_0_Reset": ""
+  },
+  "translation": {
+    "Message_0_Page_0": "Hello! I'm just passing through Buak, though my boat has a large hole in it. You wouldn't happen to have some tape would you?",
+    "Response_0": "I have some here!",
+    "Response_1": "I'll look for some!"
+  }
+}

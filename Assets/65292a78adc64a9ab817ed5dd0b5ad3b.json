@@ -1,0 +1,13 @@
+{
+  "name": "Peaks_Special_High_Peaks",
+  "path": "Bundles/Spawns/Items/Peaks_Special_High_Peaks/Peaks_Special_High_Peaks.dat",
+  "data": {
+    "GUID": "65292a78adc64a9ab817ed5dd0b5ad3b",
+    "Type": "Spawn",
+    "ID": "698",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "688",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

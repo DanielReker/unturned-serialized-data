@@ -1,0 +1,18 @@
+{
+  "name": "Greece_Maple_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Assets/Trees/Greece_Maple_1.asset",
+  "data": {
+    "GUID": "c23508a06e0c46899d10bf757698353b",
+    "Type": "SDG.Framework.Foliage.FoliageResourceInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Density": "4000",
+    "Min_Weight": "0.5",
+    "Max_Weight": "1",
+    "Min_Angle": "0",
+    "Max_Angle": "60",
+    "Resource": {
+      "GUID": "f02f397734dd49c1a2be73e59753c6ad"
+    },
+    "Obstruction_Radius": "4"
+  },
+  "translation": null
+}

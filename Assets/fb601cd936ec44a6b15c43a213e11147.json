@@ -1,0 +1,26 @@
+{
+  "name": "Sailor Lukas",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Sailor Lukas/Asset.dat",
+  "data": {
+    "GUID": "fb601cd936ec44a6b15c43a213e11147",
+    "Type": "NPC",
+    "ID": "9164",
+    "Shirt": "9040",
+    "Pants": "9041",
+    "Hat": "9042",
+    "Primary": "138",
+    "Secondary": "1033",
+    "Equipped": "Primary",
+    "Pose": "Crouch",
+    "Face": "5",
+    "Hair": "0",
+    "Beard": "1",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#0F0F0F",
+    "Dialogue": "9164"
+  },
+  "translation": {
+    "Name": "Sailor Lukas",
+    "Character": "Lukas"
+  }
+}

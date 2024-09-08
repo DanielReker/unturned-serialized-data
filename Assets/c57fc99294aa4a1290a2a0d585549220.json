@@ -1,0 +1,13 @@
+{
+  "name": "Quarry_Conveyor_2",
+  "path": "Bundles/Objects/Medium/Business/Quarry_Conveyor_2/Quarry_Conveyor_2.dat",
+  "data": {
+    "GUID": "c57fc99294aa4a1290a2a0d585549220",
+    "Type": "Medium",
+    "ID": "881",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Quarry Conveyor Cap"
+  }
+}

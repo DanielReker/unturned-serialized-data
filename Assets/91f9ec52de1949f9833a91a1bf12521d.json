@@ -1,0 +1,36 @@
+{
+  "name": "Door_Key",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Quests/Military/Security/Door_Key/Asset.dat",
+  "data": {
+    "GUID": "91f9ec52de1949f9833a91a1bf12521d",
+    "Type": "Quest",
+    "ID": "3465",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3347",
+    "Condition_0_Value": "3",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "5",
+    "Reward_0_Type": "Reputation",
+    "Reward_0_Value": "5",
+    "Reward_1_Type": "Experience",
+    "Reward_1_Value": "25",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "3030",
+    "Reward_2_Value": "1",
+    "Reward_2_Modification": "Increment",
+    "Reward_3_Type": "Flag_Short",
+    "Reward_3_ID": "3347",
+    "Reward_3_Value": "1",
+    "Reward_3_Modification": "Increment",
+    "Reward_4_Type": "Flag_Short",
+    "Reward_4_ID": "3351",
+    "Reward_4_Value": "2",
+    "Reward_4_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "Open the Gates",
+    "Description": "To operate the gates, <color=rare>Officer Philip</color> needs you to first find an oil can.",
+    "Condition_0": "Find Oil Can"
+  }
+}

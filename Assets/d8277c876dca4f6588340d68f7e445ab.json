@@ -1,0 +1,14 @@
+{
+  "name": "Dmitriy_Documents_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Dmitriy Davidov/Dmitriy_Documents_Accepted/Asset.dat",
+  "data": {
+    "GUID": "d8277c876dca4f6588340d68f7e445ab",
+    "Type": "Dialogue",
+    "ID": "5170",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm waiting for you to get those documents."
+  }
+}

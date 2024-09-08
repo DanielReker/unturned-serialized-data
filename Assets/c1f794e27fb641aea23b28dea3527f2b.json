@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Pyro",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Pyro/Drop_Pyro.dat",
+  "data": {
+    "GUID": "c1f794e27fb641aea23b28dea3527f2b",
+    "Type": "Spawn",
+    "ID": "25495",
+    "Tables": [
+      {
+        "Guid": "5a99ff2f696d446f91661f92b40a48cc",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

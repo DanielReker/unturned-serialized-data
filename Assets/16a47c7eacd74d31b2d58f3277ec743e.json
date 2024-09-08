@@ -1,0 +1,18 @@
+{
+  "name": "Frost_NPC_Craft_Energy_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Frost_NPC_Craft_Energy_03/Frost_NPC_Craft_Energy_03.dat",
+  "data": {
+    "GUID": "16a47c7eacd74d31b2d58f3277ec743e",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "36022",
+    "Condition_0_Value": "4",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Frost NPC Craft Energy #4"
+  }
+}

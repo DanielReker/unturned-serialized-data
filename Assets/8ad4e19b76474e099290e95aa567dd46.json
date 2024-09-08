@@ -1,0 +1,16 @@
+{
+  "name": "Furniture_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Assets/Material_Palettes/Furniture_0.asset",
+  "data": {
+    "GUID": "8ad4e19b76474e099290e95aa567dd46",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "california.masterbundle",
+        "Path": "palettes/furniture_0/furniture_0.mat"
+      }
+    ]
+  },
+  "translation": null
+}

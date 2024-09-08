@@ -1,0 +1,13 @@
+{
+  "name": "PS_Graffiti_70",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Graffiti_70/PS_Graffiti_70.dat",
+  "data": {
+    "GUID": "f2838d9c88e44349afc2fb810a401890",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60131"
+  },
+  "translation": {
+    "Name": "PS Graffiti #71 [Zombo]"
+  }
+}

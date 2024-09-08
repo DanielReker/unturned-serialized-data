@@ -1,0 +1,38 @@
+{
+  "name": "Metro_Trophy_Pine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Overrides_Barricades_Pine/Metro_Trophy_Pine/Metro_Trophy_Pine.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "70c187d9967f4fcbb505f4849a6eba30",
+    "Type": "Storage",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Storage",
+    "ID": "57364",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Health": "100",
+    "Range": "4",
+    "Radius": "0.5",
+    "Offset": "1.25",
+    "Vulnerable": "",
+    "Storage_X": "7",
+    "Storage_Y": "3",
+    "Display": "",
+    "Explosion": "29",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "63",
+    "Blueprint_0_Supply_0_Amount": "5",
+    "Blueprint_0_Build": "27",
+    "Should_Close_When_Outside_Range": "true",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/Trophy_Pine",
+    "PlacementAudioClip": "Sounds/WoodenPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Pine Trophy Case",
+    "Description": "<color=#64c819>+21</color> Slots                                                         <color=#64c819>100</color> Health"
+  }
+}

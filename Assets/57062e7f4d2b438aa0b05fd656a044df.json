@@ -1,0 +1,17 @@
+{
+  "name": "Metro_Firetruck_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Firetruck_0/Metro_Firetruck_0.dat",
+  "data": {
+    "GUID": "57062e7f4d2b438aa0b05fd656a044df",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57322",
+    "Interactability": "Fuel",
+    "Interactability_Reset": "4500",
+    "Interactability_Resource": "500",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Firetruck #1"
+  }
+}

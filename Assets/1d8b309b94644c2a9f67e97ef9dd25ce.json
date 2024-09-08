@@ -1,0 +1,15 @@
+{
+  "name": "France_Hecate_Upgrade_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Engineer/France_Hecate_Upgrade_Completed/Asset.dat",
+  "data": {
+    "GUID": "1d8b309b94644c2a9f67e97ef9dd25ce",
+    "Type": "Dialogue",
+    "ID": "4112",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Okay, great job getting your hands on one of these things.",
+    "Message_0_Page_1": "Here you go. Now remember: Unlike any of the other things I've given you, I cannot replace this one. If you lose it, it's gone."
+  }
+}

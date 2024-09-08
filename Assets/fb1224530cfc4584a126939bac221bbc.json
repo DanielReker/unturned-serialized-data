@@ -1,0 +1,41 @@
+{
+  "name": "PS_Random_2_Quest_13",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Random_2_Dialogue/PS_Random_2_Quest_13/Asset.dat",
+  "data": {
+    "GUID": "fb1224530cfc4584a126939bac221bbc",
+    "Type": "Quest",
+    "ID": "59215",
+    "Conditions": "3",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59102  ",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "59559  ",
+    "Condition_1_Amount": "1",
+    "Condition_1_Reset": "",
+    "Condition_2_Type": "Item",
+    "Condition_2_ID": "59599  ",
+    "Condition_2_Amount": "1",
+    "Condition_2_Reset": "",
+    "Rewards": "4",
+    "Reward_3_Type": "Flag_Short",
+    "Reward_3_ID": "59347",
+    "Reward_3_Value": "1",
+    "Reward_3_Modification": "Increment",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "500",
+    "Reward_1_Type": "Flag_Short_Random",
+    "Reward_1_ID": "59224",
+    "Reward_1_Min_Value": "0",
+    "Reward_1_Max_Value": "17",
+    "Reward_1_Modification": "Assign",
+    "Reward_2_Type": "Item",
+    "Reward_2_ID": "59355",
+    "Reward_2_Amount": "6"
+  },
+  "translation": {
+    "Name": "Back to School",
+    "Description": "Bring 1x <color=#1f871f>Red Knapsack</color>, 1x <color=#ffffff>Blue Pen</color>, 1x <color=#1f871f>Notepad</color>."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Nuclear_Silo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Nuclear_Silo/Nuclear_Silo.dat",
+  "data": {
+    "GUID": "ef4e90be52064ab2bdafc52352267b4d",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Nuclear Silo"
+  }
+}

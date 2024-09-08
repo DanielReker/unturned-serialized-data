@@ -1,0 +1,17 @@
+{
+  "name": "FirstLove_Hammer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Alexander/Alexander_02/FirstLove_Hammer/Asset.dat",
+  "data": {
+    "GUID": "acf5d1955b1e4148b271bdcb2cc7e607",
+    "Type": "Dialogue",
+    "ID": "24562",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "5"
+  },
+  "translation": {
+    "Message_0_Page_0": "A forging hammer? Sure I have one of those, thanks to you actually! It's in my tool box, just make sure to return it when you're done! ",
+    "Response_0": "Thanks!",
+    "Response_1": "Not now."
+  }
+}

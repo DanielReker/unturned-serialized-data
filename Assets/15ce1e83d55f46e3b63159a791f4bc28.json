@@ -1,0 +1,36 @@
+{
+  "name": "PS_A_Table_Cloth_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/Material_Palettes/PS_A_Table_Cloth_0.asset",
+  "data": {
+    "GUID": "15ce1e83d55f46e3b63159a791f4bc28",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/table_cloth_0/table_cloth_0.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/table_cloth_0/table_cloth_1.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/table_cloth_0/table_cloth_2.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/table_cloth_0/table_cloth_3.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/table_cloth_0/table_cloth_4.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/table_cloth_0/table_cloth_5.mat"
+      }
+    ]
+  },
+  "translation": null
+}

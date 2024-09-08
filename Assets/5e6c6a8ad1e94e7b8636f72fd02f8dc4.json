@@ -1,0 +1,28 @@
+{
+  "name": "RugShopping_02_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Carter/Carter_02/RugShopping_02_Welcome/Asset.dat",
+  "data": {
+    "GUID": "5e6c6a8ad1e94e7b8636f72fd02f8dc4",
+    "Type": "Dialogue",
+    "ID": "24532",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "5",
+    "Responses": "2",
+    "Response_0_Dialogue": "8348a05cee7e4e3486a895435c9a69ac",
+    "Response_0_Quest": "d0a26eb5f18a493e94680f82c3860470",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "d0a26eb5f18a493e94680f82c3860470",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "d0a26eb5f18a493e94680f82c3860470"
+  },
+  "translation": {
+    "Message_0_Page_0": "This time could you hunt a bear and bring me the rug?",
+    "Response_0": "Sure thing!",
+    "Response_1": "Not now."
+  }
+}

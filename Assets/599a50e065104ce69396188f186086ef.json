@@ -1,0 +1,22 @@
+{
+  "name": "Easter_Note_Charlie_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Small/Notes/Easter_Note_Charlie_0/Easter_Note_Charlie_0.dat",
+  "data": {
+    "GUID": "599a50e065104ce69396188f186086ef",
+    "Type": "Small",
+    "ID": "6838",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Easter Note - Vermillin Charlie #1",
+    "Interactability_Text_Line_0": "Log 4/3/17 - Research Outpost: Charlie",
+    "Interactability_Text_Line_1": "------",
+    "Interactability_Text_Line_2": "Ore samples from the surrounding hills and cliffs have been extracted. The local farmers seem upset with our extraction method, the BFD, but so far they haven’t caused us any problems. Analysis on the rock will begin within the next few hours."
+  }
+}

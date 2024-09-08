@@ -1,0 +1,14 @@
+{
+  "name": "29633KAC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/3/D/29630KAD/29633KAC/Asset.dat",
+  "data": {
+    "GUID": "b9422d461fa44ffe9f4cee3fe9b1775a",
+    "Type": "Dialogue",
+    "ID": "29633",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "That's a perfect looking table, nice job!"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "SpawnBottom",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/SpawnBottom/SpawnBottom.dat",
+  "data": {
+    "GUID": "ac1ecf1605f04baabe45f5d54ea06cbe",
+    "Type": "Spawn",
+    "ID": "51156",
+    "Tables": [
+      {
+        "Guid": "aa0cb9830b0545768cf38e1c177def6c",
+        "Weight": "1"
+      },
+      {
+        "Guid": "ae3a10115e5c496e93e3498c93bdbaca",
+        "Weight": "1"
+      },
+      {
+        "Guid": "31365dd7fcc54a8cb46ce467b45d20ca",
+        "Weight": "1"
+      },
+      {
+        "Guid": "e6f29824b0f84e97bc9dea1fe314f41a",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PS_Hut_Door_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Hut_Door_2/PS_Hut_Door_2.dat",
+  "data": {
+    "GUID": "e3936ab0d1a24e9095223e948e3caa7c",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59090",
+    "Material_Palette": "6b68dafe852c4ce29957c8a393d8806c"
+  },
+  "translation": {
+    "Name": "PS Hut Door #3"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PosterHOPE",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PosterHOPE/PosterHOPE.dat",
+  "data": {
+    "GUID": "94071b0e441b4e53bd58db90e8d44b54",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "58",
+    "Rubble_Reward_ID": "51252"
+  },
+  "translation": {
+    "Name": "PBS Poster HOPE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "PS_Airdrop_Crate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Barricades/PS_Airdrop_Crate/PS_Airdrop_Crate.dat",
+  "data": {
+    "GUID": "2ec1d0298c034665be1c8712e9689612",
+    "Type": "Storage",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Storage",
+    "ID": "59708",
+    "SalvageItem": "2ec1d0298c034665be1c8712e9689612",
+    "Min_Items_Dropped_On_Destroy": "3",
+    "Max_Items_Dropped_On_Destroy": "5",
+    "Item_Dropped_On_Destroy": "f732c2df33ec4fdd8c665ded56f5b2d5",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "1",
+    "Health": "1500",
+    "Storage_X": "10",
+    "Storage_Y": "10",
+    "Explosion": "19",
+    "Vulnerable": "",
+    "Unrepairable": "",
+    "Unpickupable": "",
+    "Unsaveable": "",
+    "Should_Close_When_Outside_Range": "true"
+  },
+  "translation": {
+    "Name": "Airdrop Crate",
+    "Description": "Large metal crate for airdropped supplies."
+  }
+}

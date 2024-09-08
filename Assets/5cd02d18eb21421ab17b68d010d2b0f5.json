@@ -1,0 +1,37 @@
+{
+  "name": "Metro_LO_Ranger",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Weapons/Metro_LO_Ranger/Metro_LO_Ranger.dat",
+  "data": {
+    "GUID": "5cd02d18eb21421ab17b68d010d2b0f5",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "57113",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Amount": "40",
+    "Count_Min": "30",
+    "Count_Max": "40",
+    "Blueprints": "4",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "57056",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "57061",
+    "Blueprint_1_Build": "30",
+    "Blueprint_2_Type": "Ammo",
+    "Blueprint_2_Supplies": "1",
+    "Blueprint_2_Supply_0_ID": "57111",
+    "Blueprint_2_Build": "30",
+    "Blueprint_3_Type": "Ammo",
+    "Blueprint_3_Supplies": "1",
+    "Blueprint_3_Supply_0_ID": "57113",
+    "Blueprint_3_Build": "30"
+  },
+  "translation": {
+    "Name": "Low Caliber Ammunition Box",
+    "Description": "<color=#64c819>Low</color> Caliber                                                    <color=#64c819>25</color> Vehicle Damage                                                    <color=#64c819>40</color> Round Capacity"
+  }
+}

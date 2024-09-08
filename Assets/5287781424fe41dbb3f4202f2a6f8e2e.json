@@ -1,0 +1,42 @@
+{
+  "name": "Persian_Blue",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Carpets/Persian_Blue/Persian_Blue.dat",
+  "data": {
+    "GUID": "5287781424fe41dbb3f4202f2a6f8e2e",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "Min_Items_Dropped_On_Destroy": "2",
+    "Max_Items_Dropped_On_Destroy": "2",
+    "Item_Dropped_On_Destroy": "edd1ce0fd90041b89e909cc303fada46",
+    "ID": "52122",
+    "SalvageItem": "5287781424fe41dbb3f4202f2a6f8e2e",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.45",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "52122",
+    "Blueprint_0_Product": "51020",
+    "Blueprint_0_Products": "3",
+    "Blueprint_0_Build": "27",
+    "Health": "25",
+    "Range": "4",
+    "Radius": "0.1",
+    "Offset": "0.1",
+    "Explosion": "36",
+    "Vulnerable": "",
+    "Salvage_Duration_Multiplier": "0.25",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Bypass_Pickup_Ownership": "True",
+    "Has_Clip_Prefab": "False",
+    "Use_Auto_Icon_Measurements": "False",
+    "PlacementPreviewPrefab": "Items/Barricades/Carpets/Lunar_Black/Placement.prefab"
+  },
+  "translation": {
+    "Name": "Persian Carpet (Blue)",
+    "Description": "A persian themed carpet."
+  }
+}

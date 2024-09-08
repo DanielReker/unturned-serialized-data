@@ -1,0 +1,30 @@
+{
+  "name": "Simon_Frying_Pan",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Quests/Simon_Frying_Pan/Asset.dat",
+  "data": {
+    "GUID": "5e695b7f58304b1ab3069ddbeb19f878",
+    "Type": "Quest",
+    "ID": "9226",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "9230",
+    "Condition_0_Value": "3",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Rewards": "4",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "20",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "20",
+    "Reward_2_Type": "Item ",
+    "Reward_2_ID": "9051",
+    "Reward_2_Amount": "1",
+    "Reward_3_Type": "Item ",
+    "Reward_3_ID": "43",
+    "Reward_3_Amount": "1"
+  },
+  "translation": {
+    "Name": "<color=uncommon>Out of the Frying Pan</color>",
+    "Description": "Legend has it that dragon scales are scattered around Belgium when The Beasts would roam around freely causing chaos wherever they went. I think I may have seen a man selling one at the farmers market in Brussels. There was also a possible siting of one of the scales washed up on Konnoke Beach. The last one was said to be in Southern Belgium buried in the river floor by an island.",
+    "Condition_0": "Find {0}/{1} Dragon Scales"
+  }
+}

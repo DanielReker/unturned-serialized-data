@@ -1,0 +1,20 @@
+{
+  "name": "PS_Mine_Door_12",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Mine_Door_12/PS_Mine_Door_12.dat",
+  "data": {
+    "GUID": "1ce70c9eba174db8aee088dd15d2dff5",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60054",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/PS_Mine_Door_3",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "Mine_Exit_4"
+  },
+  "translation": {
+    "Name": "PS Mine Door #13 [Mine_Exit_4]",
+    "Interact": "Exit the mine [{0}]"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Scrap",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Scrap/Drop_Scrap.dat",
+  "data": {
+    "GUID": "32e0571e364144e689efe5f8980b6f6b",
+    "Type": "Spawn",
+    "ID": "25491",
+    "Tables": [
+      {
+        "Guid": "406f67ed5ecb40a2a1310f9c820eb693",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

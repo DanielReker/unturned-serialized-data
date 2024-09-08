@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Rug_Goat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Rug_Goat/Drop_Rug_Goat.dat",
+  "data": {
+    "GUID": "a95e3d33f7504192b335a016e0c4e201",
+    "Type": "Spawn",
+    "ID": "25535",
+    "Tables": [
+      {
+        "Guid": "4836f2c226d3410cb717a13541c5bb10",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

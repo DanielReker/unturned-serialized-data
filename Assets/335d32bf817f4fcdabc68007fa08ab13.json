@@ -1,0 +1,13 @@
+{
+  "name": "PS_Zil_Truck_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Zil_Truck_3/PS_Zil_Truck_3.dat",
+  "data": {
+    "GUID": "335d32bf817f4fcdabc68007fa08ab13",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59705"
+  },
+  "translation": {
+    "Name": "PS ZIL Truck #4"
+  }
+}

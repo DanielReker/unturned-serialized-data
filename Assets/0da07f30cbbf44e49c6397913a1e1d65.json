@@ -1,0 +1,25 @@
+{
+  "name": "PS_Baking_Pan",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Baking_Pan/PS_Baking_Pan.dat",
+  "data": {
+    "GUID": "0da07f30cbbf44e49c6397913a1e1d65",
+    "Type": "Supply",
+    "Rarity": "Common",
+    "ID": "59029",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.46",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59029",
+    "Blueprint_0_Product": "59000",
+    "Blueprint_0_Products": "3",
+    "Blueprint_0_Tool": "59004",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Baking Pan",
+    "Description": "Flat, rectangular metal pan used in an oven."
+  }
+}

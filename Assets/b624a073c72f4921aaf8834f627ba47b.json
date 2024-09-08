@@ -1,0 +1,112 @@
+{
+  "name": "Mattress",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Mattress/Mattress.dat",
+  "data": {
+    "GUID": "b624a073c72f4921aaf8834f627ba47b",
+    "Type": "Spawn",
+    "ID": "51109",
+    "Tables": [
+      {
+        "Guid": "b4ae62cd808a4b43bd082ee3d72bff29",
+        "Weight": "4"
+      },
+      {
+        "Guid": "7355a81e6d8e40b191b44613a8242085",
+        "Weight": "4"
+      },
+      {
+        "Guid": "9d11283a83fc4701aeca4ae0b97b9603",
+        "Weight": "4"
+      },
+      {
+        "Guid": "d30dd4170c5043848aac3a345878d521",
+        "Weight": "4"
+      },
+      {
+        "Guid": "b220599f232b4576954aef2cf2dbdaa3",
+        "Weight": "4"
+      },
+      {
+        "Guid": "32c747793fae4ffd98876fe351837f8f",
+        "Weight": "4"
+      },
+      {
+        "Guid": "3fb7c148d88b4ecaafc5239166723eaa",
+        "Weight": "4"
+      },
+      {
+        "Guid": "bc25f58c6f4e45438783060353bc3f4c",
+        "Weight": "4"
+      },
+      {
+        "Guid": "190fe24c375344d08dd4c77a0d4f0066",
+        "Weight": "4"
+      },
+      {
+        "Guid": "27fece9c9d084b7a91d8a6c7ae5593c7",
+        "Weight": "4"
+      },
+      {
+        "Guid": "ccdd0da5764b43d293c72a256ceb042d",
+        "Weight": "3"
+      },
+      {
+        "Guid": "138ce4f539e741d8a5a5b20dd4e04f70",
+        "Weight": "3"
+      },
+      {
+        "Guid": "c3776737cd0a4b3083150f113f790664",
+        "Weight": "3"
+      },
+      {
+        "Guid": "a2f3c657e8444abe8fc9e288f5a11d0a",
+        "Weight": "2"
+      },
+      {
+        "Guid": "dcc46cf3050a4f4e85e9663986473af3",
+        "Weight": "2"
+      },
+      {
+        "Guid": "adbbf422a68b41c8be8bd70fc4bbffe3",
+        "Weight": "2"
+      },
+      {
+        "Guid": "d5a3cfab80c047cfa71167ea64d8949f",
+        "Weight": "2"
+      },
+      {
+        "Guid": "371049d2e443457791d3804d892e642d",
+        "Weight": "2"
+      },
+      {
+        "Guid": "27463a7eb9d048d799350772491e2fc4",
+        "Weight": "2"
+      },
+      {
+        "Guid": "c9aeaed770b24d7eb54698143fb28e53",
+        "Weight": "1"
+      },
+      {
+        "Guid": "cb57613127ef467ba4e7e7e45696b82e",
+        "Weight": "1"
+      },
+      {
+        "Guid": "a428761c6fa44e639aa5cb702db02987",
+        "Weight": "1"
+      },
+      {
+        "Guid": "56a3c62bff154b0f81a51ebcbad8e8c0",
+        "Weight": "1"
+      },
+      {
+        "Guid": "06b308aaa5694bb59085ceb6f64a217d",
+        "Weight": "1"
+      },
+      {
+        "Guid": "e85ca977a03746698388ab501939f799",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

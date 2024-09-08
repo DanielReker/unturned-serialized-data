@@ -1,0 +1,17 @@
+{
+  "name": "Kuwait_Outlands_Boulder_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Scenery/Kuwait_Outlands_Boulder_3/Kuwait_Outlands_Boulder_3.dat",
+  "data": {
+    "GUID": "be433f8964ae4146886ceb57d70a189a",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5476",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Outlands Boulder #4"
+  }
+}

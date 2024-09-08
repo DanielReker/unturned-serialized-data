@@ -1,0 +1,23 @@
+{
+  "name": "Greece_Military_Magazines_High",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Spawns/Greece_Items/Greece_Military_Magazines_High/Greece_Military_Magazines_High.dat",
+  "data": {
+    "GUID": "3ed0b0c5e1cd4c069867a4fad21dfc03",
+    "Type": "Spawn",
+    "ID": "1009",
+    "Tables": "6",
+    "Table_0_Asset_ID": "6",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "3513",
+    "Table_1_Weight": "100",
+    "Table_2_Asset_ID": "3523",
+    "Table_2_Weight": "90",
+    "Table_3_Asset_ID": "17",
+    "Table_3_Weight": "25",
+    "Table_4_Asset_ID": "113",
+    "Table_4_Weight": "10",
+    "Table_5_Asset_ID": "3516",
+    "Table_5_Weight": "1"
+  },
+  "translation": null
+}

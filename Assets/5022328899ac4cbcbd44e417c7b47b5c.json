@@ -1,0 +1,13 @@
+{
+  "name": "PS_Radio_Tower_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Radio_Tower_0/PS_Radio_Tower_0.dat",
+  "data": {
+    "GUID": "5022328899ac4cbcbd44e417c7b47b5c",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59539"
+  },
+  "translation": {
+    "Name": "PS Radio Tower #1"
+  }
+}

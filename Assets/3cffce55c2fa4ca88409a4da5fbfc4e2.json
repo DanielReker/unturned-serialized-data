@@ -1,0 +1,13 @@
+{
+  "name": "Ural_Russia",
+  "path": "Bundles/Objects/Large/Vehicles/Ural_Russia/Ural_Russia.dat",
+  "data": {
+    "GUID": "3cffce55c2fa4ca88409a4da5fbfc4e2",
+    "Type": "Large",
+    "ID": "629",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Russia Ural"
+  }
+}

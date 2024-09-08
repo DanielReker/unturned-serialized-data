@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Police_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Buildings/Kuwait_Police_1/Kuwait_Police_1.dat",
+  "data": {
+    "GUID": "b90bea83af5d43879f20213f6cc2ae73",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5337",
+    "LOD": "Area",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Police #2"
+  }
+}

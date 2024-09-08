@@ -1,0 +1,16 @@
+{
+  "name": "Lifeguard_1",
+  "path": "Bundles/Objects/Medium/Parks/Lifeguard_1/Lifeguard_1.dat",
+  "data": {
+    "GUID": "d324c061c47f492795ee723c4ec6900e",
+    "Type": "Medium",
+    "ID": "690",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "60",
+    "Rubble_Health": "1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Lifeguard #2"
+  }
+}

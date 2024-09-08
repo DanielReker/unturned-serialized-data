@@ -1,0 +1,14 @@
+{
+  "name": "Captain_Replacement_Uniform",
+  "path": "Bundles/NPCs/Dialogues/Captain/Captain_Replacement_Uniform/Asset.dat",
+  "data": {
+    "GUID": "6f66a1cb072f4fd5b5fa96fd467cf192",
+    "Type": "Dialogue",
+    "ID": "72",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Uniform supply is one of <color=uncommon>Ensign Franklin</color>'s responsibilities, you can buy a replacement from him."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Greece_StableDoor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Assets/Material_Palettes/Greece_StableDoor.asset",
+  "data": {
+    "GUID": "538db5dc9cdf45edab3549e328a2b2b6",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "7",
+    "Materials": [
+      {
+        "Name": "greece.masterbundle",
+        "Path": "Objects/Material_Palettes/Greece_StableDoors/StableDoor_0.mat"
+      },
+      {
+        "Name": "greece.masterbundle",
+        "Path": "Objects/Material_Palettes/Greece_StableDoors/StableDoor_1.mat"
+      },
+      {
+        "Name": "greece.masterbundle",
+        "Path": "Objects/Material_Palettes/Greece_StableDoors/StableDoor_2.mat"
+      },
+      {
+        "Name": "greece.masterbundle",
+        "Path": "Objects/Material_Palettes/Greece_StableDoors/StableDoor_3.mat"
+      }
+    ]
+  },
+  "translation": null
+}

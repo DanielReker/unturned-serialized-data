@@ -1,0 +1,35 @@
+{
+  "name": "Kuwait_Firetruck_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Firetruck_0/Kuwait_Firetruck_0.dat",
+  "data": {
+    "GUID": "c603175f6ce04a82a3da202acb610184",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon",
+    "ID": "5044",
+    "Speed_Min": "-6",
+    "Speed_Max": "14.5",
+    "Steer_Min": "24",
+    "Steer_Max": "48",
+    "Brake": "32",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "2250",
+    "Health_Min": "500",
+    "Health_Max": "600",
+    "Health": "700",
+    "Traction": "",
+    "Trunk_Storage_X": "6",
+    "Trunk_Storage_Y": "5",
+    "Explosion": "20",
+    "Tires_Invulnerable": "",
+    "Bumper_Invulnerable": "",
+    "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
+    "Valid_Speed_Horizontal": "180",
+    "Has_Clip_Prefab": "False",
+    "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
+    "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3"
+  },
+  "translation": {
+    "Name": "Firetruck"
+  }
+}

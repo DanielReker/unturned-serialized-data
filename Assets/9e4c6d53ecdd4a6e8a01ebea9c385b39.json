@@ -1,0 +1,25 @@
+{
+  "name": "Frost_Penguin_Lower",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Clothing/Frost_Penguin_Lower/Frost_Penguin_Lower.dat",
+  "data": {
+    "GUID": "9e4c6d53ecdd4a6e8a01ebea9c385b39",
+    "Type": "Shirt",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "36584",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Width": "5",
+    "Height": "3",
+    "Has_1P_Character_Mesh_Override": "True",
+    "Character_Mesh_3P_Override_LODs": "1",
+    "Has_Character_Material_Override": "True",
+    "Beard_Visible": "False",
+    "Hair_Visible": "False"
+  },
+  "translation": {
+    "Name": "Penguin Lower",
+    "Description": ""
+  }
+}

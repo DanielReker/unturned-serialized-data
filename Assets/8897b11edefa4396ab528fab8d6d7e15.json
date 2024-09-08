@@ -1,0 +1,15 @@
+{
+  "name": "29543KNC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/2/D/29540KNHUD/29543KNC/Asset.dat",
+  "data": {
+    "GUID": "8897b11edefa4396ab528fab8d6d7e15",
+    "Type": "Dialogue",
+    "ID": "29543",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "29551"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks my friend."
+  }
+}

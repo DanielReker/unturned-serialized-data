@@ -1,0 +1,21 @@
+{
+  "name": "Racoon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Animals/Racoon/Racoon.dat",
+  "data": {
+    "GUID": "81284ba04cef469aa36183a39e6cf173",
+    "Type": "Animal",
+    "ID": "51002",
+    "Speed_Run": "6",
+    "Speed_Walk": "4",
+    "Behaviour": "Ignore",
+    "Health": "50",
+    "Reward_ID": "51106",
+    "Reward_XP": "5",
+    "Reward_Min": "2",
+    "Reward_Max": "3",
+    "Panics": "3"
+  },
+  "translation": {
+    "Name": "Racoon"
+  }
+}

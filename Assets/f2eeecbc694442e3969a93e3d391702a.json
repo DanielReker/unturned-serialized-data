@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Crystal_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Metro_Crystal_0/Metro_Crystal_0.dat",
+  "data": {
+    "GUID": "f2eeecbc694442e3969a93e3d391702a",
+    "Type": "Spawn",
+    "ID": "57000",
+    "Tables": "1",
+    "Table_0_Asset_ID": "57092",
+    "Table_0_Weight": "111"
+  },
+  "translation": null
+}

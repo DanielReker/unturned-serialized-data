@@ -1,0 +1,18 @@
+{
+  "name": "PS_Marking_Flare_Item",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Marking_Flare_Item/PS_Marking_Flare_Item.dat",
+  "data": {
+    "GUID": "e0c0ef354a2e473eb9257f355e7c71fe",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "59515",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Use_Auto_Icon_Measurements": "False"
+  },
+  "translation": {
+    "Name": "Marking Flare",
+    "Description": "Very bright flare used for marking objects."
+  }
+}

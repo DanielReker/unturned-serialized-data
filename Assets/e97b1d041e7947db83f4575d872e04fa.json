@@ -1,0 +1,13 @@
+{
+  "name": "PEI_Prison",
+  "path": "Bundles/Spawns/Items/PEI_Prison/PEI_Prison.dat",
+  "data": {
+    "GUID": "e97b1d041e7947db83f4575d872e04fa",
+    "Type": "Spawn",
+    "ID": "197",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "198",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

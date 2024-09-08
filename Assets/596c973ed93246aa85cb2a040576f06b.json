@@ -1,0 +1,13 @@
+{
+  "name": "Kitchen_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Kitchen_Brazil/Kitchen_Brazil.dat",
+  "data": {
+    "GUID": "596c973ed93246aa85cb2a040576f06b",
+    "Type": "Spawn",
+    "ID": "5006",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "254",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

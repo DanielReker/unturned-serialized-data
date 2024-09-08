@@ -1,0 +1,18 @@
+{
+  "name": "Basic_Chair 2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Basic_Chair 2/Basic_Chair 2.dat",
+  "data": {
+    "GUID": "6bab8eabf9864a9f970404cb2694c64b",
+    "Type": "Medium",
+    "ID": "51000",
+    "Material_Palette": "6a5ccb06c7ac4e22a574856d2d271e3a",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "10",
+    "Interactability_Effect": "72",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Basic Chair 2"
+  }
+}

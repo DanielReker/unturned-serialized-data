@@ -1,0 +1,32 @@
+{
+  "name": "Metro_Wall_Bars",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Structures/Metro_Wall_Bars/Metro_Wall_Bars.dat",
+  "data": {
+    "GUID": "6b0fccc3ef074a5184e11bbece6d47ba",
+    "Type": "Structure",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Epic",
+    "Useable": "Structure",
+    "Construct": "Wall",
+    "ID": "57667",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Health": "1000",
+    "Range": "8",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "67",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Supply_1_ID": "285",
+    "Blueprint_0_Supply_1_Amount": "6",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Elver"
+  },
+  "translation": {
+    "Name": "Metal Bar Wall",
+    "Description": "<color=#64c819>1000</color> Health"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "SpecWeapons",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Spec/SpecWeapons/SpecWeapons.dat",
+  "data": {
+    "GUID": "b289dcf1768648459b3b7dbf29e9d26c",
+    "Type": "Spawn",
+    "ID": "51017",
+    "Tables": [
+      {
+        "Guid": "1d54bb1bcf0647fc92015c5ff04c4e59",
+        "Weight": "3"
+      },
+      {
+        "Guid": "13686590317e4873a99962a18fe8737e",
+        "Weight": "2"
+      },
+      {
+        "Guid": "e3dd91edb4de411ca4386689357fa060",
+        "Weight": "2"
+      },
+      {
+        "Guid": "46c6db37785d4cd19ee70a21de7afa1a",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Racecar_Purple",
+  "path": "Bundles/Objects/Large/Vehicles/Racecar_Purple/Racecar_Purple.dat",
+  "data": {
+    "GUID": "c188b3b5442d4095b59b0600ff316e0c",
+    "Type": "Large",
+    "ID": "457",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Purple Racecar"
+  }
+}

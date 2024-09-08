@@ -1,0 +1,19 @@
+{
+  "name": "Buak_LAB_ELV_1_ON",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_LAB/Buak_LAB_ELV_1_ON/Buak_LAB_ELV_1_ON.dat",
+  "data": {
+    "GUID": "21247ca897384ee891303b834371901b",
+    "Type": "Small",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "ELV_1"
+  },
+  "translation": {
+    "Name": "Buak_LAB_ELV_1_ON",
+    "Interact": "Elevator Floor 1 [{0}]"
+  }
+}

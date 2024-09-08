@@ -1,0 +1,23 @@
+{
+  "name": "Metro_Artifact_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Resources/Metro_Artifact_1/Metro_Artifact_1.dat",
+  "data": {
+    "GUID": "bf38a46860c146839e28ed06db23f946",
+    "Type": "Resource",
+    "Has_Clip_Prefab": "false",
+    "ID": "57011",
+    "Health": "2000",
+    "Explosion": "52",
+    "Reward_ID": "57012",
+    "Reward_XP": "30",
+    "Reward_Min": "18",
+    "Reward_Max": "20",
+    "BladeID": "2",
+    "No_Debris": "",
+    "Reset": "1000",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Artifact #2"
+  }
+}

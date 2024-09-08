@@ -1,0 +1,13 @@
+{
+  "name": "Crate_France_1",
+  "path": "Bundles/Objects/Medium/Military/Crate_France_1/Crate_France_1.dat",
+  "data": {
+    "GUID": "2f99f02e90d8407d8f167b8649e8dd32",
+    "Type": "Medium",
+    "ID": "1048",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "France Crate #2"
+  }
+}

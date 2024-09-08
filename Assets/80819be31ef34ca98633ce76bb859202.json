@@ -1,0 +1,14 @@
+{
+  "name": "Castle_2",
+  "path": "Bundles/Objects/Large/Buildings/Castle_2/Castle_2.dat",
+  "data": {
+    "GUID": "80819be31ef34ca98633ce76bb859202",
+    "Type": "Large",
+    "ID": "1012",
+    "Collision_Important": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Castle #3"
+  }
+}

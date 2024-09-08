@@ -1,0 +1,31 @@
+{
+  "name": "CA_Fury_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Overrides/CA_Fury_1/CA_Fury_1.dat",
+  "data": {
+    "GUID": "170c3f29286345efb058fd9ccc904b3b",
+    "Type": "Magazine",
+    "Rarity": "Mythical",
+    "ID": "42018",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.15",
+    "Amount": "1",
+    "Count_Min": "1",
+    "Count_Max": "1",
+    "Calibers": "1",
+    "Caliber_0": "32",
+    "Tracer": "48",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "43",
+    "Blueprint_0_Build": "1",
+    "Paintable": "",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Magazines/Fury_250"
+  },
+  "translation": {
+    "Name": "Fury Turret Drum",
+    "Description": "Low caliber ranger and military grade <color=legendary>Fury Turret</color> drum. Designed to fit a lot rounds."
+  }
+}

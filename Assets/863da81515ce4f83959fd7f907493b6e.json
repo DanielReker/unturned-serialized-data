@@ -1,0 +1,36 @@
+{
+  "name": "Carter_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/04/Carter_04/Asset.dat",
+  "data": {
+    "GUID": "863da81515ce4f83959fd7f907493b6e",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "bbaf2ad2bb7545a786de331b4ced623e",
+    "Shirt": "6e0c21a132db4661abfe3a09f787ce31",
+    "Has_Christmas_Outfit": "True",
+    "Christmas_Shirt": "ee47804fc7e04d469aa42cbc5430c61d",
+    "Christmas_Hat": "bbaf2ad2bb7545a786de331b4ced623e",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Glasses": "3d4ef02241b64722940322312ea7a43b",
+    "Halloween_Hat": "bbaf2ad2bb7545a786de331b4ced623e",
+    "Halloween_Shirt": "6e0c21a132db4661abfe3a09f787ce31",
+    "Face": "22",
+    "Hair": "4",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#161616",
+    "Primary": "622dbd8a28a743ee9a1e681a68b06f0a",
+    "Equipped": "Primary",
+    "Pose": "Passive",
+    "Dialogue": "57475cfe35a846d68cb3dd1128e84388",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24785",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Carter_04",
+    "Character": "<color=legendary>Carter</color>"
+  }
+}

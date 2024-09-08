@@ -1,0 +1,30 @@
+{
+  "name": "Huey_Woodlands",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Vehicles/Huey_Woodlands/Huey_Woodlands.dat",
+  "data": {
+    "GUID": "5ac5c77049b742fcacc0ea67e691101f",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "ID": "9005",
+    "Speed_Min": "-2",
+    "Speed_Max": "16",
+    "Steer_Min": "16",
+    "Steer_Max": "8",
+    "Fuel": "2000",
+    "Health_Min": "800",
+    "Health_Max": "900",
+    "Health": "1000",
+    "Exit": "3",
+    "Cam_Follow_Distance": "7.5",
+    "LockMouse": "",
+    "Engine": "Helicopter",
+    "Trunk_Storage_X": "6",
+    "Trunk_Storage_Y": "5",
+    "Explosion": "20",
+    "Invulnerable": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Woodlands Transport Heli"
+  }
+}

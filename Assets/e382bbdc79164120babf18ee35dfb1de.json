@@ -1,0 +1,14 @@
+{
+  "name": "Cas_Seize_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military Lieutenant Cas/Cas_Seize_Completed/Asset.dat",
+  "data": {
+    "GUID": "e382bbdc79164120babf18ee35dfb1de",
+    "Type": "Dialogue",
+    "ID": "9060",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Wow you're a fast worker!"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Scientist_Bayonet",
+  "path": "Bundles/NPCs/Dialogues/Scientist/Scientist_Bayonet/Asset.dat",
+  "data": {
+    "GUID": "49b4f2a346084ee99a79cebe68ae9e98",
+    "Type": "Dialogue",
+    "ID": "78",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Brilliant! Here, take this blueprint, it explains everything but be careful with it because it's very complex and replacements are expensive. Go jab some zombies!"
+  }
+}

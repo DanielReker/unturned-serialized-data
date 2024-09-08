@@ -1,0 +1,22 @@
+{
+  "name": "Frost_Bottle_Water_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Edible/Frost_Bottle_Water_00/Frost_Bottle_Water_00.dat",
+  "data": {
+    "GUID": "55a37986fef54e778ffdc3899a654974",
+    "Type": "Water",
+    "Useable": "Consumeable",
+    "ID": "36420",
+    "Size_Y": "2",
+    "Water": "50",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "36360",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/DrinkSwallow.mp3"
+  },
+  "translation": {
+    "Name": "Bottled Water",
+    "Description": "<color=#64c819>50</color> Water"
+  }
+}

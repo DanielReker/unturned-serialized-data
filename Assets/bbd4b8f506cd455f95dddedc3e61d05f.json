@@ -1,0 +1,21 @@
+{
+  "name": "Broken_String",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Music/Music/Broken_String/Broken_String.asset",
+  "data": {
+    "GUID": "bbd4b8f506cd455f95dddedc3e61d05f",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Title": {
+      "Namespace": "SDG",
+      "Token": "Stereo_Songs.Unlike_Pluto1.Title"
+    },
+    "Song": {
+      "MasterBundle": "up.masterbundle",
+      "AssetPath": "Unlike Pluto - Broken String.wav"
+    },
+    "Link_URL": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga?si=HUDPSJR0SwyWE97dlv_liA"
+  },
+  "translation": {
+    "Name": "Unlike Pluto - Broken String"
+  }
+}

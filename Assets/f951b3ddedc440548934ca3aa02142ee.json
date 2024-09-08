@@ -1,0 +1,51 @@
+{
+  "name": "PS_Desert_Foggy_Weather_Halloween",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/PS_Desert_Foggy_Weather_Halloween.asset",
+  "data": {
+    "GUID": "f951b3ddedc440548934ca3aa02142ee",
+    "Type": "SDG.Unturned.WeatherAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Fade_In_Duration": "30.0",
+    "Fade_Out_Duration": "30.0",
+    "Override_Fog": "true",
+    "Override_Atmospheric_Fog": "true",
+    "Shadow_Strength_Multiplier": "0.7",
+    "Stamina_Per_Second": "1",
+    "Dawn": {
+      "Fog_Color": {
+        "R": "108",
+        "G": "100",
+        "B": "100"
+      },
+      "Fog_Density": "0.6",
+      "Brightness_Multiplier": "0.6"
+    },
+    "Midday": {
+      "Fog_Color": {
+        "R": "136",
+        "G": "125",
+        "B": "125"
+      },
+      "Fog_Density": "0.75",
+      "Brightness_Multiplier": "0.6"
+    },
+    "Dusk": {
+      "Fog_Color": {
+        "R": "105",
+        "G": "95",
+        "B": "95"
+      },
+      "Fog_Density": "0.75",
+      "Brightness_Multiplier": "0.6"
+    },
+    "Midnight": {
+      "Fog_Color": {
+        "R": "73",
+        "G": "60",
+        "B": "60"
+      },
+      "Fog_Density": "0.75",
+      "Brightness_Multiplier": "0.6"
+    }
+  },
+  "translation": null
+}

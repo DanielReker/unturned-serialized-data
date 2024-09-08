@@ -1,0 +1,16 @@
+{
+  "name": "CA_Galil_Sight",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Sights/CA_Galil_Sight/CA_Galil_Sight.dat",
+  "data": {
+    "GUID": "424a5aba22754b62910ed31931d00344",
+    "Type": "Sight",
+    "ID": "4075",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.11"
+  },
+  "translation": {
+    "Name": "Rebel Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Cup_Noodles_Dry",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Cup_Noodles_Dry/Cup_Noodles_Dry.dat",
+  "data": {
+    "GUID": "07dc6d6b8c4d452f85ae9518427dd85e",
+    "Type": "Food",
+    "Rarity": "Epic",
+    "Useable": "Consumeable",
+    "ID": "25668",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.28",
+    "Use_Auto_Icon_Measurements": "False",
+    "Left_Handed_Characters_Mirror_Equipable": "false",
+    "Food": "50",
+    "Water": "0",
+    "Quality_Min": "60",
+    "Quality_Max": "100",
+    "ConsumeAudioClip": "Sounds/Food/EatCrunchyShort.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Dry Cup Noodles",
+    "Description": "Dry noodles nicely packed into a cup. Just add heat and water."
+  }
+}

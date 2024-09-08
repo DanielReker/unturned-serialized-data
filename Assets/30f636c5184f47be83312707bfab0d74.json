@@ -1,0 +1,14 @@
+{
+  "name": "PS_Stick_Boom_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Explosions/PS_Stick_Boom_0/PS_Stick_Boom_0.dat",
+  "data": {
+    "GUID": "30f636c5184f47be83312707bfab0d74",
+    "Type": "Effect",
+    "ID": "59038",
+    "Blast": "137",
+    "Relevant_Distance": "1500",
+    "CameraShake_Radius": "16",
+    "CameraShake_MagnitudeDegrees": "50"
+  },
+  "translation": null
+}

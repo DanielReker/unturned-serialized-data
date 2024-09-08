@@ -1,0 +1,12 @@
+{
+  "name": "CA_Statue_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Other/CA_Statue_0/CA_Statue_0.dat",
+  "data": {
+    "GUID": "5b179f82e9e2472594266c2047058baa",
+    "Type": "Large",
+    "ID": "4473"
+  },
+  "translation": {
+    "Name": "California Statue #1"
+  }
+}

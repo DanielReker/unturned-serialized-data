@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Divider_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Furniture/Frost_Divider_00/Frost_Divider_00.dat",
+  "data": {
+    "GUID": "c361a638af9947dba02b89239d2b59ca",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000"
+  },
+  "translation": {
+    "Name": "Frost Divider #1"
+  }
+}

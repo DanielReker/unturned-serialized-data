@@ -1,0 +1,13 @@
+{
+  "name": "PS_Glass_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Glass_1/PS_Glass_1.dat",
+  "data": {
+    "GUID": "a13e24e97fb344cc82a548a159c1cb9d",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59349"
+  },
+  "translation": {
+    "Name": "PS Glass #2"
+  }
+}

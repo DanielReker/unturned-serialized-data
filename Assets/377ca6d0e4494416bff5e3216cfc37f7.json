@@ -1,0 +1,13 @@
+{
+  "name": "Printer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Printer/Printer.dat",
+  "data": {
+    "GUID": "377ca6d0e4494416bff5e3216cfc37f7",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Printer"
+  }
+}

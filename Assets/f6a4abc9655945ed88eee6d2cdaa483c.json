@@ -1,0 +1,10 @@
+{
+  "name": "PS_Shotgun_Casing",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Cases/PS_Shotgun_Casing/PS_Shotgun_Casing.dat",
+  "data": {
+    "GUID": "f6a4abc9655945ed88eee6d2cdaa483c",
+    "Type": "Effect",
+    "ID": "59064"
+  },
+  "translation": null
+}

@@ -1,0 +1,16 @@
+{
+  "name": "BTee",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/BTee/BTee.dat",
+  "data": {
+    "GUID": "76aff95c22184fa0a2515d1e9377b4d2",
+    "Type": "Large",
+    "ID": "45754",
+    "Collision_Important": "",
+    "Soft": "",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Shelter Tee"
+  }
+}

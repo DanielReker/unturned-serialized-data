@@ -1,0 +1,24 @@
+{
+  "name": "Buak_Q_S7M2_ELV_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M2/Buak_Q_S7M2_ELV_3/Buak_Q_S7M2_ELV_3.dat",
+  "data": {
+    "GUID": "5d79094717da45fda3ced13a8e9ee21b",
+    "Type": "Small",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24283",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "ELVM2",
+    "Bundle_Override_Path": "/Objects/Large/Monuments/Buak_LAB/Buak_LAB_ELV_3"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M2_ELV_3",
+    "Interact": "Elevator Floor 3 [{0}]"
+  }
+}

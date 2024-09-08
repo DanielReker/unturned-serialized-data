@@ -1,0 +1,15 @@
+{
+  "name": "PS_Bag_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Bag_0/PS_Bag_0.dat",
+  "data": {
+    "GUID": "dbe9fb21348a442fa612484c7f20d6d6",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59009",
+    "Soft": "",
+    "Causes_Fall_Damage": "False"
+  },
+  "translation": {
+    "Name": "PS Bag #1"
+  }
+}

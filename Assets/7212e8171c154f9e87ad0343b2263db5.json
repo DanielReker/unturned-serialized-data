@@ -1,0 +1,23 @@
+{
+  "name": "Audio_Tape_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Misc/Audio_Tape_02/Audio_Tape_02.dat",
+  "data": {
+    "GUID": "7212e8171c154f9e87ad0343b2263db5",
+    "Type": "Cloud",
+    "Useable": "Cloud",
+    "Rarity": "Rare",
+    "ID": "27412",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.42",
+    "Use_Auto_Icon_Measurements": "False",
+    "Instantiated_Item_Name_Override": "Audio_Tape",
+    "Gravity": "1",
+    "InspectAudioDef": "Sounds/Items/Audio_Tapes/Audio_Tape_02.asset",
+    "EquipablePrefab": "Items/Misc/Audio_Tape_00/Item_Equip_1.prefab"
+  },
+  "translation": {
+    "Name": "Audio Tape (John Mathews #1)",
+    "Description": "An audio tape diary.<br><color=#cd32da>Inspect To Play Audio Recording</color><br><br>\"Alright uh, John Mathews here, It appears meteors keep hitting Buak which is very odd. In our records it shows that every 3 or 4 years, one strikes, and our disposal unit comes to clean it up… for some reason that I don’t think I’m supposed to know... I gained some interest in this subject after hearing the locals discuss it a few weeks ago, saying they’ve seen it happen on occasion. And after reading our records, I decided to keep an eye out each night for as long as I could really be bothered to do so. And then last night it happened west of the scrap yard. Long story short… It contained something quite interesting. Something that appears to be… alive. I plan to do further research on the sample I collected and find out- Oh yeah Sarah, yeah I’ll be right ther-\""
+  }
+}

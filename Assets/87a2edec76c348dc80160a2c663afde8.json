@@ -1,0 +1,14 @@
+{
+  "name": "PBS_EOD_Actual_Comp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_EOD_Actual/PBS_EOD_Actual_Comp/Asset.dat",
+  "data": {
+    "GUID": "87a2edec76c348dc80160a2c663afde8",
+    "Type": "Dialogue",
+    "ID": "52593",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Glad to have someone with you talents on our team."
+  }
+}

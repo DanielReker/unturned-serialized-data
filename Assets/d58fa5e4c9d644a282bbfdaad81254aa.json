@@ -1,0 +1,36 @@
+{
+  "name": "Buak_Scaffolding_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Material_Palettes/Buak_Scaffolding_00.asset",
+  "data": {
+    "GUID": "d58fa5e4c9d644a282bbfdaad81254aa",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Scaffolding_00/Buak_Scaffolding_00.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Scaffolding_00/Buak_Scaffolding_01.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Scaffolding_00/Buak_Scaffolding_02.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Scaffolding_00/Buak_Scaffolding_03.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Scaffolding_00/Buak_Scaffolding_04.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Scaffolding_00/Buak_Scaffolding_05.mat"
+      }
+    ]
+  },
+  "translation": null
+}

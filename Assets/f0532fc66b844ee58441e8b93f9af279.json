@@ -1,0 +1,33 @@
+{
+  "name": "Metro_Bread_Fish",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Overrides/Metro_Bread_Fish/Metro_Bread_Fish.dat",
+  "data": {
+    "GUID": "f0532fc66b844ee58441e8b93f9af279",
+    "Type": "Food",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "57194",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.29",
+    "Food": "100",
+    "Water": "100",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "57193",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Supply_1_ID": "57119",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Level": "2",
+    "Blueprint_0_Skill": "Cook",
+    "Blueprint_0_Build": "27",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Sandwich_Trout",
+    "ConsumeAudioClip": "Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Fish Sandwich",
+    "Description": "<color=#64c819>100</color> Food <color=#64c819>100</color> Water"
+  }
+}

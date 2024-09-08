@@ -1,0 +1,36 @@
+{
+  "name": "PS_A_Notes_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/Material_Palettes/PS_A_Notes_1.asset",
+  "data": {
+    "GUID": "e58b8ba4b0fe4a839aa3bf8f27b5f0ee",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/Notes_1/Note_0.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/Notes_1/Note_1.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/Notes_1/Note_2.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/Notes_1/Note_3.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/Notes_1/Note_4.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/Notes_1/Note_5.mat"
+      }
+    ]
+  },
+  "translation": null
+}

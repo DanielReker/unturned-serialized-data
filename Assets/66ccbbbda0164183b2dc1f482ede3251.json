@@ -1,0 +1,16 @@
+{
+  "name": "Security_Lookout_Welcome",
+  "path": "Bundles/NPCs/Dialogues/Security_Lookout/Security_Lookout_Welcome/Asset.dat",
+  "data": {
+    "GUID": "66ccbbbda0164183b2dc1f482ede3251",
+    "Type": "Dialogue",
+    "ID": "86",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm keeping an eye out for trouble and any survivors on their way here!",
+    "Response_0": "Thanks"
+  }
+}

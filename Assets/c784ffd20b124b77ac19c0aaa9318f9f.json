@@ -1,0 +1,14 @@
+{
+  "name": "Boss_Wind_Accepted",
+  "path": "Bundles/NPCs/Dialogues/Wind/Boss_Wind_Accepted/Asset.dat",
+  "data": {
+    "GUID": "c784ffd20b124b77ac19c0aaa9318f9f",
+    "Type": "Dialogue",
+    "ID": "170",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good luck! If you run into it keep your distance or you'll get crushed!"
+  }
+}

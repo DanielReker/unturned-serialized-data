@@ -1,0 +1,16 @@
+{
+  "name": "Carpat_Leather_Wolf",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Items/Supplies/Carpat_Leather_Wolf/Carpat_Leather_Wolf.dat",
+  "data": {
+    "GUID": "c76aaae58eb84df1833c8eb795a15a9f",
+    "Type": "Supply",
+    "ID": "23004",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.5"
+  },
+  "translation": {
+    "Name": "Wolf Leather",
+    "Description": "Durable material perfect for clothing."
+  }
+}

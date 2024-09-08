@@ -1,0 +1,30 @@
+{
+  "name": "PBS_EOD_Actual",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_EOD_Actual/Asset.dat",
+  "data": {
+    "GUID": "1377757a29aa4aa6a7cee71dd876357a",
+    "Type": "NPC",
+    "ID": "52591",
+    "Hair": "2",
+    "Face": "5",
+    "Color_Skin": "#332c25",
+    "Color_Hair": "#191919",
+    "Hat": "52023",
+    "Shirt": "51102",
+    "Pants": "51103",
+    "Vest": "52026",
+    "Primary": "51235",
+    "Secondary": "51224",
+    "Dialogue": "52592",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "52590",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS NPC EOD Actual",
+    "Character": "SSgt Rook"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Frost_Infected_Top",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Clothing/Frost_Infected_Top/Frost_Infected_Top.dat",
+  "data": {
+    "GUID": "4b1497aadfe447239906af9841cd645c",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "36096",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "6",
+    "Height": "3",
+    "Armor": "1"
+  },
+  "translation": {
+    "Name": "Top",
+    "Description": ""
+  }
+}

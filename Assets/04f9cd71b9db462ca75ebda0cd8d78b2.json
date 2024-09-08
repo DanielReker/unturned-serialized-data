@@ -1,0 +1,17 @@
+{
+  "name": "Metro_Dorm_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Dorm_2/Metro_Dorm_2.dat",
+  "data": {
+    "GUID": "04f9cd71b9db462ca75ebda0cd8d78b2",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57102",
+    "LOD": "Area",
+    "Soft": "",
+    "Collision_Important": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Dorm #3"
+  }
+}

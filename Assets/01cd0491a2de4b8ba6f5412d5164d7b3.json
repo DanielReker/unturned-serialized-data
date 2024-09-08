@@ -1,0 +1,16 @@
+{
+  "name": "26261KLYBD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26260KLYD/26261KLYBD/Asset.dat",
+  "data": {
+    "GUID": "01cd0491a2de4b8ba6f5412d5164d7b3",
+    "Type": "Dialogue",
+    "ID": "26261",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hey there! Beautiful day, right <name_char>?",
+    "Response_0": "Good morning!"
+  }
+}

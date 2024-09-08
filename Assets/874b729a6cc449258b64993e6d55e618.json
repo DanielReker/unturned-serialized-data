@@ -1,0 +1,25 @@
+{
+  "name": "Buak_Node_Coal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Node_Coal/Buak_Node_Coal.dat",
+  "data": {
+    "GUID": "874b729a6cc449258b64993e6d55e618",
+    "Type": "Spawn",
+    "ID": "25310",
+    "Tables": "7",
+    "Table_0_Asset_ID": "25322",
+    "Table_0_Weight": "1000",
+    "Table_1_Asset_ID": "25318",
+    "Table_1_Weight": "100",
+    "Table_2_Asset_ID": "25345",
+    "Table_2_Weight": "25",
+    "Table_3_Asset_ID": "25351",
+    "Table_3_Weight": "15",
+    "Table_4_Asset_ID": "25343",
+    "Table_4_Weight": "15",
+    "Table_5_Asset_ID": "25340",
+    "Table_5_Weight": "2",
+    "Table_6_Asset_ID": "25348",
+    "Table_6_Weight": "1"
+  },
+  "translation": null
+}

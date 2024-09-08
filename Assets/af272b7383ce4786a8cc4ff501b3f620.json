@@ -1,0 +1,23 @@
+{
+  "name": "James_Shirt_XMAS",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/James_Shirt_XMAS/James_Shirt_XMAS.dat",
+  "data": {
+    "GUID": "af272b7383ce4786a8cc4ff501b3f620",
+    "Rarity": "Uncommon",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "27058",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "8",
+    "Height": "4",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "James_Shirt_XMAS",
+    "Description": "NPC Shirt."
+  }
+}

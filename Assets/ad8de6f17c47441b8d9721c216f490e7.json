@@ -1,0 +1,29 @@
+{
+  "name": "PS_Trader_3_Vendor_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_3_Dialogue/PS_Trader_3_Vendor_2/Asset.dat",
+  "data": {
+    "GUID": "ad8de6f17c47441b8d9721c216f490e7",
+    "Type": "Vendor",
+    "ID": "59285",
+    "Buying": "0",
+    "Selling": "6",
+    "Selling_0_ID": "59059",
+    "Selling_0_Cost": "1",
+    "Selling_1_ID": "59638",
+    "Selling_1_Cost": "1",
+    "Selling_2_ID": "59623",
+    "Selling_2_Cost": "3",
+    "Selling_3_ID": "59168",
+    "Selling_3_Cost": "4",
+    "Selling_4_ID": "59901",
+    "Selling_4_Cost": "4",
+    "Selling_5_ID": "59324",
+    "Selling_5_Cost": "5",
+    "Disable_Sorting": "",
+    "Currency": "3469d8e03a0546c5a3c0e280828cd19c"
+  },
+  "translation": {
+    "Name": "<color=#EA3379>Nomad's Exchange II</color>",
+    "Description": "<color=#C68694>Transfer of goods.</color>"
+  }
+}

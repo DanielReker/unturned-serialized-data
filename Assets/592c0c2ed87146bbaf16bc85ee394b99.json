@@ -1,0 +1,18 @@
+{
+  "name": "Metro_Sentry_Barrel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Weapons/Metro_Sentry_Barrel/Metro_Sentry_Barrel.dat",
+  "data": {
+    "GUID": "592c0c2ed87146bbaf16bc85ee394b99",
+    "Type": "Supply",
+    "Rarity": "Legendary",
+    "ID": "57106",
+    "Size_X": "4",
+    "Size_Y": "1",
+    "Size_Z": "0.225",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Sentry Barrel",
+    "Description": "Long barrel with a diameter of 20mm. Used for crafting the <color=#c832fa>Devastator</color>. "
+  }
+}

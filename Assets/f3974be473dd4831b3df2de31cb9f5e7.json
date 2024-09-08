@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Roof_Grate_Triangle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Roof_Grate_Triangle/Bar_Roof_Grate_Triangle.dat",
+  "data": {
+    "GUID": "f3974be473dd4831b3df2de31cb9f5e7",
+    "Type": "Effect",
+    "ID": "25409"
+  },
+  "translation": null
+}

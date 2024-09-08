@@ -1,0 +1,25 @@
+{
+  "name": "Ivan",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Characters/Ivan/Asset.dat",
+  "data": {
+    "GUID": "e50108b7e15544b6bcd704ebbe5085e4",
+    "Type": "NPC",
+    "ID": "7050",
+    "Shirt": "174",
+    "Pants": "2",
+    "Vest": "23509",
+    "Backpack": "23521",
+    "Face": "0",
+    "Hair": "1",
+    "Color_Skin": "#F9E5C7",
+    "Color_Hair": "#190F01",
+    "Primary": "363",
+    "Secondary": "1039",
+    "Equipped": "Primary",
+    "Dialogue": "7051"
+  },
+  "translation": {
+    "Name": "Ivan",
+    "Character": "<color=rare>Ivan</color>"
+  }
+}

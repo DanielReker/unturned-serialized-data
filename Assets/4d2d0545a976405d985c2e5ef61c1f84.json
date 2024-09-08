@@ -1,0 +1,18 @@
+{
+  "name": "Quest_2_Barter_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_2/Quest_2_Barter_0/Asset.dat",
+  "data": {
+    "GUID": "4d2d0545a976405d985c2e5ef61c1f84",
+    "Type": "Vendor",
+    "ID": "57787",
+    "Selling": "1",
+    "Selling_0_ID": "57672  ",
+    "Selling_0_Cost": "1",
+    "Disable_Sorting": "",
+    "Currency": "c28d32ae1f9a410882caad094983832c"
+  },
+  "translation": {
+    "Name": "<color=#64c819>Explosive Arrow Barter</color>",
+    "Description": "Exchange grenades for explosive arrows."
+  }
+}

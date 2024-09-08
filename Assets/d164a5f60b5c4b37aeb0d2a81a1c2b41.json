@@ -1,0 +1,19 @@
+{
+  "name": "Frost_Pizza_Mozz",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Edible/Frost_Pizza_Mozz/Frost_Pizza_Mozz.dat",
+  "data": {
+    "GUID": "d164a5f60b5c4b37aeb0d2a81a1c2b41",
+    "Type": "Food",
+    "Rarity": "Epic",
+    "Useable": "Consumeable",
+    "ID": "36627",
+    "Energy": "80",
+    "Food": "60",
+    "Water": "60",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Mozzarella Pizza Slice",
+    "Description": "<color=#64c819>60</color> Food <color=#64c819>60</color> Water<br><color=#64c819>80</color> Energy"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bronze_Younus",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Plaques/Bronze_Younus/Bronze_Younus.dat",
+  "data": {
+    "GUID": "c7691db1499c44e9915480111af850bc",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Plaque Younus"
+  }
+}

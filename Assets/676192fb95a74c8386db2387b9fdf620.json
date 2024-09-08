@@ -1,0 +1,43 @@
+{
+  "name": "PS_MI10_Supressor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Barrels/PS_MI10_Supressor/PS_MI10_Supressor.dat",
+  "data": {
+    "GUID": "676192fb95a74c8386db2387b9fdf620",
+    "Type": "Barrel",
+    "Rarity": "Legendary",
+    "ID": "59995",
+    "Size_X": "3",
+    "Size_Y": "1",
+    "Size_Z": "0.125",
+    "Calibers": "1",
+    "Caliber_0": "58910",
+    "Recoil_X": "0.8",
+    "Recoil_Y": "0.8",
+    "Gunshot_Rolloff_Distance_Multiplier": "0.6",
+    "Ballistic_Drop": "1.1",
+    "Quality_Min": "100",
+    "Quality_Max": "100",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59995",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "59000",
+    "Blueprint_0_Output_0_Amount": "2",
+    "Blueprint_0_Output_1_ID": "59262",
+    "Blueprint_0_Output_1_Amount": "1",
+    "Blueprint_0_Tool": "59004",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Blueprint_0_Link": "",
+    "Action_0_Text": "Scrap",
+    "Action_0_Tooltip": "Turn into components."
+  },
+  "translation": {
+    "Name": "MI10 Suppressor",
+    "Description": "Muzzle device that makes gunshots less audible and helps with recoil control. Can be fitted on MI10 DMR."
+  }
+}

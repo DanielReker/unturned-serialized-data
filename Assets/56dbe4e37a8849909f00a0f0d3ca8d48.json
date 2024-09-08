@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Radar_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Radar_01/Obj_Radar_01.dat",
+  "data": {
+    "GUID": "56dbe4e37a8849909f00a0f0d3ca8d48",
+    "Type": "Effect",
+    "ID": "25503"
+  },
+  "translation": null
+}

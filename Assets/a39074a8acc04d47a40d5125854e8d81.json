@@ -1,0 +1,14 @@
+{
+  "name": "28802KAWH",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28801KACD/28802KAWH/Asset.dat",
+  "data": {
+    "GUID": "a39074a8acc04d47a40d5125854e8d81",
+    "Type": "Dialogue",
+    "ID": "28802",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Sorry, that was very forward of me. My vision is getting bad, and I thought I saw a ship in the distance, and I just want to confirm its existence. It might be the military coming to help us!"
+  }
+}

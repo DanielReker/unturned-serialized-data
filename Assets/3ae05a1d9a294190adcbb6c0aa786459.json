@@ -1,0 +1,27 @@
+{
+  "name": "Buak_Poplar_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Trees/Buak_Poplar_00/Buak_Poplar_00.dat",
+  "data": {
+    "GUID": "3ae05a1d9a294190adcbb6c0aa786459",
+    "Type": "Resource",
+    "ID": "26957",
+    "Health": "1000",
+    "Radius": "5",
+    "Scale": "0.3",
+    "Explosion": "25310",
+    "Reward_ID": "25303",
+    "Reward_XP": "2",
+    "Reward_Min": "5",
+    "Reward_Max": "10",
+    "Reset": "750",
+    "Auto_Skybox": "",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Halloween_Redirect": "a9924c864f3f4aeeaccb1e5cd385c516",
+    "Christmas_Redirect": "8bfb27f1dbe94f75b85afb19edad7301"
+  },
+  "translation": {
+    "Name": "Buak Poplar_00",
+    "Description": "The forest reeks of sulphur."
+  }
+}

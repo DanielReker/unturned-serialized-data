@@ -1,0 +1,28 @@
+{
+  "name": "FromTheGroundUp_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Alexander/Alexander_02/FromTheGroundUp_Welcome/Asset.dat",
+  "data": {
+    "GUID": "04fe47ceb79b4f3187655b6ef4a855b5",
+    "Type": "Dialogue",
+    "ID": "24598",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Responses": "2",
+    "Response_0_Dialogue": "0a2486643d3c4f42a45d9b5677265b9c",
+    "Response_0_Quest": "edc4f7ccdcbe474db4a87d60b7cfaccc",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "edc4f7ccdcbe474db4a87d60b7cfaccc",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "edc4f7ccdcbe474db4a87d60b7cfaccc"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ah yeah, some help would be nice. Overtime I've lost various tools from all the running around we have done through the years. From us scanning around this place, I noticed there's a hardware store in Burywood.",
+    "Message_0_Page_1": "Could you check that place out for a new tool box, and maybe a LARGE box of nails, and a crate of scrap metal? Could be handy to have around here.",
+    "Response_0": "Sure thing!",
+    "Response_1": "Not now."
+  }
+}

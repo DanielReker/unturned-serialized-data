@@ -1,0 +1,11 @@
+{
+  "name": "Classic_Canned_Beans",
+  "path": "Bundles/Skins/Anniversary_10/Classic_Canned_Beans/Classic_Canned_Beans.dat",
+  "data": {
+    "GUID": "24023b5da61e4fb499bb7083cfc7e687",
+    "Type": "Skin",
+    "ID": "304",
+    "Override_Meshes": "1"
+  },
+  "translation": null
+}

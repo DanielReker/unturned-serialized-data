@@ -1,0 +1,12 @@
+{
+  "name": "Billboard ramp 2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Billboard ramp 2/Billboard ramp 2.dat",
+  "data": {
+    "GUID": "00bc9810b87642d89d7daecb686ca8f9",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Billboard ramp post"
+  }
+}

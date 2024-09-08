@@ -1,0 +1,25 @@
+{
+  "name": "Afzetter Member Seppe",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Afzetter Member Seppe/Asset.dat",
+  "data": {
+    "GUID": "dea8bdf2760740d596bfbbbc598bf910",
+    "Type": "NPC",
+    "ID": "9117",
+    "Shirt": "1156",
+    "Pants": "1157",
+    "Mask": "434",
+    "Backpack": "1182",
+    "Primary": "1035",
+    "Secondary": "1041",
+    "Equipped": "Primary",
+    "Face": "28",
+    "Hair": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#0F0F0F",
+    "Dialogue": "9117"
+  },
+  "translation": {
+    "Name": "Afzetter Member Seppe",
+    "Character": "Seppe"
+  }
+}

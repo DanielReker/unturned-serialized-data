@@ -1,0 +1,11 @@
+{
+  "name": "Buak_Angel_Devil",
+  "path": "Bundles/Items/Buak/Buak_Angel_Devil/Buak_Angel_Devil.dat",
+  "data": {
+    "GUID": "defb5c1f374e4704beb2d0c92b36a411",
+    "Type": "Vest",
+    "Pro": "",
+    "Skin_Override": "Model_2"
+  },
+  "translation": null
+}

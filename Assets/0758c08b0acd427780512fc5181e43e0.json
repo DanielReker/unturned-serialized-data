@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Metal_Doors",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Material_Palettes/Buak_Metal_Doors.asset",
+  "data": {
+    "GUID": "0758c08b0acd427780512fc5181e43e0",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Metal_Doors/Door_Metal_00.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Metal_Doors/Door_Metal_01.mat"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Phoenix",
+  "path": "Bundles/Skins/Bulldog/Phoenix/Phoenix.dat",
+  "data": {
+    "GUID": "29fc6c8e80f84abd8a52209407eeccc7",
+    "Type": "Skin",
+    "ID": "50005",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

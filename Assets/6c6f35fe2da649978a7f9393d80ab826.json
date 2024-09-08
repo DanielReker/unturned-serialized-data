@@ -1,0 +1,10 @@
+{
+  "name": "Craft_Paper",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Crafting/Craft_Paper/Craft_Paper.dat",
+  "data": {
+    "GUID": "6c6f35fe2da649978a7f9393d80ab826",
+    "Type": "Effect",
+    "ID": "25538"
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Find_Wedding_Ring_Accepted",
+  "path": "Bundles/NPCs/Dialogues/Missing_Ring/Find_Wedding_Ring_Accepted/Asset.dat",
+  "data": {
+    "GUID": "056e5b3a55484a47b354bc45fec5774f",
+    "Type": "Dialogue",
+    "ID": "138",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I really hope you find it!"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Bridge_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Furniture/Frost_Bridge_04/Frost_Bridge_04.dat",
+  "data": {
+    "GUID": "cc20a7c49570403880f5ac4fa04b1b9e",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000"
+  },
+  "translation": {
+    "Name": "Frost Bridge #5"
+  }
+}

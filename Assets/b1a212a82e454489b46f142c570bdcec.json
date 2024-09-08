@@ -1,0 +1,16 @@
+{
+  "name": "Engineer_Turret_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Workshop_Military/Engineer_Turret_Accepted/Asset.dat",
+  "data": {
+    "GUID": "b1a212a82e454489b46f142c570bdcec",
+    "Type": "Dialogue",
+    "ID": "3504",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "To further our fortifications, I'd like you to look into making some automatic sentries.",
+    "Response_0": "Shouldn't be too hard."
+  }
+}

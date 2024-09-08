@@ -1,0 +1,40 @@
+{
+  "name": "SMG",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/SMG/SMG.dat",
+  "data": {
+    "GUID": "a199629a627c4959ad293fac0b266cab",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "ID": "51912",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.1",
+    "Amount": "50",
+    "Count_Min": "25",
+    "Count_Max": "50",
+    "Calibers": "1",
+    "Caliber_0": "51008",
+    "Tracer": "51000",
+    "Blueprints": "4",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51912",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51943",
+    "Blueprint_1_Build": "30",
+    "Blueprint_2_Type": "Ammo",
+    "Blueprint_2_Supplies": "1",
+    "Blueprint_2_Supply_0_ID": "51944",
+    "Blueprint_2_Build": "30",
+    "Blueprint_3_Type": "Ammo",
+    "Blueprint_3_Supplies": "1",
+    "Blueprint_3_Supply_0_ID": "51945",
+    "Blueprint_3_Build": "30"
+  },
+  "translation": {
+    "Name": "SMG Magazine",
+    "Description": "Holds 50 rounds of <color=#DB871A>Intermediate</color> ammo. Compatible with <color=rare>Looty</color>, <color=rare>Cavalry</color>, <color=epic>Uzey</color>, <color=epic>Bizey</color>, and <color=epic>Empey</color>."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "PS_Seed_Tomato",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Barricades/PS_Seed_Tomato/PS_Seed_Tomato.dat",
+  "data": {
+    "GUID": "8e4a073048284d28abfcf366b90a90c9",
+    "Type": "Farm",
+    "Rarity": "Uncommon",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Farm",
+    "ID": "59235",
+    "SalvageItem": "8e4a073048284d28abfcf366b90a90c9",
+    "Min_Items_Dropped_On_Destroy": "0",
+    "Max_Items_Dropped_On_Destroy": "0",
+    "Item_Dropped_On_Destroy": "04494c7160e74a99a4cb4e08cdac7cda",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.24",
+    "Health": "1",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "0.325",
+    "Growth": "1800",
+    "Grow": "59693",
+    "Explosion": "43",
+    "Vulnerable": "",
+    "PlacementAudioClip": "Sounds/PlantPlacement.mp3",
+    "Salvage_Duration_Multiplier": "0.1",
+    "Unpickupable": ""
+  },
+  "translation": {
+    "Name": "Tomato Seed",
+    "Description": "Ready for planting."
+  }
+}

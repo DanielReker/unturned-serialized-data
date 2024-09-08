@@ -1,0 +1,13 @@
+{
+  "name": "IR_Cafe_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Cafe_1/IR_Cafe_1.dat",
+  "data": {
+    "GUID": "82a12159b5344283af074ad981d0cb13",
+    "Type": "Large",
+    "ID": "17003",
+    "Material_Palette": "9a66a4ff19e54ca280c33112aad0b252"
+  },
+  "translation": {
+    "Name": "Irish Cafe#1"
+  }
+}

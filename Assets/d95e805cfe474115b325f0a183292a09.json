@@ -1,0 +1,13 @@
+{
+  "name": "CA_Weights_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Props/CA_Weights_5/CA_Weights_5.dat",
+  "data": {
+    "GUID": "d95e805cfe474115b325f0a183292a09",
+    "Type": "Medium",
+    "ID": "4605",
+    "Material_Palette": "d7df597b9094468680733e1e96d5224c"
+  },
+  "translation": {
+    "Name": "California Weights #6"
+  }
+}

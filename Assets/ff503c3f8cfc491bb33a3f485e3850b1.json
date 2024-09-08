@@ -1,0 +1,14 @@
+{
+  "name": "PS_Trader_10_Quest_0_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_10_Dialogue/PS_Trader_10_Quest_0_Return/Asset.dat",
+  "data": {
+    "GUID": "ff503c3f8cfc491bb33a3f485e3850b1",
+    "Type": "Dialogue",
+    "ID": "59521",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Halloween Scavenger Completed"
+  }
+}

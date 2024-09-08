@@ -1,0 +1,17 @@
+{
+  "name": "Industrial_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Industrial_1/Industrial_1.dat",
+  "data": {
+    "GUID": "d9c14659f9a4490f92844f5cdbf55afc",
+    "Type": "Large",
+    "ID": "45697",
+    "LOD": "Mesh",
+    "LOD_Bias": "1.25",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Industrial #2"
+  }
+}

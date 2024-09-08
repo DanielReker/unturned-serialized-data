@@ -1,0 +1,13 @@
+{
+  "name": "Soccer_Adrenaline",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Soccer_Adrenaline/Soccer_Adrenaline.dat",
+  "data": {
+    "GUID": "741c86d3219f437cb8b115bd837dfea3",
+    "Type": "Spawn",
+    "ID": "5011",
+    "Tables": "1",
+    "Table_0_Asset_ID": "387",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Terminal_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/Terminal_0/Terminal_0.dat",
+  "data": {
+    "GUID": "4cf367e2d0e34251aeafc06b5d4fbf5b",
+    "Type": "Large",
+    "ID": "35060",
+    "Soft": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Terminal #1"
+  }
+}

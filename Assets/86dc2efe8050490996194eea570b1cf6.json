@@ -1,0 +1,43 @@
+{
+  "name": "PS_Potato_Plant",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Potato_Plant/PS_Potato_Plant.dat",
+  "data": {
+    "GUID": "86dc2efe8050490996194eea570b1cf6",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "59694",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.38",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59694",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "59229",
+    "Blueprint_0_Output_0_Amount": "2",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Utilities",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "59694",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "59230",
+    "Blueprint_1_Output_0_Amount": "2",
+    "Blueprint_1_Build": "27",
+    "Actions": "2",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Harvest Potatoes",
+    "Action_0_Tooltip": "Get 2 <color=#1f871f>Potatoes</color>.",
+    "Action_1_Type": "Blueprint",
+    "Action_1_Blueprints": "1",
+    "Action_1_Blueprint_0_Index": "1",
+    "Action_1_Text": "Craft Seeds",
+    "Action_1_Tooltip": "Plant them again."
+  },
+  "translation": {
+    "Name": "Potato Plant",
+    "Description": "Fully grown plant, ready to be harvested."
+  }
+}

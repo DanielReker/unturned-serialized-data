@@ -1,0 +1,16 @@
+{
+  "name": "Research_0",
+  "path": "Bundles/Objects/Large/Buildings/Research_0/Research_0.dat",
+  "data": {
+    "GUID": "28fda54e2d0344e799b90be5c447f8a8",
+    "Type": "Large",
+    "ID": "276",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-3",
+    "LOD_Size_Z": "-6",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Research #1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "SeedyPlace_Accept",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/James/James_02/SeedyPlace_Accept/Asset.dat",
+  "data": {
+    "GUID": "e26d438f5efd48c29431bdf17844ad4d",
+    "Type": "Dialogue",
+    "ID": "24471",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "5"
+  },
+  "translation": {
+    "Message_0_Page_0": "Awesome! Good luck!"
+  }
+}

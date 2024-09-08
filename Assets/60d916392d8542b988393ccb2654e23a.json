@@ -1,0 +1,17 @@
+{
+  "name": "Metro_Boulder_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Boulder_7/Metro_Boulder_7.dat",
+  "data": {
+    "GUID": "60d916392d8542b988393ccb2654e23a",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57508",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Boulder #8"
+  }
+}

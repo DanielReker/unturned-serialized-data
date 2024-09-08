@@ -1,0 +1,39 @@
+{
+  "name": "Ryans_Armory",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Vendors/IFR/Ryans_Armory/Asset.dat",
+  "data": {
+    "GUID": "e290dd35d2b34f11a36939457342b4fc",
+    "Type": "Vendor",
+    "ID": "15201",
+    "Buying": "4",
+    "Buying_0_ID": "1193",
+    "Buying_0_Amount": "1",
+    "Buying_0_Cost": "100",
+    "Buying_1_ID": "119",
+    "Buying_1_Amount": "1",
+    "Buying_1_Cost": "50",
+    "Buying_2_ID": "123",
+    "Buying_2_Amount": "1",
+    "Buying_2_Cost": "30",
+    "Buying_3_ID": "125",
+    "Buying_3_Amount": "1",
+    "Buying_3_Cost": "70",
+    "Selling": "4",
+    "Selling_0_ID": "153",
+    "Selling_0_Amount": "1",
+    "Selling_0_Cost": "400",
+    "Selling_1_ID": "1004",
+    "Selling_1_Amount": "1",
+    "Selling_1_Cost": "350",
+    "Selling_2_ID": "15040",
+    "Selling_2_Amount": "1",
+    "Selling_2_Cost": "450",
+    "Selling_3_ID": "15047",
+    "Selling_3_Amount": "1",
+    "Selling_3_Cost": "900"
+  },
+  "translation": {
+    "Name": "<color=rare>Ryan's</color> Arms",
+    "Description": "Will trade bullets/attachments for money."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PS_Ore_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Resources/PS_Ore_1/PS_Ore_1.dat",
+  "data": {
+    "GUID": "7e5f5425093741c295d87a344405f387",
+    "Type": "Resource",
+    "Has_Clip_Prefab": "False",
+    "ID": "59025",
+    "Health": "200",
+    "Radius": "4",
+    "Scale": "0",
+    "Explosion": "59051",
+    "Reward_ID": "59028",
+    "Reward_XP": "0",
+    "Reward_Min": "0",
+    "Reward_Max": "0",
+    "BladeID": "5",
+    "No_Debris": "",
+    "Reset": "1260"
+  },
+  "translation": {
+    "Name": "PS Ore #2 [Metal]"
+  }
+}

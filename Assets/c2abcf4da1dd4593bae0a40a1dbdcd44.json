@@ -1,0 +1,12 @@
+{
+  "name": "CA_Vines_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Small/Misc/CA_Vines_2/CA_Vines_2.dat",
+  "data": {
+    "GUID": "c2abcf4da1dd4593bae0a40a1dbdcd44",
+    "Type": "Small",
+    "ID": "4347"
+  },
+  "translation": {
+    "Name": "California Vines #3"
+  }
+}

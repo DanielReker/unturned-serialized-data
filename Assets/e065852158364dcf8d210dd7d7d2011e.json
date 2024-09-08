@@ -1,0 +1,13 @@
+{
+  "name": "Washington_Civilian_America",
+  "path": "Bundles/Spawns/Items/Washington_Civilian_America/Washington_Civilian_America.dat",
+  "data": {
+    "GUID": "e065852158364dcf8d210dd7d7d2011e",
+    "Type": "Spawn",
+    "ID": "394",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "395",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

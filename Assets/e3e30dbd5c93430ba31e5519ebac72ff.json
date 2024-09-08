@@ -1,0 +1,14 @@
+{
+  "name": "Janitor_Radio_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Janitor/Janitor_Radio_Completed/Asset.dat",
+  "data": {
+    "GUID": "e3e30dbd5c93430ba31e5519ebac72ff",
+    "Type": "Dialogue",
+    "ID": "3559",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hopefully nothing else as important was left behind."
+  }
+}

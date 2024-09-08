@@ -1,0 +1,17 @@
+{
+  "name": "Metro_Swamp_Road_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Swamp_Road_2/Metro_Swamp_Road_2.dat",
+  "data": {
+    "GUID": "46e333e6255c4d66ad559df5763e0f7a",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57027",
+    "Snowshoe": "",
+    "Soft": "",
+    "Chart": "Highway",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Swamp Road #3"
+  }
+}

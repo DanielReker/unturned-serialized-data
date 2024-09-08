@@ -1,0 +1,28 @@
+{
+  "name": "MilitiaAmmo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Militia/MilitiaAmmo/MilitiaAmmo.dat",
+  "data": {
+    "GUID": "3a22c65a7b9e48bfa6d7e361ba503be0",
+    "Type": "Spawn",
+    "ID": "51119",
+    "Tables": [
+      {
+        "Guid": "8298d5448d8f4f859f24609e63d294b2",
+        "Weight": "3"
+      },
+      {
+        "Guid": "ac9106ab23804fbc9e85e2cd02c57991",
+        "Weight": "1"
+      },
+      {
+        "Guid": "a95f1878a19a4ead8ebd56fb8d70b293",
+        "Weight": "1"
+      },
+      {
+        "Guid": "c63c77e3be934bddaebf1c85a2079ff3",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

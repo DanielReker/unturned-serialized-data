@@ -1,0 +1,15 @@
+{
+  "name": "Zomb_Off",
+  "path": "Bundles/Skins/Blowtorch/Zomb_Off/Zomb_Off.dat",
+  "data": {
+    "GUID": "2518cc32ecf44206b59e81bf9a10072b",
+    "Type": "Skin",
+    "ID": "50091",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

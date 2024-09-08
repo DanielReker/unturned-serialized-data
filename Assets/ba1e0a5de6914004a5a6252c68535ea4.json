@@ -1,0 +1,17 @@
+{
+  "name": "StrikeMissile",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/StrikeMissile/StrikeMissile.dat",
+  "data": {
+    "GUID": "ba1e0a5de6914004a5a6252c68535ea4",
+    "Type": "Supply",
+    "Rarity": "Legendary",
+    "ID": "51328",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.1"
+  },
+  "translation": {
+    "Name": "Airdrop Call Module",
+    "Description": "A module utilized for military airdrops.  Can be used in the Air Defense system in Fort Marston."
+  }
+}

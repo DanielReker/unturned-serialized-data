@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Clothes_Rack_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Furniture/Buak_Clothes_Rack_00/Buak_Clothes_Rack_00.dat",
+  "data": {
+    "GUID": "6e94c2d9fccc4bcfb56cf64035a3d8e9",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Clothes_Rack_00"
+  }
+}

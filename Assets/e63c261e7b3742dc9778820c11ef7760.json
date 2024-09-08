@@ -1,0 +1,16 @@
+{
+  "name": "Mannequin_0",
+  "path": "Bundles/Objects/Medium/Business/Mannequin_0/Mannequin_0.dat",
+  "data": {
+    "GUID": "e63c261e7b3742dc9778820c11ef7760",
+    "Type": "Medium",
+    "ID": "117",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Mannequin #1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Teleporter_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_Teleporter_0/Metro_Teleporter_0.dat",
+  "data": {
+    "GUID": "42eb79123a504168939595a83ed95fcb",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "58168"
+  },
+  "translation": {
+    "Name": "Metro Teleporter #1"
+  }
+}

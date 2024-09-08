@@ -1,0 +1,24 @@
+{
+  "name": "Kuwait_Grass_Collection_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Assets/Landscapes/Grass/Kuwait_Grass_Collection_0.asset",
+  "data": {
+    "GUID": "a94ea71cb3e64ae890dd141eb5b05bf1",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "6d99d28350f6462684427582569c7bf1"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "f174e993f193402cb0bd6c7c87188188"
+        },
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

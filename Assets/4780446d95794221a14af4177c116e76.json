@@ -1,0 +1,25 @@
+{
+  "name": "PS_Screws",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Screws/PS_Screws.dat",
+  "data": {
+    "GUID": "4780446d95794221a14af4177c116e76",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "59570",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59570",
+    "Blueprint_0_Product": "59000",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Tool": "59004",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Box Of Screws",
+    "Description": "Mechanical fasteners.<br><br><color=#FFC000>Nomad's Exchange Item</color>"
+  }
+}

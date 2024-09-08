@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Coffee_Machine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Furniture/Buak_Coffee_Machine/Buak_Coffee_Machine.dat",
+  "data": {
+    "GUID": "877612758c5345ff9aedd0076712919c",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Coffee_Machine"
+  }
+}

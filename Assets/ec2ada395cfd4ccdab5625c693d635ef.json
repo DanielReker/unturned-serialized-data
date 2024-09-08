@@ -1,0 +1,24 @@
+{
+  "name": "PS_Airdrop_Long_Range_Guns",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Airdrop_Long_Range_Guns/PS_Airdrop_Long_Range_Guns.dat",
+  "data": {
+    "GUID": "ec2ada395cfd4ccdab5625c693d635ef",
+    "Type": "Spawn",
+    "ID": "59482",
+    "Tables": [
+      {
+        "Guid": "685a10fe411a4724a90220794da4253b",
+        "Weight": "3"
+      },
+      {
+        "Guid": "dbc86aef26df4c428b6fa11b35a0d214",
+        "Weight": "3"
+      },
+      {
+        "Guid": "049b1ee43fe14336a9e109e83341716f",
+        "Weight": "3"
+      }
+    ]
+  },
+  "translation": null
+}

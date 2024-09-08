@@ -1,0 +1,17 @@
+{
+  "name": "Peacemaker_Iron_Sights",
+  "path": "Bundles/Items/Sights/Peacemaker_Iron_Sights/Peacemaker_Iron_Sights.dat",
+  "data": {
+    "GUID": "c9d0afd6aed94ab7a5071dbe1e86bc94",
+    "Type": "Sight",
+    "ID": "1025",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Peacemaker Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

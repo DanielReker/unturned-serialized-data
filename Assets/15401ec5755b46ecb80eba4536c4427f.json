@@ -1,0 +1,12 @@
+{
+  "name": "CA_Quest_Wine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Small/Misc/CA_Quest_Wine/CA_Quest_Wine.dat",
+  "data": {
+    "GUID": "15401ec5755b46ecb80eba4536c4427f",
+    "Type": "Small",
+    "ID": "4703"
+  },
+  "translation": {
+    "Name": "California Quest Wine #1"
+  }
+}

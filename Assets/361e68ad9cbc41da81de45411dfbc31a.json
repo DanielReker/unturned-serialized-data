@@ -1,0 +1,14 @@
+{
+  "name": "Tiago_True_Afzetter_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Afzetter Member Tiago/Tiago_True_Afzetter_Completed/Asset.dat",
+  "data": {
+    "GUID": "361e68ad9cbc41da81de45411dfbc31a",
+    "Type": "Dialogue",
+    "ID": "9169",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You are really helping us out. The more task that we get done the more money we get from the military."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Mafia_Magazines",
+  "path": "Bundles/Spawns/Items/Mafia_Magazines/Mafia_Magazines.dat",
+  "data": {
+    "GUID": "67638a913aee4790ad359a0c85ff008d",
+    "Type": "Spawn",
+    "ID": "633",
+    "Tables": [
+      {
+        "LegacyAssetId": "1381",
+        "Weight": "100"
+      },
+      {
+        "Guid": "78cb493018b8451e8ea7664434483e53",
+        "Weight": "20"
+      },
+      {
+        "Guid": "29e816ce506b4763a5ff6f29a514ceb7",
+        "Weight": "20"
+      }
+    ]
+  },
+  "translation": null
+}

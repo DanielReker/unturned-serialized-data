@@ -1,0 +1,13 @@
+{
+  "name": "Biodome_0",
+  "path": "Bundles/Objects/Large/Buildings/Biodome_0/Biodome_0.dat",
+  "data": {
+    "GUID": "6603107d6a7f4712ac6d575264216c90",
+    "Type": "Large",
+    "ID": "422",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Biodome #1"
+  }
+}

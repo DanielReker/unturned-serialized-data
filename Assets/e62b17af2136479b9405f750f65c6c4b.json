@@ -1,0 +1,38 @@
+{
+  "name": "Metro_Decoy_Hi",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Ranger/Metro_Decoy_Hi/Metro_Decoy_Hi.dat",
+  "data": {
+    "GUID": "e62b17af2136479b9405f750f65c6c4b",
+    "Type": "Throwable",
+    "Rarity": "Uncommon",
+    "Useable": "Throwable",
+    "ID": "57739",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.375",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "3",
+    "Blueprint_0_Supply_0_ID": "57202",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "72",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Supply_2_ID": "57279",
+    "Blueprint_0_Supply_2_Amount": "1",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "57739 ",
+    "Blueprint_0_Output_0_Amount": "4",
+    "Blueprint_0_Build": "32",
+    "Blueprint_0_Map": "Elver",
+    "Blueprint_1_Type": "Tool",
+    "Blueprint_1_Supply_0_ID": "57739",
+    "Blueprint_1_Product": "67",
+    "Blueprint_1_Products": "1",
+    "Blueprint_1_Build": "27",
+    "Blueprint_1_Map": "Elver"
+  },
+  "translation": {
+    "Name": "High Caliber Decoy",
+    "Description": "<color=#64c819>25 Second</color> Duration"
+  }
+}

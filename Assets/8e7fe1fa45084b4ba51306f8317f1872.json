@@ -1,0 +1,17 @@
+{
+  "name": "Injector_Iron_Sights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Items/Sights/Injector_Iron_Sights/Injector_Iron_Sights.dat",
+  "data": {
+    "GUID": "8e7fe1fa45084b4ba51306f8317f1872",
+    "Type": "Sight",
+    "ID": "8015",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Injector Iron Sight",
+    "Description": "A sight for any gun."
+  }
+}

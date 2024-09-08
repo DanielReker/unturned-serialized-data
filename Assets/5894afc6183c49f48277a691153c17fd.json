@@ -1,0 +1,14 @@
+{
+  "name": "Ibrahim_Verraad_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Afzetter Leader Ibrahim/Ibrahim_Verraad_Completed/Asset.dat",
+  "data": {
+    "GUID": "5894afc6183c49f48277a691153c17fd",
+    "Type": "Dialogue",
+    "ID": "9127",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Finally, we can take over the HQ and gain control over this country!"
+  }
+}

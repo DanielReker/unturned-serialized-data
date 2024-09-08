@@ -1,0 +1,13 @@
+{
+  "name": "Explosion_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Effects/Grenades/Explosion_0/Explosion_0.dat",
+  "data": {
+    "GUID": "4caf0046e7b04e87a7e289cc4dec8886",
+    "Type": "Effect",
+    "ID": "51260",
+    "CameraShake_Radius": "12",
+    "CameraShake_MagnitudeDegrees": "32",
+    "Spawn_On_Dedicated_Server": ""
+  },
+  "translation": null
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PBS_MeetEOD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardConditioned/PBS_MeetEOD/PBS_MeetEOD.dat",
+  "data": {
+    "GUID": "089f00d933e84600b83f2e15ecff9818",
+    "Type": "RewardsList",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "52590",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Quest",
+    "Condition_1_ID": "52587",
+    "Condition_1_Status": "Completed",
+    "Condition_1_Logic": "Not_Equal",
+    "Rewards": "2",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "52588",
+    "Reward_0_Value": "True",
+    "Reward_1_Type": "Quest",
+    "Reward_1_ID": "52587"
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Monolith_Arena_Guns_Ranger",
+  "path": "Bundles/Spawns/Items/Monolith_Arena_Guns_Ranger/Monolith_Arena_Guns_Ranger.dat",
+  "data": {
+    "GUID": "93c4f1cae6db429095acb39fff9e3a08",
+    "Type": "Spawn",
+    "ID": "70",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "71",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

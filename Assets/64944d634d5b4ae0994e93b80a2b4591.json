@@ -1,0 +1,14 @@
+{
+  "name": "27160KPMT",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27150KPMD/27160KPMT/Asset.dat",
+  "data": {
+    "GUID": "64944d634d5b4ae0994e93b80a2b4591",
+    "Type": "Dialogue",
+    "ID": "27160",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh, yeah. I have this hex wrench that I borrowed.<br><i><pause>...Seriously, who makes a gun use hex nuts?</i>"
+  }
+}

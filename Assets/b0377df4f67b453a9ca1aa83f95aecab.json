@@ -1,0 +1,17 @@
+{
+  "name": "Fence_Wood_Broken_2",
+  "path": "Bundles/Objects/Medium/Fences/Fence_Wood_Broken_2/Fence_Wood_Broken_2.dat",
+  "data": {
+    "GUID": "b0377df4f67b453a9ca1aa83f95aecab",
+    "Type": "Medium",
+    "ID": "72",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "200",
+    "Interactability_Effect": "67",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Fence Wood Broken #3"
+  }
+}

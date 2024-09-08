@@ -1,0 +1,12 @@
+{
+  "name": "Tank Factory Office",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Tank Factory Office/Tank Factory Office.dat",
+  "data": {
+    "GUID": "16c64cd073d84089a5d22197980e8830",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Tank Factory Office"
+  }
+}

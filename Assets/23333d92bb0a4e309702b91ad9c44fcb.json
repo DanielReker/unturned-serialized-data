@@ -1,0 +1,34 @@
+{
+  "name": "Metro_Stairs_Crystal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Structures/Crystal/Metro_Stairs_Crystal/Metro_Stairs_Crystal.dat",
+  "data": {
+    "GUID": "23333d92bb0a4e309702b91ad9c44fcb",
+    "Type": "Structure",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Legendary",
+    "Useable": "Structure",
+    "Construct": "Roof",
+    "ID": "57240 ",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Health": "3900",
+    "Range": "8",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "57241",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "57222",
+    "Blueprint_0_Supply_1_Amount": "2",
+    "Blueprint_0_Level": "3",
+    "Blueprint_0_Skill": "Craft",
+    "Blueprint_0_Build": "27",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Crystalized Metal Stairs",
+    "Description": "<color=#64c819>3900</color> Health"
+  }
+}

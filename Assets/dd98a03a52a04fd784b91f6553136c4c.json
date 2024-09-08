@@ -1,0 +1,32 @@
+{
+  "name": "Minky_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/02/Minky_02/Asset.dat",
+  "data": {
+    "GUID": "dd98a03a52a04fd784b91f6553136c4c",
+    "Type": "NPC",
+    "ID": "25300",
+    "Shirt": "de85a4a73d644929b63433b3adf41ab3",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Shirt": "e53f3b0e20f946a39941b6a46e6459bc",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "6",
+    "Hair": "4",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#161616",
+    "Dialogue": "c89c9ec58d614f6f9e32288453daf394",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24787",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Minky_02",
+    "Character": "<color=legendary>Minky</color>"
+  }
+}

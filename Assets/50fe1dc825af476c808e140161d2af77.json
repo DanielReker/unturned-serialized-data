@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Book_Row_10",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Book_Row_10/Buak_Book_Row_10.dat",
+  "data": {
+    "GUID": "50fe1dc825af476c808e140161d2af77",
+    "Type": "Medium",
+    "ID": "25300",
+    "Material_Palette": "0d754b1fe97a4a66bf7031c71bb997c2",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Book_Row_10"
+  }
+}

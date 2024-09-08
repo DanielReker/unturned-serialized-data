@@ -1,0 +1,16 @@
+{
+  "name": "BuakAirdrop",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Airdrops/BuakAirdrop.asset",
+  "data": {
+    "GUID": "885b7687cff244c89475d7b3760eadb6",
+    "Type": "SDG.Unturned.AirdropAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Landed_Barricade": {
+      "GUID": "fb64a016956347eaa62a189c90cbd320"
+    },
+    "Carepackage_Prefab": {
+      "MasterBundle": "buak.masterbundle",
+      "AssetPath": "Level/Carepackage.prefab"
+    }
+  },
+  "translation": null
+}

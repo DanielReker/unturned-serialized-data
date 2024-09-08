@@ -1,0 +1,13 @@
+{
+  "name": "Military_Kuwait_Melee",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Military_Kuwait_Melee/Military_Kuwait_Melee.dat",
+  "data": {
+    "GUID": "c2f21151c62c4050adec91996c48bb75",
+    "Type": "Spawn",
+    "ID": "7006",
+    "Tables": "1",
+    "Table_0_Asset_ID": "5096",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

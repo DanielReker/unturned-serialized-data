@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Mall_Text_27",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Small/Metro_Mall_Text_27/Metro_Mall_Text_27.dat",
+  "data": {
+    "GUID": "4159491964eb476e81d4bc7eeda8565e",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57699"
+  },
+  "translation": {
+    "Name": "Metro Mall Text #28"
+  }
+}

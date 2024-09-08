@@ -1,0 +1,16 @@
+{
+  "name": "Rodrigues_Failed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Misc/Officer_Rodrigues/Rodrigues_Failed/Asset.dat",
+  "data": {
+    "GUID": "c5f2c9e905f241d59da49c5e8040fbf0",
+    "Type": "Dialogue",
+    "ID": "9215",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Alright, we'll get back to you.",
+    "Response_0": "Right..."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "26914KFT",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/265 CO/2664-2691 Mili/26910KFFD/26914KFT/Asset.dat",
+  "data": {
+    "GUID": "da5a296bc15045ed99cff12073b87714",
+    "Type": "Dialogue",
+    "ID": "26914",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "26911"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hold yourself accountable! Otherwise nobody knows what to do."
+  }
+}

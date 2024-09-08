@@ -1,0 +1,16 @@
+{
+  "name": "Buak_Cabinets",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Material_Palettes/Buak_Cabinets.asset",
+  "data": {
+    "GUID": "d0d297444abd4e469100483ba5b676b2",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Cabinets/Cabinet_00_00.mat"
+      }
+    ]
+  },
+  "translation": null
+}

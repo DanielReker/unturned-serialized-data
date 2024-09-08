@@ -1,0 +1,13 @@
+{
+  "name": "France_Food",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/France_Food/France_Food.dat",
+  "data": {
+    "GUID": "5e284e2ade9843128ed0290cd9307bd9",
+    "Type": "Spawn",
+    "ID": "2021",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "2020",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

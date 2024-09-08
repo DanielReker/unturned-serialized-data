@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Boat_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Frost_Boat_03/Frost_Boat_03.dat",
+  "data": {
+    "GUID": "4be6bfa5b5aa40afa4b5a2fbd2acc101",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000"
+  },
+  "translation": {
+    "Name": "Frost Boat #4"
+  }
+}

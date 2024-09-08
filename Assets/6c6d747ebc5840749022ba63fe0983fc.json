@@ -1,0 +1,34 @@
+{
+  "name": "PS_Trader_10",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/PS_Trader_10/Asset.dat",
+  "data": {
+    "GUID": "6c6d747ebc5840749022ba63fe0983fc",
+    "Type": "NPC",
+    "ID": "59343",
+    "Face": "20",
+    "Hair": "12",
+    "Beard": "0",
+    "Color_Skin": "#3F3428",
+    "Color_Hair": "#2C3D68",
+    "Dialogue": "59344",
+    "Pose": "Rest",
+    "Hat": "1830",
+    "Shirt": "1829",
+    "Backpack": "1827",
+    "Pants": "1828",
+    "Vest": "1826",
+    "Mask": "1825",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Backpack": "1597",
+    "Halloween_Glasses": "502",
+    "Halloween_Shirt": "6c1f8206aa044b2197ca21de2b24bc39",
+    "Halloween_Pants": "1828",
+    "Halloween_Hat": "1830",
+    "Halloween_Mask": "1825",
+    "Halloween_Vest": "1826"
+  },
+  "translation": {
+    "Name": "PS Trader #11 [Rico]",
+    "Character": "Rico A."
+  }
+}

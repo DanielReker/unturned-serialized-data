@@ -1,0 +1,11 @@
+{
+  "name": "Concrete_Static",
+  "path": "Bundles/Effects/Impacts/Concrete_Static/Concrete_Static.dat",
+  "data": {
+    "GUID": "384d5d41a6dd4e9798a2bbee1675f6c6",
+    "Type": "Effect",
+    "ID": "13",
+    "Preload": "4"
+  },
+  "translation": null
+}

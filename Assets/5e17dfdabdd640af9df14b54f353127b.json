@@ -1,0 +1,17 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Grandma/Grandma_03/Welcome/Asset.dat",
+  "data": {
+    "GUID": "5e17dfdabdd640af9df14b54f353127b",
+    "Type": "Dialogue",
+    "ID": "24107",
+    "Messages": "8",
+    "Message_0_Pages": "1",
+    "Responses": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hello there dear.",
+    "Response_0": "Hello!",
+    "Response_1": "Goodbye."
+  }
+}

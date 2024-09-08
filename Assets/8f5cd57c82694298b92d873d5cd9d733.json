@@ -1,0 +1,12 @@
+{
+  "name": "Tank Factory",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Tank Factory/Tank Factory.dat",
+  "data": {
+    "GUID": "8f5cd57c82694298b92d873d5cd9d733",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Tank Factory"
+  }
+}

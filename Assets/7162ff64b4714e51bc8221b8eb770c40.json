@@ -1,0 +1,22 @@
+{
+  "name": "Omega_Doctor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Doctor/Asset.dat",
+  "data": {
+    "GUID": "7162ff64b4714e51bc8221b8eb770c40",
+    "Type": "NPC",
+    "ID": "3606",
+    "Shirt": "311",
+    "Pants": "312",
+    "Face": "4",
+    "Hair": "18",
+    "Beard": "6",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#946639",
+    "Secondary": "97",
+    "Dialogue": "3125"
+  },
+  "translation": {
+    "Name": "Greek Omega Doctor Saunders",
+    "Character": "<color=rare>Doctor Saunders</color>"
+  }
+}

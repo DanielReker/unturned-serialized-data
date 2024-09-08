@@ -1,0 +1,22 @@
+{
+  "name": "Metro_Door_Cult",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/Metro_Door_Cult/Metro_Door_Cult.dat",
+  "data": {
+    "GUID": "39ef470ea24940e6ae4d408464bd76ab",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57484",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Short",
+    "Interactability_Condition_0_ID": "57014",
+    "Interactability_Condition_0_Value": "4",
+    "Interactability_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Interactability": "Binary_State",
+    "Interactability_Delay": "2",
+    "Interactability_Hint": "Use"
+  },
+  "translation": {
+    "Name": "Metro Door [CULT]",
+    "Interactability_Condition_0": "You are not ready."
+  }
+}

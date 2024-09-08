@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Window_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Window_0/Metro_Window_0.dat",
+  "data": {
+    "GUID": "a3d7fb3a94d647fb89b0da352fa393cb",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57457",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Window #1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Carpat_Chalet_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Objects/Large/Carpat_Chalet_01/Carpat_Chalet_01.dat",
+  "data": {
+    "GUID": "a256284291b04afab2b0b8bf697ff7df",
+    "Type": "Large",
+    "ID": "23116",
+    "LOD": "Mesh",
+    "Snowshoe": "",
+    "Soft": "",
+    "Collision_Important": ""
+  },
+  "translation": {
+    "Name": "Carpat Chalet #1"
+  }
+}

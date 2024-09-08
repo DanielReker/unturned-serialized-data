@@ -1,0 +1,12 @@
+{
+  "name": "Safezone Exit",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Safezone Exit/Safezone Exit.dat",
+  "data": {
+    "GUID": "841edc4987f14062b5df8b0cd4dec352",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Safezone Exit"
+  }
+}

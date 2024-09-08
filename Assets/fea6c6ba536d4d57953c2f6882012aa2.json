@@ -1,0 +1,14 @@
+{
+  "name": "Metro_EBR_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_EBR_0/Metro_EBR_0.dat",
+  "data": {
+    "GUID": "fea6c6ba536d4d57953c2f6882012aa2",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57040",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro EBR #1"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Nightvision_Military_Scope",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Sights/Nightvision_Military_Scope/Nightvision_Military_Scope.dat",
+  "data": {
+    "GUID": "031f833f2e94433aab9933b571f77cf5",
+    "Type": "Sight",
+    "Rarity": "Legendary",
+    "ID": "5107",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Spread": "0.8",
+    "Zoom": "6",
+    "Vision": "Military",
+    "Paintable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "5107",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "27",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Sights/Nightvision_Military_Scope"
+  },
+  "translation": {
+    "Name": "Military Nightvision Scope",
+    "Description": "Rail mounted 6x zoom nightvision scope.<br><color=#FF69B4>6x Zoom</color><br><color=#FF69B4>+20% Accuracy Aiming</color><br><color=#FF69B4>Nightvision</color>"
+  }
+}

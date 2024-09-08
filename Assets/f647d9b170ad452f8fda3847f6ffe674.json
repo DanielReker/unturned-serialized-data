@@ -1,0 +1,15 @@
+{
+  "name": "Candyland_Cottontail_Ops_Helmet",
+  "path": "Bundles/Items/Hats/Candyland_Cottontail_Ops_Helmet/Candyland_Cottontail_Ops_Helmet.dat",
+  "data": {
+    "GUID": "f647d9b170ad452f8fda3847f6ffe674",
+    "Type": "Hat",
+    "ID": "1556",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

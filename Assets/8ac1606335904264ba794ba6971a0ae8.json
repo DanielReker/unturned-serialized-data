@@ -1,0 +1,17 @@
+{
+  "name": "Radio_1",
+  "path": "Bundles/Objects/Medium/Military/Radio_1/Radio_1.dat",
+  "data": {
+    "GUID": "8ac1606335904264ba794ba6971a0ae8",
+    "Type": "Medium",
+    "ID": "680",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "60",
+    "Interactability_Health": "25",
+    "Interactability_Effect": "36",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Radio #2"
+  }
+}

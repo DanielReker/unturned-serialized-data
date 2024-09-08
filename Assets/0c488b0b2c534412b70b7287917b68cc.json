@@ -1,0 +1,13 @@
+{
+  "name": "France_Billboard_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Utilities/France_Billboard_0/France_Billboard_0.dat",
+  "data": {
+    "GUID": "0c488b0b2c534412b70b7287917b68cc",
+    "Type": "Large",
+    "ID": "35204",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "France Billboard"
+  }
+}

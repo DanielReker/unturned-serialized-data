@@ -1,0 +1,18 @@
+{
+  "name": "Hawaii_Palm_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Assets/Trees/Hawaii_Palm_0.asset",
+  "data": {
+    "GUID": "f3a15d3800c5442781082c1514079c70",
+    "Type": "SDG.Framework.Foliage.FoliageResourceInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Density": "4000",
+    "Min_Weight": "0.5",
+    "Max_Weight": "1",
+    "Min_Angle": "0",
+    "Max_Angle": "60",
+    "Resource": {
+      "GUID": "36d2b0bea94e4e6d9b5102948bf6b7f5"
+    },
+    "Obstruction_Radius": "4"
+  },
+  "translation": null
+}

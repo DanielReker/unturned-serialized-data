@@ -1,0 +1,13 @@
+{
+  "name": "PEI_Militia",
+  "path": "Bundles/Spawns/Items/PEI_Militia/PEI_Militia.dat",
+  "data": {
+    "GUID": "cf08e2f496e64bedbc8fc38ea3184894",
+    "Type": "Spawn",
+    "ID": "227",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "228",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

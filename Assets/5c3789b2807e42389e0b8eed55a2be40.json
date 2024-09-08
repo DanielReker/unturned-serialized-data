@@ -1,0 +1,30 @@
+{
+  "name": "BuakCurrency",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/BuakCurrency.asset",
+  "data": {
+    "GUID": "5c3789b2807e42389e0b8eed55a2be40",
+    "Type": "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ValueFormat": "${0:N0} TAB",
+    "Entries": [
+      {
+        "Item": {
+          "GUID": "39c35d06b3aa4ed99dafd0800277a857"
+        },
+        "Value": "1"
+      },
+      {
+        "Item": {
+          "GUID": "d6bfcecd3ec34c34b994e993fe0cf8c2"
+        },
+        "Value": "10"
+      },
+      {
+        "Item": {
+          "GUID": "f80584d25df24a458c0e6f416fd95c1d"
+        },
+        "Value": "100"
+      }
+    ]
+  },
+  "translation": null
+}

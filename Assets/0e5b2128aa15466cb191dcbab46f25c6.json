@@ -1,0 +1,12 @@
+{
+  "name": "Windmill",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Windmill/Windmill.dat",
+  "data": {
+    "GUID": "0e5b2128aa15466cb191dcbab46f25c6",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Windmill"
+  }
+}

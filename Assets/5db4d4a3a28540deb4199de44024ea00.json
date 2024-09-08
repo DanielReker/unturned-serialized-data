@@ -1,0 +1,14 @@
+{
+  "name": "SecondLove_02_Reminder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_02/SecondLove_02_Reminder/Asset.dat",
+  "data": {
+    "GUID": "5db4d4a3a28540deb4199de44024ea00",
+    "Type": "Dialogue",
+    "ID": "24388",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "The rings should be in building 1, on the counter next to the vending machine!"
+  }
+}

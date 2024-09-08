@@ -1,0 +1,13 @@
+{
+  "name": "Russia_Airport",
+  "path": "Bundles/Spawns/Vehicles/Russia_Airport/Russia_Airport.dat",
+  "data": {
+    "GUID": "4b9238925b244fee9e8b8b4aa50f17c6",
+    "Type": "Spawn",
+    "ID": "610",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "611",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

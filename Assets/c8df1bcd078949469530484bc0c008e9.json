@@ -1,0 +1,35 @@
+{
+  "name": "Frost_Wood_Crate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Barricades/Frost_Wood_Crate/Frost_Wood_Crate.dat",
+  "data": {
+    "GUID": "c8df1bcd078949469530484bc0c008e9",
+    "Type": "Storage",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Build": "Storage",
+    "ID": "36293",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Health": "300",
+    "Range": "4",
+    "Radius": "0.5",
+    "Offset": "0.725",
+    "Vulnerable": "",
+    "Storage_X": "8",
+    "Storage_Y": "4",
+    "Explosion": "29",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "36016",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Build": "27",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Wooden Crate",
+    "Description": "<color=#64c819>+32</color> Slots<br><color=#64c819>300</color> Health"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "26672KSAA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/265 CO/2664-2691 Mili/26670KSAD/26672KSAA/Asset.dat",
+  "data": {
+    "GUID": "43c153befc49418bbf71404a43dae96e",
+    "Type": "Dialogue",
+    "ID": "26672",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "26671"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks <name_char>! Please stay safe."
+  }
+}

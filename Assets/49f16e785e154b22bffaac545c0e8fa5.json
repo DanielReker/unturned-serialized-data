@@ -1,0 +1,23 @@
+{
+  "name": "Easter_Rat_Burrow_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Scenery/Easter_Rat_Burrow_5/Easter_Rat_Burrow_5.dat",
+  "data": {
+    "GUID": "49f16e785e154b22bffaac545c0e8fa5",
+    "Type": "Large",
+    "ID": "6906",
+    "Bypass_ID_Limit": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "8",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "RatBurrowExit_2",
+    "Master_Bundle_Override": "easterisland.masterbundle",
+    "Bundle_Override_Path": "/Objects/Large/Scenery/Easter_Rat_Burrow_0",
+    "Exclude_From_Master_Bundle": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Rat Burrow #6",
+    "Interact": "Exit the Burrow [{0}]"
+  }
+}

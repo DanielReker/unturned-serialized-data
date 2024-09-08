@@ -1,0 +1,39 @@
+{
+  "name": "Wardrobe_Metal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Wardrobe_Metal/Wardrobe_Metal.dat",
+  "data": {
+    "GUID": "f3a7703161294c899b5a944729b36c72",
+    "Type": "Storage",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Storage",
+    "ID": "52153",
+    "SalvageItem": "f3a7703161294c899b5a944729b36c72",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.55",
+    "Health": "600",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "1.3",
+    "Storage_X": "6",
+    "Storage_Y": "6",
+    "Locked": "",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51018",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Tool": "51016",
+    "Blueprint_0_Build": "27",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3",
+    "Has_Clip_Prefab": "false",
+    "Armor_Tier": "Low"
+  },
+  "translation": {
+    "Name": "Metal Wardrobe",
+    "Description": "Metal wardrobe for storing items."
+  }
+}

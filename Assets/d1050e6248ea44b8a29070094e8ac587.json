@@ -1,0 +1,18 @@
+{
+  "name": "Easter_Airport_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Buildings/Easter_Airport_1/Easter_Airport_1.dat",
+  "data": {
+    "GUID": "d1050e6248ea44b8a29070094e8ac587",
+    "Type": "Large",
+    "ID": "6657",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Airport #2"
+  }
+}

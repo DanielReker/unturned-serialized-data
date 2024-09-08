@@ -1,0 +1,12 @@
+{
+  "name": "Solo_BWTY_PGREEN",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Vehicles/Redirectors/Solo_BWT/Solo_BWTY_PGREEN.asset",
+  "data": {
+    "GUID": "e046ec0113ef4ae89c101f99b2651d73",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "25356",
+    "TargetVehicle": "4955971573794f2ebae4e21f88433ab2",
+    "LoadPaintColor": "#426942"
+  },
+  "translation": null
+}

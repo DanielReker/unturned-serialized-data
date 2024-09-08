@@ -1,0 +1,16 @@
+{
+  "name": "Carpat_Sign_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Objects/Medium/Carpat_Sign_04/Carpat_Sign_04.dat",
+  "data": {
+    "GUID": "d17e6b62acdb421ab6671f99938dae70",
+    "Type": "Medium",
+    "ID": "23167",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "130",
+    "Interactability_Effect": "72"
+  },
+  "translation": {
+    "Name": "Carpat Sign #4"
+  }
+}

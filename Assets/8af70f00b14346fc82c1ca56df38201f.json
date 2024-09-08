@@ -1,0 +1,13 @@
+{
+  "name": "PS_AA_Gun_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_AA_Gun_0/PS_AA_Gun_0.dat",
+  "data": {
+    "GUID": "8af70f00b14346fc82c1ca56df38201f",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60017"
+  },
+  "translation": {
+    "Name": "PS AA Gun #1"
+  }
+}

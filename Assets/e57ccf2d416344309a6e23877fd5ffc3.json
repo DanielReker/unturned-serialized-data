@@ -1,0 +1,26 @@
+{
+  "name": "Can_Opener",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Tools/Can_Opener/Can_Opener.dat",
+  "data": {
+    "GUID": "e57ccf2d416344309a6e23877fd5ffc3",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "25457",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.34",
+    "Use_Auto_Icon_Measurements": "False",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "25457",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "25310",
+    "Blueprint_0_Output_0_Amount": "2",
+    "Blueprint_0_Tool": "25393",
+    "Blueprint_0_Build": "25520"
+  },
+  "translation": {
+    "Name": "Can Opener",
+    "Description": "A tool designed to open cans. But CAN it?<br><color=#cd32da>Opens Canned Food</color>"
+  }
+}

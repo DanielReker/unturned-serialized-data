@@ -1,0 +1,12 @@
+{
+  "name": "IR_Hardware_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Hardware_1/IR_Hardware_1.dat",
+  "data": {
+    "GUID": "47d3607db48f45e1a32b214afb2b98aa",
+    "Type": "Large",
+    "ID": "17008"
+  },
+  "translation": {
+    "Name": "Irish Hardware#1"
+  }
+}

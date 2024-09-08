@@ -1,0 +1,24 @@
+{
+  "name": "Ipod",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Ipod/Ipod.dat",
+  "data": {
+    "GUID": "88a38fbb9b55405a8d50b5d680b4182d",
+    "Type": "Small",
+    "ID": "3837",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "3341",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "3341",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Quest Shuffle #1",
+    "Interact": "Grab Shuffle[{0}]"
+  }
+}

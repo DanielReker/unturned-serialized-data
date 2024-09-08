@@ -1,0 +1,19 @@
+{
+  "name": "Prison_German",
+  "path": "Bundles/Spawns/Vehicles/Prison_German/Prison_German.dat",
+  "data": {
+    "GUID": "0dc01e9c6640470ca13bdea22111bf91",
+    "Type": "Spawn",
+    "Tables": [
+      {
+        "Guid": "71d652d7f28a4835b557c5ae702ce2a9",
+        "Weight": "60"
+      },
+      {
+        "Guid": "7111694330cc403cb76f3e9344ac9001",
+        "Weight": "30"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Outlands_Bucket_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Quests/Kuwait_Outlands/Kuwait_Outlands_Bucket_0/Kuwait_Outlands_Bucket_0.dat",
+  "data": {
+    "GUID": "3b69432e51394a0a85ad764cf6aa1d43",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5429",
+    "Chart": "Ignore",
+    "GPS": "Ignore"
+  },
+  "translation": {
+    "Name": "Kuwait Outlands Bucket #1"
+  }
+}

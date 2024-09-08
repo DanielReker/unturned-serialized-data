@@ -1,0 +1,14 @@
+{
+  "name": "GreeceFortifiedShelter_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceFortifiedShelter_1/GreeceFortifiedShelter_1.dat",
+  "data": {
+    "GUID": "cfb6fbdfcce1444f85b2353b0cb23f90",
+    "Type": "Large",
+    "ID": "6282",
+    "LOD": "Mesh",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Fortified Shelter #2"
+  }
+}

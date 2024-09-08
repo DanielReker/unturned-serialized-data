@@ -1,0 +1,14 @@
+{
+  "name": "CatsInBag_Accept",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Viola/Viola_02/CatsInBag_Accept/Asset.dat",
+  "data": {
+    "GUID": "429ece3eb52441a489e44c399a1054c1",
+    "Type": "Dialogue",
+    "ID": "24452",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks! Good luck."
+  }
+}

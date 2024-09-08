@@ -1,0 +1,16 @@
+{
+  "name": "CA_Railing_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Props/CA_Railing_6/CA_Railing_6.dat",
+  "data": {
+    "GUID": "39940704fade4c9a9feb496e222d317c",
+    "Type": "Medium",
+    "ID": "4470",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "600",
+    "Interactability_Health": "40",
+    "Interactability_Effect": "64"
+  },
+  "translation": {
+    "Name": "California Railing #7"
+  }
+}

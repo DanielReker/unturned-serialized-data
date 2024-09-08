@@ -1,0 +1,20 @@
+{
+  "name": "Easter_Note_Freighter_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Small/Notes/Easter_Note_Freighter_1/Easter_Note_Freighter_1.dat",
+  "data": {
+    "GUID": "082f5e79654c4c35a48e547f604bbc79",
+    "Type": "Small",
+    "ID": "6834",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Easter Note - Freighter #2",
+    "Interactability_Text_Line_0": "The winds have really picked up, we can barely see anything in front of us because of all the fog. Some crew members reported seeing large iceberg like objects out in the fog, but our Radars are saying we’re off the coast of Hawaii. What's going on?"
+  }
+}

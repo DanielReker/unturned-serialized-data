@@ -1,0 +1,28 @@
+{
+  "name": "PS_Trader_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/PS_Trader_3/Asset.dat",
+  "data": {
+    "GUID": "7167cbfe6a2b4c049e5307e31368bfbe",
+    "Type": "NPC",
+    "ID": "59019",
+    "Face": "20",
+    "Hair": "2",
+    "Beard": "0",
+    "Color_Skin": "#977E67",
+    "Color_Hair": "#352C22",
+    "Dialogue": "59121",
+    "Shirt": "59190",
+    "Pants": "59160",
+    "Vest": "59782",
+    "Hat": "59781",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Shirt": "59190",
+    "Halloween_Pants": "59160",
+    "Halloween_Vest": "59782",
+    "Halloween_Hat": "af525ba30f8b4b1f80d681571c738f07"
+  },
+  "translation": {
+    "Name": "PS Trader #4 [Nomad]",
+    "Character": "Nomad"
+  }
+}

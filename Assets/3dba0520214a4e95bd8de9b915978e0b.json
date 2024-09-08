@@ -1,0 +1,17 @@
+{
+  "name": "PW_Lo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Songs/PW_Lo/PW_Lo.asset",
+  "data": {
+    "GUID": "3dba0520214a4e95bd8de9b915978e0b",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Song": {
+      "MasterBundle": "buak.masterbundle",
+      "AssetPath": "Music/PW_Lo.ogg"
+    },
+    "Link_URL": "https://www.youtube.com/watch?v=vGs_NKRWwNg",
+    "Is_Loop": "true"
+  },
+  "translation": {
+    "Name": "Don't Be A Coward Lofi - staswalle"
+  }
+}

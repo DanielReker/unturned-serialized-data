@@ -1,0 +1,12 @@
+{
+  "name": "Haunted",
+  "path": "Bundles/Mythics/Haunted/Haunted.dat",
+  "data": {
+    "GUID": "83ce6a55c15745239b4a6f586ac09bf9",
+    "Type": "Mythic",
+    "ID": "14"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Haunted"
+  }
+}

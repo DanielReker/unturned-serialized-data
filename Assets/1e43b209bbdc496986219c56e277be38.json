@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Hunting_Handbook",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/BarricadeDestroy/Drop_Hunting_Handbook/Drop_Hunting_Handbook.dat",
+  "data": {
+    "GUID": "1e43b209bbdc496986219c56e277be38",
+    "Type": "Spawn",
+    "ID": "51316",
+    "Tables": [
+      {
+        "Guid": "7eeabf0d17904adb8fdee95a5d957881",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

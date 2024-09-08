@@ -1,0 +1,13 @@
+{
+  "name": "PS_Missiles_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Missiles_2/PS_Missiles_2.dat",
+  "data": {
+    "GUID": "00a3980c6ec04454aaece47589abe4aa",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59968"
+  },
+  "translation": {
+    "Name": "PS Missiles #3"
+  }
+}

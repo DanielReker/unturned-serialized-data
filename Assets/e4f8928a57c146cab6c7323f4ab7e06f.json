@@ -1,0 +1,14 @@
+{
+  "name": "Mona_Acid_Canister_Supplies_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Nulirane Technology Specialist Mona/Mona_Acid_Canister_Supplies_Accepted/Asset.dat",
+  "data": {
+    "GUID": "e4f8928a57c146cab6c7323f4ab7e06f",
+    "Type": "Dialogue",
+    "ID": "9204",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Alright good luck finding the supplies!"
+  }
+}

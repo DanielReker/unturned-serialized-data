@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Welder",
+  "path": "Bundles/Items/Frost/Frost_Welder/Frost_Welder.dat",
+  "data": {
+    "GUID": "87806ae690564f5282cb8e72f69ea369",
+    "Type": "Hat",
+    "ID": "1821",
+    "Beard": "",
+    "Hair": "",
+    "Pro": ""
+  },
+  "translation": null
+}

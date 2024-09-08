@@ -1,0 +1,25 @@
+{
+  "name": "BB_Container",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Items/Supplies/BB_Container/BB_Container.dat",
+  "data": {
+    "GUID": "10980e0db00e468b95c9988e416c4014",
+    "Type": "Supply",
+    "ID": "8077",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.2",
+    "Amount": "30",
+    "Count_Min": "10",
+    "Count_Max": "25",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "8077",
+    "Blueprint_0_Build": "30"
+  },
+  "translation": {
+    "Name": "BB",
+    "Container": "",
+    "Description": "Low caliber Civillian grade \"BB\" container. Designed to fit 30 \"BB\"s."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait_Arizona_Denizen_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Animals/Kuwait_Arizona_Denizen_4/Kuwait_Arizona_Denizen_4.dat",
+  "data": {
+    "GUID": "6c4f90de7f784af8b0e27f1a0809d7f7",
+    "Type": "Animal",
+    "ID": "5255",
+    "Speed_Run": "8",
+    "Speed_Walk": "4",
+    "Behaviour": "Offense",
+    "Health": "100",
+    "Regen": "0.5",
+    "Damage": "0",
+    "Roars": "3",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Desert Dweller #5"
+  }
+}

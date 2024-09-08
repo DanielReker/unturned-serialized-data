@@ -1,0 +1,25 @@
+{
+  "name": "Note_16",
+  "path": "Bundles/Objects/Medium/Furniture/Note_16/Note_16.dat",
+  "data": {
+    "GUID": "6a14c41da63b4cfd98ead39805804426",
+    "Type": "Medium",
+    "ID": "2017",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "7",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Russia Note - ATC",
+    "Interactability_Text_Line_0": "ATC Log",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "May 22nd 07:18",
+    "Interactability_Text_Line_3": "The plane we just landed - flight 106 - isn't responding, and appears to have been on autopilot. Ground crews are preparing to expediate the passengers' departure in-case of emergency.",
+    "Interactability_Text_Line_4": "---",
+    "Interactability_Text_Line_5": "May 22nd 07:27",
+    "Interactability_Text_Line_6": "Flight 106's occupants seem to be carrying an extremely fast-acting virus infecting everyone in the area. Security is moving to intercept and everybody else is being evacuated to Moscow."
+  }
+}

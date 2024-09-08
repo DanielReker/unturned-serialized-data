@@ -1,0 +1,15 @@
+{
+  "name": "GreeceDecal_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceDecal_6/GreeceDecal_6.dat",
+  "data": {
+    "GUID": "eb76f7d7d03641eba27e4e674f71a366",
+    "Type": "Decal",
+    "ID": "6294",
+    "Decal_X": ".5",
+    "Decal_Y": ".5",
+    "Decal_LOD_Bias": ".5"
+  },
+  "translation": {
+    "Name": "Greece Bullet Decal Wood 1"
+  }
+}

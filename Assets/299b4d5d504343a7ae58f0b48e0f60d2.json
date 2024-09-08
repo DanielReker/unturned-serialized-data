@@ -1,0 +1,14 @@
+{
+  "name": "PS_Homemade_Mine_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Explosions/PS_Homemade_Mine_0/PS_Homemade_Mine_0.dat",
+  "data": {
+    "GUID": "299b4d5d504343a7ae58f0b48e0f60d2",
+    "Type": "Effect",
+    "ID": "59061",
+    "Blast": "137",
+    "Relevant_Distance": "2500",
+    "CameraShake_Radius": "32",
+    "CameraShake_MagnitudeDegrees": "50"
+  },
+  "translation": null
+}

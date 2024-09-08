@@ -1,0 +1,32 @@
+{
+  "name": "SecondLove_02_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_02/SecondLove_02_Welcome/Asset.dat",
+  "data": {
+    "GUID": "8dbb1c65623a4542ad24ced6b1ee6e61",
+    "Type": "Dialogue",
+    "ID": "24396",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "2",
+    "Responses": "2",
+    "Response_0_Dialogue": "e7a1cd27cd384a4987f897f993613ee0",
+    "Response_0_Quest": "27de0ed4e6f14758a93e569e3a1b4622",
+    "Response_0_Conditions": "2",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "27de0ed4e6f14758a93e569e3a1b4622",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Condition_1_Type": "Quest",
+    "Response_0_Condition_1_Logic": "Equal",
+    "Response_0_Condition_1_ID": "34d4c53921e84348949db900f44186e9",
+    "Response_0_Condition_1_Status": "Completed",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "27de0ed4e6f14758a93e569e3a1b4622"
+  },
+  "translation": {
+    "Message_0_Page_0": "Could you go and get the rings? They should be on the counter near the vending machine in factory building 1.",
+    "Response_0": "Sure thing!",
+    "Response_1": "Not now."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Berry_Crow",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Berry_Crow/Berry_Crow.dat",
+  "data": {
+    "GUID": "675f8693b1db46b8a6f655769c2d79ec",
+    "Type": "Food",
+    "Rarity": "Common",
+    "Useable": "Consumeable",
+    "ID": "25693",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Use_Auto_Icon_Measurements": "False",
+    "Food": "5",
+    "Water": "15",
+    "Virus": "10",
+    "Vision": "30",
+    "Quality_Min": "60",
+    "Quality_Max": "100",
+    "ConsumeAudioClip": "Sounds/Food/EatSquishy.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25693",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "25311",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Build": "25534",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Compost",
+    "Action_0_Tooltip": "Turn into compost."
+  },
+  "translation": {
+    "Name": "Crowberry",
+    "Description": "Tastes like a rusty crowbar."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "PS_Trader_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/PS_Trader_0/Asset.dat",
+  "data": {
+    "GUID": "db7c46d348f64fbdbb8b1edca0f178a9",
+    "Type": "NPC",
+    "ID": "59000",
+    "Face": "20",
+    "Hair": "3",
+    "Beard": "0",
+    "Color_Skin": "#937E61",
+    "Color_Hair": "#414141",
+    "Dialogue": "59001",
+    "Shirt": "59523",
+    "Pants": "59071",
+    "Vest": "59127",
+    "Hat": "59117",
+    "Glasses": "59524",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Shirt": "7ecc5102ed654a398e4257e1c60e28af",
+    "Halloween_Pants": "c4819825cac34460819ea3d219b57e6f",
+    "Halloween_Vest": "5ba37dadfc6449d8961ab25de1eb2581",
+    "Halloween_Glasses": "d326abc8dd02412cb53f555024b882b4",
+    "Halloween_Hat": "2602ad54c23c4442a956a57fbce6bec7",
+    "Halloween_Backpack": "a991a071220948b683ce2e4e31849dc5"
+  },
+  "translation": {
+    "Name": "PS Trader #1 [Gunsmith]",
+    "Character": "Red"
+  }
+}

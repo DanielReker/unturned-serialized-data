@@ -1,0 +1,16 @@
+{
+  "name": "Doctor_Disease_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Doctor_Omega/Doctor_Disease_Accepted/Asset.dat",
+  "data": {
+    "GUID": "a9fbe98e0cff4b80ac4ed9c09b332ae3",
+    "Type": "Dialogue",
+    "ID": "3308",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "The sooner we can treat them the better, we can't afford more loses.",
+    "Response_0": "Agreed."
+  }
+}

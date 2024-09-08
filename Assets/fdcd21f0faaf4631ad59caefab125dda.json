@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Roof_Turbine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Roof_Turbine/Buak_Roof_Turbine.dat",
+  "data": {
+    "GUID": "fdcd21f0faaf4631ad59caefab125dda",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Roof_Turbine"
+  }
+}

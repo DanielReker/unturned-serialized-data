@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Semi_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Vehicles/Buak_Semi_04/Buak_Semi_04.dat",
+  "data": {
+    "GUID": "413acd367ee840a4b3dea34710945b19",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Semi_04"
+  }
+}

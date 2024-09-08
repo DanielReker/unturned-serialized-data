@@ -1,0 +1,34 @@
+{
+  "name": "Aviators_Black",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Glasses/Aviators_Black/Aviators_Black.dat",
+  "data": {
+    "GUID": "d724a5cfa6d647258f7112afdf600c3d",
+    "Type": "Glasses",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "26751",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.32",
+    "Use_Auto_Icon_Measurements": "False",
+    "WearAudio": "Sounds/Clothes/Clothes.asset",
+    "Hair": "",
+    "Beard": "",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26751",
+    "Blueprint_0_Product": "25319",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "25535",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25319",
+    "Blueprint_1_Supply_0_Amount": "4",
+    "Blueprint_1_Build": "25534",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Black Aviators",
+    "Description": "A very popular type of glasses."
+  }
+}

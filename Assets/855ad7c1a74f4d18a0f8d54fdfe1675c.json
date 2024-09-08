@@ -1,0 +1,36 @@
+{
+  "name": "DMR",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/DMR/DMR.dat",
+  "data": {
+    "GUID": "855ad7c1a74f4d18a0f8d54fdfe1675c",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "ID": "51908",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.1",
+    "Amount": "20",
+    "Count_Min": "10",
+    "Count_Max": "20",
+    "Calibers": "1",
+    "Caliber_0": "51005",
+    "Tracer": "51000",
+    "Blueprints": "3",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51908",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51946",
+    "Blueprint_1_Build": "30",
+    "Blueprint_2_Type": "Ammo",
+    "Blueprint_2_Supplies": "1",
+    "Blueprint_2_Supply_0_ID": "51947",
+    "Blueprint_2_Build": "30"
+  },
+  "translation": {
+    "Name": "Marksman Magazine",
+    "Description": "Holds 20 rounds of <color=#DB871A>High Caliber</color> ammo. Compatible with <color=epic>ECS-25</color>, <color=legendary>Walker</color> and <color=legendary>RSS-03</color>."
+  }
+}

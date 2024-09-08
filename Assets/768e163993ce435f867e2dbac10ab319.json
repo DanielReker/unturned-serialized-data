@@ -1,0 +1,38 @@
+{
+  "name": "PS_Parts_Kit_PDW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Parts_Kit_PDW/PS_Parts_Kit_PDW.dat",
+  "data": {
+    "GUID": "768e163993ce435f867e2dbac10ab319",
+    "Type": "Supply",
+    "Rarity": "Legendary",
+    "ID": "60014",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.42",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "3",
+    "Blueprint_0_Supply_0_ID": "60014",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "59964",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Supply_2_ID": "59659",
+    "Blueprint_0_Supply_2_Amount": "1",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "60007",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Supply_0_Critical": "",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Blueprint_0_Link": "",
+    "Action_0_Text": "Assemble a gun",
+    "Action_0_Tooltip": "Assemble a gun."
+  },
+  "translation": {
+    "Name": "PDW Parts Kit",
+    "Description": "Parts necessary to reconstruct a <color=#c832fa>PDW</color>."
+  }
+}

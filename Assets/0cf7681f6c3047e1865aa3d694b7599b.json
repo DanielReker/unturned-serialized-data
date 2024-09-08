@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Trench_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Frost_Trench_01/Frost_Trench_01.dat",
+  "data": {
+    "GUID": "0cf7681f6c3047e1865aa3d694b7599b",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36075"
+  },
+  "translation": {
+    "Name": "Frost Trench #2"
+  }
+}

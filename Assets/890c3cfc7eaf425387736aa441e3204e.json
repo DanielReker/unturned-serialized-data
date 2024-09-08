@@ -1,0 +1,14 @@
+{
+  "name": "Quest_0_Misc_2_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_0/Quest_0_Misc_2_Return/Asset.dat",
+  "data": {
+    "GUID": "890c3cfc7eaf425387736aa441e3204e",
+    "Type": "Dialogue",
+    "ID": "57600",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=#5383CC>Worthy</color> <color=#64c819>Completed</color>"
+  }
+}

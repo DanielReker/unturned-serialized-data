@@ -1,0 +1,23 @@
+{
+  "name": "Buak_Ore_Small_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Resources/Buak_Ore_Small_01/Buak_Ore_Small_01.dat",
+  "data": {
+    "GUID": "85ec3d67b85145cf918905d014e1814c",
+    "Type": "Resource",
+    "ID": "25302",
+    "Health": "1",
+    "Radius": "5",
+    "Scale": "0.2",
+    "Explosion": "25568",
+    "Reward_ID": "25447",
+    "Reward_XP": "1",
+    "Forage": "",
+    "No_Debris": "",
+    "Reset": "250",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Ore_Small_01"
+  }
+}

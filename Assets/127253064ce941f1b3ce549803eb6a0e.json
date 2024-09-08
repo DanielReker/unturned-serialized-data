@@ -1,0 +1,13 @@
+{
+  "name": "Crashed_Plane_Wing",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Vehicles/Crashed_Plane/Crashed_Plane_Wing/Crashed_Plane_Wing.dat",
+  "data": {
+    "GUID": "127253064ce941f1b3ce549803eb6a0e",
+    "Type": "Large",
+    "ID": "35316",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Crashed Plane Wing"
+  }
+}

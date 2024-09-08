@@ -1,0 +1,38 @@
+{
+  "name": "Recon_Dublin",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Quests/IFR/Recon_Dublin/Asset.dat",
+  "data": {
+    "GUID": "fbb2537c5b47461092af38fcc6bf6e31",
+    "Type": "Quest",
+    "ID": "15301",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "15101",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "6",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "15000",
+    "Reward_1_Amount": "1",
+    "Reward_2_Type": "Item",
+    "Reward_2_ID": "15001",
+    "Reward_2_Amount": "1",
+    "Reward_3_Type": "Item",
+    "Reward_3_ID": "15009",
+    "Reward_3_Amount": "1",
+    "Reward_4_Type": "Flag_Bool",
+    "Reward_4_ID": "15000",
+    "Reward_4_Value": "True",
+    "Reward_5_Type": "Flag_Short",
+    "Reward_5_ID": "15002",
+    "Reward_5_Value": "1",
+    "Reward_5_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "Monthly Check Up",
+    "Description": "To prove you are a capable recruit, <color=epic>Holiday</color> needs you to check up on the <color=red>IFR</color> outpost in Dublin. Get over there and bring back the weekly report by the <color=rare>officer</color> stationed there.",
+    "Condition_0": "Check out <color=red>Irish Freedom Republic's</color> outpost in Dublin {0}/1"
+  }
+}

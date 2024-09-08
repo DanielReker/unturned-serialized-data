@@ -1,0 +1,16 @@
+{
+  "name": "GrunkP",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Decals/GrunkP/GrunkP.dat",
+  "data": {
+    "GUID": "0baf0c77e3364dccbde7f9542329cfff",
+    "Type": "Decal",
+    "ID": "51055",
+    "Decal_X": "6",
+    "Decal_Y": "6",
+    "Decal_LOD_Bias": "1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Decal GrunkP"
+  }
+}

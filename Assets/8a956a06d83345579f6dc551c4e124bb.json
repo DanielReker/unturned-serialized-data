@@ -1,0 +1,37 @@
+{
+  "name": "Kuwait_Palm_Crate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Barricades/Kuwait_Palm_Crate/Kuwait_Palm_Crate.dat",
+  "data": {
+    "GUID": "8a956a06d83345579f6dc551c4e124bb",
+    "Type": "Storage",
+    "Useable": "Barricade",
+    "Build": "Storage",
+    "ID": "5402",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Health": "125",
+    "Range": "4",
+    "Radius": "0.5",
+    "Offset": "0.75",
+    "Storage_X": "5",
+    "Storage_Y": "5",
+    "Explosion": "5281",
+    "Salvage_Duration_Multiplier": "0.5",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "5501",
+    "Blueprint_0_Supply_0_Amount": "5",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Kuwait",
+    "Vulnerable": "",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Palm Crate",
+    "Description": "Palm crate for storing items.<br><color=#BF1F1F>125 HP</color><br><color=#FF69B4>5x5</color><br>"
+  }
+}

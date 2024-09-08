@@ -1,0 +1,18 @@
+{
+  "name": "Dye_Red",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Dye_Red/Dye_Red.dat",
+  "data": {
+    "GUID": "634875256af04f82a7974cb9fa9758a5",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "25368",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.16"
+  },
+  "translation": {
+    "Name": "Red Dye",
+    "Description": "Dye for dying clothes, maybe even the ones you die in!"
+  }
+}

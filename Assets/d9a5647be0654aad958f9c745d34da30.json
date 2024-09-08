@@ -1,0 +1,15 @@
+{
+  "name": "CA_Sports_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Sports_0/CA_Sports_0.dat",
+  "data": {
+    "GUID": "d9a5647be0654aad958f9c745d34da30",
+    "Type": "Large",
+    "ID": "4681",
+    "Material_Palette": "3987063d60df43e2ac4ca66fe91880f1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Mooki/Sports_0"
+  },
+  "translation": {
+    "Name": "California Sports #1"
+  }
+}

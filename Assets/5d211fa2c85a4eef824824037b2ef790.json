@@ -1,0 +1,17 @@
+{
+  "name": "Focus_Scrap",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Items/France/Supplies/Focus_Scrap/Focus_Scrap.dat",
+  "data": {
+    "GUID": "5d211fa2c85a4eef824824037b2ef790",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "3125",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.27"
+  },
+  "translation": {
+    "Name": "Focus Scrap",
+    "Description": "Assorted coils, switches, tubes, capacitors, and other nerdy things."
+  }
+}

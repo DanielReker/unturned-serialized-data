@@ -1,0 +1,17 @@
+{
+  "name": "Vermillin_High",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Spawns/Items/Vermillin_High/Vermillin_High.dat",
+  "data": {
+    "GUID": "1250d77f95054f7d8079ec9af3a05088",
+    "Type": "Spawn",
+    "ID": "6609",
+    "Tables": "3",
+    "Table_0_Spawn_ID": "6600",
+    "Table_0_Weight": "150",
+    "Table_1_Spawn_ID": "6611",
+    "Table_1_Weight": "50",
+    "Table_2_Spawn_ID": "6610",
+    "Table_2_Weight": "25"
+  },
+  "translation": null
+}

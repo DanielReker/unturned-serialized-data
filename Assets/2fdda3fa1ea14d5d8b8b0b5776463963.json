@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Garage_Door_8m_Closed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Garage_Door_8m_Closed/Buak_Garage_Door_8m_Closed.dat",
+  "data": {
+    "GUID": "2fdda3fa1ea14d5d8b8b0b5776463963",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Garage_Door_8m_Closed"
+  }
+}

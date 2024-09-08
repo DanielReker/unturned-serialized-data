@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Railing_Iron",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Railing_Iron/Bar_Railing_Iron.dat",
+  "data": {
+    "GUID": "9167939bf0bd484d84326bca17871670",
+    "Type": "Effect",
+    "ID": "25400"
+  },
+  "translation": null
+}

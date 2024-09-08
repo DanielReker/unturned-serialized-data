@@ -1,0 +1,15 @@
+{
+  "name": "Coastguard_Water_Special_America",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Vehicles/Coastguard_Water_Special_America/Coastguard_Water_Special_America.dat",
+  "data": {
+    "GUID": "b93f738649c24691b2360bca8d47753e",
+    "Type": "Spawn",
+    "ID": "819",
+    "Tables": "2",
+    "Table_0_Spawn_ID": "818",
+    "Table_0_Weight": "80",
+    "Table_1_Spawn_ID": "820",
+    "Table_1_Weight": "20"
+  },
+  "translation": null
+}

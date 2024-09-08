@@ -1,0 +1,13 @@
+{
+  "name": "RV_Decor_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/RV_Decor_3/RV_Decor_3.dat",
+  "data": {
+    "GUID": "8a723994010147aab350644ab111dc97",
+    "Type": "Medium",
+    "ID": "3527",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "RV Decor #4"
+  }
+}

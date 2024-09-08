@@ -1,0 +1,15 @@
+{
+  "name": "Government_Estevao_Question_Completed_Bad",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Military_Government/Government_Estevao_Question_Completed_Bad/Asset.dat",
+  "data": {
+    "GUID": "531c4023871a41959402b6e7d2f1da03",
+    "Type": "Dialogue",
+    "ID": "3651",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "3645"
+  },
+  "translation": {
+    "Message_0_Page_0": "I was hoping it wouldn't come to this, but I suppose it is about time we devoted more resources to that front. <color=mythical>General Ares</color> will be pleased, it has been hard calming his warmongering. Thank you soldier, that will be all."
+  }
+}

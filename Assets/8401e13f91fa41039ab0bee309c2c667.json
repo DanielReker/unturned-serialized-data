@@ -1,0 +1,15 @@
+{
+  "name": "26952KSAMA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/265 CO/2664-2691 Mili/26670KSAD/26952KSAMA/Asset.dat",
+  "data": {
+    "GUID": "8401e13f91fa41039ab0bee309c2c667",
+    "Type": "Dialogue",
+    "ID": "26952",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "26671"
+  },
+  "translation": {
+    "Message_0_Page_0": "Precision is quite the skill, and this weapon will very clearly capitalize on it. Prove it, first off."
+  }
+}

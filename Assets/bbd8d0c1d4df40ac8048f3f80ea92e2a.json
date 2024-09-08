@@ -1,0 +1,25 @@
+{
+  "name": "Buak_Ore_Sulfur_B",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Resources/Buak_Ore_Sulfur_B/Buak_Ore_Sulfur_B.dat",
+  "data": {
+    "GUID": "bbd8d0c1d4df40ac8048f3f80ea92e2a",
+    "Type": "Resource",
+    "ID": "25347",
+    "Health": "1200",
+    "Radius": "4",
+    "Scale": "0.1",
+    "Explosion": "25317",
+    "Reward_ID": "25313",
+    "Reward_XP": "4",
+    "Reward_Min": "6",
+    "Reward_Max": "8",
+    "BladeID": "2",
+    "No_Debris": "",
+    "Reset": "650",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Ore_Sulfur_B"
+  }
+}

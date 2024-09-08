@@ -1,0 +1,32 @@
+{
+  "name": "Daypack_Green",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Clothes/Backpacks/Daypack_Green/Daypack_Green.dat",
+  "data": {
+    "GUID": "2b1d8c6bffcb43cc9b23b5e2e968117b",
+    "Type": "Backpack",
+    "Useable": "Clothing",
+    "ID": "5603",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "7",
+    "Height": "4",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "5603",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "4",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "4",
+    "Blueprint_1_Build": "32",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Backpacks/Daypack_Green"
+  },
+  "translation": {
+    "Name": "Green Daypack",
+    "Description": "Medium sized synthetic backpack.<br><color=#FF69B4>+28 Slots</color>"
+  }
+}

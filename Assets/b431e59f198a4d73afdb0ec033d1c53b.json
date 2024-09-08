@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Q_LH_INT",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/AG_00/Buak_Q_LH_INT/Buak_Q_LH_INT.dat",
+  "data": {
+    "GUID": "b431e59f198a4d73afdb0ec033d1c53b",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24719",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "LOD": "Area"
+  },
+  "translation": {
+    "Name": "Buak_Q_LH_INT"
+  }
+}

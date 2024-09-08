@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Moose",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Animal",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 2
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.3529412,
+      "g": 0.23137255,
+      "b": 0.117647059
+    }
+  },
+  {
+    "name": "Deer",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Animal",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 1
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.619607866,
+      "g": 0.4117647,
+      "b": 0.2509804
+    }
+  },
+  {
+    "name": "Wolf",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Animal",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 3
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.215686277,
+      "g": 0.215686277,
+      "b": 0.215686277
+    }
+  },
+  {
+    "name": "Bear",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Animal",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 5
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  }
+]

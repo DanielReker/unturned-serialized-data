@@ -1,0 +1,15 @@
+{
+  "name": "Metro_Police_Guns",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Police_Guns/Metro_Police_Guns.dat",
+  "data": {
+    "GUID": "a2b82de7725a4f488bd4c3fb58de8dcd",
+    "Type": "Spawn",
+    "ID": "57074",
+    "Tables": "2",
+    "Table_0_Asset_ID": "57134",
+    "Table_0_Weight": "80",
+    "Table_1_Asset_ID": "57135",
+    "Table_1_Weight": "20"
+  },
+  "translation": null
+}

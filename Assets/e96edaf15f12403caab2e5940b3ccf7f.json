@@ -1,0 +1,27 @@
+{
+  "name": "Opalao",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Opalao/Opalao.dat",
+  "data": {
+    "GUID": "e96edaf15f12403caab2e5940b3ccf7f",
+    "Type": "Spawn",
+    "ID": "5501",
+    "Tables": "8",
+    "Table_0_Asset_ID": "4412",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "4413",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "4414",
+    "Table_2_Weight": "10",
+    "Table_3_Asset_ID": "4415",
+    "Table_3_Weight": "10",
+    "Table_4_Asset_ID": "4416",
+    "Table_4_Weight": "10",
+    "Table_5_Asset_ID": "4417",
+    "Table_5_Weight": "10",
+    "Table_6_Asset_ID": "4418",
+    "Table_6_Weight": "10",
+    "Table_7_Asset_ID": "4419",
+    "Table_7_Weight": "10"
+  },
+  "translation": null
+}

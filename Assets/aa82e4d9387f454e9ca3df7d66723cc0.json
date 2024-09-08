@@ -1,0 +1,22 @@
+{
+  "name": "1 concrete",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Assets/1 concrete.asset",
+  "data": {
+    "GUID": "aa82e4d9387f454e9ca3df7d66723cc0",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "hawaii.masterbundle",
+      "Path": "Terrain/1 concrete.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "CONCRETE_STATIC",
+    "Foliage": {
+      "GUID": "c0135bcb9c314e64a66cacae5d3587f2"
+    }
+  },
+  "translation": null
+}

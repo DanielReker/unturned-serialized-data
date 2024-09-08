@@ -1,0 +1,30 @@
+{
+  "name": "Garage_KBrick",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Structures/Brick/Garage_KBrick/Garage_KBrick.dat",
+  "data": {
+    "GUID": "2bf430f659d143b9a149ee8d2fbe0325",
+    "Type": "Structure",
+    "Rarity": "Rare",
+    "Useable": "Structure",
+    "Construct": "Wall",
+    "ID": "5431",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Health": "800",
+    "Range": "8",
+    "Explosion": "19",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "5502",
+    "Blueprint_0_Supply_0_Amount": "3",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "kuwait.masterbundle:Audio/Kuwait_Brick_Place.mp3",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Brick Garage",
+    "Description": "The zombies can huff and puff, but they aren't getting in.<br><color=#BF1F1F>800 HP</color><br>"
+  }
+}

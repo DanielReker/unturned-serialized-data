@@ -1,0 +1,13 @@
+{
+  "name": "Cheese_Factory_France_Barricades",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/Cheese_Factory_France_Barricades/Cheese_Factory_France_Barricades.dat",
+  "data": {
+    "GUID": "480341011cba4e718240faf7d9853a4e",
+    "Type": "Spawn",
+    "ID": "2055",
+    "Tables": "1",
+    "Table_0_Asset_ID": "3071",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

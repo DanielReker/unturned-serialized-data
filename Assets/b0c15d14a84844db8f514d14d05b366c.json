@@ -1,0 +1,24 @@
+{
+  "name": "Omega_Security_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Security_1/Asset.dat",
+  "data": {
+    "GUID": "b0c15d14a84844db8f514d14d05b366c",
+    "Type": "NPC",
+    "ID": "3604",
+    "Shirt": "3533",
+    "Pants": "224",
+    "Glasses": "568",
+    "Face": "22",
+    "Hair": "15",
+    "Beard": "0",
+    "Color_Skin": "#94764B",
+    "Color_Hair": "#191919",
+    "Secondary": "3515",
+    "Pose": "Sit",
+    "Dialogue": "3678"
+  },
+  "translation": {
+    "Name": "Greek Omega Police Sandy",
+    "Character": "<color=rare>Officer Sandy</color>"
+  }
+}

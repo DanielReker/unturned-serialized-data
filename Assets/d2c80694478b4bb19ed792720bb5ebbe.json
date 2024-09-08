@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Wrecking_Ball_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Wrecking_Ball_0/Metro_Wrecking_Ball_0.dat",
+  "data": {
+    "GUID": "d2c80694478b4bb19ed792720bb5ebbe",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57363",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Metro Wrecking Ball #1"
+  }
+}

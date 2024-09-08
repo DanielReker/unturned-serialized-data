@@ -1,0 +1,28 @@
+{
+  "name": "CampMelees",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Camp/CampMelees/CampMelees.dat",
+  "data": {
+    "GUID": "3a8790a1e38241f48ebdb13e00e42447",
+    "Type": "Spawn",
+    "ID": "51075",
+    "Tables": [
+      {
+        "Guid": "3ed86f282720477e957ca71d068a6fec",
+        "Weight": "4"
+      },
+      {
+        "Guid": "2b080a2bd2fe413b9c84097ad3be1057",
+        "Weight": "3"
+      },
+      {
+        "Guid": "98c2b75957e346cd82a846316a0b42f0",
+        "Weight": "2"
+      },
+      {
+        "Guid": "3c35e0c29ee14a898334c8494520bf72",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

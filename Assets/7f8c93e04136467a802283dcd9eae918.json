@@ -1,0 +1,13 @@
+{
+  "name": "Machinery_3",
+  "path": "Bundles/Objects/Medium/Business/Machinery_3/Machinery_3.dat",
+  "data": {
+    "GUID": "7f8c93e04136467a802283dcd9eae918",
+    "Type": "Medium",
+    "ID": "700",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Machinery #4"
+  }
+}

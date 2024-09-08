@@ -1,0 +1,15 @@
+{
+  "name": "Rhinoceros",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Spawns/Vehicles/Rhinoceros/Rhinoceros.dat",
+  "data": {
+    "GUID": "012c05ff664d42f7bd2d2eb0eca087f5",
+    "Type": "Spawn",
+    "ID": "6645",
+    "Tables": "2",
+    "Table_0_Asset_ID": "6617",
+    "Table_0_Weight": "2",
+    "Table_1_Asset_ID": "6618",
+    "Table_1_Weight": "2"
+  },
+  "translation": null
+}

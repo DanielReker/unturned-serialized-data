@@ -1,0 +1,16 @@
+{
+  "name": "Metro_Lamp_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Lamp_6/Metro_Lamp_6.dat",
+  "data": {
+    "GUID": "9556487c89704fc5843c240cbdc037ba",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57170",
+    "Interactability": "Binary_State",
+    "Interactability_Hint": "Switch",
+    "Interactability_Emission": ""
+  },
+  "translation": {
+    "Name": "Metro Lamp #7"
+  }
+}

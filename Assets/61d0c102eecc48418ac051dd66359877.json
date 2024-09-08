@@ -1,0 +1,14 @@
+{
+  "name": "SecondLove_01_Reminder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_02/SecondLove_01_Reminder/Asset.dat",
+  "data": {
+    "GUID": "61d0c102eecc48418ac051dd66359877",
+    "Type": "Dialogue",
+    "ID": "24389",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "The flowers should be on the counter at Billot Botanist at Pine Point."
+  }
+}

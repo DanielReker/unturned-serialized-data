@@ -1,0 +1,18 @@
+{
+  "name": "Greece_Olive_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Assets/Trees/Greece_Olive_1.asset",
+  "data": {
+    "GUID": "ce66a13486754d8797f79895a01b0528",
+    "Type": "SDG.Framework.Foliage.FoliageResourceInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Density": "4000",
+    "Min_Weight": "0.5",
+    "Max_Weight": "1",
+    "Min_Angle": "0",
+    "Max_Angle": "60",
+    "Resource": {
+      "GUID": "993ce999683d4b569b8b8b2de36550cc"
+    },
+    "Obstruction_Radius": "4"
+  },
+  "translation": null
+}

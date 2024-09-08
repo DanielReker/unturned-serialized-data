@@ -1,0 +1,34 @@
+{
+  "name": "Amber_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/02/Amber_02/Asset.dat",
+  "data": {
+    "GUID": "7172b9fbd90b48f883d77593cca2991a",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "49d0e4c74ca14d4aa4f3bcd1d7aea4cf",
+    "Shirt": "a623c7be5f7049b688b3bc42295bd3bf",
+    "Has_Christmas_Outfit": "True",
+    "Christmas_Shirt": "a2df3dd721d543f8b51c1dd1c42da148",
+    "Christmas_Hat": "49d0e4c74ca14d4aa4f3bcd1d7aea4cf",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Vest": "cc7eb62c0bd746d4b648fb589fe96449",
+    "Halloween_Hat": "8c54b482f7724252ab54b77b590e1a6d",
+    "Halloween_Shirt": "a623c7be5f7049b688b3bc42295bd3bf",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "16",
+    "Hair": "4",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#161616",
+    "Dialogue": "f5ef3f4dc70b42a0835ad2bbbdc62a72",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24787",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Amber_02",
+    "Character": "<color=#FFBF00>Amber</color>"
+  }
+}

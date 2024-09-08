@@ -1,0 +1,18 @@
+{
+  "name": "Buak_Bat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Animals/Buak_Bat/Buak_Bat.dat",
+  "data": {
+    "GUID": "b09ddc8e6feb495cbcb590c13b53d26a",
+    "Type": "Animal",
+    "ID": "25306",
+    "Speed_Run": "2.4",
+    "Speed_Walk": "1",
+    "Behaviour": "Ignore",
+    "Health": "20",
+    "Reward_XP": "1",
+    "Panics": "1"
+  },
+  "translation": {
+    "Name": "Buak_Bat"
+  }
+}

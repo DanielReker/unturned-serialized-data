@@ -1,0 +1,14 @@
+{
+  "name": "Cake_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Bake_Cake/Cake_Completed/Asset.dat",
+  "data": {
+    "GUID": "bfe65ee4424a4993ba00588a199f10bc",
+    "Type": "Dialogue",
+    "ID": "2037",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you so much! This will make her birthday the best day ever!"
+  }
+}

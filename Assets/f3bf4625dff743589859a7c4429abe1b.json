@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Elevator_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Elevator_1/Rio_Elevator_1.dat",
+  "data": {
+    "GUID": "f3bf4625dff743589859a7c4429abe1b",
+    "Type": "Large",
+    "ID": "6049",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Elevator #1"
+  }
+}

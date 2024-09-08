@@ -1,0 +1,17 @@
+{
+  "name": "Beer_Bottle_0",
+  "path": "Bundles/Objects/Small/Rubble/Beer_Bottle_0/Beer_Bottle_0.dat",
+  "data": {
+    "GUID": "ef4873f908954da4bc86e5daaa64f48f",
+    "Type": "Small",
+    "ID": "1000",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "60",
+    "Interactability_Health": "1",
+    "Interactability_Effect": "64",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Beer Bottle #1"
+  }
+}

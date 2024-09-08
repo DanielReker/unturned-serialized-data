@@ -1,0 +1,14 @@
+{
+  "name": "PS_Tire_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Tire_6/PS_Tire_6.dat",
+  "data": {
+    "GUID": "7021ada080864085b93b4a0e43db00ac",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59807",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "PS Wheel #7 [Truck]"
+  }
+}

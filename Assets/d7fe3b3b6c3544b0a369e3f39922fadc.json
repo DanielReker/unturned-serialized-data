@@ -1,0 +1,23 @@
+{
+  "name": "25280KuwaitDD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/4/C/25280KuwaitDD/Asset.dat",
+  "data": {
+    "GUID": "d7fe3b3b6c3544b0a369e3f39922fadc",
+    "Type": "NPC",
+    "ID": "25280",
+    "Hat": "1653",
+    "Vest": "1655",
+    "Shirt": "1654",
+    "Pants": "1652",
+    "Face": "15",
+    "Hair": "10",
+    "Beard": "1",
+    "Color_Skin": "#706049",
+    "Color_Hair": "#352C22",
+    "Dialogue": "25281"
+  },
+  "translation": {
+    "Name": "KuwaitFINALDivineDuneman",
+    "Character": "The Divine Duneman"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Sewing_Thread",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Sewing_Thread/Sewing_Thread.dat",
+  "data": {
+    "GUID": "850b40c9fa5446c5a17f24b7e3e623a2",
+    "Type": "Supply",
+    "Rarity": "Common",
+    "ID": "25300",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "25357",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "▲ Craft Cloth",
+    "Action_0_Tooltip": "Craft into cloth.",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25357",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "25534"
+  },
+  "translation": {
+    "Name": "Sewing Thread",
+    "Description": "For stitching up clothing or sewing stuff together. Not suitable for law purposes.<br><color=#cd32da>Repairs Worn Clothing</color>"
+  }
+}

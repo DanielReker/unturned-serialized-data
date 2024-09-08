@@ -1,0 +1,4759 @@
+{
+  "Available_Instance_ID": 159,
+  "Items": [
+    {
+      "Type": "FoliageSystem",
+      "Instance_ID": 1,
+      "Item": {
+        "Version": 2,
+        "Tiles": []
+      }
+    },
+    {
+      "Type": "Landscape",
+      "Instance_ID": 2,
+      "Item": {
+        "Tiles": [
+          {
+            "Coord": {
+              "X": 0,
+              "Y": 0
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -4,
+              "Y": -4
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -4,
+              "Y": -3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -4,
+              "Y": -2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -4,
+              "Y": -1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -4,
+              "Y": 0
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -4,
+              "Y": 1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -4,
+              "Y": 2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -4,
+              "Y": 3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -3,
+              "Y": -4
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -3,
+              "Y": -3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -3,
+              "Y": -2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -3,
+              "Y": -1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -3,
+              "Y": 0
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -3,
+              "Y": 1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -3,
+              "Y": 2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -3,
+              "Y": 3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -2,
+              "Y": -4
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -2,
+              "Y": -3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -2,
+              "Y": -2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -2,
+              "Y": -1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -2,
+              "Y": 0
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -2,
+              "Y": 1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -2,
+              "Y": 2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -2,
+              "Y": 3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -1,
+              "Y": -4
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -1,
+              "Y": -3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -1,
+              "Y": -2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -1,
+              "Y": -1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -1,
+              "Y": 0
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -1,
+              "Y": 1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -1,
+              "Y": 2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": -1,
+              "Y": 3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 0,
+              "Y": -4
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 0,
+              "Y": -3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 0,
+              "Y": -2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 0,
+              "Y": -1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 0,
+              "Y": 1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 0,
+              "Y": 2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 0,
+              "Y": 3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 1,
+              "Y": -4
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 1,
+              "Y": -3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 1,
+              "Y": -2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 1,
+              "Y": -1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 1,
+              "Y": 0
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 1,
+              "Y": 1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 1,
+              "Y": 2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 1,
+              "Y": 3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 2,
+              "Y": -4
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 2,
+              "Y": -3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 2,
+              "Y": -2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 2,
+              "Y": -1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 2,
+              "Y": 0
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 2,
+              "Y": 1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 2,
+              "Y": 2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 2,
+              "Y": 3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 3,
+              "Y": -4
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 3,
+              "Y": -3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 3,
+              "Y": -2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 3,
+              "Y": -1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 3,
+              "Y": 0
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 3,
+              "Y": 1
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 3,
+              "Y": 2
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          },
+          {
+            "Coord": {
+              "X": 3,
+              "Y": 3
+            },
+            "Materials": [
+              {
+                "GUID": "17b88227113041869ba4661b227a0590"
+              },
+              {
+                "GUID": "8a2b6f2215d6460f8b6fece2ccd9c208"
+              },
+              {
+                "GUID": "79787e2ca948457a9a322179cf580386"
+              },
+              {
+                "GUID": "db482f0f23d1414096114aee61195058"
+              },
+              {
+                "GUID": "ceb122707edc4f349be0a97d8f05fd09"
+              },
+              {
+                "GUID": "b4ffe0d7b8ed4ff2b4c302c489108b02"
+              },
+              {
+                "GUID": "8729d40d361c4947be4188c70dd7100b"
+              },
+              {
+                "GUID": "684f4b28200d4ceb9c5362d78d2c9619"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "FoliageVolume",
+      "Instance_ID": 3,
+      "Item": {
+        "Position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 4096.0,
+          "y": 2048.0,
+          "z": 4096.0
+        },
+        "Shape": 0,
+        "Mode": 0,
+        "Instanced_Meshes": true,
+        "Resources": true,
+        "Objects": true
+      }
+    },
+    {
+      "Type": "Spawnpoint",
+      "Instance_ID": 4,
+      "Item": {
+        "Position": {
+          "x": 263.5135,
+          "y": 36.70863,
+          "z": -1812.361
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.7071068,
+          "z": 0.0,
+          "w": 0.7071068,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 90.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "ID": "Liberator_Jet"
+      }
+    },
+    {
+      "Type": "UndergroundWhitelistVolume",
+      "Instance_ID": 5,
+      "Item": {
+        "Position": {
+          "x": 2062.519,
+          "y": 217.2974,
+          "z": -2184.827
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 54.49218,
+          "y": 34.50225,
+          "z": 96.00071
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "DeadzoneVolume",
+      "Instance_ID": 7,
+      "Item": {
+        "Position": {
+          "x": -1747.828,
+          "y": 3.890419,
+          "z": -1763.73
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 349.44,
+          "y": 349.44,
+          "z": 349.44
+        },
+        "Shape": 1,
+        "Deadzone_Type": 0,
+        "UnprotectedDamagePerSecond": 0.0,
+        "ProtectedDamagePerSecond": 0.0,
+        "UnprotectedRadiationPerSecond": 6.25,
+        "MaskFilterDamagePerSecond": 0.4
+      }
+    },
+    {
+      "Type": "DeadzoneVolume",
+      "Instance_ID": 8,
+      "Item": {
+        "Position": {
+          "x": -136.6313,
+          "y": 86.82246,
+          "z": 1488.477
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 600.7466,
+          "y": 600.7466,
+          "z": 600.7466
+        },
+        "Shape": 1,
+        "Deadzone_Type": 0,
+        "UnprotectedDamagePerSecond": 0.0,
+        "ProtectedDamagePerSecond": 0.0,
+        "UnprotectedRadiationPerSecond": 6.25,
+        "MaskFilterDamagePerSecond": 0.4
+      }
+    },
+    {
+      "Type": "DeadzoneVolume",
+      "Instance_ID": 9,
+      "Item": {
+        "Position": {
+          "x": -261.7986,
+          "y": 212.4745,
+          "z": 1974.871
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 898.3466,
+          "y": 898.3466,
+          "z": 898.3466
+        },
+        "Shape": 1,
+        "Deadzone_Type": 0,
+        "UnprotectedDamagePerSecond": 0.0,
+        "ProtectedDamagePerSecond": 0.0,
+        "UnprotectedRadiationPerSecond": 6.25,
+        "MaskFilterDamagePerSecond": 0.4
+      }
+    },
+    {
+      "Type": "DeadzoneVolume",
+      "Instance_ID": 10,
+      "Item": {
+        "Position": {
+          "x": 570.3643,
+          "y": 175.6018,
+          "z": 1863.998
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 772.6934,
+          "y": 772.6934,
+          "z": 772.6934
+        },
+        "Shape": 1,
+        "Deadzone_Type": 0,
+        "UnprotectedDamagePerSecond": 0.0,
+        "ProtectedDamagePerSecond": 0.0,
+        "UnprotectedRadiationPerSecond": 6.25,
+        "MaskFilterDamagePerSecond": 0.4
+      }
+    },
+    {
+      "Type": "DeadzoneVolume",
+      "Instance_ID": 11,
+      "Item": {
+        "Position": {
+          "x": 152.1082,
+          "y": 181.4265,
+          "z": 1642.285
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 852.0533,
+          "y": 852.0533,
+          "z": 852.0533
+        },
+        "Shape": 1,
+        "Deadzone_Type": 0,
+        "UnprotectedDamagePerSecond": 0.0,
+        "ProtectedDamagePerSecond": 0.0,
+        "UnprotectedRadiationPerSecond": 6.25,
+        "MaskFilterDamagePerSecond": 0.4
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 12,
+      "Item": {
+        "Position": {
+          "x": -136.6099,
+          "y": 37.56614,
+          "z": 1487.475
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 80.0,
+          "y": 84.0,
+          "z": 80.0
+        },
+        "Shape": 0,
+        "Ambiance_ID": 122,
+        "No_Water": true,
+        "No_Lighting": false,
+        "Weather_Mask": 4294967295,
+        "Override_Fog": false,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 13,
+      "Item": {
+        "Position": {
+          "x": -140.348,
+          "y": 27.55434,
+          "z": 1382.112
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 146.88,
+          "y": 146.88,
+          "z": 146.88
+        },
+        "Shape": 1,
+        "Ambiance_ID": 0,
+        "No_Water": true,
+        "No_Lighting": false,
+        "Weather_Mask": 4294967295,
+        "Override_Fog": false,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 14,
+      "Item": {
+        "Position": {
+          "x": -60.28687,
+          "y": 30.59913,
+          "z": 1361.675
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 117.12,
+          "y": 117.12,
+          "z": 117.12
+        },
+        "Shape": 1,
+        "Ambiance_ID": 0,
+        "No_Water": true,
+        "No_Lighting": false,
+        "Weather_Mask": 4294967295,
+        "Override_Fog": false,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 15,
+      "Item": {
+        "Position": {
+          "x": -899.1122,
+          "y": 35.39513,
+          "z": 79.07465
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 200.0,
+          "y": 34.0,
+          "z": 240.0
+        },
+        "Shape": 0,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog": false,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 16,
+      "Item": {
+        "Position": {
+          "x": -845.3668,
+          "y": 56.81094,
+          "z": 135.2972
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 32.0,
+          "y": 12.0,
+          "z": 128.0
+        },
+        "Shape": 0,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog": false,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 17,
+      "Item": {
+        "Position": {
+          "x": -867.7432,
+          "y": 50.94229,
+          "z": 156.2462
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 16.0,
+          "y": 16.0,
+          "z": 6.0
+        },
+        "Shape": 0,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog": false,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 18,
+      "Item": {
+        "Position": {
+          "x": -874.1393,
+          "y": 52.89513,
+          "z": 110.0927
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 32.0,
+          "y": 16.0,
+          "z": 61.0
+        },
+        "Shape": 0,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog": false,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 19,
+      "Item": {
+        "Position": {
+          "x": 2060.031,
+          "y": 214.7585,
+          "z": -2157.573
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 64.0,
+          "y": 16.0,
+          "z": 64.0
+        },
+        "Shape": 0,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog": false,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false
+      }
+    },
+    {
+      "Type": "SafezoneVolume",
+      "Instance_ID": 6,
+      "Item": {
+        "Position": {
+          "x": 282.3501,
+          "y": 7.680161,
+          "z": -1954.276
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 600.7466,
+          "y": 600.7466,
+          "z": 600.7466
+        },
+        "Shape": 1,
+        "No_Weapons": true,
+        "No_Buildables": true
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 20,
+      "Item": {
+        "Position": {
+          "x": 2067.833,
+          "y": 212.1957,
+          "z": -2213.499
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 37.76,
+          "y": 37.76,
+          "z": 37.76
+        },
+        "Shape": 1,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog": false,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 27,
+      "Item": {
+        "Position": {
+          "x": -921.3153,
+          "y": 68.03384,
+          "z": -166.7224
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "St. Petersburg",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 28,
+      "Item": {
+        "Position": {
+          "x": 217.3618,
+          "y": 48.85455,
+          "z": -220.14
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Moscow",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 29,
+      "Item": {
+        "Position": {
+          "x": 1308.359,
+          "y": 51.01783,
+          "z": 356.7109
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Sheremetyevo International",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 30,
+      "Item": {
+        "Position": {
+          "x": -1103.725,
+          "y": 59.86247,
+          "z": 748.1245
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Zavod",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 31,
+      "Item": {
+        "Position": {
+          "x": -975.7944,
+          "y": 44.06519,
+          "z": -896.1344
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Novosibirsk",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 32,
+      "Item": {
+        "Position": {
+          "x": -137.4357,
+          "y": 47.76808,
+          "z": -857.4284
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Jhavesk",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 33,
+      "Item": {
+        "Position": {
+          "x": 1373.623,
+          "y": 58.73902,
+          "z": -557.3182
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Yekaterinburg",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 34,
+      "Item": {
+        "Position": {
+          "x": 488.5324,
+          "y": 59.53702,
+          "z": -1540.123
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Camp Samara",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 35,
+      "Item": {
+        "Position": {
+          "x": 1373.617,
+          "y": 47.06848,
+          "z": -1724.049
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Camp Oleksandr",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 36,
+      "Item": {
+        "Position": {
+          "x": -607.9874,
+          "y": 46.4007,
+          "z": -1103.346
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Camp Kazan",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 37,
+      "Item": {
+        "Position": {
+          "x": -1740.805,
+          "y": 7.4692,
+          "z": -1494.745
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Kivgrad Harbor",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 38,
+      "Item": {
+        "Position": {
+          "x": -1097.948,
+          "y": 45.54184,
+          "z": -1527.13
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Vladimir Farm",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 39,
+      "Item": {
+        "Position": {
+          "x": -1721.148,
+          "y": 40.75417,
+          "z": -219.8254
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Keryev",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 40,
+      "Item": {
+        "Position": {
+          "x": -1409.043,
+          "y": 100.5569,
+          "z": 1317.147
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Volk Military Base",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 41,
+      "Item": {
+        "Position": {
+          "x": 1265.168,
+          "y": 134.0829,
+          "z": 1204.779
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Krovi Estate",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 42,
+      "Item": {
+        "Position": {
+          "x": 1786.945,
+          "y": 116.8936,
+          "z": -324.4586
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Firewatch Base",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 43,
+      "Item": {
+        "Position": {
+          "x": 685.1406,
+          "y": 60.79544,
+          "z": -754.0868
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Vorkuta Junction",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 44,
+      "Item": {
+        "Position": {
+          "x": -614.7732,
+          "y": 47.55065,
+          "z": -1631.047
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Chersky Farm",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 45,
+      "Item": {
+        "Position": {
+          "x": 969.3921,
+          "y": 33.05196,
+          "z": -1509.022
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Nordvik Farm",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 46,
+      "Item": {
+        "Position": {
+          "x": -71.85779,
+          "y": 73.65873,
+          "z": -1532.795
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Camp Belaya",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 47,
+      "Item": {
+        "Position": {
+          "x": -1566.722,
+          "y": 98.20094,
+          "z": 239.166
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Tomsk Farm",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 48,
+      "Item": {
+        "Position": {
+          "x": -136.2993,
+          "y": 26.91365,
+          "z": 1420.73
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Silo 22",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 49,
+      "Item": {
+        "Position": {
+          "x": 703.5098,
+          "y": 131.6749,
+          "z": 142.8704
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Mount Nivek",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 50,
+      "Item": {
+        "Position": {
+          "x": 371.4443,
+          "y": 209.374,
+          "z": 1674.636
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 51,
+      "Item": {
+        "Position": {
+          "x": -791.864,
+          "y": 118.9707,
+          "z": 915.1865
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 52,
+      "Item": {
+        "Position": {
+          "x": -446.593,
+          "y": 53.57414,
+          "z": 536.7332
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 53,
+      "Item": {
+        "Position": {
+          "x": 67.58008,
+          "y": 120.6949,
+          "z": 568.0486
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 54,
+      "Item": {
+        "Position": {
+          "x": 598.1731,
+          "y": 110.4349,
+          "z": 687.8696
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 55,
+      "Item": {
+        "Position": {
+          "x": 752.2566,
+          "y": 115.8509,
+          "z": 79.16064
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 56,
+      "Item": {
+        "Position": {
+          "x": 1758.859,
+          "y": 210.809,
+          "z": 1573.27
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 57,
+      "Item": {
+        "Position": {
+          "x": 1766.585,
+          "y": 115.2762,
+          "z": 747.2996
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 58,
+      "Item": {
+        "Position": {
+          "x": 1729.157,
+          "y": 128.3245,
+          "z": -725.0374
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 59,
+      "Item": {
+        "Position": {
+          "x": 1726.31,
+          "y": 101.5644,
+          "z": -1478.366
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 60,
+      "Item": {
+        "Position": {
+          "x": 1090.601,
+          "y": 30.93939,
+          "z": -1618.555
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 61,
+      "Item": {
+        "Position": {
+          "x": 526.3284,
+          "y": 47.91375,
+          "z": -973.7577
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 62,
+      "Item": {
+        "Position": {
+          "x": 183.3445,
+          "y": 48.24283,
+          "z": -961.399
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 63,
+      "Item": {
+        "Position": {
+          "x": -156.3844,
+          "y": 34.30678,
+          "z": -1070.043
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 64,
+      "Item": {
+        "Position": {
+          "x": -1474.009,
+          "y": 33.71299,
+          "z": -1518.718
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 65,
+      "Item": {
+        "Position": {
+          "x": -1455.703,
+          "y": 141.4453,
+          "z": -357.0336
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 66,
+      "Item": {
+        "Position": {
+          "x": -1789.464,
+          "y": 96.12579,
+          "z": -844.3961
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 67,
+      "Item": {
+        "Position": {
+          "x": -1134.646,
+          "y": 77.73647,
+          "z": -392.8486
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 68,
+      "Item": {
+        "Position": {
+          "x": -494.4243,
+          "y": 63.23496,
+          "z": -21.17932
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 69,
+      "Item": {
+        "Position": {
+          "x": -1593.135,
+          "y": 120.2044,
+          "z": 694.3457
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 70,
+      "Item": {
+        "Position": {
+          "x": 272.3386,
+          "y": 58.70604,
+          "z": 17.85373
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 71,
+      "Item": {
+        "Position": {
+          "x": -126.6842,
+          "y": 26.81482,
+          "z": 1391.56
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 72,
+      "Item": {
+        "Position": {
+          "x": -921.5197,
+          "y": 57.08092,
+          "z": 1320.911
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 73,
+      "Item": {
+        "Position": {
+          "x": 785.699,
+          "y": 50.16969,
+          "z": 1076.322
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 74,
+      "Item": {
+        "Position": {
+          "x": 1356.071,
+          "y": 48.35451,
+          "z": 546.7163
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 75,
+      "Item": {
+        "Position": {
+          "x": 1370.45,
+          "y": 50.55364,
+          "z": -131.0548
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 76,
+      "Item": {
+        "Position": {
+          "x": 914.5791,
+          "y": 74.06869,
+          "z": -50.71814
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 77,
+      "Item": {
+        "Position": {
+          "x": 1154.832,
+          "y": 48.51355,
+          "z": -742.6246
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 78,
+      "Item": {
+        "Position": {
+          "x": 1322.968,
+          "y": 82.01888,
+          "z": -1442.077
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 79,
+      "Item": {
+        "Position": {
+          "x": 793.0559,
+          "y": 66.38084,
+          "z": -1432.479
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 80,
+      "Item": {
+        "Position": {
+          "x": -285.1591,
+          "y": 49.2075,
+          "z": -1523.821
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 81,
+      "Item": {
+        "Position": {
+          "x": -516.5692,
+          "y": 70.13251,
+          "z": -1075.418
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 82,
+      "Item": {
+        "Position": {
+          "x": -864.8644,
+          "y": 27.96009,
+          "z": -1586.528
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 83,
+      "Item": {
+        "Position": {
+          "x": -1489.728,
+          "y": 131.9692,
+          "z": -834.2668
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 84,
+      "Item": {
+        "Position": {
+          "x": -1691.254,
+          "y": 40.56643,
+          "z": -225.5559
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 85,
+      "Item": {
+        "Position": {
+          "x": -1774.934,
+          "y": 97.12477,
+          "z": 233.323
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 86,
+      "Item": {
+        "Position": {
+          "x": -1685.381,
+          "y": 169.3499,
+          "z": 1143.008
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 87,
+      "Item": {
+        "Position": {
+          "x": -1694.068,
+          "y": 192.5837,
+          "z": 1709.074
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "AirdropDevkitNode",
+      "Instance_ID": 88,
+      "Item": {
+        "Position": {
+          "x": -97.0791,
+          "y": 92.6031,
+          "z": -506.1923
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "SpawnTable_ID": 614
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 89,
+      "Item": {
+        "Position": {
+          "x": 298.1769,
+          "y": 35.70858,
+          "z": -1811.928
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "Liberator",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 90,
+      "Item": {
+        "Position": {
+          "x": 2070.286,
+          "y": 212.1957,
+          "z": -2164.328
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "LocationName": "SecretLab",
+        "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 21,
+      "Item": {
+        "Position": {
+          "x": 257.9763,
+          "y": 29.33553,
+          "z": -1812.127
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 30.2431,
+          "y": 7.835839,
+          "z": 23.06534
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 22,
+      "Item": {
+        "Position": {
+          "x": 288.1815,
+          "y": 29.37123,
+          "z": -1808.679
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 30.2431,
+          "y": 7.764432,
+          "z": 29.9616
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 23,
+      "Item": {
+        "Position": {
+          "x": 314.8377,
+          "y": 29.36225,
+          "z": -1812.127
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 23.65893,
+          "y": 7.783778,
+          "z": 23.06534
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 24,
+      "Item": {
+        "Position": {
+          "x": 298.4424,
+          "y": 35.2811,
+          "z": -1829.182
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 17.51195,
+          "y": 19.1454,
+          "z": 9.279808
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 25,
+      "Item": {
+        "Position": {
+          "x": 299.429,
+          "y": 47.33659,
+          "z": -1829.207
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 23.14435,
+          "y": 4.422169,
+          "z": 13.4243
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 26,
+      "Item": {
+        "Position": {
+          "x": 293.9178,
+          "y": 51.91595,
+          "z": -1829.207
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 12.12199,
+          "y": 4.626101,
+          "z": 13.4243
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 155,
+      "Item": {
+        "Position": {
+          "x": 2061.025,
+          "y": 203.1004,
+          "z": -2185.162
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 66.73029,
+          "y": 10.55547,
+          "z": 112.0203
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "NPCRewardVolume",
+      "Instance_ID": 158,
+      "Item": {
+        "Position": {
+          "x": 2052.686,
+          "y": 213.2353,
+          "z": -2157.241
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 8.91256,
+          "y": 3.078858,
+          "z": 6.643006
+        },
+        "Shape": 0,
+        "AssetGuid": "9b519d2df5af46f08830562aeb2f43d7"
+      }
+    }
+  ]
+}

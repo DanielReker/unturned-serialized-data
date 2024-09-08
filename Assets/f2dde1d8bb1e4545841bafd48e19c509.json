@@ -1,0 +1,14 @@
+{
+  "name": "PS_Curtain_Rod_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Curtain_Rod_0/PS_Curtain_Rod_0.dat",
+  "data": {
+    "GUID": "f2dde1d8bb1e4545841bafd48e19c509",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59101",
+    "Material_Palette": "478b9561ab1e49d4a116822ed445711d"
+  },
+  "translation": {
+    "Name": "PS Curtain Rod #1"
+  }
+}

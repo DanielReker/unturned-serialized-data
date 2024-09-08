@@ -1,0 +1,30 @@
+{
+  "name": "Metro_Campfire",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Overrides/Metro_Campfire/Metro_Campfire.dat",
+  "data": {
+    "GUID": "6d4a98bee2b2448f89ff15a8dfcd8d77",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Useable": "Barricade",
+    "Build": "Campfire",
+    "ID": "57306",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.39",
+    "Health": "100",
+    "Range": "4",
+    "Radius": "0.6",
+    "Offset": "0.7",
+    "Explosion": "19",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "41",
+    "Blueprint_0_Supply_0_Amount": "3",
+    "Blueprint_0_Map": "Elver"
+  },
+  "translation": {
+    "Name": "Campfire",
+    "Description": "Provides <color=#64c819>Warmth</color>                                                           <color=#64c819>100</color> Health"
+  }
+}

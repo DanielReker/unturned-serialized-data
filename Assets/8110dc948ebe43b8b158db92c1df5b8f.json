@@ -1,0 +1,16 @@
+{
+  "name": "Railgun",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Railgun/Railgun.dat",
+  "data": {
+    "GUID": "8110dc948ebe43b8b158db92c1df5b8f",
+    "Type": "Spawn",
+    "ID": "51145",
+    "Tables": [
+      {
+        "Guid": "7a80982618a94843ac0e440b4c9922a8",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

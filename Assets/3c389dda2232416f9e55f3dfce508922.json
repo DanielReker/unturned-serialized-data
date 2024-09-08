@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Fence_4_Destroyed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Fences/Kuwait_Fence_4_Destroyed/Kuwait_Fence_4_Destroyed.dat",
+  "data": {
+    "GUID": "3c389dda2232416f9e55f3dfce508922",
+    "Type": "Large",
+    "ID": "5391",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Fence #6"
+  }
+}

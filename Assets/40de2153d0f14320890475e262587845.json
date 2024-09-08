@@ -1,0 +1,12 @@
+{
+  "name": "Kerchoo_BWTN_PBLACK",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Vehicles/Redirectors/Kerchoo/Kerchoo_BWTN_PBLACK.asset",
+  "data": {
+    "GUID": "40de2153d0f14320890475e262587845",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "25311",
+    "TargetVehicle": "e9caffa903d446fda557613bb0bdd597",
+    "LoadPaintColor": "#404040"
+  },
+  "translation": null
+}

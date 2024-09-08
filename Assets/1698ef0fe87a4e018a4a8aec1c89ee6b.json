@@ -1,0 +1,16 @@
+{
+  "name": "Doctor_Medicine_Search_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Doctor_Military/Doctor_Medicine_Search_Accepted/Asset.dat",
+  "data": {
+    "GUID": "1698ef0fe87a4e018a4a8aec1c89ee6b",
+    "Type": "Dialogue",
+    "ID": "3121",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you. The houses are the most likely to still have some.",
+    "Response_0": "Understood."
+  }
+}

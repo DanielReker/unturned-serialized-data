@@ -1,0 +1,16 @@
+{
+  "name": "PersianBlue",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/CarpetSpawns/PersianBlue/PersianBlue.dat",
+  "data": {
+    "GUID": "db026cdedb224887aa0de5c3df41e7e5",
+    "Type": "Spawn",
+    "ID": "51222",
+    "Tables": [
+      {
+        "Guid": "5287781424fe41dbb3f4202f2a6f8e2e",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

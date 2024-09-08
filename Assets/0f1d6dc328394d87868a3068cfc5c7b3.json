@@ -1,0 +1,12 @@
+{
+  "name": "PoliceCar",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/PoliceCar/PoliceCar.dat",
+  "data": {
+    "GUID": "0f1d6dc328394d87868a3068cfc5c7b3",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Police car"
+  }
+}

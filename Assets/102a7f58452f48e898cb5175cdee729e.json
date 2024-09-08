@@ -1,0 +1,16 @@
+{
+  "name": "FRoom_Engine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/FRoom_Engine/FRoom_Engine.dat",
+  "data": {
+    "GUID": "102a7f58452f48e898cb5175cdee729e",
+    "Type": "Large",
+    "ID": "6611",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Facility Engine Room"
+  }
+}

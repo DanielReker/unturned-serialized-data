@@ -1,0 +1,18 @@
+{
+  "name": "France_Civilian_2_Question_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Civilian_2/France_Civilian_2_Question_2/Asset.dat",
+  "data": {
+    "GUID": "d9e26636e02e470680f05fa300b0a8e4",
+    "Type": "Dialogue",
+    "ID": "4186",
+    "Messages": "1",
+    "Message_0_Pages": "4",
+    "Message_0_Prev": "4184"
+  },
+  "translation": {
+    "Message_0_Page_0": "I think there's a few interesting things happening.",
+    "Message_0_Page_1": "Most of the people here need some help on certain tasks.",
+    "Message_0_Page_2": "However, some won't trust you until you help other people out.",
+    "Message_0_Page_3": "So, just work your way around and more opportunities will come!"
+  }
+}

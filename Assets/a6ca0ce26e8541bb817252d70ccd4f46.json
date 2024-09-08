@@ -1,0 +1,14 @@
+{
+  "name": "TheSendOff_Reminder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Owen/Owen_02/TheSendOff_Reminder/Asset.dat",
+  "data": {
+    "GUID": "a6ca0ce26e8541bb817252d70ccd4f46",
+    "Type": "Dialogue",
+    "ID": "24543",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Well the raft can just be made of wood and cloth, then put the keytar I gave you on it, pick it up, and bring it out to the docks south of the factory."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "PS_Sand_Pile_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Sand_Pile_6/PS_Sand_Pile_6.dat",
+  "data": {
+    "GUID": "20e78e9e926d418b9a8262e1994595e1",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59369",
+    "Material_Palette": "12462313f3564243861a841ca2d5b56d",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground"
+  },
+  "translation": {
+    "Name": "PS Sand Pile #7"
+  }
+}

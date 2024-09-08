@@ -1,0 +1,14 @@
+{
+  "name": "Kobe_Under_the_Counter_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military Soldier Kobe/Kobe_Under_the_Counter_Completed/Asset.dat",
+  "data": {
+    "GUID": "440a148777c641f08d0e8bda718047bb",
+    "Type": "Dialogue",
+    "ID": "9053",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Great you have it all."
+  }
+}

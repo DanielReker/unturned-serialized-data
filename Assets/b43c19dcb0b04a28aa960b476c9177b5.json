@@ -1,0 +1,26 @@
+{
+  "name": "Easter_Clay",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Resources/Easter_Clay/Easter_Clay.dat",
+  "data": {
+    "GUID": "b43c19dcb0b04a28aa960b476c9177b5",
+    "Type": "Resource",
+    "ID": "6617",
+    "Health": "20",
+    "Radius": "3",
+    "Scale": "0.1",
+    "Explosion": "52",
+    "Reward_ID": "6652",
+    "Reward_XP": "3",
+    "Reward_Min": "3",
+    "Reward_Max": "6",
+    "No_Debris": "",
+    "Reset": "500",
+    "Asset_Bundle_Version": "2",
+    "Vulnerable_To_All_Melee_Weapons": "true",
+    "Vulnerable_To_Fists": "true",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Easter Clay"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Quest_0_Farmer_2_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_1/Quest_0_Farmer_2_Return/Asset.dat",
+  "data": {
+    "GUID": "aae99fa91e5d4d2b99a3b170c4815b19",
+    "Type": "Dialogue",
+    "ID": "57743",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=#C9A952>Farmer 3</color> <color=#64c819>Completed</color>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Bouncer_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Vehicles/Hawaii/Bouncer_1/Bouncer_1.dat",
+  "data": {
+    "GUID": "4e9f5091fe0f43f989fb7761856cd335",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "ID": "808",
+    "Speed_Min": "-2",
+    "Speed_Max": "18",
+    "Steer_Min": "16",
+    "Steer_Max": "8",
+    "Fuel": "1750",
+    "Health_Min": "550",
+    "Health_Max": "650",
+    "Health": "750",
+    "Exit": "3",
+    "Cam_Follow_Distance": "7.5",
+    "LockMouse": "",
+    "Engine": "Helicopter",
+    "Trunk_Storage_X": "5",
+    "Trunk_Storage_Y": "5",
+    "Explosion": "20",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Bouncer"
+  }
+}

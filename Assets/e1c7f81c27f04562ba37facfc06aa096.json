@@ -1,0 +1,18 @@
+{
+  "name": "Steampunk",
+  "path": "Bundles/Skins/Bane/Steampunk/Steampunk.dat",
+  "data": {
+    "GUID": "e1c7f81c27f04562ba37facfc06aa096",
+    "Type": "Skin",
+    "ID": "50034",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": "",
+    "Secondary_Skins": "2",
+    "Secondary_0": "1485",
+    "Secondary_1": "1486"
+  },
+  "translation": null
+}

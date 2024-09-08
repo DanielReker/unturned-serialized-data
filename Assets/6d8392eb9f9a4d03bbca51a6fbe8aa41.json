@@ -1,0 +1,24 @@
+{
+  "name": "Boss_Shirt_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Misc/Bosses/Boss_Shirt_4/Boss_Shirt_4.dat",
+  "data": {
+    "GUID": "6d8392eb9f9a4d03bbca51a6fbe8aa41",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "27004",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.5",
+    "Width": "6",
+    "Height": "5",
+    "Unobtainable": "",
+    "Unsaveable": "",
+    "Pro": "",
+    "Armor": "1",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Boss_Shirt_4",
+    "Description": "Tailored for false promises"
+  }
+}

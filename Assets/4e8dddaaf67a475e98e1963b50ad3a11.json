@@ -1,0 +1,16 @@
+{
+  "name": "Baby1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/Baby1/Baby1.dat",
+  "data": {
+    "GUID": "4e8dddaaf67a475e98e1963b50ad3a11",
+    "Type": "Spawn",
+    "ID": "51202",
+    "Tables": [
+      {
+        "Guid": "e1b8aa38ee48445cb769a624af572d26",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

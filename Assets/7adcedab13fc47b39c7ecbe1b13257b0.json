@@ -1,0 +1,36 @@
+{
+  "name": "ADITS",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Quests/Side/ADITS/Asset.dat",
+  "data": {
+    "GUID": "7adcedab13fc47b39c7ecbe1b13257b0",
+    "Type": "Quest",
+    "ID": "24198",
+    "Conditions": "3",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24196",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "24194",
+    "Condition_1_Value": "True",
+    "Condition_1_Logic": "Equal",
+    "Condition_2_Type": "Flag_Bool",
+    "Condition_2_ID": "24192",
+    "Condition_2_Value": "True",
+    "Condition_2_Logic": "Equal",
+    "Rewards": "3",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "100",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "10",
+    "Reward_2_Type": "Achievement",
+    "Reward_2_ID": "Buak_ADayInTheSun"
+  },
+  "translation": {
+    "Name": "A Day In The Sun",
+    "Description": "Decorate the mannequin.",
+    "Condition_0": "Place 1 <color=uncommon>Car Tire</color>",
+    "Condition_1": "Place 1 <color=common>Glass Shards</color>",
+    "Condition_2": "Place 1 <color=common>Paper</color>"
+  }
+}

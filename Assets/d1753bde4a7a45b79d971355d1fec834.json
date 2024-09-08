@@ -1,0 +1,13 @@
+{
+  "name": "PS_Tent_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Tent_1/PS_Tent_1.dat",
+  "data": {
+    "GUID": "d1753bde4a7a45b79d971355d1fec834",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59139"
+  },
+  "translation": {
+    "Name": "PS Tent #2"
+  }
+}

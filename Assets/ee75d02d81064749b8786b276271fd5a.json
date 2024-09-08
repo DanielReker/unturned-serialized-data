@@ -1,0 +1,19 @@
+{
+  "name": "Metro_Stocks_Low",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Stocks_Low/Metro_Stocks_Low.dat",
+  "data": {
+    "GUID": "ee75d02d81064749b8786b276271fd5a",
+    "Type": "Spawn",
+    "ID": "57048",
+    "Tables": "4",
+    "Table_0_Asset_ID": "57050",
+    "Table_0_Weight": "25",
+    "Table_1_Asset_ID": "57075",
+    "Table_1_Weight": "25",
+    "Table_2_Asset_ID": "57077",
+    "Table_2_Weight": "25",
+    "Table_3_Asset_ID": "57074",
+    "Table_3_Weight": "25"
+  },
+  "translation": null
+}

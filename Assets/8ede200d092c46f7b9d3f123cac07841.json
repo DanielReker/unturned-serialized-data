@@ -1,0 +1,21 @@
+{
+  "name": "Lullaby",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Music/Music/Lullaby/Lullaby.asset",
+  "data": {
+    "GUID": "8ede200d092c46f7b9d3f123cac07841",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Title": {
+      "Namespace": "SDG",
+      "Token": "Stereo_Songs.Unlike_Pluto7.Title"
+    },
+    "Song": {
+      "MasterBundle": "up.masterbundle",
+      "AssetPath": "Unlike Pluto - Lullaby.wav"
+    },
+    "Link_URL": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga?si=HUDPSJR0SwyWE97dlv_liA"
+  },
+  "translation": {
+    "Name": "Unlike Pluto - Lullaby"
+  }
+}

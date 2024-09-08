@@ -1,0 +1,13 @@
+{
+  "name": "Metro_AreaC_Lamp_Off",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_AreaC_Lamp_Off/Metro_AreaC_Lamp_Off.dat",
+  "data": {
+    "GUID": "47f183faf10b47d690ac8f90ccc93e54",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "58120"
+  },
+  "translation": {
+    "Name": "Metro AreaC Lamp Off #1"
+  }
+}

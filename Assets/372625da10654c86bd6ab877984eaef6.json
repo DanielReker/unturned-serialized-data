@@ -1,0 +1,28 @@
+{
+  "name": "Metro_Fortification_Bars",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Overrides_Barricades/Metro_Fortification_Bars/Metro_Fortification_Bars.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "372625da10654c86bd6ab877984eaef6",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Glass",
+    "ID": "57384",
+    "Health": "700",
+    "Range": "4",
+    "Radius": "0.5",
+    "Explosion": "35",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supply_0_ID": "285",
+    "Blueprint_0_Supply_0_Amount": "6",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Metal Bar Fortification",
+    "Description": "<color=#64c819>700</color> Health                                                                    <color=#fa3219>Cannot</color> be Crystalized"
+  }
+}

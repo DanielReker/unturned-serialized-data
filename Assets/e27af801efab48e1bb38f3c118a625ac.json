@@ -1,0 +1,12 @@
+{
+  "name": "BE Torch #1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Medium/Furniture/BE Torch #1/BE Torch #1.dat",
+  "data": {
+    "GUID": "e27af801efab48e1bb38f3c118a625ac",
+    "Type": "Medium",
+    "ID": "9202"
+  },
+  "translation": {
+    "Name": "BE Torch #1"
+  }
+}

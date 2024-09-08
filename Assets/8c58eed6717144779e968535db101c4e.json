@@ -1,0 +1,15 @@
+{
+  "name": "CA_Apartment_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Apartment_4/CA_Apartment_4.dat",
+  "data": {
+    "GUID": "8c58eed6717144779e968535db101c4e",
+    "Type": "Large",
+    "ID": "4682",
+    "Material_Palette": "3987063d60df43e2ac4ca66fe91880f1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Large/Buildings/Apartment_2"
+  },
+  "translation": {
+    "Name": "California Apartment #5"
+  }
+}

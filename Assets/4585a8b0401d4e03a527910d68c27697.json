@@ -1,0 +1,23 @@
+{
+  "name": "Carter_Vendor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Vendors/Carter_Vendor/Asset.dat",
+  "data": {
+    "GUID": "4585a8b0401d4e03a527910d68c27697",
+    "Type": "Vendor",
+    "ID": "24132",
+    "Buying": "0",
+    "Selling": "3",
+    "Selling_0_ID": "25579",
+    "Selling_0_Cost": "600",
+    "Selling_1_ID": "25586",
+    "Selling_1_Cost": "400",
+    "Selling_2_ID": "25585",
+    "Selling_2_Cost": "500",
+    "Currency": "5c3789b2807e42389e0b8eed55a2be40",
+    "FaceOverride": "5"
+  },
+  "translation": {
+    "Name": "Carter's Knife Vendor",
+    "Description": "For all your hunting needs!"
+  }
+}

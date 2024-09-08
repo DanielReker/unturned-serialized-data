@@ -1,0 +1,13 @@
+{
+  "name": "PS_Offices_Divider_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Offices_Divider_0/PS_Offices_Divider_0.dat",
+  "data": {
+    "GUID": "ee83e442d4ed4f8ba2ed15be28541d45",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59747"
+  },
+  "translation": {
+    "Name": "PS Offices Divider #1"
+  }
+}

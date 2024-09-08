@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Fence_00_Broken",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Fences/Buak_Fence_00_Broken/Buak_Fence_00_Broken.dat",
+  "data": {
+    "GUID": "c9f6a449c66c43e898aefef2ba0ca6d1",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Fence_00_Broken"
+  }
+}

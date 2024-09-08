@@ -1,0 +1,14 @@
+{
+  "name": "PS_Quest_USB_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Quest_USB_1/PS_Quest_USB_1.dat",
+  "data": {
+    "GUID": "058d28c07d444f36aefdd1b6145d51bc",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "60185"
+  },
+  "translation": {
+    "Name": "PS Quest USB #2 [To-Place]",
+    "Interact": "Insert USB [{0}]"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Chariot",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Vehicles/Greece/Chariot/Chariot.dat",
+  "data": {
+    "GUID": "6db234d3fcb9460f9d20118c5321f259",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "ID": "3501",
+    "Speed_Min": "-6",
+    "Speed_Max": "15",
+    "Steer_Min": "12",
+    "Steer_Max": "24",
+    "Brake": "40",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "1990",
+    "Health_Min": "350",
+    "Health_Max": "450",
+    "Health": "520",
+    "Traction": "",
+    "LockMouse": "",
+    "Explosion": "20",
+    "Invulnerable": "",
+    "Tires_Invulnerable": "",
+    "Trunk_Storage_X": "5",
+    "Trunk_Storage_Y": "4",
+    "Turrets": "1",
+    "Turret_0_Seat_Index": "1",
+    "Turret_0_Item_ID": "1394",
+    "Turret_0_Yaw_Min": "-160",
+    "Turret_0_Yaw_Max": "160",
+    "Turret_0_Pitch_Min": "45",
+    "Turret_0_Pitch_Max": "105"
+  },
+  "translation": {
+    "Name": "Chariot"
+  }
+}

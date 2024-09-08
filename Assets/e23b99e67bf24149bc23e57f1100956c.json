@@ -1,0 +1,17 @@
+{
+  "name": "Hawaii_Construction",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Vehicles/Hawaii_Construction/Hawaii_Construction.dat",
+  "data": {
+    "GUID": "e23b99e67bf24149bc23e57f1100956c",
+    "Type": "Spawn",
+    "ID": "889",
+    "Tables": "3",
+    "Table_0_Asset_ID": "840",
+    "Table_0_Weight": "30",
+    "Table_1_Asset_ID": "841",
+    "Table_1_Weight": "30",
+    "Table_2_Asset_ID": "842",
+    "Table_2_Weight": "30"
+  },
+  "translation": null
+}

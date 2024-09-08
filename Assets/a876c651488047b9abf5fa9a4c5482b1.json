@@ -1,0 +1,14 @@
+{
+  "name": "Theseus_Door_Refuel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Omega_Security_Theseus/Theseus_Door_Refuel/Asset.dat",
+  "data": {
+    "GUID": "a876c651488047b9abf5fa9a4c5482b1",
+    "Type": "Dialogue",
+    "ID": "3353",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "This should be just enough for two more uses! Feel free to bring me more."
+  }
+}

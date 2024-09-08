@@ -1,0 +1,14 @@
+{
+  "name": "Emiel_Secret_Snack_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Militay Sergeant Emiel/Emiel_Secret_Snack_Accepted/Asset.dat",
+  "data": {
+    "GUID": "5fb5ce5f146b4e429cb0242dd2f5247e",
+    "Type": "Dialogue",
+    "ID": "9068",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm glad you're ready to work!"
+  }
+}

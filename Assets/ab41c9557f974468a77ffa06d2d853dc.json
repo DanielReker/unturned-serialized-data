@@ -1,0 +1,16 @@
+{
+  "name": "Metro_Oil_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Oil_0/Metro_Oil_0.dat",
+  "data": {
+    "GUID": "ab41c9557f974468a77ffa06d2d853dc",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57389",
+    "Interactability": "Fuel",
+    "Interactability_Reset": "1800",
+    "Interactability_Resource": "500"
+  },
+  "translation": {
+    "Name": "Metro Oil #1"
+  }
+}

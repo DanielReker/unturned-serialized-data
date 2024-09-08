@@ -1,0 +1,38 @@
+{
+  "name": "25560KEAW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/253 RG/25560KEAD/25560KEAW/Asset.dat",
+  "data": {
+    "GUID": "cfa749b6e6f84aa18eab193d78e1b4d1",
+    "Type": "Dialogue",
+    "ID": "25560",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "4",
+    "Response_0_Dialogue": "25561",
+    "Response_0_Vendor": "25562",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Flag_Bool",
+    "Response_0_Condition_0_ID": "25118",
+    "Response_0_Condition_0_Value": "True",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_1_Dialogue": "25563",
+    "Response_1_Conditions": "1",
+    "Response_1_Condition_0_Type": "Quest",
+    "Response_1_Condition_0_ID": "25040",
+    "Response_1_Condition_0_Status": "None",
+    "Response_1_Condition_0_Logic": "Not_Equal",
+    "Response_2_Dialogue": "25565",
+    "Response_2_Conditions": "1",
+    "Response_2_Condition_0_Type": "Quest",
+    "Response_2_Condition_0_ID": "25371",
+    "Response_2_Condition_0_Status": "Active",
+    "Response_2_Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Message_0_Page_0": "<i>She blinks sleepily.</i><br>Hello, what might you need?",
+    "Response_0": "May I buy a uniform?",
+    "Response_1": "Do you know why the <color=legendary>Coalition</color> is here?",
+    "Response_2": "Do you happen to know why morale is low?",
+    "Response_3": "Nothing."
+  }
+}

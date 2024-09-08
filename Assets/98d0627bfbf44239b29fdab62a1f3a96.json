@@ -1,0 +1,27 @@
+{
+  "name": "29430KL",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/C/29430KL/Asset.dat",
+  "data": {
+    "GUID": "98d0627bfbf44239b29fdab62a1f3a96",
+    "Type": "NPC",
+    "ID": "29430",
+    "Shirt": "419",
+    "Pants": "214",
+    "Face": "22",
+    "Hair": "4",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#665037",
+    "Dialogue": "29431",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "25050",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitSurvivorLloyd",
+    "Character": "Lloyd"
+  }
+}

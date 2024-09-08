@@ -1,0 +1,144 @@
+{
+  "name": "Carepackage_Russia",
+  "path": "Bundles/Spawns/Carepackage/Carepackage_Russia/Carepackage_Russia.dat",
+  "data": {
+    "GUID": "b3a18613b4a3483c9c41968ceb46a8d7",
+    "Type": "Spawn",
+    "ID": "615",
+    "Tables": [
+      {
+        "LegacyAssetId": "6",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "1481",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "112",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1029",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1024",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1447",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1020",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1026",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1018",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1483",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1488",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1490",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "113",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "4",
+        "Weight": "100"
+      },
+      {
+        "Guid": "2e15a98da9e34774b961d636c0e88cc9",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1021",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1022",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1027",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1449",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "1485",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "133",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "363",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "1037",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "132",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "1484",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "488",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "489",
+        "Weight": "50"
+      },
+      {
+        "Guid": "8d80a12a6f564850ab2478927648dd7a",
+        "Weight": "40"
+      },
+      {
+        "LegacyAssetId": "298",
+        "Weight": "25"
+      },
+      {
+        "LegacyAssetId": "116",
+        "Weight": "25"
+      },
+      {
+        "LegacyAssetId": "18",
+        "Weight": "25"
+      },
+      {
+        "LegacyAssetId": "20",
+        "Weight": "25"
+      },
+      {
+        "LegacyAssetId": "297",
+        "Weight": "25"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Hawkhound_Iron_Sights",
+  "path": "Bundles/Items/Sights/Hawkhound_Iron_Sights/Hawkhound_Iron_Sights.dat",
+  "data": {
+    "GUID": "b64aadf1128c4dad919b72e15e152b25",
+    "Type": "Sight",
+    "ID": "110",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Hawkhound Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

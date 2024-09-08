@@ -1,0 +1,17 @@
+{
+  "name": "Frost_Road_Line_07",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Roads/Frost_Road_Line_07/Frost_Road_Line_07.dat",
+  "data": {
+    "GUID": "ee0dd7a28d7a4e9dbd318a1cc00714de",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36108",
+    "Snowshoe": "",
+    "Soft": "",
+    "Chart": "Highway",
+    "Collision_Important": ""
+  },
+  "translation": {
+    "Name": "Frost Road Line #8"
+  }
+}

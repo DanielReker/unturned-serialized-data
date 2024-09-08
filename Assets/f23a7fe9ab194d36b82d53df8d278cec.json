@@ -1,0 +1,14 @@
+{
+  "name": "PS_Excavator_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Excavator_2/PS_Excavator_2.dat",
+  "data": {
+    "GUID": "f23a7fe9ab194d36b82d53df8d278cec",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59249",
+    "Material_Palette": "adfabd4272ff4e08bb1b3380d8a40b6f"
+  },
+  "translation": {
+    "Name": "PS Excavator #3"
+  }
+}

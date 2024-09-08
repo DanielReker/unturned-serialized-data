@@ -1,0 +1,16 @@
+{
+  "name": "Janitor_Puddles_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Janitor/Janitor_Puddles_Accepted/Asset.dat",
+  "data": {
+    "GUID": "cf43686950194e9288202d287191f811",
+    "Type": "Dialogue",
+    "ID": "3199",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Perk up! This job aint nearly what it seems.",
+    "Response_0": "Hmph, yeah right."
+  }
+}

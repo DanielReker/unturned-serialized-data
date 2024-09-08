@@ -1,0 +1,12 @@
+{
+  "name": "IR_TrainStation_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_TrainStation_1/IR_TrainStation_1.dat",
+  "data": {
+    "GUID": "a7bc1010e34943c0925d7af3d0256977",
+    "Type": "Large",
+    "ID": "17031"
+  },
+  "translation": {
+    "Name": "Irish TrainStation#1"
+  }
+}

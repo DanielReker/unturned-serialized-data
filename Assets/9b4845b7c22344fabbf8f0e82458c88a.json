@@ -1,0 +1,15 @@
+{
+  "name": "Science_Guns_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Engineer/Science_Guns_Accepted/Asset.dat",
+  "data": {
+    "GUID": "9b4845b7c22344fabbf8f0e82458c88a",
+    "Type": "Dialogue",
+    "ID": "4064",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "4056"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good luck rounding all those up."
+  }
+}

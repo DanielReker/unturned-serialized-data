@@ -1,0 +1,28 @@
+{
+  "name": "Documents",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Quests/Documents/Asset.dat",
+  "data": {
+    "GUID": "d5390a0555084c32b5a516fdd4bced8d",
+    "Type": "Quest",
+    "ID": "5175",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "23156",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "3",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "1052",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "1053",
+    "Reward_1_Amount": "1",
+    "Reward_2_Type": "Reputation",
+    "Reward_2_Value": "11"
+  },
+  "translation": {
+    "Name": "<color=epic>Documents</color>",
+    "Description": "<color=epic>Dmitry Davydov</color> asked to find a piece of documentation in which there is a principle of operation of the HPS and repair in case of breakdown in order to increase the efficiency of work. The exact location of the document is not ... Well, you'll find it.",
+    "Condition_0": "Find Part of the Documentation {0}/1"
+  }
+}

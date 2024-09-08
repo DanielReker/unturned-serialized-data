@@ -1,0 +1,16 @@
+{
+  "name": "CA_XM_PDW_Sight",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Sights/CA_XM_PDW_Sight/CA_XM_PDW_Sight.dat",
+  "data": {
+    "GUID": "578c0a66c2ef4d97bb9cd29860d837c4",
+    "Type": "Sight",
+    "ID": "4029",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1"
+  },
+  "translation": {
+    "Name": "PDQ Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

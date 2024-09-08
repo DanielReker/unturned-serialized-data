@@ -1,0 +1,18 @@
+{
+  "name": "PBS_PrivateSetup",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/PBS_PrivateSetup/PBS_PrivateSetup.dat",
+  "data": {
+    "GUID": "51e6c8ea01cf408d8aa7f36c2ec451f1",
+    "Type": "RewardsList",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51205",
+    "Reward_0_Amount": "1",
+    "Reward_0_Sight": "51081",
+    "Reward_0_Barrel": "51089",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "51042",
+    "Reward_1_Amount": "3"
+  },
+  "translation": null
+}

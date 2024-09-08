@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Maple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Maple/Drop_Maple.dat",
+  "data": {
+    "GUID": "37fe1bfd354f401cb9fea68beacba5fb",
+    "Type": "Spawn",
+    "ID": "25481",
+    "Tables": [
+      {
+        "Guid": "bba25fd7a21b48fabcec34a75a01f9a9",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

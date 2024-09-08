@@ -1,0 +1,13 @@
+{
+  "name": "PS_Candle_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Candle_0/PS_Candle_0.dat",
+  "data": {
+    "GUID": "afb71eb1e7fa4ec687365e91885368f4",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59878"
+  },
+  "translation": {
+    "Name": "PS Candle #1"
+  }
+}

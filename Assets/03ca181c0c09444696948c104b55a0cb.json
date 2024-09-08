@@ -1,0 +1,13 @@
+{
+  "name": "PS_Chair_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Chair_2/PS_Chair_2.dat",
+  "data": {
+    "GUID": "03ca181c0c09444696948c104b55a0cb",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59557"
+  },
+  "translation": {
+    "Name": "PS Chair #3"
+  }
+}

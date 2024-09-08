@@ -1,0 +1,18 @@
+{
+  "name": "Food_Placed_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Food_Placed_4/Food_Placed_4.dat",
+  "data": {
+    "GUID": "55a19918b6a04d0f8d3ea3282565c561",
+    "Type": "Small",
+    "ID": "3657",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3038",
+    "Condition_0_Value": "2",
+    "Condition_0_Logic": "Equal",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Food Box Placed #5"
+  }
+}

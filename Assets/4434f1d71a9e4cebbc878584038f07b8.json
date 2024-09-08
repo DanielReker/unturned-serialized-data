@@ -1,0 +1,20 @@
+{
+  "name": "Doctor Paiva",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Scientist/Doctor Paiva/Asset.dat",
+  "data": {
+    "GUID": "4434f1d71a9e4cebbc878584038f07b8",
+    "Type": "NPC",
+    "ID": "9032",
+    "Shirt": "8000",
+    "Pants": "8001",
+    "Face": "5",
+    "Hair": "11",
+    "Color_Skin": "#cebca5",
+    "Color_Hair": "#e5e1dc",
+    "Dialogue": "9207"
+  },
+  "translation": {
+    "Name": "NAM Doctor Paiva",
+    "Character": "<color=epic>Dr. Paiva</color>"
+  }
+}

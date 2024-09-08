@@ -1,0 +1,29 @@
+{
+  "name": "Shelf_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Assets/Material_Palletes/Shelf_1.asset",
+  "data": {
+    "GUID": "f3d733b94f0142c6ad5a03d641b0d84a",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "metro.masterbundle",
+        "Path": "Terrain/Metro/Material_Palletes/Shelf_1/Material_0.mat"
+      },
+      {
+        "Name": "metro.masterbundle",
+        "Path": "Terrain/Metro/Material_Palletes/Shelf_1/Material_1.mat"
+      },
+      {
+        "Name": "metro.masterbundle",
+        "Path": "Terrain/Metro/Material_Palletes/Shelf_1/Material_2.mat"
+      },
+      {
+        "Name": "metro.masterbundle",
+        "Path": "Terrain/Metro/Material_Palletes/Shelf_1/Material_3.mat"
+      },
+      "}"
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Utility_Pole_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Utility_Pole_4/PS_Utility_Pole_4.dat",
+  "data": {
+    "GUID": "9cf0d9a1698e4d3db2f3d97247ce261f",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59462"
+  },
+  "translation": {
+    "Name": "PS Utility Pole #5"
+  }
+}

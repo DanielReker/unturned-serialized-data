@@ -1,0 +1,21 @@
+{
+  "name": "Easter_Tablet_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Notes/Easter_Tablet_4/Easter_Tablet_4.dat",
+  "data": {
+    "GUID": "320ad390178b49b4aa6b95a64cde0c6a",
+    "Type": "Medium",
+    "ID": "6811",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Bypass_ID_Limit": "",
+    "Bundle_Override_Path": "/Objects/Medium/Notes/Easter_Tablet_0",
+    "Exclude_From_Master_Bundle": "",
+    "Has_Clip_Prefab": "False",
+    "Master_Bundle_Override": "easterisland.masterbundle"
+  },
+  "translation": {
+    "Name": "Easter Tablet #5",
+    "Interactability_Text_Line_0": "Teravaka is the home of the flaw. It must slumber to contain the flaw."
+  }
+}

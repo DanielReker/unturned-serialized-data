@@ -1,0 +1,23 @@
+{
+  "name": "Audio_Tape_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Misc/Audio_Tape_01/Audio_Tape_01.dat",
+  "data": {
+    "GUID": "d1f4ce4fa8d94fa2abcd09adb880d844",
+    "Type": "Cloud",
+    "Useable": "Cloud",
+    "Rarity": "Rare",
+    "ID": "27411",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.42",
+    "Use_Auto_Icon_Measurements": "False",
+    "Instantiated_Item_Name_Override": "Audio_Tape",
+    "Gravity": "1",
+    "InspectAudioDef": "Sounds/Items/Audio_Tapes/Audio_Tape_01.asset",
+    "EquipablePrefab": "Items/Misc/Audio_Tape_00/Item_Equip.prefab"
+  },
+  "translation": {
+    "Name": "Audio Tape (Mike Crusader #2)",
+    "Description": "An audio tape diary.<br><color=#cd32da>Inspect To Play Audio Recording</color><br><br>\"Somehow, I’ve managed to turn my skin to a saturated hue of yellow. Out of all the possibilities of my experiments, this was among one of the worst outcomes. Not only that, but it’s had some extra side effects too, tied to the skin. I've begun to hear cartoonish sounds and voices in my head. I’ll dig deeper though, for science.\""
+  }
+}

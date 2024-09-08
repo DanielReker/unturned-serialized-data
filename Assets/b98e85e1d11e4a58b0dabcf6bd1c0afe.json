@@ -1,0 +1,21 @@
+{
+  "name": "Militia_Belgium_Guns",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Spawns/Items/Militia_Belgium_Guns/Militia_Belgium_Guns.dat",
+  "data": {
+    "GUID": "b98e85e1d11e4a58b0dabcf6bd1c0afe",
+    "Type": "Spawn",
+    "ID": "9012",
+    "Tables": "5",
+    "Table_0_Asset_ID": "122",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "1039",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "1041",
+    "Table_2_Weight": "10",
+    "Table_3_Asset_ID": "1379",
+    "Table_3_Weight": "5",
+    "Table_4_Asset_ID": "1369",
+    "Table_4_Weight": "5"
+  },
+  "translation": null
+}

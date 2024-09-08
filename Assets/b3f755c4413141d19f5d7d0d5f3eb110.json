@@ -1,0 +1,12 @@
+{
+  "name": "Bombardier_Red",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Assets/VehicleRedirector/Bombardier_Red.asset",
+  "data": {
+    "GUID": "b3f755c4413141d19f5d7d0d5f3eb110",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "6613",
+    "TargetVehicle": "251f03207fd947a8a830fa0893e2ea08",
+    "LoadPaintColor": "#9a2525"
+  },
+  "translation": null
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Buak_School",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Stores/Buak_School/Buak_School.dat",
+  "data": {
+    "GUID": "a26fc5d93986443c9c0820aaa4bb0000",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "LOD": "Area",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_School"
+  }
+}

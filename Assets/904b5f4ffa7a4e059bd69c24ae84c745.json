@@ -1,0 +1,39 @@
+{
+  "name": "PS_PSO_Scope",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Sights/PS_PSO_Scope/PS_PSO_Scope.dat",
+  "data": {
+    "GUID": "904b5f4ffa7a4e059bd69c24ae84c745",
+    "Type": "Sight",
+    "Rarity": "Rare",
+    "ID": "59313",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.19",
+    "Spread": "0.9",
+    "Zoom": "4",
+    "Calibers": "1",
+    "Caliber_0": "58905",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59313",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "59000",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Output_1_ID": "59001",
+    "Blueprint_0_Output_1_Amount": "1",
+    "Blueprint_0_Tool": "59004",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Blueprint_0_Link": "",
+    "Action_0_Text": "Scrap",
+    "Action_0_Tooltip": "Turn into components."
+  },
+  "translation": {
+    "Name": "OSP Scope",
+    "Description": "<color=#FFC023>Dovetail</color> mounted 4x zoom scope."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lemonade_Mix",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Lemonade_Mix/Lemonade_Mix.dat",
+  "data": {
+    "GUID": "4f70ff7bdc35476db2485e88da562865",
+    "Type": "Food",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "25373",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.44",
+    "Food": "50",
+    "Virus": "99",
+    "Vision": "60",
+    "ConsumeAudioClip": "Sounds/Food/EatCrunchy.mp3",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Lemonade Mix",
+    "Description": "A container of lemons that got turned into powder."
+  }
+}

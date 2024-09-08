@@ -1,0 +1,20 @@
+{
+  "name": "Frost_Ice_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Landscape/Frost_Ice_01/Frost_Ice_01.dat",
+  "data": {
+    "GUID": "33334c0e95ad4c6cbbc372f23552aecd",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "600",
+    "Rubble_Health": "1200",
+    "BladeID": "2",
+    "Soft": "",
+    "Chart": "Ground",
+    "Allow_Structures": ""
+  },
+  "translation": {
+    "Name": "Frost Ice #2"
+  }
+}

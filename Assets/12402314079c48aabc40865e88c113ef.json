@@ -1,0 +1,43 @@
+{
+  "name": "Tanktrap",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Tanktrap/Tanktrap.dat",
+  "data": {
+    "GUID": "12402314079c48aabc40865e88c113ef",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "51668",
+    "SalvageItem": "12402314079c48aabc40865e88c113ef",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Health": "400",
+    "Range": "4",
+    "Radius": "0.4",
+    "Offset": "1.15",
+    "Explosion": "35",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supply_0_ID": "51018",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Tool": "51056",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Tool",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51668",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "51017",
+    "Blueprint_1_Output_0_Amount": "3",
+    "Blueprint_1_Build": "27",
+    "Armor_Tier": "Low",
+    "Vulnerable": "",
+    "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Tanktrap",
+    "Description": "Designed to stop traffic and tanks."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "SSC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28901KVSD/SSC/Asset.dat",
+  "data": {
+    "GUID": "96cc4298ee4f4b5cae41c63cfc319409",
+    "Type": "Dialogue",
+    "ID": "28902",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Get outta here before someone sees."
+  }
+}

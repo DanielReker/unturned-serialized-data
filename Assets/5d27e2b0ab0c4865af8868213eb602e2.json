@@ -1,0 +1,13 @@
+{
+  "name": "XMAS_Ice",
+  "path": "Bundles/Spawns/Items/XMAS_Ice/XMAS_Ice.dat",
+  "data": {
+    "GUID": "5d27e2b0ab0c4865af8868213eb602e2",
+    "Type": "Spawn",
+    "ID": "971",
+    "Tables": "1",
+    "Table_0_Asset_ID": "1707",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

@@ -1,0 +1,1430 @@
+[
+  {
+    "name": "Mega",
+    "isMega": true,
+    "health": 500,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 0,
+    "xp": 10,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36319
+          },
+          {
+            "item": 36323
+          },
+          {
+            "item": 36324
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36320
+          },
+          {
+            "item": 36321
+          },
+          {
+            "item": 36322
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 1,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "HAZE Boss",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36104,
+    "xp": 10,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36020
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36522
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36018
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36019
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.5529412,
+      "g": 0.454901963,
+      "b": 0.392156869
+    },
+    "tableUniqueId": 2,
+    "difficultyGUID": "34c0de578eb4486eb7d1adfc3d0f8d15",
+    "difficulty": {
+      "GUID": "34c0de578eb4486eb7d1adfc3d0f8d15",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Survivor",
+    "isMega": false,
+    "health": 550,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36034,
+    "xp": 10,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36096
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.5764706,
+      "b": 0.0
+    },
+    "tableUniqueId": 3,
+    "difficultyGUID": "bee745f5b7604effb457a3853833c672",
+    "difficulty": {
+      "GUID": "bee745f5b7604effb457a3853833c672",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "normal",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 0,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.1764706,
+      "b": 0.709803939
+    },
+    "tableUniqueId": 4,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Military Boss",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36124,
+    "xp": 10,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36132
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36133
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36135
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36134
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.372549027,
+      "g": 0.549019635,
+      "b": 0.3764706
+    },
+    "tableUniqueId": 5,
+    "difficultyGUID": "23fa55a9bdb2491f8fd9c95b380f68c3",
+    "difficulty": {
+      "GUID": "23fa55a9bdb2491f8fd9c95b380f68c3",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Deadzone",
+    "isMega": false,
+    "health": 250,
+    "damage": 20,
+    "lootIndex": 0,
+    "lootID": 36025,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36633
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36634
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36636
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36635
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.149019614,
+      "g": 1.0,
+      "b": 0.0
+    },
+    "tableUniqueId": 6,
+    "difficultyGUID": "09e84747658049e1a82a65aa150e2c21",
+    "difficulty": {
+      "GUID": "09e84747658049e1a82a65aa150e2c21",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Police",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36023,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36056
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36055
+          }
+        ]
+      },
+      {
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 36053
+          }
+        ]
+      },
+      {
+        "chance": 0.3,
+        "table": [
+          {
+            "item": 36054
+          },
+          {
+            "item": 36051
+          },
+          {
+            "item": 36052
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.5529412,
+      "g": 0.5568628,
+      "b": 0.7372549
+    },
+    "tableUniqueId": 7,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Agriculture",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 0,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.6117647,
+      "g": 0.870588243,
+      "b": 0.4392157
+    },
+    "tableUniqueId": 8,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Bank",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36108,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36180
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36192
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36051
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.8039216,
+      "b": 0.423529416
+    },
+    "tableUniqueId": 9,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Camp",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36082,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36180
+          },
+          {
+            "item": 36181
+          },
+          {
+            "item": 36182
+          },
+          {
+            "item": 36183
+          },
+          {
+            "item": 36184
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36190
+          },
+          {
+            "item": 36191
+          },
+          {
+            "item": 36192
+          },
+          {
+            "item": 36193
+          },
+          {
+            "item": 36194
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36185
+          },
+          {
+            "item": 36186
+          },
+          {
+            "item": 36187
+          },
+          {
+            "item": 36188
+          },
+          {
+            "item": 36189
+          }
+        ]
+      },
+      {
+        "chance": 0.3,
+        "table": [
+          {
+            "item": 36212
+          },
+          {
+            "item": 36213
+          },
+          {
+            "item": 36214
+          },
+          {
+            "item": 36215
+          },
+          {
+            "item": 36216
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.6039216,
+      "g": 0.392156869,
+      "b": 0.419607848
+    },
+    "tableUniqueId": 10,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Civ",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36063,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36180
+          },
+          {
+            "item": 36181
+          },
+          {
+            "item": 36182
+          },
+          {
+            "item": 36183
+          },
+          {
+            "item": 36184
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36190
+          },
+          {
+            "item": 36191
+          },
+          {
+            "item": 36192
+          },
+          {
+            "item": 36193
+          },
+          {
+            "item": 36194
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36197
+          },
+          {
+            "item": 36198
+          },
+          {
+            "item": 36199
+          },
+          {
+            "item": 36200
+          },
+          {
+            "item": 36201
+          },
+          {
+            "item": 36202
+          },
+          {
+            "item": 36203
+          },
+          {
+            "item": 36204
+          },
+          {
+            "item": 36205
+          },
+          {
+            "item": 36206
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.843137264,
+      "g": 0.8392157,
+      "b": 1.0
+    },
+    "tableUniqueId": 11,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Construction",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36070,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36175
+          },
+          {
+            "item": 36177
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36174
+          },
+          {
+            "item": 36176
+          }
+        ]
+      },
+      {
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 36169
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.698039234,
+      "b": 0.431372553
+    },
+    "tableUniqueId": 12,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Farm",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36034,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36307
+          },
+          {
+            "item": 36308
+          },
+          {
+            "item": 36313
+          },
+          {
+            "item": 36314
+          },
+          {
+            "item": 36315
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36306
+          },
+          {
+            "item": 36309
+          },
+          {
+            "item": 36310
+          },
+          {
+            "item": 36311
+          },
+          {
+            "item": 36312
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36316
+          },
+          {
+            "item": 36317
+          },
+          {
+            "item": 36318
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 0.5568628
+    },
+    "tableUniqueId": 13,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Fire",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36113,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36173
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36172
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36167
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.58431375,
+      "b": 0.5647059
+    },
+    "tableUniqueId": 14,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Gas",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36084,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36182
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36311
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.670588255,
+      "g": 0.58431375,
+      "b": 0.5529412
+    },
+    "tableUniqueId": 15,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Guns",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36073,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.58431375,
+      "g": 0.623529434,
+      "b": 0.58431375
+    },
+    "tableUniqueId": 16,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "HAZE",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36109,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36171
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36170
+          }
+        ]
+      },
+      {
+        "chance": 0.2,
+        "table": [
+          {
+            "item": 36166
+          }
+        ]
+      },
+      {
+        "chance": 0.2,
+        "table": [
+          {
+            "item": 36165
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.635294139,
+      "g": 0.572549045,
+      "b": 0.5254902
+    },
+    "tableUniqueId": 17,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Hospital",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36046,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36394
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36393
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.6313726,
+      "b": 0.75686276
+    },
+    "tableUniqueId": 18,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Intel",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36105,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36575
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36574
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36576
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.8392157,
+      "g": 0.831372559,
+      "b": 0.819607854
+    },
+    "tableUniqueId": 19,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Library",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36116,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.7254902,
+      "g": 1.0,
+      "b": 0.6862745
+    },
+    "tableUniqueId": 20,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Military",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36094,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36044
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36046
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36043
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36042
+          },
+          {
+            "item": 36048
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.545098066,
+      "g": 0.6431373,
+      "b": 0.5568628
+    },
+    "tableUniqueId": 21,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Fish",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36085,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36385
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36384
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36383
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.596078455,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 22,
+    "difficultyGUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+    "difficulty": {
+      "GUID": "2d0c67c9a01b455dab66e43596b9d9c7",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Military Mega",
+    "isMega": true,
+    "health": 1000,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36104,
+    "xp": 10,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36154
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36153
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36219
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36162
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.2901961,
+      "g": 0.4,
+      "b": 0.31764707
+    },
+    "tableUniqueId": 23,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Deadzone Guns",
+    "isMega": false,
+    "health": 250,
+    "damage": 20,
+    "lootIndex": 0,
+    "lootID": 36127,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36640
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36639
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36638
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36637
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.2,
+      "g": 0.8,
+      "b": 0.619607866
+    },
+    "tableUniqueId": 24,
+    "difficultyGUID": "09e84747658049e1a82a65aa150e2c21",
+    "difficulty": {
+      "GUID": "09e84747658049e1a82a65aa150e2c21",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Deadzone Boss",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 36129,
+    "xp": 10,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36589
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36588
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36590
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 36591
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0196078438,
+      "g": 0.545098066,
+      "b": 1.0
+    },
+    "tableUniqueId": 25,
+    "difficultyGUID": "9c2c9f42c07f4d229323643c504c7836",
+    "difficulty": {
+      "GUID": "9c2c9f42c07f4d229323643c504c7836",
+      "isValid": true,
+      "isNull": false
+    }
+  }
+]

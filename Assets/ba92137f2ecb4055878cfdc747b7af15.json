@@ -1,0 +1,32 @@
+{
+  "name": "GIGN_Vest_Dark",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Items/France/Vests/GIGN_Vest_Dark/GIGN_Vest_Dark.dat",
+  "data": {
+    "GUID": "ba92137f2ecb4055878cfdc747b7af15",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "3067",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "5",
+    "Height": "4",
+    "Armor": "0.725",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "3067",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "3",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "67",
+    "Blueprint_1_Supply_0_Amount": "6",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Riot Vest",
+    "Description": "Bullet proof riot police vest."
+  }
+}

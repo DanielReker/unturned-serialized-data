@@ -1,0 +1,34 @@
+{
+  "name": "Exterminate_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Quests/Exterminate_5/Asset.dat",
+  "data": {
+    "GUID": "4c308d29eb2444489bfc7ddd34bbff9c",
+    "Type": "Quest",
+    "ID": "4043",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_ID": "4089",
+    "Condition_0_Value": "1",
+    "Condition_0_Zombie": "Boss_Wind",
+    "Condition_0_Spawn": "",
+    "Condition_0_Nav": "10",
+    "Rewards": "4",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "25",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "4014",
+    "Reward_2_Value": "1",
+    "Reward_2_Modification": "Increment",
+    "Reward_3_Type": "Flag_Short",
+    "Reward_3_ID": "4038",
+    "Reward_3_Value": "1",
+    "Reward_3_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "<color=Mythical>Groundpounder in Bordeaux</color>",
+    "Description": "A huge mutant has been spotted in Bordeaux. Take it out.",
+    "Condition_0": "Defeat {0}/{1} <color=mythical>Groundpounder Boss</color>"
+  }
+}

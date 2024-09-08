@@ -1,0 +1,14 @@
+{
+  "name": "RULA_Segment_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/RULA/RULA_Segment_0/RULA_Segment_0.dat",
+  "data": {
+    "GUID": "7437ce3d1b1249819d9fe27a4fdfd594",
+    "Type": "Large",
+    "ID": "35221",
+    "Snowshoe": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "RULA Segment#1"
+  }
+}

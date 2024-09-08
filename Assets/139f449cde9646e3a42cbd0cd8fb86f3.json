@@ -1,0 +1,13 @@
+{
+  "name": "PS_Supermarket_Proper",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Supermarket_Proper/PS_Supermarket_Proper.dat",
+  "data": {
+    "GUID": "139f449cde9646e3a42cbd0cd8fb86f3",
+    "Type": "Spawn",
+    "ID": "59127",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "59047",
+    "Table_0_Weight": "55"
+  },
+  "translation": null
+}

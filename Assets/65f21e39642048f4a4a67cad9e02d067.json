@@ -1,0 +1,13 @@
+{
+  "name": "PS_Flag_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Flag_4/PS_Flag_4.dat",
+  "data": {
+    "GUID": "65f21e39642048f4a4a67cad9e02d067",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59080"
+  },
+  "translation": {
+    "Name": "PS Flag #4"
+  }
+}

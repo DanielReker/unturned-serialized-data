@@ -1,0 +1,12 @@
+{
+  "name": "IR_Reactor_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Reactor_4/IR_Reactor_4.dat",
+  "data": {
+    "GUID": "6a162cf263aa41f29490fec3dfe92d55",
+    "Type": "Large",
+    "ID": "17058"
+  },
+  "translation": {
+    "Name": "Irish Reactor#4"
+  }
+}

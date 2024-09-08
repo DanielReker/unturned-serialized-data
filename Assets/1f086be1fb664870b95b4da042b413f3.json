@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Cave_01_Supports",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Mines/Supports/Buak_Cave_01_Supports/Buak_Cave_01_Supports.dat",
+  "data": {
+    "GUID": "1f086be1fb664870b95b4da042b413f3",
+    "Type": "Large",
+    "ID": "25300",
+    "Soft": "",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Cave_01_Supports"
+  }
+}

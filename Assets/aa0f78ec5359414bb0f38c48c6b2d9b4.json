@@ -1,0 +1,14 @@
+{
+  "name": "French_Cathedral_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/French_Cathedral_0/French_Cathedral_0.dat",
+  "data": {
+    "GUID": "aa0f78ec5359414bb0f38c48c6b2d9b4",
+    "Type": "Large",
+    "ID": "35031",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "French Cathedral #1"
+  }
+}

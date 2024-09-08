@@ -1,0 +1,25 @@
+{
+  "name": "Greece_Carepackage_Roadwarrior",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Spawns/Greece_Carepackage/Greece_Carepackage_Roadwarrior/Greece_Carepackage_Roadwarrior.dat",
+  "data": {
+    "GUID": "b3afe23da2a744c3b7362c5cddddc7f1",
+    "Type": "Spawn",
+    "ID": "1034",
+    "Tables": "7",
+    "Table_0_Spawn_ID": "164",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "81",
+    "Table_1_Weight": "80",
+    "Table_2_Spawn_ID": "671",
+    "Table_2_Weight": "75",
+    "Table_3_Spawn_ID": "112",
+    "Table_3_Weight": "50",
+    "Table_4_Spawn_ID": "276",
+    "Table_4_Weight": "30",
+    "Table_5_Asset_ID": "1480",
+    "Table_5_Weight": "15",
+    "Table_6_Asset_ID": "1440",
+    "Table_6_Weight": "10"
+  },
+  "translation": null
+}

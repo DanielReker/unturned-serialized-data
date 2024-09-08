@@ -1,0 +1,36 @@
+{
+  "name": "Easter_Gas",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Spawns/Items/Easter_Gas/Easter_Gas.dat",
+  "data": {
+    "GUID": "a84728cb88bd45a3ae6dffc6518b3fe9",
+    "Type": "Spawn",
+    "ID": "6671",
+    "Tables": [
+      {
+        "LegacySpawnId": "112",
+        "Weight": "80"
+      },
+      {
+        "LegacySpawnId": "164",
+        "Weight": "80"
+      },
+      {
+        "LegacySpawnId": "165",
+        "Weight": "44"
+      },
+      {
+        "LegacySpawnId": "166",
+        "Weight": "14"
+      },
+      {
+        "Guid": "b64484f2c2df4262bd6990b4818b607d",
+        "Weight": "13"
+      },
+      {
+        "LegacySpawnId": "167",
+        "Weight": "10"
+      }
+    ]
+  },
+  "translation": null
+}

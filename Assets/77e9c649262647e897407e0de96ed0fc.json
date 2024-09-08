@@ -1,0 +1,34 @@
+{
+  "name": "25980KMGW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/25960KMGD/25980KMGC/25980KMGW/Asset.dat",
+  "data": {
+    "GUID": "77e9c649262647e897407e0de96ed0fc",
+    "Type": "Dialogue",
+    "ID": "25980",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "4",
+    "Response_0_Dialogue": "25981",
+    "Response_0_Quest": "25975",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "25975",
+    "Response_0_Condition_0_Status": "Ready\t",
+    "Response_0_Condition_0_Reset": "",
+    "Response_1_Dialogue": "25973",
+    "Response_1_Conditions": "1",
+    "Response_1_Condition_0_Type": "Quest",
+    "Response_1_Condition_0_ID": "25040",
+    "Response_1_Condition_0_Status": "None",
+    "Response_1_Condition_0_Logic": "Not_Equal",
+    "Response_2_Dialogue": "25976"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hello <name_char>! Back from exploration.",
+    "Response_0": "I've brought your payment.",
+    "Response_1": "Do you know why the <color=legendary>Coalition</color> is here?",
+    "Response_2": "How do you work?",
+    "Response_3": "Good to see you back!"
+  }
+}

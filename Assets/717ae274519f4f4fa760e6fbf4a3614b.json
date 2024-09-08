@@ -1,0 +1,13 @@
+{
+  "name": "Pallet_Wood_0",
+  "path": "Bundles/Objects/Medium/Business/Pallet_Wood_0/Pallet_Wood_0.dat",
+  "data": {
+    "GUID": "717ae274519f4f4fa760e6fbf4a3614b",
+    "Type": "Medium",
+    "ID": "66",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Pallet Wood #1"
+  }
+}

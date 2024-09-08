@@ -1,0 +1,16 @@
+{
+  "name": "HawaiiStraw_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiStraw_1/HawaiiStraw_1.dat",
+  "data": {
+    "GUID": "78741a45e96949fbba39f888a85b8875",
+    "Type": "Large",
+    "ID": "833",
+    "Soft": "",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Hawaii Crop #2"
+  }
+}

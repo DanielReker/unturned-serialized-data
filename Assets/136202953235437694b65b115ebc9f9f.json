@@ -1,0 +1,14 @@
+{
+  "name": "FirstLove_02_Reminder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_02/FirstLove_02_Reminder/Asset.dat",
+  "data": {
+    "GUID": "136202953235437694b65b115ebc9f9f",
+    "Type": "Dialogue",
+    "ID": "24555",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "More info? Uhhh, Alexander is the bald guy with the red plaid shirt, just ask him if he has a forging hammer!"
+  }
+}

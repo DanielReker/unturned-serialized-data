@@ -1,0 +1,32 @@
+{
+  "name": "28000KOS",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/C/28000KOS/Asset.dat",
+  "data": {
+    "GUID": "4330e42171a04d5c9401dec6c1970999",
+    "Type": "NPC",
+    "ID": "28000",
+    "Shirt": "687",
+    "Pants": "688",
+    "Hat": "686",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Hat": "690 ",
+    "Halloween_Shirt": "691 ",
+    "Halloween_Pants": "692 ",
+    "Face": "1",
+    "Hair": "14",
+    "Beard": "0",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#473928",
+    "Dialogue": "28001",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "25050",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitNPCOdessaArcheologist",
+    "Character": "Odessa"
+  }
+}

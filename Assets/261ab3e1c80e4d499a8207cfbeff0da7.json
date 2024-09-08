@@ -1,0 +1,31 @@
+{
+  "name": "29050KC2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/3/C/29050KC2/Asset.dat",
+  "data": {
+    "GUID": "261ab3e1c80e4d499a8207cfbeff0da7",
+    "Type": "NPC",
+    "ID": "29050",
+    "Shirt": "176",
+    "Pants": "548",
+    "Face": "24",
+    "Hair": "7",
+    "Color_Skin": "#9d886b",
+    "Color_Hair": "#191919",
+    "Pose": "Rest",
+    "Dialogue": "29051",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "27031",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitCivi2",
+    "Character": "Rasha"
+  }
+}

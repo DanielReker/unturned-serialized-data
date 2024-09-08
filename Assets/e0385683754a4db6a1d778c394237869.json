@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Pharmacy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Stores/Buak_Pharmacy/Buak_Pharmacy.dat",
+  "data": {
+    "GUID": "e0385683754a4db6a1d778c394237869",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "LOD": "Area",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Pharmacy"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Farm_France_Sights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/Farm_France_Sights/Farm_France_Sights.dat",
+  "data": {
+    "GUID": "6ea26a8dee584401a6c861878ac91857",
+    "Type": "Spawn",
+    "ID": "2018",
+    "Tables": "1",
+    "Table_0_Asset_ID": "3074",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

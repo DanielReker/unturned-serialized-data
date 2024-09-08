@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Couch_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Furniture/Kuwait_Couch_1/Kuwait_Couch_1.dat",
+  "data": {
+    "GUID": "d2cf3b268eaf4f0988c73883cabaec7e",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5234",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Couch #2"
+  }
+}

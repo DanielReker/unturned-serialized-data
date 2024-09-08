@@ -1,0 +1,16 @@
+{
+  "name": "PBS_Foley_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Foley/PBS_Foley_Welcome/Asset.dat",
+  "data": {
+    "GUID": "ff65b0cf1aca400a9165f2870fb10fd0",
+    "Type": "Dialogue",
+    "ID": "52281",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ramirez, secure the GrubWay!<br>Ramirez, use your targeting module to call in air support!<br>Ramirez, take down that cargo plane with your throwing knife!<br>Ramirez, Oscar Mike that nuke!",
+    "Response_0": "I'll let them know."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "CA_Military_Top_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Shirts/CA_Military_Top_0/CA_Military_Top_0.dat",
+  "data": {
+    "GUID": "af76a8293dca456289553c86e5bc12af",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "4043",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "5",
+    "Height": "4",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "4043",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "4",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "4",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Military Jacket",
+    "Description": "High capacity olive colored military jacket."
+  }
+}

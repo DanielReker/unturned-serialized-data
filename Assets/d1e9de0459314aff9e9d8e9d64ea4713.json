@@ -1,0 +1,16 @@
+{
+  "name": "Drop_BoxPartsAuto",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/BarricadeDestroy/Drop_BoxPartsAuto/Drop_BoxPartsAuto.dat",
+  "data": {
+    "GUID": "d1e9de0459314aff9e9d8e9d64ea4713",
+    "Type": "Spawn",
+    "ID": "51335",
+    "Tables": [
+      {
+        "Guid": "7bd878f2ddc44fd2ba862d7a1c63508c",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

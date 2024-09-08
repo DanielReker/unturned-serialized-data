@@ -1,0 +1,13 @@
+{
+  "name": "France_Military_Special_France",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Vehicles/France_Military_Special_France/France_Military_Special_France.dat",
+  "data": {
+    "GUID": "7dfe5f211bef4f7c820a38baedbec0b4",
+    "Type": "Spawn",
+    "ID": "2046",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "2045",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

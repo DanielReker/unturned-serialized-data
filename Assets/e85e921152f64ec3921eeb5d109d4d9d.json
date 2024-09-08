@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Radar_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Radar_0/Rio_Radar_0.dat",
+  "data": {
+    "GUID": "e85e921152f64ec3921eeb5d109d4d9d",
+    "Type": "Large",
+    "ID": "7101",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Radar #1"
+  }
+}

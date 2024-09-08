@@ -1,0 +1,17 @@
+{
+  "name": "Jail_Door",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Jail_Door/Jail_Door.dat",
+  "data": {
+    "GUID": "ba59a5599baf49c4b906bff113402935",
+    "Type": "Medium",
+    "ID": "51000",
+    "Rubble": "Destroy",
+    "Rubble_Blade_ID": "100",
+    "Rubble_Health": "100",
+    "Rubble_Reset": "300",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Jail_Door 1"
+  }
+}

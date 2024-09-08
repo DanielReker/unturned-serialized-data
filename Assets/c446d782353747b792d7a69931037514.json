@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Q_S7M2_ELV_3_OFF",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M2/Buak_Q_S7M2_ELV_3_OFF/Buak_Q_S7M2_ELV_3_OFF.dat",
+  "data": {
+    "GUID": "c446d782353747b792d7a69931037514",
+    "Type": "Small",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24295",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Bundle_Override_Path": "/Objects/Large/Monuments/Buak_LAB/Buak_LAB_ELV_3_OFF"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M2_ELV_3_OFF"
+  }
+}

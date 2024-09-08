@@ -1,0 +1,17 @@
+{
+  "name": "Singer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/NPC/Singer/Singer.dat",
+  "data": {
+    "GUID": "98363ee687254e7388b9a2fe9caa95c1",
+    "Type": "Shirt",
+    "ID": "52037",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.65",
+    "Asset_Bundle_Version": "4"
+  },
+  "translation": {
+    "Name": "Singer",
+    "Description": "Ms. Hadil."
+  }
+}

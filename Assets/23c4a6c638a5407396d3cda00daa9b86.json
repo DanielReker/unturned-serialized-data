@@ -1,0 +1,27 @@
+{
+  "name": "Bullet_Casings",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Bullet_Casings/Bullet_Casings.dat",
+  "data": {
+    "GUID": "23c4a6c638a5407396d3cda00daa9b86",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "25371",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "27094",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Tool": "25376",
+    "Blueprint_0_Skill": "Craft",
+    "Blueprint_0_Level": "3",
+    "Blueprint_0_Build": "25527"
+  },
+  "translation": {
+    "Name": "50 Bullet Casings",
+    "Description": "50 copper casings for all your bullet needs."
+  }
+}

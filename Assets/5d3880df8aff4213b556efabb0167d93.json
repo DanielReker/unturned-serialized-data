@@ -1,0 +1,21 @@
+{
+  "name": "Doctor_Davidson",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IDF/Filler/Doctor_Davidson/Asset.dat",
+  "data": {
+    "GUID": "5d3880df8aff4213b556efabb0167d93",
+    "Type": "NPC",
+    "ID": "15056",
+    "Shirt": "311",
+    "Pants": "312",
+    "Face": "6",
+    "Beard": "2",
+    "Hair": "11",
+    "Color_Skin": "#f7e6cd",
+    "Color_Hair": "#f2f0ed",
+    "Dialogue": "15197"
+  },
+  "translation": {
+    "Name": "IDF Doctor Davidson",
+    "Character": "<color=uncommon>Doctor Davidson</color>"
+  }
+}

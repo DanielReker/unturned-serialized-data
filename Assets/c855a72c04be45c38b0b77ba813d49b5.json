@@ -1,0 +1,23 @@
+{
+  "name": "Buak_MushBlue",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Resources/Buak_MushBlue/Buak_MushBlue.dat",
+  "data": {
+    "GUID": "c855a72c04be45c38b0b77ba813d49b5",
+    "Type": "Resource",
+    "ID": "25350",
+    "Health": "1",
+    "Radius": "5",
+    "Scale": "0.2",
+    "Explosion": "25320",
+    "Reward_ID": "25473",
+    "Reward_XP": "1",
+    "Forage": "",
+    "No_Debris": "",
+    "Reset": "250",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_MushBlue"
+  }
+}

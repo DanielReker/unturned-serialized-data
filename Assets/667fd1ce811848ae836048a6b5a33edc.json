@@ -1,0 +1,13 @@
+{
+  "name": "Transit_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Transit_Brazil/Transit_Brazil.dat",
+  "data": {
+    "GUID": "667fd1ce811848ae836048a6b5a33edc",
+    "Type": "Spawn",
+    "ID": "5508",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "418",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

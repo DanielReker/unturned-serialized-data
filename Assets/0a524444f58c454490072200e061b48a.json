@@ -1,0 +1,25 @@
+{
+  "name": "Radio_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Quests/Side/Radio/Radio_00/Asset.dat",
+  "data": {
+    "GUID": "0a524444f58c454490072200e061b48a",
+    "Type": "Quest",
+    "ID": "24174",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_ID": "24205",
+    "Condition_0_Value": "100",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_0_Zombie": "None",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "500",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "100"
+  },
+  "translation": {
+    "Name": "Radio Quest #1 (Optional Quest)",
+    "Description": "Kill 100 Turned",
+    "Condition_0": "Kill {0}/{1} Turned"
+  }
+}

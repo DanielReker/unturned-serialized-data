@@ -1,0 +1,13 @@
+{
+  "name": "PS_Delievery_Trailer_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Delievery_Trailer_2/PS_Delievery_Trailer_2.dat",
+  "data": {
+    "GUID": "6251cb80c7234a99936fda8d5a3d1480",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59543"
+  },
+  "translation": {
+    "Name": "PS Delievery Trailer #3"
+  }
+}

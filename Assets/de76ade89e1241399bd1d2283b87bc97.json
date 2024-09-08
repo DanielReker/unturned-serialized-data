@@ -1,0 +1,19 @@
+{
+  "name": "WS_Lumberyard",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/WS_Lumberyard/WS_Lumberyard.dat",
+  "data": {
+    "GUID": "de76ade89e1241399bd1d2283b87bc97",
+    "Type": "Spawn",
+    "ID": "25352",
+    "Tables": "4",
+    "Table_0_Spawn_ID": "25432",
+    "Table_0_Weight": "140",
+    "Table_1_Spawn_ID": "25389",
+    "Table_1_Weight": "100",
+    "Table_2_Asset_ID": "25337",
+    "Table_2_Weight": "50",
+    "Table_3_Asset_ID": "25388",
+    "Table_3_Weight": "1"
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Opalao_Orange",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Opalao_Orange/Opalao_Orange.dat",
+  "data": {
+    "GUID": "5f79ebf379f24c1caabf9fa3dd9c0639",
+    "Type": "Large",
+    "ID": "7083",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Orange Paulio"
+  }
+}

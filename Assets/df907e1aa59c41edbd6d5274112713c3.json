@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Clam_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Overgrowth/Kuwait_Clam_3/Kuwait_Clam_3.dat",
+  "data": {
+    "GUID": "df907e1aa59c41edbd6d5274112713c3",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5335",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Clam #4"
+  }
+}

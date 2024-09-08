@@ -1,0 +1,27 @@
+{
+  "name": "Frost_Sound_Button_04_On",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Sound_0/Frost_Sound_Button_04_On/Frost_Sound_Button_04_On.dat",
+  "data": {
+    "GUID": "e454a4cca5844376b5612c6b1539b24a",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "36353",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "36353",
+    "Interactability_Reward_0_Value": "False",
+    "Master_Bundle_Override": "frost.masterbundle",
+    "Bundle_Override_Path": "/Objects/Safezone/Frost_Sound_Button_On_1"
+  },
+  "translation": {
+    "Name": "Frost Sound Button #5 [On]",
+    "Interact": "Toggle [{0}]"
+  }
+}

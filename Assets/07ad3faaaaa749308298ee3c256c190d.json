@@ -1,0 +1,14 @@
+{
+  "name": "GreatRock_Accept",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Grandma/Grandma_02/GreatRock_Accept/Asset.dat",
+  "data": {
+    "GUID": "07ad3faaaaa749308298ee3c256c190d",
+    "Type": "Dialogue",
+    "ID": "24516",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you dear, stay safe!"
+  }
+}

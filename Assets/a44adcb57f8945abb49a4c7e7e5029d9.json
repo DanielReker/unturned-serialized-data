@@ -1,0 +1,10 @@
+{
+  "name": "BulletBounce",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Effects/Guns/BulletBounce/BulletBounce.dat",
+  "data": {
+    "GUID": "a44adcb57f8945abb49a4c7e7e5029d9",
+    "Type": "Effect",
+    "ID": "51050"
+  },
+  "translation": null
+}

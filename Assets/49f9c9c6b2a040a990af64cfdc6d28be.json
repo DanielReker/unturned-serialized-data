@@ -1,0 +1,29 @@
+{
+  "name": "Wound_Needles",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Wound_Needles/Wound_Needles.dat",
+  "data": {
+    "GUID": "49f9c9c6b2a040a990af64cfdc6d28be",
+    "Type": "Small",
+    "ID": "3882",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3407",
+    "Condition_0_Value": "3",
+    "Condition_0_Logic": "Not_Equal",
+    "Condition_1_Type": "Quest",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_ID": "3401",
+    "Condition_1_Status": "Active",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Short",
+    "Interactability_Reward_0_ID": "3407",
+    "Interactability_Reward_0_Value": "3",
+    "Interactability_Reward_0_Modification": "Assign"
+  },
+  "translation": {
+    "Name": "Wound Needles",
+    "Interact": "Select Needles and Thread[{0}]"
+  }
+}

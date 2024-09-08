@@ -1,0 +1,17 @@
+{
+  "name": "PS_Pebble_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Pebble_4/PS_Pebble_4.dat",
+  "data": {
+    "GUID": "49bb9b61e545496ba967511ba93d01aa",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60070",
+    "Material_Palette": "12462313f3564243861a841ca2d5b56d",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground"
+  },
+  "translation": {
+    "Name": "PS Boulder Pebble #5"
+  }
+}

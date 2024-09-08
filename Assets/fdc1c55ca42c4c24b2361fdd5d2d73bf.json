@@ -1,0 +1,27 @@
+{
+  "name": "Metro_Bottoms",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Bottoms/Metro_Bottoms.dat",
+  "data": {
+    "GUID": "fdc1c55ca42c4c24b2361fdd5d2d73bf",
+    "Type": "Spawn",
+    "ID": "57029",
+    "Tables": "8",
+    "Table_0_Asset_ID": "57179",
+    "Table_0_Weight": "20",
+    "Table_1_Asset_ID": "57180",
+    "Table_1_Weight": "20",
+    "Table_2_Asset_ID": "57181",
+    "Table_2_Weight": "20",
+    "Table_3_Asset_ID": "57182",
+    "Table_3_Weight": "20",
+    "Table_4_Asset_ID": "57183",
+    "Table_4_Weight": "20",
+    "Table_5_Asset_ID": "57445",
+    "Table_5_Weight": "20",
+    "Table_6_Asset_ID": "57444",
+    "Table_6_Weight": "20",
+    "Table_7_Asset_ID": "57443",
+    "Table_7_Weight": "20"
+  },
+  "translation": null
+}

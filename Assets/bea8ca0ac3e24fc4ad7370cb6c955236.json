@@ -1,0 +1,20 @@
+{
+  "name": "CA_Bush_Amber",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Resources/CA_Bush_Amber/CA_Bush_Amber.dat",
+  "data": {
+    "GUID": "bea8ca0ac3e24fc4ad7370cb6c955236",
+    "Type": "Resource",
+    "ID": "4013",
+    "Health": "1",
+    "Radius": "3",
+    "Scale": "0.1",
+    "Explosion": "43",
+    "Log": "270",
+    "Forage": "",
+    "Reset": "1000",
+    "Christmas_Redirect": "aec7b766bea04810bc283f09a2109fde"
+  },
+  "translation": {
+    "Name": "California Bush Amber #1"
+  }
+}

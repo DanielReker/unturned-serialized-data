@@ -1,0 +1,13 @@
+{
+  "name": "Cliffs_Police_Vehicle_High",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Spawns/Vehicles/Cliffs_Police_Vehicle_High/Cliffs_Police_Vehicle_High.dat",
+  "data": {
+    "GUID": "a95be73890b445bc877399bd24995d33",
+    "Type": "Spawn",
+    "ID": "10103",
+    "Tables": "1",
+    "Table_0_Asset_ID": "802",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

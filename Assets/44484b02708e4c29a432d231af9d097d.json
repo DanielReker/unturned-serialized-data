@@ -1,0 +1,12 @@
+{
+  "name": "Cattails",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Cattails/Cattails.dat",
+  "data": {
+    "GUID": "44484b02708e4c29a432d231af9d097d",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Cattails"
+  }
+}

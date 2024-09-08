@@ -1,0 +1,22 @@
+{
+  "name": "PS_Motor_Oil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Water/PS_Motor_Oil/PS_Motor_Oil.dat",
+  "data": {
+    "GUID": "c2d1d61b6af34250a854d6cf07ee2ec4",
+    "Type": "Water",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "59277",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.36",
+    "Water": "5",
+    "Virus": "50",
+    "Vision": "30",
+    "Quality_Min": "90"
+  },
+  "translation": {
+    "Name": "Motor Oil",
+    "Description": "Bottle of oily substance enhanced with various additives. Required to assemble the <color=#964bfa>Rescue saw.</color>"
+  }
+}

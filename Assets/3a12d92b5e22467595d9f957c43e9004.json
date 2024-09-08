@@ -1,0 +1,36 @@
+{
+  "name": "29621KSW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/3/D/29620KSD/29621KSW/Asset.dat",
+  "data": {
+    "GUID": "3a12d92b5e22467595d9f957c43e9004",
+    "Type": "Dialogue",
+    "ID": "29621",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Dialogue": "29622",
+    "Response_0_Quest": "29625",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "29625",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "29625",
+    "Response_1_Dialogue": "29623",
+    "Response_1_Quest": "29625",
+    "Response_1_Conditions": "1",
+    "Response_1_Condition_0_Type": "Quest",
+    "Response_1_Condition_0_Logic": "Equal",
+    "Response_1_Condition_0_ID": "29625",
+    "Response_1_Condition_0_Status": "Ready",
+    "Response_1_Condition_0_Reset": ""
+  },
+  "translation": {
+    "Message_0_Page_0": "Hello.",
+    "Response_0": "Need any help?",
+    "Response_1": "I've chopped the trees.",
+    "Response_2": "Goodbye."
+  }
+}

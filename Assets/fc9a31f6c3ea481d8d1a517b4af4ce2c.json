@@ -1,0 +1,13 @@
+{
+  "name": "Cloth_Brazil_Shirts",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Cloth_Brazil_Shirts/Cloth_Brazil_Shirts.dat",
+  "data": {
+    "GUID": "fc9a31f6c3ea481d8d1a517b4af4ce2c",
+    "Type": "Spawn",
+    "ID": "5002",
+    "Tables": "1",
+    "Table_0_Asset_ID": "421",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

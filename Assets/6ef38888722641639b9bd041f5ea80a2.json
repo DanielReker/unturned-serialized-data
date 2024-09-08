@@ -1,0 +1,13 @@
+{
+  "name": "Coalition_Catwalk_1",
+  "path": "Bundles/Objects/Medium/Military/Coalition_Catwalk_1/Coalition_Catwalk_1.dat",
+  "data": {
+    "GUID": "6ef38888722641639b9bd041f5ea80a2",
+    "Type": "Medium",
+    "ID": "960",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Coalition Catwalk Support"
+  }
+}

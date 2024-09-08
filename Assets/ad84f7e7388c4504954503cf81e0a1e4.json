@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Office_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Office_1/Rio_Office_1.dat",
+  "data": {
+    "GUID": "ad84f7e7388c4504954503cf81e0a1e4",
+    "Type": "Large",
+    "ID": "6026",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Office #1"
+  }
+}

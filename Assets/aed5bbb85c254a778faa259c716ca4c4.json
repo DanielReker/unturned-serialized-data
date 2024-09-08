@@ -1,0 +1,19 @@
+{
+  "name": "Brazil_Military_Low_Clothes",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Brazil_Military_Low_Clothes/Brazil_Military_Low_Clothes.dat",
+  "data": {
+    "GUID": "aed5bbb85c254a778faa259c716ca4c4",
+    "Type": "Spawn",
+    "ID": "5033",
+    "Tables": "4",
+    "Table_0_Asset_ID": "8009 ",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "8008 ",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "8011 ",
+    "Table_2_Weight": "10",
+    "Table_3_Asset_ID": "8007  ",
+    "Table_3_Weight": "10"
+  },
+  "translation": null
+}

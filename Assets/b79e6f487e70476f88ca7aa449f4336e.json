@@ -1,0 +1,13 @@
+{
+  "name": "Police_Jeep",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Police_Jeep/Police_Jeep.dat",
+  "data": {
+    "GUID": "b79e6f487e70476f88ca7aa449f4336e",
+    "Type": "Large",
+    "ID": "3545",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Police Jeep"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "29495KGJ",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/C/29495KGJ/Asset.dat",
+  "data": {
+    "GUID": "22873eecda13441486f2f6129ed2fc93",
+    "Type": "NPC",
+    "ID": "29495",
+    "Shirt": "165 ",
+    "Pants": "209",
+    "Backpack": "253",
+    "Primary": "5011",
+    "Equipped": "Primary",
+    "Face": "22",
+    "Hair": "18",
+    "Beard": "1",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#191919",
+    "Dialogue": "29496",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "25050",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitSurvivorGuardJustin",
+    "Character": "Justin"
+  }
+}

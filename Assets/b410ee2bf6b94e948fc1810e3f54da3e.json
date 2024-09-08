@@ -1,0 +1,40 @@
+{
+  "name": "Raw_Wolf_Meat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Raw_Wolf_Meat/Raw_Wolf_Meat.dat",
+  "data": {
+    "GUID": "b410ee2bf6b94e948fc1810e3f54da3e",
+    "Type": "Food",
+    "Rarity": "Legendary",
+    "Useable": "Consumeable",
+    "ID": "25733",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Use_Auto_Icon_Measurements": "False",
+    "Food": "2",
+    "Water": "1",
+    "Virus": "15",
+    "Vision": "20",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25733",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "25311",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Build": "25534",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Compost",
+    "Action_0_Tooltip": "Turn into compost.",
+    "ConsumeAudioClip": "Sounds/Food/EatCrunchy.mp3",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Raw Wolf Meat",
+    "Description": "Fresh uncooked wolf meat."
+  }
+}

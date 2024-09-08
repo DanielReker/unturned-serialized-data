@@ -1,0 +1,13 @@
+{
+  "name": "Washington_Kitchen",
+  "path": "Bundles/Spawns/Items/Washington_Kitchen/Washington_Kitchen.dat",
+  "data": {
+    "GUID": "f579761f10e0430aa387126e18698995",
+    "Type": "Spawn",
+    "ID": "387",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "254",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

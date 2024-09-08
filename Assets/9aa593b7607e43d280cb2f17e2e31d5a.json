@@ -1,0 +1,13 @@
+{
+  "name": "PS_Speaker_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Speaker_3/PS_Speaker_3.dat",
+  "data": {
+    "GUID": "9aa593b7607e43d280cb2f17e2e31d5a",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60198"
+  },
+  "translation": {
+    "Name": "PS Speaker #4 [Market_Music_0]"
+  }
+}

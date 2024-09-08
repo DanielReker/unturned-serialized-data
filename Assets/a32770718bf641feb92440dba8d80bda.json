@@ -1,0 +1,14 @@
+{
+  "name": "Scout_Rig_Accepted",
+  "path": "Bundles/NPCs/Dialogues/Scout/Scout_Rig_Accepted/Asset.dat",
+  "data": {
+    "GUID": "a32770718bf641feb92440dba8d80bda",
+    "Type": "Dialogue",
+    "ID": "116",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Find as much evidence about the accident as possible and any information they recorded, we know it's flooded with radiation but not much more."
+  }
+}

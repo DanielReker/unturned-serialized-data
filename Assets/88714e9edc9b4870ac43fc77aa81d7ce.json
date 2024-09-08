@@ -1,0 +1,13 @@
+{
+  "name": "Spotlight_1",
+  "path": "Bundles/Objects/Medium/Military/Spotlight_1/Spotlight_1.dat",
+  "data": {
+    "GUID": "88714e9edc9b4870ac43fc77aa81d7ce",
+    "Type": "Medium",
+    "ID": "901",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Spotlight Base"
+  }
+}

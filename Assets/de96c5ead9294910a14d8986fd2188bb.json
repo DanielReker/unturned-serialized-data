@@ -1,0 +1,23 @@
+{
+  "name": "AG_Shirt",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/AG_Shirt/AG_Shirt.dat",
+  "data": {
+    "GUID": "de96c5ead9294910a14d8986fd2188bb",
+    "Rarity": "Uncommon",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "27079",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "8",
+    "Height": "4",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "AG_Shirt",
+    "Description": "NPC Shirt."
+  }
+}

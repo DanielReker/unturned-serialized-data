@@ -1,0 +1,52 @@
+{
+  "name": "Metro_Mechanic",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Mechanic/Metro_Mechanic.dat",
+  "data": {
+    "GUID": "21444d3abe2f4ba6b36e3ec847d8dda7",
+    "Type": "Spawn",
+    "ID": "57038",
+    "Tables": [
+      {
+        "LegacySpawnId": "57039",
+        "Weight": "300"
+      },
+      {
+        "LegacyAssetId": "57429",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "57430",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "277",
+        "Weight": "45"
+      },
+      {
+        "LegacyAssetId": "75",
+        "Weight": "40"
+      },
+      {
+        "LegacyAssetId": "76",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "57340",
+        "Weight": "20"
+      },
+      {
+        "Guid": "01e052de16444ff4a68a3cbfb3514bed",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "57465",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "57428",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

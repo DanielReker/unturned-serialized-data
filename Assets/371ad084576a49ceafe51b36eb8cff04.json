@@ -1,0 +1,17 @@
+{
+  "name": "Frost_Fisher_00_Good_Luck",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Fisher_00/Frost_Fisher_00_Good_Luck/Asset.dat",
+  "data": {
+    "GUID": "371ad084576a49ceafe51b36eb8cff04",
+    "Type": "Dialogue",
+    "ID": "36113",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "36111"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good luck.",
+    "Response_0": "Thanks."
+  }
+}

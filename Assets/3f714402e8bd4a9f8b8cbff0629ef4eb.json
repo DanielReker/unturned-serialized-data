@@ -1,0 +1,36 @@
+{
+  "name": "Metro_Backpack_Cloth_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Clothing/Metro_Backpack_Cloth_2/Metro_Backpack_Cloth_2.dat",
+  "data": {
+    "GUID": "3f714402e8bd4a9f8b8cbff0629ef4eb",
+    "Type": "Backpack",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "57496",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.525",
+    "Width": "5",
+    "Height": "8",
+    "Blueprints": "3",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "57496",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "4",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "4",
+    "Blueprint_1_Build": "32",
+    "Blueprint_2_Type": "Apparel",
+    "Blueprint_2_Supplies": "1",
+    "Blueprint_2_Supply_0_ID": "57495",
+    "Blueprint_2_Supply_0_Amount": "2",
+    "Blueprint_2_Build": "32"
+  },
+  "translation": {
+    "Name": "Cloth Pack Mk.III",
+    "Description": "<color=#64c819>+40</color> Slots                                                     Can be upgraded by combining with another <color=#4b64fa>Cloth Pack Mk.III</color>"
+  }
+}

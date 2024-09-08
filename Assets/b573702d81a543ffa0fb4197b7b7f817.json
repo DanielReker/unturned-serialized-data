@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Barbed_Wire_Barricade",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Barbed_Wire_Barricade/Bar_Barbed_Wire_Barricade.dat",
+  "data": {
+    "GUID": "b573702d81a543ffa0fb4197b7b7f817",
+    "Type": "Effect",
+    "ID": "25344"
+  },
+  "translation": null
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Compound",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/CraftingSupplies/Compound/Compound.dat",
+  "data": {
+    "GUID": "3ca169532e564cde855b3384369f0ca5",
+    "Rarity": "Rare",
+    "Type": "Supply",
+    "ID": "51061",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "3",
+    "Blueprint_0_Supply_0_ID": "51060",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "51313",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Supply_2_ID": "51314",
+    "Blueprint_0_Supply_2_Amount": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Adhesive Compound",
+    "Description": "Mixture of different chemicals to create the ultimate adhesive substance."
+  }
+}

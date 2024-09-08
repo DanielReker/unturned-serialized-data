@@ -1,0 +1,16 @@
+{
+  "name": "RoadArrowTurn",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Decals/City/RoadArrowTurn/RoadArrowTurn.dat",
+  "data": {
+    "GUID": "c7c1847654d84ff693431c4072d43968",
+    "Type": "Decal",
+    "ID": "51017",
+    "Decal_LOD_Bias": "1",
+    "Decal_X": "3",
+    "Decal_Y": "3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Decal RoadArrowTurn"
+  }
+}

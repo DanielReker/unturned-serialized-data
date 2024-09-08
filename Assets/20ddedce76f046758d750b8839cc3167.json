@@ -1,0 +1,14 @@
+{
+  "name": "PS_Helipad_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Helipad_1/PS_Helipad_1.dat",
+  "data": {
+    "GUID": "20ddedce76f046758d750b8839cc3167",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60079",
+    "Collision_Important": ""
+  },
+  "translation": {
+    "Name": "PS Helipad #2"
+  }
+}

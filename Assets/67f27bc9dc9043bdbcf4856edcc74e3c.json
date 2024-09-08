@@ -1,0 +1,19 @@
+{
+  "name": "Ferre_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military Master Sergeant Ferre/Ferre_Welcome/Asset.dat",
+  "data": {
+    "GUID": "67f27bc9dc9043bdbcf4856edcc74e3c",
+    "Type": "Dialogue",
+    "ID": "9108",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Responses": "2",
+    "Response_0_Dialogue": "9109"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hello there. I am <name_npc>. ",
+    "Message_0_Page_1": "What is your name?",
+    "Response_0": "I'm <name_char>. ",
+    "Response_1": "I have to leave."
+  }
+}

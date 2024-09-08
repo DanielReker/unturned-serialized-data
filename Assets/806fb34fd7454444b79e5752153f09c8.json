@@ -1,0 +1,19 @@
+{
+  "name": "Nelson_1_Vendor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Nelson_1/Nelson_1_Vendor/Asset.dat",
+  "data": {
+    "GUID": "806fb34fd7454444b79e5752153f09c8",
+    "Type": "Vendor",
+    "ID": "58204",
+    "Buying": "0",
+    "Selling": "1",
+    "Selling_0_ID": "57747",
+    "Selling_0_Cost": "40000",
+    "Disable_Sorting": "",
+    "Currency": "56cc0f28e97a4c5eaf19c8e652c34369"
+  },
+  "translation": {
+    "Name": "<color=#64c819>Painting</color>",
+    "Description": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Checkout_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Checkout_00/Buak_Checkout_00.dat",
+  "data": {
+    "GUID": "32236d1e572a47ba8b4901dd8b898523",
+    "Type": "Medium",
+    "ID": "25300",
+    "Material_Palette": "ebd90be3d03f460182aebc705e2eb3b6",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Checkout_00"
+  }
+}

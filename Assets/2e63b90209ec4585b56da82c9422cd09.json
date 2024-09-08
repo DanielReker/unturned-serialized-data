@@ -1,0 +1,13 @@
+{
+  "name": "Arena_Armor_Helmet",
+  "path": "Bundles/Spawns/Items/Arena_Armor_Helmet/Arena_Armor_Helmet.dat",
+  "data": {
+    "GUID": "2e63b90209ec4585b56da82c9422cd09",
+    "Type": "Spawn",
+    "ID": "38",
+    "Tables": "1",
+    "Table_0_Asset_ID": "1010",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

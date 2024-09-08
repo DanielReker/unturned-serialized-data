@@ -1,0 +1,15 @@
+{
+  "name": "Anniversary_0_Gold",
+  "path": "Bundles/Items/Hats/Anniversary_0_Gold/Anniversary_0_Gold.dat",
+  "data": {
+    "GUID": "4273d6d7c14244cd91dfb883718017ef",
+    "Type": "Hat",
+    "ID": "715",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

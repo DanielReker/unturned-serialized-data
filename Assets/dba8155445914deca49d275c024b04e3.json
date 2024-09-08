@@ -1,0 +1,24 @@
+{
+  "name": "Major_Lee",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Major_Lee/Asset.dat",
+  "data": {
+    "GUID": "dba8155445914deca49d275c024b04e3",
+    "Type": "NPC",
+    "ID": "2076",
+    "Shirt": "1358",
+    "Pants": "529",
+    "Hat": "1359",
+    "Glasses": "409",
+    "Tertiary": "1445",
+    "Equipped": "Tertiary",
+    "Face": "11",
+    "Beard": "1",
+    "Color_Skin": "#bfb1a7",
+    "Color_Hair": "#4f2d23",
+    "Dialogue": "2077"
+  },
+  "translation": {
+    "Name": "Major Lee",
+    "Character": "<color=epic>Major Lee</color>"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Beach5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/Beach5/Beach5.dat",
+  "data": {
+    "GUID": "aab56bbbe027457dad27b189e4a6e068",
+    "Type": "Spawn",
+    "ID": "51213",
+    "Tables": [
+      {
+        "Guid": "115277615f02478a95dad02a5e23f439",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

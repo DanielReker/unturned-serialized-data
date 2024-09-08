@@ -1,0 +1,22 @@
+{
+  "name": "Viola_Hat_HW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Viola_Hat_HW/Viola_Hat_HW.dat",
+  "data": {
+    "GUID": "d50c813f47664baeafeb46c46487ace6",
+    "Rarity": "Uncommon",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "27051",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Beard": "",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Viola_Hat_HW",
+    "Description": "NPC Hat."
+  }
+}

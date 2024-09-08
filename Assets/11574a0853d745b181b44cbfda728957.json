@@ -1,0 +1,24 @@
+{
+  "name": "PS_Bush_collection_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/Landscapes/Resources/PS_Bush_collection_0.asset",
+  "data": {
+    "GUID": "11574a0853d745b181b44cbfda728957",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "d44c3171396e49d09024d47edffd48f3"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "89a37cc5237147cfa2b19a2013303204"
+        },
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

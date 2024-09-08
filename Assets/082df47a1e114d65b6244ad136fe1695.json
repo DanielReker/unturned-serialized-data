@@ -1,0 +1,14 @@
+{
+  "name": "Frost_Escape_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Escape/Frost_Escape_04/Frost_Escape_04.dat",
+  "data": {
+    "GUID": "082df47a1e114d65b6244ad136fe1695",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Exclude_From_Level_Batching": "True"
+  },
+  "translation": {
+    "Name": "Frost Escape #5"
+  }
+}

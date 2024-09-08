@@ -1,0 +1,32 @@
+{
+  "name": "Metro_AreaC_Circuit_Broken",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_AreaC_Circuit_Broken/Metro_AreaC_Circuit_Broken.dat",
+  "data": {
+    "GUID": "48e8655814ca43398c6b2cdd211f68b3",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "58148",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57143",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "57139",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "57143",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Metro AreaC Circuit Broken #1",
+    "Interactability_Condition_0": "0/1 Repair Kit",
+    "Interact": "Repair"
+  }
+}

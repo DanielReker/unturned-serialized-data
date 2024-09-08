@@ -1,0 +1,19 @@
+{
+  "name": "Note_Peaks_8",
+  "path": "Bundles/Objects/Medium/Furniture/Note_Peaks_8/Note_Peaks_8.dat",
+  "data": {
+    "GUID": "cbd1d9ee81ef40c8becb56eb295eb7b8",
+    "Type": "Medium",
+    "ID": "2037",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Peaks Note - Brew",
+    "Interactability_Text_Line_0": "Today I got word other breweries in the region are also picking up on berry mixes. I've started a trend!"
+  }
+}

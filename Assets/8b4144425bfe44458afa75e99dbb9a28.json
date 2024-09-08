@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Ship_Turned",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Turned/Buak_Ship_Turned.asset",
+  "data": {
+    "GUID": "8b4144425bfe44458afa75e99dbb9a28",
+    "Type": "SDG.Unturned.ZombieDifficultyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Overrides_Spawn_Chance": "true",
+    "Crawler_Chance": "0",
+    "Sprinter_Chance": "0",
+    "Flanker_Chance": "0",
+    "Burner_Chance": "0",
+    "Acid_Chance": "0",
+    "Spirit_Chance": "0",
+    "Mega_Stun_Threshold": "1000",
+    "Normal_Stun_Threshold": "40",
+    "Allow_Horde_Beacon": "false"
+  },
+  "translation": null
+}

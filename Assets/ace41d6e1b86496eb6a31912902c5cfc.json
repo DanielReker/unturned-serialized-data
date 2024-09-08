@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Ladder_Wood_Prop",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Ladder_Wood_Prop/Buak_Ladder_Wood_Prop.dat",
+  "data": {
+    "GUID": "ace41d6e1b86496eb6a31912902c5cfc",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Ladder_Wood_Prop"
+  }
+}

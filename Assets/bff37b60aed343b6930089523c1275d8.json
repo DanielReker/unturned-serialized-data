@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Fire_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Buildings/Kuwait_Fire_0/Kuwait_Fire_0.dat",
+  "data": {
+    "GUID": "bff37b60aed343b6930089523c1275d8",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5102"
+  },
+  "translation": {
+    "Name": "Kuwait Fire Station #1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "BE Skin Stretcher",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Medium/Furniture/BE Skin Stretcher/BE Skin Stretcher.dat",
+  "data": {
+    "GUID": "9170ab5a40804cd2b54b345870ea03f7",
+    "Type": "Medium",
+    "ID": "9214"
+  },
+  "translation": {
+    "Name": "BE Skin Stretcher"
+  }
+}

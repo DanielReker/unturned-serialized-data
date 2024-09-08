@@ -1,0 +1,13 @@
+{
+  "name": "High_Civilian_Brazil_High",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/High_Civilian_Brazil_High/High_Civilian_Brazil_High.dat",
+  "data": {
+    "GUID": "1c7cae7066474e0a8f92f66b9aa72212",
+    "Type": "Spawn",
+    "ID": "5050",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5047",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,15 @@
+{
+  "name": "PBS_Gurt_Acc",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Gurt/PBS_Gurt_Acc/Asset.dat",
+  "data": {
+    "GUID": "36bb04147d96473fae35cde890be1b43",
+    "Type": "Dialogue",
+    "ID": "52182",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "52181"
+  },
+  "translation": {
+    "Message_0_Page_0": "gurt wait..."
+  }
+}

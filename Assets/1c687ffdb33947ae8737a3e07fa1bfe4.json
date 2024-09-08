@@ -1,0 +1,36 @@
+{
+  "name": "27450KuwaitAugustus",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/C/27450KuwaitAugustus/Asset.dat",
+  "data": {
+    "GUID": "1c687ffdb33947ae8737a3e07fa1bfe4",
+    "Type": "NPC",
+    "ID": "27450",
+    "Shirt": "5301",
+    "Pants": "5302",
+    "Hair": "18",
+    "Face": "0",
+    "Color_Skin": "#bea582",
+    "Color_Hair": "#352c22",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Shirt": "587  ",
+    "Halloween_Pants": "588",
+    "Has_Christmas_Outfit": "True",
+    "Christmas_Shirt": "742 ",
+    "Christmas_Pants": "280",
+    "Christmas_Hat": "741",
+    "Christmas_Vest": "828",
+    "Primary": "5003",
+    "Secondary": "121",
+    "Dialogue": "27451",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "26515",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitNPCPosAugustus",
+    "Character": "<color=epic>Major Augustus</color>"
+  }
+}

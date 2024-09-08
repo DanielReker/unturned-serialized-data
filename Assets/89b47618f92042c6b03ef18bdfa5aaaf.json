@@ -1,0 +1,16 @@
+{
+  "name": "Engineer_Fuse_Issue",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Workshop_Omega/Engineer_Fuse_Issue/Asset.dat",
+  "data": {
+    "GUID": "89b47618f92042c6b03ef18bdfa5aaaf",
+    "Type": "Dialogue",
+    "ID": "3287",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ah, <color=rare>Engineer Penelope</color> could use some help fixing the fusebox behind the generator. We can't operate these machines until that is fixed.",
+    "Response_0": "I'll see how I can help."
+  }
+}

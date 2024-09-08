@@ -1,0 +1,23 @@
+{
+  "name": "BP_Hacksaw",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Hacksaw/Asset.dat",
+  "data": {
+    "GUID": "451ee042297f4c3bac6fe68ee5c45df4",
+    "Type": "Quest",
+    "ID": "24965",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "b8f2ef528ba648bcb794dba557cdaa3d",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24964",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Hacksaw Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Hacksaw Recipe"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Kuwait_Treasure_Shiny",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Barricades/Kuwait_Treasure_Shiny/Kuwait_Treasure_Shiny.dat",
+  "data": {
+    "GUID": "5c7d3e2d670e46cdb989366b74983443",
+    "Type": "Barricade",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "Rarity": "Epic",
+    "ID": "5484",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Health": "50",
+    "Range": "6",
+    "Radius": "0.5",
+    "Offset": "0.451",
+    "Explosion": "28",
+    "Vulnerable": "",
+    "Salvage_Duration_Multiplier": "0.3",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "67",
+    "Blueprint_0_Supply_0_Amount": "6",
+    "Blueprint_0_Supply_1_ID": "5562",
+    "Blueprint_0_Supply_1_Amount": "4",
+    "Blueprint_0_Level": "1",
+    "Blueprint_0_Skill": "Craft",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Kuwait",
+    "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Shiny Treasure",
+    "Description": "Shiny and incredibly valuable.<br><color=#BF1F1F>50 HP</color><br>"
+  }
+}

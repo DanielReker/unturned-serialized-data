@@ -1,0 +1,18 @@
+{
+  "name": "PaintingKuwait",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PaintingKuwait/PaintingKuwait.dat",
+  "data": {
+    "GUID": "39febf020770449a89dc9a6eca498ca8",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "58",
+    "Rubble_Reward_ID": "51241"
+  },
+  "translation": {
+    "Name": "PBS Painting Kuwait"
+  }
+}

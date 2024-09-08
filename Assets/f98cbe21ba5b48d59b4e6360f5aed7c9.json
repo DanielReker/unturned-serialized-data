@@ -1,0 +1,18 @@
+{
+  "name": "Frost_Snowman_00_Quest_00_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Snowman_00/Frost_Snowman_00_Quest_00_Return/Asset.dat",
+  "data": {
+    "GUID": "f98cbe21ba5b48d59b4e6360f5aed7c9",
+    "Type": "Dialogue",
+    "ID": "36605",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Responses": "1",
+    "Response_0_Dialogue": "36600"
+  },
+  "translation": {
+    "Message_0_Page_0": "OH MY!!!!",
+    "Message_0_Page_1": "THANK YOU SO MUCH!!!",
+    "Response_0": ":D"
+  }
+}

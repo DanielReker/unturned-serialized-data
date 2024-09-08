@@ -1,0 +1,23 @@
+{
+  "name": "BP_Scope_Cross",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Scope_Cross/Asset.dat",
+  "data": {
+    "GUID": "3d72bacf9ae446ad8b292b7b77628e9a",
+    "Type": "Quest",
+    "ID": "24893",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "d5f88f7551364fd38778baa3466f4a1a",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24892",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Cross Scope Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Cross Scope Recipe"
+  }
+}

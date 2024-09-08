@@ -1,0 +1,60 @@
+{
+  "name": "Metro_Construction_Mats",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Construction_Mats/Metro_Construction_Mats.dat",
+  "data": {
+    "GUID": "fd99b27721974a1ba1c986421f1d073e",
+    "Type": "Spawn",
+    "ID": "57071",
+    "Tables": [
+      {
+        "LegacyAssetId": "285",
+        "Weight": "150"
+      },
+      {
+        "LegacyAssetId": "67",
+        "Weight": "150"
+      },
+      {
+        "LegacyAssetId": "70",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "66",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "64",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "42",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "69",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "57026",
+        "Weight": "27"
+      },
+      {
+        "LegacyAssetId": "63",
+        "Weight": "25"
+      },
+      {
+        "LegacyAssetId": "71",
+        "Weight": "25"
+      },
+      {
+        "LegacyAssetId": "72",
+        "Weight": "25"
+      },
+      {
+        "LegacyAssetId": "41",
+        "Weight": "25"
+      }
+    ]
+  },
+  "translation": null
+}

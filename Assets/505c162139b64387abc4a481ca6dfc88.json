@@ -1,0 +1,13 @@
+{
+  "name": "PS_Checkout_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Checkout_1/PS_Checkout_1.dat",
+  "data": {
+    "GUID": "505c162139b64387abc4a481ca6dfc88",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59643"
+  },
+  "translation": {
+    "Name": "PS Checkout #2"
+  }
+}

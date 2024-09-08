@@ -1,0 +1,14 @@
+{
+  "name": "Chef_Cuisine_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Cafeteria_Chef_Omega/Chef_Cuisine_Accepted/Asset.dat",
+  "data": {
+    "GUID": "49e73aeadfff4a28937a07147e2da8b6",
+    "Type": "Dialogue",
+    "ID": "3426",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Needed? No. But it is your turn to make the meals. Looks like the food menu is Pizza, Grilled Cheeses, and Cooked Salmon <pause>... That is a horrid flavor combination, I'm going to have to talk to <color=rare>Symeon</color> about his menu choices!"
+  }
+}

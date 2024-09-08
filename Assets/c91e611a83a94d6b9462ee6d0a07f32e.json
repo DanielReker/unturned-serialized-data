@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Tower_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Tower_0/Metro_Tower_0.dat",
+  "data": {
+    "GUID": "c91e611a83a94d6b9462ee6d0a07f32e",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57028",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Tower #1"
+  }
+}

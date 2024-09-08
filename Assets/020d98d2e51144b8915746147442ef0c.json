@@ -1,0 +1,25 @@
+{
+  "name": "Kuwait_Bran",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Food/Kuwait_Bran/Kuwait_Bran.dat",
+  "data": {
+    "GUID": "020d98d2e51144b8915746147442ef0c",
+    "Type": "Food",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "5273",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Food": "45",
+    "Health": "5",
+    "Quality_Min": "50",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Experience",
+    "Quest_Reward_0_Value": "25",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Bran Cereal",
+    "Description": "Braniacs' bran cereal, chock full of vitamins, minerals, and potentially asbestos. <br><color=#BF1F1F>+5 HP</color>, <color=#AB8019>+45 Food</color><br><color=#FF69B4>+25 Experience</color><br>"
+  }
+}

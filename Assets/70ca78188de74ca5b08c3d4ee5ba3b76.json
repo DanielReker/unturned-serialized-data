@@ -1,0 +1,23 @@
+{
+  "name": "Guard_Lookout_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Guard_Lookout_0/Asset.dat",
+  "data": {
+    "GUID": "70ca78188de74ca5b08c3d4ee5ba3b76",
+    "Type": "NPC",
+    "ID": "2012",
+    "Backpack": "245",
+    "Shirt": "1462",
+    "Pants": "1463",
+    "Face": "25",
+    "Hair": "16",
+    "Color_Skin": "#bea582",
+    "Color_Hair": "#73644f",
+    "Tertiary": "333",
+    "Equipped": "Tertiary",
+    "Dialogue": "2014"
+  },
+  "translation": {
+    "Name": "Coastguard Lookout Carl",
+    "Character": "<color=uncommon>Ensign Carl</color>"
+  }
+}

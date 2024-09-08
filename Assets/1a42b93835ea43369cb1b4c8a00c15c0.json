@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Construction_Clothes_Hats",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Spawns/Spawns/Frost_Construction_Clothes_Hats/Frost_Construction_Clothes_Hats.dat",
+  "data": {
+    "GUID": "1a42b93835ea43369cb1b4c8a00c15c0",
+    "Type": "Spawn",
+    "ID": "36067",
+    "Tables": "1",
+    "Table_0_Asset_ID": "36169",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

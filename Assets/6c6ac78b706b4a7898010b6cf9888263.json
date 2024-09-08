@@ -1,0 +1,14 @@
+{
+  "name": "Scientist_Andrina_Knowledge_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Military_Science/Scientist_Andrina_Knowledge_Completed/Asset.dat",
+  "data": {
+    "GUID": "6c6ac78b706b4a7898010b6cf9888263",
+    "Type": "Dialogue",
+    "ID": "3614",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yes, all done! Quickly, take this! It will probably stop you from dying..."
+  }
+}

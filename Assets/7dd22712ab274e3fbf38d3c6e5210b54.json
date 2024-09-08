@@ -1,0 +1,15 @@
+{
+  "name": "SpartanOutfit",
+  "path": "Bundles/Items/Outfits/SpartanOutfit.asset",
+  "data": {
+    "GUID": "7dd22712ab274e3fbf38d3c6e5210b54",
+    "Type": "SDG.Unturned.OutfitAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Items": [
+      "490791f8d0dc45068cd67a1de1c6346c",
+      "6a9f87dd06a94c6f9165bc53bca49e92",
+      "ae29b48101c646cf9a28b291ce9bec64",
+      "c528736025a249c88c1368531778c6be"
+    ]
+  },
+  "translation": null
+}

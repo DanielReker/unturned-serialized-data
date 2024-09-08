@@ -1,0 +1,12 @@
+{
+  "name": "Tunnel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Tunnel/Tunnel.dat",
+  "data": {
+    "GUID": "ae5f9ad787ab454a9bce6f384546d5d3",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Tunnel 1"
+  }
+}

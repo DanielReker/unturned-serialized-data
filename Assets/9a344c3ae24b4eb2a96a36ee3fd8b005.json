@@ -1,0 +1,13 @@
+{
+  "name": "PS_Light_Pole_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Light_Pole_0/PS_Light_Pole_0.dat",
+  "data": {
+    "GUID": "9a344c3ae24b4eb2a96a36ee3fd8b005",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59410"
+  },
+  "translation": {
+    "Name": "PS Light Pole #1"
+  }
+}

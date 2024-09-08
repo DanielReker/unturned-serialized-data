@@ -1,0 +1,13 @@
+{
+  "name": "Ex_Grenade",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Bombs/Ex_Grenade/Ex_Grenade.dat",
+  "data": {
+    "GUID": "94c48dc8bb684a0b8ef1dd16be210617",
+    "Type": "Effect",
+    "ID": "25455",
+    "CameraShake_Radius": "16",
+    "CameraShake_MagnitudeDegrees": "30",
+    "Blast": "137"
+  },
+  "translation": null
+}

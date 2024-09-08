@@ -1,0 +1,13 @@
+{
+  "name": "Chariot_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Chariot_1/Chariot_1.dat",
+  "data": {
+    "GUID": "937ce0865a784deb99be03a88cf388bc",
+    "Type": "Medium",
+    "ID": "3538",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Chariot Wheel"
+  }
+}

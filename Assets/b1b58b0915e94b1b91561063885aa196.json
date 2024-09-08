@@ -1,0 +1,11 @@
+{
+  "name": "Water_Static",
+  "path": "Bundles/Effects/Impacts/Water_Static/Water_Static.dat",
+  "data": {
+    "GUID": "b1b58b0915e94b1b91561063885aa196",
+    "Type": "Effect",
+    "ID": "16",
+    "Preload": "2"
+  },
+  "translation": null
+}

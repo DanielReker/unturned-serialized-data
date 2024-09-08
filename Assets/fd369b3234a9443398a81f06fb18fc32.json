@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Taylor_Vend_Comp_A",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Taylor/PBS_Taylor_Vend_Comp_A/Asset.dat",
+  "data": {
+    "GUID": "fd369b3234a9443398a81f06fb18fc32",
+    "Type": "Dialogue",
+    "ID": "52327",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "These will be useful, thanks!"
+  }
+}

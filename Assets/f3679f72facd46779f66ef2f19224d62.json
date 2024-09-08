@@ -1,0 +1,16 @@
+{
+  "name": "GreeceBunker_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceBunker_2/GreeceBunker_2.dat",
+  "data": {
+    "GUID": "f3679f72facd46779f66ef2f19224d62",
+    "Type": "Large",
+    "ID": "6272",
+    "Soft": "",
+    "Snowshoe": "",
+    "Collision_Important": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Bunker #3"
+  }
+}

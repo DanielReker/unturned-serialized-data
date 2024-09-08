@@ -1,0 +1,24 @@
+{
+  "name": "Chips_Sourcream_N_Onion",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Chips_Sourcream_N_Onion/Chips_Sourcream_N_Onion.dat",
+  "data": {
+    "GUID": "54bfeb1dc78f44b898052204d75a46de",
+    "Type": "Food",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "25725",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.45",
+    "Use_Auto_Icon_Measurements": "False",
+    "Left_Handed_Characters_Mirror_Equipable": "false",
+    "Food": "15",
+    "Water": "0",
+    "ConsumeAudioClip": "Sounds/Food/EatCrunchyShort.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Sourcream & Onion Chips",
+    "Description": "Sourcream & onion glorified potato slices."
+  }
+}

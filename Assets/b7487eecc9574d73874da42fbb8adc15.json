@@ -1,0 +1,22 @@
+{
+  "name": "GlassbreakZombie",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Masks/GlassbreakZombie/GlassbreakZombie.dat",
+  "data": {
+    "GUID": "b7487eecc9574d73874da42fbb8adc15",
+    "Type": "Mask",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "51173",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Destroy_Clothing_Colliders": "false",
+    "Proof_Radiation": "",
+    "Hair": "",
+    "Beard": ""
+  },
+  "translation": {
+    "Name": "Zombie Glass Breaker",
+    "Description": "if you got this without cheats dug is an idiot!"
+  }
+}

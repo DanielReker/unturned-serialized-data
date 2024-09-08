@@ -1,0 +1,12 @@
+{
+  "name": "Elver_Enchanted",
+  "path": "Bundles/Mythics/Elver_Enchanted/Elver_Enchanted.dat",
+  "data": {
+    "GUID": "5a92ed90f2d7415ca45566f02ac0bc12",
+    "Type": "Mythic",
+    "ID": "36"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Enchanted"
+  }
+}

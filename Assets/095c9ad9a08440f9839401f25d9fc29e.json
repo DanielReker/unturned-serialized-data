@@ -1,0 +1,17 @@
+{
+  "name": "Dango_DragonHorns",
+  "path": "Bundles/Items/Dango/Dango_DragonHorns/Dango_DragonHorns.dat",
+  "data": {
+    "GUID": "095c9ad9a08440f9839401f25d9fc29e",
+    "Type": "Glasses",
+    "ID": "907",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Hair": "",
+    "Beard": "",
+    "Pro": "",
+    "Ignore_NPOT": ""
+  },
+  "translation": null
+}

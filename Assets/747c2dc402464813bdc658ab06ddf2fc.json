@@ -1,0 +1,17 @@
+{
+  "name": "Buak_LAB_Door_Elevator",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_LAB/Buak_LAB_Door_Elevator/Buak_LAB_Door_Elevator.dat",
+  "data": {
+    "GUID": "747c2dc402464813bdc658ab06ddf2fc",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Interactability": "Binary_State",
+    "Interactability_Delay": "3",
+    "Interactability_Reset": "10"
+  },
+  "translation": {
+    "Name": "Buak_LAB_Door_Elevator"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "GreekBarn_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreekBarn_0/GreekBarn_0.dat",
+  "data": {
+    "GUID": "a1f3a7ba7e2340d5ba7d4af309f5dead",
+    "Type": "Large",
+    "ID": "3511",
+    "Collision_Important": "",
+    "Asset_Bundle_Version": "2",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "16",
+    "LOD_Size_Z": "-32",
+    "Material_Palette": "d5b6e29cfddd4859abb5761ee7477fef"
+  },
+  "translation": {
+    "Name": "Greece Barn #1"
+  }
+}

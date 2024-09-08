@@ -1,0 +1,15 @@
+{
+  "name": "Ragdoll_Effect_SoulCrystal_Red",
+  "path": "Bundles/Items/Keys/Ragdoll_Effect_SoulCrystal_Red/Ragdoll_Effect_SoulCrystal_Red.dat",
+  "data": {
+    "GUID": "e323a7b2a7364a7b9473d125149957f2",
+    "Type": "Key",
+    "ID": "1871",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.06",
+    "Exchange_With_Target_Item": "",
+    "Pro": ""
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Construction_0",
+  "path": "Bundles/Objects/Large/Buildings/Construction_0/Construction_0.dat",
+  "data": {
+    "GUID": "9daa71d37d9b4b5b9b2e5d969ae51252",
+    "Type": "Large",
+    "ID": "251",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Construction #1"
+  }
+}

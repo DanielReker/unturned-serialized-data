@@ -1,0 +1,35 @@
+{
+  "name": "Metal_Doubledoor_Metal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Overrides_Barricades_Metal/Metal_Doubledoor_Metal/Metal_Doubledoor_Metal.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "5b7e7a82f19a4b2383d3d661cd2637b2",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Gate",
+    "ID": "57508",
+    "Size_Y": "2",
+    "Size_Z": "0.64",
+    "Health": "900",
+    "Range": "4",
+    "Radius": "1.5",
+    "Offset": "1.25",
+    "Locked": "",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "67",
+    "Blueprint_0_Supply_0_Amount": "7",
+    "Blueprint_0_Build": "27",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/Doubledoor_Metal",
+    "PlacementAudioClip": "Sounds/MetalPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Metal Doubledoor",
+    "Description": "<color=#64c819>900</color> Health<br><color=#64c819>Locked</color><br><color=#fa3219>Cannot</color> be Crystalized"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PBS_EdwardHair",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_EdwardHair/Asset.dat",
+  "data": {
+    "GUID": "1072116fc7064bf7bd6baa3503154d7a",
+    "Type": "NPC",
+    "ID": "52485",
+    "Shirt": "d7821a6f4efa49ce9b6a906827ae119f",
+    "Pants": "b51c7ec18a004fe898ffae452b1c95f3",
+    "Face": "13",
+    "Hair": "21",
+    "Beard": "9",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#352C22",
+    "Dialogue": "52481",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Quest",
+    "Condition_0_ID": "52484",
+    "Condition_0_Status": "Completed",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS NPC EdwardHair",
+    "Character": "Edward"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Drop_BoxPartsSemi",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/BarricadeDestroy/Drop_BoxPartsSemi/Drop_BoxPartsSemi.dat",
+  "data": {
+    "GUID": "a02d60ee955d4c858b8643852f0dfe4b",
+    "Type": "Spawn",
+    "ID": "51334",
+    "Tables": [
+      {
+        "Guid": "cc68517accce4c099c70583fe18f93d7",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

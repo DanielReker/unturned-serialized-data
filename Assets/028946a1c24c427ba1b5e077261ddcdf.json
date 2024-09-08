@@ -1,0 +1,18 @@
+{
+  "name": "Oscar_Flag_Axel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Prisoner Oscar/Oscar_Flag_Axel/Asset.dat",
+  "data": {
+    "GUID": "028946a1c24c427ba1b5e077261ddcdf",
+    "Type": "Dialogue",
+    "ID": "9161",
+    "Messages": "1",
+    "Message_0_Pages": "3",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Wait really!? Thanks for letting me know!",
+    "Message_0_Page_1": "I will have to inform Lukas as well!",
+    "Message_0_Page_2": "Finally we're getting out of here!",
+    "Response_0": "I hope it all goes well!"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "BarbedWire",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/BarbedWire/BarbedWire.dat",
+  "data": {
+    "GUID": "f737ba200b084381932c2aaca28dcddf",
+    "Type": "Trap",
+    "Rarity": "Uncommon",
+    "Useable": "Barricade",
+    "Build": "Wire",
+    "ID": "51655",
+    "SalvageItem": "f737ba200b084381932c2aaca28dcddf",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Health": "100",
+    "Range": "4",
+    "Radius": "0.15",
+    "Offset": "0.2",
+    "Player_Damage": "30",
+    "Zombie_Damage": "80",
+    "Animal_Damage": "80",
+    "Explosion": "36",
+    "Vulnerable": "",
+    "Unrepairable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supply_0_ID": "51018",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Barbed Wire",
+    "Description": "Pointy and sharp wire."
+  }
+}

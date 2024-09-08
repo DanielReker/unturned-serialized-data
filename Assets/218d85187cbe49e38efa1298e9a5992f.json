@@ -1,0 +1,13 @@
+{
+  "name": "Coastguard_Bouncer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Vehicles/Coastguard_Bouncer/Coastguard_Bouncer.dat",
+  "data": {
+    "GUID": "218d85187cbe49e38efa1298e9a5992f",
+    "Type": "Spawn",
+    "ID": "816",
+    "Tables": "1",
+    "Table_0_Asset_ID": "808",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

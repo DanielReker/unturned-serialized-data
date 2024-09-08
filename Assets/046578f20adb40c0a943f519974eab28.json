@@ -1,0 +1,32 @@
+{
+  "name": "Metro_Firefighter",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Firefighter/Metro_Firefighter.dat",
+  "data": {
+    "GUID": "046578f20adb40c0a943f519974eab28",
+    "Type": "Spawn",
+    "ID": "57078",
+    "Tables": [
+      {
+        "LegacySpawnId": "57039",
+        "Weight": "6500"
+      },
+      {
+        "LegacySpawnId": "57079",
+        "Weight": "3000"
+      },
+      {
+        "LegacyAssetId": "57336",
+        "Weight": "500"
+      },
+      {
+        "LegacyAssetId": "57033",
+        "Weight": "14"
+      },
+      {
+        "LegacyAssetId": "57617",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

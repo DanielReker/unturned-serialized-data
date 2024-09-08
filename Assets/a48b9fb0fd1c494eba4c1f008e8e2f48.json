@@ -1,0 +1,23 @@
+{
+  "name": "Omega_Barracks_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Barracks_0/Asset.dat",
+  "data": {
+    "GUID": "a48b9fb0fd1c494eba4c1f008e8e2f48",
+    "Type": "NPC",
+    "ID": "3616",
+    "Shirt": "3533",
+    "Pants": "3525",
+    "Face": "20",
+    "Hair": "3",
+    "Beard": "9",
+    "Color_Skin": "#534736",
+    "Color_Hair": "#473928",
+    "Backward": "",
+    "Pose": "Rest",
+    "Dialogue": "3315"
+  },
+  "translation": {
+    "Name": "Greek Omega Barracks Moe",
+    "Character": "<color=uncommon>Cadet Moe</color>"
+  }
+}

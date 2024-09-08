@@ -1,0 +1,25 @@
+{
+  "name": "Metro_Compass",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Military/Metro_Compass/Metro_Compass.dat",
+  "data": {
+    "GUID": "d03cebef304a4f13a100d44a79b2f82f",
+    "Type": "Compass",
+    "Rarity": "Rare",
+    "ID": "57342",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.29",
+    "Enables_Compass": "",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Maps/Compass",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supply_0_ID": "57342",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Compass",
+    "Description": ""
+  }
+}

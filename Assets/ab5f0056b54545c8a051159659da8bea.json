@@ -1,0 +1,11 @@
+{
+  "name": "Target_On",
+  "path": "Bundles/Effects/General/Target_On/Target_On.dat",
+  "data": {
+    "GUID": "ab5f0056b54545c8a051159659da8bea",
+    "Type": "Effect",
+    "ID": "92",
+    "Static": ""
+  },
+  "translation": null
+}

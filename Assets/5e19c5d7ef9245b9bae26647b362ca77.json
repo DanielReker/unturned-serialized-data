@@ -1,0 +1,14 @@
+{
+  "name": "PBS_EOD_Radio_Acc_Visit",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_EOD_Radio/PBS_EOD_Radio_Acc_Visit/Asset.dat",
+  "data": {
+    "GUID": "5e19c5d7ef9245b9bae26647b362ca77",
+    "Type": "Dialogue",
+    "ID": "52589",
+    "Messages": "2",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Time to pack my stuff and meet some new people for once."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Elver2_Nerd_Glasses",
+  "path": "Bundles/Items/Elver2/Elver2_Nerd_Glasses/Elver2_Nerd_Glasses.dat",
+  "data": {
+    "GUID": "832871ba045c4f66b271e37741175d17",
+    "Type": "Glasses",
+    "Useable": "Clothing",
+    "ID": "1610",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Hair": "",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

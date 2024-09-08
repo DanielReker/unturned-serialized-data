@@ -1,0 +1,15 @@
+{
+  "name": "Buak_LOLCATZ_Grass",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Stores/Buak_LOLCATZ_Grass/Buak_LOLCATZ_Grass.dat",
+  "data": {
+    "GUID": "7e417e4518b047358a7710d0963f452a",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Landmark_Quality": "Off",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_LOLCATZ_Grass"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PEI_Booty",
+  "path": "Bundles/Spawns/Items/PEI_Booty/PEI_Booty.dat",
+  "data": {
+    "GUID": "d1ef9854551545ffa15243b1dbda6300",
+    "Type": "Spawn",
+    "ID": "293",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "294",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

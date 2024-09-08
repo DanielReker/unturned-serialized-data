@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Aramid",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Aramid/Drop_Aramid.dat",
+  "data": {
+    "GUID": "bd364e0c77a9430aac5497138518de44",
+    "Type": "Spawn",
+    "ID": "25521",
+    "Tables": [
+      {
+        "Guid": "6c98d5beb8b649a6976cd62f23615e0c",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

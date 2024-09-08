@@ -1,0 +1,12 @@
+{
+  "name": "CA_Billboard_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Props/CA_Billboard_2/CA_Billboard_2.dat",
+  "data": {
+    "GUID": "5f21d0e554aa44c2a6b2738cd72ece31",
+    "Type": "Medium",
+    "ID": "4631"
+  },
+  "translation": {
+    "Name": "California Billboard #3"
+  }
+}

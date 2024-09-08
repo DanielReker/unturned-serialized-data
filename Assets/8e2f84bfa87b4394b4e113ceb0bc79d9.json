@@ -1,0 +1,24 @@
+{
+  "name": "Frost_Boat_01_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Boat_01/Frost_Boat_01_Welcome/Asset.dat",
+  "data": {
+    "GUID": "8e2f84bfa87b4394b4e113ceb0bc79d9",
+    "Type": "Dialogue",
+    "ID": "36003",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Teleport",
+    "Response_0_Reward_0_Spawnpoint": "Boat1",
+    "Response_1_Rewards": "1",
+    "Response_1_Reward_0_Type": "Teleport",
+    "Response_1_Reward_0_Spawnpoint": "Boat2"
+  },
+  "translation": {
+    "Message_0_Page_0": "There is no more food on this boat. I am going to die.",
+    "Response_0": "Take me to the north.",
+    "Response_1": "Take me to the south.",
+    "Response_2": "Thanks!"
+  }
+}

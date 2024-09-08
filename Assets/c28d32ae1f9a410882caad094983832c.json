@@ -1,0 +1,18 @@
+{
+  "name": "MetroCurrency_Arrows",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Assets/MetroCurrency_Arrows.asset",
+  "data": {
+    "GUID": "c28d32ae1f9a410882caad094983832c",
+    "Type": "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ValueFormat": "{0:N0}x Grenade",
+    "Entries": [
+      {
+        "Item": {
+          "GUID": "c1fc412837634a229903e6a397dd1d78"
+        },
+        "Value": "1"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Omega_Civillian_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Civillian_7/Asset.dat",
+  "data": {
+    "GUID": "848970b7a2b0455bb0949315ad5c9ca5",
+    "Type": "NPC",
+    "ID": "3637",
+    "Shirt": "770",
+    "Pants": "1172",
+    "Glasses": "502",
+    "Face": "24",
+    "Hair": "15",
+    "Beard": "0",
+    "Color_Skin": "#706049",
+    "Color_Hair": "#191919",
+    "Dialogue": "3373"
+  },
+  "translation": {
+    "Name": "Greek Omega Civillian Pamela",
+    "Character": "Pamela"
+  }
+}

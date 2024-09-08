@@ -1,0 +1,29 @@
+{
+  "name": "Greece_Grass",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Terrain/Foliage/Greece_Grass.asset",
+  "data": {
+    "GUID": "b8edb818e1804c8c8e1d883e7b6eeaf1",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "7cbfaf43dadd4b9a995e712833fe35b6"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "1c9a489a5d3a40009bf4043932549da9"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "b0df3bfe752d4151a6b562cb9d173de5"
+        },
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

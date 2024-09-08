@@ -1,0 +1,15 @@
+{
+  "name": "Janitor_Chemicals_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Janitor/Janitor_Chemicals_Completed/Asset.dat",
+  "data": {
+    "GUID": "3a4a69af7030461a89b70f90896160fb",
+    "Type": "Dialogue",
+    "ID": "3202",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "3198"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ah, just what I wanted. You've got knack for this!"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sailor Isaias",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Guards/Sailor Isaias/Asset.dat",
+  "data": {
+    "GUID": "d85b395f5bbb4358a2b77f42c6131867",
+    "Type": "NPC",
+    "ID": "9020",
+    "Shirt": "8036",
+    "Pants": "8033",
+    "Glasses": "727",
+    "Face": "1",
+    "Hair": "5",
+    "Color_Skin": "#CA9785",
+    "Color_Hair": "#31231e",
+    "Primary": "8019",
+    "Equipped": "Primary",
+    "Pose": "Stand",
+    "Dialogue": "9202"
+  },
+  "translation": {
+    "Name": "NAM Sailor Isaias",
+    "Character": "<color=uncommon>Sailor Isaías</color>"
+  }
+}

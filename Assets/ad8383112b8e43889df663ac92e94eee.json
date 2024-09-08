@@ -1,0 +1,24 @@
+{
+  "name": "PBS_EOD_Quest_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Quests/PBS_EOD_Quest_3/Asset.dat",
+  "data": {
+    "GUID": "ad8383112b8e43889df663ac92e94eee",
+    "Type": "Quest",
+    "ID": "52581",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "52582",
+    "Condition_0_Value": "3",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "5"
+  },
+  "translation": {
+    "Name": "<color=epic>EOD: Information Incineration</color>",
+    "Description": "We have a number of classified documents that weren't properly disposed of - important documents detailing weapon caches, troop movements, and the like.  If this information falls into the hands of the wrong people, it could cause serious damage.  You'll need to burn these documents up - a blowtorch will be needed.",
+    "Condition_0": "Burn Classified Documents {0}/{1}"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PEI_Otter",
+  "path": "Bundles/Spawns/Vehicles/PEI_Otter/PEI_Otter.dat",
+  "data": {
+    "GUID": "053153128a514862822dea2c3756a01c",
+    "Type": "Spawn",
+    "ID": "321",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "322",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

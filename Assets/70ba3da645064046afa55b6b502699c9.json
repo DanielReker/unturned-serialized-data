@@ -1,0 +1,38 @@
+{
+  "name": "P9R_Soda",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Drinks/P9R_Soda/P9R_Soda.dat",
+  "data": {
+    "GUID": "70ba3da645064046afa55b6b502699c9",
+    "Type": "Water",
+    "Rarity": "Legendary",
+    "Useable": "Consumeable",
+    "ID": "51071",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Water": "40",
+    "Energy": "50",
+    "Health": "100",
+    "Use_Auto_Stat_Descriptions": "false",
+    "Quest_Rewards": "2",
+    "Quest_Reward_0_Type": "Rewards_List_Asset",
+    "Quest_Reward_0_GUID": "dc71be756f984f68adb51b5e8cb887bc",
+    "Quest_Reward_1_Type": "Rewards_List_Asset",
+    "Quest_Reward_1_GUID": "ace1cfed5da3410da2f61cd0d5a6a396",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "51416",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Purify ▲",
+    "Action_0_Tooltip": "Purify to remove impurities."
+  },
+  "translation": {
+    "Name": "PENINE Cranberry",
+    "Description": "Water saturated with syrup and carbonated.<br><color=#bf1c1c>100 Health</color> | <color=#3298c8>40 Water</color> | <color=#dcb416>50 Energy</color><br><color=#dcb416>15 Seconds Energy</color>"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Nicole_Comp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Nicole/PBS_Nicole_Comp/Asset.dat",
+  "data": {
+    "GUID": "4310a96368cf4a80a88dc75ab8c23c56",
+    "Type": "Dialogue",
+    "ID": "52453",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Great work!  Hmm, let me see.<pause>.<pause>.<pause>  It looks like the chemicals from all that industry up north might be making all the trees incombustible.  Though, it seems when tempered with metal it can provide light still.  Not sure what could be done about it, unfortunately.  Maybe there are other places to acquire fire?"
+  }
+}

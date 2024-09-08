@@ -1,0 +1,13 @@
+{
+  "name": "BE Mechanic #1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Mechanic #1/BE Mechanic #1.dat",
+  "data": {
+    "GUID": "70ec9941541f4bc791a49dde88b96535",
+    "Type": "Large",
+    "ID": "9033",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Mechanic #1"
+  }
+}

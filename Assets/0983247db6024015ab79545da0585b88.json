@@ -1,0 +1,36 @@
+{
+  "name": "Militia_Guns",
+  "path": "Bundles/Spawns/Items/Militia_Guns/Militia_Guns.dat",
+  "data": {
+    "GUID": "0983247db6024015ab79545da0585b88",
+    "Type": "Spawn",
+    "ID": "229",
+    "Tables": [
+      {
+        "LegacyAssetId": "122",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "1039",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "1041",
+        "Weight": "10"
+      },
+      {
+        "Guid": "b007c73f4a23448bbe2d828240eae17d",
+        "Weight": "5"
+      },
+      {
+        "Guid": "90b25d37520b4330a452e36e82a41023",
+        "Weight": "5"
+      },
+      {
+        "Guid": "ac73fb1922374ef18a8e7c04d1403ba3",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Metro_Lights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Christmas/Metro_Lights/Metro_Lights.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "b405908900dd4a9187ff178638639d3f",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Useable": "Barricade",
+    "Build": "Torch",
+    "ID": "57709",
+    "Size_X": "2",
+    "Health": "50",
+    "Range": "4",
+    "Offset": "0.3",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Lights",
+    "Description": "<color=#64c819>50</color> Health"
+  }
+}

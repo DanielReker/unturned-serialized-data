@@ -1,0 +1,17 @@
+{
+  "name": "Armory_Omega_Incorrect",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Armory/Armory_Omega_Incorrect/Asset.dat",
+  "data": {
+    "GUID": "5246f2bfd1404d8184b6997d2432c71d",
+    "Type": "Dialogue",
+    "ID": "3024",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "3023"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ah, a clown I see. Let me remind you that this is a civillized socitey. Please fill it out properly this time.",
+    "Response_0": "Sorry. Let me correct that."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "France_Civilian_France",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/France_Civilian_France/France_Civilian_France.dat",
+  "data": {
+    "GUID": "0f06958e8569464eacb3940e44101278",
+    "Type": "Spawn",
+    "ID": "2065",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "2058",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Metro_Sight_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Ranger/Metro_Sight_1/Metro_Sight_1.dat",
+  "data": {
+    "GUID": "19f769d8d5734cef9cfe6aa413df104e",
+    "Type": "Sight",
+    "Rarity": "Epic",
+    "ID": "57144",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.125",
+    "Holographic": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "57144",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "67",
+    "Blueprint_0_Output_0_Amount": "2",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Holographic Sight",
+    "Description": ""
+  }
+}

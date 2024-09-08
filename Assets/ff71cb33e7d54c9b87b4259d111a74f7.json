@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_XMAS_Lights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Small/Furniture/Kuwait_XMAS_Lights/Kuwait_XMAS_Lights.dat",
+  "data": {
+    "GUID": "ff71cb33e7d54c9b87b4259d111a74f7",
+    "Type": "Small",
+    "ID": "1",
+    "Holiday_Restriction": "CHRISTMAS",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Kuwait Lights"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Unknown_Patient_2_End",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Unknown Patient 2/Unknown_Patient_2_End/Asset.dat",
+  "data": {
+    "GUID": "c59a14a445c444a58922839fe45839b2",
+    "Type": "Dialogue",
+    "ID": "9142",
+    "Messages": "1",
+    "Message_0_Pages": "3",
+    "Responses": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yes! Just get me out of here!",
+    "Message_0_Page_1": "Save me and the others!",
+    "Message_0_Page_2": "PLEASE...",
+    "Response_0": "I will find a way to help you.",
+    "Response_1": "There's nothing I can do."
+  }
+}

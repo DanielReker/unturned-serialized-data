@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Graffiti_18",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Small/Graffiti/Metro_Graffiti_18/Metro_Graffiti_18.dat",
+  "data": {
+    "GUID": "7c7dfab90e9a4c2ea955f6b44b21e0f7",
+    "Type": "Small",
+    "ID": "57000",
+    "Exclude_From_Master_Bundle": "",
+    "Asset_Bundle_Version": "5"
+  },
+  "translation": {
+    "Name": "Metro Graffiti #19"
+  }
+}

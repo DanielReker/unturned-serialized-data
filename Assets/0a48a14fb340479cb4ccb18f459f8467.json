@@ -1,0 +1,20 @@
+{
+  "name": "PS_Exit_Door_19",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Exit_Door_19/PS_Exit_Door_19.dat",
+  "data": {
+    "GUID": "0a48a14fb340479cb4ccb18f459f8467",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59979",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/PS_Exit_Door_00",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "AG18_5"
+  },
+  "translation": {
+    "Name": "PS Exit Door #20 [AG19 to AG18]",
+    "Interact": "Proceed to AG18 [{0}]"
+  }
+}

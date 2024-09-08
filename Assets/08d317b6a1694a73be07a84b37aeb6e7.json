@@ -1,0 +1,13 @@
+{
+  "name": "GlassBulletproof",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/GlassBulletproof/GlassBulletproof.dat",
+  "data": {
+    "GUID": "08d317b6a1694a73be07a84b37aeb6e7",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Glass Bulletproof"
+  }
+}

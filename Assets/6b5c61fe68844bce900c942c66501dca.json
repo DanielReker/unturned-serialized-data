@@ -1,0 +1,13 @@
+{
+  "name": "Yukon_Fire",
+  "path": "Bundles/Spawns/Vehicles/Yukon_Fire/Yukon_Fire.dat",
+  "data": {
+    "GUID": "6b5c61fe68844bce900c942c66501dca",
+    "Type": "Spawn",
+    "ID": "503",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "305",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Cultist_Hat",
+  "path": "Bundles/Items/Outfits/Cultist/Cultist_Hat/Cultist_Hat.dat",
+  "data": {
+    "GUID": "ee4875dccad54901bd066bb4033c7335",
+    "Type": "Hat",
+    "ID": "1766",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

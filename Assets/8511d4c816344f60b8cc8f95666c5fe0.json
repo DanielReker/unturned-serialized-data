@@ -1,0 +1,35 @@
+{
+  "name": "Rio_Train_Corcovado",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Vehicles/Rio_Train_Corcovado/Rio_Train_Corcovado.dat",
+  "data": {
+    "GUID": "8511d4c816344f60b8cc8f95666c5fe0",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "ID": "4430",
+    "Speed_Min": "-32",
+    "Speed_Max": "32",
+    "Fuel": "2000",
+    "Health_Min": "10000",
+    "Health_Max": "10000",
+    "Health": "10000",
+    "Exit": "3",
+    "Cam_Follow_Distance": "7",
+    "Engine": "Train",
+    "Train_Track_Offset": "1.3",
+    "Train_Wheel_Offset": "2",
+    "Train_Car_Length": "8",
+    "Pitch_Idle": "0.625",
+    "Pitch_Drive": "0.01",
+    "Supports_Mobile_Buildables": "",
+    "Trunk_Storage_X": "6",
+    "Trunk_Storage_Y": "5",
+    "Explosion": "20",
+    "Invulnerable": "",
+    "Explosions_Invulnerable": "",
+    "Environment_Invulnerable": "",
+    "Bumper_Invulnerable": ""
+  },
+  "translation": {
+    "Name": "Tourist Tram"
+  }
+}

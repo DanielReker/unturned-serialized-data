@@ -1,0 +1,21 @@
+{
+  "name": "Search_And_Destroy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/Music/Search_And_Destroy/Search_And_Destroy.asset",
+  "data": {
+    "GUID": "8d472e0c19a4435ebb528cdc88436057",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Title": {
+      "Namespace": "SDG",
+      "Token": "Stereo_Songs.SearrchAndDestroy.Title"
+    },
+    "Song": {
+      "MasterBundle": "arid_music.masterbundle",
+      "AssetPath": "Search_And_Destroy/Search And Destroy.wav"
+    },
+    "Link_URL": "https://www.youtube.com/c/staswalle"
+  },
+  "translation": {
+    "Name": "Staswalle - Search And Destroy"
+  }
+}

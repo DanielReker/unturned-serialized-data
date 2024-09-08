@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Roundabout",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Roundabout/Buak_Roundabout.dat",
+  "data": {
+    "GUID": "46474f897db44afa96ae234847f3b3f6",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Roundabout"
+  }
+}

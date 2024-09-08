@@ -1,0 +1,17 @@
+{
+  "name": "Buak_Bar_Apple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Bar_Apple/Buak_Bar_Apple.dat",
+  "data": {
+    "GUID": "390b23da2dc94060a50ccbb229880c76",
+    "Type": "Spawn",
+    "ID": "25384",
+    "Tables": "3",
+    "Table_0_Asset_ID": "25680",
+    "Table_0_Weight": "1000",
+    "Table_1_Asset_ID": "25419",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "25429",
+    "Table_2_Weight": "1"
+  },
+  "translation": null
+}

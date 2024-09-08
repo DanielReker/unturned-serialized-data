@@ -1,0 +1,16 @@
+{
+  "name": "Drop_FabricStack",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/BarricadeDestroy/Drop_FabricStack/Drop_FabricStack.dat",
+  "data": {
+    "GUID": "bcc3e82cee3242ec9690610bf7058042",
+    "Type": "Spawn",
+    "ID": "51326",
+    "Tables": [
+      {
+        "Guid": "a7a6924437344891a7a98dc926463150",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

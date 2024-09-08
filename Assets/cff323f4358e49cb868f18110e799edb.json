@@ -1,0 +1,30 @@
+{
+  "name": "PS_Trader_12_Barter_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_12_Dialogue/PS_Trader_12_Barter_6/Asset.dat",
+  "data": {
+    "GUID": "cff323f4358e49cb868f18110e799edb",
+    "Type": "Quest",
+    "ID": "59536",
+    "Conditions": "3",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59505",
+    "Condition_0_Amount": "5",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "60003",
+    "Condition_1_Amount": "1",
+    "Condition_1_Reset": "",
+    "Condition_2_Type": "Item",
+    "Condition_2_ID": "59937",
+    "Condition_2_Amount": "1",
+    "Condition_2_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Vehicle",
+    "Reward_0_ID": "59044",
+    "Reward_0_Spawnpoint": "Safezone_Plane"
+  },
+  "translation": {
+    "Name": "Barter - IL-2 - Safezone",
+    "Description": "Exchange of goods."
+  }
+}

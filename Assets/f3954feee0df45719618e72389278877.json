@@ -1,0 +1,17 @@
+{
+  "name": "PS_Boulder_15",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Boulder_15/PS_Boulder_15.dat",
+  "data": {
+    "GUID": "f3954feee0df45719618e72389278877",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60101",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Material_Palette": "12462313f3564243861a841ca2d5b56d"
+  },
+  "translation": {
+    "Name": "PS Boulder #16 [Ore]"
+  }
+}

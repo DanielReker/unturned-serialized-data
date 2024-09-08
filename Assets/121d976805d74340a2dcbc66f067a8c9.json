@@ -1,0 +1,24 @@
+{
+  "name": "Easter_Maple_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Resources/Easter_Maple_0/Easter_Maple_0.dat",
+  "data": {
+    "GUID": "121d976805d74340a2dcbc66f067a8c9",
+    "Type": "Resource",
+    "ID": "6613",
+    "Health": "1000",
+    "Radius": "4",
+    "Scale": "0.3",
+    "Explosion": "6605",
+    "Reward_ID": "516",
+    "Reward_XP": "5",
+    "Reward_Min": "6",
+    "Reward_Max": "9",
+    "Reset": "450",
+    "Auto_Skybox": "",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Easter Maple #1"
+  }
+}

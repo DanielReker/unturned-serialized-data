@@ -1,0 +1,18 @@
+{
+  "name": "Easter_Research_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Buildings/Easter_Research_3/Easter_Research_3.dat",
+  "data": {
+    "GUID": "e8c49ce395424299b33a0ebebaeed9b3",
+    "Type": "Large",
+    "ID": "6769",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Research #4"
+  }
+}

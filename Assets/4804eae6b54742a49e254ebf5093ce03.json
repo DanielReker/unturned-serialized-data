@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Garage_Door_8m",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Garage_Door_8m/Buak_Garage_Door_8m.dat",
+  "data": {
+    "GUID": "4804eae6b54742a49e254ebf5093ce03",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Garage_Door_8m"
+  }
+}

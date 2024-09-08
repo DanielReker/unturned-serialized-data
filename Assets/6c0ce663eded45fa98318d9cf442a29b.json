@@ -1,0 +1,12 @@
+{
+  "name": "IR_Fence_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/City/IR_Fence_2/IR_Fence_2.dat",
+  "data": {
+    "GUID": "6c0ce663eded45fa98318d9cf442a29b",
+    "Type": "Medium",
+    "ID": "17034"
+  },
+  "translation": {
+    "Name": "Irish Fence#2"
+  }
+}

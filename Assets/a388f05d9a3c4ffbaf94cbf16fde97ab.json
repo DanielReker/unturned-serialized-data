@@ -1,0 +1,13 @@
+{
+  "name": "Banjo_Framed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Small/Banjo_Framed/Banjo_Framed.dat",
+  "data": {
+    "GUID": "a388f05d9a3c4ffbaf94cbf16fde97ab",
+    "Type": "Small",
+    "ID": "7302",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Banjo Memorial #2"
+  }
+}

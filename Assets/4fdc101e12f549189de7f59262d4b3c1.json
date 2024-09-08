@@ -1,0 +1,15 @@
+{
+  "name": "PS_Mines_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Mines_0/PS_Mines_0.dat",
+  "data": {
+    "GUID": "4fdc101e12f549189de7f59262d4b3c1",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60045",
+    "Material_Palette": "12462313f3564243861a841ca2d5b56d",
+    "Causes_Fall_Damage": "False"
+  },
+  "translation": {
+    "Name": "PS Mines #1"
+  }
+}

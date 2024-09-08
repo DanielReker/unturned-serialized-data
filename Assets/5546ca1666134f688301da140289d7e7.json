@@ -1,0 +1,30 @@
+{
+  "name": "Metro_Grip_Hori_Gray",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Ranger/Metro_Grip_Hori_Gray/Metro_Grip_Hori_Gray.dat",
+  "data": {
+    "GUID": "5546ca1666134f688301da140289d7e7",
+    "Type": "Grip",
+    "Rarity": "Epic",
+    "ID": "57142",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.125",
+    "Spread": "0.85",
+    "Recoil_X": "0.925",
+    "Recoil_Y": "0.925",
+    "Sway": "0.9",
+    "Shake": "0.45",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "57142",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "67",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Horizontal Grip",
+    "Description": "<color=#64c819>-7.5%</color> Recoil<br><color=#64c819>-50%</color> Visual Recoil<br><color=#64c819>-15%</color> Spread"
+  }
+}

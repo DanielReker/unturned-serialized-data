@@ -1,0 +1,13 @@
+{
+  "name": "France_Gas",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/France_Gas/France_Gas.dat",
+  "data": {
+    "GUID": "b662b2facb3d4ca2a0cabaa4234b25a2",
+    "Type": "Spawn",
+    "ID": "2029",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "163",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

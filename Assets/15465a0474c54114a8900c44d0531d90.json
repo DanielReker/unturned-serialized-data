@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Head_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Moai/Easter_Head_2/Easter_Head_2.dat",
+  "data": {
+    "GUID": "15465a0474c54114a8900c44d0531d90",
+    "Type": "Large",
+    "ID": "6616",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Snowshoe": "",
+    "Landmark_Quality": "High",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Head #3"
+  }
+}

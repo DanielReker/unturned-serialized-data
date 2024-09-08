@@ -1,0 +1,16 @@
+{
+  "name": "PBS_Aura_Purple_Hole",
+  "path": "Bundles/Items/Masks/PBS_Aura_Purple_Hole/PBS_Aura_Purple_Hole.dat",
+  "data": {
+    "GUID": "7221c89a50ad43248a67ae9456372ae0",
+    "Type": "Mask",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Hair": "",
+    "Beard": "",
+    "Pro": "",
+    "Bundle_Override_Path": "/Items/Masks/MythicPlaceholderMask",
+    "CosmeticPreviewMythicId": "54"
+  },
+  "translation": null
+}

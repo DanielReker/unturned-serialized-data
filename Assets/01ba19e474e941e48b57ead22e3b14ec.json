@@ -1,0 +1,16 @@
+{
+  "name": "PosterHOPE",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PosterHOPE/PosterHOPE.dat",
+  "data": {
+    "GUID": "01ba19e474e941e48b57ead22e3b14ec",
+    "Type": "Spawn",
+    "ID": "51252",
+    "Tables": [
+      {
+        "Guid": "40fdaad3f1b94c0ca7560ea1b4593a2c",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

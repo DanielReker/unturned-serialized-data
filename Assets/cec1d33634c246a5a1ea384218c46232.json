@@ -1,0 +1,13 @@
+{
+  "name": "PS_Radar_Landmark_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Radar_Landmark_2/PS_Radar_Landmark_2.dat",
+  "data": {
+    "GUID": "cec1d33634c246a5a1ea384218c46232",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59205"
+  },
+  "translation": {
+    "Name": "PS Radar Landmark #3"
+  }
+}

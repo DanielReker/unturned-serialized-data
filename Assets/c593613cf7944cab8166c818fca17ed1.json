@@ -1,0 +1,15 @@
+{
+  "name": "CA_Post_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Post_0/CA_Post_0.dat",
+  "data": {
+    "GUID": "c593613cf7944cab8166c818fca17ed1",
+    "Type": "Large",
+    "ID": "4691",
+    "Material_Palette": "3987063d60df43e2ac4ca66fe91880f1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Large/Buildings/Post_0"
+  },
+  "translation": {
+    "Name": "California Post #1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "France_Pocketwatch",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Small/Quests/France_Pocketwatch/France_Pocketwatch.dat",
+  "data": {
+    "GUID": "dbe398baf3c74e3fb86304ba60fde2ab",
+    "Type": "Small",
+    "ID": "35190",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "4120",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "4120",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "France Pocket Watch",
+    "Interact": "Pickup Pocket Watch [{0}]"
+  }
+}

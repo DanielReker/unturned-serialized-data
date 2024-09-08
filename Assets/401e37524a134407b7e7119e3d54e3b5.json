@@ -1,0 +1,13 @@
+{
+  "name": "Radar_1",
+  "path": "Bundles/Objects/Large/Utilities/Radar_1/Radar_1.dat",
+  "data": {
+    "GUID": "401e37524a134407b7e7119e3d54e3b5",
+    "Type": "Large",
+    "ID": "278",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Radar #2"
+  }
+}

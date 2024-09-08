@@ -1,0 +1,41 @@
+{
+  "name": "Metro_Generator_Small",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Overrides_Barricades/Metro_Generator_Small/Metro_Generator_Small.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "56813d050a354969baf0596127bd3bed",
+    "Type": "Generator",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Generator",
+    "ID": "57387",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Health": "150",
+    "Range": "4",
+    "Radius": "0.5",
+    "Offset": "0.75",
+    "Vulnerable": "",
+    "Capacity": "2000",
+    "Wirerange": "16.0",
+    "Burn": "20.0",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supplies": "3",
+    "Blueprint_0_Supply_0_ID": "67",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Supply_1_ID": "285",
+    "Blueprint_0_Supply_1_Amount": "2",
+    "Blueprint_0_Supply_2_ID": "57340 ",
+    "Blueprint_0_Supply_2_Amount": "1",
+    "Blueprint_0_Level": "2",
+    "Blueprint_0_Skill": "Craft",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Small Generator",
+    "Description": "<color=#64c819>2000</color> Fuel Capacity<br><color=#64c819>150</color> Health "
+  }
+}

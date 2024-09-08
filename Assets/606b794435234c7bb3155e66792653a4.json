@@ -1,0 +1,28 @@
+{
+  "name": "Omega_Guard_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Guard_1/Asset.dat",
+  "data": {
+    "GUID": "606b794435234c7bb3155e66792653a4",
+    "Type": "NPC",
+    "ID": "3554",
+    "Shirt": "3527",
+    "Pants": "209",
+    "Mask": "185",
+    "Backpack": "247",
+    "Glasses": "409",
+    "Face": "11",
+    "Hair": "6",
+    "Beard": "9",
+    "Color_Skin": "#94764B",
+    "Color_Hair": "#261919",
+    "Pose": "Crouch",
+    "Primary": "3517",
+    "Secondary": "3515",
+    "Equipped": "Secondary",
+    "Dialogue": "3006"
+  },
+  "translation": {
+    "Name": "Greek Guard Omega Gregory",
+    "Character": "<color=rare>Captain Gregory</color>"
+  }
+}

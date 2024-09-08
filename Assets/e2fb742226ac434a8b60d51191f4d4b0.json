@@ -1,0 +1,14 @@
+{
+  "name": "GreeceBed_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceBed_0/GreeceBed_0.dat",
+  "data": {
+    "GUID": "e2fb742226ac434a8b60d51191f4d4b0",
+    "Type": "Medium",
+    "ID": "6357",
+    "Material_Palette": "e29d98d00f8f494ba4958e05e71b3b6e",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Bed #1"
+  }
+}

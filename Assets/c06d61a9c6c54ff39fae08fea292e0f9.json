@@ -1,0 +1,29 @@
+{
+  "name": "PS_Trader_0_Barter_17",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_0_Dialogue/PS_Trader_0_Barter_17/Asset.dat",
+  "data": {
+    "GUID": "c06d61a9c6c54ff39fae08fea292e0f9",
+    "Type": "Quest",
+    "ID": "59336",
+    "Conditions": "2",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59706",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "60034",
+    "Condition_1_Amount": "1",
+    "Condition_1_Reset": "",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "59320",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "59319",
+    "Reward_1_Amount": "2"
+  },
+  "translation": {
+    "Name": "Barter - WKM 12.7",
+    "Description": "Exchange of goods."
+  }
+}

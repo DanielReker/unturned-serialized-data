@@ -1,0 +1,17 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Owen/Owen_01/Welcome/Asset.dat",
+  "data": {
+    "GUID": "f7600fc3c2274acbba0fa4adef725b89",
+    "Type": "Dialogue",
+    "ID": "24126",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yo! Wazzap?",
+    "Response_0": "Hello!",
+    "Response_1": "Goodbye."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Metro_TP_AreaC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_TP_AreaC/Metro_TP_AreaC.dat",
+  "data": {
+    "GUID": "8fa78fe0fc7b468384be497cae121a55",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "58152",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57144",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "ChurchFinal",
+    "Master_Bundle_Override": "metro.masterbundle",
+    "Bundle_Override_Path": "/Objects/Quest/NPC/Final/Metro_TP_Final_FX"
+  },
+  "translation": {
+    "Name": "Metro AreaC [TP]",
+    "Interact": "Teleport [{0}]"
+  }
+}

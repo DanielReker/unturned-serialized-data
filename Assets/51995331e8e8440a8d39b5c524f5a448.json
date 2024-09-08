@@ -1,0 +1,13 @@
+{
+  "name": "ZPD_Sign",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/ZPD_Sign/ZPD_Sign.dat",
+  "data": {
+    "GUID": "51995331e8e8440a8d39b5c524f5a448",
+    "Type": "Medium",
+    "ID": "6127",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "ZPD Sign #1"
+  }
+}

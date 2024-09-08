@@ -1,0 +1,14 @@
+{
+  "name": "PS_Refinery_Bridge_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Refinery_Bridge_0/PS_Refinery_Bridge_0.dat",
+  "data": {
+    "GUID": "4f8ce2a0443c4475a1cf14d59d29d3a0",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59403",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "PS Refinery Bridge #1"
+  }
+}

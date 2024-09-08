@@ -1,0 +1,13 @@
+{
+  "name": "Carpat_Ruin_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Objects/Large/Carpat_Ruin_03/Carpat_Ruin_03.dat",
+  "data": {
+    "GUID": "b491e838814e44d18599a296fef258fd",
+    "Type": "Large",
+    "ID": "23157",
+    "LOD": "Mesh"
+  },
+  "translation": {
+    "Name": "Carpat Ruin #3"
+  }
+}

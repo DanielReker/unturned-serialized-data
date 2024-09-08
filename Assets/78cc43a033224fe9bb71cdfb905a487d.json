@@ -1,0 +1,37 @@
+{
+  "name": "Carpat_Vityaz_30",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Items/Magazines/Carpat_Vityaz_30/Carpat_Vityaz_30.dat",
+  "data": {
+    "GUID": "78cc43a033224fe9bb71cdfb905a487d",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "ID": "23002",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.125",
+    "Amount": "30",
+    "Count_Min": "12",
+    "Count_Max": "26",
+    "Calibers": "1",
+    "Caliber_0": "23002",
+    "Tracer": "48",
+    "Blueprints": "3",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "119",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "23002",
+    "Blueprint_1_Build": "30",
+    "Blueprint_2_Type": "Ammo",
+    "Blueprint_2_Supplies": "1",
+    "Blueprint_2_Supply_0_ID": "44",
+    "Blueprint_2_Build": "30",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Vityaz Magazine",
+    "Description": "Low caliber ranger grade <color=rare>Vityaz</color> magazine. Designed to fit 30 rounds."
+  }
+}

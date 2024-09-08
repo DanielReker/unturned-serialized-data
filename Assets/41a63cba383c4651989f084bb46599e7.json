@@ -1,0 +1,29 @@
+{
+  "name": "France_Engineer_Question_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Engineer/France_Engineer_Question_1/Asset.dat",
+  "data": {
+    "GUID": "41a63cba383c4651989f084bb46599e7",
+    "Type": "Dialogue",
+    "ID": "4058",
+    "Messages": "2",
+    "Message_0_Pages": "4",
+    "Message_0_Prev": "4057",
+    "Message_0_Conditions": "1",
+    "Message_0_Condition_0_Type": "Quest",
+    "Message_0_Condition_0_Logic": "Equal",
+    "Message_0_Condition_0_ID": "4068",
+    "Message_0_Condition_0_Status": "Completed",
+    "Message_1_Pages": "4",
+    "Message_1_Prev": "4057"
+  },
+  "translation": {
+    "Message_0_Page_0": "My name is <name_npc>. I'm an engineer and a gunsmith.",
+    "Message_0_Page_1": "I repair and maintain the <color=legendary>Maelstrom</color> attack boat.",
+    "Message_0_Page_2": "I'll buy tools from you, sell you replacement blueprints, and make you weapons.",
+    "Message_0_Page_3": "Thanks to you, I'm a gunsmith and have plenty of weapon blueprints.",
+    "Message_1_Page_0": "My name is <name_npc>. I'm an engineer.",
+    "Message_1_Page_1": "I repair and maintain the <color=legendary>Maelstrom</color> attack boat.",
+    "Message_1_Page_2": "I doubt you will do it, but I need some tools and will buy them from you.",
+    "Message_1_Page_3": "I'm currently trying to learn to become a gunsmith."
+  }
+}

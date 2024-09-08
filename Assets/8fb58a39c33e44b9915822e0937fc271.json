@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Shop",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Tools/Frost_Shop/Frost_Shop.dat",
+  "data": {
+    "GUID": "8fb58a39c33e44b9915822e0937fc271",
+    "Type": "Supply",
+    "ID": "36098"
+  },
+  "translation": {
+    "Name": "Shop",
+    "Description": ""
+  }
+}

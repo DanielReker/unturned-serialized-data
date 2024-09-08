@@ -1,0 +1,17 @@
+{
+  "name": "Work Lamp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Work Lamp/Work Lamp.dat",
+  "data": {
+    "GUID": "d2844a5f08084e509afa1b5227c5381b",
+    "Type": "Medium",
+    "ID": "51000",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "50",
+    "Interactability_Effect": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Work Lamp"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Buak_Boulder_29",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Scenery/Boulders/Buak_Boulder_29/Buak_Boulder_29.dat",
+  "data": {
+    "GUID": "d11122d356f447a3b61aada3ad4e72d3",
+    "Type": "Large",
+    "ID": "25300",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Allow_Structures": "",
+    "Has_Clip_Prefab": "false",
+    "Landmark_Quality": "Off",
+    "Exclude_From_Culling_Volumes": "True",
+    "Foliage": "cf42120305314ac99008504be96c608d",
+    "Christmas_Redirect": "ca45e53a88ce47249b0122375c351b8b"
+  },
+  "translation": {
+    "Name": "Buak_Boulder_29"
+  }
+}

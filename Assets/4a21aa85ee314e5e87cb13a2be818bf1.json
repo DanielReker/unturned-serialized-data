@@ -1,0 +1,24 @@
+{
+  "name": "BE Cave_Door_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Medium/Quests/BE Cave_Door_0/BE Cave_Door_0.dat",
+  "data": {
+    "GUID": "4a21aa85ee314e5e87cb13a2be818bf1",
+    "Type": "Large",
+    "ID": "9201",
+    "Interactability": "Quest",
+    "Interactability_Effect": "8",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "9234",
+    "Interactability_Condition_0_Value": "Flase",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "Chamber_Enter",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Cave_Door_0",
+    "Interact": "Open Chamber Door [{0}]"
+  }
+}

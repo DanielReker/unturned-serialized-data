@@ -1,0 +1,17 @@
+{
+  "name": "Grizzly_Iron_Sights",
+  "path": "Bundles/Items/Sights/Grizzly_Iron_Sights/Grizzly_Iron_Sights.dat",
+  "data": {
+    "GUID": "4a93fdb715624bc38f099bdf6cd51fb8",
+    "Type": "Sight",
+    "ID": "299",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Grizzly Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

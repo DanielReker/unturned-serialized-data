@@ -1,0 +1,14 @@
+{
+  "name": "Circle_02",
+  "path": "Bundles/Objects/Small/Quests/Circle_02/Circle_02.dat",
+  "data": {
+    "GUID": "d2c1122f77cd4edca4696e0f6ea32e12",
+    "Type": "Small",
+    "ID": "1",
+    "Holiday_Restriction": "CHRISTMAS",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Circle #3"
+  }
+}

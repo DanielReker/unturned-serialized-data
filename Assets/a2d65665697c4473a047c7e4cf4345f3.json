@@ -1,0 +1,15 @@
+{
+  "name": "Eye",
+  "path": "Bundles/Skins/Yuri/Eye/Eye.dat",
+  "data": {
+    "GUID": "a2d65665697c4473a047c7e4cf4345f3",
+    "Type": "Skin",
+    "ID": "140",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

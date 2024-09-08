@@ -1,0 +1,24 @@
+{
+  "name": "Mechanic",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Mechanic/Mechanic/Mechanic.dat",
+  "data": {
+    "GUID": "27fece9c9d084b7a91d8a6c7ae5593c7",
+    "Type": "Spawn",
+    "ID": "51055",
+    "Tables": [
+      {
+        "Guid": "c7def5d28fe94f41bdd6152edb74ef7e",
+        "Weight": "40"
+      },
+      {
+        "Guid": "1c5ee529afb54ad9b3f978d185287d7b",
+        "Weight": "30"
+      },
+      {
+        "Guid": "9dde6553262a400cb573118e860bb328",
+        "Weight": "30"
+      }
+    ]
+  },
+  "translation": null
+}

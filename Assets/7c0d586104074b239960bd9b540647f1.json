@@ -1,0 +1,16 @@
+{
+  "name": "PS_Bricks_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Bricks_3/PS_Bricks_3.dat",
+  "data": {
+    "GUID": "7c0d586104074b239960bd9b540647f1",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59098",
+    "Material_Palette": "67ce41a05bed4a9fa624b9d6e868684a",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Small/Rubble/Bricks_0"
+  },
+  "translation": {
+    "Name": "PS Bricks #4"
+  }
+}

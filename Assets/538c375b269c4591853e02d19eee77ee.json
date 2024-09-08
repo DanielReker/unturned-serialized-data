@@ -1,0 +1,21 @@
+{
+  "name": "Buak_BBQ",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_BBQ/Buak_BBQ.dat",
+  "data": {
+    "GUID": "538c375b269c4591853e02d19eee77ee",
+    "Type": "Spawn",
+    "ID": "25377",
+    "Tables": "5",
+    "Table_0_Asset_ID": "25738",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "25741",
+    "Table_1_Weight": "100",
+    "Table_2_Asset_ID": "25749",
+    "Table_2_Weight": "100",
+    "Table_3_Asset_ID": "25732",
+    "Table_3_Weight": "1",
+    "Table_4_Asset_ID": "25735",
+    "Table_4_Weight": "1"
+  },
+  "translation": null
+}

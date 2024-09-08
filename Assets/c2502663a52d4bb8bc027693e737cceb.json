@@ -1,0 +1,29 @@
+{
+  "name": "PS_Trader_8",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/PS_Trader_8/Asset.dat",
+  "data": {
+    "GUID": "c2502663a52d4bb8bc027693e737cceb",
+    "Type": "NPC",
+    "ID": "59324",
+    "Face": "0",
+    "Hair": "19",
+    "Beard": "0",
+    "Color_Skin": "#4B3D31",
+    "Color_Hair": "#191919",
+    "Dialogue": "59325",
+    "Shirt": "59077",
+    "Pants": "59068",
+    "Vest": "59158",
+    "Secondary": "59003",
+    "Equipped": "Secondary",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Shirt": "59077",
+    "Halloween_Pants": "59068",
+    "Halloween_Vest": "59158",
+    "Halloween_Hat": "54c4ffae01d14bab8dd8bfdfe00953ce"
+  },
+  "translation": {
+    "Name": "PS Trader #9 [Car Parts]",
+    "Character": "Mc' Dolan"
+  }
+}

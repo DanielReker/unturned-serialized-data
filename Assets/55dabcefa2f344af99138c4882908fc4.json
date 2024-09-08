@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Sandbags",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Sandbags/Bar_Sandbags.dat",
+  "data": {
+    "GUID": "55dabcefa2f344af99138c4882908fc4",
+    "Type": "Effect",
+    "ID": "25410"
+  },
+  "translation": null
+}

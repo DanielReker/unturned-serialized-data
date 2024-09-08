@@ -1,0 +1,12 @@
+{
+  "name": "IR_Mechanic_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Mechanic_1/IR_Mechanic_1.dat",
+  "data": {
+    "GUID": "caa9db2406b3437eb4e443ac1ff786cf",
+    "Type": "Large",
+    "ID": "17095"
+  },
+  "translation": {
+    "Name": "Irish Mechanic# 1"
+  }
+}

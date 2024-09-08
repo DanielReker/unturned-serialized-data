@@ -1,0 +1,37 @@
+{
+  "name": "Amber_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/00/Amber_00/Asset.dat",
+  "data": {
+    "GUID": "4997d3813055446fa980f32b5d7c8949",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "49d0e4c74ca14d4aa4f3bcd1d7aea4cf",
+    "Shirt": "a623c7be5f7049b688b3bc42295bd3bf",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "16",
+    "Hair": "4",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#161616",
+    "Dialogue": "eba643c759744325b12d6230c35ad4bf",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24612",
+    "Condition_0_Value": "False",
+    "Condition_0_Allow_Unset": "",
+    "Condition_1_Type": "Quest",
+    "Condition_1_Logic": "Less_Than_Or_Equal_To",
+    "Condition_1_ID": "c778947f76e14542a2dd35a26cdfdd00",
+    "Condition_1_Status": "Active",
+    "Condition_1_Allow_Unset": "",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Amber_00",
+    "Character": "<color=#FFBF00>???</color>"
+  }
+}

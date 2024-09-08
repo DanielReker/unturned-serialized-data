@@ -1,0 +1,12 @@
+{
+  "name": "CA_Bench_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Bench_0/CA_Bench_0.dat",
+  "data": {
+    "GUID": "cd23cc7c069446aab5646fe26a93161b",
+    "Type": "Medium",
+    "ID": "4339"
+  },
+  "translation": {
+    "Name": "California Bench #1"
+  }
+}

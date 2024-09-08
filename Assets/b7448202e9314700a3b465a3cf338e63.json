@@ -1,0 +1,25 @@
+{
+  "name": "BE_Maple_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Resources/BE_Maple_0/BE_Maple_0.dat",
+  "data": {
+    "GUID": "b7448202e9314700a3b465a3cf338e63",
+    "Type": "Resource",
+    "ID": "9011",
+    "Health": "900",
+    "Radius": "4",
+    "Scale": "0.3",
+    "Explosion": "22",
+    "Reward_ID": "516",
+    "Reward_XP": "4",
+    "Reward_Min": "7",
+    "Reward_Max": "10",
+    "Reset": "450",
+    "Auto_Skybox": "",
+    "SpeedTree": "",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Maple #1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PS_Radar_Station_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Radar_Station_0/PS_Radar_Station_0.dat",
+  "data": {
+    "GUID": "8aeb1b767a51412cb429e9b1dae81c5e",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59211",
+    "LOD": "Area"
+  },
+  "translation": {
+    "Name": "PS Radar Station #1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PS_Dumpster_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Dumpster_2/PS_Dumpster_2.dat",
+  "data": {
+    "GUID": "dd8f80cd107e436cb3b9a81c36f1f1dc",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59243",
+    "Material_Palette": "77694250016a40228264f7d306646509"
+  },
+  "translation": {
+    "Name": "PS Dumpster #3"
+  }
+}

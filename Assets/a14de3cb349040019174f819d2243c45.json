@@ -1,0 +1,13 @@
+{
+  "name": "PS_Shelf_8",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Shelf_8/PS_Shelf_8.dat",
+  "data": {
+    "GUID": "a14de3cb349040019174f819d2243c45",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59549"
+  },
+  "translation": {
+    "Name": "PS Shelf #9"
+  }
+}

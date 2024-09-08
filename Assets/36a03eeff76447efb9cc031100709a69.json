@@ -1,0 +1,15 @@
+{
+  "name": "Supply_Scavenge_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Supply_Depot/Supply_Scavenge_Completed/Asset.dat",
+  "data": {
+    "GUID": "36a03eeff76447efb9cc031100709a69",
+    "Type": "Dialogue",
+    "ID": "3184",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "3180"
+  },
+  "translation": {
+    "Message_0_Page_0": "Perhaps you are of more use then they let on. Good job."
+  }
+}

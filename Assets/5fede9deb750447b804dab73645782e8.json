@@ -1,0 +1,14 @@
+{
+  "name": "Engineer_Linus_Door_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Engineer_Military_Linus/Engineer_Linus_Door_Completed/Asset.dat",
+  "data": {
+    "GUID": "5fede9deb750447b804dab73645782e8",
+    "Type": "Dialogue",
+    "ID": "3503",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Alright, let me just do a quick check list. <pause> Check, <pause> mmhmm, <pause> Yup, that covers all the criteria!"
+  }
+}

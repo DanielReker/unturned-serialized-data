@@ -1,0 +1,18 @@
+{
+  "name": "Dmitriy_Makarovs",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Dmitriy Davidov/Dmitriy_Makarovs/Asset.dat",
+  "data": {
+    "GUID": "948017eafc9d424f8bb992978ce1f6a6",
+    "Type": "Dialogue",
+    "ID": "5190",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Vendor": "5191"
+  },
+  "translation": {
+    "Message_0_Page_0": "I can help ... But, you know, it's not for nothing. One Makarov - $ 50, will you take?",
+    "Response_0": "Let me take a look?",
+    "Response_1": "Expensive, maybe another time."
+  }
+}

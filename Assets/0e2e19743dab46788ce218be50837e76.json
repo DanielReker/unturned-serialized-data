@@ -1,0 +1,18 @@
+{
+  "name": "Ferre_End Response",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military Master Sergeant Ferre/Ferre_End Response/Asset.dat",
+  "data": {
+    "GUID": "0e2e19743dab46788ce218be50837e76",
+    "Type": "Dialogue",
+    "ID": "9110",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Responses": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Make sure to be careful out there. There was a group called the \"Afzetters.\" Some of them had hijakced a helicopter from here before and they cause terror amongst survivors. We don't know where they are hiding.",
+    "Message_0_Page_1": "So be careful.",
+    "Response_0": "Okay, I will be on the lookout.",
+    "Response_1": "Thanks for the information."
+  }
+}

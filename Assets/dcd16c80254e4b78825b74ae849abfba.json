@@ -1,0 +1,17 @@
+{
+  "name": "Quest_0_Good_Luck",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_0/Quest_0_Good_Luck/Asset.dat",
+  "data": {
+    "GUID": "dcd16c80254e4b78825b74ae849abfba",
+    "Type": "Dialogue",
+    "ID": "57578",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "57574"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good luck out there.",
+    "Response_0": "Thank you."
+  }
+}

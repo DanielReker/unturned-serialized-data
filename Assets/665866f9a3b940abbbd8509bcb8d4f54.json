@@ -1,0 +1,19 @@
+{
+  "name": "Water_Zombie_Kelp_Mask",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Clothing/Hats/Water_Zombie_Kelp_Mask/Water_Zombie_Kelp_Mask.dat",
+  "data": {
+    "GUID": "665866f9a3b940abbbd8509bcb8d4f54",
+    "Type": "Mask",
+    "Useable": "Clothing",
+    "ID": "6663",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.6",
+    "Width": "1",
+    "Height": "1"
+  },
+  "translation": {
+    "Name": "Water_Zombie_Kelp_Mask",
+    "Description": "Water_Zombie_Kelp_Mask"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "FBG",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/FBG/FBG.dat",
+  "data": {
+    "GUID": "42ed2e79195a4dea89e775c4f1fda0a0",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "ID": "51046",
+    "Explosion": "51016",
+    "Explosive": "",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0",
+    "Projectile_Damage_Multiplier": ".1",
+    "Amount": "1",
+    "Calibers": "1",
+    "Caliber_0": "20",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "3",
+    "Blueprint_0_Supply_0_ID": "51307",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "51018",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Supply_2_ID": "51030",
+    "Blueprint_0_Supply_2_Amount": "1",
+    "Blueprint_0_Tool": "51057",
+    "Blueprint_0_Tool_Critical": "",
+    "Blueprint_0_Product": "51046",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "27",
+    "Use_Auto_Stat_Descriptions": "false"
+  },
+  "translation": {
+    "Name": "Flashbang Grenade Round",
+    "Description": "Impact flashbang grenade round for disorienting enemies.<br><br><color=white>Flashbangs enemies.</color><br>Explosion Radius: 12 m<br>Player Damage: 10<br>Zombie Damage: 20<br>Animal Damage: 20"
+  }
+}

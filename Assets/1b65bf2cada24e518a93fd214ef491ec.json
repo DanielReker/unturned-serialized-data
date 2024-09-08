@@ -1,0 +1,16 @@
+{
+  "name": "Survivor_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IDF/Survivor_Mitch/Survivor_Welcome/Asset.dat",
+  "data": {
+    "GUID": "1b65bf2cada24e518a93fd214ef491ec",
+    "Type": "Dialogue",
+    "ID": "15178",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<i>zzzzZZZZzzzz</i>.",
+    "Response_0": "Sweet dreams."
+  }
+}

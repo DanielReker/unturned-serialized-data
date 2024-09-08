@@ -1,0 +1,13 @@
+{
+  "name": "PS_Palace_Statue_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Palace_Statue_3/PS_Palace_Statue_3.dat",
+  "data": {
+    "GUID": "36f5c8dd14e5413996c6b849fdc86020",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60283"
+  },
+  "translation": {
+    "Name": "PS Palace Statue #4"
+  }
+}

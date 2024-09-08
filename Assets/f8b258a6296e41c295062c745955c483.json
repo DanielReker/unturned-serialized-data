@@ -1,0 +1,13 @@
+{
+  "name": "Russia_Post",
+  "path": "Bundles/Spawns/Items/Russia_Post/Russia_Post.dat",
+  "data": {
+    "GUID": "f8b258a6296e41c295062c745955c483",
+    "Type": "Spawn",
+    "ID": "574",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "278",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

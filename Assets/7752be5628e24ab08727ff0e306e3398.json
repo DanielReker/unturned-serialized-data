@@ -1,0 +1,12 @@
+{
+  "name": "CA_Market_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Props/CA_Market_1/CA_Market_1.dat",
+  "data": {
+    "GUID": "7752be5628e24ab08727ff0e306e3398",
+    "Type": "Medium",
+    "ID": "4613"
+  },
+  "translation": {
+    "Name": "California Market #2"
+  }
+}

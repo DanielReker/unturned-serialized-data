@@ -1,0 +1,18 @@
+{
+  "name": "PBS_CobaltSetup",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/PBS_CobaltSetup/PBS_CobaltSetup.dat",
+  "data": {
+    "GUID": "ebeb86b355824954826f1269e550bb64",
+    "Type": "RewardsList",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51224",
+    "Reward_0_Sight": "51085",
+    "Reward_0_Barrel": "51090",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "51040",
+    "Reward_1_Amount": "3"
+  },
+  "translation": null
+}

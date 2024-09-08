@@ -1,0 +1,23 @@
+{
+  "name": "PS_Snow_0_Barter_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/AridSnow/SnowDialogue/PS_Snow_0_Dialogue/PS_Snow_0_Barter_0/Asset.dat",
+  "data": {
+    "GUID": "a77de4335a3f4d0487c4cca97c44d87a",
+    "Type": "Quest",
+    "ID": "59388",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59534",
+    "Condition_0_Amount": "250",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "59601",
+    "Reward_0_Amount": "0"
+  },
+  "translation": {
+    "Name": "Barter - ?",
+    "Description": "Exchange of goods.",
+    "Condition_0": "More barters.",
+    "Reward_0": "<color=rare>Puzzle Trophy</color>"
+  }
+}

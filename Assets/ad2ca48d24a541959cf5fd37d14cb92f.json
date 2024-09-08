@@ -1,0 +1,34 @@
+{
+  "name": "Table_WCR",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Tables/Table_WCR/Table_WCR.dat",
+  "data": {
+    "GUID": "ad2ca48d24a541959cf5fd37d14cb92f",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "52164",
+    "SalvageItem": "ad2ca48d24a541959cf5fd37d14cb92f",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.45",
+    "Health": "300",
+    "Range": "4",
+    "Radius": "0.4",
+    "Offset": "0.5",
+    "Vulnerable": "",
+    "Explosion": "29",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51023",
+    "Blueprint_0_Supply_0_Amount": "6",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Wooden Circular Table",
+    "Description": "Wooden table for fine dining."
+  }
+}

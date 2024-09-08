@@ -1,0 +1,26 @@
+{
+  "name": "Note_9211",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Medium/Furniture/Note_9211/Note_9211.dat",
+  "data": {
+    "GUID": "4a0c58ce56764064b50d0a786bd909e5",
+    "Type": "Medium",
+    "ID": "9211",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "6",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Belgium Note - Belgian Military Base #2",
+    "Interactability_Text_Line_0": "We were just called to a situation of an unknown outbreak in ",
+    "Belgium.": "",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "It’s probably just another case of the common cold and people are just overreacting about it.",
+    "Interactability_Text_Line_3": "---",
+    "Interactability_Text_Line_4": "I will be back shortly to give details on this “outbreak.”",
+    "Interactability_Text_Line_5": "-Private Kobe"
+  }
+}

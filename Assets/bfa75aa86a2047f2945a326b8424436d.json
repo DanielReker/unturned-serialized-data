@@ -1,0 +1,12 @@
+{
+  "name": "PBS_Shield_Helmet",
+  "path": "Bundles/Items/PBS/PBS_Shield_Helmet/PBS_Shield_Helmet.dat",
+  "data": {
+    "GUID": "bfa75aa86a2047f2945a326b8424436d",
+    "Type": "Hat",
+    "Pro": "",
+    "Beard": "",
+    "Hair_Override": "Model_0"
+  },
+  "translation": null
+}

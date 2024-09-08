@@ -1,0 +1,32 @@
+{
+  "name": "PS_A_Trucks_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/Material_Palettes/PS_A_Trucks_0.asset",
+  "data": {
+    "GUID": "dda50fb0722e4c0db97a9f212fa606b6",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/trucks_0/truck_0.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/trucks_0/truck_1.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/trucks_0/truck_2.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/trucks_0/truck_3.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/trucks_0/truck_4.mat"
+      }
+    ]
+  },
+  "translation": null
+}

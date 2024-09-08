@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Encrypted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Encrypted/PS_Drops_Encrypted.dat",
+  "data": {
+    "GUID": "592f925d643d437fb5bf8b3cc7809084",
+    "Type": "Spawn",
+    "ID": "59466",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59618",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

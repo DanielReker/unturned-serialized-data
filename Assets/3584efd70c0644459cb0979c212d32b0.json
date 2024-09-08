@@ -1,0 +1,10 @@
+{
+  "name": "Ore_Coal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Resources/Ore_Coal/Ore_Coal.dat",
+  "data": {
+    "GUID": "3584efd70c0644459cb0979c212d32b0",
+    "Type": "Effect",
+    "ID": "25318"
+  },
+  "translation": null
+}

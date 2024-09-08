@@ -1,0 +1,21 @@
+{
+  "name": "Market_Music_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/Music/Market_Music_1/Market_Music_1.asset",
+  "data": {
+    "GUID": "6f8c6ca12c414e3d82723ccbc1c4d1fe",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Title": {
+      "Namespace": "SDG",
+      "Token": "Stereo_Songs.Market_Music1.Title"
+    },
+    "Song": {
+      "MasterBundle": "arid_music.masterbundle",
+      "AssetPath": "Market_Music_1/Retail Ragtime.wav"
+    },
+    "Link_URL": "https://youtu.be/a90IA3dW_zQ"
+  },
+  "translation": {
+    "Name": "Staswalle - Retail Ragtime"
+  }
+}

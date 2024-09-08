@@ -1,0 +1,16 @@
+{
+  "name": "PS_Gravel_Pile_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Gravel_Pile_1/PS_Gravel_Pile_1.dat",
+  "data": {
+    "GUID": "7aa436864014438c8a6dd406adb7e7c9",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59519",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground"
+  },
+  "translation": {
+    "Name": "PS Gravel Pile #2"
+  }
+}

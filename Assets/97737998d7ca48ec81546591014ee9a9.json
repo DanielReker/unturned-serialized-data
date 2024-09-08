@@ -1,0 +1,19 @@
+{
+  "name": "Greek_Manhole_Exit",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Greek_Manhole_Exit/Greek_Manhole_Exit.dat",
+  "data": {
+    "GUID": "97737998d7ca48ec81546591014ee9a9",
+    "Type": "Small",
+    "ID": "3763",
+    "Asset_Bundle_Version": "2",
+    "Interactability": "Quest",
+    "Interactability_Effect": "38",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "SewersExitLamia"
+  },
+  "translation": {
+    "Name": "Quest Manhole Exit Lamia",
+    "Interact": "Exit Sewers[{0}]"
+  }
+}

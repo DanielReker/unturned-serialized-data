@@ -1,0 +1,23 @@
+{
+  "name": "Quest_0_Misc_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_0/Quest_0_Misc_0/Asset.dat",
+  "data": {
+    "GUID": "0192c1eed51243fcb743eae8badcf4c5",
+    "Type": "Quest",
+    "ID": "57577",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "57402",
+    "Condition_0_Value": "6",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "57468  ",
+    "Reward_0_Amount": "2"
+  },
+  "translation": {
+    "Name": "<color=#5383CC>Collector</color>",
+    "Description": "Collect all <color=#64c819>6</color> colored keycards.",
+    "Condition_0": "{0}/{1} Keycards"
+  }
+}

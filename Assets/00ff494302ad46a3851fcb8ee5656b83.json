@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Pallet_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Pallet_01/Buak_Pallet_01.dat",
+  "data": {
+    "GUID": "00ff494302ad46a3851fcb8ee5656b83",
+    "Type": "Medium",
+    "ID": "25300",
+    "Material_Palette": "b4ba8011c26d4be1b69c92036f6c82d2",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Pallet_01"
+  }
+}

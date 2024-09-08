@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Outlands_Binoculars_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Quests/Kuwait_Outlands/Kuwait_Outlands_Binoculars_0/Kuwait_Outlands_Binoculars_0.dat",
+  "data": {
+    "GUID": "6d8522d41ea1401db999e22aeff2feef",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5999",
+    "Chart": "Ignore",
+    "GPS": "Ignore"
+  },
+  "translation": {
+    "Name": "Kuwait Outlands Binoculars #1"
+  }
+}

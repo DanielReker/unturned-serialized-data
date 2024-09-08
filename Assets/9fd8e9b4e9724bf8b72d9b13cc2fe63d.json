@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Camp_Stove",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Camp_Stove/Bar_Camp_Stove.dat",
+  "data": {
+    "GUID": "9fd8e9b4e9724bf8b72d9b13cc2fe63d",
+    "Type": "Effect",
+    "ID": "25348"
+  },
+  "translation": null
+}

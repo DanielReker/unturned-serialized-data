@@ -1,0 +1,12 @@
+{
+  "name": "Gate_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Gate_0/Gate_0.dat",
+  "data": {
+    "GUID": "9c81c0ad0bc848689bdc2db5f254115b",
+    "Type": "Medium",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Gate Base"
+  }
+}

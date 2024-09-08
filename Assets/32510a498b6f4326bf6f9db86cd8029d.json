@@ -1,0 +1,40 @@
+{
+  "name": "FishingRifle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardListSpawns/FishingRifle/FishingRifle.dat",
+  "data": {
+    "GUID": "32510a498b6f4326bf6f9db86cd8029d",
+    "Type": "Spawn",
+    "ID": "51301",
+    "Tables": [
+      {
+        "Guid": "d7c55e6a396945eb8668cdaff94ec8aa",
+        "Weight": "2"
+      },
+      {
+        "Guid": "1fc55223377b4f3a90226095253ec705",
+        "Weight": "2"
+      },
+      {
+        "Guid": "1fe6fc2382774dbe857d869544432bb2",
+        "Weight": "2"
+      },
+      {
+        "Guid": "7c15832ea52148e1adbaedd5856de22f",
+        "Weight": "2"
+      },
+      {
+        "Guid": "51e6c8ea01cf408d8aa7f36c2ec451f1",
+        "Weight": "2"
+      },
+      {
+        "Guid": "f2e34fcb0e154865b89123a32195e507",
+        "Weight": "2"
+      },
+      {
+        "Guid": "c8b1938ced2941598b85f25ebbc7fabd",
+        "Weight": "2"
+      }
+    ]
+  },
+  "translation": null
+}

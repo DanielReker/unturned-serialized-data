@@ -1,0 +1,13 @@
+{
+  "name": "Podium_1",
+  "path": "Bundles/Objects/Medium/Business/Podium_1/Podium_1.dat",
+  "data": {
+    "GUID": "04a8cbc263784837b5a43d9e23dc3edc",
+    "Type": "Medium",
+    "ID": "998",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Podium #2"
+  }
+}

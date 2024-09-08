@@ -1,0 +1,14 @@
+{
+  "name": "26422KEIC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26410KEID/26420KEIAD/26422KEIC/Asset.dat",
+  "data": {
+    "GUID": "cf8586988eee44c8b5f50b2523b85a88",
+    "Type": "Dialogue",
+    "ID": "26422",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Awwh. I hope you'll get back to me on it, though!"
+  }
+}

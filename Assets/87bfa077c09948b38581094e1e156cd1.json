@@ -1,0 +1,15 @@
+{
+  "name": "28253KPC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28251KPMCD/28253KPC/Asset.dat",
+  "data": {
+    "GUID": "87bfa077c09948b38581094e1e156cd1",
+    "Type": "Dialogue",
+    "ID": "28253",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "28251"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you so much for finding them! We are forever in your debt."
+  }
+}

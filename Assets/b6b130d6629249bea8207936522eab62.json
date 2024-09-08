@@ -1,0 +1,25 @@
+{
+  "name": "Metro_Art_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Paintings/Metro_Art_1/Metro_Art_1.dat",
+  "data": {
+    "GUID": "b6b130d6629249bea8207936522eab62",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Sign_Wall",
+    "ID": "57613",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.55",
+    "Health": "200",
+    "Range": "4",
+    "Offset": "0.125",
+    "Vulnerable": "",
+    "Explosion": "19"
+  },
+  "translation": {
+    "Name": "Impending Doom",
+    "Description": "<color=#64c819>200</color> Health<br>Collection #1<br>Painting 2/7"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Kuwait_Bricks_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Resources/Kuwait_Bricks_1/Kuwait_Bricks_1.dat",
+  "data": {
+    "GUID": "ad27e43163224b8c9cc8fcad960db727",
+    "Type": "Resource",
+    "ID": "3069",
+    "Health": "1000",
+    "Radius": "4",
+    "Scale": "0.3",
+    "Explosion": "52",
+    "Reward_ID": "7133",
+    "Reward_XP": "6",
+    "Reward_Min": "3",
+    "Reward_Max": "7",
+    "BladeID": "2",
+    "No_Debris": "",
+    "Reset": "500",
+    "Has_Clip_Prefab": "false ",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Brick Node #2"
+  }
+}

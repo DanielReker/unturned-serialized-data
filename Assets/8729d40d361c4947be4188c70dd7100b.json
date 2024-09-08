@@ -1,0 +1,22 @@
+{
+  "name": "Russia_Road_00_Material",
+  "path": "Bundles/Assets/Landscapes/Materials/Russia/Russia_Road_00_Material.asset",
+  "data": {
+    "GUID": "8729d40d361c4947be4188c70dd7100b",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "core.masterbundle",
+      "Path": "Terrain/Materials/Russia/Road_00.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "CONCRETE_STATIC",
+    "Foliage": {
+      "GUID": "f03f4210890847f49cc7e981924e60ae"
+    }
+  },
+  "translation": null
+}

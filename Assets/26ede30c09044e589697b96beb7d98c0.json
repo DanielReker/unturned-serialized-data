@@ -1,0 +1,32 @@
+{
+  "name": "Military_Vest_Woodlands",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Items/Vests/Military_Vest_Woodlands/Military_Vest_Woodlands.dat",
+  "data": {
+    "GUID": "26ede30c09044e589697b96beb7d98c0",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "9011",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "5",
+    "Height": "4",
+    "Armor": "0.7",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "9011",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "3",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "67",
+    "Blueprint_1_Supply_0_Amount": "6",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Woodlands Military Vest",
+    "Description": "Bullet proof military gear."
+  }
+}

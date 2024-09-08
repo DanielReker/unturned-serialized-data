@@ -1,0 +1,16 @@
+{
+  "name": "25960KMGSD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/25960KMGD/25960KMGSD/Asset.dat",
+  "data": {
+    "GUID": "b88e0a15d8c746d6b0af9a904c4f81cf",
+    "Type": "Dialogue",
+    "ID": "25960",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<i>They're sleeping soundly.</i>",
+    "Response_0": "Sleep well."
+  }
+}

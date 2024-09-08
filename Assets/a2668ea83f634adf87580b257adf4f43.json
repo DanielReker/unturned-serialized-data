@@ -1,0 +1,14 @@
+{
+  "name": "French_Florist_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/French_Florist_1/French_Florist_1.dat",
+  "data": {
+    "GUID": "a2668ea83f634adf87580b257adf4f43",
+    "Type": "Large",
+    "ID": "35006",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "French Florist #1"
+  }
+}

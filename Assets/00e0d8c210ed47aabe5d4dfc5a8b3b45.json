@@ -1,0 +1,14 @@
+{
+  "name": "PS_Barrel_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Barrel_2/PS_Barrel_2.dat",
+  "data": {
+    "GUID": "00e0d8c210ed47aabe5d4dfc5a8b3b45",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59041",
+    "Material_Palette": "77694250016a40228264f7d306646509"
+  },
+  "translation": {
+    "Name": "PS Barrel #3"
+  }
+}

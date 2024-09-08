@@ -1,0 +1,15 @@
+{
+  "name": "27458KACISD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27450KACD/27458KACISD/Asset.dat",
+  "data": {
+    "GUID": "b7d086c57ca3456192c34b3bc85a3cfe",
+    "Type": "Dialogue",
+    "ID": "27458",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=epic>Samantha</color> handles our vehicles. She seems to have a knack for that kind of stuff. <color=epic>Dominic</color> handles the tech here, he seems to be quite good at that. He even got a communication system setup!",
+    "Message_0_Page_1": "You'll probably be helping out getting mechanical supplies for <color=epic>Samantha</color>, while <color=epic>Dominic</color> will need technology parts and the like."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "25181M7D",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/4/D/25181M7D/Asset.dat",
+  "data": {
+    "GUID": "2acb970c1ccb42218989c6db2695baed",
+    "Type": "Dialogue",
+    "ID": "25181",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "No matter how many times I get relocated, I never get used to it.",
+    "Response_0": "Good luck!"
+  }
+}

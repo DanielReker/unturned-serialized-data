@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Toaster",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Toaster/Buak_Toaster.dat",
+  "data": {
+    "GUID": "f63abfae84d747aba7c2f8b3691ecbf4",
+    "Type": "Small",
+    "ID": "25300",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "600",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "25547",
+    "Rubble_Reward_ID": "25392",
+    "Rubble_Reward_Probability": "0.2",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Toaster"
+  }
+}

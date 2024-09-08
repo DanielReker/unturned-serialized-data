@@ -1,0 +1,28 @@
+{
+  "name": "Buak_Lumber",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Material_Palettes/Buak_Lumber.asset",
+  "data": {
+    "GUID": "2f2b61cfc6e1434d89d9aaf7cdf3ff78",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Lumber/Buak_Lumber_00.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Lumber/Buak_Lumber_01.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Lumber/Buak_Lumber_02.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Lumber/Buak_Lumber_03.mat"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PS_Quest_0_Category_0_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Quest_0_Dialogue/PS_Quest_0_Category_0_0/Asset.dat",
+  "data": {
+    "GUID": "2c151a0ecb1f47578c5a76909fd57d92",
+    "Type": "Dialogue",
+    "ID": "59075",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Responses": "1",
+    "Response_0_Dialogue": "59068"
+  },
+  "translation": {
+    "Message_0_Page_0": "Before entering the bunker it is recommended you obtain nightvision first, you will have a hard time without it. The bunker is composed of three segments, each unlocked by a separate key that you will need to find.",
+    "Message_0_Page_1": "You can find the entrance to the first bunker segment at the radar station. The last segment of the bunker is a deadzone so make sure to have gasmask besides the nightvision if you plan on going there.",
+    "Response_0": "Good to know!"
+  }
+}

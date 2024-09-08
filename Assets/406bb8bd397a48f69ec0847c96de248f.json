@@ -1,0 +1,38 @@
+{
+  "name": "Metro_Crossy_Wed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Weapons/Metro_Crossy_Wed/Metro_Crossy_Wed.dat",
+  "data": {
+    "GUID": "406bb8bd397a48f69ec0847c96de248f",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "ID": "57517",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.275",
+    "Amount": "1",
+    "Calibers": "1",
+    "Caliber_0": "57008",
+    "Ballistic_Damage_Multiplier": "1",
+    "Player_Damage_Hallucination": "10",
+    "Speed": "1.6",
+    "Tracer": "57025",
+    "Stuck": "2",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "3",
+    "Blueprint_0_Supply_0_ID": "42 ",
+    "Blueprint_0_Supply_1_ID": "57493 ",
+    "Blueprint_0_Supply_2_ID": "57228",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Elver",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supply_0_ID": "285",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Build": "27"
+  },
+  "translation": {
+    "Name": "Toxic Arrow",
+    "Description": "<color=#64c819>10</color> Seconds Hallucination<br>For <color=#1f871f>Renegade</color><br><color=#64c819>130</color> Zombie Damage"
+  }
+}

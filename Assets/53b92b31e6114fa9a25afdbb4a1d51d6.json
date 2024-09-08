@@ -1,0 +1,31 @@
+{
+  "name": "28830KACC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/C/28830KACC/Asset.dat",
+  "data": {
+    "GUID": "53b92b31e6114fa9a25afdbb4a1d51d6",
+    "Type": "NPC",
+    "ID": "28830",
+    "Shirt": "1386",
+    "Pants": "1387",
+    "Face": "20",
+    "Hair": "8",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#191919",
+    "Dialogue": "28801",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "28821",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitAmiraComplexComms",
+    "Character": "Amira"
+  }
+}

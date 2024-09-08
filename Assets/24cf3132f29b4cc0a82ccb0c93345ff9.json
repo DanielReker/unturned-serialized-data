@@ -1,0 +1,38 @@
+{
+  "name": "S_Fish",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Barricades/S_Fish/S_Fish.dat",
+  "data": {
+    "GUID": "24cf3132f29b4cc0a82ccb0c93345ff9",
+    "Type": "Barricade",
+    "Rarity": "Mythical",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "27666",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.7",
+    "Use_Auto_Icon_Measurements": "False",
+    "Has_Clip_Prefab": "false",
+    "Salvage_Duration_Multiplier": ".3",
+    "Health": "100",
+    "Range": "4",
+    "Radius": "0.33",
+    "Offset": "0.3377",
+    "Explosion": "25458",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "27666",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "25357",
+    "Blueprint_0_Output_0_Amount": "4",
+    "Blueprint_0_Build": "25535",
+    "PlacementAudioClip": "Sounds/Placement/SleepingBagPlacement.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Plush Fish",
+    "Description": "A soft plush toy."
+  }
+}

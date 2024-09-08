@@ -1,0 +1,33 @@
+{
+  "name": "Beverage_Tab_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Beverage_Tab_1/Beverage_Tab_1.dat",
+  "data": {
+    "GUID": "39c35d06b3aa4ed99dafd0800277a857",
+    "Type": "Supply",
+    "Rarity": "Common",
+    "ID": "25320",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.11",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "▲ Stack 10",
+    "Action_0_Tooltip": "Stack to 10.",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25320",
+    "Blueprint_0_Supply_0_Amount": "10",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "25324",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Build": "25522"
+  },
+  "translation": {
+    "Name": "Beverage Tab (1)",
+    "Description": "A tab from a beverage can, now used as currency on Buak."
+  }
+}

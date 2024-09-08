@@ -1,0 +1,14 @@
+{
+  "name": "Policeman_Pistol_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Policeman/Policeman_Pistol_Accepted/Asset.dat",
+  "data": {
+    "GUID": "c0b4aa3c5bd34e85973b31c2cb31243f",
+    "Type": "Dialogue",
+    "ID": "5552",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you!"
+  }
+}

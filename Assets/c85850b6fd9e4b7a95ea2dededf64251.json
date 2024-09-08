@@ -1,0 +1,37 @@
+{
+  "name": "Wardrobe_Wood",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Wardrobe_Wood/Wardrobe_Wood.dat",
+  "data": {
+    "GUID": "c85850b6fd9e4b7a95ea2dededf64251",
+    "Type": "Storage",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Storage",
+    "ID": "52152",
+    "SalvageItem": "c85850b6fd9e4b7a95ea2dededf64251",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.55",
+    "Health": "300",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "1.3",
+    "Vulnerable": "",
+    "Storage_X": "7",
+    "Storage_Y": "7",
+    "Explosion": "29",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51023",
+    "Blueprint_0_Supply_0_Amount": "10",
+    "Blueprint_0_Build": "27",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Wooden Wardrobe",
+    "Description": "Wooden wardrobe for storing items."
+  }
+}

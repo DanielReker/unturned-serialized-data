@@ -1,0 +1,13 @@
+{
+  "name": "France_School",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/France_School/France_School.dat",
+  "data": {
+    "GUID": "56cca973614540eba9949641d7a927b2",
+    "Type": "Spawn",
+    "ID": "2028",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "150",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

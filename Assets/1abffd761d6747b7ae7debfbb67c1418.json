@@ -1,0 +1,24 @@
+{
+  "name": "Quest_0_Beacon_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_0/Quest_0_Beacon_0/Asset.dat",
+  "data": {
+    "GUID": "1abffd761d6747b7ae7debfbb67c1418",
+    "Type": "Quest",
+    "ID": "57576",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Horde",
+    "Condition_0_ID": "57401",
+    "Condition_0_Value": "1",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_0_Nav": "0",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "57468  ",
+    "Reward_0_Amount": "2"
+  },
+  "translation": {
+    "Name": "<color=#CE7208>Summoner 1</color>",
+    "Description": "Successfully complete <color=#64c819>1</color> horde beacon in <color=#64c819>Ghost Valley</color>.",
+    "Condition_0": "{0}/{1} Horde Beacons"
+  }
+}

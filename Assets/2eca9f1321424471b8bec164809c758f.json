@@ -1,0 +1,15 @@
+{
+  "name": "FromTheGroundUp_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Alexander/Alexander_02/FromTheGroundUp_Completed/Asset.dat",
+  "data": {
+    "GUID": "2eca9f1321424471b8bec164809c758f",
+    "Type": "Dialogue",
+    "ID": "24589",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "5"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you! These tools and building supplies will come in handy."
+  }
+}

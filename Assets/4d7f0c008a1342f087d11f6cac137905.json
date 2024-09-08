@@ -1,0 +1,15 @@
+{
+  "name": "France_Chef_Pan_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Chef/France_Chef_Pan_Completed/Asset.dat",
+  "data": {
+    "GUID": "4d7f0c008a1342f087d11f6cac137905",
+    "Type": "Dialogue",
+    "ID": "4147",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "YES! You found it!",
+    "Message_0_Page_1": "Thank you so much!"
+  }
+}

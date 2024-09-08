@@ -1,0 +1,14 @@
+{
+  "name": "Armory_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Armory_Arnold/Armory_Accepted/Asset.dat",
+  "data": {
+    "GUID": "b8503c7635f148a0b1c344d83a737f74",
+    "Type": "Dialogue",
+    "ID": "2031",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Please find them. We need to stock up the armory!"
+  }
+}

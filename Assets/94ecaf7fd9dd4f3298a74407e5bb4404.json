@@ -1,0 +1,31 @@
+{
+  "name": "Metro_Scope_Makeshift",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_Scope_Makeshift/Metro_Scope_Makeshift.dat",
+  "data": {
+    "GUID": "94ecaf7fd9dd4f3298a74407e5bb4404",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "ID": "57726 ",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.125",
+    "Zoom": "3.75",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "57669",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Tool",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "57726",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "67",
+    "Blueprint_1_Output_0_Amount": "2",
+    "Blueprint_1_Build": "27"
+  },
+  "translation": {
+    "Name": "Makeshift Scope",
+    "Description": "<color=#64c819>3.75x</color> Zoom"
+  }
+}

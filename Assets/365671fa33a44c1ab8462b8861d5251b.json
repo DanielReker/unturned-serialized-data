@@ -1,0 +1,13 @@
+{
+  "name": "Buak_AN_Bee",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_AN_Bee/Buak_AN_Bee.dat",
+  "data": {
+    "GUID": "365671fa33a44c1ab8462b8861d5251b",
+    "Type": "Spawn",
+    "ID": "25335",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25685",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,12 @@
+{
+  "name": "CA_Sporting_Sign_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Signs/CA_Sporting_Sign_0/CA_Sporting_Sign_0.dat",
+  "data": {
+    "GUID": "4d6bd4f1b9544c748152681d6411f88f",
+    "Type": "Large",
+    "ID": "4668"
+  },
+  "translation": {
+    "Name": "California Sporting Sign #1"
+  }
+}

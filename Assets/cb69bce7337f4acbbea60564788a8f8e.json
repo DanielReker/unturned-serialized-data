@@ -1,0 +1,13 @@
+{
+  "name": "Russia_Chef",
+  "path": "Bundles/Spawns/Items/Russia_Chef/Russia_Chef.dat",
+  "data": {
+    "GUID": "cb69bce7337f4acbbea60564788a8f8e",
+    "Type": "Spawn",
+    "ID": "566",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "204",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

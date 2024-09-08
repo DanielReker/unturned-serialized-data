@@ -1,0 +1,14 @@
+{
+  "name": "Captain_Recon_Belfast_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/Coali/Captain_Isaac/Captain_Recon_Belfast_Accepted/Asset.dat",
+  "data": {
+    "GUID": "7fc4399de64e47b784a6cd8c03d016c1",
+    "Type": "Dialogue",
+    "ID": "15130",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Alright, don't expect it to be cheery out there. We could hear the gunshots from here."
+  }
+}

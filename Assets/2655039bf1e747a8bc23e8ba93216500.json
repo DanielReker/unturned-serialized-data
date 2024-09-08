@@ -1,0 +1,13 @@
+{
+  "name": "PS_Minibus_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Minibus_0/PS_Minibus_0.dat",
+  "data": {
+    "GUID": "2655039bf1e747a8bc23e8ba93216500",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60137"
+  },
+  "translation": {
+    "Name": "PS Minibus #1"
+  }
+}

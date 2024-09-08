@@ -1,0 +1,29 @@
+{
+  "name": "Bleach",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Bleach/Bleach.dat",
+  "data": {
+    "GUID": "21fa3252d2b148f2ab161cb88a664791",
+    "Type": "Water",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "25331",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.52",
+    "Water": "2",
+    "Virus": "99",
+    "Vision": "120",
+    "ConsumeAudioClip": "Sounds/Food/drinkBottle.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "25316",
+    "Quest_Reward_0_Amount": "1",
+    "Quest_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Bleach",
+    "Description": "A bottle of bleach, perfect for removing dye!<br><color=#cd32da>Extracts Dye From Clothing</color>"
+  }
+}

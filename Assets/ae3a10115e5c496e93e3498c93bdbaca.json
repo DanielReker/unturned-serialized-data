@@ -1,0 +1,25 @@
+{
+  "name": "Spawn_Bottom_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Pants/Spawn_Bottom_2/Spawn_Bottom_2.dat",
+  "data": {
+    "GUID": "ae3a10115e5c496e93e3498c93bdbaca",
+    "Type": "Pants",
+    "Useable": "Clothing",
+    "ID": "52045",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Width": "3",
+    "Height": "2",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "52045",
+    "Blueprint_0_Product": "51020",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "32"
+  },
+  "translation": {
+    "Name": "Survivor Bottom",
+    "Description": "Some torn up shorts.  Not very useful."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Motel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Motel/Motel.dat",
+  "data": {
+    "GUID": "b41d1598cb1e48ecbc1c81b7b30f4790",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Motel 1"
+  }
+}

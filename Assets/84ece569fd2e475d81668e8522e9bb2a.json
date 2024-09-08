@@ -1,0 +1,28 @@
+{
+  "name": "MilitaryWeapons",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Military/MilitaryWeapons/MilitaryWeapons.dat",
+  "data": {
+    "GUID": "84ece569fd2e475d81668e8522e9bb2a",
+    "Type": "Spawn",
+    "ID": "51008",
+    "Tables": [
+      {
+        "Guid": "2fd8e307e9b44d1aa11bd9f8272e6944",
+        "Weight": "22"
+      },
+      {
+        "Guid": "48e99fe983854d3fab0d4ad2cb24ff46",
+        "Weight": "22"
+      },
+      {
+        "Guid": "662ea163263d4f01a9bc41283e3a97b9",
+        "Weight": "8"
+      },
+      {
+        "Guid": "656d0c41cfd7425fb04f5d18ce9481dd",
+        "Weight": "8"
+      }
+    ]
+  },
+  "translation": null
+}

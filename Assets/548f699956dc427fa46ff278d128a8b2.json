@@ -1,0 +1,14 @@
+{
+  "name": "Sportscar_Green",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Large/Vehicles/Hawaii/Sportscar_Green/Sportscar_Green.dat",
+  "data": {
+    "GUID": "548f699956dc427fa46ff278d128a8b2",
+    "Type": "Large",
+    "ID": "914",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Green Sportscar"
+  }
+}

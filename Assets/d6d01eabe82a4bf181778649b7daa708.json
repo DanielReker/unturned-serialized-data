@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Outlands_Store_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Quests/Kuwait_Outlands/Kuwait_Outlands_Store_1/Kuwait_Outlands_Store_1.dat",
+  "data": {
+    "GUID": "d6d01eabe82a4bf181778649b7daa708",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5474",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Final Outlands Store #2"
+  }
+}

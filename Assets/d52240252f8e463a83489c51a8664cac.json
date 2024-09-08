@@ -1,0 +1,24 @@
+{
+  "name": "MilitaryThrowables",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Military/MilitaryThrowables/MilitaryThrowables.dat",
+  "data": {
+    "GUID": "d52240252f8e463a83489c51a8664cac",
+    "Type": "Spawn",
+    "ID": "51010",
+    "Tables": [
+      {
+        "Guid": "e8c7aa7d3ea6486c885f6520f9ba553c",
+        "Weight": "30"
+      },
+      {
+        "Guid": "ee0530de710b411c962b2673489aa875",
+        "Weight": "10"
+      },
+      {
+        "Guid": "1cfa874e522d47beb4baa8ef560daa08",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

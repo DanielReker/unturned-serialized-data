@@ -1,0 +1,13 @@
+{
+  "name": "Carpat_Train_Station_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Objects/Large/Carpat_Train_Station_01/Carpat_Train_Station_01.dat",
+  "data": {
+    "GUID": "d3f877c011a44424940d84c9dc80ae72",
+    "Type": "Large",
+    "ID": "23125",
+    "LOD": "Mesh"
+  },
+  "translation": {
+    "Name": "Carpat Train Station #1"
+  }
+}

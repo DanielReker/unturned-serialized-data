@@ -1,0 +1,16 @@
+{
+  "name": "Engineer_Linus_Door_Advice",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Engineer_Military_Linus/Engineer_Linus_Door_Advice/Asset.dat",
+  "data": {
+    "GUID": "849b0eba9b5340c8b948954c4dea0c5f",
+    "Type": "Dialogue",
+    "ID": "3501",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Have you tried a ratio favoring the cheaper scrap metal to the reinforced metal? Might make a difference.",
+    "Response_0": "I'll give that a go."
+  }
+}

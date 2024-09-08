@@ -1,0 +1,14 @@
+{
+  "name": "Theseus_Door_Oil_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Omega_Security_Theseus/Theseus_Door_Oil_Completed/Asset.dat",
+  "data": {
+    "GUID": "6ccf40333a21454b88e1f27ba6a5a22f",
+    "Type": "Dialogue",
+    "ID": "3349",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh good, I'll get to oiling up these gears in a minute here. You now have two free uses of the main gates, remember to close them behind you, and please be considerate of others."
+  }
+}

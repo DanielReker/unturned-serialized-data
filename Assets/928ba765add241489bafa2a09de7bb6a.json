@@ -1,0 +1,19 @@
+{
+  "name": "Note_Hawaii13",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Note_Hawaii13/Note_Hawaii13.dat",
+  "data": {
+    "GUID": "928ba765add241489bafa2a09de7bb6a",
+    "Type": "Medium",
+    "ID": "6212",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Hawaii Note - Aegis Observatory",
+    "Interactability_Text_Line_0": "The scouting teams found another alter today inside the volcano. It is however currently unreachable due to lava flow. I will report back when I can confirm progress."
+  }
+}

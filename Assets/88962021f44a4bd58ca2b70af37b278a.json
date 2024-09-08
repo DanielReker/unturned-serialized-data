@@ -1,0 +1,25 @@
+{
+  "name": "Officer Bruno",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Quest Givers/Officer Bruno/Asset.dat",
+  "data": {
+    "GUID": "88962021f44a4bd58ca2b70af37b278a",
+    "Type": "NPC",
+    "ID": "9044",
+    "Shirt": "8040",
+    "Pants": "8033",
+    "Face": "5",
+    "Hair": "3",
+    "Beard": "6",
+    "Color_Skin": "#725633",
+    "Color_Hair": "#2d2b26",
+    "Primary": "8048",
+    "Secondary": "8051",
+    "Equipped": "Secondary",
+    "Pose": "Stand",
+    "Dialogue": "9202"
+  },
+  "translation": {
+    "Name": "NAM Officer Bruno",
+    "Character": "<color=uncommon>Officer Bruno</color>"
+  }
+}

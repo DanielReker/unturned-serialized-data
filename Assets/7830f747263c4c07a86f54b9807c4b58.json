@@ -1,0 +1,13 @@
+{
+  "name": "Camp_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Camp_Brazil/Camp_Brazil.dat",
+  "data": {
+    "GUID": "7830f747263c4c07a86f54b9807c4b58",
+    "Type": "Spawn",
+    "ID": "5071",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "180",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Leather",
+  "path": "Bundles/Skins/Eaglefire/Leather/Leather.dat",
+  "data": {
+    "GUID": "60313dbbff54466ebf112b83eef1441f",
+    "Type": "Skin",
+    "ID": "67",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": "",
+    "Secondary_Skins": "2",
+    "Secondary_0": "6",
+    "Secondary_1": "17"
+  },
+  "translation": null
+}

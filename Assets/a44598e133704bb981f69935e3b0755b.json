@@ -1,0 +1,24 @@
+{
+  "name": "Boar",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Animals/Boar/Boar.dat",
+  "data": {
+    "GUID": "a44598e133704bb981f69935e3b0755b",
+    "Type": "Animal",
+    "ID": "6602",
+    "Speed_Run": "12",
+    "Speed_Walk": "4",
+    "Behaviour": "Offense",
+    "Health": "75",
+    "Regen": "0.2",
+    "Damage": "10",
+    "Reward_ID": "525",
+    "Reward_XP": "5",
+    "Reward_Min": "1",
+    "Reward_Max": "2",
+    "Panics": "2",
+    "Roars": "3"
+  },
+  "translation": {
+    "Name": "Boar"
+  }
+}

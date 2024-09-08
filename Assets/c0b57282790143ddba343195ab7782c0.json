@@ -1,0 +1,23 @@
+{
+  "name": "BP_Barrel_Barrel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Barrel_Barrel/Asset.dat",
+  "data": {
+    "GUID": "c0b57282790143ddba343195ab7782c0",
+    "Type": "Quest",
+    "ID": "24909",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "6ea9e6422ab447d2ae74c4d8cb306464",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24908",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Barrel Extention Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Barrel Extention Recipe"
+  }
+}

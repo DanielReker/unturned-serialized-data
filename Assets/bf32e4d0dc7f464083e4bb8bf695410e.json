@@ -1,0 +1,10 @@
+{
+  "name": "PS_Metal_Bar_Break",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Explosions/PS_Metal_Bar_Break/PS_Metal_Bar_Break.dat",
+  "data": {
+    "GUID": "bf32e4d0dc7f464083e4bb8bf695410e",
+    "Type": "Effect",
+    "ID": "59012"
+  },
+  "translation": null
+}

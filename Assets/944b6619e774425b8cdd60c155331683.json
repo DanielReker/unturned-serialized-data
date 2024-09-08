@@ -1,0 +1,13 @@
+{
+  "name": "Buak_AN_Moose",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_AN_Moose/Buak_AN_Moose.dat",
+  "data": {
+    "GUID": "944b6619e774425b8cdd60c155331683",
+    "Type": "Spawn",
+    "ID": "25339",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25569",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

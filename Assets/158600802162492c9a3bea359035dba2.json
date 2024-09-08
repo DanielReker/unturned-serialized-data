@@ -1,0 +1,13 @@
+{
+  "name": "PS_Beam_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Beam_0/PS_Beam_0.dat",
+  "data": {
+    "GUID": "158600802162492c9a3bea359035dba2",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59941"
+  },
+  "translation": {
+    "Name": "PS Beam #1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Microwave",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Microwave/Obj_Microwave.dat",
+  "data": {
+    "GUID": "aed93ae3af9249c68c3f81dcf54b888f",
+    "Type": "Effect",
+    "ID": "25549"
+  },
+  "translation": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "25281DDWelcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/4/D/25281DDD/25281DDWelcome/Asset.dat",
+  "data": {
+    "GUID": "f09a6fb12aca41bba57b087f91d022d5",
+    "Type": "Dialogue",
+    "ID": "25281",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Vendor": "25285",
+    "Response_0_Dialogue": "25283",
+    "Response_1_Dialogue": "25284"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ah-ha! If it isn't the survivor of the hour! Welcome, welcome, I set up this fountain just for us to rest! Behind those doors is something wicked, and I've got just the thing to beat it!",
+    "Response_0": "Sure!",
+    "Response_1": "Are you sure this will work?",
+    "Response_2": "Get lost."
+  }
+}

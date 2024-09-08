@@ -1,0 +1,15 @@
+{
+  "name": "Arid_Golf_Bag",
+  "path": "Bundles/Items/Arid/Arid_Golf_Bag/Arid_Golf_Bag.dat",
+  "data": {
+    "GUID": "5506986fb44e4bce9547c2d969ae71b2",
+    "Type": "Backpack",
+    "Useable": "Clothing",
+    "ID": "1712",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.175",
+    "Pro": ""
+  },
+  "translation": null
+}

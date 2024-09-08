@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Harold_Info",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Harold/PBS_Harold_Info/Asset.dat",
+  "data": {
+    "GUID": "e9c47b73c9d94ad697657a40ad02b8d7",
+    "Type": "Dialogue",
+    "ID": "52238",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I went to the gas station to get me some berries, ate that stuff - woke up, my eye was up 'ere, and my other eye was still down here.  Like, explain, what did you sell me bro, I gotta look for this man, I'm hideous!"
+  }
+}

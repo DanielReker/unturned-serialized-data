@@ -1,0 +1,21 @@
+{
+  "name": "28751KFW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28751KFVF/28751KFW/Asset.dat",
+  "data": {
+    "GUID": "879b8a6222294f1cb81c329f01775053",
+    "Type": "Dialogue",
+    "ID": "28751",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Vendor": "28755",
+    "Response_0_Dialogue": "28753",
+    "Response_1_Dialogue": "28754"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hello friend.",
+    "Response_0": "Are you selling anything?",
+    "Response_1": "Who are you?",
+    "Response_2": "Goodbye."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Metro_STATIC_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Metro_STATIC_5/Metro_STATIC_5.dat",
+  "data": {
+    "GUID": "208fc7bed9554a15b716bb2b8b74edd4",
+    "Type": "Spawn",
+    "ID": "57140",
+    "Tables": "1",
+    "Table_0_Asset_ID": "57486 ",
+    "Table_0_Weight": "111"
+  },
+  "translation": null
+}

@@ -1,0 +1,16 @@
+{
+  "name": "HawaiiGarage_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiGarage_0/HawaiiGarage_0.dat",
+  "data": {
+    "GUID": "353a07dad0764bd8a9d0bf2541bf5b4d",
+    "Type": "Large",
+    "ID": "816",
+    "Soft": "",
+    "LOD": "Mesh",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hawaii Double Garage"
+  }
+}

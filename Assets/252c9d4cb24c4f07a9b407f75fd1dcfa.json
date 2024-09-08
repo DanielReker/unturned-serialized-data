@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Farm_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Farm_00/Buak_Farm_00.dat",
+  "data": {
+    "GUID": "252c9d4cb24c4f07a9b407f75fd1dcfa",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Farm_00"
+  }
+}

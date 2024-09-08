@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait_Outlands_Component_Placed_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Small/Quests/Kuwait_Outlands/Kuwait_Outlands_Component_Placed_0/Kuwait_Outlands_Component_Placed_0.dat",
+  "data": {
+    "GUID": "06fa8480d3b74c188dec29af03d29bce",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "5950",
+    "Master_Bundle_Override": "kuwait.masterbundle",
+    "Bundle_Override_Path": "/Objects/Small/Quests/Kuwait_Outlands/Kuwait_Outlands_Component_0",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "5492",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Kuwait Dynamite Component Place #1 (Quest)"
+  }
+}

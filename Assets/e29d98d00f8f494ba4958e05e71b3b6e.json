@@ -1,0 +1,10 @@
+{
+  "name": "Greece_Furniture",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Assets/Material_Palettes/Greece_Furniture.asset",
+  "data": {
+    "GUID": "e29d98d00f8f494ba4958e05e71b3b6e",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0"
+  },
+  "translation": null
+}

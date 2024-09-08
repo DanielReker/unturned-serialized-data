@@ -1,0 +1,13 @@
+{
+  "name": "Tent_8",
+  "path": "Bundles/Objects/Large/Buildings/Tent_8/Tent_8.dat",
+  "data": {
+    "GUID": "7eccbb1f24234850a553656caa5cc518",
+    "Type": "Large",
+    "ID": "955",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Coalition Tent #2"
+  }
+}

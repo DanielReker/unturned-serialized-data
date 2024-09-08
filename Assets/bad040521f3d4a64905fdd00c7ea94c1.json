@@ -1,0 +1,13 @@
+{
+  "name": "PS_Ship_Wreck_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Ship_Wreck_0/PS_Ship_Wreck_0.dat",
+  "data": {
+    "GUID": "bad040521f3d4a64905fdd00c7ea94c1",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59673"
+  },
+  "translation": {
+    "Name": "PS Ship Wreck #1"
+  }
+}

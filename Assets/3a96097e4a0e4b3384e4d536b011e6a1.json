@@ -1,0 +1,14 @@
+{
+  "name": "Scientist_Pluto_Perfect_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Military_Science/Scientist_Pluto_Perfect_Completed/Asset.dat",
+  "data": {
+    "GUID": "3a96097e4a0e4b3384e4d536b011e6a1",
+    "Type": "Dialogue",
+    "ID": "3644",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh, my... I was not expecting such a mutated specimen! This is truly fascinating, thank you!"
+  }
+}

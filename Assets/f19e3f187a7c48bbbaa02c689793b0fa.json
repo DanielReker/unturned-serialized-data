@@ -1,0 +1,14 @@
+{
+  "name": "PS_Gas_Station_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Gas_Station_0/PS_Gas_Station_0.dat",
+  "data": {
+    "GUID": "f19e3f187a7c48bbbaa02c689793b0fa",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59375",
+    "LOD": "Area"
+  },
+  "translation": {
+    "Name": "PS Gas Station #1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Note_Hawaii16",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Note_Hawaii16/Note_Hawaii16.dat",
+  "data": {
+    "GUID": "352a8c7cc2054f9c853960f39e9fe7c8",
+    "Type": "Medium",
+    "ID": "6215",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "4",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Hawaii Note - Military Outpost",
+    "Interactability_Text_Line_0": "TO: F.o.b. Eagleview",
+    "Interactability_Text_Line_1": "FROM: HQ",
+    "Interactability_Text_Line_2": "*   *   *",
+    "Interactability_Text_Line_3": "We've lost communications with Alika base and require a unit to head down and re-establish contact. Keep your head on a swivel soldier, we don't know what to expect down there."
+  }
+}

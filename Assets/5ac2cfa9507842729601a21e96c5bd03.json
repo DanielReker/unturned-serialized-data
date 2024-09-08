@@ -1,0 +1,21 @@
+{
+  "name": "Military_Ranger_Bottom",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Pants/Military_Ranger_Bottom/Military_Ranger_Bottom.dat",
+  "data": {
+    "GUID": "5ac2cfa9507842729601a21e96c5bd03",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "51110",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Width": "8",
+    "Height": "4",
+    "Armor": "0.85"
+  },
+  "translation": {
+    "Name": "Military Recon Bottom",
+    "Description": "Military pants designed for stealthy reconnisance."
+  }
+}

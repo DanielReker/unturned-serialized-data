@@ -1,0 +1,16 @@
+{
+  "name": "Drop_FilamentStackO",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/BarricadeDestroy/Drop_FilamentStackO/Drop_FilamentStackO.dat",
+  "data": {
+    "GUID": "dcda5d86344a4cbf8eaf375b91cabcbe",
+    "Type": "Spawn",
+    "ID": "51323",
+    "Tables": [
+      {
+        "Guid": "a75504ebc5b94817be0dae43717f3e2b",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

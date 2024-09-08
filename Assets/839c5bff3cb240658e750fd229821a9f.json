@@ -1,0 +1,15 @@
+{
+  "name": "Frost_Box",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Tools/Frost_Box/Frost_Box.dat",
+  "data": {
+    "GUID": "839c5bff3cb240658e750fd229821a9f",
+    "Type": "Supply",
+    "Rarity": "Legendary",
+    "ID": "36470",
+    "Size_X": "2"
+  },
+  "translation": {
+    "Name": "Wooden Lockbox",
+    "Description": "Grants ammunition, a weapon, armor and materials upon being unlocked by Arcanus at the <color=#64c819>Safezone</color>."
+  }
+}

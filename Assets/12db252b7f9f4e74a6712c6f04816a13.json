@@ -1,0 +1,11 @@
+{
+  "name": "Frost_Knot",
+  "path": "Bundles/Items/Frost/Frost_Knot/Frost_Knot.dat",
+  "data": {
+    "GUID": "12db252b7f9f4e74a6712c6f04816a13",
+    "Type": "Backpack",
+    "ID": "1798",
+    "Pro": ""
+  },
+  "translation": null
+}

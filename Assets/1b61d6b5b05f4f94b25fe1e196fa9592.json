@@ -1,0 +1,29 @@
+{
+  "name": "Mag_Slugs_Icon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Misc/Gun_Icons/Mag_Slugs_Icon/Mag_Slugs_Icon.dat",
+  "data": {
+    "GUID": "1b61d6b5b05f4f94b25fe1e196fa9592",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "ID": "27516",
+    "Use_Auto_Icon_Measurements": "False",
+    "Bundle_Override_Path": "/Items/Magazines/Mag_Slugs",
+    "Pro": "",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.14",
+    "Amount": "2",
+    "Count_Min": "1",
+    "Count_Max": "2",
+    "Calibers": "1",
+    "Caliber_0": "25309",
+    "Pellets": "1",
+    "Tracer": "48",
+    "Damage": "2.5",
+    "Spread": "0.1"
+  },
+  "translation": {
+    "Name": "Slugs",
+    "Description": "Slugs designed for a double barrel shotgun."
+  }
+}

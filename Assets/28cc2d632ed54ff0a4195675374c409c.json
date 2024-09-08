@@ -1,0 +1,16 @@
+{
+  "name": "Rio_Internationals_Decal_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Decals/Rio_Internationals_Decal_0/Rio_Internationals_Decal_0.dat",
+  "data": {
+    "GUID": "28cc2d632ed54ff0a4195675374c409c",
+    "Type": "Decal",
+    "ID": "6058",
+    "Decal_X": "6",
+    "Decal_Y": "6",
+    "Decal_LOD_Bias": "1",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Internationals Decal #1"
+  }
+}

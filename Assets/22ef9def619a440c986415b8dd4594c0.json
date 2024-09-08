@@ -1,0 +1,23 @@
+{
+  "name": "Boss_Hat_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Misc/Bosses/Boss_Hat_3/Boss_Hat_3.dat",
+  "data": {
+    "GUID": "22ef9def619a440c986415b8dd4594c0",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "27007",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Beard": "",
+    "Unobtainable": "",
+    "Unsaveable": "",
+    "Pro": "",
+    "Armor": "1",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Boss_Hat_3",
+    "Description": "Classic tater tot looking hair."
+  }
+}

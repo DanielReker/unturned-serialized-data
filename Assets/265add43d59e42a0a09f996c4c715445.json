@@ -1,0 +1,21 @@
+{
+  "name": "Chef_Larry",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Chef_Larry/Asset.dat",
+  "data": {
+    "GUID": "265add43d59e42a0a09f996c4c715445",
+    "Type": "NPC",
+    "ID": "2071",
+    "Shirt": "230",
+    "Pants": "231",
+    "Hat": "239",
+    "Face": "1",
+    "Beard": "4",
+    "Color_Skin": "#bfb1a7",
+    "Color_Hair": "#4f2d23",
+    "Dialogue": "2072"
+  },
+  "translation": {
+    "Name": "Chef Larry",
+    "Character": "Larry"
+  }
+}

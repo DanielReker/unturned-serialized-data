@@ -1,0 +1,37 @@
+{
+  "name": "Get_Circuitry",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Quests/IDF/Get_Circuitry/Asset.dat",
+  "data": {
+    "GUID": "aec43c998669479b9467589c3d248d97",
+    "Type": "Quest",
+    "ID": "15311",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "13101",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "6",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "15003",
+    "Reward_1_Amount": "1",
+    "Reward_2_Type": "Item",
+    "Reward_2_ID": "15004",
+    "Reward_2_Amount": "1",
+    "Reward_3_Type": "Flag_Bool",
+    "Reward_3_ID": "14000",
+    "Reward_3_Value": "True",
+    "Reward_4_Type": "Flag_Short",
+    "Reward_4_ID": "13001",
+    "Reward_4_Value": "1",
+    "Reward_4_Modification": "Increment",
+    "Reward_5_Type": "Reputation",
+    "Reward_5_Value": "5"
+  },
+  "translation": {
+    "Name": "Defragging",
+    "Description": "The computers in Fort Aileen have been running horribly for a while. <color=epic>Major Peter</color> needs a circuit board that was shipped to a hardware store in Athlone. Find the motherboard and let him install it.",
+    "Condition_0": "Find Motherboard {0}/1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Knife",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Effects/Grenades/Knife/Knife.dat",
+  "data": {
+    "GUID": "9cc577664e0943f585ac4f482b643f01",
+    "Type": "Effect",
+    "ID": "51028",
+    "Lifetime": "5",
+    "Spawn_On_Dedicated_Server": ""
+  },
+  "translation": null
+}

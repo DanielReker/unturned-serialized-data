@@ -1,0 +1,11 @@
+{
+  "name": "Frost_Scarf",
+  "path": "Bundles/Items/Frost/Frost_Scarf/Frost_Scarf.dat",
+  "data": {
+    "GUID": "8a3da46333354d5bacaf64c9e0344df4",
+    "Type": "Vest",
+    "ID": "1820",
+    "Pro": ""
+  },
+  "translation": null
+}

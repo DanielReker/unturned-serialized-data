@@ -1,0 +1,25 @@
+{
+  "name": "FishingCratePistol",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Tools/FishingCratePistol/FishingCratePistol.dat",
+  "data": {
+    "GUID": "bc401718e3e34c348afc17775dcd0845",
+    "Type": "Medical",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "51923",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": ".3",
+    "Aid": "",
+    "Quest_Rewards": "2",
+    "Quest_Reward_0_Type": "Rewards_List_Asset",
+    "Quest_Reward_0_GUID": "c440fb64cb134e1dadc45c3d69eca044",
+    "Quest_Reward_1_Type": "Item",
+    "Quest_Reward_1_ID": "51932",
+    "Quest_Reward_1_Amount": "1"
+  },
+  "translation": {
+    "Name": "Short Gun Crate",
+    "Description": "Contains a random handgun or submachinegun, with some extra goodies."
+  }
+}

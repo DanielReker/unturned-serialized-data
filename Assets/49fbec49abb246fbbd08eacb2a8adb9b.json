@@ -1,0 +1,24 @@
+{
+  "name": "Military_Cafeteria_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Cafeteria_0/Asset.dat",
+  "data": {
+    "GUID": "49fbec49abb246fbbd08eacb2a8adb9b",
+    "Type": "NPC",
+    "ID": "3566",
+    "Shirt": "3503",
+    "Pants": "3504",
+    "Face": "8",
+    "Hair": "18",
+    "Beard": "0",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#Ac6A39",
+    "Tertiary": "472",
+    "Equipped": "Tertiary",
+    "Pose": "Sit",
+    "Dialogue": "3585"
+  },
+  "translation": {
+    "Name": "Greek Military Cafeteria Adonis",
+    "Character": "<color=uncommon>Private Adonis</color>"
+  }
+}

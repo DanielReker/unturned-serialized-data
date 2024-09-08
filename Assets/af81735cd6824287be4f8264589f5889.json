@@ -1,0 +1,27 @@
+{
+  "name": "Dunebuggy_America",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Vehicles/Dunebuggy_America/Dunebuggy_America.dat",
+  "data": {
+    "GUID": "af81735cd6824287be4f8264589f5889",
+    "Type": "Spawn",
+    "ID": "825",
+    "Tables": "8",
+    "Table_0_Asset_ID": "824",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "823",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "826",
+    "Table_2_Weight": "10",
+    "Table_3_Asset_ID": "825",
+    "Table_3_Weight": "10",
+    "Table_4_Asset_ID": "820",
+    "Table_4_Weight": "10",
+    "Table_5_Asset_ID": "819",
+    "Table_5_Weight": "10",
+    "Table_6_Asset_ID": "822",
+    "Table_6_Weight": "10",
+    "Table_7_Asset_ID": "821",
+    "Table_7_Weight": "10"
+  },
+  "translation": null
+}

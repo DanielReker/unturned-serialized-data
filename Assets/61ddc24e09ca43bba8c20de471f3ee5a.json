@@ -1,0 +1,14 @@
+{
+  "name": "Chef_Food_Vendor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Cafeteria_Chef_Military/Chef_Food_Vendor/Asset.dat",
+  "data": {
+    "GUID": "61ddc24e09ca43bba8c20de471f3ee5a",
+    "Type": "Dialogue",
+    "ID": "3481",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hopefully that'll hit the spot."
+  }
+}

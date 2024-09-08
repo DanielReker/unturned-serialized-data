@@ -1,0 +1,36 @@
+{
+  "name": "Syndicate_Magazines",
+  "path": "Bundles/Spawns/Items/Syndicate_Magazines/Syndicate_Magazines.dat",
+  "data": {
+    "GUID": "974bbb7be79a49f2aaf8a3de197ddbae",
+    "Type": "Spawn",
+    "ID": "769",
+    "Tables": [
+      {
+        "LegacyAssetId": "1361",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "1040",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "123",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "1479",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "1371",
+        "Weight": "10"
+      },
+      {
+        "Guid": "d65116922b5f4a21b009e076d98ab94b",
+        "Weight": "10"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,31 @@
+{
+  "name": "PS_Nightvision_Goggles_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Glasses/PS_Nightvision_Goggles_1/PS_Nightvision_Goggles_1.dat",
+  "data": {
+    "GUID": "f8aed542ea4644778a7de6176ac9979a",
+    "Type": "Glasses",
+    "Rarity": "Legendary",
+    "Useable": "Clothing",
+    "ID": "59755",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.175",
+    "Hair": "",
+    "Beard": "",
+    "Vision": "Military",
+    "Nightvision_Color_R": "111",
+    "Nightvision_Color_G": "218",
+    "Nightvision_Color_B": "229",
+    "Nightvision_Fog_Intensity": "0",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59000",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Nightvision Goggles",
+    "Description": "Brightness enhancing military grade goggles. <br><color=#FF823A>Grants Nightvision ☼</color>"
+  }
+}

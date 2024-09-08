@@ -1,0 +1,23 @@
+{
+  "name": "BP_Divider_Concrete",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Divider_Concrete/Asset.dat",
+  "data": {
+    "GUID": "26f5f163735342f4bb1bcc93ac157e24",
+    "Type": "Quest",
+    "ID": "24853",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "4099c1d9dbb04ccd85c80f6502045b2e",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24852",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Concrete Divider Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Concrete Divider Recipe"
+  }
+}

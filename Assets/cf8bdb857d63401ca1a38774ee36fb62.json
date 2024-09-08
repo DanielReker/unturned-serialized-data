@@ -1,0 +1,20 @@
+{
+  "name": "Rio_Computer_Note_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Rio_Computer_Note_1/Rio_Computer_Note_1.dat",
+  "data": {
+    "GUID": "cf8bdb857d63401ca1a38774ee36fb62",
+    "Type": "Medium",
+    "ID": "6119",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "4",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Computer - Servers Concluded #1",
+    "Interactability_Text_Line_0": "Zombie Prevention Department",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "29/12/2016 - We've finally installed the facility's servers, now they are fully functional, which means that we can store a bigger amount of data locally. Also, our team is finishing the installation of the emergency generators, I'm so happy that those constant blackouts won't make us lose any precious data, not anymore.",
+    "Interactability_Text_Line_3": "Carlos Afonso."
+  }
+}

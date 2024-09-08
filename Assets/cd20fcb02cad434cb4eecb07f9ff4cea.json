@@ -1,0 +1,32 @@
+{
+  "name": "CA_Alice_Rig_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Vests/CA_Alice_Rig_1/CA_Alice_Rig_1.dat",
+  "data": {
+    "GUID": "cd20fcb02cad434cb4eecb07f9ff4cea",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "4078",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "6",
+    "Height": "6",
+    "Armor": "0.94",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "4078",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "3",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Alice Rig",
+    "Description": "Chest rig with a lot of pouches. Ideal for carrying equipment."
+  }
+}

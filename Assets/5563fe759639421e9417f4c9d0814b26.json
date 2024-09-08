@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Building_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Metro_Building_1/Metro_Building_1.dat",
+  "data": {
+    "GUID": "5563fe759639421e9417f4c9d0814b26",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57649"
+  },
+  "translation": {
+    "Name": "Metro Building #2"
+  }
+}

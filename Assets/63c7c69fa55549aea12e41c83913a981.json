@@ -1,0 +1,20 @@
+{
+  "name": "Flag_Chile",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Parks/Flag_Chile/Flag_Chile.dat",
+  "data": {
+    "GUID": "63c7c69fa55549aea12e41c83913a981",
+    "Type": "Medium",
+    "ID": "6607",
+    "Snowshoe": "",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "100",
+    "Interactability_Effect": "72",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Chilean  Flag"
+  }
+}

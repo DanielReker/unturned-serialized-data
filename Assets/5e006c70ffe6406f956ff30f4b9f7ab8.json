@@ -1,0 +1,12 @@
+{
+  "name": "Burned_Bunker",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Burned_Bunker/Burned_Bunker.dat",
+  "data": {
+    "GUID": "5e006c70ffe6406f956ff30f4b9f7ab8",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Burned Bunker"
+  }
+}

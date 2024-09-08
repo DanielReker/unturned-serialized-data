@@ -1,0 +1,14 @@
+{
+  "name": "Cas_Arms_Shipment_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military Lieutenant Cas/Cas_Arms_Shipment_Accepted/Asset.dat",
+  "data": {
+    "GUID": "e0af5ee5893a41438a26a69b752e1b9e",
+    "Type": "Dialogue",
+    "ID": "9061",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You really don't have to do this, but thank you."
+  }
+}

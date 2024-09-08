@@ -1,0 +1,14 @@
+{
+  "name": "PS_Train_Depo_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Train_Depo_0/PS_Train_Depo_0.dat",
+  "data": {
+    "GUID": "6151eef80c29417e80c4f29a80031a4e",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59671",
+    "LOD": "Area"
+  },
+  "translation": {
+    "Name": "PS Train Depo #1"
+  }
+}

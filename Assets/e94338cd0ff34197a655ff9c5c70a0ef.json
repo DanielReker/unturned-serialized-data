@@ -1,0 +1,14 @@
+{
+  "name": "RULA_Freezer_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Medium/RULA/RULA_Freezer_0/RULA_Freezer_0.dat",
+  "data": {
+    "GUID": "e94338cd0ff34197a655ff9c5c70a0ef",
+    "Type": "Medium",
+    "ID": "35132",
+    "Snowshoe": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "RULA Freezer #1"
+  }
+}

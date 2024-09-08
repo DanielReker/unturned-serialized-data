@@ -1,0 +1,20 @@
+{
+  "name": "Water_Zombie_Barnicals_Backpack",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Clothing/Backpacks/Water_Zombie_Barnicals_Backpack/Water_Zombie_Barnicals_Backpack.dat",
+  "data": {
+    "GUID": "d2f909e7e38e424da4d566c5d51f7564",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "6658",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.6",
+    "Width": "1",
+    "Height": "1"
+  },
+  "translation": {
+    "Name": "Water_Zombie_Barnicals_Backpack",
+    "Description": "Water_Zombie_Barnicals_Backpack"
+  }
+}

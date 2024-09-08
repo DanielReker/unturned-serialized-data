@@ -1,0 +1,13 @@
+{
+  "name": "Buak_BioPants",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_BioPants/Buak_BioPants.dat",
+  "data": {
+    "GUID": "6224edbd92f1404392f2cfaa79876335",
+    "Type": "Spawn",
+    "ID": "25379",
+    "Tables": "1",
+    "Table_0_Asset_ID": "26658",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

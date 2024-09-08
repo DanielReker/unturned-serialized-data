@@ -1,0 +1,13 @@
+{
+  "name": "Allegorical_Bird",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Allegorical_Bird/Allegorical_Bird.dat",
+  "data": {
+    "GUID": "b827cae28d104fcb9ad193134c3fa65a",
+    "Type": "Large",
+    "ID": "7072",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Bird Float"
+  }
+}

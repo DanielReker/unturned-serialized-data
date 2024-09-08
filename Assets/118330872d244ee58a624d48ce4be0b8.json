@@ -1,0 +1,16 @@
+{
+  "name": "BConnector",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/BConnector/BConnector.dat",
+  "data": {
+    "GUID": "118330872d244ee58a624d48ce4be0b8",
+    "Type": "Large",
+    "ID": "45756",
+    "Collision_Important": "",
+    "Soft": "",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Shelter Connector #1"
+  }
+}

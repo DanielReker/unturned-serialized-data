@@ -1,0 +1,14 @@
+{
+  "name": "Elver2_Skater_Top_Gray",
+  "path": "Bundles/Items/Elver2/Elver2_Skater_Top_Gray/Elver2_Skater_Top_Gray.dat",
+  "data": {
+    "GUID": "3cfe18fb78c74593ac199e64381a81f1",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "1624",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Pro": ""
+  },
+  "translation": null
+}

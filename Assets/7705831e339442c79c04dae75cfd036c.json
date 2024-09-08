@@ -1,0 +1,15 @@
+{
+  "name": "Pirate_Catch_Completed",
+  "path": "Bundles/NPCs/Dialogues/Pirate/Pirate_Catch_Completed/Asset.dat",
+  "data": {
+    "GUID": "7705831e339442c79c04dae75cfd036c",
+    "Type": "Dialogue",
+    "ID": "39",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Blimey that's a big one! Good work matey, you take this plaque and display it proudly!",
+    "Message_0_Page_1": "Me? There's plenty of fish in the sea. To be honest I find this relaxing, and a fresh catch gives Leonard some variety to work with. I'll find a new nemisis! <i>*eyes smile*</i>"
+  }
+}

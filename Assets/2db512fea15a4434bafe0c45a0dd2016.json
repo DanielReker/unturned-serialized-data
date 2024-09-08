@@ -1,0 +1,13 @@
+{
+  "name": "Barbecue_0",
+  "path": "Bundles/Objects/Medium/Parks/Barbecue_0/Barbecue_0.dat",
+  "data": {
+    "GUID": "2db512fea15a4434bafe0c45a0dd2016",
+    "Type": "Medium",
+    "ID": "236",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Barbecue #1"
+  }
+}

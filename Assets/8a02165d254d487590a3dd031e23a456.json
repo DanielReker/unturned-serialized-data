@@ -1,0 +1,35 @@
+{
+  "name": "Owen_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/04/Owen_04/Asset.dat",
+  "data": {
+    "GUID": "8a02165d254d487590a3dd031e23a456",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "82785284144d4fefa8046b8787284bb0",
+    "Shirt": "fc7fbb4cd63f48169fd05bf20f65fb7b",
+    "Has_Christmas_Outfit": "True",
+    "Christmas_Shirt": "1f77a245e3e241d9949f46914851ea0b",
+    "Christmas_Hat": "bcdd64e659e749bf90c3fb51e5edfc9f",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Shirt": "b63b985996194952aaf1e5e74e457439",
+    "Halloween_Hat": "60c514667ab942598af5c23c51c62a03",
+    "Face": "5",
+    "Hair": "4",
+    "Color_Skin": "#94764B",
+    "Color_Hair": "#161616",
+    "Tertiary": "b54456cb42ea468da6f8a8c2d087ae96",
+    "Equipped": "Tertiary",
+    "Pose": "Sit",
+    "Dialogue": "07e5f81ef37b4ecdb6964ef426e1a099",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24785",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Owen_04",
+    "Character": "<color=legendary>Owen</color>"
+  }
+}

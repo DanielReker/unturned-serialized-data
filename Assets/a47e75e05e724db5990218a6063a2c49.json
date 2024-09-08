@@ -1,0 +1,14 @@
+{
+  "name": "PS_Shelf_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Shelf_5/PS_Shelf_5.dat",
+  "data": {
+    "GUID": "a47e75e05e724db5990218a6063a2c49",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59476",
+    "Material_Palette": "73c319e7b66b449a8cba6ec915fbb387"
+  },
+  "translation": {
+    "Name": "PS Shelf #6 [Metal]"
+  }
+}

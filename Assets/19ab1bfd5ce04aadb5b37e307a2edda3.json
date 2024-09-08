@@ -1,0 +1,15 @@
+{
+  "name": "California_Carepackage",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_Carepackage/California_Carepackage.dat",
+  "data": {
+    "GUID": "19ab1bfd5ce04aadb5b37e307a2edda3",
+    "Type": "Spawn",
+    "ID": "4409",
+    "Tables": "2",
+    "Table_0_Spawn_ID": "4408",
+    "Table_0_Weight": "35",
+    "Table_1_Spawn_ID": "4410",
+    "Table_1_Weight": "15"
+  },
+  "translation": null
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Rio_Paulio_Yellow",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Vehicles/Rio_Paulio_Yellow/Rio_Paulio_Yellow.dat",
+  "data": {
+    "GUID": "ae62bcacfeca4d2abd23f761ee0ae70c",
+    "Type": "Vehicle",
+    "Rarity": "Rare",
+    "ID": "4419",
+    "Speed_Min": "-5",
+    "Speed_Max": "17",
+    "Steer_Min": "12",
+    "Steer_Max": "24",
+    "Brake": "24",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "1500",
+    "Health_Min": "350",
+    "Health_Max": "450",
+    "Health": "650",
+    "Trunk_Storage_X": "5",
+    "Trunk_Storage_Y": "3",
+    "Explosion": "20"
+  },
+  "translation": {
+    "Name": "Yellow Paulio"
+  }
+}

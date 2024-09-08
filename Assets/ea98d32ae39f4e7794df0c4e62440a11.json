@@ -1,0 +1,14 @@
+{
+  "name": "26131KECC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26110KECD/26130KECC/26131KECC/Asset.dat",
+  "data": {
+    "GUID": "ea98d32ae39f4e7794df0c4e62440a11",
+    "Type": "Dialogue",
+    "ID": "26131",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Here you are! Thanks for the money."
+  }
+}

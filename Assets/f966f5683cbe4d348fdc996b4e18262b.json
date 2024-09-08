@@ -1,0 +1,14 @@
+{
+  "name": "25613KMKrissAccepted2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/256 CS/25610KMKD/25613KMKrissAccepted2/Asset.dat",
+  "data": {
+    "GUID": "f966f5683cbe4d348fdc996b4e18262b",
+    "Type": "Dialogue",
+    "ID": "25613",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'll be waiting."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "27355KMPA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27350KMPD/27355KMPA/Asset.dat",
+  "data": {
+    "GUID": "931fbd9e8b4d4b76b8cdc0542fd2b4de",
+    "Type": "Dialogue",
+    "ID": "27355",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "27351"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good luck out there - stay safe."
+  }
+}

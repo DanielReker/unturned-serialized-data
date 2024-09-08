@@ -1,0 +1,22 @@
+{
+  "name": "Buak_Note_10",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Note_10/Buak_Note_10.dat",
+  "data": {
+    "GUID": "0e586dc3564443f0a8d25166745525a1",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Material_Palette": "3758ac9d1b774a4a99a407c069e2a21a",
+    "Bundle_Override_Path": "/Objects/Small/Furniture/Buak_Note_00"
+  },
+  "translation": {
+    "Name": "Buak_Note_10",
+    "Interactability_Text_Line_0": "Tyler's Notes",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "It appears some serious crime is happening for once in this town. NOT that I’m excited of course it just gets very boring, not that it’s a bad thing! Point is… for whatever reason the RCMP and some other officers are going to be arriving tomorrow for a discussion of sorts."
+  }
+}

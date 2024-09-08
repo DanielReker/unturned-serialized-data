@@ -1,0 +1,18 @@
+{
+  "name": "Carpat_Green_Dot_Sight",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Items/Sights/Carpat_Green_Dot_Sight/Carpat_Green_Dot_Sight.dat",
+  "data": {
+    "GUID": "939536dbae7640aba9059d4410948bd9",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "ID": "23537",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Green Sight",
+    "Description": "Rail mounted sight with electronic aiming point made in Russia."
+  }
+}

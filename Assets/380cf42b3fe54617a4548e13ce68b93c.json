@@ -1,0 +1,18 @@
+{
+  "name": "Buak_Q_S7M2_Door_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M2/Buak_Q_S7M2_Door_03/Buak_Q_S7M2_Door_03.dat",
+  "data": {
+    "GUID": "380cf42b3fe54617a4548e13ce68b93c",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Interactability": "Binary_State",
+    "Interactability_Delay": "1",
+    "Interactability_Reset": "10",
+    "Bundle_Override_Path": "/Objects/Large/Monuments/Buak_LAB/Buak_LAB_Door_03_1"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M2_Door_03"
+  }
+}

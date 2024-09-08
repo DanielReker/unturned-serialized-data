@@ -1,0 +1,17 @@
+{
+  "name": "Schofield_Iron_Sights",
+  "path": "Bundles/Items/Sights/Schofield_Iron_Sights/Schofield_Iron_Sights.dat",
+  "data": {
+    "GUID": "da2bfe50b3654a7799dda42e19edd029",
+    "Type": "Sight",
+    "ID": "102",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.05",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Schofield Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

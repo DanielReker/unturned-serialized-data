@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Boombox",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Boombox/Bar_Boombox.dat",
+  "data": {
+    "GUID": "3c5e8eef9733414582e0135fd7459818",
+    "Type": "Effect",
+    "ID": "25346"
+  },
+  "translation": null
+}

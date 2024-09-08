@@ -1,0 +1,18 @@
+{
+  "name": "Hawaii_Pine_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Assets/Trees/Hawaii_Pine_0.asset",
+  "data": {
+    "GUID": "6bbae4356d494a779f085081746d9536",
+    "Type": "SDG.Framework.Foliage.FoliageResourceInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Density": "4000",
+    "Min_Weight": "0.5",
+    "Max_Weight": "1",
+    "Min_Angle": "0",
+    "Max_Angle": "60",
+    "Resource": {
+      "GUID": "5a404d79deeb4b92a671b2c2c57ef0b7"
+    },
+    "Obstruction_Radius": "4"
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Catacomb_Tunnel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Tunnels/Catacomb_Tunnel/Catacomb_Tunnel.dat",
+  "data": {
+    "GUID": "4f5174ae96b247cd953da607c29f6a1e",
+    "Type": "Large",
+    "ID": "35158",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Catacomb Tunnels #1"
+  }
+}

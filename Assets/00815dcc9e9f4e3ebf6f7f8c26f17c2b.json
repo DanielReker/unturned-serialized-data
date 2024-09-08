@@ -1,0 +1,14 @@
+{
+  "name": "GreeceSign_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceSign_3/GreeceSign_3.dat",
+  "data": {
+    "GUID": "00815dcc9e9f4e3ebf6f7f8c26f17c2b",
+    "Type": "Small",
+    "ID": "6309",
+    "Material_Palette": "08f8b599a1764d98ac142fa40ada5af3",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Sign Hardware"
+  }
+}

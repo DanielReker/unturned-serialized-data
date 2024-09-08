@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Cruz_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Cruz/PBS_Cruz_Completed/Asset.dat",
+  "data": {
+    "GUID": "8ac2aa8b744a404f809e552d48376ba2",
+    "Type": "Dialogue",
+    "ID": "52166",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good choice on the type.  Definitely something I would've picked too."
+  }
+}

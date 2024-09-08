@@ -1,0 +1,14 @@
+{
+  "name": "28817KAQ4A",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28801KACD/28817KAQ4A/Asset.dat",
+  "data": {
+    "GUID": "0b870aa31b61432d90137e22d47baabd",
+    "Type": "Dialogue",
+    "ID": "28817",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Stay safe. This will be the last step needed."
+  }
+}

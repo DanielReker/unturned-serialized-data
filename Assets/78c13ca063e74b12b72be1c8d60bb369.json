@@ -1,0 +1,25 @@
+{
+  "name": "Buak_Pine_05",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Trees/Buak_Pine_05/Buak_Pine_05.dat",
+  "data": {
+    "GUID": "78c13ca063e74b12b72be1c8d60bb369",
+    "Type": "Resource",
+    "ID": "25365",
+    "Health": "1000",
+    "Radius": "5",
+    "Scale": "0.3",
+    "Explosion": "25308",
+    "Reward_ID": "25302",
+    "Reward_XP": "2",
+    "Reward_Min": "5",
+    "Reward_Max": "8",
+    "Reset": "750",
+    "Auto_Skybox": "",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Pine_05",
+    "Description": "The forest reeks of sulphur."
+  }
+}

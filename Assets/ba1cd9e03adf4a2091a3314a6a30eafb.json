@@ -1,0 +1,17 @@
+{
+  "name": "Car_Lift_0",
+  "path": "Bundles/Objects/Medium/Utilities/Car_Lift_0/Car_Lift_0.dat",
+  "data": {
+    "GUID": "ba1cd9e03adf4a2091a3314a6a30eafb",
+    "Type": "Medium",
+    "ID": "106",
+    "Interactability": "Binary_State",
+    "Interactability_Delay": "2.25",
+    "Interactability_Hint": "Door",
+    "Interactability_Power": "Toggle",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Car Lift #1"
+  }
+}

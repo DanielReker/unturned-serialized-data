@@ -1,0 +1,14 @@
+{
+  "name": "Stranded_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Stranded_Island/Stranded_Completed/Asset.dat",
+  "data": {
+    "GUID": "3ffb043bedae42cdaf11163fb856c84e",
+    "Type": "Dialogue",
+    "ID": "2008",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you so much! Now I can finally get off this island!"
+  }
+}

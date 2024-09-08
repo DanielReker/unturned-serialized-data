@@ -1,0 +1,16 @@
+{
+  "name": "Lukas_End",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Sailor Lukas/Lukas_End/Asset.dat",
+  "data": {
+    "GUID": "bfe74edf4654429ca0533507285c2e31",
+    "Type": "Dialogue",
+    "ID": "9165",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "It took them long enough...I will get the boat ready!",
+    "Response_0": "Alright, be careful!"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Metro_Hatch_Metal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Metro_Hatch_Metal/Metro_Hatch_Metal.dat",
+  "data": {
+    "GUID": "3e66a7eef216481c81305c6fc520bf65",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Hatch",
+    "ID": "57269",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.29",
+    "Health": "900",
+    "Range": "4",
+    "Radius": "0.5",
+    "Locked": "",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "67",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Elver",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Metal Hatch",
+    "Description": "<color=#64c819>900</color> Health<br><color=#64c819>Locked</color>"
+  }
+}

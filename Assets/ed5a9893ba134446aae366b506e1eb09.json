@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Roof_Fan_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Roof_Fan_02/Buak_Roof_Fan_02.dat",
+  "data": {
+    "GUID": "ed5a9893ba134446aae366b506e1eb09",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Roof_Fan_02"
+  }
+}

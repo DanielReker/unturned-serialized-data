@@ -1,0 +1,20 @@
+{
+  "name": "Survivor Andre",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Survivors/Survivor Andre/Asset.dat",
+  "data": {
+    "GUID": "c730d65401834305b530a156577cd30c",
+    "Type": "NPC",
+    "ID": "9017",
+    "Shirt": "165",
+    "Pants": "207",
+    "Face": "5",
+    "Hair": "12",
+    "Color_Skin": "#f4e4d0",
+    "Color_Hair": "#824206",
+    "Dialogue": "9201"
+  },
+  "translation": {
+    "Name": "NAM Survivor André",
+    "Character": "André"
+  }
+}

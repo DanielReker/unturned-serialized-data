@@ -1,0 +1,13 @@
+{
+  "name": "Alpha Valley_Arena_Ghillie_Hood",
+  "path": "Bundles/Spawns/Items/Alpha Valley_Arena_Ghillie_Hood/Alpha Valley_Arena_Ghillie_Hood.dat",
+  "data": {
+    "GUID": "3664e957fc664af2a908ca72b8113841",
+    "Type": "Spawn",
+    "ID": "60",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "24",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

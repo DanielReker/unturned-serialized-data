@@ -1,0 +1,28 @@
+{
+  "name": "28815KAR",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/Q/28815KAR/Asset.dat",
+  "data": {
+    "GUID": "478a33099b504bd6ac240eeb651369d2",
+    "Type": "Quest",
+    "ID": "28815",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "28816",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "3",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "5",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "27000",
+    "Reward_2_Value": "1",
+    "Reward_2_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "<color=#b8b188>Concord: </color><color=epic>Radio Repair</color>",
+    "Description": "With the radio acquired, it just now needs to be assembled. Perhaps a Concord member may know how to do it?",
+    "Condition_0": "Repair Radio"
+  }
+}

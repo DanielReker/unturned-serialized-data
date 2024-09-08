@@ -1,0 +1,32 @@
+{
+  "name": "Military_Top_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Items/Shirts/Military_Top_Brazil/Military_Top_Brazil.dat",
+  "data": {
+    "GUID": "3b028d500f3b48abb536ba752213ebaa",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "8009",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "6",
+    "Height": "3",
+    "Armor": "0.9",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "8009",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "3",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "3",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Military Top",
+    "Description": "Military uniform shirt."
+  }
+}

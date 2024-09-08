@@ -1,0 +1,27 @@
+{
+  "name": "Debug_Food",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Food/Debug_Food/Debug_Food.dat",
+  "data": {
+    "GUID": "b2f81d48327f4ec4b1cc03a3e6e20295",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "51099",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Size2_Z": "0.35",
+    "Health": "10",
+    "Food": "55",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Canned_Beans",
+    "Shared_Skin_Lookup_ID": "13",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Event",
+    "Quest_Reward_0_ID": "ADATSFIRE"
+  },
+  "translation": {
+    "Name": "Canned Beans",
+    "Description": "Very tactically packed for maximum taste."
+  }
+}

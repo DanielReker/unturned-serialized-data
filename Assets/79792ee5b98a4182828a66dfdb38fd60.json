@@ -1,0 +1,23 @@
+{
+  "name": "Owen_Questions",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Owen/Owen_04/Owen_Questions/Asset.dat",
+  "data": {
+    "GUID": "79792ee5b98a4182828a66dfdb38fd60",
+    "Type": "Dialogue",
+    "ID": "24058",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "fb1283273c48494a93b50b1fce0259d0",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "d901cec9f75340a0bbd4ed5a84cff487",
+    "Response_0_Condition_0_Status": "Completed"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ask away!",
+    "Response_0": "Where did you get that keytar?",
+    "Response_1": "Nevermind!"
+  }
+}

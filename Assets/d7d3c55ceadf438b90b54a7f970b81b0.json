@@ -1,0 +1,35 @@
+{
+  "name": "PS_Trader_0_Quest_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_0_Dialogue/PS_Trader_0_Quest_3/Asset.dat",
+  "data": {
+    "GUID": "d7d3c55ceadf438b90b54a7f970b81b0",
+    "Type": "Quest",
+    "ID": "59017",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59262",
+    "Condition_0_Amount": "5",
+    "Condition_0_Reset": "",
+    "Rewards": "5",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "59007",
+    "Reward_0_Value": "True",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "59535",
+    "Reward_1_Amount": "0",
+    "Reward_2_Type": "Item",
+    "Reward_2_ID": "59534",
+    "Reward_2_Amount": "0",
+    "Reward_3_Type": "Experience",
+    "Reward_3_Value": "400",
+    "Reward_4_Type": "Item",
+    "Reward_4_ID": "59325",
+    "Reward_4_Amount": "1"
+  },
+  "translation": {
+    "Name": "Arsenal IV",
+    "Description": "Bring me 5x <color=#4b64fa>High Tier Gun Parts</color>.",
+    "Reward_1": "Ability to purchase magazines.",
+    "Reward_2": "More barters."
+  }
+}

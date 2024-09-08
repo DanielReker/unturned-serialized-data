@@ -1,0 +1,16 @@
+{
+  "name": "Tunnel_Line_0",
+  "path": "Bundles/Objects/Large/Roads/Tunnel_Line_0/Tunnel_Line_0.dat",
+  "data": {
+    "GUID": "7e1ad0495e7d4d82bf79d631c07a9e3d",
+    "Type": "Large",
+    "ID": "133",
+    "Snowshoe": "",
+    "Soft": "",
+    "Chart": "Highway",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Tunnel Line #1"
+  }
+}

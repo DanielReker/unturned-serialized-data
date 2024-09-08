@@ -1,0 +1,21 @@
+{
+  "name": "Metro_Bush_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Resources/Metro_Bush_1/Metro_Bush_1.dat",
+  "data": {
+    "GUID": "8d55a77db501499e84c18739b7ece3f7",
+    "Type": "Resource",
+    "Has_Clip_Prefab": "false",
+    "ID": "57001",
+    "Health": "1000",
+    "Radius": "3",
+    "Scale": "0.1",
+    "Explosion": "43",
+    "Log": "42",
+    "Forage": "",
+    "Reset": "1000",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Bush #2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Farm_Truck_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Farm_Truck_0/Farm_Truck_0.dat",
+  "data": {
+    "GUID": "092fc0052e0d4febb0a0370b38ec35a3",
+    "Type": "Large",
+    "ID": "7074",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Farm Truck #1"
+  }
+}

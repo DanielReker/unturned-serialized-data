@@ -1,0 +1,23 @@
+{
+  "name": "Civilian_Brazil_Low",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Civilian_Brazil_Low/Civilian_Brazil_Low.dat",
+  "data": {
+    "GUID": "a7ea81acc94e4098a93a6f000c864e27",
+    "Type": "Spawn",
+    "ID": "5039",
+    "Tables": "6",
+    "Table_0_Spawn_ID": "5001",
+    "Table_0_Weight": "328",
+    "Table_1_Spawn_ID": "399",
+    "Table_1_Weight": "81",
+    "Table_2_Spawn_ID": "400",
+    "Table_2_Weight": "262",
+    "Table_3_Spawn_ID": "401",
+    "Table_3_Weight": "5",
+    "Table_4_Spawn_ID": "285",
+    "Table_4_Weight": "266",
+    "Table_5_Spawn_ID": "5091",
+    "Table_5_Weight": "25"
+  },
+  "translation": null
+}

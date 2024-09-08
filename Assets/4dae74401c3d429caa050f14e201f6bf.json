@@ -1,0 +1,29 @@
+{
+  "name": "PBS_Hunter_Quest3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Quests/PBS_Hunter_Quest3/Asset.dat",
+  "data": {
+    "GUID": "4dae74401c3d429caa050f14e201f6bf",
+    "Type": "Quest",
+    "ID": "52298",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Animal",
+    "Condition_0_ID": "52303",
+    "Condition_0_Value": "1",
+    "Condition_0_Animal": "51003",
+    "Condition_0_Reset": "",
+    "Rewards": "3",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51294",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Currency",
+    "Reward_1_Value": "100",
+    "Reward_1_GUID": "561f74cdccdf48abaa6d49343b56aab0",
+    "Reward_2_Type": "Reputation",
+    "Reward_2_Value": "20"
+  },
+  "translation": {
+    "Name": "<color=legendary>Overbearing</color>",
+    "Description": "Not a challenge for ya eh?  Then, howzabout a proper beast - a bear.  Expect them to fight back though.",
+    "Condition_0": "Hunt a Bear {0}/{1}"
+  }
+}

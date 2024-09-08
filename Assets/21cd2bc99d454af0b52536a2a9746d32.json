@@ -1,0 +1,14 @@
+{
+  "name": "FirstLove_03_Reminder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_02/FirstLove_03_Reminder/Asset.dat",
+  "data": {
+    "GUID": "21cd2bc99d454af0b52536a2a9746d32",
+    "Type": "Dialogue",
+    "ID": "24554",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "The cellar is a big wooden door located near factory building 1. It's located outside if that helps!"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Train_Car_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Train_Car_3/PS_Train_Car_3.dat",
+  "data": {
+    "GUID": "a89bfe313c2e4b5b9cd4593b3173e058",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59663"
+  },
+  "translation": {
+    "Name": "PS Train Car #4 [Wheels]"
+  }
+}

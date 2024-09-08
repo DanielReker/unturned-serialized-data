@@ -1,0 +1,17 @@
+{
+  "name": "Carter_Question_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Carter/Carter_04/Carter_Question_00/Asset.dat",
+  "data": {
+    "GUID": "58001c1e8e4442a2a2a1ad39a7321eb4",
+    "Type": "Dialogue",
+    "ID": "24055",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "5",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "About 21 years, ever since I was 12. I loved doing it along with camping with my uncle. I don't know if he's still alive, but if he is I hope I see him again one day.",
+    "Response_0": "Good to know!"
+  }
+}

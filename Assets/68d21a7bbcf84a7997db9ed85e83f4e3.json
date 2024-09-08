@@ -1,0 +1,30 @@
+{
+  "name": "12G",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/12G/12G.dat",
+  "data": {
+    "GUID": "68d21a7bbcf84a7997db9ed85e83f4e3",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "ID": "51910",
+    "Pellets": "8",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Amount": "6",
+    "Count_Min": "3",
+    "Count_Max": "6",
+    "Calibers": "1",
+    "Caliber_0": "51007",
+    "Tracer": "51000",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51910",
+    "Blueprint_0_Build": "30",
+    "Delete_Empty": ""
+  },
+  "translation": {
+    "Name": "12 Gauge Shells",
+    "Description": "6x Shells of 12 gauge buckshot. Compatible with <color=rare>Noses-12</color>, <color=rare>Bluntforce-12</color> and <color=legendary>Cryogen-12</color>."
+  }
+}

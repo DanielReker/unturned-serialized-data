@@ -1,0 +1,20 @@
+{
+  "name": "Ensign_Archie",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/Coalition/Ensign_Archie/Asset.dat",
+  "data": {
+    "GUID": "7904c7eb34a343e8a42bded861f26a6b",
+    "Type": "NPC",
+    "ID": "15014",
+    "Shirt": "1420",
+    "Pants": "1419",
+    "Primary": "363",
+    "Equipped": "Primary",
+    "Face": "25",
+    "Color_Skin": "#c1ad93",
+    "Dialogue": "15137"
+  },
+  "translation": {
+    "Name": "Coalition Ensign Archie",
+    "Character": "<color=uncommon>Ensign Archie</color>"
+  }
+}

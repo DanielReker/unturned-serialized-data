@@ -1,0 +1,12 @@
+{
+  "name": "Bombardier_Orange",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Assets/VehicleRedirector/Bombardier_Orange.asset",
+  "data": {
+    "GUID": "5f3637504d924382b2fc59861b3531f2",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "6611",
+    "TargetVehicle": "251f03207fd947a8a830fa0893e2ea08",
+    "LoadPaintColor": "#bd6e27"
+  },
+  "translation": null
+}

@@ -1,0 +1,40 @@
+{
+  "name": "PS_Gasmask_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Masks/PS_Gasmask_0/PS_Gasmask_0.dat",
+  "data": {
+    "GUID": "2d143e4e624b462b9148da9d438ddbf9",
+    "Type": "Mask",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "59516",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Quality_Min": "6",
+    "Quality_Max": "9",
+    "Proof_Radiation": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supplies": "3",
+    "Blueprint_0_Supply_0_ID": "59527",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "59658",
+    "Blueprint_0_Supply_1_Amount": "3",
+    "Blueprint_0_Supply_2_ID": "59017",
+    "Blueprint_0_Supply_2_Amount": "2",
+    "Blueprint_0_Tool": "59376",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Source": "59527",
+    "Action_0_Blueprint_0_Link": "",
+    "Action_0_Text": "Craft Filter",
+    "Action_0_Tooltip": "Create another Filter for your Gasmask."
+  },
+  "translation": {
+    "Name": "Gasmask",
+    "Description": "Blocks out dangerous radiation when fitted with a working filter."
+  }
+}

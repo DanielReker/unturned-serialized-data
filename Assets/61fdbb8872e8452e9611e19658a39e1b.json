@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Bistro_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Buildings/Kuwait_Bistro_0/Kuwait_Bistro_0.dat",
+  "data": {
+    "GUID": "61fdbb8872e8452e9611e19658a39e1b",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5006",
+    "LOD": "Area",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Bistro #1"
+  }
+}

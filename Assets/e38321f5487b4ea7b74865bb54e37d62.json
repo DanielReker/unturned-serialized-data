@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Q_Skull_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_Skull_00/Buak_Q_Skull_00.dat",
+  "data": {
+    "GUID": "e38321f5487b4ea7b74865bb54e37d62",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Quest",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "494732fa32d84fc0b13f0018d3e017b1",
+    "Condition_0_Status": "Completed",
+    "Bundle_Override_Path": "/Objects/Quests/Buak_Q_Skull"
+  },
+  "translation": {
+    "Name": "Buak_Q_Skull_00"
+  }
+}

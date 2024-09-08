@@ -1,0 +1,12 @@
+{
+  "name": "Gas_City",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Gas_City/Gas_City.dat",
+  "data": {
+    "GUID": "0938e9207df445019b75bc025aca735e",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Gas Station 2"
+  }
+}

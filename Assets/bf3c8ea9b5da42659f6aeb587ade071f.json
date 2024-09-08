@@ -1,0 +1,23 @@
+{
+  "name": "Homeless Civilian Youssef",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Homeless Civilian Youssef/Asset.dat",
+  "data": {
+    "GUID": "bf3c8ea9b5da42659f6aeb587ade071f",
+    "Type": "NPC",
+    "ID": "9210",
+    "Shirt": "211",
+    "Pants": "213",
+    "Hat": "192",
+    "Pose": "Rest",
+    "Face": "21",
+    "Hair": "0",
+    "Beard": "1",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#0F0F0F",
+    "Dialogue": "9210"
+  },
+  "translation": {
+    "Name": "Homeless Civilian Youssef",
+    "Character": "Youssef"
+  }
+}

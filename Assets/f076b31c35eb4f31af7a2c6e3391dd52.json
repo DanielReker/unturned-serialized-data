@@ -1,0 +1,14 @@
+{
+  "name": "PS_Armory_Box_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Armory_Box_3/PS_Armory_Box_3.dat",
+  "data": {
+    "GUID": "f076b31c35eb4f31af7a2c6e3391dd52",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60126",
+    "Exclude_From_Level_Batching": "true"
+  },
+  "translation": {
+    "Name": "PS Armory Box #4"
+  }
+}

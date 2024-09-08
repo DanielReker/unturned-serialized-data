@@ -1,0 +1,39 @@
+{
+  "name": "Kuwait_Cat_Plushie_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Barricades/Kuwait_Cat_Plushie_0/Kuwait_Cat_Plushie_0.dat",
+  "data": {
+    "GUID": "8dd4f7f419e24f238e5c8ed9d48fe6f3",
+    "Type": "Barricade",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "Rarity": "Uncommon",
+    "ID": "5490",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.45",
+    "Health": "50",
+    "Range": "8",
+    "Offset": "0.05",
+    "Explosion": "28",
+    "Vulnerable": "",
+    "Salvage_Duration_Multiplier": "0.3",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "66",
+    "Blueprint_0_Supply_0_Amount": "15",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Level": "1",
+    "Blueprint_0_Skill": "Craft",
+    "Blueprint_0_Map": "Kuwait",
+    "Blueprint_0_Rewards": "1",
+    "Blueprint_0_Reward_0_Type": "Achievement",
+    "Blueprint_0_Reward_0_ID": "Kuwait_HomeDecor",
+    "PlacementAudioClip": "kuwait.masterbundle:Audio/Kuwait_Toy_Place.mp3",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Cat Plushie",
+    "Description": "It's just sitting there menacingly. <br><color=#BF1F1F>50 HP</color><color=#FF69B4>It's cute decor.</color><br>"
+  }
+}

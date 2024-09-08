@@ -1,0 +1,13 @@
+{
+  "name": "PS_Antenna_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Antenna_1/PS_Antenna_1.dat",
+  "data": {
+    "GUID": "9d9ec6f3f7d74a0a827ad3a8df5c4f6b",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59123"
+  },
+  "translation": {
+    "Name": "PS Antenna #2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Lena_Help_With_Vaccine_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Lena/Lena_Help_With_Vaccine_Accepted/Asset.dat",
+  "data": {
+    "GUID": "c0e48874c4c14ea5af95d2767677f249",
+    "Type": "Dialogue",
+    "ID": "5015",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You will be very helpful."
+  }
+}

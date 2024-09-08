@@ -1,0 +1,13 @@
+{
+  "name": "Ex_C4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Bombs/Ex_C4/Ex_C4.dat",
+  "data": {
+    "GUID": "a6eae8db0943411c98342867b25bcf1e",
+    "Type": "Effect",
+    "ID": "25454",
+    "CameraShake_Radius": "32",
+    "CameraShake_MagnitudeDegrees": "45",
+    "Blast": "137"
+  },
+  "translation": null
+}

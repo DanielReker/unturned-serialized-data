@@ -1,0 +1,19 @@
+{
+  "name": "Crazed_Patient",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Crazed_Patient/Asset.dat",
+  "data": {
+    "GUID": "3549dc6792f3462db26795a2cd87be73",
+    "Type": "NPC",
+    "ID": "2010",
+    "Hair": "3",
+    "Face": "21",
+    "Color_Skin": "#c7af8d",
+    "Color_Hair": "#ac6a39",
+    "Dialogue": "2011",
+    "Pose": "Asleep"
+  },
+  "translation": {
+    "Name": "Crazed Patient",
+    "Character": "Crazed Patient"
+  }
+}

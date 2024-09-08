@@ -1,0 +1,13 @@
+{
+  "name": "PS_Painting_06",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Painting_06/PS_Painting_06.dat",
+  "data": {
+    "GUID": "24928f4c66d24dd1ba47610d2b825799",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59800"
+  },
+  "translation": {
+    "Name": "PS Painting #7"
+  }
+}

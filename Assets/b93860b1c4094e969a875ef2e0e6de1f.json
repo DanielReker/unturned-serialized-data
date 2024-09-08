@@ -1,0 +1,196 @@
+{
+  "name": "PS_Gunshop_Rare_Guns",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Gunshop_Rare_Guns/PS_Gunshop_Rare_Guns.dat",
+  "data": {
+    "GUID": "b93860b1c4094e969a875ef2e0e6de1f",
+    "Type": "Spawn",
+    "ID": "59334",
+    "Tables": [
+      {
+        "LegacyAssetId": "59998",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "59371",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "59258",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "59849",
+        "Weight": "30"
+      },
+      {
+        "LegacySpawnId": "59150",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "59290",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "59332",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "59801",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "60004",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "59961",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "59494",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "60010",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "59799",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "59960",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "59932",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "59409",
+        "Weight": "5"
+      },
+      {
+        "LegacySpawnId": "59442",
+        "Weight": "5"
+      },
+      {
+        "LegacyAssetId": "59699",
+        "Weight": "3"
+      },
+      {
+        "LegacyAssetId": "59368",
+        "Weight": "3"
+      },
+      {
+        "LegacyAssetId": "59802",
+        "Weight": "3"
+      },
+      {
+        "LegacyAssetId": "59992",
+        "Weight": "2"
+      },
+      {
+        "LegacyAssetId": "59950",
+        "Weight": "2"
+      },
+      {
+        "LegacySpawnId": "59446",
+        "Weight": "2"
+      },
+      {
+        "LegacyAssetId": "59309",
+        "Weight": "2"
+      },
+      {
+        "LegacyAssetId": "59991",
+        "Weight": "2"
+      },
+      {
+        "LegacyAssetId": "59436",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59348",
+        "Weight": "1"
+      },
+      {
+        "LegacySpawnId": "59444",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59320",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59853",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59833",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59930",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59423",
+        "Weight": "1"
+      },
+      {
+        "LegacySpawnId": "59443",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59996",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59259",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59927",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59736",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59832",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59972",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59735",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59890",
+        "Weight": "1"
+      },
+      {
+        "LegacySpawnId": "59445",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "59993",
+        "Weight": "1"
+      },
+      {
+        "LegacyAssetId": "60007",
+        "Weight": "1"
+      },
+      {
+        "Guid": "a9b8ea2bc4734213b9a0c5e7265cb784",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

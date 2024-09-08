@@ -1,0 +1,15 @@
+{
+  "name": "Metro_Mall_Room_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Mall_Room_1/Metro_Mall_Room_1.dat",
+  "data": {
+    "GUID": "575c4aaf252d4b54a44defed90a12c5a",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57692",
+    "LOD": "Area",
+    "LOD_Bias": "0.5"
+  },
+  "translation": {
+    "Name": "Metro Mall Room #2"
+  }
+}

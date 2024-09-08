@@ -1,0 +1,24 @@
+{
+  "name": "Boss_Shirt_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Misc/Bosses/Boss_Shirt_1/Boss_Shirt_1.dat",
+  "data": {
+    "GUID": "9c52f94a61024a8687c2143f392a38f6",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "27001",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.5",
+    "Width": "6",
+    "Height": "5",
+    "Unobtainable": "",
+    "Unsaveable": "",
+    "Pro": "",
+    "Armor": "1",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Boss_Shirt_1",
+    "Description": "Baby, wear me tonight, in the boss room, I'll kill you outright"
+  }
+}

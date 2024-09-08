@@ -1,0 +1,13 @@
+{
+  "name": "PS_MLRS_Pod_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_MLRS_Pod_0/PS_MLRS_Pod_0.dat",
+  "data": {
+    "GUID": "6e2e3943472e449e90a763f07aca77da",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60017"
+  },
+  "translation": {
+    "Name": "PS MLRS Pod #1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Gutters_10",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Building_Details/Buak_Gutters_10/Buak_Gutters_10.dat",
+  "data": {
+    "GUID": "298eaec889d54525baead66936b60cff",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Gutters_10"
+  }
+}

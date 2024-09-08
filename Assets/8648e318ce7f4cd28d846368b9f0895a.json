@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Umbrella_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Umbrella_1/Metro_Umbrella_1.dat",
+  "data": {
+    "GUID": "8648e318ce7f4cd28d846368b9f0895a",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57071",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Umbrella #2"
+  }
+}

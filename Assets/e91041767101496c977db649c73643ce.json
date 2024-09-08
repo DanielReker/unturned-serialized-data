@@ -1,0 +1,38 @@
+{
+  "name": "Frost_Intel_Black",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Tools/Frost_Intel_Black/Frost_Intel_Black.dat",
+  "data": {
+    "GUID": "e91041767101496c977db649c73643ce",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "36602",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "36602",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "36045",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Conditions": "1",
+    "Blueprint_0_Condition_0_Type": "Flag_Short",
+    "Blueprint_0_Condition_0_ID": "36015",
+    "Blueprint_0_Condition_0_Value": "0",
+    "Blueprint_0_Condition_0_Logic": "Equal",
+    "Blueprint_0_Condition_0_Allow_Unset": "",
+    "Blueprint_1_Type": "Apparel",
+    "Blueprint_1_Supply_0_ID": "36602",
+    "Blueprint_1_Build": "27",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "36045",
+    "Blueprint_1_Output_0_Amount": "2",
+    "Blueprint_1_Conditions": "1",
+    "Blueprint_1_Condition_0_Type": "Flag_Short",
+    "Blueprint_1_Condition_0_ID": "36015",
+    "Blueprint_1_Condition_0_Value": "1",
+    "Blueprint_1_Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Black Intelligence",
+    "Description": "金<color=#64c819>1000</color> Quid Value"
+  }
+}

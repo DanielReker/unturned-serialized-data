@@ -1,0 +1,14 @@
+{
+  "name": "Alastair_Stealth_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Major_Alastair/Alastair_Stealth_Completed/Asset.dat",
+  "data": {
+    "GUID": "4b8a96e6414241109908f10671ebee71",
+    "Type": "Dialogue",
+    "ID": "45767",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Goodwork out there. The other team arrived about an hour ago, you should go say hello to the new arrival."
+  }
+}

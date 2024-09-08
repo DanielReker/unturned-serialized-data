@@ -1,0 +1,29 @@
+{
+  "name": "Rod_Fishing",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Fishers/Rod_Fishing/Rod_Fishing.dat",
+  "data": {
+    "GUID": "be50e11715884848ac527bc409380dc2",
+    "Type": "Fisher",
+    "Rarity": "Uncommon",
+    "Useable": "Fisher",
+    "ID": "5517",
+    "Size_X": "3",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Backward": "",
+    "Reward_ID": "7144",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "5517",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "27",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Fishers/Rod_Fishing"
+  },
+  "translation": {
+    "Name": "Fishing Rod",
+    "Description": "Long range fish generator."
+  }
+}

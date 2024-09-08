@@ -1,0 +1,39 @@
+{
+  "name": "Belgium Military Master Sergeant Ferre",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Vendors/Belgium Military Master Sergeant Ferre/Asset.dat",
+  "data": {
+    "GUID": "9c778f47522741b0939ab58c0e03d7f8",
+    "Type": "Vendor",
+    "ID": "9111",
+    "Selling": "8",
+    "Selling_0_ID": "81",
+    "Selling_0_Cost": "50",
+    "Selling_1_ID": "1481",
+    "Selling_1_Cost": "300",
+    "Selling_2_ID": "1483",
+    "Selling_2_Cost": "60",
+    "Selling_3_ID": "1192",
+    "Selling_3_Cost": "200",
+    "Selling_4_ID": "1193",
+    "Selling_4_Cost": "200",
+    "Selling_5_ID": "43",
+    "Selling_5_Cost": "80",
+    "Selling_6_ID": "119",
+    "Selling_6_Cost": "80",
+    "Selling_7_ID": "1008",
+    "Selling_7_Cost": "1500",
+    "Buying": "4",
+    "Buying_0_ID": "67",
+    "Buying_0_Cost": "2",
+    "Buying_1_ID": "73",
+    "Buying_1_Cost": "3",
+    "Buying_2_ID": "254",
+    "Buying_2_Cost": "15",
+    "Buying_3_ID": "121",
+    "Buying_3_Cost": "2"
+  },
+  "translation": {
+    "Name": "<color=epic>Master Sergeant Ferre's</color> Arms Depot",
+    "Description": "I have a mixture of weapons and supplies for your survival."
+  }
+}

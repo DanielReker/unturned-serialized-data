@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Vines_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Medium/Frost_Vines_02/Frost_Vines_02.dat",
+  "data": {
+    "GUID": "9403688541be4c678f5988fe86607467",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000"
+  },
+  "translation": {
+    "Name": "Frost Vines #3"
+  }
+}

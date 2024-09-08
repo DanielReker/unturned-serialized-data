@@ -1,0 +1,23 @@
+{
+  "name": "BP_Grates",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Grates/Asset.dat",
+  "data": {
+    "GUID": "4fe9075e6bd84b068e51f6cedd3023a5",
+    "Type": "Quest",
+    "ID": "24883",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "12d38ec01a704117bf93f0099063ced7",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24882",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Grates Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Grates Recipe"
+  }
+}

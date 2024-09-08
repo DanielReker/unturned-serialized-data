@@ -1,0 +1,30 @@
+{
+  "name": "Coffee_Canned",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Items/Water/Coffee_Canned/Coffee_Canned.dat",
+  "data": {
+    "GUID": "0f77b86376874936a16974483a2662f5",
+    "Type": "Water",
+    "Useable": "Consumeable",
+    "ID": "8072",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Water": "35",
+    "Energy": "45",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "8071",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Supply_1_ID": "72",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Level": "1",
+    "Blueprint_0_Skill": "Cook",
+    "Blueprint_0_Build": "27",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Canned Coffee",
+    "Description": "Hot, and metallic."
+  }
+}

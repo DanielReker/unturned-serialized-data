@@ -1,0 +1,32 @@
+{
+  "name": "Coffee_Cold",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Drinks/Coffee_Cold/Coffee_Cold.dat",
+  "data": {
+    "GUID": "eb02a0dcf47d41d7b6d2e3787a74fc4e",
+    "Type": "Water",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "25775",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.28",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "25319",
+    "Quest_Reward_0_Amount": "1",
+    "Quest_Reward_0_Value": "True",
+    "Water": "20",
+    "Energy": "25",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "25628",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "25536",
+    "ConsumeAudioClip": "Sounds/Food/drinkBottle.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Cold Coffee",
+    "Description": "A cold cup of joe that could probably be good to heat up."
+  }
+}

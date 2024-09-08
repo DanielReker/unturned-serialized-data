@@ -1,0 +1,14 @@
+{
+  "name": "Wout_Slag_Om_de_Hordes_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military General Wout/Wout_Slag_Om_de_Hordes_Completed/Asset.dat",
+  "data": {
+    "GUID": "09060233e2a847919f32fac3ac9106d1",
+    "Type": "Dialogue",
+    "ID": "9179",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You should be proud of what you've done. I will surely remember you!"
+  }
+}

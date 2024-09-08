@@ -1,0 +1,14 @@
+{
+  "name": "Craft_01",
+  "path": "Bundles/Objects/Medium/Furniture/Craft_01/Craft_01.dat",
+  "data": {
+    "GUID": "545c0410078242378ce286d294ce5408",
+    "Type": "Medium",
+    "ID": "1",
+    "Holiday_Restriction": "CHRISTMAS",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Craft #2"
+  }
+}

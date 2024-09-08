@@ -1,0 +1,14 @@
+{
+  "name": "29622KSA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/3/D/29620KSD/29622KSA/Asset.dat",
+  "data": {
+    "GUID": "be1c99482bba4fce9f63b46aedd50dae",
+    "Type": "Dialogue",
+    "ID": "29622",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Be careful, especially at night."
+  }
+}

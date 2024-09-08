@@ -1,0 +1,32 @@
+{
+  "name": "MechanicTools",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Mechanic/MechanicTools/MechanicTools.dat",
+  "data": {
+    "GUID": "1c5ee529afb54ad9b3f978d185287d7b",
+    "Type": "Spawn",
+    "ID": "51057",
+    "Tables": [
+      {
+        "Guid": "9f4e3fd8a0a644be8a57f5e56fa0cb55",
+        "Weight": "6"
+      },
+      {
+        "Guid": "c934328c0f1b44c1b0e1627c1aef223b",
+        "Weight": "6"
+      },
+      {
+        "Guid": "223d88c12e9f4bbfa9d10d829868a21f",
+        "Weight": "6"
+      },
+      {
+        "Guid": "f0287640e49845cca69b3032d5e69780",
+        "Weight": "6"
+      },
+      {
+        "Guid": "679c574c43e44cfb9c9c83da363b370a",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

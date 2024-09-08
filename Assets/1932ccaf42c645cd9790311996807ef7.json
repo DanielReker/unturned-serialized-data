@@ -1,0 +1,36 @@
+{
+  "name": "Metro_Bottled_Energy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Overrides/Metro_Bottled_Energy/Metro_Bottled_Energy.dat",
+  "data": {
+    "GUID": "1932ccaf42c645cd9790311996807ef7",
+    "Type": "Water",
+    "Useable": "Consumeable",
+    "ID": "57410",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.39",
+    "Food": "5",
+    "Water": "50",
+    "Energy": "100",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "57200",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Supply",
+    "Blueprint_1_Supplies": "2",
+    "Blueprint_1_Supply_0_ID": "57409 ",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Supply_1_ID": "70",
+    "Blueprint_1_Supply_1_Amount": "1",
+    "Blueprint_1_Build": "27",
+    "Blueprint_1_Map": "Elver",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Water/Bottled_Energy",
+    "ConsumeAudioClip": "Sounds/DrinkSwallow.mp3"
+  },
+  "translation": {
+    "Name": "Bottled Energy",
+    "Description": "<color=#64c819>5</color> Food <color=#64c819>50</color> Water                                                               <color=#64c819>100</color> Energy"
+  }
+}

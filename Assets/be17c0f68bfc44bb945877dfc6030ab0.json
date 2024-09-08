@@ -1,0 +1,17 @@
+{
+  "name": "Wrong_Way",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Wrong_Way/Wrong_Way.dat",
+  "data": {
+    "GUID": "be17c0f68bfc44bb945877dfc6030ab0",
+    "Type": "Medium",
+    "ID": "51000",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "50",
+    "Interactability_Effect": "72",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Wrong Way Sign"
+  }
+}

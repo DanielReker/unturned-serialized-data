@@ -1,0 +1,13 @@
+{
+  "name": "PS_Door_Slam_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Explosions/PS_Door_Slam_0/PS_Door_Slam_0.dat",
+  "data": {
+    "GUID": "9ebc41582daa457e806b9df36318a9e3",
+    "Type": "Effect",
+    "ID": "59078",
+    "CameraShake_Radius": "15",
+    "CameraShake_MagnitudeDegrees": "25",
+    "Spawn_On_Dedicated_Server": ""
+  },
+  "translation": null
+}

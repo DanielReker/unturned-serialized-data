@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Container_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Business/Kuwait_Container_0/Kuwait_Container_0.dat",
+  "data": {
+    "GUID": "36418222c42045fdafedf11bb9a74739",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5161",
+    "Chart": "Medium"
+  },
+  "translation": {
+    "Name": "Kuwait Container #1"
+  }
+}

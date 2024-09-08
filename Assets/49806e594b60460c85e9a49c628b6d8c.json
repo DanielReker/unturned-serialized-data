@@ -1,0 +1,16 @@
+{
+  "name": "Chainlink_Fence_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Chainlink_Fence_2/Chainlink_Fence_2.dat",
+  "data": {
+    "GUID": "49806e594b60460c85e9a49c628b6d8c",
+    "Type": "Medium",
+    "ID": "51000",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Chainlink Fence 2"
+  }
+}

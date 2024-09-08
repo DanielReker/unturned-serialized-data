@@ -1,0 +1,12 @@
+{
+  "name": "Ex_Firework_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Bombs/Ex_Firework_01/Ex_Firework_01.dat",
+  "data": {
+    "GUID": "587c08a03ca84ae19cd2c9160c5177b4",
+    "Type": "Effect",
+    "ID": "25482",
+    "CameraShake_Radius": "5",
+    "CameraShake_MagnitudeDegrees": "5"
+  },
+  "translation": null
+}

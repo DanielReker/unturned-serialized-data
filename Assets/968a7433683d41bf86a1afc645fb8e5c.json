@@ -1,0 +1,17 @@
+{
+  "name": "Bridge_Line_Cap_5",
+  "path": "Bundles/Objects/Large/Roads/Bridge_Line_Cap_5/Bridge_Line_Cap_5.dat",
+  "data": {
+    "GUID": "968a7433683d41bf86a1afc645fb8e5c",
+    "Type": "Large",
+    "ID": "203",
+    "Snowshoe": "",
+    "Soft": "",
+    "Chart": "Highway",
+    "Collision_Important": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Bridge Line Cap #1 Europe"
+  }
+}

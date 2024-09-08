@@ -1,0 +1,11 @@
+{
+  "name": "Kuwait_ATM_Deposit",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Effects/General/Kuwait_ATM_Deposit/Kuwait_ATM_Deposit.dat",
+  "data": {
+    "GUID": "966e2eaaf88b4e5191180f4766918ca0",
+    "Type": "Effect",
+    "ID": "5288",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": null
+}

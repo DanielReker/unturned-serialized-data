@@ -1,0 +1,18 @@
+{
+  "name": "Fern_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Trees/Hawaii/Fern_1/Fern_1.dat",
+  "data": {
+    "GUID": "599eb1d0090048aea9fb97a294735921",
+    "Type": "Resource",
+    "ID": "643",
+    "Health": "1000",
+    "Radius": "3",
+    "Scale": ".1",
+    "Offset": ".25",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hawaii Fern #2"
+  }
+}

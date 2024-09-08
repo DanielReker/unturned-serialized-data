@@ -1,0 +1,17 @@
+{
+  "name": "Frost_Vest_Vaccine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Gear/Frost_Vest_Vaccine/Frost_Vest_Vaccine.dat",
+  "data": {
+    "GUID": "2fc432b28620401b8eebb158c4604ba2",
+    "Type": "Vest",
+    "Rarity": "Uncommon",
+    "Useable": "Clothing",
+    "ID": "36579",
+    "Width": "6",
+    "Height": "4"
+  },
+  "translation": {
+    "Name": "Syringe",
+    "Description": "<color=#64c819>+24</color> Slots"
+  }
+}

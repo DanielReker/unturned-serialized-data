@@ -1,0 +1,17 @@
+{
+  "name": "Musket_Ammo_Mold",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Items/France/Blueprints/Musket_Ammo_Mold/Musket_Ammo_Mold.dat",
+  "data": {
+    "GUID": "e8eea805403245928a5e65cc4b1006ef",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "3119",
+    "Size_X": "3",
+    "Size_Y": "1",
+    "Size_Z": "0.25"
+  },
+  "translation": {
+    "Name": "Cartridge Mold",
+    "Description": "Mold used for making homemade <color=uncommon>Musket Cartridges</color>."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "GooMaxLemonLime",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/SodaSpawns/GooMaxLemonLime/GooMaxLemonLime.dat",
+  "data": {
+    "GUID": "b77b87110d04424a9201256d088b1d31",
+    "Type": "Spawn",
+    "ID": "51263",
+    "Tables": [
+      {
+        "Guid": "51ac36791ccd48af89c9838bcdbbb2b9",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

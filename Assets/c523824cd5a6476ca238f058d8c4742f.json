@@ -1,0 +1,13 @@
+{
+  "name": "France_Farm_France",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Vehicles/France_Farm_France/France_Farm_France.dat",
+  "data": {
+    "GUID": "c523824cd5a6476ca238f058d8c4742f",
+    "Type": "Spawn",
+    "ID": "2144",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "315",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

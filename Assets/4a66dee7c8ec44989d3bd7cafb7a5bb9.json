@@ -1,0 +1,32 @@
+{
+  "name": "Red_Tee",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Shirts/Red_Tee/Red_Tee.dat",
+  "data": {
+    "GUID": "4a66dee7c8ec44989d3bd7cafb7a5bb9",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "51147",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "5",
+    "Height": "3",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "51147",
+    "Blueprint_0_Product": "51020",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51020",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "32",
+    "Movement_Speed_Multiplier": "1.025"
+  },
+  "translation": {
+    "Name": "Red Tee",
+    "Description": "Lightweight warm weather tee."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Gray_Top_4",
+  "path": "Bundles/Items/Shirts/Gray_Top_4/Gray_Top_4.dat",
+  "data": {
+    "GUID": "723da74e1d3c417d915f8aeaab4b22ee",
+    "Type": "Shirt",
+    "ID": "815",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Pro": ""
+  },
+  "translation": null
+}

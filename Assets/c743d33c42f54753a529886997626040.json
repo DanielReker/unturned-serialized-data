@@ -1,0 +1,19 @@
+{
+  "name": "Greece_4_Road",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Terrain/Materials/Greece_4_Road.asset",
+  "data": {
+    "GUID": "c743d33c42f54753a529886997626040",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "greece.masterbundle",
+      "Path": "Terrain/Materials/4 Road.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "CONCRETE_STATIC"
+  },
+  "translation": null
+}

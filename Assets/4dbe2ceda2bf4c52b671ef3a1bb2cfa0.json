@@ -1,0 +1,37 @@
+{
+  "name": "Hat_Hard",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Hats/Hat_Hard/Hat_Hard.dat",
+  "data": {
+    "GUID": "4dbe2ceda2bf4c52b671ef3a1bb2cfa0",
+    "Rarity": "Rare",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "26676",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.32",
+    "Use_Auto_Icon_Measurements": "False",
+    "WearAudio": "Sounds/Clothes/Clothes.asset",
+    "Beard": "",
+    "Armor": "0.85",
+    "Armor_Explosion": "0.90",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26676",
+    "Blueprint_0_Product": "25310",
+    "Blueprint_0_Products": "4",
+    "Blueprint_0_Tool": "25393",
+    "Blueprint_0_Build": "25520",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25310",
+    "Blueprint_1_Supply_0_Amount": "4",
+    "Blueprint_1_Tool": "25393",
+    "Blueprint_1_Build": "25525",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Hard Hat",
+    "Description": "For those HARD days.<br><color=#7cb9e8>15% Armor</color>"
+  }
+}

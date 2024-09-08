@@ -1,0 +1,16 @@
+{
+  "name": "Fisherman_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Fisherman_1/Fisherman_Welcome/Asset.dat",
+  "data": {
+    "GUID": "91bfb99d180a47748412462cb5a39359",
+    "Type": "Dialogue",
+    "ID": "2018",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Sure Max...<pause> That's what you say every day!",
+    "Response_0": "Good luck!"
+  }
+}

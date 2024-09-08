@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Locker_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Locker_04/Buak_Locker_04.dat",
+  "data": {
+    "GUID": "155411837b4e49c9badb6a707e65c98d",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Locker_04"
+  }
+}

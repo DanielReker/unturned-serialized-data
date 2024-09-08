@@ -1,0 +1,15 @@
+{
+  "name": "Paper",
+  "path": "Bundles/Items/Hats/Paper/Paper.dat",
+  "data": {
+    "GUID": "12783268a41f4012b54c0a3ce1ac9ec1",
+    "Type": "Hat",
+    "ID": "499",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.375",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

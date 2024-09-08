@@ -1,0 +1,12 @@
+{
+  "name": "CA_Barracks_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Barracks_0/CA_Barracks_0.dat",
+  "data": {
+    "GUID": "95f82b04806049d6a3346f1b18523073",
+    "Type": "Large",
+    "ID": "4524"
+  },
+  "translation": {
+    "Name": "California Barracks #1"
+  }
+}

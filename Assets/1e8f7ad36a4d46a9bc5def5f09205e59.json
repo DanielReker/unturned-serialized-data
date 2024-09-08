@@ -1,0 +1,14 @@
+{
+  "name": "Prisoner_Letter_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IFR/Prisoner_August/Prisoner_Letter_Accepted/Asset.dat",
+  "data": {
+    "GUID": "1e8f7ad36a4d46a9bc5def5f09205e59",
+    "Type": "Dialogue",
+    "ID": "15119",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I don't know where exactly the letter is, but find it quickly!"
+  }
+}

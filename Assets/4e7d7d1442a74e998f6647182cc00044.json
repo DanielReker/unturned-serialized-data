@@ -1,0 +1,14 @@
+{
+  "name": "Quest_0_Fisher_3_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_1/Quest_0_Fisher_3_Return/Asset.dat",
+  "data": {
+    "GUID": "4e7d7d1442a74e998f6647182cc00044",
+    "Type": "Dialogue",
+    "ID": "57737",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=#ffffff>Fisher 3</color> <color=#64c819>Completed</color>"
+  }
+}

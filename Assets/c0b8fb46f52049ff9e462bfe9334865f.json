@@ -1,0 +1,24 @@
+{
+  "name": "Frost_Expedition_06_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Expedition_06/Frost_Expedition_06_Welcome/Asset.dat",
+  "data": {
+    "GUID": "c0b8fb46f52049ff9e462bfe9334865f",
+    "Type": "Dialogue",
+    "ID": "36539",
+    "Messages": "5",
+    "Message_0_Pages": "1",
+    "Responses": "4",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Teleport",
+    "Response_0_Reward_0_Spawnpoint": "Safezone",
+    "Response_1_Dialogue": "36540",
+    "Response_2_Dialogue": "36228"
+  },
+  "translation": {
+    "Message_0_Page_0": "What's up?",
+    "Response_0": "Return to the safezone.",
+    "Response_1": "How can I break into the facility?",
+    "Response_2": "Where are the tanks?",
+    "Response_3": "Goodbye."
+  }
+}

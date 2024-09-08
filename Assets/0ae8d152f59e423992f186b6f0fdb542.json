@@ -1,0 +1,13 @@
+{
+  "name": "Peaks_Otter",
+  "path": "Bundles/Spawns/Vehicles/Peaks_Otter/Peaks_Otter.dat",
+  "data": {
+    "GUID": "0ae8d152f59e423992f186b6f0fdb542",
+    "Type": "Spawn",
+    "ID": "795",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "322",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

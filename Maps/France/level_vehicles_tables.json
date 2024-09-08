@@ -1,0 +1,212 @@
+[
+  {
+    "name": "France_Civilian_France",
+    "tableID": 2038,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "France_Renault_France",
+    "tableID": 2040,
+    "tiers": [],
+    "color": {
+      "r": 0.3764706,
+      "g": 0.0,
+      "b": 0.403921574
+    }
+  },
+  {
+    "name": "France_Military_Low_France",
+    "tableID": 2042,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Military_High_France",
+    "tableID": 2044,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.5176471,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Military_Special_France",
+    "tableID": 2046,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.31764707,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Military_Border_France",
+    "tableID": 2051,
+    "tiers": [],
+    "color": {
+      "r": 0.305882365,
+      "g": 1.0,
+      "b": 0.6901961
+    }
+  },
+  {
+    "name": "France_Milita_France",
+    "tableID": 2053,
+    "tiers": [],
+    "color": {
+      "r": 0.4,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Police_France",
+    "tableID": 2127,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "France_GIGN_France",
+    "tableID": 2129,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.498039216
+    }
+  },
+  {
+    "name": "France_Fire_France",
+    "tableID": 2131,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Medic_France",
+    "tableID": 2133,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "France_Police_France_Heli",
+    "tableID": 2135,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.478431374,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "France_Airport_France",
+    "tableID": 2137,
+    "tiers": [],
+    "color": {
+      "r": 0.772549033,
+      "g": 0.772549033,
+      "b": 0.772549033
+    }
+  },
+  {
+    "name": "France_Airport_France_Plane",
+    "tableID": 2139,
+    "tiers": [],
+    "color": {
+      "r": 0.4862745,
+      "g": 0.498039216,
+      "b": 0.5058824
+    }
+  },
+  {
+    "name": "France_Boat_France",
+    "tableID": 2141,
+    "tiers": [],
+    "color": {
+      "r": 0.4392157,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "France_Construction_France",
+    "tableID": 2143,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.5529412,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Farm_France",
+    "tableID": 2144,
+    "tiers": [],
+    "color": {
+      "r": 0.3764706,
+      "g": 0.145098045,
+      "b": 0.4
+    }
+  },
+  {
+    "name": "France_Military_France_Boat",
+    "tableID": 2146,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Military_France_Heli",
+    "tableID": 2148,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.670588255,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Military_France_Plane",
+    "tableID": 2150,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.31764707,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Tank",
+    "tableID": 2047,
+    "tiers": [],
+    "color": {
+      "r": 0.239215687,
+      "g": 0.258823544,
+      "b": 0.305882365
+    }
+  }
+]

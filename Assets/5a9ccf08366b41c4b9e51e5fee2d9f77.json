@@ -1,0 +1,16 @@
+{
+  "name": "HawaiiBeachChair_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiBeachChair_0/HawaiiBeachChair_0.dat",
+  "data": {
+    "GUID": "5a9ccf08366b41c4b9e51e5fee2d9f77",
+    "Type": "Medium",
+    "ID": "827",
+    "Soft": "",
+    "Snowshoe": "",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hawaii Beach Chair #1"
+  }
+}

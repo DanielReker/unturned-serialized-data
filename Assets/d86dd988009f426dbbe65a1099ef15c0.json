@@ -1,0 +1,23 @@
+{
+  "name": "Rio_Board_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Rio_Board_0/Rio_Board_0.dat",
+  "data": {
+    "GUID": "d86dd988009f426dbbe65a1099ef15c0",
+    "Type": "Medium",
+    "ID": "6112",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "7",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Board #1 - News / Wanted",
+    "Interactability_Text_Line_0": "World Paper News",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Recent relatories from multiple organizations suggests that nearly 16% of the world's population is potentially infected, since then the disease has been classified as a potential danger to the humanity. According to ZPD, the most affected brazillian states are: Rio de Janeiro, Espirito Santo, São Paulo and other 2 states.",
+    "Interactability_Text_Line_3": "---",
+    "Interactability_Text_Line_4": "Brazillian Military Force",
+    "Interactability_Text_Line_5": "---",
+    "Interactability_Text_Line_6": "2 Days ago another attack from the terrorist group \"ZE\" took place, this time medicinal tents were the target, according to a captured ZE member, Jonas Marques, \"they were there to 'neutralize' the infected ones\", a security camera recorded him with 2 other men and a woman attacking the medicinal tents, according to the captured ZE member, their leader was there. None of their names are known for now."
+  }
+}

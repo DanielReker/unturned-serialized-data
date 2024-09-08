@@ -1,0 +1,16 @@
+{
+  "name": "Carpat_TV_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Objects/Medium/Carpat_TV_01/Carpat_TV_01.dat",
+  "data": {
+    "GUID": "3222596b7f3d40829399f5a5b9caaff8",
+    "Type": "Medium",
+    "ID": "23137",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "60",
+    "Interactability_Health": "25",
+    "Interactability_Effect": "79"
+  },
+  "translation": {
+    "Name": "Carpat TV #1"
+  }
+}

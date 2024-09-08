@@ -1,0 +1,15 @@
+{
+  "name": "Jersey_Portugal",
+  "path": "Bundles/Items/Shirts/Jersey_Portugal/Jersey_Portugal.dat",
+  "data": {
+    "GUID": "7f2b155131db42f39ab9bfad83e3b9f2",
+    "Type": "Shirt",
+    "ID": "654",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Ignore_Hand": "",
+    "Pro": ""
+  },
+  "translation": null
+}

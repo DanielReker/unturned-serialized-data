@@ -1,0 +1,28 @@
+{
+  "name": "PS_Underground_Key_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Underground_Key_2/PS_Underground_Key_2.dat",
+  "data": {
+    "GUID": "adeaaec7f5c54e3bad9177e9099ec06a",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59973",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "59081",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "59081",
+    "Interactability_Reward_0_Value": "True",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Smol/PS_Underground_Key_0"
+  },
+  "translation": {
+    "Name": "PS Underground Key #3",
+    "Interact": "Pickup AG19 Key [{0}]"
+  }
+}

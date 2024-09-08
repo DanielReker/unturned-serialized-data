@@ -1,0 +1,26 @@
+{
+  "name": "Kuwait_Halo_Sight",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Sights/Kuwait_Halo_Sight/Kuwait_Halo_Sight.dat",
+  "data": {
+    "GUID": "4a82f0a69b2640f28a7aa5fc31a48db8",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "ID": "5067",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Holographic": "",
+    "Paintable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "5067",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Halo Sight",
+    "Description": "Rail mounted sight with electronic aiming halo.<br><color=#FF69B4>Holographic</color>"
+  }
+}

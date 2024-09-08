@@ -1,0 +1,13 @@
+{
+  "name": "Hatchback_Blue",
+  "path": "Bundles/Objects/Large/Vehicles/Hatchback_Blue/Hatchback_Blue.dat",
+  "data": {
+    "GUID": "d5eb6c8935ab4351a0c4f113ae87af3c",
+    "Type": "Large",
+    "ID": "147",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Blue Hatchback"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Invention_Supply_Welcome",
+  "path": "Bundles/NPCs/Dialogues/Invention_Supply/Invention_Supply_Welcome/Asset.dat",
+  "data": {
+    "GUID": "1e71ff4242ee4f6e8bc1f34b08ae6feb",
+    "Type": "Dialogue",
+    "ID": "82",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Dialogue": "83",
+    "Response_0_Vendor": "84",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Flag_Bool",
+    "Response_0_Condition_0_ID": "226",
+    "Response_0_Condition_0_Value": "True",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_1_Dialogue": "85"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hey dude!",
+    "Response_0": "Can I buy a replacement blueprint?",
+    "Response_1": "Need any help?",
+    "Response_2": "Peace out"
+  }
+}

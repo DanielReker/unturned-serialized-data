@@ -1,0 +1,28 @@
+{
+  "name": "Frost_Penguin_Donut",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Barricades/Frost_Penguin_Donut/Frost_Penguin_Donut.dat",
+  "data": {
+    "GUID": "b74b443651d340bd8d80bfd0af3cf08b",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Build": "Barricade",
+    "ID": "36617",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Health": "25",
+    "Range": "4",
+    "Radius": "0.2",
+    "Offset": "0.225",
+    "Salvage_Duration_Multiplier": "0.1",
+    "Bypass_Pickup_Ownership": "True",
+    "Vulnerable": "",
+    "Explosion": "37",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Donut Penguin",
+    "Description": "<color=#64c819>25</color> Health<br>Penguin 9/9"
+  }
+}

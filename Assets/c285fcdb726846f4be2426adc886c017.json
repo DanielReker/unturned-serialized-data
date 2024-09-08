@@ -1,0 +1,17 @@
+{
+  "name": "Kuwait_Computer_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Business/Kuwait_Computer_0/Kuwait_Computer_0.dat",
+  "data": {
+    "GUID": "c285fcdb726846f4be2426adc886c017",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5147",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "60",
+    "Rubble_Health": "20",
+    "Rubble_Effect": "77"
+  },
+  "translation": {
+    "Name": "Kuwait Computer #1"
+  }
+}

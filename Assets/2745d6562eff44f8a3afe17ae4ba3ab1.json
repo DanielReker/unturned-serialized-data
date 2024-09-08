@@ -1,0 +1,27 @@
+{
+  "name": "Eggnog",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Drinks/Eggnog/Eggnog.dat",
+  "data": {
+    "GUID": "2745d6562eff44f8a3afe17ae4ba3ab1",
+    "Type": "Water",
+    "Rarity": "Legendary",
+    "Useable": "Consumeable",
+    "ID": "27843",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Left_Handed_Characters_Mirror_Equipable": "false",
+    "Water": "80",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "25628",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "25536",
+    "ConsumeAudioClip": "Sounds/Food/drinkBottle.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Eggnog",
+    "Description": "Feliz Navidad."
+  }
+}

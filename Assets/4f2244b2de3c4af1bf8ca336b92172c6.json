@@ -1,0 +1,17 @@
+{
+  "name": "Book_Blue",
+  "path": "Bundles/Objects/Small/Furniture/Book_Blue/Book_Blue.dat",
+  "data": {
+    "GUID": "4f2244b2de3c4af1bf8ca336b92172c6",
+    "Type": "Small",
+    "ID": "349",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "60",
+    "Interactability_Health": "1",
+    "Interactability_Effect": "58",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Blue Book"
+  }
+}

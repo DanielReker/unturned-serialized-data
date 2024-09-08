@@ -1,0 +1,13 @@
+{
+  "name": "Artist_Shirt",
+  "path": "Bundles/Items/Outfits/Artist/Artist_Shirt/Artist_Shirt.dat",
+  "data": {
+    "GUID": "9f4e6dc630aa4d4e971f1feb518f0d5a",
+    "Type": "Shirt",
+    "Pro": ""
+  },
+  "translation": {
+    "Name": "Artist Shirt",
+    "Description": "Make a mess!"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Station_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Station_1/Rio_Station_1.dat",
+  "data": {
+    "GUID": "2e258d9a08634ce5afacdeecd139a948",
+    "Type": "Large",
+    "ID": "6053",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Station #1"
+  }
+}

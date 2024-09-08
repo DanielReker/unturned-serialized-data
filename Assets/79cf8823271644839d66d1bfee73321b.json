@@ -1,0 +1,26 @@
+{
+  "name": "Helena_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Civilain Helena/Helena_Welcome/Asset.dat",
+  "data": {
+    "GUID": "79cf8823271644839d66d1bfee73321b",
+    "Type": "Dialogue",
+    "ID": "9146",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Responses": "5",
+    "Response_0_Dialogue": "9147",
+    "Response_1_Dialogue": "9148",
+    "Response_2_Dialogue": "9149",
+    "Response_3_Dialogue": "9150",
+    "Response_4_Dialogue": "9151"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hello. I'm <name_npc>. I was a teacher before this had all started.",
+    "Message_0_Page_1": "Is there something you need? Would you like a lesson of speaking Dutch?",
+    "Response_0": "I'm here for lesson 1.",
+    "Response_1": "I'm here for lesson 2.",
+    "Response_2": "I'm here for lesson 3.",
+    "Response_3": "I'm here for lesson 4.",
+    "Response_4": "I don't really have time to learn right now."
+  }
+}

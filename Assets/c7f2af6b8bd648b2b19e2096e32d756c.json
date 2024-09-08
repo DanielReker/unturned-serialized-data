@@ -1,0 +1,27 @@
+{
+  "name": "Frost_Infected_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Infected_01/Frost_Infected_01/Asset.dat",
+  "data": {
+    "GUID": "c7f2af6b8bd648b2b19e2096e32d756c",
+    "Type": "NPC",
+    "ID": "36052",
+    "Face": "11",
+    "Hair": "2",
+    "Beard": "3",
+    "Color_Skin": "#937E61",
+    "Color_Hair": "#414141",
+    "Shirt": "36097",
+    "Dialogue": "36053",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_Zombie": "Crawler",
+    "Condition_0_ID": "36048",
+    "Condition_0_Value": "1",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_0_Nav": "3"
+  },
+  "translation": {
+    "Name": "Frost NPC Survivor #2 [Wilderness]",
+    "Character": "Ghost"
+  }
+}

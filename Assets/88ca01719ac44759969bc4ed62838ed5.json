@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Controls_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Controls_01/Buak_Controls_01.dat",
+  "data": {
+    "GUID": "88ca01719ac44759969bc4ed62838ed5",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Controls_01"
+  }
+}

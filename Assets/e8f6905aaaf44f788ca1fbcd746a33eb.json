@@ -1,0 +1,22 @@
+{
+  "name": "CA_Palm_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Resources/CA_Palm_0/CA_Palm_0.dat",
+  "data": {
+    "GUID": "e8f6905aaaf44f788ca1fbcd746a33eb",
+    "Type": "Resource",
+    "ID": "4005",
+    "Health": "600",
+    "Radius": "4",
+    "Scale": "0.3",
+    "Explosion": "25",
+    "Reward_ID": "515",
+    "Reward_Min": "6",
+    "Reward_Max": "9",
+    "Reset": "600",
+    "Auto_Skybox": "",
+    "Christmas_Redirect": "49d7d3dbc949455ca8faf43426047562"
+  },
+  "translation": {
+    "Name": "California Palm #1"
+  }
+}

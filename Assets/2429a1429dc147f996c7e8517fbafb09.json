@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Oil_Stilt_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Utilities/Kuwait_Oil_Stilt_0/Kuwait_Oil_Stilt_0.dat",
+  "data": {
+    "GUID": "2429a1429dc147f996c7e8517fbafb09",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5289",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Pipe Stilt #1"
+  }
+}

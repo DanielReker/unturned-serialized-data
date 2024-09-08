@@ -1,0 +1,13 @@
+{
+  "name": "Elevator_0",
+  "path": "Bundles/Objects/Medium/Business/Elevator_0/Elevator_0.dat",
+  "data": {
+    "GUID": "f911a15e7f9b4e4da643a47b3b9aa27d",
+    "Type": "Medium",
+    "ID": "366",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Elevator #1"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Frost_Craft",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Content/Level/Frost_Craft.asset",
+  "data": {
+    "GUID": "dcddca4d05564563aa2aac8144615c46",
+    "Type": "SDG.Unturned.CraftingBlacklistAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Input_Items": [
+      {
+        "NoteToSelf": "car battery",
+        "GUID": "098b13be34a7411db7736b7f866ada69"
+      }
+    ],
+    "Output_Items": [
+      {
+        "NoteToSelf": "car battery",
+        "GUID": "098b13be34a7411db7736b7f866ada69"
+      }
+    ]
+  },
+  "translation": null
+}

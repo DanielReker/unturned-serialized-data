@@ -1,0 +1,64 @@
+{
+  "name": "PS_Airdrop_Supplies_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Airdrop_Supplies_0/PS_Airdrop_Supplies_0.dat",
+  "data": {
+    "GUID": "c7f4a03fe1d24cb4be98643680a8680d",
+    "Type": "Spawn",
+    "ID": "59240",
+    "Tables": [
+      {
+        "LegacyAssetId": "59530",
+        "Weight": "39"
+      },
+      {
+        "LegacyAssetId": "59377",
+        "Weight": "36"
+      },
+      {
+        "LegacyAssetId": "59714",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "59682",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "59740",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "59563",
+        "Weight": "12"
+      },
+      {
+        "LegacyAssetId": "59628",
+        "Weight": "6"
+      },
+      {
+        "LegacyAssetId": "59659",
+        "Weight": "6"
+      },
+      {
+        "LegacyAssetId": "59816",
+        "Weight": "6"
+      },
+      {
+        "LegacyAssetId": "59527",
+        "Weight": "6"
+      },
+      {
+        "LegacyAssetId": "59968",
+        "Weight": "6"
+      },
+      {
+        "LegacyAssetId": "59774",
+        "Weight": "3"
+      },
+      {
+        "Guid": "fa7ff11502704750be464f7d7788b90a",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

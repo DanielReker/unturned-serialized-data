@@ -1,0 +1,24 @@
+{
+  "name": "Fisherman Stan",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Fisherman Stan/Asset.dat",
+  "data": {
+    "GUID": "32caa9e4be394e0eac7270dda55a0082",
+    "Type": "NPC",
+    "ID": "9218",
+    "Shirt": "510",
+    "Pants": "511",
+    "Hat": "509",
+    "Tertiary": "503",
+    "Equipped": "Tertiary",
+    "Face": "12",
+    "Hair": "0",
+    "Beard": "9",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#0F0F0F",
+    "Dialogue": "9218"
+  },
+  "translation": {
+    "Name": "Fisherman Stan",
+    "Character": "Stan"
+  }
+}

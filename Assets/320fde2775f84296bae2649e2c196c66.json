@@ -1,0 +1,13 @@
+{
+  "name": "Beer_Storage_0",
+  "path": "Bundles/Objects/Medium/Business/Beer_Storage_0/Beer_Storage_0.dat",
+  "data": {
+    "GUID": "320fde2775f84296bae2649e2c196c66",
+    "Type": "Medium",
+    "ID": "1001",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Beer Storage #1"
+  }
+}

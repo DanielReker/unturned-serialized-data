@@ -1,0 +1,21 @@
+{
+  "name": "Research_Belgium_HULK",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Spawns/Items/Research_Belgium_HULK/Research_Belgium_HULK.dat",
+  "data": {
+    "GUID": "29ddc5393e2f4803ad8974b3be14b8c4",
+    "Type": "Spawn",
+    "ID": "9033",
+    "Tables": "5",
+    "Table_0_Spawn_ID": "480",
+    "Table_0_Weight": "100",
+    "Table_1_Spawn_ID": "389",
+    "Table_1_Weight": "80",
+    "Table_2_Spawn_ID": "9026",
+    "Table_2_Weight": "2",
+    "Table_3_Asset_ID": "1270",
+    "Table_3_Weight": "15",
+    "Table_4_Asset_ID": "1271",
+    "Table_4_Weight": "7"
+  },
+  "translation": null
+}

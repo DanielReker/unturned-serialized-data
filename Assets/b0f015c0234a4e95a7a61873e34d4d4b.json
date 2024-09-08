@@ -1,0 +1,14 @@
+{
+  "name": "Tent_1",
+  "path": "Bundles/Objects/Large/Buildings/Tent_1/Tent_1.dat",
+  "data": {
+    "GUID": "b0f015c0234a4e95a7a61873e34d4d4b",
+    "Type": "Large",
+    "ID": "231",
+    "LOD": "Area",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Tent #2"
+  }
+}

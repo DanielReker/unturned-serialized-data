@@ -1,0 +1,17 @@
+{
+  "name": "Dragonmaw_Iron_Sights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Items/Sights/Dragonmaw_Iron_Sights/Dragonmaw_Iron_Sights.dat",
+  "data": {
+    "GUID": "d8b042ff75ad42b8958a6a3bfedb8848",
+    "Type": "Sight",
+    "ID": "8064  ",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Dragonmaw Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

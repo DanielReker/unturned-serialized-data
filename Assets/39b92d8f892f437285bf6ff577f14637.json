@@ -1,0 +1,28 @@
+{
+  "name": "Socket_Wrench",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Tools/Socket_Wrench/Socket_Wrench.dat",
+  "data": {
+    "GUID": "39b92d8f892f437285bf6ff577f14637",
+    "Type": "Tire",
+    "Rarity": "Uncommon",
+    "Useable": "Tire",
+    "ID": "25409",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.42",
+    "Use_Auto_Icon_Measurements": "False",
+    "Mode": "Remove",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "25409",
+    "Blueprint_0_Product": "25310",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Tool": "25393",
+    "Blueprint_0_Build": "25520",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Socket Wrench ",
+    "Description": "Tool for retrieving tires."
+  }
+}

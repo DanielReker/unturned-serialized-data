@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Beans",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Beans/PS_Drops_Beans.dat",
+  "data": {
+    "GUID": "9345f25935d1449d870fba3a13c975a9",
+    "Type": "Spawn",
+    "ID": "59395",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59046",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

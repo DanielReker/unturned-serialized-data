@@ -1,0 +1,14 @@
+{
+  "name": "PS_Debris_Pile_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Debris_Pile_6/PS_Debris_Pile_6.dat",
+  "data": {
+    "GUID": "29f539cded8d4d6391c386bbb40c1efc",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "60024",
+    "Material_Palette": "5b0a22f608064fe8a777ce636ed4da74"
+  },
+  "translation": {
+    "Name": "PS Debris Pile #7"
+  }
+}

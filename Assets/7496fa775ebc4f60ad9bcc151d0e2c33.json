@@ -1,0 +1,10 @@
+{
+  "name": "Rifle_Case_AR",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Cases/Rifle_Case_AR/Rifle_Case_AR.dat",
+  "data": {
+    "GUID": "7496fa775ebc4f60ad9bcc151d0e2c33",
+    "Type": "Effect",
+    "ID": "59018"
+  },
+  "translation": null
+}

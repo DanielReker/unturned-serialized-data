@@ -1,0 +1,16 @@
+{
+  "name": "PaintingKuwait",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingKuwait/PaintingKuwait.dat",
+  "data": {
+    "GUID": "342ff025fe7e4b889d7e3e2a2121ff94",
+    "Type": "Spawn",
+    "ID": "51241",
+    "Tables": [
+      {
+        "Guid": "48db96cc79bc447397beb9d6111a1f77",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

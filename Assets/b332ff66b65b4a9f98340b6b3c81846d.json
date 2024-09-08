@@ -1,0 +1,22 @@
+{
+  "name": "Mayor_Reward",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Mayor_Ekko/Mayor_Reward/Asset.dat",
+  "data": {
+    "GUID": "b332ff66b65b4a9f98340b6b3c81846d",
+    "Type": "Dialogue",
+    "ID": "45773",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Message_0_Rewards": "1",
+    "Message_0_Reward_0_Type": "Item",
+    "Message_0_Reward_0_ID": "488",
+    "Message_0_Reward_0_Amount": "1",
+    "Message_0_Reward_0_Barrel": "1190",
+    "Message_0_Reward_0_Tactical": "152",
+    "Message_0_Reward_0_Grip": "8"
+  },
+  "translation": {
+    "Message_0_Page_0": "Of Kailua-Kona, although I guess <i>was</i> would be more accurate. When everything started falling apart, Sergeant Hale and his team were sent to protect me and other important figures. Unfortunately, as time went on our numbers shrunk until just Hale and I were left.",
+    "Message_0_Page_1": "<pause> <i>*Sigh*</i> <pause>. I wish he had made it too. <pause> I guess he won't be needing this sidearm anymore, and nor will I, so take it. I would give you more for your courage but unfortunately Hale had most of the supplies on him."
+  }
+}

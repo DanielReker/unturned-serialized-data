@@ -1,0 +1,20 @@
+{
+  "name": "Survivor_George",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IDF/Filler/Survivor_George/Asset.dat",
+  "data": {
+    "GUID": "6a2d741c1bd44139840380ff7bdbf118",
+    "Type": "NPC",
+    "ID": "15053",
+    "Shirt": "183",
+    "Pants": "207",
+    "Face": "8",
+    "Hair": "11",
+    "Color_Skin": "#f2e3cb",
+    "Color_Hair": "#2d2c2a",
+    "Dialogue": "15196"
+  },
+  "translation": {
+    "Name": "IDF Survivor George",
+    "Character": "George"
+  }
+}

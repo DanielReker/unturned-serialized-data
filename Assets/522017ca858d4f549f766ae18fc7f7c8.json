@@ -1,0 +1,23 @@
+{
+  "name": "Buak_Lemon_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Resources/Buak_Lemon_00/Buak_Lemon_00.dat",
+  "data": {
+    "GUID": "522017ca858d4f549f766ae18fc7f7c8",
+    "Type": "Resource",
+    "ID": "25315",
+    "Health": "1",
+    "Radius": "5",
+    "Scale": "1.2",
+    "Explosion": "25321",
+    "Reward_ID": "25343",
+    "Reward_XP": "1",
+    "Forage": "",
+    "Reset": "1000",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Halloween_Redirect": "d58ff5c579ef4350830286e6848ab749"
+  },
+  "translation": {
+    "Name": "Buak_Lemon_00"
+  }
+}

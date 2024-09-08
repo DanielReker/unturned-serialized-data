@@ -1,0 +1,28 @@
+{
+  "name": "Stash_Trikala_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Stash_Trikala_4/Stash_Trikala_4.dat",
+  "data": {
+    "GUID": "b8edf5c042d642d9b9c959f4a025b80d",
+    "Type": "Small",
+    "ID": "3862",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3378",
+    "Condition_0_Value": "8",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "3380",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "3380",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Stash Trikala #5",
+    "Interact": "Take Stash[{0}]"
+  }
+}

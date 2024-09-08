@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Wall_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Frost_Wall_00/Frost_Wall_00.dat",
+  "data": {
+    "GUID": "9d7bf85e1c2048218b53126968af444a",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36003"
+  },
+  "translation": {
+    "Name": "Frost Wall #1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Q_AG_En_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/AG_00/Buak_Q_AG_En_4/Buak_Q_AG_En_4.dat",
+  "data": {
+    "GUID": "d1f83ca2bd3a4b19abb989c661a2adb6",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24258",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_Q_AG_En_4"
+  }
+}

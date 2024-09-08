@@ -1,0 +1,23 @@
+{
+  "name": "Audio_Tape_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Misc/Audio_Tape_04/Audio_Tape_04.dat",
+  "data": {
+    "GUID": "c97c0ce32df84d9ab853b77ccef70ce0",
+    "Type": "Cloud",
+    "Useable": "Cloud",
+    "Rarity": "Rare",
+    "ID": "27414",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.42",
+    "Use_Auto_Icon_Measurements": "False",
+    "Instantiated_Item_Name_Override": "Audio_Tape",
+    "Gravity": "1",
+    "InspectAudioDef": "Sounds/Items/Audio_Tapes/Audio_Tape_04.asset",
+    "EquipablePrefab": "Items/Misc/Audio_Tape_00/Item_Equip_2.prefab"
+  },
+  "translation": {
+    "Name": "Audio Tape (Daucus Sativus #1)",
+    "Description": "An audio tape diary.<br><color=#cd32da>Inspect To Play Audio Recording</color><br><br>\"Things around the lab started feeling a lot more tense as of late, a lot more eerie after the Kirie incident- and it only gets worse the more we…create. I’ve lost countless friends and lab partners due to them- and I know why we keep them around, but I truly wish it wasn’t the case. What we need is solutions, and we need them now.\""
+  }
+}

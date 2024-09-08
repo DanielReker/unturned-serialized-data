@@ -1,0 +1,12 @@
+{
+  "name": "CutsceneOrbFacility",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/CutsceneOrbFacility/CutsceneOrbFacility.dat",
+  "data": {
+    "GUID": "b870c85ad724435699ecefe7dbe06931",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS CutsceneOrbFacility"
+  }
+}

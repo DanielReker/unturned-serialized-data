@@ -1,0 +1,22 @@
+{
+  "name": "Lena",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Characters/Lena/Asset.dat",
+  "data": {
+    "GUID": "055cf0f57f3240969ba17c60658c78bb",
+    "Type": "NPC",
+    "ID": "5000",
+    "Shirt": "174",
+    "Pants": "2",
+    "Vest": "217",
+    "Face": "0",
+    "Hair": "15",
+    "Color_Skin": "#F9E2AC",
+    "Color_Hair": "#F9A811",
+    "Tertiary": "15",
+    "Dialogue": "5001"
+  },
+  "translation": {
+    "Name": "Lena",
+    "Character": "<color=Blue>Lena</color>"
+  }
+}

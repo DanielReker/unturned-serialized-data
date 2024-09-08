@@ -1,0 +1,14 @@
+{
+  "name": "Metro_PC_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Small/Metro_PC_0/Metro_PC_0.dat",
+  "data": {
+    "GUID": "c646c25193c24320bf54a7a0f63a93af",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57318",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro PC #1"
+  }
+}

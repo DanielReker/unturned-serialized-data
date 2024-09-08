@@ -1,0 +1,13 @@
+{
+  "name": "Dumpster_6",
+  "path": "Bundles/Objects/Medium/Business/Dumpster_6/Dumpster_6.dat",
+  "data": {
+    "GUID": "e7951d04eb984bb9bd521671f9a4fad3",
+    "Type": "Medium",
+    "ID": "696",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Dumpster #7"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Military_Guard_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Guard_7/Asset.dat",
+  "data": {
+    "GUID": "e5f5033103064438b4a657d9f60c7b80",
+    "Type": "NPC",
+    "ID": "3556",
+    "Shirt": "3507",
+    "Pants": "3504",
+    "Mask": "185",
+    "Face": "25",
+    "Hair": "8",
+    "Beard": "0",
+    "Color_Skin": "#706049",
+    "Color_Hair": "#191919",
+    "Primary": "3512",
+    "Secondary": "3515",
+    "Equipped": "Primary",
+    "Backward": "",
+    "Dialogue": "3662"
+  },
+  "translation": {
+    "Name": "Greek Guard Lexie",
+    "Character": "<color=epic>Sergeant Lexie</color>"
+  }
+}

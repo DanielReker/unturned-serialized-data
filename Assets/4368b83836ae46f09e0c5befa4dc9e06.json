@@ -1,0 +1,15 @@
+{
+  "name": "Frost_Block_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Frost_Block_01/Frost_Block_01.dat",
+  "data": {
+    "GUID": "4368b83836ae46f09e0c5befa4dc9e06",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Soft": "",
+    "Collision_Important": ""
+  },
+  "translation": {
+    "Name": "Frost Block #2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Frost_Circle_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Modulo_0/Frost_Circle_01/Frost_Circle_01.dat",
+  "data": {
+    "GUID": "d0f812228c824480ade9f121ce75c459",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "36099",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Master_Bundle_Override": "frost.masterbundle",
+    "Bundle_Override_Path": "/Objects/Safezone/Frost_Circle"
+  },
+  "translation": {
+    "Name": "Frost Circle #2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Fransisco_Supply",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Trading/Fransisco_Dialogue/Fransisco_Supply/Asset.dat",
+  "data": {
+    "GUID": "df8e231992a0425bbe0e83bc775f58c1",
+    "Type": "Dialogue",
+    "ID": "9252",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "There is a big hospital in Rio De Janeiro, chalked full of pills and syringes, we find new stuff every time we scavenge.",
+    "Response_0": "Maybe I might check it out some time."
+  }
+}

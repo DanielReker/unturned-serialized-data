@@ -1,0 +1,14 @@
+{
+  "name": "EI_Shark_Tooth_Necklace",
+  "path": "Bundles/Items/Vests/EI_Shark_Tooth_Necklace/EI_Shark_Tooth_Necklace.dat",
+  "data": {
+    "GUID": "b941d8f9910b4f59b4df222f993e3c18",
+    "Type": "Vest",
+    "ID": "952",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Pro": ""
+  },
+  "translation": null
+}

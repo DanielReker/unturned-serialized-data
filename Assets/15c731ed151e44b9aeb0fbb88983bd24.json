@@ -1,0 +1,20 @@
+{
+  "name": "Survivor Julio",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Survivors/Survivor Julio/Asset.dat",
+  "data": {
+    "GUID": "15c731ed151e44b9aeb0fbb88983bd24",
+    "Type": "NPC",
+    "ID": "9006",
+    "Shirt": "211",
+    "Pants": "548",
+    "Face": "22",
+    "Hair": "17",
+    "Color_Skin": "#d3af85",
+    "Color_Hair": "#3f3e3c",
+    "Dialogue": "9201"
+  },
+  "translation": {
+    "Name": "NAM Survivor Julio",
+    "Character": "Julio"
+  }
+}

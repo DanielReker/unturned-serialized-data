@@ -1,0 +1,19 @@
+{
+  "name": "California_Sawmill_Melee",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_Sawmill_Melee/California_Sawmill_Melee.dat",
+  "data": {
+    "GUID": "8591ca3925464a9aa697858516eb5a7d",
+    "Type": "Spawn",
+    "ID": "4372",
+    "Tables": "4",
+    "Table_0_Asset_ID": "16",
+    "Table_0_Weight": "120",
+    "Table_1_Asset_ID": "139",
+    "Table_1_Weight": "50",
+    "Table_2_Asset_ID": "141",
+    "Table_2_Weight": "50",
+    "Table_3_Asset_ID": "490",
+    "Table_3_Weight": "30"
+  },
+  "translation": null
+}

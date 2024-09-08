@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Spectral_Node_Drops",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Kuwait_Spectral_Node_Drops/Kuwait_Spectral_Node_Drops.dat",
+  "data": {
+    "GUID": "1222d41af3c64fb1b3d2cbf56f19857a",
+    "Type": "Spawn",
+    "ID": "7134",
+    "Tables": "1",
+    "Table_0_Asset_ID": "5551",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

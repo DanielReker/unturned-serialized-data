@@ -1,0 +1,13 @@
+{
+  "name": "Military_Brazil_Urthor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Military_Brazil_Urthor/Military_Brazil_Urthor.dat",
+  "data": {
+    "GUID": "f1c9ce6537b24e13acb24946b01c0f9f",
+    "Type": "Spawn",
+    "ID": "5543",
+    "Tables": "1",
+    "Table_0_Asset_ID": "4436  ",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

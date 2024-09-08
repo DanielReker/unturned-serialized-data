@@ -1,0 +1,13 @@
+{
+  "name": "Door_Stable_Bottom",
+  "path": "Bundles/Objects/Medium/Utilities/Door_Stable_Bottom/Door_Stable_Bottom.dat",
+  "data": {
+    "GUID": "f06106f04a2842eda24f9385a5ecf95d",
+    "Type": "Medium",
+    "ID": "610",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Stable Door Bottom"
+  }
+}

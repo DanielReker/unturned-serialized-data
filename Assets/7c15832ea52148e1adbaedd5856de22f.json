@@ -1,0 +1,18 @@
+{
+  "name": "PBS_GovernmentSetup",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/PBS_GovernmentSetup/PBS_GovernmentSetup.dat",
+  "data": {
+    "GUID": "7c15832ea52148e1adbaedd5856de22f",
+    "Type": "RewardsList",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51294",
+    "Reward_0_Amount": "1",
+    "Reward_0_Sight": "51085",
+    "Reward_0_Barrel": "51090",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "51042",
+    "Reward_1_Amount": "3"
+  },
+  "translation": null
+}

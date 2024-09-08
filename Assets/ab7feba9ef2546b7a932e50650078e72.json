@@ -1,0 +1,16 @@
+{
+  "name": "PBS_Bush_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Trees/PBS_Bush_0/PBS_Bush_0.dat",
+  "data": {
+    "GUID": "ab7feba9ef2546b7a932e50650078e72",
+    "Type": "Resource",
+    "ID": "51006",
+    "Health": "1000",
+    "Radius": "3",
+    "Scale": "0.1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Bush"
+  }
+}

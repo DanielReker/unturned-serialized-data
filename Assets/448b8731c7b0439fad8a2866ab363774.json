@@ -1,0 +1,27 @@
+{
+  "name": "Recruit_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IDF/Recruit_Judas/Recruit_Welcome/Asset.dat",
+  "data": {
+    "GUID": "448b8731c7b0439fad8a2866ab363774",
+    "Type": "Dialogue",
+    "ID": "15170",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "4",
+    "Response_0_Dialogue": "15171",
+    "Response_1_Dialogue": "15172",
+    "Response_2_Dialogue": "15173",
+    "Response_2_Conditions": "1",
+    "Response_2_Condition_0_Type": "Flag_Bool",
+    "Response_2_Condition_0_ID": "12101",
+    "Response_2_Condition_0_Value": "True",
+    "Response_2_Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Message_0_Page_0": "What's up?",
+    "Response_0": "Can you tell me about yourself?",
+    "Response_1": "Can you tell me about the <color=green>Irish Defense Forces</color>?",
+    "Response_2": "Can you tell me about what happened at Moneypoint?",
+    "Response_3": "Nothing much. Have a good day!"
+  }
+}

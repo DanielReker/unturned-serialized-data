@@ -1,0 +1,11 @@
+{
+  "name": "Classic_Axe_Fire",
+  "path": "Bundles/Skins/Anniversary_10/Classic_Axe_Fire/Classic_Axe_Fire.dat",
+  "data": {
+    "GUID": "3ccd06e884c64770bf2b960b143469be",
+    "Type": "Skin",
+    "ID": "302",
+    "Override_Meshes": "1"
+  },
+  "translation": null
+}

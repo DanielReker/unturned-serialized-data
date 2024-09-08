@@ -1,0 +1,14 @@
+{
+  "name": "Tiago_True_Afzetter_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Afzetter Member Tiago/Tiago_True_Afzetter_Accepted/Asset.dat",
+  "data": {
+    "GUID": "30a5b739b0d7412599af5e6a4634d852",
+    "Type": "Dialogue",
+    "ID": "9168",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Spoke like a true Afzetter!"
+  }
+}

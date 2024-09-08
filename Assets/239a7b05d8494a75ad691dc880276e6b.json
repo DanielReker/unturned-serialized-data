@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Puzzle_Trophy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Puzzle_Trophy/PS_Drops_Puzzle_Trophy.dat",
+  "data": {
+    "GUID": "239a7b05d8494a75ad691dc880276e6b",
+    "Type": "Spawn",
+    "ID": "59421",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59601",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PS_A_Buildings_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/Material_Palettes/PS_A_Buildings_3.asset",
+  "data": {
+    "GUID": "8adfccb566f6433da5ed4aad23ffd50d",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/buildings_3/Building_0.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/buildings_3/Building_1.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/buildings_3/Building_2.mat"
+      }
+    ]
+  },
+  "translation": null
+}

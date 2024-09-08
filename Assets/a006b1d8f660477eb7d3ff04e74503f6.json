@@ -1,0 +1,12 @@
+{
+  "name": "France_Scrap_Stuff_Crate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Small/Scrap/France_Scrap_Stuff_Crate/France_Scrap_Stuff_Crate.dat",
+  "data": {
+    "GUID": "a006b1d8f660477eb7d3ff04e74503f6",
+    "Type": "Small",
+    "ID": "35303"
+  },
+  "translation": {
+    "Name": "France Scrap Stuff Crate"
+  }
+}

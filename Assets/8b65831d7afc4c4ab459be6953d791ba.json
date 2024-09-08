@@ -1,0 +1,13 @@
+{
+  "name": "PS_Bedroll_Object",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Bedroll_Object/PS_Bedroll_Object.dat",
+  "data": {
+    "GUID": "8b65831d7afc4c4ab459be6953d791ba",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59912"
+  },
+  "translation": {
+    "Name": "PS Bedroll Object #1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "France_Vine_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Small/Overgrowth/France_Vine_1/France_Vine_1.dat",
+  "data": {
+    "GUID": "52a2b010697e465aa7ff568ef101b9b9",
+    "Type": "Small",
+    "ID": "35156",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "France Vines #2"
+  }
+}

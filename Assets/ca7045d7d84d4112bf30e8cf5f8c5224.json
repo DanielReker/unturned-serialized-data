@@ -1,0 +1,15 @@
+{
+  "name": "Deadzone_Belgium_HULK",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Spawns/Items/Deadzone_Belgium_HULK/Deadzone_Belgium_HULK.dat",
+  "data": {
+    "GUID": "ca7045d7d84d4112bf30e8cf5f8c5224",
+    "Type": "Spawn",
+    "ID": "9032",
+    "Tables": "2",
+    "Table_0_Spawn_ID": "9001",
+    "Table_0_Weight": "100",
+    "Table_1_Spawn_ID": "9026",
+    "Table_1_Weight": "30"
+  },
+  "translation": null
+}

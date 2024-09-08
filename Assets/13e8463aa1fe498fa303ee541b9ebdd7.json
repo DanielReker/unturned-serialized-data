@@ -1,0 +1,13 @@
+{
+  "name": "BE Tent #2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Tent #2/BE Tent #2.dat",
+  "data": {
+    "GUID": "13e8463aa1fe498fa303ee541b9ebdd7",
+    "Type": "Large",
+    "ID": "9015",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Tent #2"
+  }
+}

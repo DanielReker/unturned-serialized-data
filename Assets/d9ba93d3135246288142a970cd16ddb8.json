@@ -1,0 +1,13 @@
+{
+  "name": "BE_Dragon_Mage_Bottom",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Cosmetics/BE_Dragon_Mage_Bottom/BE_Dragon_Mage_Bottom.dat",
+  "data": {
+    "GUID": "d9ba93d3135246288142a970cd16ddb8",
+    "Type": "Pants",
+    "ID": "1539",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65"
+  },
+  "translation": null
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Kuwait_Fire",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Assets/Material_Palettes/Kuwait_Fire.asset",
+  "data": {
+    "GUID": "dcb905bed1b44fa5a5aa893c4a6210fb",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Fire/KFire.mat"
+      }
+    ]
+  },
+  "translation": null
+}

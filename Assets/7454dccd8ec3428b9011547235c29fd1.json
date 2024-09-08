@@ -1,0 +1,27 @@
+{
+  "name": "Metro_Canned_Beans",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Overrides/Metro_Canned_Beans/Metro_Canned_Beans.dat",
+  "data": {
+    "GUID": "7454dccd8ec3428b9011547235c29fd1",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "57407",
+    "Shared_Skin_Lookup_ID": "13",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.29",
+    "Food": "40",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "57200",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Canned_Beans",
+    "ConsumeAudioClip": "Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Canned Beans",
+    "Description": "<color=#64c819>40</color> Food"
+  }
+}

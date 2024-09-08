@@ -1,0 +1,16 @@
+{
+  "name": "Buak_Mineshaft_11",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Mines/Mineshafts/Buak_Mineshaft_11/Buak_Mineshaft_11.dat",
+  "data": {
+    "GUID": "1d63f6dd3c1c4931b33afe32af1aa7a1",
+    "Type": "Large",
+    "ID": "25300",
+    "Soft": "",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Mineshaft_11"
+  }
+}

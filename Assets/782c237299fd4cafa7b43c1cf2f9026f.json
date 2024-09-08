@@ -1,0 +1,15 @@
+{
+  "name": "PBS_Natalie_Info",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Natalie/PBS_Natalie_Info/Asset.dat",
+  "data": {
+    "GUID": "782c237299fd4cafa7b43c1cf2f9026f",
+    "Type": "Dialogue",
+    "ID": "52152",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "I try to keep it as cheap as I can in this situation.  Nothing too expensive, but obviously more treatment costs more.",
+    "Message_0_Page_1": "<i>Every third of HP missing will cost 5 GRB to recover.</i>"
+  }
+}

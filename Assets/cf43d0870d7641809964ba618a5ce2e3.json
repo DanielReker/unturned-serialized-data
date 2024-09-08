@@ -1,0 +1,36 @@
+{
+  "name": "Plaque_Wooden",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Plaque_Wooden/Plaque_Wooden.dat",
+  "data": {
+    "GUID": "cf43d0870d7641809964ba618a5ce2e3",
+    "Type": "Storage",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Storage_Wall",
+    "ID": "52158",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Health": "300",
+    "Range": "4",
+    "Offset": "0.125",
+    "Storage_X": "5",
+    "Storage_Y": "2",
+    "Display": "",
+    "Vulnerable": "",
+    "Explosion": "29",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51023",
+    "Blueprint_0_Supply_0_Amount": "8",
+    "Blueprint_0_Build": "27",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Wooden Plaque",
+    "Description": "Wooden plaque for storing trophies."
+  }
+}

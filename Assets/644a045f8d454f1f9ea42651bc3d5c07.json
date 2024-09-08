@@ -1,0 +1,13 @@
+{
+  "name": "PS_Hay_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Hay_1/PS_Hay_1.dat",
+  "data": {
+    "GUID": "644a045f8d454f1f9ea42651bc3d5c07",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59067"
+  },
+  "translation": {
+    "Name": "PS Hay #2"
+  }
+}

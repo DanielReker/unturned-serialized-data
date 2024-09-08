@@ -1,0 +1,14 @@
+{
+  "name": "Chitchat_Role",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Ensign_Chitchat/Chitchat_Role/Asset.dat",
+  "data": {
+    "GUID": "f106852c77f74d2daa19be9fe4c38ff3",
+    "Type": "Dialogue",
+    "ID": "45708",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I am the communications expert! I do all things radio, plus I love to talk! I guess that is why I got the nickname \"Chitchat\"."
+  }
+}

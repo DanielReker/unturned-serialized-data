@@ -1,0 +1,13 @@
+{
+  "name": "Washington_Police",
+  "path": "Bundles/Spawns/Vehicles/Washington_Police/Washington_Police.dat",
+  "data": {
+    "GUID": "ceb9163ecc1f480bb21dd281ea2620ed",
+    "Type": "Spawn",
+    "ID": "405",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "303",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

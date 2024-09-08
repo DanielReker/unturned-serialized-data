@@ -1,0 +1,15 @@
+{
+  "name": "Mech2",
+  "path": "Bundles/Skins/Blowtorch/Mech2/Mech2.dat",
+  "data": {
+    "GUID": "531384b1e7ef4df894d2c6eb972e78c5",
+    "Type": "Skin",
+    "ID": "50056",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

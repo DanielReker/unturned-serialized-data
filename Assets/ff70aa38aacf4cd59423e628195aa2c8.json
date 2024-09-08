@@ -1,0 +1,18 @@
+{
+  "name": "Diamond",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Diamond/Diamond.dat",
+  "data": {
+    "GUID": "ff70aa38aacf4cd59423e628195aa2c8",
+    "Type": "Supply",
+    "Rarity": "Mythical",
+    "ID": "25348",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.34"
+  },
+  "translation": {
+    "Name": "Diamond",
+    "Description": "Don't make a hoe out of it! Valuable for trading."
+  }
+}

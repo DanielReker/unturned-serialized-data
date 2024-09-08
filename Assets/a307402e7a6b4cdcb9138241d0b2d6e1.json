@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Crate_Maple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Crate_Maple/Bar_Crate_Maple.dat",
+  "data": {
+    "GUID": "a307402e7a6b4cdcb9138241d0b2d6e1",
+    "Type": "Effect",
+    "ID": "25354"
+  },
+  "translation": null
+}

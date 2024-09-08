@@ -1,0 +1,25 @@
+{
+  "name": "Vehicle_Spraypaint_Navy",
+  "path": "Bundles/Items/Tools/Vehicle_Spraypaint_Navy/Vehicle_Spraypaint_Navy.dat",
+  "data": {
+    "GUID": "6ac0018afea44eaeb9586791feef3229",
+    "Type": "Vehicle_Paint_Tool",
+    "Rarity": "Uncommon",
+    "Useable": "Vehicle_Paint",
+    "ID": "1855",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "UseAudioClip": "Sounds/Vehicle_Spraypaint.wav",
+    "PaintColor": "#152A4F",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supply_0_ID": "1855",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Navy Vehicle Spraypaint",
+    "Description": "Refreshes most vehicles with a beautiful new coat of paint."
+  }
+}

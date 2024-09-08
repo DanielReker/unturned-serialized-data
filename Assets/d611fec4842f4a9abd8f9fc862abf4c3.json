@@ -1,0 +1,22 @@
+{
+  "name": "PS_Trader_7_Barter_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_7_Dialogue/PS_Trader_7_Barter_5/Asset.dat",
+  "data": {
+    "GUID": "d611fec4842f4a9abd8f9fc862abf4c3",
+    "Type": "Quest",
+    "ID": "59236",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59616",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "59514",
+    "Reward_0_Amount": "1"
+  },
+  "translation": {
+    "Name": "Dogtag Trade - Red Circuit Board",
+    "Description": "Exchange of goods."
+  }
+}

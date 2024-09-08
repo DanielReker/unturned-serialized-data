@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Kelp_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Overgrowth/Easter_Kelp_0/Easter_Kelp_0.dat",
+  "data": {
+    "GUID": "13c2056b537345219216469c48ec272a",
+    "Type": "Medium",
+    "ID": "6781",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Kelp #1"
+  }
+}

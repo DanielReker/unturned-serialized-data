@@ -1,0 +1,16 @@
+{
+  "name": "Drop_NutsAndBolts",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_NutsAndBolts/Drop_NutsAndBolts.dat",
+  "data": {
+    "GUID": "3af17141316041e79d112fd0c54592d5",
+    "Type": "Spawn",
+    "ID": "25506",
+    "Tables": [
+      {
+        "Guid": "d71e420495bf44e98b0f7a0a94c963ea",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

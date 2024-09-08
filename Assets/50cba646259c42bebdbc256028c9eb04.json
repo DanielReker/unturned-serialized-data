@@ -1,0 +1,32 @@
+{
+  "name": "Vengeance_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/01/Vengeance_01/Asset.dat",
+  "data": {
+    "GUID": "50cba646259c42bebdbc256028c9eb04",
+    "Type": "NPC",
+    "ID": "25300",
+    "Mask": "86b86d782f5840148cbd84f08e90f646",
+    "Shirt": "827ee5a361f1421488d7a975a717ce4b",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "25",
+    "Beard": "11",
+    "Hair": "18",
+    "Color_Skin": "#332C25",
+    "Color_Hair": "#161616",
+    "Dialogue": "c312da9a2f7a41b88e163663cd1d47f1",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24788",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Vengeance_01",
+    "Character": "<color=legendary>Vengeance</color>"
+  }
+}

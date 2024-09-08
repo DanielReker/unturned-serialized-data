@@ -1,0 +1,40 @@
+{
+  "name": "Raw_Bear_Venison",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Raw_Bear_Venison/Raw_Bear_Venison.dat",
+  "data": {
+    "GUID": "e899dfa0996c444e8f5ece84c8e05e92",
+    "Type": "Food",
+    "Rarity": "Legendary",
+    "Useable": "Consumeable",
+    "ID": "25736",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.45",
+    "Use_Auto_Icon_Measurements": "False",
+    "Food": "15",
+    "Water": "10",
+    "Virus": "40",
+    "Vision": "20",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25736",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "25311",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Build": "25534",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Compost",
+    "Action_0_Tooltip": "Turn into compost.",
+    "ConsumeAudioClip": "Sounds/Food/EatCrunchy.mp3",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Raw Bear Venison",
+    "Description": "They can eat you raw, you shouldn't do the same to them. Fire was invented for a reason."
+  }
+}

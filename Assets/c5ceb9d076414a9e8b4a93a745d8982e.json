@@ -1,0 +1,13 @@
+{
+  "name": "PS_Speaker_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Speaker_0/PS_Speaker_0.dat",
+  "data": {
+    "GUID": "c5ceb9d076414a9e8b4a93a745d8982e",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59529"
+  },
+  "translation": {
+    "Name": "PS Speaker #1"
+  }
+}

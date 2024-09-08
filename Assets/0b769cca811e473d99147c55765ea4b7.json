@@ -1,0 +1,21 @@
+{
+  "name": "1st Sergeant Rodolfo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Crew/1st Sergeant Rodolfo/Asset.dat",
+  "data": {
+    "GUID": "0b769cca811e473d99147c55765ea4b7",
+    "Type": "NPC",
+    "ID": "9039",
+    "Shirt": "8039",
+    "Pants": "8033",
+    "Face": "5",
+    "Hair": "2",
+    "Color_Skin": "#f2ebde",
+    "Color_Hair": "#efd9b3",
+    "Pose": "Sit",
+    "Dialogue": "9208"
+  },
+  "translation": {
+    "Name": "NAM 1st Sergeant Rodolfo",
+    "Character": "<color=epic>1st Sergeant Rodolfo</color>"
+  }
+}

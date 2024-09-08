@@ -1,0 +1,15 @@
+{
+  "name": "HawaiiPlatform_Cap",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiPlatform_Cap/HawaiiPlatform_Cap.dat",
+  "data": {
+    "GUID": "e32759230c2b4730855f4a83782178fe",
+    "Type": "Large",
+    "ID": "702",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Hawaii Haiku Platform Cap"
+  }
+}

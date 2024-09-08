@@ -1,0 +1,22 @@
+{
+  "name": "Buak_Note_09",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Note_09/Buak_Note_09.dat",
+  "data": {
+    "GUID": "c69c40526e824490895bf5044cf1dbae",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Material_Palette": "3758ac9d1b774a4a99a407c069e2a21a",
+    "Bundle_Override_Path": "/Objects/Small/Furniture/Buak_Note_00"
+  },
+  "translation": {
+    "Name": "Buak_Note_09",
+    "Interactability_Text_Line_0": "Tyler's Notes",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Why do we have so many prison uniforms? We’re only a county sized jail with two residents in at most, and the two we do throw in our cell usually just wear their regular clothes!"
+  }
+}

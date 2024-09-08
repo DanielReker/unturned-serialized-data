@@ -1,0 +1,25 @@
+{
+  "name": "Metro_Note_J",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Metro_Note_J/Metro_Note_J.dat",
+  "data": {
+    "GUID": "b9a5189c66ef42e8b6c05951a933c064",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57664",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "58010",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Asset_Bundle_Version": "3",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note"
+  },
+  "translation": {
+    "Name": "Metro Note [J]",
+    "Interactability_Text_Line_0": "Thank you."
+  }
+}

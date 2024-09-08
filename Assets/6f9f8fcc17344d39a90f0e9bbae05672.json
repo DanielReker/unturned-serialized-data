@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Gas_Sign_Old",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Gas_Sign_Old/Buak_Gas_Sign_Old.dat",
+  "data": {
+    "GUID": "6f9f8fcc17344d39a90f0e9bbae05672",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Gas_Sign_Old"
+  }
+}

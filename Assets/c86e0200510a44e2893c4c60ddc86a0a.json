@@ -1,0 +1,12 @@
+{
+  "name": "PBS_Ponytail_Hair",
+  "path": "Bundles/Items/PBS/PBS_Ponytail_Hair/PBS_Ponytail_Hair.dat",
+  "data": {
+    "GUID": "c86e0200510a44e2893c4c60ddc86a0a",
+    "Type": "Hat",
+    "Pro": "",
+    "Beard": "",
+    "Hair_Override": "Model_0"
+  },
+  "translation": null
+}

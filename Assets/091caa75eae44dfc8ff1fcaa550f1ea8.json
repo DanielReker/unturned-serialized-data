@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Plane_Controls",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_Plane_Controls/Buak_Plane_Controls.dat",
+  "data": {
+    "GUID": "091caa75eae44dfc8ff1fcaa550f1ea8",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Plane_Controls"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Wood_Chair",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Wood_Chair/Obj_Wood_Chair.dat",
+  "data": {
+    "GUID": "06745c9612084f2ebb3b46e08b3322d4",
+    "Type": "Effect",
+    "ID": "25323"
+  },
+  "translation": null
+}

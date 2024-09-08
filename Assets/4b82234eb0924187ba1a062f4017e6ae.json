@@ -1,0 +1,18 @@
+{
+  "name": "GluttonNumber1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/GluttonObjects/GluttonNumber1/GluttonNumber1.dat",
+  "data": {
+    "GUID": "4b82234eb0924187ba1a062f4017e6ae",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "51000",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "52893",
+    "Condition_0_Value": "1",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS Glutton Screen #1-0"
+  }
+}

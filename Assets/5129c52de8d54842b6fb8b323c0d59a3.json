@@ -1,0 +1,23 @@
+{
+  "name": "Audio_Tape_08",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Misc/Audio_Tape_08/Audio_Tape_08.dat",
+  "data": {
+    "GUID": "5129c52de8d54842b6fb8b323c0d59a3",
+    "Type": "Cloud",
+    "Useable": "Cloud",
+    "Rarity": "Rare",
+    "ID": "27418",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.42",
+    "Use_Auto_Icon_Measurements": "False",
+    "Instantiated_Item_Name_Override": "Audio_Tape",
+    "Gravity": "1",
+    "InspectAudioDef": "Sounds/Items/Audio_Tapes/Audio_Tape_08.asset",
+    "EquipablePrefab": "Items/Misc/Audio_Tape_00/Item_Equip_2.prefab"
+  },
+  "translation": {
+    "Name": "Audio Tape (Daucus Sativus #3)",
+    "Description": "An audio tape diary.<br><color=#cd32da>Inspect To Play Audio Recording</color><br><br>\"This is the end… we had our concerns but… now not only we suffer the consequences, but so does the entire world. We created pure armageddon.\""
+  }
+}

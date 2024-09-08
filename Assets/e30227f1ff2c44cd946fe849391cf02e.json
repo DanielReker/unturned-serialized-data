@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Grave",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Grave/Obj_Grave.dat",
+  "data": {
+    "GUID": "e30227f1ff2c44cd946fe849391cf02e",
+    "Type": "Effect",
+    "ID": "25558"
+  },
+  "translation": null
+}

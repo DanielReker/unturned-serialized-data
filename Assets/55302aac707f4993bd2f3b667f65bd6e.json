@@ -1,0 +1,18 @@
+{
+  "name": "Kira_Question_08",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Kira/Kira_04/Kira_Question_08/Asset.dat",
+  "data": {
+    "GUID": "55302aac707f4993bd2f3b667f65bd6e",
+    "Type": "Dialogue",
+    "ID": "24078",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Message_0_FaceOverride": "25",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Before we got here she got bit and was dying, we were hoping to find something that would help but all of a sudden she... got better somewhat. I don't know how it happened, but we are thankful, even though she's a little off from how she was before...",
+    "Message_0_Page_1": "I don't think the group could have handled another loss so soon, not after-... ...she's okay.",
+    "Response_0": "Good to know!"
+  }
+}

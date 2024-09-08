@@ -1,0 +1,32 @@
+{
+  "name": "Lancehead_40",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Items/Magazines/Lancehead_40/Lancehead_40.dat",
+  "data": {
+    "GUID": "c77467d66b9d4a85855d753301be073b",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "ID": "8032",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.2",
+    "Amount": "40",
+    "Count_Min": "2",
+    "Count_Max": "40",
+    "Calibers": "1",
+    "Caliber_0": "8031",
+    "Tracer": "48",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "43",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "8032",
+    "Blueprint_1_Build": "30"
+  },
+  "translation": {
+    "Name": "Lancehead Clip",
+    "Description": "Low caliber military grade <color=rare>Lancehead</color> clip. Designed to fit 40 rounds."
+  }
+}

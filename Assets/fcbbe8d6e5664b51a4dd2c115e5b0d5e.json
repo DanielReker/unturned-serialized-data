@@ -1,0 +1,14 @@
+{
+  "name": "Scout_Alika_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Scout_Stuart/Scout_Alika_Completed/Asset.dat",
+  "data": {
+    "GUID": "fcbbe8d6e5664b51a4dd2c115e5b0d5e",
+    "Type": "Dialogue",
+    "ID": "2153",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Partially looted? Figures, Aegis probably already cleaned the place out!"
+  }
+}

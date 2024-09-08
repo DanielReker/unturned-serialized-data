@@ -1,0 +1,22 @@
+{
+  "name": "Gunner_Gunny",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IDF/Gunner_Gunny/Asset.dat",
+  "data": {
+    "GUID": "52c79f0c17844d6f81b26faaa85b9926",
+    "Type": "NPC",
+    "ID": "15024",
+    "Shirt": "15005",
+    "Pants": "15003",
+    "Mask": "434",
+    "Primary": "15044",
+    "Face": "7",
+    "Hair": "9",
+    "Color_Skin": "#f9f4e8",
+    "Color_Hair": "#7bd323",
+    "Dialogue": "15160"
+  },
+  "translation": {
+    "Name": "IDF Gunner Gunny",
+    "Character": "<color=rare>Lieutenant Gunny</color>"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Afzetter Leader Ibrahim",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Vendors/Afzetter Leader Ibrahim/Asset.dat",
+  "data": {
+    "GUID": "295ba61564654188adaa0b3ad6b082e1",
+    "Type": "Vendor",
+    "ID": "9133",
+    "Selling": "5",
+    "Selling_0_ID": "1000",
+    "Selling_0_Cost": "1200",
+    "Selling_1_ID": "1193",
+    "Selling_1_Cost": "180",
+    "Selling_2_ID": "144",
+    "Selling_2_Cost": "60",
+    "Selling_3_ID": "1190",
+    "Selling_3_Cost": "60",
+    "Selling_4_ID": "1191",
+    "Selling_4_Cost": "60",
+    "Buying": "6",
+    "Buying_0_ID": "1036",
+    "Buying_0_Cost": "3",
+    "Buying_1_ID": "73",
+    "Buying_1_Cost": "3",
+    "Buying_2_ID": "65",
+    "Buying_2_Cost": "3",
+    "Buying_3_ID": "1369",
+    "Buying_3_Cost": "50",
+    "Buying_4_ID": "129",
+    "Buying_4_Cost": "60",
+    "Buying_5_ID": "123",
+    "Buying_5_Cost": "12"
+  },
+  "translation": {
+    "Name": "<color=legendary>Ibrahim's</color> Black Market",
+    "Description": "I may have some deals for you!"
+  }
+}

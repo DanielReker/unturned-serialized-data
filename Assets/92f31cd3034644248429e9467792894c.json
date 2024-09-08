@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Decal_Rust_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Decals/Easter_Decal_Rust_0/Easter_Decal_Rust_0.dat",
+  "data": {
+    "GUID": "92f31cd3034644248429e9467792894c",
+    "Type": "Decal",
+    "ID": "6761",
+    "Decal_X": "3",
+    "Decal_Y": "3",
+    "Decal_LOD_Bias": "1",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Decal Rust #1"
+  }
+}

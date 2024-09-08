@@ -1,0 +1,39 @@
+{
+  "name": "Felix_Operation_Flight_Control",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Quests/Felix_Operation_Flight_Control/Asset.dat",
+  "data": {
+    "GUID": "920a555a04f944709e808ed536ffb3ee",
+    "Type": "Quest",
+    "ID": "9102",
+    "Conditions": "3",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_Zombie": "None",
+    "Condition_0_ID": "9103",
+    "Condition_0_Value": "25",
+    "Condition_0_Nav": "5",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "76",
+    "Condition_1_Amount": "1",
+    "Condition_1_Reset": "",
+    "Condition_2_Type": "Item",
+    "Condition_2_ID": "28",
+    "Condition_2_Amount": "1",
+    "Condition_2_Reset": "",
+    "Rewards": "3",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "20",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "20",
+    "Reward_2_Type": "Vehicle ",
+    "Reward_2_ID": "9006",
+    "Reward_2_Spawnpoint": "Florennes_Operation_Flight_Control"
+  },
+  "translation": {
+    "Name": "<color=uncommon>Operation Flight Control</color>",
+    "Description": "I need some supplies to fix up a plane to give to you. But the runway at Florennes Military Base has to be clear so I can go fix it and land it there.",
+    "Condition_0": "Kill {0}/{1} Zombies at Florennes Military Base",
+    "Condition_1": "Find {0}/{1} Blowtorch",
+    "Condition_2": "Find {0}/{1} Portable Gas Can"
+  }
+}

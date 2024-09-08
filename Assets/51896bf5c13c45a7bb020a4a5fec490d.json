@@ -1,0 +1,14 @@
+{
+  "name": "CQC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/3/D/29070KC4D/CQC/Asset.dat",
+  "data": {
+    "GUID": "51896bf5c13c45a7bb020a4a5fec490d",
+    "Type": "Dialogue",
+    "ID": "29074",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Mmm... It's delicious! Thanks so much!"
+  }
+}

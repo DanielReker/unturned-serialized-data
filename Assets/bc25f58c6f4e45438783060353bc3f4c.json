@@ -1,0 +1,24 @@
+{
+  "name": "Nerd",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Nerd/Nerd/Nerd.dat",
+  "data": {
+    "GUID": "bc25f58c6f4e45438783060353bc3f4c",
+    "Type": "Spawn",
+    "ID": "51110",
+    "Tables": [
+      {
+        "Guid": "9329f9ec66344122942b1da499aca8b9",
+        "Weight": "80"
+      },
+      {
+        "Guid": "1a7a913b803a45c08263ef66bcad6f12",
+        "Weight": "15"
+      },
+      {
+        "Guid": "371049d2e443457791d3804d892e642d",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

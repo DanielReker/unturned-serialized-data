@@ -1,0 +1,18 @@
+{
+  "name": "France_Chef_Question_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Chef/France_Chef_Question_1/Asset.dat",
+  "data": {
+    "GUID": "1a7afd43ba8b4d23be29f74555846ee9",
+    "Type": "Dialogue",
+    "ID": "4140",
+    "Messages": "1",
+    "Message_0_Pages": "4",
+    "Message_0_Prev": "4139"
+  },
+  "translation": {
+    "Message_0_Page_0": "My name is <name_npc>. I'm the best chef in France.",
+    "Message_0_Page_1": "I cooked for tourists, political figures, and CEOs.",
+    "Message_0_Page_2": "Then everyone turned green. I decided I was best on this boat with soldiers that came by.",
+    "Message_0_Page_3": "Now I cook the best food in France, because I'm the only chef."
+  }
+}

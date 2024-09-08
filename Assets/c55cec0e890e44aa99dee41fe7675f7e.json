@@ -1,0 +1,13 @@
+{
+  "name": "Bike_Profile",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Assets/Vehicle/Bike_Profile.asset",
+  "data": {
+    "GUID": "c55cec0e890e44aa99dee41fe7675f7e",
+    "Type": "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Wheel_Suspension_Damper": "13",
+    "Wheel_Drive_Model": "All",
+    "Wheel_Damping_Rate": "0.2",
+    "Carjack_Force_Multiplier": "5"
+  },
+  "translation": null
+}

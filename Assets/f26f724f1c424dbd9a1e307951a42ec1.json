@@ -1,0 +1,17 @@
+{
+  "name": "Police_High_France_Special",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/Police_High_France_Special/Police_High_France_Special.dat",
+  "data": {
+    "GUID": "f26f724f1c424dbd9a1e307951a42ec1",
+    "Type": "Spawn",
+    "ID": "2077",
+    "Tables": "3",
+    "Table_0_Asset_ID": "1006",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "1044",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "10",
+    "Table_2_Weight": "10"
+  },
+  "translation": null
+}

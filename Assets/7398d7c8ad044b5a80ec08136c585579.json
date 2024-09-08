@@ -1,0 +1,12 @@
+{
+  "name": "Confetti",
+  "path": "Bundles/Mythics/Confetti/Confetti.dat",
+  "data": {
+    "GUID": "7398d7c8ad044b5a80ec08136c585579",
+    "Type": "Mythic",
+    "ID": "22"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Confetti"
+  }
+}

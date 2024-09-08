@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Q_AG_Intro_P3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/AG_00/Buak_Q_AG_Intro_P3/Buak_Q_AG_Intro_P3.dat",
+  "data": {
+    "GUID": "c46dcfae36174b5fb399cf4ab8bf660a",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24576",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_Q_AG_Intro_P3"
+  }
+}

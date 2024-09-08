@@ -1,0 +1,23 @@
+{
+  "name": "Military_Police_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Police_0/Asset.dat",
+  "data": {
+    "GUID": "ce2cd3442b5f4214b902de2d410749c8",
+    "Type": "NPC",
+    "ID": "3558",
+    "Shirt": "3503",
+    "Pants": "3504",
+    "Mask": "1446",
+    "Face": "25",
+    "Hair": "1",
+    "Beard": "4",
+    "Color_Skin": "#BE9A82",
+    "Color_Hair": "#6C5027",
+    "Secondary": "3515",
+    "Dialogue": "3466"
+  },
+  "translation": {
+    "Name": "Greek Military Police Philip",
+    "Character": "<color=rare>Officer Philip</color>"
+  }
+}

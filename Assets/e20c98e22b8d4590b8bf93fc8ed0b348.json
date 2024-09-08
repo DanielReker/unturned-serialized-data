@@ -1,0 +1,29 @@
+{
+  "name": "Buak_Q_STS_Meds_Ghost",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_STS_Meds_Ghost/Buak_Q_STS_Meds_Ghost.dat",
+  "data": {
+    "GUID": "e20c98e22b8d4590b8bf93fc8ed0b348",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24602",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "2",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "24602",
+    "Interactability_Reward_0_Value": "True",
+    "Interactability_Reward_1_Type": "Hint",
+    "Interactability_Reward_1_Text": "Placed Meds",
+    "Interactability_Reward_1_Duration": "3"
+  },
+  "translation": {
+    "Name": "Buak_Q_STS_Meds_Ghost",
+    "Interact": "Place Meds [{0}]"
+  }
+}

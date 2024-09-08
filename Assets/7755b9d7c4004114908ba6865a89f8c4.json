@@ -1,0 +1,14 @@
+{
+  "name": "French_Police_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/French_Police_1/French_Police_1.dat",
+  "data": {
+    "GUID": "7755b9d7c4004114908ba6865a89f8c4",
+    "Type": "Large",
+    "ID": "35048",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "French Police #2"
+  }
+}

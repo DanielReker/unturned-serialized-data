@@ -1,0 +1,23 @@
+{
+  "name": "BP_Lumberjack_Axe",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Lumberjack_Axe/Asset.dat",
+  "data": {
+    "GUID": "e85b6826ea7d45df9b9959534d8ad37a",
+    "Type": "Quest",
+    "ID": "24975",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "9665891700a447bba15f28b5b4a218aa",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24974",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Lumberjack Axe Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Lumberjack Axe Recipe"
+  }
+}

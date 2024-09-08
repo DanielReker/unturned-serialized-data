@@ -1,0 +1,13 @@
+{
+  "name": "PS_Pole_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Pole_1/PS_Pole_1.dat",
+  "data": {
+    "GUID": "ffa05c07105749b5aa50defbadec3d8e",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59273"
+  },
+  "translation": {
+    "Name": "PS Pole #2"
+  }
+}

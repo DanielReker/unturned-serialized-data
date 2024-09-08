@@ -1,0 +1,22 @@
+{
+  "name": "Metro_Mega_Pants",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Military/Clothing/Metro_Mega_Pants/Metro_Mega_Pants.dat",
+  "data": {
+    "GUID": "fe6e167dcf194688929beacf7bbcb0ee",
+    "Type": "Pants",
+    "Rarity": "Mythical",
+    "Useable": "Clothing",
+    "ID": "57036",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Armor": "0.9",
+    "Width": "4",
+    "Height": "3",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Mega Zombie Bottom",
+    "Description": "<color=#FF0000>Unobtainable</color>"
+  }
+}

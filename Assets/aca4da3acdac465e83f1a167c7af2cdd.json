@@ -1,0 +1,54 @@
+{
+  "name": "Buak_Trash_News_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Landscapes/Terrain/Buak_Trash_News_00.asset",
+  "data": {
+    "GUID": "aca4da3acdac465e83f1a167c7af2cdd",
+    "Type": "SDG.Framework.Foliage.FoliageInstancedMeshInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Density": "5",
+    "Min_Normal_Position_Offset": "0",
+    "Max_Normal_Position_Offset": "0",
+    "Normal_Rotation_Offset": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Normal_Rotation_Alignment": "1",
+    "Min_Weight": "0.5",
+    "Max_Weight": "1",
+    "Min_Angle": "0",
+    "Max_Angle": "60",
+    "Min_Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Max_Rotation": {
+      "X": "0",
+      "Y": "360",
+      "Z": "0"
+    },
+    "Min_Scale": {
+      "X": "1",
+      "Y": "1",
+      "Z": "1"
+    },
+    "Max_Scale": {
+      "X": "1",
+      "Y": "1",
+      "Z": "1"
+    },
+    "Mesh": {
+      "Name": "buak.masterbundle",
+      "Path": "Terrain/Buak_Trash_News_00.fbx"
+    },
+    "Material": {
+      "Name": "buak.masterbundle",
+      "Path": "Terrain/Buak_Trash_News_00.mat"
+    },
+    "Cast_Shadows": "false",
+    "Tile_Dither": "true",
+    "Draw_Distance": "2"
+  },
+  "translation": null
+}

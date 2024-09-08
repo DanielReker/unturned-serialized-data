@@ -1,0 +1,18 @@
+{
+  "name": "Weapon_Locker",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Weapon_Locker/Weapon_Locker.dat",
+  "data": {
+    "GUID": "bc02338cd479455488efb727de4ef011",
+    "ID": "51000",
+    "Interactability": "Dropper",
+    "Interactability_Delay": "300",
+    "Interactability_Hint": "Custom",
+    "Interactability_Reward_ID": "51035",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Locker Riot",
+    "Interact": "Check for Items [{0}]"
+  }
+}

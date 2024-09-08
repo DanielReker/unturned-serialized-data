@@ -1,0 +1,13 @@
+{
+  "name": "PS_Railing_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Railing_0/PS_Railing_0.dat",
+  "data": {
+    "GUID": "60a74b0c42594753972f356f9bbaec44",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59429"
+  },
+  "translation": {
+    "Name": "PS Railing #1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "MilitaryAmmo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Military/MilitaryAmmo/MilitaryAmmo.dat",
+  "data": {
+    "GUID": "b57c08a3c8164e8196ac43275ddf042d",
+    "Type": "Spawn",
+    "ID": "51009",
+    "Tables": [
+      {
+        "Guid": "8298d5448d8f4f859f24609e63d294b2",
+        "Weight": "20"
+      },
+      {
+        "Guid": "2316fd2a2d5641c790c0197ce7ff4274",
+        "Weight": "10"
+      },
+      {
+        "Guid": "36ff575ca22e4970a11823af7513a5cd",
+        "Weight": "5"
+      },
+      {
+        "Guid": "bb560f56ca2b4f638df93460f674b42d",
+        "Weight": "5"
+      },
+      {
+        "Guid": "855ad7c1a74f4d18a0f8d54fdfe1675c",
+        "Weight": "5"
+      },
+      {
+        "Guid": "a199629a627c4959ad293fac0b266cab",
+        "Weight": "5"
+      },
+      {
+        "Guid": "de21ee84017a4b4197e0b7ad0dc8010b",
+        "Weight": "4"
+      },
+      {
+        "Guid": "45bd93425f9e494e8d82cad9785ff7fa",
+        "Weight": "1"
+      },
+      {
+        "Guid": "a529e8cbeb134a36806224e6e036602b",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

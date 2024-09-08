@@ -1,0 +1,28 @@
+{
+  "name": "Strong_Antibiotics",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Meds/Strong_Antibiotics/Strong_Antibiotics.dat",
+  "data": {
+    "GUID": "b4e940df5915459cade1cef3340a827d",
+    "Type": "Medical",
+    "Rarity": "Legendary",
+    "Useable": "Consumeable",
+    "ID": "25635",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.15",
+    "Use_Auto_Icon_Measurements": "False",
+    "Aid": "",
+    "Health": "20",
+    "Disinfectant": "80",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "25316",
+    "Quest_Reward_0_Amount": "1",
+    "Quest_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Strong Antibiotics",
+    "Description": "This should take care of that cracked skull and bullet wounds through your lungs.<br><size=14><color=#ff4466>Health 20</color> <color=#029a30>Disinfectant 80</color></size>"
+  }
+}

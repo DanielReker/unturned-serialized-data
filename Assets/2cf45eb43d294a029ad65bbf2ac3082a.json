@@ -1,0 +1,16 @@
+{
+  "name": "Easter_Bunker_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Buildings/Easter_Bunker_5/Easter_Bunker_5.dat",
+  "data": {
+    "GUID": "2cf45eb43d294a029ad65bbf2ac3082a",
+    "Type": "Large",
+    "ID": "6726",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Bunker #6"
+  }
+}

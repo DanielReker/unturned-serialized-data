@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Pollen_Acc",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Pollen/PBS_Pollen_Acc/Asset.dat",
+  "data": {
+    "GUID": "38c0f278d8ff4392bcdcc576e94368a2",
+    "Type": "Dialogue",
+    "ID": "52132",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Keep an eye out for any extra shoots. See you soon."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Kuwait_Industrial_Warehouse",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Buildings/Kuwait_Industrial_Warehouse/Kuwait_Industrial_Warehouse.dat",
+  "data": {
+    "GUID": "6a7f71c5e4f44a96a6bfc1224f8e95c4",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5153",
+    "LOD": "Area",
+    "Exclude_From_Level_Batching": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Industrial Warehouse #1"
+  }
+}

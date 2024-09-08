@@ -1,0 +1,14 @@
+{
+  "name": "29542KNA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/2/D/29540KNHUD/29542KNA/Asset.dat",
+  "data": {
+    "GUID": "0ff5b69bc2b947f3bd07275c78654e93",
+    "Type": "Dialogue",
+    "ID": "29542",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "AUGH!"
+  }
+}

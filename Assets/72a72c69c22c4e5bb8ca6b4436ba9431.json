@@ -1,0 +1,32 @@
+{
+  "name": "Buak_Q_FL_Letters_Ghost",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_FL_Letters_Ghost/Buak_Q_FL_Letters_Ghost.dat",
+  "data": {
+    "GUID": "72a72c69c22c4e5bb8ca6b4436ba9431",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24559",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "3",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "24559",
+    "Interactability_Reward_0_Value": "True",
+    "Interactability_Reward_1_Type": "Flag_Bool",
+    "Interactability_Reward_1_ID": "24704",
+    "Interactability_Reward_1_Value": "True",
+    "Interactability_Reward_2_Type": "Hint",
+    "Interactability_Reward_2_Text": "Placed Letters",
+    "Interactability_Reward_2_Duration": "3"
+  },
+  "translation": {
+    "Name": "Buak_Q_FL_Letters_Ghost",
+    "Interact": "Place Invitations [{0}]"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Frost_Expedition_01_Quest_02_Prelude",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Expedition_01/Frost_Expedition_01_Quest_02_Prelude/Asset.dat",
+  "data": {
+    "GUID": "8cc28c107e634f01b0d6e474dce4efa9",
+    "Type": "Quest",
+    "ID": "36554",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "36100",
+    "Condition_0_Amount": "3",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "36091",
+    "Reward_0_Amount": "0"
+  },
+  "translation": {
+    "Name": "<color=#d2bf22>Expedition III</color> Prelude",
+    "Description": "The base is quite far away. Find some tasty food for Bernard so he dosen't starve.",
+    "Reward_0": "<color=#d2bf22>Expedition III</color> Quest Unlocked"
+  }
+}

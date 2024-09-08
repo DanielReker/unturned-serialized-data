@@ -1,0 +1,13 @@
+{
+  "name": "PS_Chainlink_Fence_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Chainlink_Fence_3/PS_Chainlink_Fence_3.dat",
+  "data": {
+    "GUID": "f3b3c91a817a439ea4bd6fd43dc79f04",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59184"
+  },
+  "translation": {
+    "Name": "PS Chainlink Fence #4 [Tarp]"
+  }
+}

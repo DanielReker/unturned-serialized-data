@@ -1,0 +1,13 @@
+{
+  "name": "IR_Clothes_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Clothes_1/IR_Clothes_1.dat",
+  "data": {
+    "GUID": "70976674377c476592d7a265415fce58",
+    "Type": "Large",
+    "ID": "17004",
+    "Material_Palette": "b3579a85553e4023b811881ee3368121"
+  },
+  "translation": {
+    "Name": "Irish Clothes#1"
+  }
+}

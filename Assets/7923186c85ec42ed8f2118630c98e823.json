@@ -1,0 +1,13 @@
+{
+  "name": "Navy_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Navy_2/Navy_2.dat",
+  "data": {
+    "GUID": "7923186c85ec42ed8f2118630c98e823",
+    "Type": "Large",
+    "ID": "45719",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Navy #3"
+  }
+}

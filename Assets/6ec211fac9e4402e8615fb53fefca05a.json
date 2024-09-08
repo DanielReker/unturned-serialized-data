@@ -1,0 +1,20 @@
+{
+  "name": "Anvil_Mask",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Masks/Anvil_Mask/Anvil_Mask.dat",
+  "data": {
+    "GUID": "6ec211fac9e4402e8615fb53fefca05a",
+    "Type": "Mask",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "51100",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Armor": "0.95",
+    "Hair": ""
+  },
+  "translation": {
+    "Name": "Anvil Mask",
+    "Description": "Heavy face cover made for stopping shrapnel and bullets."
+  }
+}

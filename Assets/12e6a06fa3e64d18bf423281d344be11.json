@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Sand",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Sand/Drop_Sand.dat",
+  "data": {
+    "GUID": "12e6a06fa3e64d18bf423281d344be11",
+    "Type": "Spawn",
+    "ID": "25492",
+    "Tables": [
+      {
+        "Guid": "86f0a43867194b0394ba25a1af33503e",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

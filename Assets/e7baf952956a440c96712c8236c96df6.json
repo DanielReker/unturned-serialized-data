@@ -1,0 +1,28 @@
+{
+  "name": "CA_Dodge_Police",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Vehicles/CA_Dodge_Police/CA_Dodge_Police.dat",
+  "data": {
+    "GUID": "e7baf952956a440c96712c8236c96df6",
+    "Type": "Vehicle",
+    "Rarity": "Rare",
+    "ID": "4000",
+    "Speed_Min": "-6",
+    "Speed_Max": "19",
+    "Steer_Min": "14",
+    "Steer_Max": "28",
+    "Brake": "32",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "1750",
+    "Health_Min": "400",
+    "Health_Max": "500",
+    "Health": "600",
+    "Traction": "",
+    "Trunk_Storage_X": "5",
+    "Trunk_Storage_Y": "3",
+    "Explosion": "20"
+  },
+  "translation": {
+    "Name": "Police Interceptor"
+  }
+}

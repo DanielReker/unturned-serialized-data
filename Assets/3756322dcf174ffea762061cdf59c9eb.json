@@ -1,0 +1,13 @@
+{
+  "name": "Crate_9",
+  "path": "Bundles/Objects/Medium/Military/Crate_9/Crate_9.dat",
+  "data": {
+    "GUID": "3756322dcf174ffea762061cdf59c9eb",
+    "Type": "Medium",
+    "ID": "717",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Russia Crate #4"
+  }
+}

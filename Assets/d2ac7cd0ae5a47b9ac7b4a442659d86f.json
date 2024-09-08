@@ -1,0 +1,12 @@
+{
+  "name": "Submarine_Inside",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Submarine_Inside/Submarine_Inside.dat",
+  "data": {
+    "GUID": "d2ac7cd0ae5a47b9ac7b4a442659d86f",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Submarine Inside"
+  }
+}

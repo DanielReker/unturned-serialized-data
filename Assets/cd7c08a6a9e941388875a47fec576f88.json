@@ -1,0 +1,12 @@
+{
+  "name": "CA_Dinner_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Dinner_0/CA_Dinner_0.dat",
+  "data": {
+    "GUID": "cd7c08a6a9e941388875a47fec576f88",
+    "Type": "Large",
+    "ID": "4314"
+  },
+  "translation": {
+    "Name": "California Dinner #1"
+  }
+}

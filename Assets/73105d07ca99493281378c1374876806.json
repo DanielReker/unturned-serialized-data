@@ -1,0 +1,36 @@
+{
+  "name": "PS_Tea_Package",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Tea_Package/PS_Tea_Package.dat",
+  "data": {
+    "GUID": "73105d07ca99493281378c1374876806",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "59692",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "59692",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "59012",
+    "Blueprint_0_Supply_1_Amount": "5",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "59698",
+    "Blueprint_0_Output_0_Amount": "5",
+    "Blueprint_0_Level": "1",
+    "Blueprint_0_Skill": "Cook",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Brew Tea",
+    "Action_0_Tooltip": "Combine your Mugs with a <color=#4b64fa>Tea Package</color> to craft 5 <color=#4b64fa>Mugs Of Tea</color>."
+  },
+  "translation": {
+    "Name": "Tea Package",
+    "Description": "Package full of teabags, ideal for a tea party."
+  }
+}

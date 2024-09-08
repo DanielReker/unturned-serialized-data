@@ -1,0 +1,26 @@
+{
+  "name": "Belgium Military Lieutenant Cas",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Belgium Military Lieutenant Cas/Asset.dat",
+  "data": {
+    "GUID": "3fd8e71a14a24ab2b477e3d93939b50d",
+    "Type": "NPC",
+    "ID": "9058",
+    "Shirt": "9009",
+    "Pants": "9010",
+    "Vest": "9011",
+    "Hat": "9012",
+    "Primary": "1037",
+    "Secondary": "9026",
+    "Equipped": "Secondary",
+    "Face": "0",
+    "Hair": "0",
+    "Beard": "4",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#dbb94c",
+    "Dialogue": "9058"
+  },
+  "translation": {
+    "Name": "Belgium Military Lieutenant Cas",
+    "Character": "<color=rare>Lieutenant Cas</color>"
+  }
+}

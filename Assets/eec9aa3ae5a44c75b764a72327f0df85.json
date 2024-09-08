@@ -1,0 +1,19 @@
+{
+  "name": "Cooler_Beach_1",
+  "path": "Bundles/Objects/Medium/Parks/Cooler_Beach_1/Cooler_Beach_1.dat",
+  "data": {
+    "GUID": "eec9aa3ae5a44c75b764a72327f0df85",
+    "Type": "Medium",
+    "ID": "379",
+    "Snowshoe": "",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "60",
+    "Rubble_Health": "50",
+    "Rubble_Effect": "72",
+    "Rubble_Editor": "Dead",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Cooler Beach #2"
+  }
+}

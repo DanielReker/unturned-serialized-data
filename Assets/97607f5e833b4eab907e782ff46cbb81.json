@@ -1,0 +1,16 @@
+{
+  "name": "Easter_Glass_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Utilities/Easter_Glass_3/Easter_Glass_3.dat",
+  "data": {
+    "GUID": "97607f5e833b4eab907e782ff46cbb81",
+    "Type": "Medium",
+    "ID": "6882",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Glass #3"
+  }
+}

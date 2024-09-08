@@ -1,0 +1,12 @@
+{
+  "name": "Fire_House",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Fire_House/Fire_House.dat",
+  "data": {
+    "GUID": "de69706ed5174e21bb563702574b273e",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Fire House"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PS_Currency_Documents",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/PS_Currency_Documents.asset",
+  "data": {
+    "GUID": "41899fb5b19b4dc9842e7f936d3bd403",
+    "Type": "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ValueFormat": "{0:N0} Documents",
+    "Entries": [
+      {
+        "Item": {
+          "GUID": "cafab920b1ea449e8af935249796770a"
+        },
+        "Value": "1"
+      }
+    ]
+  },
+  "translation": null
+}

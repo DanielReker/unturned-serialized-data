@@ -1,0 +1,14 @@
+{
+  "name": "Scientist_Vendor_Completed",
+  "path": "Bundles/NPCs/Dialogues/Scientist/Scientist_Vendor_Completed/Asset.dat",
+  "data": {
+    "GUID": "e7cb487d526c4410aeae25dbf935a204",
+    "Type": "Dialogue",
+    "ID": "335",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks for your purchase."
+  }
+}

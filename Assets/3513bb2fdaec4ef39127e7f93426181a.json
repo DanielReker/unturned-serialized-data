@@ -1,0 +1,13 @@
+{
+  "name": "Hotel_Cover1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Hotel_Cover1/Hotel_Cover1.dat",
+  "data": {
+    "GUID": "3513bb2fdaec4ef39127e7f93426181a",
+    "Type": "Large",
+    "ID": "45678",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hotel Cover #2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Money_10",
+  "path": "Bundles/Items/Supplies/Money_10/Money_10.dat",
+  "data": {
+    "GUID": "b6b87dfad5f342dc91bbb2de950f56ee",
+    "Type": "Supply",
+    "ID": "1052",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.25"
+  },
+  "translation": {
+    "Name": "$10 Note",
+    "Description": "Ten dollars of currency."
+  }
+}

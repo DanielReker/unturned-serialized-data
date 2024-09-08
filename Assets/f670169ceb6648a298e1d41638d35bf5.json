@@ -1,0 +1,21 @@
+{
+  "name": "Lizard",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Animals/Lizard/Lizard.dat",
+  "data": {
+    "GUID": "f670169ceb6648a298e1d41638d35bf5",
+    "Type": "Animal",
+    "ID": "6608",
+    "Speed_Run": "8",
+    "Speed_Walk": "4",
+    "Behaviour": "Ignore",
+    "Health": "15",
+    "Reward_ID": "523",
+    "Reward_XP": "10",
+    "Reward_Min": "2",
+    "Reward_Max": "3",
+    "Panics": "2"
+  },
+  "translation": {
+    "Name": "Lizard"
+  }
+}

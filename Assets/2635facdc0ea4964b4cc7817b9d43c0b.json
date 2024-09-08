@@ -1,0 +1,12 @@
+{
+  "name": "Elevation",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Elevation/Elevation.dat",
+  "data": {
+    "GUID": "2635facdc0ea4964b4cc7817b9d43c0b",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Elevation"
+  }
+}

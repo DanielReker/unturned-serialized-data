@@ -1,0 +1,26 @@
+{
+  "name": "Metro_Fert",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Overrides/Metro_Fert/Metro_Fert.dat",
+  "data": {
+    "GUID": "04401835d2104a758426365e7adefe3c",
+    "Type": "Grower",
+    "Rarity": "Uncommon",
+    "Useable": "Grower",
+    "ID": "57187",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.44",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Blueprint_0_Supply_0_ID": "64",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Elver",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Growers/Fertilizer"
+  },
+  "translation": {
+    "Name": "Fertilizer",
+    "Description": "Use on crops to make them <color=#64c819>100%</color> grown and ready for harvest."
+  }
+}

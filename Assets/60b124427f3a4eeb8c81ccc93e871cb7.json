@@ -1,0 +1,40 @@
+{
+  "name": "SeaMine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/SeaMine/SeaMine.dat",
+  "data": {
+    "GUID": "60b124427f3a4eeb8c81ccc93e871cb7",
+    "Type": "Trap",
+    "Rarity": "Mythical",
+    "Useable": "Barricade",
+    "Build": "Spike",
+    "ID": "51695",
+    "Size_X": "6",
+    "Size_Y": "6",
+    "Size_Z": "1",
+    "Range": "4",
+    "Radius": "0.15",
+    "Offset": "50",
+    "Player_Damage": "200",
+    "Zombie_Damage": "175",
+    "Animal_Damage": "175",
+    "Barricade_Damage": "50",
+    "Structure_Damage": "50",
+    "Vehicle_Damage": "175",
+    "Resource_Damage": "625",
+    "Object_Damage": "100",
+    "Range2": "10",
+    "Explosion2": "51042",
+    "Explosive": "",
+    "Explosion": "70",
+    "Unrepairable": "",
+    "Unpickupable": "",
+    "Proof_Explosion": "",
+    "Can_Be_Damaged": "False",
+    "Has_Clip_Prefab": "false",
+    "Allow_Placement_On_Vehicle": "False"
+  },
+  "translation": {
+    "Name": "PBS Sea Mine MAP OBJECT",
+    "Description": "What are you doing here!"
+  }
+}

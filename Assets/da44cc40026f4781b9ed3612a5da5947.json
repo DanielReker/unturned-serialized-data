@@ -1,0 +1,13 @@
+{
+  "name": "RULA_Shelf",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Medium/RULA/RULA_Shelf/RULA_Shelf.dat",
+  "data": {
+    "GUID": "da44cc40026f4781b9ed3612a5da5947",
+    "Type": "Medium",
+    "ID": "35218",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "RULA Shelf#1"
+  }
+}

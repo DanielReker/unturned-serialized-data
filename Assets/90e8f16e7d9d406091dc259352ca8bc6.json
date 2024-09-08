@@ -1,0 +1,26 @@
+{
+  "name": "Buak_Q_Cellar_TP_Exit",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_Cellar_TP_Exit/Buak_Q_Cellar_TP_Exit.dat",
+  "data": {
+    "GUID": "90e8f16e7d9d406091dc259352ca8bc6",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24722",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "Cellar_OUT"
+  },
+  "translation": {
+    "Name": "Buak_Q_Cellar_TP_Exit",
+    "Interact": "Exit Cellar [{0}]"
+  }
+}

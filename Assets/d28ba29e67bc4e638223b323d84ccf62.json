@@ -1,0 +1,18 @@
+{
+  "name": "May_Vendor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Vendors/May_Vendor/Asset.dat",
+  "data": {
+    "GUID": "d28ba29e67bc4e638223b323d84ccf62",
+    "Type": "Vendor",
+    "ID": "24134",
+    "Buying": "0",
+    "Selling": "1",
+    "Selling_0_ID": "26832",
+    "Selling_0_Cost": "100",
+    "Currency": "5c3789b2807e42389e0b8eed55a2be40"
+  },
+  "translation": {
+    "Name": "May's Bandanas",
+    "Description": "I have many spares, feel free to buy some!"
+  }
+}

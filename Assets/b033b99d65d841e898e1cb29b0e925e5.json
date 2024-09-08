@@ -1,0 +1,32 @@
+{
+  "name": "Help_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/Other/Help_1/Asset.dat",
+  "data": {
+    "GUID": "b033b99d65d841e898e1cb29b0e925e5",
+    "Type": "NPC",
+    "ID": "25300",
+    "Shirt": "4a25056f95494b10baf061b617bdb32a",
+    "Pants": "87e4351978154ce7a0572732c9550988",
+    "Backpack": "5c1f216154204f8f9402312652f9f04f",
+    "Face": "20",
+    "Hair": "2",
+    "Beard": "0",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#191919",
+    "Dialogue": "25edccca23c84b54870ef3310a176af4",
+    "Conditions": "2",
+    "Condition_0_Type": "Quest",
+    "Condition_0_Logic": "Less_Than",
+    "Condition_0_ID": "b85248b598b84e0a84e77ce658b272bf",
+    "Condition_0_Status": "Completed",
+    "Condition_1_Type": "Quest",
+    "Condition_1_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_1_ID": "b85248b598b84e0a84e77ce658b272bf",
+    "Condition_1_Status": "Active",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Help_1",
+    "Character": "<color=legendary>Survivor</color>"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Fire Escape 1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Fire Escape 1/Fire Escape 1.dat",
+  "data": {
+    "GUID": "f0309509108f435e8f7d33bdae550023",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Fire Escape 2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "BE Shelf",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Medium/Furniture/BE Shelf/BE Shelf.dat",
+  "data": {
+    "GUID": "ffe740823b284859a818e95c3b1c20b7",
+    "Type": "Medium",
+    "ID": "9200"
+  },
+  "translation": {
+    "Name": "BE Shelf"
+  }
+}

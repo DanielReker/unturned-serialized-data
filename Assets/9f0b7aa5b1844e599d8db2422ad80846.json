@@ -1,0 +1,15 @@
+{
+  "name": "GreeceRental_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceRental_0/GreeceRental_0.dat",
+  "data": {
+    "GUID": "9f0b7aa5b1844e599d8db2422ad80846",
+    "Type": "Large",
+    "ID": "6303",
+    "Snowshoe": "",
+    "LOD": "Mesh",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Boat Rental"
+  }
+}

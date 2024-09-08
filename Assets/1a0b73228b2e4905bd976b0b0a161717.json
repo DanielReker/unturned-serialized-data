@@ -1,0 +1,16 @@
+{
+  "name": "PBS_EOD_Radio",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_EOD_Radio/Asset.dat",
+  "data": {
+    "GUID": "1a0b73228b2e4905bd976b0b0a161717",
+    "Type": "NPC",
+    "ID": "52570",
+    "Shirt": "52027",
+    "Dialogue": "52571",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS NPC EOD Radio",
+    "Character": "Military Radio"
+  }
+}

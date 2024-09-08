@@ -1,0 +1,14 @@
+{
+  "name": "Louvre",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/Louvre/Louvre.dat",
+  "data": {
+    "GUID": "8af16976a8594ec181ab12f520f1becc",
+    "Type": "Large",
+    "ID": "35042",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Louvre"
+  }
+}

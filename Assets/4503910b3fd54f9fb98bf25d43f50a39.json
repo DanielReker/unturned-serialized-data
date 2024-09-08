@@ -1,0 +1,22 @@
+{
+  "name": "Military_Engineer_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Engineer_2/Asset.dat",
+  "data": {
+    "GUID": "4503910b3fd54f9fb98bf25d43f50a39",
+    "Type": "NPC",
+    "ID": "3580",
+    "Shirt": "232",
+    "Pants": "2",
+    "Hat": "240",
+    "Face": "5",
+    "Hair": "20",
+    "Beard": "0",
+    "Color_Skin": "#A3886B",
+    "Color_Hair": "#191919",
+    "Dialogue": "3657"
+  },
+  "translation": {
+    "Name": "Greek Military Engineer Manases",
+    "Character": "<color=rare>Engineer Manases</color>"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Shrub_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Resources/Easter_Shrub_2/Easter_Shrub_2.dat",
+  "data": {
+    "GUID": "b4b0e48f9f774d1b9f1e20751914d4cb",
+    "Type": "Resource",
+    "ID": "6610",
+    "Health": "1000",
+    "Radius": "3",
+    "Scale": "0.1",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Easter Shrub Dead #1"
+  }
+}

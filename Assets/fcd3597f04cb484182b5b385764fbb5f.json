@@ -1,0 +1,21 @@
+{
+  "name": "Quest_0_Farmer_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_1/Quest_0_Farmer_0/Asset.dat",
+  "data": {
+    "GUID": "fcd3597f04cb484182b5b385764fbb5f",
+    "Type": "Quest",
+    "ID": "57738",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "57485",
+    "Condition_0_Amount": "30",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50"
+  },
+  "translation": {
+    "Name": "<color=#C9A952>Farmer 1</color>",
+    "Description": "Plant and grow <color=#ffffff>Cloth</color>.<br><br>Starting Equipment : <color=#64c819>1</color>x <color=#ffffff>Cloth Seeds</color>"
+  }
+}

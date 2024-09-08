@@ -1,0 +1,15 @@
+{
+  "name": "PBS_DrHome_Info",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_DrHome/PBS_DrHome_Info/Asset.dat",
+  "data": {
+    "GUID": "16222e4372af4a02a6a1ea87809bf159",
+    "Type": "Dialogue",
+    "ID": "52252",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "It's an infection, not a new car.  It's cost what it needs to be.",
+    "Message_0_Page_1": "<i>Every third of infection will cost 5 GRB to recover.</i>"
+  }
+}

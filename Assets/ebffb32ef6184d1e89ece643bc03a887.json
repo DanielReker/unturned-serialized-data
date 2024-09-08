@@ -1,0 +1,18 @@
+{
+  "name": "PS_Quest_0_Category_1_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Quest_0_Dialogue/PS_Quest_0_Category_1_2/Asset.dat",
+  "data": {
+    "GUID": "ebffb32ef6184d1e89ece643bc03a887",
+    "Type": "Dialogue",
+    "ID": "59080",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Responses": "1",
+    "Response_0_Dialogue": "59069"
+  },
+  "translation": {
+    "Message_0_Page_0": "Try visiting the military locations and look for zombies wearing nightvision goggles. They will take a beating but they might give you some parts.",
+    "Message_0_Page_1": "After you have all the necessary parts you can reassemble the goggles for your own use.",
+    "Response_0": "Good to know!"
+  }
+}

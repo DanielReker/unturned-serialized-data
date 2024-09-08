@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Outlands_Kiosk_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Quests/Kuwait_Outlands/Kuwait_Outlands_Kiosk_4/Kuwait_Outlands_Kiosk_4.dat",
+  "data": {
+    "GUID": "c8c714e4e2bd4f8e8dff261eb4b110f3",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5467",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Final Outlands Kiosk #5"
+  }
+}

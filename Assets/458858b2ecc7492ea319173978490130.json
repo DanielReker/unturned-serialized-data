@@ -1,0 +1,17 @@
+{
+  "name": "WaterChanging_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/WaterChanging_0/WaterChanging_0.dat",
+  "data": {
+    "GUID": "458858b2ecc7492ea319173978490130",
+    "Type": "Large",
+    "ID": "45692",
+    "LOD": "Mesh",
+    "LOD_Bias": "1.25",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Water Park #12"
+  }
+}

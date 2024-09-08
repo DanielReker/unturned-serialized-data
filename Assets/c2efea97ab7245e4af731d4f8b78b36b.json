@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Bookshelf_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Furniture/Buak_Bookshelf_00/Buak_Bookshelf_00.dat",
+  "data": {
+    "GUID": "c2efea97ab7245e4af731d4f8b78b36b",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Bookshelf_00"
+  }
+}

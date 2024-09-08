@@ -1,0 +1,21 @@
+{
+  "name": "Crew_Eduardo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IDF/Filler/Crew_Eduardo/Asset.dat",
+  "data": {
+    "GUID": "00b74f5b07134551b6984e2485a99a60",
+    "Type": "NPC",
+    "ID": "15050",
+    "Shirt": "15004",
+    "Pants": "15003",
+    "Face": "5",
+    "Hair": "1",
+    "Color_Skin": "#a3957a",
+    "Color_Hair": "#230b06",
+    "Pose": "Rest",
+    "Dialogue": "15195"
+  },
+  "translation": {
+    "Name": "IDF Crew Eduardo",
+    "Character": "<color=uncommon>Private Eduardo</color>"
+  }
+}

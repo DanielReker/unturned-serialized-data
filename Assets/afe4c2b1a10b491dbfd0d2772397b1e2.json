@@ -1,0 +1,37 @@
+{
+  "name": "Buak_Q_ADITS_Tire_Ghost",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_ADITS_Tire_Ghost/Buak_Q_ADITS_Tire_Ghost.dat",
+  "data": {
+    "GUID": "afe4c2b1a10b491dbfd0d2772397b1e2",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24196",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Item",
+    "Interactability_Condition_0_ID": "7fa85a9fab844abfacb39318647254a0",
+    "Interactability_Condition_0_Amount": "1",
+    "Interactability_Condition_0_Reset": "",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "3",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "24196",
+    "Interactability_Reward_0_Value": "True",
+    "Interactability_Reward_1_Type": "Flag_Bool",
+    "Interactability_Reward_1_ID": "24197",
+    "Interactability_Reward_1_Value": "True",
+    "Interactability_Reward_2_Type": "Hint",
+    "Interactability_Reward_2_Text": "Placed Tire",
+    "Interactability_Reward_2_Duration": "3"
+  },
+  "translation": {
+    "Name": "Buak_Q_ADITS_Tire_Ghost",
+    "Interact": "Place <color=uncommon>Car Tire</color> [{0}]"
+  }
+}

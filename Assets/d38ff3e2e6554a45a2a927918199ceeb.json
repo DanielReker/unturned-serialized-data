@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Lamp_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Furniture/Buak_Lamp_00/Buak_Lamp_00.dat",
+  "data": {
+    "GUID": "d38ff3e2e6554a45a2a927918199ceeb",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "600",
+    "Rubble_Health": "10",
+    "Rubble_Effect": "25331",
+    "Rubble_Reward_ID": "25356",
+    "Rubble_Reward_Probability": "0.2"
+  },
+  "translation": {
+    "Name": "Buak_Lamp_00"
+  }
+}

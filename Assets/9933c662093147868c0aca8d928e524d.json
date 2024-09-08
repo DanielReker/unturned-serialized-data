@@ -1,0 +1,14 @@
+{
+  "name": "Commander_Request",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Commander_Barlow/Commander_Request/Asset.dat",
+  "data": {
+    "GUID": "9933c662093147868c0aca8d928e524d",
+    "Type": "Dialogue",
+    "ID": "2115",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "The sooner you deal with that zombie the better!"
+  }
+}

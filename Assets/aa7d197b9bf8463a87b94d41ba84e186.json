@@ -1,0 +1,21 @@
+{
+  "name": "Military_Barracks_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Barracks_2/Asset.dat",
+  "data": {
+    "GUID": "aa7d197b9bf8463a87b94d41ba84e186",
+    "Type": "NPC",
+    "ID": "3564",
+    "Shirt": "184",
+    "Pants": "3504",
+    "Face": "4",
+    "Hair": "2",
+    "Beard": "0",
+    "Color_Skin": "#94764B",
+    "Color_Hair": "#473928",
+    "Dialogue": "3544"
+  },
+  "translation": {
+    "Name": "Greek Military Barracks Ondrej",
+    "Character": "<color=rare>Corporal Ondrej</color>"
+  }
+}

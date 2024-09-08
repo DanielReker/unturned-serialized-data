@@ -1,0 +1,13 @@
+{
+  "name": "Fence_Metal_2",
+  "path": "Bundles/Objects/Medium/Fences/Fence_Metal_2/Fence_Metal_2.dat",
+  "data": {
+    "GUID": "86ac9c781fba451eb134fcb5872e7d1e",
+    "Type": "Medium",
+    "ID": "961",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Fence Metal #3"
+  }
+}

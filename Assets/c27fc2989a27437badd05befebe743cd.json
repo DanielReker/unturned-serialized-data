@@ -1,0 +1,15 @@
+{
+  "name": "Elver_Pant_Red",
+  "path": "Bundles/Items/Elver/Elver_Pant_Red/Elver_Pant_Red.dat",
+  "data": {
+    "GUID": "c27fc2989a27437badd05befebe743cd",
+    "Type": "Pants",
+    "Useable": "Clothing",
+    "ID": "982",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.6",
+    "Pro": ""
+  },
+  "translation": null
+}

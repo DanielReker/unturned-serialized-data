@@ -1,0 +1,34 @@
+{
+  "name": "Buak_Q_S7M2_Book",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M2/Buak_Q_S7M2_Book/Buak_Q_S7M2_Book.dat",
+  "data": {
+    "GUID": "9c4e6c378e9d49b58ddae3586ed3cfd4",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24178",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "4",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "24178",
+    "Interactability_Reward_0_Value": "False",
+    "Interactability_Reward_1_Type": "Flag_Bool",
+    "Interactability_Reward_1_ID": "24281",
+    "Interactability_Reward_1_Value": "True",
+    "Interactability_Reward_2_Type": "Quest",
+    "Interactability_Reward_2_ID": "c97f3f79956649bdb9923ff943eef7cc",
+    "Interactability_Reward_3_Type": "Flag_Bool",
+    "Interactability_Reward_3_ID": "24243",
+    "Interactability_Reward_3_Value": "True"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M2_Book",
+    "Interact": "Collect Book [{0}]"
+  }
+}

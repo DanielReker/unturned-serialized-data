@@ -1,0 +1,13 @@
+{
+  "name": "PS_Palace_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Palace_0/PS_Palace_0.dat",
+  "data": {
+    "GUID": "948eb229e3864f84be7646a57ea4c76b",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60267"
+  },
+  "translation": {
+    "Name": "PS Palace #1"
+  }
+}

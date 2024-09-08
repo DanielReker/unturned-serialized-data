@@ -1,0 +1,27 @@
+{
+  "name": "IR_Luggage_car",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Vehicle/IR_Luggage_car/IR_Luggage_car.dat",
+  "data": {
+    "GUID": "8b80023857d24883a7cf29c582083361",
+    "Type": "Vehicle",
+    "ID": "14523",
+    "Speed_Min": "-6",
+    "Speed_Max": "10",
+    "Steer_Min": "24",
+    "Steer_Max": "48",
+    "Brake": "32",
+    "Fuel_Min": "100",
+    "Fuel_Max": "200",
+    "Fuel": "400",
+    "Health_Min": "200",
+    "Health_Max": "300",
+    "Health": "400",
+    "Exit": "2.5",
+    "Trunk_Storage_X": "10",
+    "Trunk_Storage_Y": "6",
+    "Explosion": "20"
+  },
+  "translation": {
+    "Name": "Luggage Car"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Military_Mechanic_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Mechanic_0/Asset.dat",
+  "data": {
+    "GUID": "dc8b936ba68d4c3b9b252eaf1fea0214",
+    "Type": "NPC",
+    "ID": "3595",
+    "Shirt": "405",
+    "Pants": "406",
+    "Mask": "1446",
+    "Face": "5",
+    "Hair": "19",
+    "Beard": "0",
+    "Color_Skin": "#A5875D",
+    "Color_Hair": "#473928",
+    "Secondary": "76",
+    "Dialogue": "3664"
+  },
+  "translation": {
+    "Name": "Greek Military Mechanic Timon",
+    "Character": "<color=rare>Mechanic Timon</color>"
+  }
+}

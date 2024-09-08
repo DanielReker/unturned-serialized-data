@@ -1,0 +1,14 @@
+{
+  "name": "Candyland_Ranger_Rootbeer_Rocket",
+  "path": "Bundles/Items/Backpacks/Candyland_Ranger_Rootbeer_Rocket/Candyland_Ranger_Rootbeer_Rocket.dat",
+  "data": {
+    "GUID": "9296305154654b8099db43c226a70553",
+    "Type": "Backpack",
+    "ID": "1554",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Pro": ""
+  },
+  "translation": null
+}

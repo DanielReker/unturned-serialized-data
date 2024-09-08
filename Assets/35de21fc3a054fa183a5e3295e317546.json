@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Gfti_25",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Decals/Buak_Gfti_25/Buak_Gfti_25.dat",
+  "data": {
+    "GUID": "35de21fc3a054fa183a5e3295e317546",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Gfti_25"
+  }
+}

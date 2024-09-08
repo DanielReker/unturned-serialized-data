@@ -1,0 +1,23 @@
+{
+  "name": "Buak_LAB_Door_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_LAB/Buak_LAB_Door_02/Buak_LAB_Door_02.dat",
+  "data": {
+    "GUID": "63af4315ddf04dd5ad04db09309bfed2",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Interactability": "Binary_State",
+    "Interactability_Delay": "1",
+    "Interactability_Reset": "10",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "24998",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_LAB_Door_02",
+    "Interactability_Condition_0": "{0}/1 Keycard #2"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Worn_Shorts_Orange",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Bottoms/Shorts/Worn/Worn_Shorts_Orange/Worn_Shorts_Orange.dat",
+  "data": {
+    "GUID": "dfc7b08999b84fb383364584a6686f47",
+    "Rarity": "Common",
+    "Type": "Pants",
+    "Useable": "Clothing",
+    "ID": "26336",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "4",
+    "Height": "2",
+    "Armor": "1",
+    "WearAudio": "Sounds/Clothes/Clothes.asset",
+    "Actions": "2",
+    "Action_1_Type": "Blueprint",
+    "Action_1_Source": "26335",
+    "Action_1_Blueprints": "1",
+    "Action_1_Blueprint_0_Index": "2",
+    "Action_1_Text": "Stitch up ",
+    "Action_1_Tooltip": "Sew up any holes with a sewing kit.",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "26336",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Key": "Salvage",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26336",
+    "Blueprint_0_Product": "25300",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "25535",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Worn Orange Shorts",
+    "Description": "Shorts that need some stitching up, there's holes in the pockets!"
+  }
+}

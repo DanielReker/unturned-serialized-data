@@ -1,0 +1,13 @@
+{
+  "name": "High_Military_High_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/High_Military_High_Brazil/High_Military_High_Brazil.dat",
+  "data": {
+    "GUID": "4d84bf7bac0b48e2bafc6e7d42381e4e",
+    "Type": "Spawn",
+    "ID": "5046",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5042",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

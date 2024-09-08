@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Q_S7M2_Dark",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M2/Buak_Q_S7M2_Dark/Buak_Q_S7M2_Dark.dat",
+  "data": {
+    "GUID": "585d399684ac4479ae42b33b2791c5b6",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M2_Dark"
+  }
+}

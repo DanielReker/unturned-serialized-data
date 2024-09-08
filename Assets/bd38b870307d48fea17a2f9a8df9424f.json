@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Mineshaft_10_Supports",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Mines/Supports/Buak_Mineshaft_10_Supports/Buak_Mineshaft_10_Supports.dat",
+  "data": {
+    "GUID": "bd38b870307d48fea17a2f9a8df9424f",
+    "Type": "Large",
+    "ID": "25300",
+    "Soft": "",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Mineshaft_10_Supports"
+  }
+}

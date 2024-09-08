@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Q_ADITS_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_ADITS_00/Buak_Q_ADITS_00.dat",
+  "data": {
+    "GUID": "7595d8017ac641d9984b5b704833bad6",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Q_ADITS_00"
+  }
+}

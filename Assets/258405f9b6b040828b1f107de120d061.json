@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Lumber_Wrapped",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Props/Buak_Lumber_Wrapped/Buak_Lumber_Wrapped.dat",
+  "data": {
+    "GUID": "258405f9b6b040828b1f107de120d061",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Lumber_Wrapped"
+  }
+}

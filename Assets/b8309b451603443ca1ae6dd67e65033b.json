@@ -1,0 +1,26 @@
+{
+  "name": "Military_Engineer_Officer_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Engineer_Officer_0/Asset.dat",
+  "data": {
+    "GUID": "b8309b451603443ca1ae6dd67e65033b",
+    "Type": "NPC",
+    "ID": "3584",
+    "Shirt": "232",
+    "Pants": "3504",
+    "Mask": "1446",
+    "Hat": "240",
+    "Face": "5",
+    "Hair": "12",
+    "Beard": "7",
+    "Color_Skin": "#94764B",
+    "Color_Hair": "#473928",
+    "Tertiary": "1328",
+    "Equipped": "Tertiary",
+    "Backward": "",
+    "Dialogue": "3162"
+  },
+  "translation": {
+    "Name": "Greek Military Workshop Manager",
+    "Character": "<color=epic>Workshop Manager Hyperion</color>"
+  }
+}

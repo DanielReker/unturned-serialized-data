@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Ore_Titanium",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Ore_Titanium/Drop_Ore_Titanium.dat",
+  "data": {
+    "GUID": "48beedd3792d4c41aeab6c387e7e6289",
+    "Type": "Spawn",
+    "ID": "25499",
+    "Tables": [
+      {
+        "Guid": "6d2a682c949747c0a3dbe2c8f84cbe80",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

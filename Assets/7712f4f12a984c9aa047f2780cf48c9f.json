@@ -1,0 +1,36 @@
+{
+  "name": "Metro_Civ_Generic",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Civ_Generic/Metro_Civ_Generic.dat",
+  "data": {
+    "GUID": "7712f4f12a984c9aa047f2780cf48c9f",
+    "Type": "Spawn",
+    "ID": "57031",
+    "Tables": [
+      {
+        "LegacySpawnId": "57019",
+        "Weight": "1000"
+      },
+      {
+        "LegacySpawnId": "57027",
+        "Weight": "800"
+      },
+      {
+        "LegacySpawnId": "57036",
+        "Weight": "500"
+      },
+      {
+        "LegacySpawnId": "57034",
+        "Weight": "500"
+      },
+      {
+        "LegacySpawnId": "57040",
+        "Weight": "250"
+      },
+      {
+        "LegacyAssetId": "57679",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

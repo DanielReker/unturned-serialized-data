@@ -1,0 +1,14 @@
+{
+  "name": "Aircraft_Carrier_0",
+  "path": "Bundles/Objects/Large/Vehicles/Aircraft_Carrier_0/Aircraft_Carrier_0.dat",
+  "data": {
+    "GUID": "2dff13bd24984d939e436a87afbaff20",
+    "Type": "Large",
+    "ID": "743",
+    "Collision_Important": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Aircraft Carrier #1"
+  }
+}

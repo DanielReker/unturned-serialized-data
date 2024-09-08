@@ -1,0 +1,23 @@
+{
+  "name": "Amber_Shirt",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Amber_Shirt/Amber_Shirt.dat",
+  "data": {
+    "GUID": "a623c7be5f7049b688b3bc42295bd3bf",
+    "Rarity": "Uncommon",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "27014",
+    "Pro": "",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "8",
+    "Height": "4",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Amber_Shirt",
+    "Description": "NPC Shirt."
+  }
+}

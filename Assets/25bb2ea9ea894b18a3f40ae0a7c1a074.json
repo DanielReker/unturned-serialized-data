@@ -1,0 +1,39 @@
+{
+  "name": "PS_Dino_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Barricades/PS_Dino_0/PS_Dino_0.dat",
+  "data": {
+    "GUID": "25bb2ea9ea894b18a3f40ae0a7c1a074",
+    "Type": "Barricade",
+    "Rarity": "Uncommon",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Barricade",
+    "ID": "59821",
+    "SalvageItem": "25bb2ea9ea894b18a3f40ae0a7c1a074",
+    "Min_Items_Dropped_On_Destroy": "3",
+    "Max_Items_Dropped_On_Destroy": "4",
+    "Item_Dropped_On_Destroy": "4663b2cd83d94e8087e00882d35bb286",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.6",
+    "Health": "80",
+    "Range": "4",
+    "Radius": "0.22",
+    "Offset": "0.23",
+    "Explosion": "19",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supply_0_ID": "59028",
+    "Blueprint_0_Supply_0_Amount": "7",
+    "Blueprint_0_Tool": "59004",
+    "Blueprint_0_Build": "27",
+    "Salvage_Duration_Multiplier": "0.2",
+    "PlacementAudioClip": "Sounds/WoodenPlacement.mp3",
+    "Bypass_Pickup_Ownership": "True"
+  },
+  "translation": {
+    "Name": "Dino Statue",
+    "Description": "Friendly green fella."
+  }
+}

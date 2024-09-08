@@ -1,0 +1,12 @@
+{
+  "name": "Frost_Facemask",
+  "path": "Bundles/Items/Frost/Frost_Facemask/Frost_Facemask.dat",
+  "data": {
+    "GUID": "391f9c1278e246afbf2b8d04e926945a",
+    "Type": "Mask",
+    "ID": "1792",
+    "Hair": "",
+    "Pro": ""
+  },
+  "translation": null
+}

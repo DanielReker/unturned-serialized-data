@@ -1,0 +1,16 @@
+{
+  "name": "Hatchback_Broken",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Hatchback_Broken/Hatchback_Broken.dat",
+  "data": {
+    "GUID": "d465857a60a34b188c6d6dcbfa3ce0b4",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "1200",
+    "Rubble_Health": "250",
+    "Rubble_Effect": "0",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Hatchback Broken"
+  }
+}

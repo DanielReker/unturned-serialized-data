@@ -1,0 +1,21 @@
+{
+  "name": "Cillian",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/NPC/Cillian/Cillian.dat",
+  "data": {
+    "GUID": "552790a076d84609bfe5100322153412",
+    "Type": "Shirt",
+    "Rarity": "Mythical",
+    "Useable": "Clothing",
+    "ID": "51963",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "10",
+    "Height": "20",
+    "Armor": "1"
+  },
+  "translation": {
+    "Name": "Cillian",
+    "Description": "Your standard library worker."
+  }
+}

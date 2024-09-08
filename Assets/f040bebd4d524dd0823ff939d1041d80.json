@@ -1,0 +1,13 @@
+{
+  "name": "Chute_Wood_0",
+  "path": "Bundles/Objects/Medium/Business/Chute_Wood_0/Chute_Wood_0.dat",
+  "data": {
+    "GUID": "f040bebd4d524dd0823ff939d1041d80",
+    "Type": "Medium",
+    "ID": "296",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Chute Wood #1"
+  }
+}

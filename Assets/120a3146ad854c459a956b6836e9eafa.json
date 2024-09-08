@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Cave_Bones_05",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Mines/Caves/Buak_Cave_Bones_05/Buak_Cave_Bones_05.dat",
+  "data": {
+    "GUID": "120a3146ad854c459a956b6836e9eafa",
+    "Type": "Large",
+    "ID": "25300",
+    "Soft": "",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Cave_Bones_05"
+  }
+}

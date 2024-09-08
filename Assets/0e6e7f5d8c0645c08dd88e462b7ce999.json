@@ -1,0 +1,14 @@
+{
+  "name": "PS_Book_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Book_0/PS_Book_0.dat",
+  "data": {
+    "GUID": "0e6e7f5d8c0645c08dd88e462b7ce999",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59517",
+    "Material_Palette": "138f01303ace4dd38ca414ba9ad2cd5b"
+  },
+  "translation": {
+    "Name": "PS Book #1"
+  }
+}

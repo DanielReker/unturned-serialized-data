@@ -1,0 +1,13 @@
+{
+  "name": "Machinery_0",
+  "path": "Bundles/Objects/Large/Business/Machinery_0/Machinery_0.dat",
+  "data": {
+    "GUID": "bdb47796adb9470d93f765df7cea2bc0",
+    "Type": "Large",
+    "ID": "620",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Machinery #1"
+  }
+}

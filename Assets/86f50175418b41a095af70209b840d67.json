@@ -1,0 +1,41 @@
+{
+  "name": "PS_Car_Engine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Car_Engine/PS_Car_Engine.dat",
+  "data": {
+    "GUID": "86f50175418b41a095af70209b840d67",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Barricade",
+    "ID": "59285",
+    "SalvageItem": "86f50175418b41a095af70209b840d67",
+    "Min_Items_Dropped_On_Destroy": "1",
+    "Max_Items_Dropped_On_Destroy": "1",
+    "Item_Dropped_On_Destroy": "5aa32881228f45d4bee064d325426762",
+    "Size_X": "5",
+    "Size_Y": "5",
+    "Size_Z": "0.8",
+    "Health": "1000",
+    "Range": "4",
+    "Radius": "0.5",
+    "Offset": "0.53",
+    "Explosion": "36",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59285",
+    "Blueprint_0_Product": "59010",
+    "Blueprint_0_Products": "12",
+    "Blueprint_0_Tool": "59003",
+    "Blueprint_0_Build": "27",
+    "Salvage_Duration_Multiplier": "0.7",
+    "PlacementAudioClip": "Sounds/MetalPlacement.mp3",
+    "Bypass_Pickup_Ownership": "True"
+  },
+  "translation": {
+    "Name": "Car Engine",
+    "Description": "Standard automotive engine composed of many moving parts."
+  }
+}

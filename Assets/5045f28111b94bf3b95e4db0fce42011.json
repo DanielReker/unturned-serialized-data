@@ -1,0 +1,12 @@
+{
+  "name": "IR_HeliPad_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/City/IR_HeliPad_1/IR_HeliPad_1.dat",
+  "data": {
+    "GUID": "5045f28111b94bf3b95e4db0fce42011",
+    "Type": "Large",
+    "ID": "17079"
+  },
+  "translation": {
+    "Name": "Irish Fort#1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Wreck_0",
+  "path": "Bundles/Objects/Medium/Rubble/Wreck_0/Wreck_0.dat",
+  "data": {
+    "GUID": "f90be706462f43b0829e2d94fd570e1a",
+    "Type": "Medium",
+    "ID": "508",
+    "Snowshoe": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Wreck #1"
+  }
+}

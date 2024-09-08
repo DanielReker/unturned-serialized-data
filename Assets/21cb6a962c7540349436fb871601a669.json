@@ -1,0 +1,16 @@
+{
+  "name": "Rio_AD_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Decals/Rio_AD_5/Rio_AD_5.dat",
+  "data": {
+    "GUID": "21cb6a962c7540349436fb871601a669",
+    "Type": "Decal",
+    "ID": "7188",
+    "Decal_X": "6",
+    "Decal_Y": "12",
+    "Decal_LOD_Bias": "1",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio AD #6"
+  }
+}

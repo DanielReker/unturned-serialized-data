@@ -1,0 +1,25 @@
+{
+  "name": "Waffle_Round",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Waffle_Round/Waffle_Round.dat",
+  "data": {
+    "GUID": "c14da2413eed49e696466fef20be8390",
+    "Type": "Food",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "25705",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.26",
+    "Use_Auto_Icon_Measurements": "False",
+    "Food": "25",
+    "Water": "0",
+    "Quality_Min": "60",
+    "Quality_Max": "100",
+    "ConsumeAudioClip": "Sounds/Food/EatSquishy.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Round Waffle",
+    "Description": "Everyone loves waffles!"
+  }
+}

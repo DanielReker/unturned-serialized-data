@@ -1,0 +1,13 @@
+{
+  "name": "Train_Engine_2",
+  "path": "Bundles/Objects/Large/Vehicles/Train_Engine_2/Train_Engine_2.dat",
+  "data": {
+    "GUID": "25c5650e55974f258de0fa201568afda",
+    "Type": "Large",
+    "ID": "678",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Train Engine #3"
+  }
+}

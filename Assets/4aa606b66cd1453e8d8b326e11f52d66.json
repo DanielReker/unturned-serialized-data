@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Camp_Arrow",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Kuwait_Camp_Arrow/Kuwait_Camp_Arrow.dat",
+  "data": {
+    "GUID": "4aa606b66cd1453e8d8b326e11f52d66",
+    "Type": "Spawn",
+    "ID": "7248",
+    "Tables": "1",
+    "Table_0_Asset_ID": "5031",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

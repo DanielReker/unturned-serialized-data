@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Ruth_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Ruth/PBS_Ruth_Completed/Asset.dat",
+  "data": {
+    "GUID": "a8736e4b8fa54e1daa870b52e658cd73",
+    "Type": "Dialogue",
+    "ID": "52272",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks for shopping, come back soon."
+  }
+}

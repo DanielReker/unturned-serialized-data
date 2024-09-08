@@ -1,0 +1,30 @@
+{
+  "name": "Beet_Root_Seed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Items/Seed/Beet_Root_Seed/Beet_Root_Seed.dat",
+  "data": {
+    "GUID": "ab57ec4b170849e1b6f25c7ce38af2a7",
+    "Type": "Farm",
+    "Useable": "Barricade",
+    "Build": "Farm",
+    "ID": "9050",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Health": "1",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "0.375",
+    "Growth": "10800",
+    "Grow": "9048",
+    "Explosion": "43",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "9048",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Beet_Root_Seed",
+    "Description": "Ready for planting and eating."
+  }
+}

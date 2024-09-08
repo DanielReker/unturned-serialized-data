@@ -1,0 +1,16 @@
+{
+  "name": "Vinicuis_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Fluff/Patients/Vinicuis_Welcome/Asset.dat",
+  "data": {
+    "GUID": "54b5cef4a2424643a7819659f7635279",
+    "Type": "Dialogue",
+    "ID": "9205",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Berry mixers are no joke, man!",
+    "Response_0": "Noted."
+  }
+}

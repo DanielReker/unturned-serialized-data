@@ -1,0 +1,36 @@
+{
+  "name": "Disease_Page_Patient_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Disease_Page_Patient_2/Disease_Page_Patient_2.dat",
+  "data": {
+    "GUID": "e0e33836969640da85fdb3cd3fcfe96e",
+    "Type": "Small",
+    "ID": "3821",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3306",
+    "Condition_0_Value": "2",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "10",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Math",
+    "Interactability_Reward_0_A_ID": "3303",
+    "Interactability_Reward_0_B_ID": "3300",
+    "Interactability_Reward_0_Operation": "ASSIGN",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Disease Patient #3",
+    "Interactability_Text_Line_0": "PATIENT REPORT",
+    "Interactability_Text_Line_1": "NAME:",
+    "Interactability_Text_Line_2": "-----",
+    "Interactability_Text_Line_3": "Cadet Dwight",
+    "Interactability_Text_Line_4": "-----",
+    "Interactability_Text_Line_5": "Reported Symptoms: ",
+    "Interactability_Text_Line_6": "•Fever",
+    "Interactability_Text_Line_7": "•Headache",
+    "Interactability_Text_Line_8": "•Chills",
+    "Interactability_Text_Line_9": "•Nausea"
+  }
+}

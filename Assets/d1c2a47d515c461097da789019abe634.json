@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Stone_Path_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Props/Buak_Stone_Path_01/Buak_Stone_Path_01.dat",
+  "data": {
+    "GUID": "d1c2a47d515c461097da789019abe634",
+    "Type": "Small",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Stone_Path_01"
+  }
+}

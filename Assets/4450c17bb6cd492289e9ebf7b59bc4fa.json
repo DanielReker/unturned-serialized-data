@@ -1,0 +1,15 @@
+{
+  "name": "Coalition_0",
+  "path": "Bundles/Objects/Small/Decals/Coalition_0/Coalition_0.dat",
+  "data": {
+    "GUID": "4450c17bb6cd492289e9ebf7b59bc4fa",
+    "Type": "Decal",
+    "ID": "974",
+    "Decal_X": "3",
+    "Decal_Y": "3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Coalition Decal #1"
+  }
+}

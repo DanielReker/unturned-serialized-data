@@ -1,0 +1,40 @@
+{
+  "name": "Amphibious_Assault_Rig",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Vests/Amphibious_Assault_Rig/Amphibious_Assault_Rig.dat",
+  "data": {
+    "GUID": "b6bd5ba92fd2453e987ddf9b847b0a87",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "51164",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "6",
+    "Height": "6",
+    "Armor": "0.90",
+    "Movement_Speed_Multiplier": "1.05",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51164",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "51017",
+    "Blueprint_0_Output_0_Amount": "4",
+    "Blueprint_0_Output_1_ID": "51020",
+    "Blueprint_0_Output_1_Amount": "4",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "2",
+    "Blueprint_1_Supply_0_ID": "51017",
+    "Blueprint_1_Supply_0_Amount": "4",
+    "Blueprint_1_Supply_1_ID": "51020",
+    "Blueprint_1_Supply_1_Amount": "4",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Amphibious Assault Rig",
+    "Description": "Vest with little protection but lots of storage."
+  }
+}

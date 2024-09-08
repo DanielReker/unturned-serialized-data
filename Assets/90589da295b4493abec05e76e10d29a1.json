@@ -1,0 +1,26 @@
+{
+  "name": "PBS_Gurt_Happy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Gurt_Happy/Asset.dat",
+  "data": {
+    "GUID": "90589da295b4493abec05e76e10d29a1",
+    "Type": "NPC",
+    "ID": "52187",
+    "Hat": "970",
+    "Shirt": "51196",
+    "Face": "0",
+    "Hair": "3",
+    "Beard": "0",
+    "Color_Skin": "#000000",
+    "Color_Hair": "#000000",
+    "Dialogue": "52181",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "52186",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS NPC Gurt Happy",
+    "Character": "gurt"
+  }
+}

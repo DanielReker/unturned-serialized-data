@@ -1,0 +1,15 @@
+{
+  "name": "PS_Deadzone_Industrial_Proper",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Deadzone_Industrial_Proper/PS_Deadzone_Industrial_Proper.dat",
+  "data": {
+    "GUID": "516a306f4bd746b0bfef60a85af6ffda",
+    "Type": "Spawn",
+    "ID": "59180",
+    "Tables": "2",
+    "Table_0_Spawn_ID": "59179",
+    "Table_0_Weight": "70",
+    "Table_1_Spawn_ID": "59178",
+    "Table_1_Weight": "31"
+  },
+  "translation": null
+}

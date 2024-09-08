@@ -1,0 +1,14 @@
+{
+  "name": "Buak_LAB_Frames",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_LAB/Buak_LAB_Frames/Buak_LAB_Frames.dat",
+  "data": {
+    "GUID": "91fe7861aa42483e96a713d08b892926",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_LAB_Frames"
+  }
+}

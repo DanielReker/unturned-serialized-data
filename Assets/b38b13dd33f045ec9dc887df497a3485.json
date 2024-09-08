@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Empty",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Metro_Empty/Metro_Empty.dat",
+  "data": {
+    "GUID": "b38b13dd33f045ec9dc887df497a3485",
+    "Type": "Spawn",
+    "ID": "57009",
+    "Tables": "1",
+    "Table_0_Asset_ID": "123",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

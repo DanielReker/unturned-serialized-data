@@ -1,0 +1,26 @@
+{
+  "name": "PBS_Rowtag",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Rowtag/Asset.dat",
+  "data": {
+    "GUID": "1f661e8f79a94a80a8697a7130c9f5f2",
+    "Type": "NPC",
+    "ID": "52460",
+    "Glasses": "0dabb9d0f43049c390277ddd057c7cba",
+    "Shirt": "51920",
+    "Pants": "51158",
+    "Face": "17",
+    "Hair": "9",
+    "Beard": "1",
+    "Color_Skin": "#94764B",
+    "Color_Hair": "#352C22",
+    "Dialogue": "52461",
+    "Primary": "51202",
+    "Secondary": "51217",
+    "Tertiary": "51257",
+    "Equipped": "Tertiary"
+  },
+  "translation": {
+    "Name": "PBS NPC Rowtag",
+    "Character": "Rowtag"
+  }
+}

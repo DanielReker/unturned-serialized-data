@@ -1,0 +1,16 @@
+{
+  "name": "Harry_Welcome",
+  "path": "Bundles/NPCs/Dialogues/Harry/Harry_Welcome/Asset.dat",
+  "data": {
+    "GUID": "bbd18c6a7d3c49f8a41fdd03c14f2016",
+    "Type": "Dialogue",
+    "ID": "199",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "As I understand it you're responsible for my rescue, thank you! We'll have to meet up in the cafeteria for coffee sometime.",
+    "Response_0": "Glad to have you back"
+  }
+}

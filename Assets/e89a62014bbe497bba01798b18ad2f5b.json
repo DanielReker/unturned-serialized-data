@@ -1,0 +1,14 @@
+{
+  "name": "Leader_Armament_Capture_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IFR/Leader_Holiday/Leader_Armament_Capture_Completed/Asset.dat",
+  "data": {
+    "GUID": "e89a62014bbe497bba01798b18ad2f5b",
+    "Type": "Dialogue",
+    "ID": "15107",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Great job, <color=uncommon>recruit</color>. This ammo cache could keep our mags full for a few months. Give a few more recruits and maybe we could even take on the <color=blue>Coalition</color>, those bastards."
+  }
+}

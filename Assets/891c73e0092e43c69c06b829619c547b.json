@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Suitcase",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Suitcase/PS_Drops_Suitcase.dat",
+  "data": {
+    "GUID": "891c73e0092e43c69c06b829619c547b",
+    "Type": "Spawn",
+    "ID": "59386",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59200",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

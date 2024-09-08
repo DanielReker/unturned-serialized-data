@@ -1,0 +1,13 @@
+{
+  "name": "Shipping_Container_Closed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Shipping_Container_Closed/Shipping_Container_Closed.dat",
+  "data": {
+    "GUID": "6204e4395b7047ae99c6151dca9ea384",
+    "Material_Palette": "b8c84fa328b247f8941c5cb18f490264",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Shipping Container Closed"
+  }
+}

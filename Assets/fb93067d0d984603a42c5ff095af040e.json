@@ -1,0 +1,14 @@
+{
+  "name": "PS_File_Binder_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_File_Binder_0/PS_File_Binder_0.dat",
+  "data": {
+    "GUID": "fb93067d0d984603a42c5ff095af040e",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59576",
+    "Material_Palette": "2002f59e50314e118307e6bb67845ac9"
+  },
+  "translation": {
+    "Name": "PS File Binder #1"
+  }
+}

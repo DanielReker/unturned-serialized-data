@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Wood_Shelf",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Wood_Shelf/Obj_Wood_Shelf.dat",
+  "data": {
+    "GUID": "cab908e71def451986673e46eb1bb0d8",
+    "Type": "Effect",
+    "ID": "25338"
+  },
+  "translation": null
+}

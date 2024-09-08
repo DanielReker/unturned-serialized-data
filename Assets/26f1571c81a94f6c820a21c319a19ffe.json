@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Electrical_Components",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Electrical_Components/Drop_Electrical_Components.dat",
+  "data": {
+    "GUID": "26f1571c81a94f6c820a21c319a19ffe",
+    "Type": "Spawn",
+    "ID": "25514",
+    "Tables": [
+      {
+        "Guid": "95006c2e6bf840c48189834e3cd5a640",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

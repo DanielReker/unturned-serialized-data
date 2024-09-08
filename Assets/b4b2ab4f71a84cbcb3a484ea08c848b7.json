@@ -1,0 +1,17 @@
+{
+  "name": "Kuwait_Seaweed_Dead_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Scenery/Kuwait_Seaweed_Dead_2/Kuwait_Seaweed_Dead_2.dat",
+  "data": {
+    "GUID": "b4b2ab4f71a84cbcb3a484ea08c848b7",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5334",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Kuwait Seaweed (Dead) #3\t"
+  }
+}

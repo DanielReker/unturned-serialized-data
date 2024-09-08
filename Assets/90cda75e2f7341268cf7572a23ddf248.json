@@ -1,0 +1,16 @@
+{
+  "name": "Buak_Harbour_Crane",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_Harbour_Crane/Buak_Harbour_Crane.dat",
+  "data": {
+    "GUID": "90cda75e2f7341268cf7572a23ddf248",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "LOD": "Area",
+    "Exclude_From_Culling_Volumes": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Harbour_Crane"
+  }
+}

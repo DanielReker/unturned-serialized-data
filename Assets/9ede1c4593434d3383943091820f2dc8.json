@@ -1,0 +1,21 @@
+{
+  "name": "Painted_Dreams",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Music/Music/Painted_Dreams/Painted_Dreams.asset",
+  "data": {
+    "GUID": "9ede1c4593434d3383943091820f2dc8",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Title": {
+      "Namespace": "SDG",
+      "Token": "Stereo_Songs.Unlike_Pluto10.Title"
+    },
+    "Song": {
+      "MasterBundle": "up.masterbundle",
+      "AssetPath": "Unlike Pluto - Painted Dreams.wav"
+    },
+    "Link_URL": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga?si=HUDPSJR0SwyWE97dlv_liA"
+  },
+  "translation": {
+    "Name": "Unlike Pluto - Painted Dreams"
+  }
+}

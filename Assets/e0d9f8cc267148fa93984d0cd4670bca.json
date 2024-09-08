@@ -1,0 +1,19 @@
+{
+  "name": "Greek_Manhole_Farsala_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Greek_Manhole_Farsala_3/Greek_Manhole_Farsala_3.dat",
+  "data": {
+    "GUID": "e0d9f8cc267148fa93984d0cd4670bca",
+    "Type": "Small",
+    "ID": "3906",
+    "Asset_Bundle_Version": "2",
+    "Interactability": "Quest",
+    "Interactability_Effect": "38",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "FarsalaExit0"
+  },
+  "translation": {
+    "Name": "Quest Manhole Exit Farsala #1",
+    "Interact": "Exit Sewers[{0}]"
+  }
+}

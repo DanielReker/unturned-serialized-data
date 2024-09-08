@@ -1,0 +1,26 @@
+{
+  "name": "Spelunker_Stan",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Spelunker_Stan/Asset.dat",
+  "data": {
+    "GUID": "506ca13b800e4836ab3eb311ac696737",
+    "Type": "NPC",
+    "ID": "2064",
+    "Shirt": "687",
+    "Pants": "688",
+    "Backpack": "253",
+    "Glasses": "1199",
+    "Hat": "686",
+    "Pose": "Sit",
+    "Primary": "1198",
+    "Equipped": "Primary",
+    "Face": "5",
+    "Hair": "2",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#665037",
+    "Dialogue": "2065"
+  },
+  "translation": {
+    "Name": "Spelunker Stan",
+    "Character": "Stan"
+  }
+}

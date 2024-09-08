@@ -1,0 +1,32 @@
+{
+  "name": "PS_Tea_Mug",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Water/PS_Tea_Mug/PS_Tea_Mug.dat",
+  "data": {
+    "GUID": "b41c04b5ff774c48a1bc8ca542ea7d5b",
+    "Type": "Water",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "59698",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Water": "35",
+    "Food": "5",
+    "Health": "5",
+    "Disinfectant": "10",
+    "Energy": "100",
+    "Broken": "",
+    "Quality_Min": "100",
+    "Quest_Rewards": "2",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "59012",
+    "Quest_Reward_0_Amount": "1",
+    "Quest_Reward_1_Type": "Hint",
+    "Quest_Reward_1_Text": "Empty Mug Received",
+    "Quest_Reward_1_Duration": "1"
+  },
+  "translation": {
+    "Name": "Mug Of Tea",
+    "Description": "<color=#21B427>+35 Water<br>+5 Food<br>+5 Health<br>Heals Bones<br>+10 Immunity<br>+100 Energy</color>"
+  }
+}

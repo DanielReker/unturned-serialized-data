@@ -1,0 +1,40 @@
+{
+  "name": "PoliceClothes",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Police/PoliceClothes/PoliceClothes.dat",
+  "data": {
+    "GUID": "6beebc2ec72449b2b11e99137ea463df",
+    "Type": "Spawn",
+    "ID": "51026",
+    "Tables": [
+      {
+        "Guid": "a2620451bce64f46ae9a8e48f0ebe803",
+        "Weight": "9"
+      },
+      {
+        "Guid": "9c32aca32ca645949b7bc2281c3475f1",
+        "Weight": "9"
+      },
+      {
+        "Guid": "ee469e4988a54a56aa8539be3c006b71",
+        "Weight": "9"
+      },
+      {
+        "Guid": "475eaf01366d4d8eb7e78cb24787575d",
+        "Weight": "9"
+      },
+      {
+        "Guid": "d1ae8a4c539a4bac935c272efaa40789",
+        "Weight": "9"
+      },
+      {
+        "Guid": "9fc34a4c63e344439b2294e897fd2a80",
+        "Weight": "9"
+      },
+      {
+        "Guid": "a0f7a7cdb0ba4fad8a795118ca3fd139",
+        "Weight": "6"
+      }
+    ]
+  },
+  "translation": null
+}

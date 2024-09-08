@@ -1,0 +1,13 @@
+{
+  "name": "Tent_France_1",
+  "path": "Bundles/Objects/Large/Buildings/Tent_France_1/Tent_France_1.dat",
+  "data": {
+    "GUID": "101057f7d48f473594017b525cfa75ee",
+    "Type": "Large",
+    "ID": "1050",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "France Tent #2"
+  }
+}

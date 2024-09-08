@@ -1,0 +1,19 @@
+{
+  "name": "RULA_Note3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Medium/Furniture/RULA_Note3/RULA_Note3.dat",
+  "data": {
+    "GUID": "0f64ecf54f0a4c57bf6a8f1a5fbaf33b",
+    "Type": "Medium",
+    "ID": "35284",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Has_Clip_Prefab": "false",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Rula Note - Personal Note: Food",
+    "Interactability_Text_Line_0": "This new nutrition bar tastes funny, and I don't mean he-he kind of funny, it's hard to describe, kind of like dried vegetables but not really? It smells awful too, somewhat like sea weed. It's very dry and chewy, folks are saying that it's good for me but what good is it for if I can't get myself to eat this... thing."
+  }
+}

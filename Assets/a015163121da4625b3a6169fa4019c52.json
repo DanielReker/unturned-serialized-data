@@ -1,0 +1,18 @@
+{
+  "name": "Note_Rio6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Note_Rio6/Note_Rio6.dat",
+  "data": {
+    "GUID": "a015163121da4625b3a6169fa4019c52",
+    "Type": "Medium",
+    "ID": "7067",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "2",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Note - Hotel",
+    "Interactability_Text_Line_0": "Due to the Internationals event, all of our rooms are full and won't be available for a few weeks.",
+    "Interactability_Text_Line_1": "-Copacabana Hotel Staff"
+  }
+}

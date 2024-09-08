@@ -1,0 +1,21 @@
+{
+  "name": "28980KN",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/C/28980KN/Asset.dat",
+  "data": {
+    "GUID": "d6b4b6f80e7e4afc86ec97f30291e387",
+    "Type": "NPC",
+    "ID": "28980",
+    "Shirt": "5335",
+    "Dialogue": "28971",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "25050",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitNPCNala",
+    "Character": "Nala"
+  }
+}

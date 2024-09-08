@@ -1,0 +1,15 @@
+{
+  "name": "Buak_SW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Stores/Buak_SW/Buak_SW.dat",
+  "data": {
+    "GUID": "7df26e12698746199226bf8964ac98fb",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "LOD": "Area",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_SW"
+  }
+}

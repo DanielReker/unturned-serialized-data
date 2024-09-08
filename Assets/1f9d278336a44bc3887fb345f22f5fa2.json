@@ -1,0 +1,28 @@
+{
+  "name": "Steven_Interview",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Misc/Mechanic_Steven/Steven_Interview/Asset.dat",
+  "data": {
+    "GUID": "1f9d278336a44bc3887fb345f22f5fa2",
+    "Type": "Dialogue",
+    "ID": "8261",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Responses": "2",
+    "Response_0_Dialogue": "8262",
+    "Response_0_Quest": "9403",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "9403",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "9403"
+  },
+  "translation": {
+    "Message_0_Page_0": "Back on land I worked on motorcycles and often drove them. After the Virus struck Rio, my motorcycle was banged up by raiders and zombies.",
+    "Message_0_Page_1": "It's too dangerous for me to look for the supplies to fix the bike, so I've been looking for somebody who can.",
+    "Response_0": "I can help you fix your motorcycle.",
+    "Response_1": "I can't help at the moment."
+  }
+}

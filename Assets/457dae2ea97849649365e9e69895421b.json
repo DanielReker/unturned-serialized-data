@@ -1,0 +1,26 @@
+{
+  "name": "Mag_Swift_Icon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Misc/Gun_Icons/Mag_Swift_Icon/Mag_Swift_Icon.dat",
+  "data": {
+    "GUID": "457dae2ea97849649365e9e69895421b",
+    "Type": "Magazine",
+    "Rarity": "Uncommon",
+    "ID": "27507",
+    "Use_Auto_Icon_Measurements": "False",
+    "Bundle_Override_Path": "/Items/Magazines/Mag_Swift",
+    "Pro": "",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.16",
+    "Amount": "17",
+    "Count_Min": "1",
+    "Count_Max": "6",
+    "Calibers": "1",
+    "Caliber_0": "25300",
+    "Tracer": "48"
+  },
+  "translation": {
+    "Name": "Swift Magazine",
+    "Description": "Pistol magazine. Designed to fit 17 rounds."
+  }
+}

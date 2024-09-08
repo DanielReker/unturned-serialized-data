@@ -1,0 +1,14 @@
+{
+  "name": "PBS_DrHome_Complete",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_DrHome/PBS_DrHome_Complete/Asset.dat",
+  "data": {
+    "GUID": "1b7c980fa47946999a3191ca8dbf5cfc",
+    "Type": "Dialogue",
+    "ID": "52253",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Okay then..."
+  }
+}

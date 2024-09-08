@@ -1,0 +1,13 @@
+{
+  "name": "Russia_Beach",
+  "path": "Bundles/Spawns/Items/Russia_Beach/Russia_Beach.dat",
+  "data": {
+    "GUID": "0f2a3a51de254bcab4afe74f5f29b764",
+    "Type": "Spawn",
+    "ID": "585",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "258",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

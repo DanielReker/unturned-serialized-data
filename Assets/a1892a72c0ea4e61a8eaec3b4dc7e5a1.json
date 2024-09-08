@@ -1,0 +1,12 @@
+{
+  "name": "CA_Mall_Counter_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Mall_Counter_1/CA_Mall_Counter_1.dat",
+  "data": {
+    "GUID": "a1892a72c0ea4e61a8eaec3b4dc7e5a1",
+    "Type": "Medium",
+    "ID": "4552"
+  },
+  "translation": {
+    "Name": "California Mall Counter #2"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "DeadzoneWeapons",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Deadzone/DeadzoneWeapons/DeadzoneWeapons.dat",
+  "data": {
+    "GUID": "56572403e734434d99d7d011c8399f49",
+    "Type": "Spawn",
+    "ID": "51137",
+    "Tables": [
+      {
+        "Guid": "662ea163263d4f01a9bc41283e3a97b9",
+        "Weight": "2"
+      },
+      {
+        "Guid": "1d54bb1bcf0647fc92015c5ff04c4e59",
+        "Weight": "2"
+      },
+      {
+        "Guid": "13686590317e4873a99962a18fe8737e",
+        "Weight": "2"
+      },
+      {
+        "Guid": "46c6db37785d4cd19ee70a21de7afa1a",
+        "Weight": "2"
+      },
+      {
+        "Guid": "6242203f124f44c19d42a866fbede88a",
+        "Weight": "2"
+      },
+      {
+        "Guid": "e3dd91edb4de411ca4386689357fa060",
+        "Weight": "2"
+      },
+      {
+        "Guid": "17e9b41c0d0f4bb498bd770b11f201c0",
+        "Weight": "1"
+      },
+      {
+        "Guid": "67df59875b9d4993b77d545c4d2022b9",
+        "Weight": "1"
+      },
+      {
+        "Guid": "df2b41f51ad94ec69948619b8d5f0e3b",
+        "Weight": "1"
+      },
+      {
+        "Guid": "0995731f2adb4152bf0153b1801cf853",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

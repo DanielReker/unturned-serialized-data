@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Edward_Comp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Edward/PBS_Edward_Comp/Asset.dat",
+  "data": {
+    "GUID": "7cd6b9a1c94d41c799ca1507ec0bf5f6",
+    "Type": "Dialogue",
+    "ID": "52483",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Time to put this to the test, just a moment..."
+  }
+}

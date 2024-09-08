@@ -1,0 +1,12 @@
+{
+  "name": "M1Tank body",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/M1Tank body/M1Tank body.dat",
+  "data": {
+    "GUID": "e5798550c576492388a4fc82ffe06302",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS M1Tank body"
+  }
+}

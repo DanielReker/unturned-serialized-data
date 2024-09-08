@@ -1,0 +1,18 @@
+{
+  "name": "Metro_AreaC_Circuit_Fixed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_AreaC_Circuit_Fixed/Metro_AreaC_Circuit_Fixed.dat",
+  "data": {
+    "GUID": "01e379824da4430eaa35e1c704251846",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "58149",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57143",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Metro AreaC Circuit Fixed #1"
+  }
+}

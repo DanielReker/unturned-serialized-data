@@ -1,0 +1,38 @@
+{
+  "name": "APG",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/APG/APG.dat",
+  "data": {
+    "GUID": "71660a4c14ab47d5b7d8ad1bd6e74573",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "ID": "51045",
+    "Explosion": "51013",
+    "Explosive": "",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0",
+    "Projectile_Damage_Multiplier": "0.9",
+    "Amount": "1",
+    "Calibers": "1",
+    "Caliber_0": "20",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "3",
+    "Blueprint_0_Supply_0_ID": "51307",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "51018",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Supply_2_ID": "51300",
+    "Blueprint_0_Supply_2_Amount": "1",
+    "Blueprint_0_Tool": "51056",
+    "Blueprint_0_Tool_Critical": "",
+    "Blueprint_0_Product": "51045",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "27",
+    "Use_Auto_Stat_Descriptions": "false"
+  },
+  "translation": {
+    "Name": "AP Grenade Round",
+    "Description": "Impact anti infantry grenade round, perfect for killing the undead and people!<br><br>Explosion Radius: 12 m<br>Player Damage: 90<br>Zombie Damage: 180<br>Animal Damage: 180<br>Barricade Damage: 100<br>Structure Damage: 100<br>Vehicle Damage: 0<br>Resource Damage: 0<br>Object Damage: 100"
+  }
+}

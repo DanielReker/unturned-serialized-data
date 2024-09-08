@@ -1,0 +1,13 @@
+{
+  "name": "Exterminators_High_Horde",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Exterminators_High_Horde/Exterminators_High_Horde.dat",
+  "data": {
+    "GUID": "9b3d1f7600ce49b984fed7430c485ed1",
+    "Type": "Spawn",
+    "ID": "5074",
+    "Tables": "1",
+    "Table_0_Asset_ID": "1194",
+    "Table_0_Weight": "15"
+  },
+  "translation": null
+}

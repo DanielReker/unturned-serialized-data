@@ -1,0 +1,13 @@
+{
+  "name": "Sedan_Black",
+  "path": "Bundles/Objects/Large/Vehicles/Sedan_Black/Sedan_Black.dat",
+  "data": {
+    "GUID": "3f51b44ce86948818ce51a52d9754122",
+    "Type": "Large",
+    "ID": "161",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Black Sedan"
+  }
+}

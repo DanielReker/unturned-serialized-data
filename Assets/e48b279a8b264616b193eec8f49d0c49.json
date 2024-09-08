@@ -1,0 +1,15 @@
+{
+  "name": "Frost_Fishing_Wood",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Spawns/Spawns/Frost_Fishing_Wood/Frost_Fishing_Wood.dat",
+  "data": {
+    "GUID": "e48b279a8b264616b193eec8f49d0c49",
+    "Type": "Spawn",
+    "ID": "36090",
+    "Tables": "2",
+    "Table_0_Spawn_ID": "36087",
+    "Table_0_Weight": "50",
+    "Table_1_Spawn_ID": "36088",
+    "Table_1_Weight": "50"
+  },
+  "translation": null
+}

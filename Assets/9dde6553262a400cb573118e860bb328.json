@@ -1,0 +1,28 @@
+{
+  "name": "MechanicWeapons",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Mechanic/MechanicWeapons/MechanicWeapons.dat",
+  "data": {
+    "GUID": "9dde6553262a400cb573118e860bb328",
+    "Type": "Spawn",
+    "ID": "51058",
+    "Tables": [
+      {
+        "Guid": "98c2b75957e346cd82a846316a0b42f0",
+        "Weight": "5"
+      },
+      {
+        "Guid": "2cc16ddc70704fb3ac4a7df668c67724",
+        "Weight": "5"
+      },
+      {
+        "Guid": "178dd3e2974c4ca3aa72e72d466cfa7b",
+        "Weight": "5"
+      },
+      {
+        "Guid": "398e4c25793a4659a57fde2e1d503caa",
+        "Weight": "3"
+      }
+    ]
+  },
+  "translation": null
+}

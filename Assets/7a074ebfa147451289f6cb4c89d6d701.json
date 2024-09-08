@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Deadzone_Gun",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Kuwait_Deadzone_Gun/Kuwait_Deadzone_Gun.dat",
+  "data": {
+    "GUID": "7a074ebfa147451289f6cb4c89d6d701",
+    "Type": "Spawn",
+    "ID": "7262",
+    "Tables": "1",
+    "Table_0_Asset_ID": "5035",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

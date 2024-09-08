@@ -1,0 +1,17 @@
+{
+  "name": "Flag_KW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Flag_KW/Flag_KW.dat",
+  "data": {
+    "GUID": "2191aabb0e094ac2b7d84cbf0cb42d69",
+    "Type": "Large",
+    "ID": "51000",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "50",
+    "Interactability_Effect": "38",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Flag KW"
+  }
+}

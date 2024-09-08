@@ -1,0 +1,14 @@
+{
+  "name": "26021KLSA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26010KLSD/26020KLSAD/26021KLSA/Asset.dat",
+  "data": {
+    "GUID": "3704dcded1a24a6081cce4b09d137b88",
+    "Type": "Dialogue",
+    "ID": "26021",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks boss. Leav'n soon."
+  }
+}

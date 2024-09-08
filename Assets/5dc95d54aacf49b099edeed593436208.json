@@ -1,0 +1,15 @@
+{
+  "name": "PS_Deadzone_Canteen",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Deadzone_Canteen/PS_Deadzone_Canteen.dat",
+  "data": {
+    "GUID": "5dc95d54aacf49b099edeed593436208",
+    "Type": "Spawn",
+    "ID": "59191",
+    "Tables": "2",
+    "Table_0_Asset_ID": "59662",
+    "Table_0_Weight": "5",
+    "Table_1_Asset_ID": "59056",
+    "Table_1_Weight": "1"
+  },
+  "translation": null
+}

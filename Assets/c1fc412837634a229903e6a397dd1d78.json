@@ -1,0 +1,35 @@
+{
+  "name": "Metro_Grenade",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Ranger/Metro_Grenade/Metro_Grenade.dat",
+  "data": {
+    "GUID": "c1fc412837634a229903e6a397dd1d78",
+    "Type": "Throwable",
+    "Rarity": "Rare",
+    "Useable": "Throwable",
+    "ID": "57065",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Player_Damage": "185",
+    "Zombie_Damage": "1000",
+    "Animal_Damage": "600",
+    "Barricade_Damage": "50",
+    "Structure_Damage": "50",
+    "Vehicle_Damage": "800",
+    "Resource_Damage": "1000",
+    "Object_Damage": "500",
+    "Range": "14",
+    "Explosion": "34",
+    "Explosive": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supply_0_ID": "57065",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Grenade",
+    "Description": "<color=#64c819>185</color> Player Damage                                                  <color=#64c819>1000</color> Zombie Damage                                                    <color=#64c819>800</color> Vehicle Damage                                              <color=#64c819>14 Meter</color> Explosion Radius "
+  }
+}

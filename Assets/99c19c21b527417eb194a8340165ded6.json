@@ -1,0 +1,24 @@
+{
+  "name": "WS_Kitchen_Table",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/WS_Kitchen_Table/WS_Kitchen_Table.dat",
+  "data": {
+    "GUID": "99c19c21b527417eb194a8340165ded6",
+    "Type": "Spawn",
+    "ID": "25408",
+    "Tables": [
+      {
+        "LegacySpawnId": "25405",
+        "Weight": "250"
+      },
+      {
+        "LegacySpawnId": "25407",
+        "Weight": "150"
+      },
+      {
+        "LegacySpawnId": "25446",
+        "Weight": "35"
+      }
+    ]
+  },
+  "translation": null
+}

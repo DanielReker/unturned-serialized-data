@@ -1,0 +1,30 @@
+{
+  "name": "CA_Ghillie_Hood",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Hats/CA_Ghillie_Hood/CA_Ghillie_Hood.dat",
+  "data": {
+    "GUID": "0fa47767934a4c8e896f2ad820ec16a1",
+    "Type": "Hat",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "4004",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "4004",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "67",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "27"
+  },
+  "translation": {
+    "Name": "Ghillie Hood",
+    "Description": "Military foliage stealth hood."
+  }
+}

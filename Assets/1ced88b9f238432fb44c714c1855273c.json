@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Spikes_Birch",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Spikes_Birch/Bar_Spikes_Birch.dat",
+  "data": {
+    "GUID": "1ced88b9f238432fb44c714c1855273c",
+    "Type": "Effect",
+    "ID": "25414"
+  },
+  "translation": null
+}

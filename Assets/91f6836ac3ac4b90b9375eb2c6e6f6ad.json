@@ -1,0 +1,14 @@
+{
+  "name": "KiraSkull_03_Accept",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Kira/Kira_02/KiraSkull_03_Accept/Asset.dat",
+  "data": {
+    "GUID": "91f6836ac3ac4b90b9375eb2c6e6f6ad",
+    "Type": "Dialogue",
+    "ID": "24491",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good luck and be safe!"
+  }
+}

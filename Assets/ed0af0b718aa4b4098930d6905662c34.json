@@ -1,0 +1,12 @@
+{
+  "name": "Bridge_02 legless",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Bridge_02 legless/Bridge_02 legless.dat",
+  "data": {
+    "GUID": "ed0af0b718aa4b4098930d6905662c34",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Bridge City legless"
+  }
+}

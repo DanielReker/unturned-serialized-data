@@ -1,0 +1,2355 @@
+[
+  {
+    "name": "Civ_00",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25438,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26137
+          },
+          {
+            "item": 26142
+          },
+          {
+            "item": 26144
+          },
+          {
+            "item": 26146
+          },
+          {
+            "item": 26148
+          },
+          {
+            "item": 26150
+          },
+          {
+            "item": 26152
+          },
+          {
+            "item": 26154
+          },
+          {
+            "item": 26140
+          },
+          {
+            "item": 26158
+          },
+          {
+            "item": 26161
+          },
+          {
+            "item": 26163
+          },
+          {
+            "item": 26165
+          },
+          {
+            "item": 26167
+          },
+          {
+            "item": 26169
+          },
+          {
+            "item": 26171
+          },
+          {
+            "item": 26173
+          },
+          {
+            "item": 26175
+          },
+          {
+            "item": 26177
+          },
+          {
+            "item": 26180
+          },
+          {
+            "item": 26182
+          },
+          {
+            "item": 26184
+          },
+          {
+            "item": 26186
+          },
+          {
+            "item": 26188
+          },
+          {
+            "item": 26190
+          },
+          {
+            "item": 26192
+          },
+          {
+            "item": 26194
+          },
+          {
+            "item": 26196
+          },
+          {
+            "item": 26199
+          },
+          {
+            "item": 26201
+          },
+          {
+            "item": 26203
+          },
+          {
+            "item": 26205
+          },
+          {
+            "item": 26207
+          },
+          {
+            "item": 26209
+          },
+          {
+            "item": 26211
+          },
+          {
+            "item": 26213
+          },
+          {
+            "item": 26217
+          },
+          {
+            "item": 26220
+          },
+          {
+            "item": 26222
+          },
+          {
+            "item": 26224
+          },
+          {
+            "item": 26228
+          },
+          {
+            "item": 26230
+          },
+          {
+            "item": 26232
+          },
+          {
+            "item": 26234
+          },
+          {
+            "item": 26255
+          },
+          {
+            "item": 26258
+          },
+          {
+            "item": 26260
+          },
+          {
+            "item": 26262
+          },
+          {
+            "item": 26266
+          },
+          {
+            "item": 26268
+          },
+          {
+            "item": 26270
+          },
+          {
+            "item": 26272
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26274
+          },
+          {
+            "item": 26277
+          },
+          {
+            "item": 26279
+          },
+          {
+            "item": 26281
+          },
+          {
+            "item": 26283
+          },
+          {
+            "item": 26285
+          },
+          {
+            "item": 26287
+          },
+          {
+            "item": 26289
+          },
+          {
+            "item": 26291
+          },
+          {
+            "item": 26293
+          },
+          {
+            "item": 26295
+          },
+          {
+            "item": 26297
+          },
+          {
+            "item": 26299
+          },
+          {
+            "item": 26301
+          },
+          {
+            "item": 26304
+          },
+          {
+            "item": 26306
+          },
+          {
+            "item": 26308
+          },
+          {
+            "item": 26310
+          },
+          {
+            "item": 26312
+          },
+          {
+            "item": 26314
+          },
+          {
+            "item": 26316
+          },
+          {
+            "item": 26318
+          },
+          {
+            "item": 26320
+          },
+          {
+            "item": 26322
+          },
+          {
+            "item": 26324
+          },
+          {
+            "item": 26326
+          },
+          {
+            "item": 26329
+          },
+          {
+            "item": 26332
+          },
+          {
+            "item": 26334
+          },
+          {
+            "item": 26336
+          },
+          {
+            "item": 26338
+          },
+          {
+            "item": 26340
+          },
+          {
+            "item": 26342
+          },
+          {
+            "item": 26344
+          },
+          {
+            "item": 26346
+          },
+          {
+            "item": 26348
+          },
+          {
+            "item": 26350
+          },
+          {
+            "item": 26352
+          },
+          {
+            "item": 26354
+          },
+          {
+            "item": 26356
+          },
+          {
+            "item": 26359
+          },
+          {
+            "item": 26361
+          },
+          {
+            "item": 26363
+          },
+          {
+            "item": 26365
+          },
+          {
+            "item": 26367
+          },
+          {
+            "item": 26369
+          },
+          {
+            "item": 26371
+          },
+          {
+            "item": 26373
+          },
+          {
+            "item": 26375
+          },
+          {
+            "item": 26377
+          },
+          {
+            "item": 26379
+          },
+          {
+            "item": 26381
+          },
+          {
+            "item": 26385
+          },
+          {
+            "item": 26387
+          }
+        ]
+      },
+      {
+        "chance": 0.08,
+        "table": [
+          {
+            "item": 26677
+          },
+          {
+            "item": 26678
+          },
+          {
+            "item": 26680
+          },
+          {
+            "item": 26681
+          },
+          {
+            "item": 26683
+          },
+          {
+            "item": 26684
+          },
+          {
+            "item": 26685
+          },
+          {
+            "item": 26686
+          },
+          {
+            "item": 26687
+          },
+          {
+            "item": 26688
+          },
+          {
+            "item": 26689
+          },
+          {
+            "item": 26690
+          },
+          {
+            "item": 26691
+          },
+          {
+            "item": 26693
+          },
+          {
+            "item": 26694
+          },
+          {
+            "item": 26695
+          },
+          {
+            "item": 26696
+          },
+          {
+            "item": 26697
+          },
+          {
+            "item": 26698
+          },
+          {
+            "item": 26699
+          },
+          {
+            "item": 26700
+          },
+          {
+            "item": 26701
+          },
+          {
+            "item": 26703
+          },
+          {
+            "item": 26707
+          },
+          {
+            "item": 26709
+          },
+          {
+            "item": 26710
+          },
+          {
+            "item": 26711
+          },
+          {
+            "item": 26712
+          },
+          {
+            "item": 26713
+          },
+          {
+            "item": 26714
+          },
+          {
+            "item": 26715
+          },
+          {
+            "item": 26716
+          },
+          {
+            "item": 26717
+          },
+          {
+            "item": 26718
+          },
+          {
+            "item": 26720
+          },
+          {
+            "item": 26722
+          },
+          {
+            "item": 26723
+          },
+          {
+            "item": 26724
+          },
+          {
+            "item": 26725
+          },
+          {
+            "item": 26726
+          },
+          {
+            "item": 26727
+          },
+          {
+            "item": 26728
+          },
+          {
+            "item": 26729
+          }
+        ]
+      },
+      {
+        "chance": 0.0133333458,
+        "table": [
+          {
+            "item": 26751
+          },
+          {
+            "item": 26752
+          },
+          {
+            "item": 26753
+          },
+          {
+            "item": 26754
+          },
+          {
+            "item": 26755
+          },
+          {
+            "item": 26756
+          },
+          {
+            "item": 26762
+          },
+          {
+            "item": 26769
+          },
+          {
+            "item": 26771
+          },
+          {
+            "item": 26772
+          },
+          {
+            "item": 26773
+          },
+          {
+            "item": 26774
+          },
+          {
+            "item": 26775
+          },
+          {
+            "item": 26776
+          },
+          {
+            "item": 26777
+          },
+          {
+            "item": 26778
+          },
+          {
+            "item": 26779
+          },
+          {
+            "item": 26804
+          },
+          {
+            "item": 26806
+          },
+          {
+            "item": 26807
+          },
+          {
+            "item": 26808
+          },
+          {
+            "item": 26809
+          },
+          {
+            "item": 26810
+          },
+          {
+            "item": 26811
+          },
+          {
+            "item": 26812
+          },
+          {
+            "item": 26813
+          },
+          {
+            "item": 26814
+          },
+          {
+            "item": 26815
+          },
+          {
+            "item": 26816
+          },
+          {
+            "item": 26817
+          },
+          {
+            "item": 26818
+          },
+          {
+            "item": 26820
+          },
+          {
+            "item": 26821
+          },
+          {
+            "item": 26822
+          },
+          {
+            "item": 26823
+          },
+          {
+            "item": 26824
+          },
+          {
+            "item": 26825
+          },
+          {
+            "item": 26826
+          },
+          {
+            "item": 26827
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.305882365,
+      "g": 0.305882365,
+      "b": 1.0
+    },
+    "tableUniqueId": 1,
+    "difficultyGUID": "093fb15c8e604c09aa55d9972c9b8cf6",
+    "difficulty": {
+      "GUID": "093fb15c8e604c09aa55d9972c9b8cf6",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Civ_Pink",
+    "isMega": false,
+    "health": 150,
+    "damage": 20,
+    "lootIndex": 0,
+    "lootID": 25438,
+    "xp": 6,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26264
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26293
+          }
+        ]
+      },
+      {
+        "chance": 0.0,
+        "table": []
+      },
+      {
+        "chance": 0.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.6784314
+    },
+    "tableUniqueId": 2,
+    "difficultyGUID": "093fb15c8e604c09aa55d9972c9b8cf6",
+    "difficulty": {
+      "GUID": "093fb15c8e604c09aa55d9972c9b8cf6",
+      "isValid": true,
+      "isNull": false
+    }
+  },
+  {
+    "name": "Civ_Suit",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25358,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26634
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26636
+          }
+        ]
+      },
+      {
+        "chance": 0.04,
+        "table": [
+          {
+            "item": 26680
+          },
+          {
+            "item": 26677
+          },
+          {
+            "item": 26678
+          }
+        ]
+      },
+      {
+        "chance": 0.2,
+        "table": [
+          {
+            "item": 26755
+          },
+          {
+            "item": 26756
+          },
+          {
+            "item": 26829
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.392156869,
+      "b": 0.392156869
+    },
+    "tableUniqueId": 3,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_SW",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25421,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26610
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26612
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26724
+          },
+          {
+            "item": 26726
+          }
+        ]
+      },
+      {
+        "chance": 0.04,
+        "table": [
+          {
+            "item": 26755
+          },
+          {
+            "item": 26756
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.4862745,
+      "g": 0.0,
+      "b": 0.403921574
+    },
+    "tableUniqueId": 4,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_Police",
+    "isMega": false,
+    "health": 200,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25431,
+    "xp": 6,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26642
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26293
+          },
+          {
+            "item": 26295
+          },
+          {
+            "item": 26297
+          },
+          {
+            "item": 26299
+          }
+        ]
+      },
+      {
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 26704
+          }
+        ]
+      },
+      {
+        "chance": 0.64,
+        "table": [
+          {
+            "item": 26802
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.4862745
+    },
+    "tableUniqueId": 5,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_RCMP",
+    "isMega": false,
+    "health": 200,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25441,
+    "xp": 6,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26606
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26608
+          }
+        ]
+      },
+      {
+        "chance": 0.74666667,
+        "table": [
+          {
+            "item": 26705
+          }
+        ]
+      },
+      {
+        "chance": 0.04,
+        "table": [
+          {
+            "item": 26755
+          },
+          {
+            "item": 26756
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.392156869
+    },
+    "tableUniqueId": 6,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_Fire",
+    "isMega": false,
+    "health": 250,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25428,
+    "xp": 9,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26618
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26620
+          }
+        ]
+      },
+      {
+        "chance": 0.8466667,
+        "table": [
+          {
+            "item": 26735
+          }
+        ]
+      },
+      {
+        "chance": 0.04,
+        "table": [
+          {
+            "item": 26755
+          },
+          {
+            "item": 26756
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.6509804,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "tableUniqueId": 7,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_Car",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25427,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26626
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26628
+          }
+        ]
+      },
+      {
+        "chance": 0.24666667,
+        "table": [
+          {
+            "item": 26722
+          }
+        ]
+      },
+      {
+        "chance": 0.04,
+        "table": [
+          {
+            "item": 26755
+          },
+          {
+            "item": 26756
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.345098048,
+      "b": 0.0
+    },
+    "tableUniqueId": 8,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_Farm",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25442,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26270
+          },
+          {
+            "item": 26211
+          },
+          {
+            "item": 26232
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26604
+          }
+        ]
+      },
+      {
+        "chance": 0.7,
+        "table": [
+          {
+            "item": 26719
+          }
+        ]
+      },
+      {
+        "chance": 0.04,
+        "table": [
+          {
+            "item": 26755
+          },
+          {
+            "item": 26756
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.3254902,
+      "g": 1.0,
+      "b": 0.3529412
+    },
+    "tableUniqueId": 9,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_Grocer",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25438,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26614
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26616
+          }
+        ]
+      },
+      {
+        "chance": 0.38,
+        "table": [
+          {
+            "item": 26723
+          }
+        ]
+      },
+      {
+        "chance": 0.04,
+        "table": [
+          {
+            "item": 26755
+          },
+          {
+            "item": 26756
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.509803951,
+      "b": 0.545098066
+    },
+    "tableUniqueId": 10,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_Cinema",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25438,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26638
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26640
+          }
+        ]
+      },
+      {
+        "chance": 0.686666667,
+        "table": [
+          {
+            "item": 26720
+          },
+          {
+            "item": 26727
+          }
+        ]
+      },
+      {
+        "chance": 0.04,
+        "table": [
+          {
+            "item": 26755
+          },
+          {
+            "item": 26756
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.309803933,
+      "b": 0.239215687
+    },
+    "tableUniqueId": 11,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_Med",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25433,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26622
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26624
+          }
+        ]
+      },
+      {
+        "chance": 0.12,
+        "table": [
+          {
+            "item": 26736
+          }
+        ]
+      },
+      {
+        "chance": 0.06666668,
+        "table": [
+          {
+            "item": 26755
+          },
+          {
+            "item": 26756
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.6313726,
+      "g": 0.0,
+      "b": 0.6392157
+    },
+    "tableUniqueId": 12,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_Chef",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25408,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26630
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26632
+          }
+        ]
+      },
+      {
+        "chance": 0.32,
+        "table": [
+          {
+            "item": 26737
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.784313738,
+      "g": 0.784313738,
+      "b": 0.784313738
+    },
+    "tableUniqueId": 13,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_Prison",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25443,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26644
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26646
+          }
+        ]
+      },
+      {
+        "chance": 0.2,
+        "table": [
+          {
+            "item": 26691
+          },
+          {
+            "item": 26695
+          }
+        ]
+      },
+      {
+        "chance": 0.04,
+        "table": [
+          {
+            "item": 26755
+          },
+          {
+            "item": 26756
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.65882355,
+      "g": 0.3372549,
+      "b": 0.0
+    },
+    "tableUniqueId": 14,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_Construction",
+    "isMega": false,
+    "health": 200,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 25432,
+    "xp": 6,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26648
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26293
+          },
+          {
+            "item": 26295
+          },
+          {
+            "item": 26297
+          },
+          {
+            "item": 26299
+          }
+        ]
+      },
+      {
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 26676
+          }
+        ]
+      },
+      {
+        "chance": 0.04,
+        "table": [
+          {
+            "item": 26748
+          },
+          {
+            "item": 26755
+          },
+          {
+            "item": 26756
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.6784314,
+      "g": 1.0,
+      "b": 0.6666667
+    },
+    "tableUniqueId": 15,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_Lab",
+    "isMega": false,
+    "health": 200,
+    "damage": 15,
+    "lootIndex": 20,
+    "lootID": 25439,
+    "xp": 10,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26217
+          },
+          {
+            "item": 26220
+          },
+          {
+            "item": 26222
+          },
+          {
+            "item": 26224
+          },
+          {
+            "item": 26226
+          },
+          {
+            "item": 26228
+          },
+          {
+            "item": 26230
+          },
+          {
+            "item": 26232
+          },
+          {
+            "item": 26234
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26602
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 26755
+          },
+          {
+            "item": 26756
+          },
+          {
+            "item": 26830
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.3254902,
+      "b": 0.0
+    },
+    "tableUniqueId": 16,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Business_Bio",
+    "isMega": false,
+    "health": 400,
+    "damage": 20,
+    "lootIndex": 0,
+    "lootID": 25440,
+    "xp": 15,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26657
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26658
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 0.599999964,
+        "table": [
+          {
+            "item": 26767
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.5176471,
+      "b": 0.0
+    },
+    "tableUniqueId": 17,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "B_1_1",
+    "isMega": false,
+    "health": 1500,
+    "damage": 33,
+    "lootIndex": 0,
+    "lootID": 25452,
+    "xp": 0,
+    "regen": 0.2,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 27001
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 27005
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.6431373,
+      "g": 0.3764706,
+      "b": 0.0
+    },
+    "tableUniqueId": 18,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "B_2_1",
+    "isMega": false,
+    "health": 1800,
+    "damage": 33,
+    "lootIndex": 0,
+    "lootID": 25452,
+    "xp": 0,
+    "regen": 0.2,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 27002
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 27006
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.3019608,
+      "b": 0.0
+    },
+    "tableUniqueId": 19,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "B_3_1",
+    "isMega": false,
+    "health": 1900,
+    "damage": 33,
+    "lootIndex": 0,
+    "lootID": 25452,
+    "xp": 0,
+    "regen": 0.2,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 27003
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 27007
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.235294119,
+      "g": 0.117647059,
+      "b": 0.3137255
+    },
+    "tableUniqueId": 20,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "B_4_1",
+    "isMega": false,
+    "health": 2500,
+    "damage": 33,
+    "lootIndex": 0,
+    "lootID": 25452,
+    "xp": 0,
+    "regen": 0.2,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 27004
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 27008
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "tableUniqueId": 21,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Mega_Scrapyard",
+    "isMega": true,
+    "health": 2000,
+    "damage": 33,
+    "lootIndex": 0,
+    "lootID": 25468,
+    "xp": 80,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26628
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 22,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Mega_Farm",
+    "isMega": true,
+    "health": 2000,
+    "damage": 33,
+    "lootIndex": 0,
+    "lootID": 25467,
+    "xp": 80,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26604
+          }
+        ]
+      },
+      {
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 26719
+          }
+        ]
+      },
+      {
+        "chance": 0.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 23,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Mega_Pine",
+    "isMega": true,
+    "health": 2000,
+    "damage": 33,
+    "lootIndex": 8,
+    "lootID": 25469,
+    "xp": 80,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26620
+          }
+        ]
+      },
+      {
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 26735
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 24,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Mega_Mansion",
+    "isMega": true,
+    "health": 2000,
+    "damage": 33,
+    "lootIndex": 0,
+    "lootID": 25471,
+    "xp": 80,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26636
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 26829
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 25,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Mega_Lumberyard",
+    "isMega": true,
+    "health": 2000,
+    "damage": 33,
+    "lootIndex": 0,
+    "lootID": 25470,
+    "xp": 80,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26295
+          },
+          {
+            "item": 26293
+          },
+          {
+            "item": 26297
+          },
+          {
+            "item": 26299
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26676
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 26,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Civ_Camp",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 33,
+    "lootID": 25444,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26196
+          },
+          {
+            "item": 26199
+          },
+          {
+            "item": 26201
+          },
+          {
+            "item": 26203
+          },
+          {
+            "item": 26205
+          },
+          {
+            "item": 26207
+          },
+          {
+            "item": 26209
+          },
+          {
+            "item": 26211
+          },
+          {
+            "item": 26213
+          },
+          {
+            "item": 26177
+          },
+          {
+            "item": 26180
+          },
+          {
+            "item": 26182
+          },
+          {
+            "item": 26184
+          },
+          {
+            "item": 26186
+          },
+          {
+            "item": 26188
+          },
+          {
+            "item": 26190
+          },
+          {
+            "item": 26192
+          },
+          {
+            "item": 26194
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26293
+          },
+          {
+            "item": 26295
+          },
+          {
+            "item": 26297
+          },
+          {
+            "item": 26299
+          }
+        ]
+      },
+      {
+        "chance": 0.50000006,
+        "table": [
+          {
+            "item": 26681
+          },
+          {
+            "item": 26683
+          },
+          {
+            "item": 26684
+          },
+          {
+            "item": 26685
+          },
+          {
+            "item": 26686
+          },
+          {
+            "item": 26687
+          },
+          {
+            "item": 26688
+          },
+          {
+            "item": 26689
+          },
+          {
+            "item": 26690
+          },
+          {
+            "item": 26691
+          },
+          {
+            "item": 26693
+          },
+          {
+            "item": 26694
+          },
+          {
+            "item": 26695
+          },
+          {
+            "item": 26696
+          },
+          {
+            "item": 26697
+          },
+          {
+            "item": 26698
+          },
+          {
+            "item": 26699
+          },
+          {
+            "item": 26700
+          }
+        ]
+      },
+      {
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 26123
+          },
+          {
+            "item": 26125
+          },
+          {
+            "item": 26126
+          },
+          {
+            "item": 26127
+          },
+          {
+            "item": 26129
+          },
+          {
+            "item": 26130
+          },
+          {
+            "item": 26131
+          },
+          {
+            "item": 26133
+          },
+          {
+            "item": 26134
+          },
+          {
+            "item": 26837
+          },
+          {
+            "item": 26838
+          },
+          {
+            "item": 26839
+          },
+          {
+            "item": 26840
+          },
+          {
+            "item": 26841
+          },
+          {
+            "item": 26842
+          },
+          {
+            "item": 26843
+          },
+          {
+            "item": 26844
+          },
+          {
+            "item": 26845
+          },
+          {
+            "item": 26855
+          },
+          {
+            "item": 26856
+          },
+          {
+            "item": 26857
+          },
+          {
+            "item": 26858
+          },
+          {
+            "item": 26859
+          },
+          {
+            "item": 26860
+          },
+          {
+            "item": 26861
+          },
+          {
+            "item": 26862
+          },
+          {
+            "item": 26863
+          },
+          {
+            "item": 26864
+          },
+          {
+            "item": 26865
+          },
+          {
+            "item": 26866
+          },
+          {
+            "item": 26867
+          },
+          {
+            "item": 26868
+          },
+          {
+            "item": 26869
+          },
+          {
+            "item": 26870
+          },
+          {
+            "item": 26871
+          },
+          {
+            "item": 26872
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.356862754,
+      "g": 0.6117647,
+      "b": 0.0
+    },
+    "tableUniqueId": 27,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Ninja",
+    "isMega": false,
+    "health": 150,
+    "damage": 25,
+    "lootIndex": 43,
+    "lootID": 0,
+    "xp": 10,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26744
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26745
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 26793
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.345098048,
+      "g": 0.2,
+      "b": 0.223529413
+    },
+    "tableUniqueId": 28,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  }
+]

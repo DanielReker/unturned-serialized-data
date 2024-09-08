@@ -1,0 +1,13 @@
+{
+  "name": "PS_Bunker_Pipe_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Bunker_Pipe_4/PS_Bunker_Pipe_4.dat",
+  "data": {
+    "GUID": "2b4097e2b0014d8c9b4dabfc469ca00f",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59647"
+  },
+  "translation": {
+    "Name": "PS Bunker Pipe #5"
+  }
+}

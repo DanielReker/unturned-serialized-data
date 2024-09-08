@@ -1,0 +1,13 @@
+{
+  "name": "Rio_House_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_House_4/Rio_House_4.dat",
+  "data": {
+    "GUID": "4447bddfeacb473691d307a45a0ae75f",
+    "Type": "Large",
+    "ID": "6009",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio House #4"
+  }
+}

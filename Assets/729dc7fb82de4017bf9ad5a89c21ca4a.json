@@ -1,0 +1,24 @@
+{
+  "name": "PS_Snow_0_Quest_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/AridSnow/SnowDialogue/PS_Snow_0_Dialogue/PS_Snow_0_Quest_0/Asset.dat",
+  "data": {
+    "GUID": "729dc7fb82de4017bf9ad5a89c21ca4a",
+    "Type": "Quest",
+    "ID": "59385",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_ID": "59389",
+    "Condition_0_Zombie": "None",
+    "Condition_0_Value": "1000",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "59664",
+    "Reward_0_Amount": "1"
+  },
+  "translation": {
+    "Name": "Qualifier",
+    "Description": "Defeat them.",
+    "Condition_0": "Defeat {0}/{1} Zombies."
+  }
+}

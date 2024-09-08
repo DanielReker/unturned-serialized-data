@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Boat_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Boat_1/Metro_Boat_1.dat",
+  "data": {
+    "GUID": "ff333e7a4abd44f59a802af3b534fcbb",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57262",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Boat #2"
+  }
+}

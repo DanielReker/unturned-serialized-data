@@ -1,0 +1,22 @@
+{
+  "name": "Metro_Dye_Red",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_Dye_Red/Metro_Dye_Red.dat",
+  "data": {
+    "GUID": "8cdfd706390644f080bd196223a6c573",
+    "Type": "Water",
+    "Useable": "Consumeable",
+    "ID": "57067",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Energy": "50",
+    "Food": "10",
+    "Water": "10",
+    "Vision": "20",
+    "Food_Constrains_Water": ""
+  },
+  "translation": {
+    "Name": "Red Dye",
+    "Description": "<color=#98272f>Red.</color> Used for changing the color of certain items. Can be combined with other dyes to create new colors. Don't consume."
+  }
+}

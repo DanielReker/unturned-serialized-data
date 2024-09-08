@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Deer_Sign_Broken",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Deer_Sign_Broken/Buak_Deer_Sign_Broken.dat",
+  "data": {
+    "GUID": "d973b28ea10f4419a96ccdef474231f4",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "600",
+    "Rubble_Health": "10",
+    "Rubble_Effect": "25331",
+    "Rubble_Reward_ID": "25307"
+  },
+  "translation": {
+    "Name": "Buak_Deer_Sign_Broken"
+  }
+}

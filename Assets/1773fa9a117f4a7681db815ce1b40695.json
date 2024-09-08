@@ -1,0 +1,14 @@
+{
+  "name": "PS_Tire_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Tire_7/PS_Tire_7.dat",
+  "data": {
+    "GUID": "1773fa9a117f4a7681db815ce1b40695",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59836",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "PS Wheel #8 [Jeep]"
+  }
+}

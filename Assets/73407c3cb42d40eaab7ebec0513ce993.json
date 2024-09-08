@@ -1,0 +1,34 @@
+{
+  "name": "Vengeance_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/02/Vengeance_02/Asset.dat",
+  "data": {
+    "GUID": "73407c3cb42d40eaab7ebec0513ce993",
+    "Type": "NPC",
+    "ID": "25300",
+    "Mask": "86b86d782f5840148cbd84f08e90f646",
+    "Shirt": "827ee5a361f1421488d7a975a717ce4b",
+    "Has_Christmas_Outfit": "True",
+    "Christmas_Shirt": "70639e1197b247108d2c31314f68a5f5",
+    "Christmas_Mask": "86b86d782f5840148cbd84f08e90f646",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Shirt": "80c03cdbe7944ce8ac33fe6ce889a6f3",
+    "Halloween_Mask": "86b86d782f5840148cbd84f08e90f646",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "25",
+    "Beard": "11",
+    "Hair": "18",
+    "Color_Skin": "#332C25",
+    "Color_Hair": "#161616",
+    "Dialogue": "29f16787c5fb4f9a9d951560cf0b3a2f",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24787",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Vengeance_02",
+    "Character": "<color=legendary>Vengeance</color>"
+  }
+}

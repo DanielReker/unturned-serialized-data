@@ -1,0 +1,20 @@
+{
+  "name": "Mechanic_Angela",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IDF/Mechanic_Angela/Asset.dat",
+  "data": {
+    "GUID": "2eb4c5fc77b54638b722dfd5309e9222",
+    "Type": "NPC",
+    "ID": "15028",
+    "Shirt": "405",
+    "Pants": "406",
+    "Face": "29",
+    "Hair": "14",
+    "Color_Skin": "#f9f1d4",
+    "Color_Hair": "#26210e",
+    "Dialogue": "15174"
+  },
+  "translation": {
+    "Name": "IDF Mechanic Angela",
+    "Character": "Angela"
+  }
+}

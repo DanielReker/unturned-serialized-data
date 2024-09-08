@@ -1,0 +1,12 @@
+{
+  "name": "CA_Chandelier_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Chandelier_3/CA_Chandelier_3.dat",
+  "data": {
+    "GUID": "93f1994c7c1349218408f011ea5cdc35",
+    "Type": "Medium",
+    "ID": "4513"
+  },
+  "translation": {
+    "Name": "California Chandelier #4"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Carpat_Lastman_Hat",
+  "path": "Bundles/Items/Hats/Carpat_Lastman_Hat/Carpat_Lastman_Hat.dat",
+  "data": {
+    "GUID": "e5cbc1ce10a343f49488d9be952d189e",
+    "Type": "Hat",
+    "ID": "872",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Beard": "",
+    "Hair": "",
+    "Pro": "",
+    "Ignore_NPOT": ""
+  },
+  "translation": null
+}

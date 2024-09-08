@@ -1,0 +1,17 @@
+{
+  "name": "PS_Bush_6_Halloween",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Resources/PS_Bush_6_Halloween/PS_Bush_6_Halloween.dat",
+  "data": {
+    "GUID": "aac295e654984972985b2b2d2f29ac56",
+    "Type": "Resource",
+    "Has_Clip_Prefab": "False",
+    "ID": "59064",
+    "Health": "10000",
+    "Radius": "3",
+    "Scale": "0.4",
+    "Explosion": "59025"
+  },
+  "translation": {
+    "Name": "PS Bush #7 [Hallowen Wide]"
+  }
+}

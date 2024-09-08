@@ -1,0 +1,38 @@
+{
+  "name": "PS_Halotech_Scope_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Sights/PS_Halotech_Scope_1/PS_Halotech_Scope_1.dat",
+  "data": {
+    "GUID": "fe86d009bc3f4883afe7b22f3b0d4b76",
+    "Type": "Sight",
+    "Rarity": "Epic",
+    "ID": "59654",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.165",
+    "Spread": "0.9",
+    "Zoom": "6",
+    "Calibers": "1",
+    "Caliber_0": "58904",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59654",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "59384",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Output_1_ID": "59653",
+    "Blueprint_0_Output_1_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Decraft Scope",
+    "Action_0_Tooltip": "Uncouple the magnifier."
+  },
+  "translation": {
+    "Name": "Halotech Scope Tan",
+    "Description": "<color=#FFC023>Rail mounted</color> 6x zoom scope."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Frost_Bar_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Edible/Frost_Bar_03/Frost_Bar_03.dat",
+  "data": {
+    "GUID": "3f3292ccf6bc496a9b89ab20c8f7c835",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "36435",
+    "Size_Z": "0.3",
+    "Use_Auto_Icon_Measurements": "False",
+    "Food": "20",
+    "Energy": "50",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "36360",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Coconut Bar",
+    "Description": "<color=#64c819>20</color> Food<br><color=#64c819>50</color> Energy"
+  }
+}

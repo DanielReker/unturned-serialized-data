@@ -1,0 +1,24 @@
+{
+  "name": "Peaks_Quarry_00_Collection",
+  "path": "Bundles/Assets/Landscapes/Foliage/Grass/Germany/Peaks_Quarry_00_Collection.asset",
+  "data": {
+    "GUID": "f3f9036c50f342c9be9b383e18fec9eb",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "e145629762c3442782d40a2fcd15e306"
+        },
+        "Weight": "0.5"
+      },
+      {
+        "Asset": {
+          "GUID": "f23febe76f9b4170a49bc7b170518eab"
+        },
+        "Weight": "0.005"
+      }
+    ]
+  },
+  "translation": null
+}

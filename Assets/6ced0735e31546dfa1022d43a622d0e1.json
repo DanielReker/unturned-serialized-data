@@ -1,0 +1,19 @@
+{
+  "name": "PS_Fishing_Proper",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Fishing_Proper/PS_Fishing_Proper.dat",
+  "data": {
+    "GUID": "6ced0735e31546dfa1022d43a622d0e1",
+    "Type": "Spawn",
+    "ID": "59067",
+    "Tables": "4",
+    "Table_0_Spawn_ID": "59061",
+    "Table_0_Weight": "50",
+    "Table_1_Spawn_ID": "59062",
+    "Table_1_Weight": "50",
+    "Table_2_Spawn_ID": "59068",
+    "Table_2_Weight": "25",
+    "Table_3_Asset_ID": "59727",
+    "Table_3_Weight": "15"
+  },
+  "translation": null
+}

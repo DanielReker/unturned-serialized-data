@@ -1,0 +1,16 @@
+{
+  "name": "Sandbag_Line",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Sandbag_Line/Sandbag_Line.dat",
+  "data": {
+    "GUID": "d4a56035cd69411b9850af353ecc060f",
+    "Type": "Medium",
+    "ID": "51000",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Sandbag Line"
+  }
+}

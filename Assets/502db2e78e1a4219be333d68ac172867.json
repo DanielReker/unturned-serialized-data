@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait_Boulders",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Assets/Material_Palettes/Kuwait_Boulders.asset",
+  "data": {
+    "GUID": "502db2e78e1a4219be333d68ac172867",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Boulders/KBoulder_0.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Boulders/KBoulder_1.mat"
+      }
+    ]
+  },
+  "translation": null
+}

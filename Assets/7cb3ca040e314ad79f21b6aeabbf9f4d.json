@@ -1,0 +1,13 @@
+{
+  "name": "Wrecked_Space_Shuttle_3",
+  "path": "Bundles/Objects/Large/Vehicles/Wrecked_Space_Shuttle_3/Wrecked_Space_Shuttle_3.dat",
+  "data": {
+    "GUID": "7cb3ca040e314ad79f21b6aeabbf9f4d",
+    "Type": "Large",
+    "ID": "988",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Wrecked Space Shuttle #4"
+  }
+}

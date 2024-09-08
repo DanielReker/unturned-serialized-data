@@ -1,0 +1,26 @@
+{
+  "name": "PS_Splint",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Medical/PS_Splint/PS_Splint.dat",
+  "data": {
+    "GUID": "10486274295f460b961f89942e2c7ef7",
+    "Type": "Medical",
+    "Rarity": "Common",
+    "Useable": "Consumeable",
+    "ID": "59175",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Aid": "",
+    "Broken": "",
+    "Health": "3",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supply_0_ID": "59000",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Splint",
+    "Description": "<color=#21B427>+3 Health<br>Heals Bones</color>"
+  }
+}

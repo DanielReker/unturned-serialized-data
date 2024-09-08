@@ -1,0 +1,41 @@
+{
+  "name": "26640KuwaitIssac",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/C/265 Concord/2664 Concord Outfit/26640KuwaitIssac/Asset.dat",
+  "data": {
+    "GUID": "c48e99f7e1c14044b163f6c38990e77a",
+    "Type": "NPC",
+    "ID": "26640",
+    "Shirt": "5319",
+    "Pants": "5322",
+    "Glasses": "409",
+    "Face": "17",
+    "Hair": "9",
+    "Beard": "1",
+    "Color_Skin": "#94764b",
+    "Color_Hair": "#352c22",
+    "Has_Christmas_Outfit": "True",
+    "Christmas_Shirt": "279",
+    "Christmas_Pants": "280",
+    "Christmas_Hat": "278",
+    "Christmas_Glasses": "409",
+    "Christmas_Mask": "1446",
+    "Christmas_Vest": "1735",
+    "Primary": "5043",
+    "Secondary": "5024",
+    "Dialogue": "26641",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "25050",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "26549",
+    "Condition_1_Value": "True",
+    "Condition_1_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "KuwaitCoalitionIssac",
+    "Character": "<color=legendary>General Issac</color>"
+  }
+}

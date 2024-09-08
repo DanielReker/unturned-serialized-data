@@ -1,0 +1,23 @@
+{
+  "name": "BP_Simonovka",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Simonovka/Asset.dat",
+  "data": {
+    "GUID": "d01e8967534446babdf1914aec5e0cee",
+    "Type": "Quest",
+    "ID": "24826",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "29f1ce1a8aa6475d8591adbaaf140ae2",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24825",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Simonovka Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Simonovka Recipe"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Kuwait_Spectral_Stone_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Resources/Kuwait_Spectral_Stone_0/Kuwait_Spectral_Stone_0.dat",
+  "data": {
+    "GUID": "ec9bdeab1bb9479fa8d1bb49dbcb8e6a",
+    "Type": "Resource",
+    "ID": "3071",
+    "Health": "2750",
+    "Radius": "4",
+    "Scale": "0.3",
+    "Explosion": "52",
+    "Reward_ID": "7134",
+    "Reward_XP": "6",
+    "Reward_Min": "1",
+    "Reward_Max": "2",
+    "BladeID": "2",
+    "No_Debris": "",
+    "Reset": "500",
+    "Asset_Bundle_Version": "2",
+    "Has_Clip_Prefab": "false "
+  },
+  "translation": {
+    "Name": "Kuwait Spectral Node #1"
+  }
+}

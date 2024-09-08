@@ -1,0 +1,43 @@
+{
+  "name": "Wooden_Triangular_Hole",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Structures/WD/CX/Wooden_Triangular_Hole/Wooden_Triangular_Hole.dat",
+  "data": {
+    "GUID": "1e7fb0db2cd848cf8fdee7834aa5ce4d",
+    "Type": "Structure",
+    "Rarity": "Rare",
+    "Useable": "Structure",
+    "Construct": "Roof_Poly",
+    "ID": "51728",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.425",
+    "Health": "500",
+    "Range": "8",
+    "Explosion": "29",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51023",
+    "Blueprint_0_Supply_0_Amount": "5",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Tool": "51025",
+    "Blueprint_0_Tool_Critical": "",
+    "Blueprint_1_Type": "Structure",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51728",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "51023",
+    "Blueprint_1_Output_0_Amount": "3",
+    "Blueprint_1_Build": "27",
+    "Blueprint_1_Tool": "51025",
+    "Blueprint_1_Tool_Critical": "",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false",
+    "Use_Auto_Icon_Measurements": "false"
+  },
+  "translation": {
+    "Name": "Wooden Triangular Hole",
+    "Description": "Wooden triangular hole. Beware of termites."
+  }
+}

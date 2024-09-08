@@ -1,0 +1,40 @@
+{
+  "name": "Metro_Medic",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Medic/Metro_Medic.dat",
+  "data": {
+    "GUID": "7e2fcfe4d1954eb3b2019665102942bb",
+    "Type": "Spawn",
+    "ID": "57044",
+    "Tables": [
+      {
+        "LegacySpawnId": "57043",
+        "Weight": "700"
+      },
+      {
+        "LegacyAssetId": "66",
+        "Weight": "500"
+      },
+      {
+        "LegacyAssetId": "57432",
+        "Weight": "250"
+      },
+      {
+        "LegacyAssetId": "57431",
+        "Weight": "250"
+      },
+      {
+        "LegacyAssetId": "75",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "57017",
+        "Weight": "45"
+      },
+      {
+        "LegacyAssetId": "57680",
+        "Weight": "2"
+      }
+    ]
+  },
+  "translation": null
+}

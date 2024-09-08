@@ -1,0 +1,14 @@
+{
+  "name": "Vince_Air_Traffic_Control_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military Major Vince/Vince_Air_Traffic_Control_Completed/Asset.dat",
+  "data": {
+    "GUID": "003df10157a6403fa820d582367e7f80",
+    "Type": "Dialogue",
+    "ID": "9113",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "What you did really helps a lot. You don't realize how many people you just saved."
+  }
+}

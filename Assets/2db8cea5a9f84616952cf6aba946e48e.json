@@ -1,0 +1,14 @@
+{
+  "name": "PS_Bricks_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Bricks_2/PS_Bricks_2.dat",
+  "data": {
+    "GUID": "2db8cea5a9f84616952cf6aba946e48e",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59097",
+    "Material_Palette": "67ce41a05bed4a9fa624b9d6e868684a"
+  },
+  "translation": {
+    "Name": "PS Bricks #3"
+  }
+}

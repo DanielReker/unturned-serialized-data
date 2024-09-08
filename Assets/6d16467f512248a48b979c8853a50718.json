@@ -1,0 +1,14 @@
+{
+  "name": "Ensign_Vendor_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/Coali/Ensign_Adney/Ensign_Vendor_Completed/Asset.dat",
+  "data": {
+    "GUID": "6d16467f512248a48b979c8853a50718",
+    "Type": "Dialogue",
+    "ID": "15133",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Always remeber to conserve ammo. "
+  }
+}

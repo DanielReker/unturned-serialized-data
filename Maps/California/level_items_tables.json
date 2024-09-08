@@ -1,0 +1,510 @@
+[
+  {
+    "name": "Civilian",
+    "tableID": 4400,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "PMC_Low",
+    "tableID": 4304,
+    "tiers": [],
+    "color": {
+      "r": 0.294117659,
+      "g": 0.294117659,
+      "b": 0.294117659
+    }
+  },
+  {
+    "name": "PMC_high",
+    "tableID": 4308,
+    "tiers": [],
+    "color": {
+      "r": 0.196078435,
+      "g": 0.196078435,
+      "b": 0.196078435
+    }
+  },
+  {
+    "name": "Police_low",
+    "tableID": 4354,
+    "tiers": [],
+    "color": {
+      "r": 0.09803922,
+      "g": 0.09803922,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Police_high",
+    "tableID": 4323,
+    "tiers": [],
+    "color": {
+      "r": 0.09803922,
+      "g": 0.09803922,
+      "b": 0.607843161
+    }
+  },
+  {
+    "name": "SWAT",
+    "tableID": 4345,
+    "tiers": [],
+    "color": {
+      "r": 0.09803922,
+      "g": 0.09803922,
+      "b": 0.294117659
+    }
+  },
+  {
+    "name": "Clothes",
+    "tableID": 4326,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.607843161,
+      "b": 0.607843161
+    }
+  },
+  {
+    "name": "Grocer",
+    "tableID": 364,
+    "tiers": [],
+    "color": {
+      "r": 0.607843161,
+      "g": 0.607843161,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Gas",
+    "tableID": 365,
+    "tiers": [],
+    "color": {
+      "r": 0.215686277,
+      "g": 0.0,
+      "b": 0.607843161
+    }
+  },
+  {
+    "name": "Camp",
+    "tableID": 564,
+    "tiers": [],
+    "color": {
+      "r": 0.607843161,
+      "g": 0.215686277,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Kitchen",
+    "tableID": 387,
+    "tiers": [],
+    "color": {
+      "r": 0.607843161,
+      "g": 0.215686277,
+      "b": 0.215686277
+    }
+  },
+  {
+    "name": "Meds",
+    "tableID": 559,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Florist",
+    "tableID": 567,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 0.215686277
+    }
+  },
+  {
+    "name": "Farm",
+    "tableID": 379,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Hunting Store",
+    "tableID": 4344,
+    "tiers": [],
+    "color": {
+      "r": 0.607843161,
+      "g": 0.607843161,
+      "b": 0.607843161
+    }
+  },
+  {
+    "name": "School",
+    "tableID": 363,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Mine",
+    "tableID": 4401,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.607843161,
+      "b": 0.215686277
+    }
+  },
+  {
+    "name": "Bank",
+    "tableID": 569,
+    "tiers": [],
+    "color": {
+      "r": 0.215686277,
+      "g": 0.4509804,
+      "b": 0.215686277
+    }
+  },
+  {
+    "name": "Fire",
+    "tableID": 332,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Construction",
+    "tableID": 4411,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.8039216,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Bioahazard ",
+    "tableID": 4315,
+    "tiers": [],
+    "color": {
+      "r": 0.6862745,
+      "g": 0.215686277,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Biohazard Special",
+    "tableID": 4346,
+    "tiers": [],
+    "color": {
+      "r": 0.294117659,
+      "g": 0.09803922,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Richmans_Low",
+    "tableID": 4314,
+    "tiers": [],
+    "color": {
+      "r": 0.843137264,
+      "g": 0.7058824,
+      "b": 0.843137264
+    }
+  },
+  {
+    "name": "Richmans_High",
+    "tableID": 4313,
+    "tiers": [],
+    "color": {
+      "r": 0.607843161,
+      "g": 0.607843161,
+      "b": 0.607843161
+    }
+  },
+  {
+    "name": "Richmans_Cloths",
+    "tableID": 4309,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.6392157,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Gear_ Store",
+    "tableID": 4320,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.607843161,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Post",
+    "tableID": 393,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Pizza",
+    "tableID": 403,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Doughnuts",
+    "tableID": 402,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "SWAT_high",
+    "tableID": 4335,
+    "tiers": [],
+    "color": {
+      "r": 0.09803922,
+      "g": 0.09803922,
+      "b": 0.196078435
+    }
+  },
+  {
+    "name": "Biohazard_Special_High",
+    "tableID": 4316,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Cloths_Richmans",
+    "tableID": 4309,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "PMC_Special_low",
+    "tableID": 4330,
+    "tiers": [],
+    "color": {
+      "r": 0.09803922,
+      "g": 0.09803922,
+      "b": 0.09803922
+    }
+  },
+  {
+    "name": "PMC_Special_high",
+    "tableID": 4361,
+    "tiers": [],
+    "color": {
+      "r": 0.05882353,
+      "g": 0.05882353,
+      "b": 0.05882353
+    }
+  },
+  {
+    "name": "Popcorn",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "1",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4081
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "GPS",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "electronics",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1176
+          },
+          {
+            "item": 1466
+          },
+          {
+            "item": 1445
+          },
+          {
+            "item": 1509
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Books",
+    "tableID": 0,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Sawmill",
+    "tableID": 4374,
+    "tiers": [],
+    "color": {
+      "r": 0.4509804,
+      "g": 0.333333343,
+      "b": 0.215686277
+    }
+  },
+  {
+    "name": "Military_Low",
+    "tableID": 4376,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Military_High",
+    "tableID": 4381,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.607843161,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Special_Low",
+    "tableID": 4387,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.294117659,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Special_High",
+    "tableID": 4390,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.09803922,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Militia",
+    "tableID": 4402,
+    "tiers": [],
+    "color": {
+      "r": 0.5686275,
+      "g": 0.0196078438,
+      "b": 0.8039216
+    }
+  },
+  {
+    "name": "Beach",
+    "tableID": 585,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Militia Sawmill",
+    "tableID": 4402,
+    "tiers": [],
+    "color": {
+      "r": 0.2901961,
+      "g": 0.184313729,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Cloth Washer",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "pink hat",
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 4105
+          }
+        ]
+      },
+      {
+        "name": "hockey mask",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1048
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  }
+]

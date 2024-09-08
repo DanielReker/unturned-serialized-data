@@ -1,0 +1,16 @@
+{
+  "name": "PaintingFood",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingFood/PaintingFood.dat",
+  "data": {
+    "GUID": "fdf76fa8737943468929430e309795c6",
+    "Type": "Spawn",
+    "ID": "51297",
+    "Tables": [
+      {
+        "Guid": "eabdb230b667494f9ff50e07c25e71b8",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

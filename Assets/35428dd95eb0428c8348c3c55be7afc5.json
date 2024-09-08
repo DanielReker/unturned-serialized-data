@@ -1,0 +1,39 @@
+{
+  "name": "PS_Trader_1_Quest_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_1_Dialogue/PS_Trader_1_Quest_1/Asset.dat",
+  "data": {
+    "GUID": "35428dd95eb0428c8348c3c55be7afc5",
+    "Type": "Quest",
+    "ID": "59038",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59440",
+    "Condition_0_Amount": "10",
+    "Condition_0_Reset": "",
+    "Rewards": "6",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "59032",
+    "Reward_0_Value": "True",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "59519",
+    "Reward_1_Amount": "1",
+    "Reward_2_Type": "Item",
+    "Reward_2_ID": "59532",
+    "Reward_2_Amount": "0",
+    "Reward_3_Type": "Item",
+    "Reward_3_ID": "59535",
+    "Reward_3_Amount": "0",
+    "Reward_4_Type": "Experience",
+    "Reward_4_Value": "200",
+    "Reward_5_Type": "Item",
+    "Reward_5_ID": "59548",
+    "Reward_5_Amount": "1"
+  },
+  "translation": {
+    "Name": "Reinforcements II",
+    "Description": "Bring me 10x <color=#1f871f>Bricks</color>.",
+    "Reward_1": "Plastic Gas Can",
+    "Reward_2": "Plastic Gas Can Blueprint Unlocked",
+    "Reward_3": "More purchase options."
+  }
+}

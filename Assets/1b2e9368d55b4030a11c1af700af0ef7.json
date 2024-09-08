@@ -1,0 +1,13 @@
+{
+  "name": "PS_Beacon_Distress_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Other/PS_Beacon_Distress_0/PS_Beacon_Distress_0.dat",
+  "data": {
+    "GUID": "1b2e9368d55b4030a11c1af700af0ef7",
+    "Type": "Effect",
+    "ID": "59082",
+    "Static": "",
+    "Relevant_Distance": "150",
+    "Spawn_On_Dedicated_Server": ""
+  },
+  "translation": null
+}

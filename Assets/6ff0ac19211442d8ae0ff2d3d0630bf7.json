@@ -1,0 +1,14 @@
+{
+  "name": "Spare_Parts_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Ensign_Chitchat/Spare_Parts_Completed/Asset.dat",
+  "data": {
+    "GUID": "6ff0ac19211442d8ae0ff2d3d0630bf7",
+    "Type": "Dialogue",
+    "ID": "45723",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Give me a minute and I'll have this radio up and running!"
+  }
+}

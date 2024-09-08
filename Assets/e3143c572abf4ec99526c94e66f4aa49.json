@@ -1,0 +1,12 @@
+{
+  "name": "Tent_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Tent_1/Tent_1.dat",
+  "data": {
+    "GUID": "e3143c572abf4ec99526c94e66f4aa49",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Tent 2"
+  }
+}

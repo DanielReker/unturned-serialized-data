@@ -1,0 +1,35 @@
+{
+  "name": "29640KLA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/3/C/29640KLA/Asset.dat",
+  "data": {
+    "GUID": "f2a6ad4e5b32446ba15e441895b86015",
+    "Type": "NPC",
+    "ID": "29640",
+    "Shirt": "5329",
+    "Pants": "5330",
+    "Hat": "5327",
+    "Face": "5",
+    "Hair": "12",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#CDC08C",
+    "Dialogue": "29641",
+    "Primary": "5032",
+    "Equipped": "Primary",
+    "Pose": "Passive",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "29321",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitSurvivorLawrence",
+    "Character": "Lawrence"
+  }
+}

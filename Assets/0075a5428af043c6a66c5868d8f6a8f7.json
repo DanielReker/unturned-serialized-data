@@ -1,0 +1,22 @@
+{
+  "name": "Frost_Rangefinder_Handheld_Mag",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Weapons/Frost_Rangefinder_Handheld_Mag/Frost_Rangefinder_Handheld_Mag.dat",
+  "data": {
+    "GUID": "0075a5428af043c6a66c5868d8f6a8f7",
+    "Type": "Magazine",
+    "ID": "36008",
+    "Size_Z": "0.1",
+    "Amount": "0",
+    "Count_Min": "0",
+    "Count_Max": "0",
+    "Calibers": "1",
+    "Caliber_0": "36000",
+    "Tracer": "48",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Magazines/Ace_6"
+  },
+  "translation": {
+    "Name": "2000m range",
+    "Description": ""
+  }
+}

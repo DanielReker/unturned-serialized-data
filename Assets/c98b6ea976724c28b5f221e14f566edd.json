@@ -1,0 +1,16 @@
+{
+  "name": "BruhRootbeer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/SodaSpawns/BruhRootbeer/BruhRootbeer.dat",
+  "data": {
+    "GUID": "c98b6ea976724c28b5f221e14f566edd",
+    "Type": "Spawn",
+    "ID": "51259",
+    "Tables": [
+      {
+        "Guid": "4f69a67af6934ed480b3d56e99f2eb7e",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

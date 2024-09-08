@@ -1,0 +1,14 @@
+{
+  "name": "PS_Tire_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Tire_4/PS_Tire_4.dat",
+  "data": {
+    "GUID": "83835d5f894240d6a94ff451fbe8e863",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59706",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "PS Wheel #5 [BRDM-2]"
+  }
+}

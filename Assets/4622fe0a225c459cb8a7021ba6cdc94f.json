@@ -1,0 +1,26 @@
+{
+  "name": "Metro_Note_Green",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/Metro_Note_Green/Metro_Note_Green.dat",
+  "data": {
+    "GUID": "4622fe0a225c459cb8a7021ba6cdc94f",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57406",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57001",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Asset_Bundle_Version": "3",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note"
+  },
+  "translation": {
+    "Name": "Metro Note [GREEN]",
+    "Interactability_Text_Line_0": "Picking up this green keycard allows you to open green doors. Within these tunnels there are many more of these colorful doors that each have their own corresponding keycard which is hidden somewhere on the map."
+  }
+}

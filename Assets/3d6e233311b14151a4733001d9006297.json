@@ -1,0 +1,16 @@
+{
+  "name": "Bush_9",
+  "path": "Bundles/Trees/Bush_9/Bush_9.dat",
+  "data": {
+    "GUID": "3d6e233311b14151a4733001d9006297",
+    "Type": "Resource",
+    "ID": "48",
+    "Health": "1000",
+    "Radius": "3",
+    "Scale": "0.1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Peaks Bush #2"
+  }
+}

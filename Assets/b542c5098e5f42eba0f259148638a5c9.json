@@ -1,0 +1,18 @@
+{
+  "name": "Flag_Russian",
+  "path": "Bundles/Objects/Medium/Parks/Flag_Russian/Flag_Russian.dat",
+  "data": {
+    "GUID": "b542c5098e5f42eba0f259148638a5c9",
+    "Type": "Medium",
+    "ID": "518",
+    "Snowshoe": "",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "100",
+    "Interactability_Effect": "72",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Russian Flag"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "PBS_Frag_Goggles",
+  "path": "Bundles/Items/PBS/PBS_Frag_Goggles/PBS_Frag_Goggles.dat",
+  "data": {
+    "GUID": "90f25060798645a1afda59b8ade4de54",
+    "Type": "Glasses",
+    "Pro": "",
+    "Hair": "",
+    "Beard": ""
+  },
+  "translation": null
+}

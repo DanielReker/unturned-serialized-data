@@ -1,0 +1,17 @@
+{
+  "name": "Frost_Expedition_05_Info",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Expedition_05/Frost_Expedition_05_Info/Asset.dat",
+  "data": {
+    "GUID": "ae09a32fede5411cb4ca165ad4dbff54",
+    "Type": "Dialogue",
+    "ID": "36486",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "36481"
+  },
+  "translation": {
+    "Message_0_Page_0": "The machine makes funny noises... perhaps it's linked to the secret code?",
+    "Response_0": "Okay, thanks."
+  }
+}

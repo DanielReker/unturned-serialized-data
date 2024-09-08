@@ -1,0 +1,16 @@
+{
+  "name": "Elver2_Hair_Feline",
+  "path": "Bundles/Items/Elver2/Elver2_Hair_Feline/Elver2_Hair_Feline.dat",
+  "data": {
+    "GUID": "b4c739ef7ed64b6c88bcd57b0f3e7f5f",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "1607",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Hair_Override": "Model_1",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Reefer_Drum_80",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Magazines/Reefer_Drum_80/Reefer_Drum_80.dat",
+  "data": {
+    "GUID": "88cd70a02f4548838cdcd2107e32282c",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "ID": "6610",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.2",
+    "Amount": "80",
+    "Count_Min": "10",
+    "Count_Max": "70",
+    "Calibers": "1",
+    "Caliber_0": "6609",
+    "Tracer": "48",
+    "Blueprints": "3",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "119",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "6610",
+    "Blueprint_1_Build": "30",
+    "Blueprint_2_Type": "Ammo",
+    "Blueprint_2_Supplies": "1",
+    "Blueprint_2_Supply_0_ID": "6609",
+    "Blueprint_2_Build": "30"
+  },
+  "translation": {
+    "Name": "Reefer Drum",
+    "Description": "Low caliber ranger grade <color=rare>Reefer</color> drum. Designed to fit 80 rounds."
+  }
+}

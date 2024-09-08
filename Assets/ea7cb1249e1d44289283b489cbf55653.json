@@ -1,0 +1,22 @@
+{
+  "name": "Admiral_Sir_Thomas",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/Coalition/Admiral_Sir_Thomas/Asset.dat",
+  "data": {
+    "GUID": "ea7cb1249e1d44289283b489cbf55653",
+    "Type": "NPC",
+    "ID": "15011",
+    "Shirt": "1424",
+    "Pants": "1419",
+    "Glasses": "409",
+    "Face": "0",
+    "Hair": "2",
+    "Color_Skin": "#fff0db",
+    "Color_Hair": "#f7f7f7",
+    "Secondary": "1021",
+    "Dialogue": "15125"
+  },
+  "translation": {
+    "Name": "Coalition Admiral Sir Thomas",
+    "Character": "<color=mythical>Admiral Sir Thomas</color>"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "HawaiiCoastGuardArmory_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiCoastGuardArmory_0/HawaiiCoastGuardArmory_0.dat",
+  "data": {
+    "GUID": "0967719260f04794896e5287a35f105e",
+    "Type": "Large",
+    "ID": "682",
+    "LOD": "Mesh",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Hawaii Coast Guard Armory"
+  }
+}

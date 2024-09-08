@@ -1,0 +1,17 @@
+{
+  "name": "PS_Antiseptic",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Antiseptic/PS_Antiseptic.dat",
+  "data": {
+    "GUID": "244dbf805c644b6f806daa006fabd99e",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "59014",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.55"
+  },
+  "translation": {
+    "Name": "Antiseptic",
+    "Description": "Substance used to kill bacteria."
+  }
+}

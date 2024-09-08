@@ -1,0 +1,21 @@
+{
+  "name": "Quest_0_Farmer_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_1/Quest_0_Farmer_1/Asset.dat",
+  "data": {
+    "GUID": "f24e77ac3c694f918afac8103f9d3657",
+    "Type": "Quest",
+    "ID": "57740",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "57550",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "100"
+  },
+  "translation": {
+    "Name": "<color=#C9A952>Farmer 2</color>",
+    "Description": "Plant and grow <color=#1f871f>Wheat</color>.<br><br>Starting Equipment : <color=#64c819>1</color>x <color=#1f871f>Wheat Seeds</color>"
+  }
+}

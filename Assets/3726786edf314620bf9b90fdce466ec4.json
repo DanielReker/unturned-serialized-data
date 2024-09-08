@@ -1,0 +1,13 @@
+{
+  "name": "Coastguard_Air_America",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Vehicles/Coastguard_Air_America/Coastguard_Air_America.dat",
+  "data": {
+    "GUID": "3726786edf314620bf9b90fdce466ec4",
+    "Type": "Spawn",
+    "ID": "812",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "813",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Key_Workshop_03",
+  "path": "Bundles/Items/Keys/Key_Workshop_03/Key_Workshop_03.dat",
+  "data": {
+    "GUID": "163afd6e75124573935b655f86ca967f",
+    "Type": "Key",
+    "ID": "784",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Pro": ""
+  },
+  "translation": null
+}

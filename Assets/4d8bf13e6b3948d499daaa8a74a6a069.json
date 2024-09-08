@@ -1,0 +1,21 @@
+{
+  "name": "Note_22",
+  "path": "Bundles/Objects/Medium/Furniture/Note_22/Note_22.dat",
+  "data": {
+    "GUID": "4d8bf13e6b3948d499daaa8a74a6a069",
+    "Type": "Medium",
+    "ID": "2023",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Russia Note - Silo",
+    "Interactability_Text_Line_0": "General Boris' Diary",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Orders have come from the highest level to launch the warhead... at Moscow. They say that the city is being stormed by a dangerous virus, and that sacrificing it will save our country. I signed up to protect our motherland, not destroy it! I'm burning the message and cutting communications in the hopes that cooler heads will prevail and seek a cure rather than wiping out those pour souls. Should they try to attack and force a launch I'm afraid I'll have no option but to sabotage the missile."
+  }
+}

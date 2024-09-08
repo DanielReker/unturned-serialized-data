@@ -1,0 +1,23 @@
+{
+  "name": "PBS_Luna",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Luna/Asset.dat",
+  "data": {
+    "GUID": "932c06c0e10349cdaecc688ee9e7e86b",
+    "Type": "NPC",
+    "ID": "52550",
+    "Shirt": "7380ec5d566a4aefa5b885e35f610a34",
+    "Pants": "34b0681d7af94b0ba4f2bcb11743fa5c",
+    "Backpack": "e05fa36aa01d4aebbeec509c867751d0",
+    "Face": "20",
+    "Hair": "16",
+    "Beard": "0",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#665037",
+    "Dialogue": "52551",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS NPC Luna",
+    "Character": "Luna"
+  }
+}

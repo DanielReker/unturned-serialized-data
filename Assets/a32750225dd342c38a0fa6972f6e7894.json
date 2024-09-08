@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Grate_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Traffic/Kuwait_Grate_0/Kuwait_Grate_0.dat",
+  "data": {
+    "GUID": "a32750225dd342c38a0fa6972f6e7894",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5208"
+  },
+  "translation": {
+    "Name": "Kuwait Pipe #5"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Offices_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Offices_1/PS_Offices_1.dat",
+  "data": {
+    "GUID": "6fe3a0857aa54f12aa3a7643df5ebe34",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59713"
+  },
+  "translation": {
+    "Name": "PS Offices #2"
+  }
+}

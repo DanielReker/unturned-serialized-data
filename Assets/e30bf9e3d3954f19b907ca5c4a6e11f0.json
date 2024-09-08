@@ -1,0 +1,22 @@
+{
+  "name": "Guard_Laura",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IDF/Filler/Guard_Laura/Asset.dat",
+  "data": {
+    "GUID": "e30bf9e3d3954f19b907ca5c4a6e11f0",
+    "Type": "NPC",
+    "ID": "15047",
+    "Shirt": "16223",
+    "Pants": "16221",
+    "Face": "24",
+    "Hair": "16",
+    "Color_Skin": "#f2e4cb",
+    "Color_Hair": "#ede8a8",
+    "Secondary": "99",
+    "Pose": "Sit",
+    "Dialogue": "15194"
+  },
+  "translation": {
+    "Name": "IDF Guard Laura",
+    "Character": "<color=uncommon>Private Laura</color>"
+  }
+}

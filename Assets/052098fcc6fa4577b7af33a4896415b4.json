@@ -1,0 +1,12 @@
+{
+  "name": "MallBillboard1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/MallBillboard1/MallBillboard1.dat",
+  "data": {
+    "GUID": "052098fcc6fa4577b7af33a4896415b4",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Mall Billboard 2"
+  }
+}

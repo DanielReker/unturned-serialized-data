@@ -1,0 +1,13 @@
+{
+  "name": "Quarry_Catwalk_0",
+  "path": "Bundles/Objects/Medium/Business/Quarry_Catwalk_0/Quarry_Catwalk_0.dat",
+  "data": {
+    "GUID": "49dc2125118b41b481dd893c14914475",
+    "Type": "Medium",
+    "ID": "873",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Quarry Catwalk Platform"
+  }
+}

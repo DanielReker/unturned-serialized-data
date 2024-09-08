@@ -1,0 +1,17 @@
+{
+  "name": "Menu_Stand_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Medium/Buisness/Menu_Stand_0/Menu_Stand_0.dat",
+  "data": {
+    "GUID": "655f85f4b2ee428da5db5efda905ea51",
+    "Type": "Medium",
+    "ID": "35090",
+    "Snowshoe": "",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "60",
+    "Interactability_Health": "50",
+    "Interactability_Effect": "19"
+  },
+  "translation": {
+    "Name": "Menu Stand #1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Science_Gunsmith_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Engineer/Science_Gunsmith_Completed/Asset.dat",
+  "data": {
+    "GUID": "560334167c8f4aafb52c27980ad40c2e",
+    "Type": "Dialogue",
+    "ID": "4106",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you very much! I should be able to make all of these now!"
+  }
+}

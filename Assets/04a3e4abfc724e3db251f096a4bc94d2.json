@@ -1,0 +1,21 @@
+{
+  "name": "PS_Turret_Harvests_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Resources/PS_Turret_Harvests_1/PS_Turret_Harvests_1.dat",
+  "data": {
+    "GUID": "04a3e4abfc724e3db251f096a4bc94d2",
+    "Type": "Resource",
+    "Has_Clip_Prefab": "False",
+    "ID": "59045",
+    "Health": "34300",
+    "Radius": "3",
+    "Scale": "0",
+    "Forage": "",
+    "Reset": "3600",
+    "BladeID": "44",
+    "Log": "60002"
+  },
+  "translation": {
+    "Name": "PS Autoloader #2",
+    "Interact": "Salvage [{0}]"
+  }
+}

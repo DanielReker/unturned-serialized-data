@@ -1,0 +1,13 @@
+{
+  "name": "PS_Bulk_Crane_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Bulk_Crane_2/PS_Bulk_Crane_2.dat",
+  "data": {
+    "GUID": "11e7d097c4ee4d93ae504073ef7f42bb",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59508"
+  },
+  "translation": {
+    "Name": "PS Bulk Crane #3"
+  }
+}

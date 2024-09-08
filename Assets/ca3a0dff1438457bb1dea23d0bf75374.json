@@ -1,0 +1,16 @@
+{
+  "name": "29691KGAD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/3/D/29691KGAD/Asset.dat",
+  "data": {
+    "GUID": "ca3a0dff1438457bb1dea23d0bf75374",
+    "Type": "Dialogue",
+    "ID": "29691",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I hit quite a lucky shot earlier!",
+    "Response_0": "Nice!"
+  }
+}

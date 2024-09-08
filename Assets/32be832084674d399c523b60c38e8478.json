@@ -1,0 +1,11 @@
+{
+  "name": "Shroomy_Backpack",
+  "path": "Bundles/Items/Outfits/Shroomy/Shroomy_Backpack/Shroomy_Backpack.dat",
+  "data": {
+    "GUID": "32be832084674d399c523b60c38e8478",
+    "Type": "Backpack",
+    "Pro": "",
+    "Ignore_NPOT": ""
+  },
+  "translation": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Buoy_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Business/Easter_Buoy_0/Easter_Buoy_0.dat",
+  "data": {
+    "GUID": "3607a2757f254be08582d95d90e4b03e",
+    "Type": "Medium",
+    "ID": "6814",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Bouy #1"
+  }
+}

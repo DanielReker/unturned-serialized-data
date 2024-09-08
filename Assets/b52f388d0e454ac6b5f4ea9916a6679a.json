@@ -1,0 +1,12 @@
+{
+  "name": "City_Tree",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/City_Tree/City_Tree.dat",
+  "data": {
+    "GUID": "b52f388d0e454ac6b5f4ea9916a6679a",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS City Tree"
+  }
+}

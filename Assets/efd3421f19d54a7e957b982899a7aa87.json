@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Note_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Note_02/Buak_Note_02.dat",
+  "data": {
+    "GUID": "efd3421f19d54a7e957b982899a7aa87",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Material_Palette": "3758ac9d1b774a4a99a407c069e2a21a",
+    "Bundle_Override_Path": "/Objects/Small/Furniture/Buak_Note_00"
+  },
+  "translation": {
+    "Name": "Buak_Note_02",
+    "Interactability_Text_Line_0": "Like the watered down character I am, I just watched as it happened with a fist full of money, you see? There’s no room for my old self anymore in this world, wolves and sheep, but I don’t enjoy being a wolf. It’s a facade, it all is, and always will be! It all looked so fake, but it felt so real, there’s no telling it apart, it felt like a movie but I was living my own life. Why do I do this? To protect myself? I need to find some better cases to work on."
+  }
+}

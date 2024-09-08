@@ -1,0 +1,15 @@
+{
+  "name": "26953KSAMAC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/265 CO/2664-2691 Mili/26670KSAD/26953KSAMAC/Asset.dat",
+  "data": {
+    "GUID": "5723edaa2a80437b9f04c82961d43b5b",
+    "Type": "Dialogue",
+    "ID": "26953",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "26671"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good shooting, <name_char>. Well, the weapon is yours to acquire if you may need it! Perhaps I can rest a bit more easy now with your shooting skills."
+  }
+}

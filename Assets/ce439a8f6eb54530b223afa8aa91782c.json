@@ -1,0 +1,16 @@
+{
+  "name": "ZPD_Bunker_Graffiti_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Decals/ZPD_Bunker_Graffiti_6/ZPD_Bunker_Graffiti_6.dat",
+  "data": {
+    "GUID": "ce439a8f6eb54530b223afa8aa91782c",
+    "Type": "Decal",
+    "ID": "7128",
+    "Decal_X": "4",
+    "Decal_Y": "2",
+    "Decal_LOD_Bias": "1",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "ZPD Bunker Graffiti #6"
+  }
+}

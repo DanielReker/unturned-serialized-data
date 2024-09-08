@@ -1,0 +1,33 @@
+{
+  "name": "DangoBox",
+  "path": "Bundles/Items/Boxes/DangoBox/DangoBox.dat",
+  "data": {
+    "GUID": "5e25b5cce6a847598f73eaef390a8889",
+    "Type": "Box",
+    "ID": "918",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.35",
+    "Generate": "21037",
+    "Probability_Model": "Equalized",
+    "Contains_Bonus_Items": "True",
+    "Drops": "15",
+    "Drop_0": "-1",
+    "Drop_1": "85801",
+    "Drop_2": "85901",
+    "Drop_3": "86001",
+    "Drop_4": "86101",
+    "Drop_5": "86201",
+    "Drop_6": "86301",
+    "Drop_7": "86401",
+    "Drop_8": "86501",
+    "Drop_9": "86601",
+    "Drop_10": "86701",
+    "Drop_11": "86801",
+    "Drop_12": "86901",
+    "Drop_13": "87001",
+    "Drop_14": "87101",
+    "Pro": ""
+  },
+  "translation": null
+}

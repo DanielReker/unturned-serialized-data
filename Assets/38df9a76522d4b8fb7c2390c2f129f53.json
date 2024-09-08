@@ -1,0 +1,13 @@
+{
+  "name": "Greece_Military_Cerberus",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Spawns/Greece_Vehicles/Greece_Military_Cerberus/Greece_Military_Cerberus.dat",
+  "data": {
+    "GUID": "38df9a76522d4b8fb7c2390c2f129f53",
+    "Type": "Spawn",
+    "ID": "1026",
+    "Tables": "1",
+    "Table_0_Asset_ID": "3502",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

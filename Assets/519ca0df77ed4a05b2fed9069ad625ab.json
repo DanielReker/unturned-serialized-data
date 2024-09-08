@@ -1,0 +1,33 @@
+{
+  "name": "Repair_Tower",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Quests/Coali/Repair_Tower/Asset.dat",
+  "data": {
+    "GUID": "519ca0df77ed4a05b2fed9069ad625ab",
+    "Type": "Quest",
+    "ID": "15308",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "41",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "42",
+    "Condition_1_Value": "True",
+    "Condition_1_Logic": "Equal",
+    "Rewards": "3",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "75",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "5",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "14002",
+    "Reward_2_Value": "1",
+    "Reward_2_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "Peer To Peer",
+    "Description": "<color=legendary>Commander Alma</color> needs to begin making connections with survivor groups in Ireland. Go fix the radio towers, allowing the Coalition to contact anyone with a radio on Ireland.",
+    "Condition_0": "Fix South West tower {0}/1",
+    "Condition_1": "Fix North East tower {0}/1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Theseus_Door_Price",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Omega_Security_Theseus/Theseus_Door_Price/Asset.dat",
+  "data": {
+    "GUID": "524b31af51d24907b503ec6553ea284e",
+    "Type": "Dialogue",
+    "ID": "3350",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You see, these doors are gas guzzlers. Bring me fuel and I'll give you two uses."
+  }
+}

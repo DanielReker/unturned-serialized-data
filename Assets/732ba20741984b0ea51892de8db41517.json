@@ -1,0 +1,13 @@
+{
+  "name": "Tank_Forest_Head",
+  "path": "Bundles/Objects/Large/Vehicles/Tank_Forest_Head/Tank_Forest_Head.dat",
+  "data": {
+    "GUID": "732ba20741984b0ea51892de8db41517",
+    "Type": "Large",
+    "ID": "639",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Forest Tank Head"
+  }
+}

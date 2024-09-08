@@ -1,0 +1,13 @@
+{
+  "name": "Buak_LOLCATZ_Screen",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Stores/Buak_LOLCATZ_Screen/Buak_LOLCATZ_Screen.dat",
+  "data": {
+    "GUID": "afe97da3bcc4429aa47de312a36fba86",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_LOLCATZ_Screen"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Electrician_Find_Toolkit_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IDF/Electrician_Jacob/Electrician_Find_Toolkit_Accepted/Asset.dat",
+  "data": {
+    "GUID": "30920c485fb7422889313122845ffb11",
+    "Type": "Dialogue",
+    "ID": "15165",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Just saying, don't tell the <color=legendary>General</color> about this. "
+  }
+}

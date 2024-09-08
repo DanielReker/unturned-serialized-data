@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Gold",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Gold/Drop_Gold.dat",
+  "data": {
+    "GUID": "dae464ffd486491eb03b3d48e55345a2",
+    "Type": "Spawn",
+    "ID": "25511",
+    "Tables": [
+      {
+        "Guid": "0fb04b6336dd4598b80ed04a8c9b02b3",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

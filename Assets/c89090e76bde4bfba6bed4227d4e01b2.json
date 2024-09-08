@@ -1,0 +1,17 @@
+{
+  "name": "PS_Currency_Gold_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Currency_Gold_2/PS_Currency_Gold_2.dat",
+  "data": {
+    "GUID": "c89090e76bde4bfba6bed4227d4e01b2",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "59273",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.265"
+  },
+  "translation": {
+    "Name": "Golden Quail",
+    "Description": "Tangible currency holding value of a 500."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Grandma_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/03/Grandma_03/Asset.dat",
+  "data": {
+    "GUID": "8d3b0c6cf9ea41d5aabe54ad2e9b7f0e",
+    "Type": "NPC",
+    "ID": "25300",
+    "Shirt": "33d09e69e7ef43de8af9235f6f8aafd5",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "Face": "6",
+    "Hair": "4",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#AC6A39",
+    "Pose": "Sit",
+    "Tertiary": "d6005e7d314d43ee897c704722ba9535",
+    "Equipped": "Tertiary",
+    "Dialogue": "5e17dfdabdd640af9df14b54f353127b",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24786",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Grandma_03",
+    "Character": "<color=legendary>Grandma Cherry</color>"
+  }
+}

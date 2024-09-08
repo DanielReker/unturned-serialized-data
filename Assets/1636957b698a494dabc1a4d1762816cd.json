@@ -1,0 +1,16 @@
+{
+  "name": "Vengeance_Question_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Vengeance/Vengeance_04/Vengeance_Question_00/Asset.dat",
+  "data": {
+    "GUID": "1636957b698a494dabc1a4d1762816cd",
+    "Type": "Dialogue",
+    "ID": "24065",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "The mask? Yes.",
+    "Response_0": "Good to know!?"
+  }
+}

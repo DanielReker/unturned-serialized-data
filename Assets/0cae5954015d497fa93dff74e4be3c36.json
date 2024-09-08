@@ -1,0 +1,17 @@
+{
+  "name": "Vending_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Vending_4/Vending_4.dat",
+  "data": {
+    "GUID": "0cae5954015d497fa93dff74e4be3c36",
+    "Type": "Large",
+    "ID": "51000",
+    "Interactability": "Dropper",
+    "Interactability_Delay": "300",
+    "Interactability_Hint": "Custom",
+    "Interactability_Reward_ID": "51259"
+  },
+  "translation": {
+    "Name": "PBS Vending 5",
+    "Interact": "Get a Drink [{0}]"
+  }
+}

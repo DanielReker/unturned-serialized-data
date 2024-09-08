@@ -1,0 +1,12 @@
+{
+  "name": "Cargo Ship",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Cargo Ship/Cargo Ship.dat",
+  "data": {
+    "GUID": "2d7e88bc8f064542ac9835b1b7a53ff6",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Cargo Ship"
+  }
+}

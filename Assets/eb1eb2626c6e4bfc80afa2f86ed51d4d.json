@@ -1,0 +1,27 @@
+{
+  "name": "KOHelmet",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/NPC/Visitor/KOHelmet/KOHelmet.dat",
+  "data": {
+    "GUID": "eb1eb2626c6e4bfc80afa2f86ed51d4d",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "52039",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Beard": "",
+    "Falling_Damage_Multiplier": "0.5",
+    "Movement_Speed_Multiplier": "1.125",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "52039",
+    "Blueprint_0_Product": "51028",
+    "Blueprint_0_Products": "4",
+    "Blueprint_0_Build": "32"
+  },
+  "translation": {
+    "Name": "Knockout Helmet",
+    "Description": "A light helmet that protects your head from any nasty falls.  Does nothing against bullets, though.  Provides reduced fall damage and a speed boost. "
+  }
+}

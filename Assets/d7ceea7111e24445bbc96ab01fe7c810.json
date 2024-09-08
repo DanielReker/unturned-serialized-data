@@ -1,0 +1,13 @@
+{
+  "name": "PS_Safety_Poster_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Safety_Poster_0/PS_Safety_Poster_0.dat",
+  "data": {
+    "GUID": "d7ceea7111e24445bbc96ab01fe7c810",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59823"
+  },
+  "translation": {
+    "Name": "PS Safety Poster #1"
+  }
+}

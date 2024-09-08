@@ -1,0 +1,16 @@
+{
+  "name": "Monocle_Gold",
+  "path": "Bundles/Items/Glasses/Monocle_Gold/Monocle_Gold.dat",
+  "data": {
+    "GUID": "53ccea77bc244fef8ff1473ea7136e12",
+    "Type": "Glasses",
+    "ID": "26",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.175",
+    "Hair": "",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

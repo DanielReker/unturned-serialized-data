@@ -1,0 +1,37 @@
+{
+  "name": "Terrya_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/00/Terrya_00/Asset.dat",
+  "data": {
+    "GUID": "1790d82e8d90415fb9eeab28bd0bdc4e",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "4b5340d8442147ddb43a3ee421876964",
+    "Shirt": "885ef191c16f4455b9e12dfa54cf19fa",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "6",
+    "Hair": "4",
+    "Color_Skin": "#F4E6D2",
+    "Color_Hair": "#161616",
+    "Dialogue": "a1c246353b8144b0a6ebc27a0fb60654",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24612",
+    "Condition_0_Value": "False",
+    "Condition_0_Allow_Unset": "",
+    "Condition_1_Type": "Quest",
+    "Condition_1_Logic": "Less_Than_Or_Equal_To",
+    "Condition_1_ID": "c778947f76e14542a2dd35a26cdfdd00",
+    "Condition_1_Status": "Active",
+    "Condition_1_Allow_Unset": "",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Terrya_00",
+    "Character": "<color=legendary>???</color>"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Easter_Vines_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Small/Overgrowth/Easter_Vines_3/Easter_Vines_3.dat",
+  "data": {
+    "GUID": "c73e6311e2044c38b39e3d0405736cbb",
+    "Type": "Small",
+    "ID": "6686",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Vines #4"
+  }
+}

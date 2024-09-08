@@ -1,0 +1,22 @@
+{
+  "name": "Drunk_Mark",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IFR/Drunk_Mark/Asset.dat",
+  "data": {
+    "GUID": "1a4929b397ac4f55a6b33afbe5a464c8",
+    "Type": "NPC",
+    "ID": "15007",
+    "Shirt": "15000",
+    "Pants": "16218",
+    "Hat": "16226",
+    "Face": "26",
+    "Hair": "3",
+    "Color_Skin": "#f4e2cb",
+    "Color_Hair": "#d8800f",
+    "Pose": "Rest",
+    "Dialogue": "15121"
+  },
+  "translation": {
+    "Name": "IFR Drunk Mark",
+    "Character": "<color=uncommon>Mark</color>"
+  }
+}

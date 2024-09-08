@@ -1,0 +1,17 @@
+{
+  "name": "FuseboxCover",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/EOD/FuseboxCover/FuseboxCover.dat",
+  "data": {
+    "GUID": "2e3ff44b4a20488fb75c3d63b4bf9027",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "180",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "51022"
+  },
+  "translation": {
+    "Name": "PBS EOD Cover (QUEST)"
+  }
+}

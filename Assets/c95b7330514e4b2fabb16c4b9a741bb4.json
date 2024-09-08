@@ -1,0 +1,16 @@
+{
+  "name": "Disabled Parking",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Decals/City/Disabled Parking/Disabled Parking.dat",
+  "data": {
+    "GUID": "c95b7330514e4b2fabb16c4b9a741bb4",
+    "Type": "Decal",
+    "ID": "51015",
+    "Decal_LOD_Bias": "1",
+    "Decal_X": "3",
+    "Decal_Y": "3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Decal Disabled Parking"
+  }
+}

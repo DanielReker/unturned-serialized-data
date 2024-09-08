@@ -1,0 +1,17 @@
+{
+  "name": "Road_Quad_Cap_0",
+  "path": "Bundles/Objects/Large/Roads/Road_Quad_Cap_0/Road_Quad_Cap_0.dat",
+  "data": {
+    "GUID": "70ce34bd31824b039f3780636355d49e",
+    "Type": "Large",
+    "ID": "313",
+    "Soft": "",
+    "Chart": "Street",
+    "Collision_Important": "",
+    "Landmark_Quality": "Ultra",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Road Quad Cap #1"
+  }
+}

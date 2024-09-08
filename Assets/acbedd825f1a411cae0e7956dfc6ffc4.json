@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Outlands_Gold",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Kuwait_Outlands_Gold/Kuwait_Outlands_Gold.dat",
+  "data": {
+    "GUID": "acbedd825f1a411cae0e7956dfc6ffc4",
+    "Type": "Spawn",
+    "ID": "7243",
+    "Tables": "1",
+    "Table_0_Asset_ID": "5560",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

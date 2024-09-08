@@ -1,0 +1,34 @@
+{
+  "name": "Irish_Farm_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/terrain/irish/material/Irish_Farm_01.asset",
+  "data": {
+    "GUID": "657e798d1d9447f5895bce1bee1db128",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "ireland.masterbundle",
+      "Path": "terrain/irish/material/Irish_Farm_01.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "FOLIAGE_STATIC",
+    "Foliage": {
+      "GUID": "ab221f609a5446d68a2e50f520608809"
+    },
+    "Christmas_Redirect": {
+      "GUID": "00000000000000000000000000000000"
+    },
+    "Use_Auto_Slope": "false",
+    "Auto_Min_Angle_Begin": "0",
+    "Auto_Min_Angle_End": "0",
+    "Auto_Max_Angle_Begin": "0",
+    "Auto_Max_Angle_End": "0",
+    "Use_Auto_Foundation": "false",
+    "Auto_Ray_Radius": "0",
+    "Auto_Ray_Length": "0",
+    "Auto_Ray_Mask": "0"
+  },
+  "translation": null
+}

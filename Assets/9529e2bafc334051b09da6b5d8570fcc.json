@@ -1,0 +1,13 @@
+{
+  "name": "Waterfall_0",
+  "path": "Bundles/Objects/Large/Scenery/Waterfall_0/Waterfall_0.dat",
+  "data": {
+    "GUID": "9529e2bafc334051b09da6b5d8570fcc",
+    "Type": "Large",
+    "ID": "948",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Waterfall #1"
+  }
+}

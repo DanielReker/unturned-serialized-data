@@ -1,0 +1,19 @@
+{
+  "name": "PS_Safezone_Hatch_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Quest_Objects/PS_Safezone_Hatch_3/PS_Safezone_Hatch_3.dat",
+  "data": {
+    "GUID": "1046b00478ba41c39d029c7d709ed8a9",
+    "Type": "Large",
+    "ID": "59910",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "SAFEZONE_3",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Large/PS_Basement_Hatch_1"
+  },
+  "translation": {
+    "Name": "PS Safezone Hatch #4",
+    "Interact": "Escape [{0}]"
+  }
+}

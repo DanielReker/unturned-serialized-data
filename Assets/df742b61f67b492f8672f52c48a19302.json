@@ -1,0 +1,16 @@
+{
+  "name": "HeroPose",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/HeroPose/HeroPose.dat",
+  "data": {
+    "GUID": "df742b61f67b492f8672f52c48a19302",
+    "Type": "Large",
+    "ID": "51000",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS TRAILER HeroPose"
+  }
+}

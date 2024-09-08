@@ -1,0 +1,21 @@
+{
+  "name": "Patient Colton",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Patients/Patient Colton/Asset.dat",
+  "data": {
+    "GUID": "032fbf859a654a62bc10b5bd207d7b97",
+    "Type": "NPC",
+    "ID": "9029",
+    "Shirt": "8029",
+    "Pants": "8030",
+    "Face": "26",
+    "Hair": "3",
+    "Color_Skin": "#594934",
+    "Color_Hair": "#8b0cb2",
+    "Pose": "Asleep",
+    "Dialogue": "9204"
+  },
+  "translation": {
+    "Name": "NAM Patient Colton",
+    "Character": "Colton"
+  }
+}

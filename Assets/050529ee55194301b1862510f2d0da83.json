@@ -1,0 +1,28 @@
+{
+  "name": "Orange_Juice",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Drinks/Orange_Juice/Orange_Juice.dat",
+  "data": {
+    "GUID": "050529ee55194301b1862510f2d0da83",
+    "Type": "Water",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "25786",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Left_Handed_Characters_Mirror_Equipable": "false",
+    "Food": "5",
+    "Water": "40",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "25628",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "25536",
+    "ConsumeAudioClip": "Sounds/Food/drinkBottle.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Orange Juice",
+    "Description": "Cartoned oj."
+  }
+}

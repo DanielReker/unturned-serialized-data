@@ -1,0 +1,19 @@
+{
+  "name": "Kuwait_Telescope_Complete",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Small/Quests/Kuwait_Telescope_Complete/Kuwait_Telescope_Complete.dat",
+  "data": {
+    "GUID": "dae7c2f58a7c4ff0be26a61fd95a8117",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "5091",
+    "Asset_Bundle_Version": "2",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "28107",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Kuwait Telescope (Complete) (QUEST ITEM)"
+  }
+}

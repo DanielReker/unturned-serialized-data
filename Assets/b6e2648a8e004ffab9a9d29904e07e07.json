@@ -1,0 +1,17 @@
+{
+  "name": "Armory_Military_Incorrect",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Armory/Armory_Military_Incorrect/Asset.dat",
+  "data": {
+    "GUID": "b6e2648a8e004ffab9a9d29904e07e07",
+    "Type": "Dialogue",
+    "ID": "3019",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "3018"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ah, hmmm... <pause> Could you fill it out properly this time?",
+    "Response_0": "Sorry. Let me correct that."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Farm_Melee",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Farm_Melee/Metro_Farm_Melee.dat",
+  "data": {
+    "GUID": "c5613aa50ec44bafba7ed61b25450684",
+    "Type": "Spawn",
+    "ID": "57097",
+    "Tables": "1",
+    "Table_0_Asset_ID": "57424",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

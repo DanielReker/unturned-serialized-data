@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Withdraw_Unavailable",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Bank/Metro_Withdraw_Unavailable/Metro_Withdraw_Unavailable.dat",
+  "data": {
+    "GUID": "e93397b3b6854ace83751558e8504933",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57994"
+  },
+  "translation": {
+    "Name": "Metro Bank Withdraw Unavailable"
+  }
+}

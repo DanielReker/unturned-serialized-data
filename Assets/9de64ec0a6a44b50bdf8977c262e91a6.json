@@ -1,0 +1,12 @@
+{
+  "name": "EI_High_Tide",
+  "path": "Bundles/Mythics/EI_High_Tide/EI_High_Tide.dat",
+  "data": {
+    "GUID": "9de64ec0a6a44b50bdf8977c262e91a6",
+    "Type": "Mythic",
+    "ID": "32"
+  },
+  "translation": {
+    "Particle_Tag_Name": "High Tide"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Metro_Portal_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_Portal_0/Metro_Portal_0.dat",
+  "data": {
+    "GUID": "45feba0e0bdf4122b56b1b2ddfb00086",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "58165",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "57087",
+    "Condition_0_Value": "4",
+    "Condition_0_Logic": "Not_Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "Metro Portal #1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Metro_Ammo_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Ammo_0/Metro_Ammo_0.dat",
+  "data": {
+    "GUID": "0910e79e6ea94ec58b98b67aff19125d",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57442",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "1",
+    "Interactability_Effect": "57000",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Ammo #1"
+  }
+}

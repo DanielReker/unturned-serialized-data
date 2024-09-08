@@ -1,0 +1,17 @@
+{
+  "name": "Book_Black",
+  "path": "Bundles/Objects/Small/Furniture/Book_Black/Book_Black.dat",
+  "data": {
+    "GUID": "76744b70db354aecb685e81b4d73698f",
+    "Type": "Small",
+    "ID": "348",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "60",
+    "Interactability_Health": "1",
+    "Interactability_Effect": "58",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Black Book"
+  }
+}

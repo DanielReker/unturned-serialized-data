@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Decal_10",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Medium/Frost_Decal_10/Frost_Decal_10.dat",
+  "data": {
+    "GUID": "6e353d08f4ad4f04ac2c718df561cf8e",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "36037"
+  },
+  "translation": {
+    "Name": "Frost Decal #11"
+  }
+}

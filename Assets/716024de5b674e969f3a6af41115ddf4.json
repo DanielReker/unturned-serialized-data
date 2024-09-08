@@ -1,0 +1,13 @@
+{
+  "name": "Block_Road_0",
+  "path": "Bundles/Objects/Medium/Traffic/Block_Road_0/Block_Road_0.dat",
+  "data": {
+    "GUID": "716024de5b674e969f3a6af41115ddf4",
+    "Type": "Medium",
+    "ID": "12",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Block Road #1"
+  }
+}

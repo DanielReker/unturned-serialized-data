@@ -1,0 +1,20 @@
+{
+  "name": "PS_Mine_Door_31",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Mine_Door_31/PS_Mine_Door_31.dat",
+  "data": {
+    "GUID": "312d48b0c078422aaa664dd4544831d0",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60242",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "Tunnels1_Entrance_3",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/PS_Mine_Door_16"
+  },
+  "translation": {
+    "Name": "PS Mine Door #32 [Tunnels1 Entrance #4]",
+    "Interact": "Enter the tunnels [{0}]"
+  }
+}

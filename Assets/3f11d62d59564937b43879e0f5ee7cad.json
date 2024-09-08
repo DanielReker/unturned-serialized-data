@@ -1,0 +1,18 @@
+{
+  "name": "Hawaii_Maple_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Assets/Trees/Hawaii_Maple_0.asset",
+  "data": {
+    "GUID": "3f11d62d59564937b43879e0f5ee7cad",
+    "Type": "SDG.Framework.Foliage.FoliageResourceInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Density": "4000",
+    "Min_Weight": "0.5",
+    "Max_Weight": "1",
+    "Min_Angle": "0",
+    "Max_Angle": "60",
+    "Resource": {
+      "GUID": "c62c2ad6ddf6444498c32692dbe52640"
+    },
+    "Obstruction_Radius": "4"
+  },
+  "translation": null
+}

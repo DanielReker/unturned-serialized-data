@@ -1,0 +1,12 @@
+{
+  "name": "Checkout 2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Checkout 2/Checkout 2.dat",
+  "data": {
+    "GUID": "ea65590b4f884b54a2042dd0e3413bb2",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Checkout 2"
+  }
+}

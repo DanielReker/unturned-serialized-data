@@ -1,0 +1,26 @@
+{
+  "name": "Metro_Pumpkin_Placed_19",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Spooky/Metro_Pumpkin_Placed_19/Metro_Pumpkin_Placed_19.dat",
+  "data": {
+    "GUID": "6df6405b615b41b0814497bfc64c8c8d",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57882",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57289",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "57245",
+    "Condition_1_Value": "True",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": "",
+    "Master_Bundle_Override": "metro.masterbundle",
+    "Bundle_Override_Path": "/Objects/Quest/NPC/Spooky/Metro_Pumpkin_Placed"
+  },
+  "translation": {
+    "Name": "Metro Spooky 2 [Placed #20]",
+    "Interact": "Place Jack-o'-lantern [{0}]"
+  }
+}

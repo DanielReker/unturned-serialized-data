@@ -1,0 +1,14 @@
+{
+  "name": "Tyler_Major",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Admiral_Tyler/Tyler_Major/Asset.dat",
+  "data": {
+    "GUID": "1130c1df697d46fb8efb59ae96388f8e",
+    "Type": "Dialogue",
+    "ID": "2128",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Excellent! We currently don't have any uniform for you. None the less congratulations <color=legendary>Lieutenant Commander</color> <name_char>!"
+  }
+}

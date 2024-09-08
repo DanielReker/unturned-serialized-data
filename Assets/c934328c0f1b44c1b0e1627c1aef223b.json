@@ -1,0 +1,31 @@
+{
+  "name": "CarBattery",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Tools/CarBattery/CarBattery.dat",
+  "data": {
+    "GUID": "c934328c0f1b44c1b0e1627c1aef223b",
+    "Type": "Vehicle_Repair_Tool",
+    "Rarity": "Uncommon",
+    "Useable": "Battery_Vehicle",
+    "ID": "51937",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Quality_Min": "50",
+    "Quality_Max": "75",
+    "Override_Show_Quality": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51937",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "51314",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Output_1_ID": "51017",
+    "Blueprint_0_Output_1_Amount": "3",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Car Battery",
+    "Description": "Provides electricity for vehicles."
+  }
+}

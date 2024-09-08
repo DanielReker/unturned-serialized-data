@@ -1,0 +1,12 @@
+{
+  "name": "BE Crate #1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Medium/Military/BE Crate #1/BE Crate #1.dat",
+  "data": {
+    "GUID": "21ec2f4af2904137bd8b7ce5609aa037",
+    "Type": "Medium",
+    "ID": "9080"
+  },
+  "translation": {
+    "Name": "BE Crate #1"
+  }
+}

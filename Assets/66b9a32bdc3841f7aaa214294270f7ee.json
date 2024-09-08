@@ -1,0 +1,17 @@
+{
+  "name": "Frost_Military_Vehicle_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Frost_Military_Vehicle_01/Frost_Military_Vehicle_01.dat",
+  "data": {
+    "GUID": "66b9a32bdc3841f7aaa214294270f7ee",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Soft": "",
+    "Interactability": "Fuel",
+    "Interactability_Reset": "500",
+    "Interactability_Resource": "500"
+  },
+  "translation": {
+    "Name": "Frost Military Vehicle #2"
+  }
+}

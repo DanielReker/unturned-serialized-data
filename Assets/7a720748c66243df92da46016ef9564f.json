@@ -1,0 +1,44 @@
+{
+  "name": "Kuwait_Plastic_Baskets",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Assets/Material_Palettes/Kuwait_Plastic_Baskets.asset",
+  "data": {
+    "GUID": "7a720748c66243df92da46016ef9564f",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Plastic_Baskets/Kuwait_Basket_0.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Plastic_Baskets/Kuwait_Basket_1.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Plastic_Baskets/Kuwait_Basket_2.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Plastic_Baskets/Kuwait_Basket_3.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Plastic_Baskets/Kuwait_Basket_4.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Plastic_Baskets/Kuwait_Basket_5.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Plastic_Baskets/Kuwait_Basket_6.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Plastic_Baskets/Kuwait_Basket_7.mat"
+      }
+    ]
+  },
+  "translation": null
+}

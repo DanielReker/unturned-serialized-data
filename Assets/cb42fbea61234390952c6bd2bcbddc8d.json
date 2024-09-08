@@ -1,0 +1,31 @@
+{
+  "name": "Plate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Vests/Plate/Plate.dat",
+  "data": {
+    "GUID": "cb42fbea61234390952c6bd2bcbddc8d",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "51129",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "1",
+    "Height": "1",
+    "Movement_Speed_Multiplier": "1",
+    "Armor": "0.8",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51129",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "51017",
+    "Blueprint_0_Output_0_Amount": "2",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Armor Plate",
+    "Description": "Usable upgrade to most military vests, can also be worn on its own."
+  }
+}

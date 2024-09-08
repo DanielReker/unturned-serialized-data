@@ -1,0 +1,13 @@
+{
+  "name": "Medical Tent",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Medical Tent/Medical Tent.dat",
+  "data": {
+    "GUID": "e3d1a1b0cb4f4664a938d347477bc2a1",
+    "Type": "Large",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Medical Tent"
+  }
+}

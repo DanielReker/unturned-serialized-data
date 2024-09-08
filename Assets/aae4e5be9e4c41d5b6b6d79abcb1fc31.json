@@ -1,0 +1,13 @@
+{
+  "name": "Cliffs_Coalition_Vehicle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Spawns/Vehicles/Cliffs_Coalition_Vehicle/Cliffs_Coalition_Vehicle.dat",
+  "data": {
+    "GUID": "aae4e5be9e4c41d5b6b6d79abcb1fc31",
+    "Type": "Spawn",
+    "ID": "10121",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "750",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

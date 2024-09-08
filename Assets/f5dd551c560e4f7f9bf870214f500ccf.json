@@ -1,0 +1,18 @@
+{
+  "name": "Gravel_Sand_00_Collection",
+  "path": "Bundles/Assets/Landscapes/Foliage/Pebbles/Gravel_Sand_00_Collection.asset",
+  "data": {
+    "GUID": "f5dd551c560e4f7f9bf870214f500ccf",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "aefaa04d7d3d4a7a85d2b1419a6a2ff4"
+        },
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

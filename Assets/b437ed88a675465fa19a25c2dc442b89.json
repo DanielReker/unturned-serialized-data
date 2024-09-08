@@ -1,0 +1,16 @@
+{
+  "name": "Kira_Question_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Kira/Kira_04/Kira_Question_03/Asset.dat",
+  "data": {
+    "GUID": "b437ed88a675465fa19a25c2dc442b89",
+    "Type": "Dialogue",
+    "ID": "24083",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "It seemed like the easiest place to maintain. Plus it seemed like some others made their home here given all the beds and furniture. If they're still alive I doubt they will be coming back though given how overrun this place was... The truck trailers give me the feeling the Turned didn't wander in here themselves.",
+    "Response_0": "Good to know!"
+  }
+}

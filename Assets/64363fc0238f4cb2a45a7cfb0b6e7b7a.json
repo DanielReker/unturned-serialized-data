@@ -1,0 +1,13 @@
+{
+  "name": "PS_Wall_17",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Wall_17/PS_Wall_17.dat",
+  "data": {
+    "GUID": "64363fc0238f4cb2a45a7cfb0b6e7b7a",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60104"
+  },
+  "translation": {
+    "Name": "PS Wall #18"
+  }
+}

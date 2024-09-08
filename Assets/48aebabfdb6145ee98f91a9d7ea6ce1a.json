@@ -1,0 +1,17 @@
+{
+  "name": "Alastair_About_Uniform",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Major_Alastair/Alastair_About_Uniform/Asset.dat",
+  "data": {
+    "GUID": "48aebabfdb6145ee98f91a9d7ea6ce1a",
+    "Type": "Dialogue",
+    "ID": "45702",
+    "Messages": "1",
+    "Message_0_Pages": "4"
+  },
+  "translation": {
+    "Message_0_Page_0": "This uniform was granted to me by my superior officer for my hardwork and dedication to the <color=legendary>Coalition</color>.",
+    "Message_0_Page_1": "Incase you have not heard, the <color=legendary>Coalition</color> is an international force that was formed during the outbreak. These 4 soldiers behind me make up the rest of my squad and are also all well respected <color=uncommon>ensigns</color> of the Coalition.",
+    "Message_0_Page_2": "Our mission is to aid as many survivors, such as yourself, as possible and unite to take back our home. It is this mission that brought us here, to Hawaii! Unfortunately, in the process our plane crashed leaving us stranded.",
+    "Message_0_Page_3": "With that said, we could use an extra set of hands. Earn trust amongst the Unyielding and introduce yourself to my squad, then we can discuss further work."
+  }
+}

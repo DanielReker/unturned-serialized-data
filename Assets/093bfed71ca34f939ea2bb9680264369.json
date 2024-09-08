@@ -1,0 +1,14 @@
+{
+  "name": "PS_Hut_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Hut_5/PS_Hut_5.dat",
+  "data": {
+    "GUID": "093bfed71ca34f939ea2bb9680264369",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59278",
+    "Material_Palette": "3ab793ae2ec14e64a6b95df3d24dbb3f"
+  },
+  "translation": {
+    "Name": "PS Hut #6"
+  }
+}

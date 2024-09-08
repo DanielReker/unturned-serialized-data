@@ -1,0 +1,19 @@
+{
+  "name": "Easter_Destroyed_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Buildings/Easter_Destroyed_1/Easter_Destroyed_1.dat",
+  "data": {
+    "GUID": "cf1357d51008443fa17e76445676647a",
+    "Type": "Large",
+    "ID": "6777",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Material_Palette": "27a8442e8f284010962a5d2c10146dd8",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Destroyed House #2"
+  }
+}

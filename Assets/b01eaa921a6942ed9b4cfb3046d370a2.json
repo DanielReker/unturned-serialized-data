@@ -1,0 +1,13 @@
+{
+  "name": "Yukon_Kitchen",
+  "path": "Bundles/Spawns/Items/Yukon_Kitchen/Yukon_Kitchen.dat",
+  "data": {
+    "GUID": "b01eaa921a6942ed9b4cfb3046d370a2",
+    "Type": "Spawn",
+    "ID": "464",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "254",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

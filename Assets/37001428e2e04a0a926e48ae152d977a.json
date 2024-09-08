@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Mannequin_Iron",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Mannequin_Iron/Bar_Mannequin_Iron.dat",
+  "data": {
+    "GUID": "37001428e2e04a0a926e48ae152d977a",
+    "Type": "Effect",
+    "ID": "25393"
+  },
+  "translation": null
+}

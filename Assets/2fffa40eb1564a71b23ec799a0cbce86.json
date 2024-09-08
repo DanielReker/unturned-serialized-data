@@ -1,0 +1,13 @@
+{
+  "name": "BE Gas Station #1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Gas Station #1/BE Gas Station #1.dat",
+  "data": {
+    "GUID": "2fffa40eb1564a71b23ec799a0cbce86",
+    "Type": "Large",
+    "ID": "9019",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Gas Station #1"
+  }
+}

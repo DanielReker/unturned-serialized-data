@@ -1,0 +1,10 @@
+{
+  "name": "Wall_Concrete",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Structures/Wall_Concrete/Wall_Concrete.dat",
+  "data": {
+    "GUID": "e275132a2b9345878a3bbfb17aedd607",
+    "Type": "Effect",
+    "ID": "25434"
+  },
+  "translation": null
+}

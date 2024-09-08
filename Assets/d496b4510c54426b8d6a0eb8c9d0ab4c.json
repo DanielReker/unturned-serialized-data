@@ -1,0 +1,21 @@
+{
+  "name": "Note_Hawaii5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Note_Hawaii5/Note_Hawaii5.dat",
+  "data": {
+    "GUID": "d496b4510c54426b8d6a0eb8c9d0ab4c",
+    "Type": "Medium",
+    "ID": "6204",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Hawaii Note - Cave Survivors",
+    "Interactability_Text_Line_0": "Journal entry.... Not sure how many days it's been anymore...",
+    "Interactability_Text_Line_1": "*   *   *",
+    "Interactability_Text_Line_2": "Was another rather boring night until Josiah started screaming that he could see a ship. We all saw it. Something shining extremely bright on the water just beyond the lighthouse. A few of us grabbed packs and ran but by the time we got there whatever we saw had vanished. We should consider setting some flares along the coast for the next time. It will certainly reveal our position to Aegis but just might be worth it for a shot off the island."
+  }
+}

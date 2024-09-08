@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Bar_Asparagus",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Bar_Asparagus/Buak_Bar_Asparagus.dat",
+  "data": {
+    "GUID": "8c1394558076409883bcf063d5fc9271",
+    "Type": "Spawn",
+    "ID": "25455",
+    "Tables": "2",
+    "Table_0_Asset_ID": "25759",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "25760",
+    "Table_1_Weight": "5"
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Airfield_Stick_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Airfield_Stick_1/PS_Airfield_Stick_1.dat",
+  "data": {
+    "GUID": "064e929b67dc4a11a6f498ea156ca8f5",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60171"
+  },
+  "translation": {
+    "Name": "PS Airfield Stick #2"
+  }
+}

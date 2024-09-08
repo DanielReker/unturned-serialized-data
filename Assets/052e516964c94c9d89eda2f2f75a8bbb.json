@@ -1,0 +1,10 @@
+{
+  "name": "Executioner_Hat",
+  "path": "Bundles/Items/Outfits/Executioner/Executioner_Hat/Executioner_Hat.dat",
+  "data": {
+    "GUID": "052e516964c94c9d89eda2f2f75a8bbb",
+    "Type": "Hat",
+    "Pro": ""
+  },
+  "translation": null
+}

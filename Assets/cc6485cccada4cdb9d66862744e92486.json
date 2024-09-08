@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Ore_Silver",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Ore_Silver/Drop_Ore_Silver.dat",
+  "data": {
+    "GUID": "cc6485cccada4cdb9d66862744e92486",
+    "Type": "Spawn",
+    "ID": "25501",
+    "Tables": [
+      {
+        "Guid": "fc2a7b38ae7b4adaa5149d98cb24ec2a",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

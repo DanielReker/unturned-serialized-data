@@ -1,0 +1,14 @@
+{
+  "name": "PS_Bed_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Bed_3/PS_Bed_3.dat",
+  "data": {
+    "GUID": "3d4a9986ed3b4e508e93eac382f95e4e",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59564",
+    "Material_Palette": "a870594340db4fd6be3dfb00a7ec9cd6"
+  },
+  "translation": {
+    "Name": "PS Bed #4"
+  }
+}

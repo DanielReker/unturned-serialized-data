@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Rope",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Rope/PS_Drops_Rope.dat",
+  "data": {
+    "GUID": "25ecc87f631f4126a5af7d582bb9396f",
+    "Type": "Spawn",
+    "ID": "59366",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59574",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

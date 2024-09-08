@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Gummed_Tape_Big",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Gummed_Tape_Big/PS_Drops_Gummed_Tape_Big.dat",
+  "data": {
+    "GUID": "9659abbd734e4368a46d97924a92779a",
+    "Type": "Spawn",
+    "ID": "59407",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59625",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

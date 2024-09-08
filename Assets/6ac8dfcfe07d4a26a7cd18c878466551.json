@@ -1,0 +1,17 @@
+{
+  "name": "Quest_2_Random_0_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_2/Quest_2_Random_0_Return/Asset.dat",
+  "data": {
+    "GUID": "6ac8dfcfe07d4a26a7cd18c878466551",
+    "Type": "Dialogue",
+    "ID": "57764",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "57764"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=#C93B36>Random Quest</color> <color=#64c819>Completed</color>",
+    "Response_0": "Choose Reward"
+  }
+}

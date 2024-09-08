@@ -1,0 +1,13 @@
+{
+  "name": "PEI_Medic",
+  "path": "Bundles/Spawns/Vehicles/PEI_Medic/PEI_Medic.dat",
+  "data": {
+    "GUID": "8d45ac7c1a30480f954539d024c512dd",
+    "Type": "Spawn",
+    "ID": "312",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "313",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

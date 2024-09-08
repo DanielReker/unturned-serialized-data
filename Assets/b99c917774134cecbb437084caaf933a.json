@@ -1,0 +1,17 @@
+{
+  "name": "Carter_Question_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Carter/Carter_04/Carter_Question_01/Asset.dat",
+  "data": {
+    "GUID": "b99c917774134cecbb437084caaf933a",
+    "Type": "Dialogue",
+    "ID": "24054",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "5",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Don't waste your energy, you may need it to outrun some dangerous animals. Oh, also stay away from moose unless you're prepared to take it on.",
+    "Response_0": "Good to know!"
+  }
+}

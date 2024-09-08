@@ -1,0 +1,12 @@
+{
+  "name": "Ski_Glasses",
+  "path": "Bundles/Items/Outfits/AuroraSkier/Ski_Glasses/Ski_Glasses.dat",
+  "data": {
+    "GUID": "790ebdb441534431a7831d0b90c30843",
+    "Type": "Glasses",
+    "Pro": "",
+    "Hair": "",
+    "Beard": ""
+  },
+  "translation": null
+}

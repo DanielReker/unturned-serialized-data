@@ -1,0 +1,12 @@
+{
+  "name": "Fracking_smokestack",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Fracking_smokestack/Fracking_smokestack.dat",
+  "data": {
+    "GUID": "63395e63e8354592a3692e2f74017846",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Fracking smoke stack"
+  }
+}

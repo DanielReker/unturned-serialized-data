@@ -1,0 +1,20 @@
+{
+  "name": "Greece_Note_Survivors_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Greece_Note_Survivors_5/Greece_Note_Survivors_5.dat",
+  "data": {
+    "GUID": "5d316800542e46f7b70e00ba9419157c",
+    "Type": "Medium",
+    "ID": "3988",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Greece Note Punisher",
+    "Interactability_Text_Line_0": "I can't believe they just opened fire upon us. All we wanted was refuge, saftey, like they promised! We had waited, and waited to get inside that base, and just when I thought it was all going to be okay, they sounded their alarm and started firing their machine guns. Such an act is unacceptable, even in the apocalypse, and will not go unpunished. I'll see to it that these \"soldiers\" get what they have coming to them... I will enact my vengeance without mercy or discrimination, just like them."
+  }
+}

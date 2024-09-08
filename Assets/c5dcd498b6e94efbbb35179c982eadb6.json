@@ -1,0 +1,15 @@
+{
+  "name": "Doctor_Symptomatic_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Doctor_Military/Doctor_Symptomatic_Accepted/Asset.dat",
+  "data": {
+    "GUID": "c5dcd498b6e94efbbb35179c982eadb6",
+    "Type": "Dialogue",
+    "ID": "3532",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=rare>Nurse Ellinor</color> could probably use a second opinion on some soldiers diagnosis. You'll just need to choose the disease, stamp the patients page with the correct one, then take it to her and she'll look it over. It is a pretty straightforward process."
+  }
+}

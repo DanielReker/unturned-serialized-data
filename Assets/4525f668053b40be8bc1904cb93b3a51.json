@@ -1,0 +1,13 @@
+{
+  "name": "Brazil_Farm_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Brazil_Farm_Brazil/Brazil_Farm_Brazil.dat",
+  "data": {
+    "GUID": "4525f668053b40be8bc1904cb93b3a51",
+    "Type": "Spawn",
+    "ID": "5523",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5522",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

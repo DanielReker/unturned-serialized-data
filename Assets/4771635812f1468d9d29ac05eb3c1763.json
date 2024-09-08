@@ -1,0 +1,19 @@
+{
+  "name": "Note_Peaks_6",
+  "path": "Bundles/Objects/Medium/Furniture/Note_Peaks_6/Note_Peaks_6.dat",
+  "data": {
+    "GUID": "4771635812f1468d9d29ac05eb3c1763",
+    "Type": "Medium",
+    "ID": "2035",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Peaks Note - Checkpoint",
+    "Interactability_Text_Line_0": "This posting is soooo boring. Even if something did come through the tunnel I doubt it could climb the blockade."
+  }
+}

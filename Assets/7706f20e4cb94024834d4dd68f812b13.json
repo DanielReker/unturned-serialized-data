@@ -1,0 +1,15 @@
+{
+  "name": "Military_High_Peaks_Guns",
+  "path": "Bundles/Spawns/Items/Military_High_Peaks_Guns/Military_High_Peaks_Guns.dat",
+  "data": {
+    "GUID": "7706f20e4cb94024834d4dd68f812b13",
+    "Type": "Spawn",
+    "ID": "776",
+    "Tables": "2",
+    "Table_0_Asset_ID": "1377",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "1362",
+    "Table_1_Weight": "10"
+  },
+  "translation": null
+}

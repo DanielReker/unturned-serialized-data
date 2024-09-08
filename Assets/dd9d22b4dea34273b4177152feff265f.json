@@ -1,0 +1,25 @@
+{
+  "name": "Pan_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Pan_0/Pan_0.dat",
+  "data": {
+    "GUID": "dd9d22b4dea34273b4177152feff265f",
+    "Type": "Small",
+    "ID": "3671",
+    "Asset_Bundle_Version": "2",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "3068",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "3068",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Pans #1",
+    "Interact": "Collect Cooking Pot[{0}]"
+  }
+}

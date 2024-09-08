@@ -1,0 +1,40 @@
+{
+  "name": "Head_Moose",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Barricades/Head_Moose/Head_Moose.dat",
+  "data": {
+    "GUID": "f759484d06f44bef917503c00578e751",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Useable": "Barricade",
+    "Build": "Sign_Wall",
+    "ID": "27104",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "1.1",
+    "Use_Auto_Icon_Measurements": "False",
+    "Has_Clip_Prefab": "false",
+    "Salvage_Duration_Multiplier": ".3",
+    "Health": "200",
+    "Range": "4",
+    "Offset": "0.125",
+    "Explosion": "25442",
+    "Vulnerable": "",
+    "Locked": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "27104",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Tool": "25579",
+    "Blueprint_0_Tool_Critical": "True",
+    "Blueprint_0_Product": "25357",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "25535",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "Sounds/Placement/WoodenPlacement.mp3",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Moose Head Trophy",
+    "Description": "An animal head trophy."
+  }
+}

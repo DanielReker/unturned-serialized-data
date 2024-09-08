@@ -1,0 +1,10 @@
+{
+  "name": "Res_Wood_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Resources/Res_Wood_02/Res_Wood_02.dat",
+  "data": {
+    "GUID": "0cfc7141bc2d42d88e1a98f1c6e0c1d5",
+    "Type": "Effect",
+    "ID": "25511"
+  },
+  "translation": null
+}

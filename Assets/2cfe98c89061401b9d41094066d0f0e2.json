@@ -1,0 +1,29 @@
+{
+  "name": "Military_Guard_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Guard_5/Asset.dat",
+  "data": {
+    "GUID": "2cfe98c89061401b9d41094066d0f0e2",
+    "Type": "NPC",
+    "ID": "3552",
+    "Shirt": "3503",
+    "Pants": "3504",
+    "Vest": "3510",
+    "Mask": "1446",
+    "Hat": "3511",
+    "Glasses": "568",
+    "Face": "22",
+    "Hair": "0",
+    "Beard": "1",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#AC6A39",
+    "Primary": "3512",
+    "Secondary": "3515",
+    "Equipped": "Primary",
+    "Backward": "",
+    "Dialogue": "3003"
+  },
+  "translation": {
+    "Name": "Greek Guard Argos",
+    "Character": "<color=uncommon>Private Argos</color>"
+  }
+}

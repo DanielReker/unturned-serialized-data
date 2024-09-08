@@ -1,0 +1,20 @@
+{
+  "name": "France_Engineer_Inform",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Engineer/France_Engineer_Inform/Asset.dat",
+  "data": {
+    "GUID": "cc36d404c34f4463b84180017fe3e6fc",
+    "Type": "Dialogue",
+    "ID": "4213",
+    "Messages": "1",
+    "Message_0_Pages": "4",
+    "Responses": "1",
+    "Response_0_Dialogue": "4056"
+  },
+  "translation": {
+    "Message_0_Page_0": "It's... <pause> gone? <pause> destroyed?",
+    "Message_0_Page_1": "My god. I had a friend that worked at Rula.",
+    "Message_0_Page_2": "I-I hope he got out okay.",
+    "Message_0_Page_3": "Give me a minute.",
+    "Response_0": "I'm sorry."
+  }
+}

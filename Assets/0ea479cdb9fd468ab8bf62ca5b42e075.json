@@ -1,0 +1,17 @@
+{
+  "name": "Carter_Question_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Carter/Carter_04/Carter_Question_02/Asset.dat",
+  "data": {
+    "GUID": "0ea479cdb9fd468ab8bf62ca5b42e075",
+    "Type": "Dialogue",
+    "ID": "24053",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "5",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I guess a general one would be to learn your way around the land, know where everything is, it may help you greatly.",
+    "Response_0": "Good to know!"
+  }
+}

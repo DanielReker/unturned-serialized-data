@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Free_Camel_Nightcap",
+  "path": "Bundles/Items/Kuwait2/Kuwait_Free_Camel_Nightcap/Kuwait_Free_Camel_Nightcap.dat",
+  "data": {
+    "GUID": "4805b7361ac0450fa48f8adeecec0fb3",
+    "Type": "Hat",
+    "ID": "1754",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.45",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

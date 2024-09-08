@@ -1,0 +1,24 @@
+{
+  "name": "Kuwait_Outlands_Train_Station_Door_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Quests/Kuwait_Outlands/Kuwait_Outlands_Train_Station_Door_0/Kuwait_Outlands_Train_Station_Door_0.dat",
+  "data": {
+    "GUID": "ea9c689e112e4d8ea35a22dbfc1c8835",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5455",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "5471",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability": "Binary_State",
+    "Interactability_Delay": "2",
+    "Interactability_Reset": "4",
+    "Interactability_Hint": "Door"
+  },
+  "translation": {
+    "Name": "Kuwait Train Station Door #1",
+    "Interact": "Open [{0}]",
+    "Interactability_Condition_0": "You missed something."
+  }
+}

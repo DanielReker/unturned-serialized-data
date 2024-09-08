@@ -1,0 +1,12 @@
+{
+  "name": "PBS_Cowboy_Hat",
+  "path": "Bundles/Items/PBS/PBS_Cowboy_Hat/PBS_Cowboy_Hat.dat",
+  "data": {
+    "GUID": "2e711f408d0f4176864d2706395924d3",
+    "Type": "Hat",
+    "Pro": "",
+    "Beard": "",
+    "Hair_Override": "Model_1"
+  },
+  "translation": null
+}

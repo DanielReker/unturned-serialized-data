@@ -1,0 +1,14 @@
+{
+  "name": "Theseus_Door_Oil_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Omega_Security_Theseus/Theseus_Door_Oil_Accepted/Asset.dat",
+  "data": {
+    "GUID": "af9f23d407034727b7e2b792db64202b",
+    "Type": "Dialogue",
+    "ID": "3348",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I have no clue where it could be, or if we even have any here. Although, it is very likely that there is some somewhere nearby."
+  }
+}

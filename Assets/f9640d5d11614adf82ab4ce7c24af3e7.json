@@ -1,0 +1,23 @@
+{
+  "name": "Painkillers",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Medical/Painkillers/Painkillers.dat",
+  "data": {
+    "GUID": "f9640d5d11614adf82ab4ce7c24af3e7",
+    "Type": "Medical",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "51415",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Aid": "",
+    "Health": "25",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Rewards_List_Asset",
+    "Quest_Reward_0_GUID": "d8b1c98d03c24ef79955cfc9432333c9"
+  },
+  "translation": {
+    "Name": "Painkillers",
+    "Description": "Pills that block pain receptors.<br><color=#bf1c1c>25 Health</color>"
+  }
+}

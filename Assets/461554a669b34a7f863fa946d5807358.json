@@ -1,0 +1,14 @@
+{
+  "name": "Chef_Grub_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Cafeteria_Chef_Military/Chef_Grub_Accepted/Asset.dat",
+  "data": {
+    "GUID": "461554a669b34a7f863fa946d5807358",
+    "Type": "Dialogue",
+    "ID": "3479",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "We've got to get the next meals prepared ahead of time, I need you to make these items from the menu while I make the rest."
+  }
+}

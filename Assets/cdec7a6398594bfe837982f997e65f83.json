@@ -1,0 +1,14 @@
+{
+  "name": "29607KDC2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/3/D/29600KDD/29607KDC2/Asset.dat",
+  "data": {
+    "GUID": "cdec7a6398594bfe837982f997e65f83",
+    "Type": "Dialogue",
+    "ID": "29607",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You're the best. I'll do almost anything that you want me to."
+  }
+}

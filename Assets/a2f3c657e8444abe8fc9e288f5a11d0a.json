@@ -1,0 +1,28 @@
+{
+  "name": "Police",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Police/Police/Police.dat",
+  "data": {
+    "GUID": "a2f3c657e8444abe8fc9e288f5a11d0a",
+    "Type": "Spawn",
+    "ID": "51025",
+    "Tables": [
+      {
+        "Guid": "6beebc2ec72449b2b11e99137ea463df",
+        "Weight": "40"
+      },
+      {
+        "Guid": "5ca66e7cbbb446c48cb65168e84c6909",
+        "Weight": "40"
+      },
+      {
+        "Guid": "2dc9cfcb268d48f1b82c4b18f8384072",
+        "Weight": "10"
+      },
+      {
+        "Guid": "b9f4d25f38c04847bfe8608dcd99d7a7",
+        "Weight": "10"
+      }
+    ]
+  },
+  "translation": null
+}

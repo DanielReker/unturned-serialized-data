@@ -1,0 +1,18 @@
+{
+  "name": "Metro_Ornament",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_Ornament/Metro_Ornament.dat",
+  "data": {
+    "GUID": "4d350664dbbc4a088b752d3cc293503a",
+    "Type": "Throwable",
+    "Rarity": "Uncommon",
+    "Useable": "Throwable",
+    "ID": "57715",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3"
+  },
+  "translation": {
+    "Name": "Ornamental Smoke Grenade",
+    "Description": "<color=#64c819>3 Minute</color> Duration"
+  }
+}

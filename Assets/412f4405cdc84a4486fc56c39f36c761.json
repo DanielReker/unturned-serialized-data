@@ -1,0 +1,13 @@
+{
+  "name": "Farm_Guns_Kuwait",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Farm_Guns_Kuwait/Farm_Guns_Kuwait.dat",
+  "data": {
+    "GUID": "412f4405cdc84a4486fc56c39f36c761",
+    "Type": "Spawn",
+    "ID": "7102",
+    "Tables": "1",
+    "Table_0_Asset_ID": "5032",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

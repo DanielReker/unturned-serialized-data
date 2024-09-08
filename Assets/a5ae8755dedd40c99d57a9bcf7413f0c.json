@@ -1,0 +1,164 @@
+{
+  "name": "Table_Civilian",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Table_Civilian/Table_Civilian.dat",
+  "data": {
+    "GUID": "a5ae8755dedd40c99d57a9bcf7413f0c",
+    "Type": "Spawn",
+    "ID": "51101",
+    "Tables": [
+      {
+        "Guid": "dcc46cf3050a4f4e85e9663986473af3",
+        "Weight": "20"
+      },
+      {
+        "Guid": "d6e99d0f582d4929b11bc00cc517d904",
+        "Weight": "10"
+      },
+      {
+        "Guid": "c35ca303de6f4bf1869ab7c747903345",
+        "Weight": "10"
+      },
+      {
+        "Guid": "5ab65b4decac41778f4aecb2d056a05b",
+        "Weight": "10"
+      },
+      {
+        "Guid": "ede7fbf6ec9144f5b747bed87e221f0c",
+        "Weight": "10"
+      },
+      {
+        "Guid": "3fd45c569a194f1b9e3f4647737b2eff",
+        "Weight": "10"
+      },
+      {
+        "Guid": "09ebbfc8b6fe439eb5fb53dae39c7045",
+        "Weight": "10"
+      },
+      {
+        "Guid": "69a44209444744a8a8a90ccf00a214fc",
+        "Weight": "10"
+      },
+      {
+        "Guid": "73755e0f9d6440d8acef9b40c08bb009",
+        "Weight": "10"
+      },
+      {
+        "Guid": "4faed459d7b640e6adbde34b0beaf824",
+        "Weight": "10"
+      },
+      {
+        "Guid": "f6549c8a10274b6592bbec5b6d97c770",
+        "Weight": "10"
+      },
+      {
+        "Guid": "941f728f126146d1bb7afff779deabac",
+        "Weight": "10"
+      },
+      {
+        "Guid": "911344fad4af4f0f9277e02b9d3f40a6",
+        "Weight": "10"
+      },
+      {
+        "Guid": "730dc402a10149b9a1e3d2ebdf3a7199",
+        "Weight": "10"
+      },
+      {
+        "Guid": "efb8503258994e168cb033b9de302384",
+        "Weight": "10"
+      },
+      {
+        "Guid": "08cc2c50ea3c4a3fbdb7a78f4a71c528",
+        "Weight": "10"
+      },
+      {
+        "Guid": "f64b072540944ccea86168c5f4bbdc08",
+        "Weight": "10"
+      },
+      {
+        "Guid": "f60aa7e636f54ddaa7f8ca9981c3c4e2",
+        "Weight": "10"
+      },
+      {
+        "Guid": "0961cb8027e340b3b73c3556c3dafab1",
+        "Weight": "10"
+      },
+      {
+        "Guid": "4907cd700db54993b26a787dfbc99980",
+        "Weight": "10"
+      },
+      {
+        "Guid": "51c19857fcf94324b4b20baa3629069d",
+        "Weight": "10"
+      },
+      {
+        "Guid": "3aeff36f8f5e4c499da17d798c362b38",
+        "Weight": "10"
+      },
+      {
+        "Guid": "6ad2f0767c2a468b82a7166eab46875b",
+        "Weight": "10"
+      },
+      {
+        "Guid": "4a66dee7c8ec44989d3bd7cafb7a5bb9",
+        "Weight": "10"
+      },
+      {
+        "Guid": "9dffee8895fa4795969837a238b5a85f",
+        "Weight": "10"
+      },
+      {
+        "Guid": "bf574ac2347245cf96920e9c35b3ddac",
+        "Weight": "10"
+      },
+      {
+        "Guid": "1f61b62ee3c441849023b0c9812658cb",
+        "Weight": "10"
+      },
+      {
+        "Guid": "c0aedc0fe2c24f90a536a3641e48a44d",
+        "Weight": "10"
+      },
+      {
+        "Guid": "42dfaf125baf4b19aa493203af3fa517",
+        "Weight": "10"
+      },
+      {
+        "Guid": "b66e732f3ea247a29154907bf4dc07ee",
+        "Weight": "10"
+      },
+      {
+        "Guid": "f0067775c857440890cb7fbdb7214122",
+        "Weight": "10"
+      },
+      {
+        "Guid": "5f9e9abb733b4b82a0624d0d12ac752c",
+        "Weight": "10"
+      },
+      {
+        "Guid": "46ebe7dbcaeb4c148cb0c8cfe9b7953e",
+        "Weight": "10"
+      },
+      {
+        "Guid": "9cd0bb7cccc44f4d80ce4e70f0f87adf",
+        "Weight": "10"
+      },
+      {
+        "Guid": "9bc9872056cf47239b552f2609ae2a37",
+        "Weight": "10"
+      },
+      {
+        "Guid": "89ca704a018f4b7590d4f25eff758054",
+        "Weight": "2"
+      },
+      {
+        "Guid": "89ca813e93c844159e0e4471d2495aa2",
+        "Weight": "1"
+      },
+      {
+        "Guid": "7f7ff163eca5427b8549f8a30dc998d0",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

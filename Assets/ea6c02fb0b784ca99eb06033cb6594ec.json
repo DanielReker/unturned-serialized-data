@@ -1,0 +1,28 @@
+{
+  "name": "PBS_Gurt_Sad",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Gurt_Sad/Asset.dat",
+  "data": {
+    "GUID": "ea6c02fb0b784ca99eb06033cb6594ec",
+    "Type": "NPC",
+    "ID": "52180",
+    "Hat": "970",
+    "Shirt": "51195",
+    "Face": "0",
+    "Hair": "3",
+    "Beard": "0",
+    "Color_Skin": "#000000",
+    "Color_Hair": "#000000",
+    "Dialogue": "52181",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "52186",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Pose": "Rest"
+  },
+  "translation": {
+    "Name": "PBS NPC Gurt Sad",
+    "Character": "gurt"
+  }
+}

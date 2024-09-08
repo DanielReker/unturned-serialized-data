@@ -1,0 +1,17 @@
+{
+  "name": "AthensAprixOutfit",
+  "path": "Bundles/Items/Outfits/AthensAprixOutfit.asset",
+  "data": {
+    "GUID": "9c8bbc589afd4b9db5f38e449a57f76e",
+    "Type": "SDG.Unturned.OutfitAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Items": [
+      "60938e0470fd419eb4ece6ec3abcdd6d",
+      "ec7752eaf0284ad3aafd8336468ab8eb",
+      "2ecdc08a190e401bb8a02201335a7253",
+      "63255da2693641539c188c1e055b64ee",
+      "31ff021da4e2421b8d1810bf072547fd",
+      "36f2062fd2a240f19935ff484a040083"
+    ]
+  },
+  "translation": null
+}

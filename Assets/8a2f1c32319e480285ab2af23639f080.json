@@ -1,0 +1,10 @@
+{
+  "name": "Repair_Knife",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Crafting/Repair_Knife/Repair_Knife.dat",
+  "data": {
+    "GUID": "8a2f1c32319e480285ab2af23639f080",
+    "Type": "Effect",
+    "ID": "25519"
+  },
+  "translation": null
+}

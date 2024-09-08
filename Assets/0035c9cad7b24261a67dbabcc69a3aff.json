@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Water",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Water/PS_Drops_Water.dat",
+  "data": {
+    "GUID": "0035c9cad7b24261a67dbabcc69a3aff",
+    "Type": "Spawn",
+    "ID": "59430",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59056",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

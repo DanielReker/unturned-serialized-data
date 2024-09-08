@@ -1,0 +1,16 @@
+{
+  "name": "Drop_ClothScraps",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/BarricadeDestroy/Drop_ClothScraps/Drop_ClothScraps.dat",
+  "data": {
+    "GUID": "edd1ce0fd90041b89e909cc303fada46",
+    "Type": "Spawn",
+    "ID": "51329",
+    "Tables": [
+      {
+        "Guid": "c39a5496c2ee4897b03469f7a9d488f0",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

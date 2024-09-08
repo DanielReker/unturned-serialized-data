@@ -1,0 +1,14 @@
+{
+  "name": "PS_Car_Boom",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Explosions/PS_Car_Boom/PS_Car_Boom.dat",
+  "data": {
+    "GUID": "38db64818de14abd917fac42efb7dc10",
+    "Type": "Effect",
+    "ID": "59021",
+    "Blast": "137",
+    "Relevant_Distance": "600",
+    "CameraShake_Radius": "32",
+    "CameraShake_MagnitudeDegrees": "50"
+  },
+  "translation": null
+}

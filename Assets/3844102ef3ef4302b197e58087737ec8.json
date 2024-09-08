@@ -1,0 +1,21 @@
+{
+  "name": "NH3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/ProItems/NH3/NH3.dat",
+  "data": {
+    "GUID": "3844102ef3ef4302b197e58087737ec8",
+    "Type": "Medical",
+    "Useable": "Consumeable",
+    "ID": "52002",
+    "Pro": "",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Health": "0",
+    "Master_Bundle_Override": "pbs.masterbundle",
+    "Bundle_Override_Path": "/Items/Supplies/Medical/Dressing"
+  },
+  "translation": {
+    "Name": "Intermediate Healing",
+    "Description": "It's not much, you'll be fine."
+  }
+}

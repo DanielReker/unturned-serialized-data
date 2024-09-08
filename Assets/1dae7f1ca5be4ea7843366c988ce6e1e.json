@@ -1,0 +1,13 @@
+{
+  "name": "PS_Bunker_Cables_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Bunker_Cables_5/PS_Bunker_Cables_5.dat",
+  "data": {
+    "GUID": "1dae7f1ca5be4ea7843366c988ce6e1e",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59635"
+  },
+  "translation": {
+    "Name": "PS Bunker Cables #6 [Quad Ring]"
+  }
+}

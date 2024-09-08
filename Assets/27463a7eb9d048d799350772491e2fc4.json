@@ -1,0 +1,20 @@
+{
+  "name": "Den",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Den/Den/Den.dat",
+  "data": {
+    "GUID": "27463a7eb9d048d799350772491e2fc4",
+    "Type": "Spawn",
+    "ID": "51310",
+    "Tables": [
+      {
+        "Guid": "adbbf422a68b41c8be8bd70fc4bbffe3",
+        "Weight": "10"
+      },
+      {
+        "Guid": "63227070670b4b698cd02166cf23aaa4",
+        "Weight": "9"
+      }
+    ]
+  },
+  "translation": null
+}

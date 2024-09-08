@@ -1,0 +1,17 @@
+{
+  "name": "LS_Lo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Songs/LS_Lo/LS_Lo.asset",
+  "data": {
+    "GUID": "1f73da46f0804ec18b16962e4cd982cd",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Song": {
+      "MasterBundle": "buak.masterbundle",
+      "AssetPath": "Music/LS_Lo.ogg"
+    },
+    "Link_URL": "https://www.youtube.com/watch?v=vGs_NKRWwNg",
+    "Is_Loop": "true"
+  },
+  "translation": {
+    "Name": "Lurking Shadow Lofi - staswalle"
+  }
+}

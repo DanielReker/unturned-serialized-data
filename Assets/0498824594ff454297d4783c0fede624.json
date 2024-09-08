@@ -1,0 +1,13 @@
+{
+  "name": "Paintball_Arena_0_Arena_Ammunition_Paintball",
+  "path": "Bundles/Spawns/Items/Paintball_Arena_0_Arena_Ammunition_Paintball/Paintball_Arena_0_Arena_Ammunition_Paintball.dat",
+  "data": {
+    "GUID": "0498824594ff454297d4783c0fede624",
+    "Type": "Spawn",
+    "ID": "534",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "531",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

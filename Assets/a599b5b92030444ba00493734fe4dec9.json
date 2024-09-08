@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Airport_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Airport_1/Rio_Airport_1.dat",
+  "data": {
+    "GUID": "a599b5b92030444ba00493734fe4dec9",
+    "Type": "Large",
+    "ID": "6012",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Airport #1"
+  }
+}

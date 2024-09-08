@@ -1,0 +1,12 @@
+{
+  "name": "Elver_Crystals_Orange",
+  "path": "Bundles/Mythics/Elver_Crystals_Orange/Elver_Crystals_Orange.dat",
+  "data": {
+    "GUID": "7ca8d7435be34486be4af68eb1433ef5",
+    "Type": "Mythic",
+    "ID": "35"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Soul Shattered"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Research0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Assets/Material_Palettes/Research0.asset",
+  "data": {
+    "GUID": "4704ab835eb444c3be48a1fb7ac3cc6f",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "easterisland.masterbundle",
+        "Path": "Assets/Material_Pallets/research/research0.mat"
+      }
+    ]
+  },
+  "translation": null
+}

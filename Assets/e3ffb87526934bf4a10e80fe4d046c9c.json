@@ -1,0 +1,16 @@
+{
+  "name": "Vlad_History",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Vlad Krasnok/Vlad_History/Asset.dat",
+  "data": {
+    "GUID": "e3ffb87526934bf4a10e80fe4d046c9c",
+    "Type": "Dialogue",
+    "ID": "5803",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm Vlad Krasnok, I'm buying up animal s-s-skins...<pause> B-but not ordinary, but m-mutated. Why, d-do you ask? The mutated are st-st-strong, therefore mo-mo-more effective. If you f-find anything, b-b-bring it, and I can p-pay you b-b-b-back.",
+    "Response_0": "Sounds good."
+  }
+}

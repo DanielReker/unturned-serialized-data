@@ -1,0 +1,13 @@
+{
+  "name": "RC_Control",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Small/RC_Control/RC_Control.dat",
+  "data": {
+    "GUID": "bc3e5a05538e48b289db78a448000519",
+    "Type": "Small",
+    "ID": "51006",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS RC Controller"
+  }
+}

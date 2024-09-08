@@ -1,0 +1,13 @@
+{
+  "name": "PS_Wooden_Fence_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Wooden_Fence_0/PS_Wooden_Fence_0.dat",
+  "data": {
+    "GUID": "6f5c84b722d44c8d912c29511ffb4615",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59294"
+  },
+  "translation": {
+    "Name": "PS Wooden Fence #1"
+  }
+}

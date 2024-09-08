@@ -1,0 +1,18 @@
+{
+  "name": "Kuwait_Destroyed_Sedan",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Vehicles/Kuwait_Destroyed_Sedan/Kuwait_Destroyed_Sedan.dat",
+  "data": {
+    "GUID": "cce648f7d3c24be9993a10e04a2a27ff",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5362",
+    "Material_Palette": "5e3c485fa7ca46b79daefb607011e442",
+    "Interactability": "Fuel",
+    "Interactability_Reset": "1500",
+    "Interactability_Resource": "500",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Sedan #1"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "MilitaryCrateRifle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Tools/MilitaryCrateRifle/MilitaryCrateRifle.dat",
+  "data": {
+    "GUID": "9fe3e904c65a41c086ef082bded6fa94",
+    "Type": "Medical",
+    "Rarity": "Epic",
+    "Useable": "Consumeable",
+    "ID": "52033",
+    "Size_X": "4",
+    "Size_Y": "2",
+    "Size_Z": ".3",
+    "Aid": "",
+    "Quest_Rewards": "2",
+    "Quest_Reward_0_Type": "Rewards_List_Asset",
+    "Quest_Reward_0_GUID": "121013cb3c45404f8996ea6657750188",
+    "Quest_Reward_1_Type": "Item",
+    "Quest_Reward_1_ID": "51933",
+    "Quest_Reward_1_Amount": "1",
+    "Master_Bundle_Override": "pbs.masterbundle",
+    "Bundle_Override_Path": "/Items/Tools/FishingCrateRifle"
+  },
+  "translation": {
+    "Name": "Military Long Gun Crate",
+    "Description": "Contains a random military grade rifle or assault rifle, with some extra equipment."
+  }
+}

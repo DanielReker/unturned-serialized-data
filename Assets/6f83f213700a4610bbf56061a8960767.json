@@ -1,0 +1,20 @@
+{
+  "name": "Note_9216",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Medium/Furniture/Note_9216/Note_9216.dat",
+  "data": {
+    "GUID": "6f83f213700a4610bbf56061a8960767",
+    "Type": "Medium",
+    "ID": "9216",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Belgium Note - Torhout Report #1",
+    "Interactability_Text_Line_0": "There has just been a report of a meteor that struck Ypres; leaving an unspecified number of casualties and deaths."
+  }
+}

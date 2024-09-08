@@ -1,0 +1,26 @@
+{
+  "name": "Metro_Confetti_Cannon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Metro_Confetti_Cannon/Metro_Confetti_Cannon.dat",
+  "data": {
+    "GUID": "0a2c6aa5b861488ea7f1e9d8cb6bb2b1",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57633",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "57102",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability": "Binary_State",
+    "Interactability_Reset": "1",
+    "Interactability_Hint": "Use",
+    "Asset_Bundle_Version": "3",
+    "Master_Bundle_Override": "metro.masterbundle",
+    "Bundle_Override_Path": "/Objects/Quest/NPC/Metro_Cannon_Confetti"
+  },
+  "translation": {
+    "Name": "Metro NPC [Confetti Cannon]",
+    "Interactability_Condition_0": "Sacrifice a <color=#C832FA>Scripture</color> at the Town or Gas Station",
+    "Interact": "Shoot [{0}]"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Buak_Wood_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Resources/Buak_Wood_01/Buak_Wood_01.dat",
+  "data": {
+    "GUID": "20635f3c0f2b429892f66f1246f01442",
+    "Type": "Resource",
+    "ID": "25330",
+    "Health": "1",
+    "Radius": "5",
+    "Scale": "0.2",
+    "Explosion": "25510",
+    "Reward_ID": "25314",
+    "Reward_XP": "1",
+    "Forage": "",
+    "No_Debris": "",
+    "Reset": "250",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Wood_01"
+  }
+}

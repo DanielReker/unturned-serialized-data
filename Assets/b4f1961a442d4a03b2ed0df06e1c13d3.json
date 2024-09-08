@@ -1,0 +1,25 @@
+{
+  "name": "Easter_Metal_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Resources/Easter_Metal_0/Easter_Metal_0.dat",
+  "data": {
+    "GUID": "b4f1961a442d4a03b2ed0df06e1c13d3",
+    "Type": "Resource",
+    "ID": "6614",
+    "Health": "1200",
+    "Radius": "4",
+    "Scale": "0.3",
+    "Explosion": "52",
+    "Reward_ID": "518",
+    "Reward_XP": "6",
+    "Reward_Min": "3",
+    "Reward_Max": "7",
+    "BladeID": "2",
+    "No_Debris": "",
+    "Reset": "1000",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Easter Metal #1"
+  }
+}

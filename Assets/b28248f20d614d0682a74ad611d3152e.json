@@ -1,0 +1,17 @@
+{
+  "name": "Metro_Grass_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Grass_1/Metro_Grass_1.dat",
+  "data": {
+    "GUID": "b28248f20d614d0682a74ad611d3152e",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57549",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Allow_Structures": ""
+  },
+  "translation": {
+    "Name": "Metro Grass #2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GIGN_High_France_Ammo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/GIGN_High_France_Ammo/GIGN_High_France_Ammo.dat",
+  "data": {
+    "GUID": "f2586ce6bd62413ab78bdcc8d2f5e741",
+    "Type": "Spawn",
+    "ID": "2115",
+    "Tables": "1",
+    "Table_0_Asset_ID": "43",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

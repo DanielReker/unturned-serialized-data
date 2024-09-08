@@ -1,0 +1,13 @@
+{
+  "name": "PS_Exit_Door_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Exit_Door_00/PS_Exit_Door_00.dat",
+  "data": {
+    "GUID": "8f3e688e5b4946a5bab708cde4353f15",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59600"
+  },
+  "translation": {
+    "Name": "PS Exit Door #1"
+  }
+}

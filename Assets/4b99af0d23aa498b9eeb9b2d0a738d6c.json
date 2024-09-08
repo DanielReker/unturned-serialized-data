@@ -1,0 +1,15 @@
+{
+  "name": "Barracks_Officer_Guard_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Barracks_Omega/Barracks_Officer_Guard_Completed/Asset.dat",
+  "data": {
+    "GUID": "4b99af0d23aa498b9eeb9b2d0a738d6c",
+    "Type": "Dialogue",
+    "ID": "3231",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_PREV": "3081"
+  },
+  "translation": {
+    "Message_0_Page_0": "A little sloppy, but for your first time, not too bad."
+  }
+}

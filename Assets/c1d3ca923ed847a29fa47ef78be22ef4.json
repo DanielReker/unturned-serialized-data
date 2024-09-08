@@ -1,0 +1,16 @@
+{
+  "name": "Oil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Oil/Oil.dat",
+  "data": {
+    "GUID": "c1d3ca923ed847a29fa47ef78be22ef4",
+    "Type": "Spawn",
+    "ID": "51108",
+    "Tables": [
+      {
+        "Guid": "3a2c0cdeb2f74773b85da9655f9093e7",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Dumpster",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Dumpster/Dumpster.dat",
+  "data": {
+    "GUID": "7b442d3f9fef44d2907f5ab01dbd40a5",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Dumpster 1"
+  }
+}

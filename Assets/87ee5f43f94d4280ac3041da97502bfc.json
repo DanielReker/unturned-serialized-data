@@ -1,0 +1,11 @@
+{
+  "name": "Plate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Effects/Grenades/Plate/Plate.dat",
+  "data": {
+    "GUID": "87ee5f43f94d4280ac3041da97502bfc",
+    "Type": "Effect",
+    "ID": "51009",
+    "Spawn_On_Dedicated_Server": ""
+  },
+  "translation": null
+}

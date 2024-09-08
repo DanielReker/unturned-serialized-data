@@ -1,0 +1,39 @@
+{
+  "name": "Trophy_Metal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Trophy_Metal/Trophy_Metal.dat",
+  "data": {
+    "GUID": "0be6ede3ccb64116b318ff468fc68df4",
+    "Type": "Storage",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Storage",
+    "ID": "52157",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "SalvageItem": "0be6ede3ccb64116b318ff468fc68df4",
+    "Health": "300",
+    "Range": "4",
+    "Radius": "0.5",
+    "Offset": "1.25",
+    "Storage_X": "5",
+    "Storage_Y": "3",
+    "Display": "",
+    "Locked": "",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51018",
+    "Blueprint_0_Supply_0_Amount": "3",
+    "Blueprint_0_Build": "27",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3",
+    "Has_Clip_Prefab": "false",
+    "Armor_Tier": "Low"
+  },
+  "translation": {
+    "Name": "Metal Trophy Case",
+    "Description": "Metal case for storing trophies."
+  }
+}

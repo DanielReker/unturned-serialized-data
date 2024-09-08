@@ -1,0 +1,28 @@
+{
+  "name": "PS_Trader_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/PS_Trader_4/Asset.dat",
+  "data": {
+    "GUID": "52e04c7d0ec5415c885db4eb2c3df067",
+    "Type": "NPC",
+    "ID": "59020",
+    "Face": "29",
+    "Hair": "2",
+    "Beard": "0",
+    "Color_Skin": "#C2AD90",
+    "Color_Hair": "#57452F",
+    "Dialogue": "59123",
+    "Shirt": "59722",
+    "Pants": "59723",
+    "Backpack": "59721",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Backpack": "59721",
+    "Halloween_Shirt": "6a9556fdf392402ebbea6b2802e446f7",
+    "Halloween_Pants": "66029e1db3eb4726af98093b8185e94c",
+    "Halloween_Hat": "2054d1ce46174b5a9258582303f0cf47",
+    "Halloween_Mask": "a48d5362346d406faa6245dbe0ba3eac"
+  },
+  "translation": {
+    "Name": "PS Trader #5 [Suit]",
+    "Character": "Informant"
+  }
+}

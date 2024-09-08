@@ -1,0 +1,13 @@
+{
+  "name": "PS_Mosque_Door_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Mosque_Door_1/PS_Mosque_Door_1.dat",
+  "data": {
+    "GUID": "ac01c504c0774a4d990833f41b600382",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59524"
+  },
+  "translation": {
+    "Name": "PS Mosque Door #2"
+  }
+}

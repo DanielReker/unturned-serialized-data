@@ -1,0 +1,16 @@
+{
+  "name": "PaintingYounus",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingYounus/PaintingYounus.dat",
+  "data": {
+    "GUID": "eb097f7c2d4840b993624480df6b1aa0",
+    "Type": "Spawn",
+    "ID": "51296",
+    "Tables": [
+      {
+        "Guid": "9fb394f15ca54416b8a38dca71c59915",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

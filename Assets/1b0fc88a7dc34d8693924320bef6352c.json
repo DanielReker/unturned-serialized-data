@@ -1,0 +1,14 @@
+{
+  "name": "27264KSABC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27250KSAD/27264KSABC/Asset.dat",
+  "data": {
+    "GUID": "1b0fc88a7dc34d8693924320bef6352c",
+    "Type": "Dialogue",
+    "ID": "27264",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Right on! I can rebuild this from the ground up now - just a bit of this, bit of that, and...<pause> done! Have a go at it now, yeah?"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Quest_0_Zombie_2_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_0/Quest_0_Zombie_2_Return/Asset.dat",
+  "data": {
+    "GUID": "9c49bde1bcfb485eaad87e1635a04bf2",
+    "Type": "Dialogue",
+    "ID": "57592",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=#1f871f>Huntsman 3</color> <color=#64c819>Completed</color>"
+  }
+}

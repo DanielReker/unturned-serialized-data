@@ -1,0 +1,14 @@
+{
+  "name": "Youssef_Good_Deed_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Homeless Civilain Youssef/Youssef_Good_Deed_Accepted/Asset.dat",
+  "data": {
+    "GUID": "790c2a64a82c4e94b4d75b1650ee0322",
+    "Type": "Dialogue",
+    "ID": "9211",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Okay thank you! Be careful."
+  }
+}

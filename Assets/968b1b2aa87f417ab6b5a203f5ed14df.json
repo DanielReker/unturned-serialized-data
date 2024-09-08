@@ -1,0 +1,204 @@
+{
+  "name": "BuakLevel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Levels/BuakLevel.asset",
+  "data": {
+    "GUID": "968b1b2aa87f417ab6b5a203f5ed14df",
+    "Type": "SDG.Unturned.LevelAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Enable_Admin_Faster_Salvage_Duration": "False",
+    "ID": "0",
+    "Dropship": {
+      "MasterBundle": "buak.masterbundle",
+      "AssetPath": "Level/Dropship.prefab"
+    },
+    "Airdrop": {
+      "GUID": "885b7687cff244c89475d7b3760eadb6"
+    },
+    "Crafting_Blacklists": [
+      {
+        "GUID": "a636d955da9e4080935a37ccef9da2e5"
+      }
+    ],
+    "Weather_Types": [
+      {
+        "Asset": "60b8e7b5fd9947b283085f1dfef4fc8f",
+        "Min_Frequency": "2",
+        "Max_Frequency": "4",
+        "Min_Duration": ".2",
+        "Max_Duration": ".6"
+      },
+      {
+        "Asset": "4192e9d5c65e4ba0892497fe6f6c10ea",
+        "Min_Frequency": "2",
+        "Max_Frequency": "5",
+        "Min_Duration": ".1",
+        "Max_Duration": ".6"
+      },
+      {
+        "Asset": "41b72bc234fe467bbb63e1916d965b5c",
+        "Min_Frequency": "2",
+        "Max_Frequency": "6",
+        "Min_Duration": ".4",
+        "Max_Duration": ".6"
+      },
+      {
+        "Asset": "dbfe6c26c93c45b0a75efbf8c9b75039",
+        "Min_Frequency": "2",
+        "Max_Frequency": "6",
+        "Min_Duration": ".1",
+        "Max_Duration": ".2"
+      },
+      {
+        "Asset": "3171ef26a2b6400fa5df0e38ff73f3c5",
+        "Min_Frequency": "2",
+        "Max_Frequency": "6",
+        "Min_Duration": ".4",
+        "Max_Duration": ".8"
+      },
+      {
+        "Asset": "5aaea03fe29e4dce97158e8684ce94c7",
+        "Min_Frequency": "4",
+        "Max_Frequency": "8",
+        "Min_Duration": ".1",
+        "Max_Duration": ".6"
+      }
+    ],
+    "Skills": [
+      {
+        "Id": "Overkill",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Sharpshooter",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "2",
+        "Cost_Multiplier": "8"
+      },
+      {
+        "Id": "Dexterity",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Exercise",
+        "Default_Level": "5",
+        "Max_Unlockable_Level": "5"
+      },
+      {
+        "Id": "Cardio",
+        "Default_Level": "5",
+        "Max_Unlockable_Level": "5"
+      },
+      {
+        "Id": "Diving",
+        "Default_Level": "4",
+        "Max_Unlockable_Level": "4"
+      },
+      {
+        "Id": "Parkour",
+        "Default_Level": "2",
+        "Max_Unlockable_Level": "2"
+      },
+      {
+        "Id": "Sneakybeaky",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Vitality",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "5",
+        "Cost_Multiplier": "4"
+      },
+      {
+        "Id": "Immunity",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Toughness",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "5",
+        "Cost_Multiplier": "4"
+      },
+      {
+        "Id": "Strength",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Warmblooded",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "5",
+        "Cost_Multiplier": "6"
+      },
+      {
+        "Id": "Survival",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "3",
+        "Cost_Multiplier": "4"
+      },
+      {
+        "Id": "Healing",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Crafting",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "3",
+        "Cost_Multiplier": "4"
+      },
+      {
+        "Id": "Outdoors",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "5",
+        "Cost_Multiplier": "10"
+      },
+      {
+        "Id": "Cooking",
+        "Default_Level": "1",
+        "Max_Unlockable_Level": "3",
+        "Cost_Multiplier": "2"
+      },
+      {
+        "Id": "Fishing",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "5",
+        "Cost_Multiplier": "6"
+      },
+      {
+        "Id": "Agriculture",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "2",
+        "Cost_Multiplier": "8"
+      },
+      {
+        "Id": "Mechanic",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "5",
+        "Cost_Multiplier": "4"
+      },
+      {
+        "Id": "Engineer",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "3",
+        "Cost_Multiplier": "4"
+      }
+    ],
+    "Loading_Screen_Music": [
+      {
+        "Loop": "Music/Lurking_Shadow_Loop.ogg",
+        "Loop_Volume": "0.75",
+        "Outro": "Music/Lurking_Shadow_Outro.ogg",
+        "Outro_Volume": "0.75"
+      }
+    ],
+    "Death_Music": {
+      "MasterBundle": "buak.masterbundle",
+      "AssetPath": "Level/buak_death.ogg"
+    },
+    "Should_Animate_Background_Image": "true"
+  },
+  "translation": null
+}

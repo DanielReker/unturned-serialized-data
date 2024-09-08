@@ -1,0 +1,11 @@
+{
+  "name": "Tank_Scope",
+  "path": "Bundles/Items/Sights/Tank_Scope/Tank_Scope.dat",
+  "data": {
+    "GUID": "a655f6119d524445aacd9cd0d396de66",
+    "Type": "Sight",
+    "ID": "1301",
+    "Zoom": "2"
+  },
+  "translation": {}
+}

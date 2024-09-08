@@ -1,0 +1,18 @@
+{
+  "name": "Kuwait_Altar_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Furniture/Kuwait_Altar_0/Kuwait_Altar_0.dat",
+  "data": {
+    "GUID": "5e1a4b5816334066b69953ac6c00e74e",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5114",
+    "Interactability": "Dropper",
+    "Interactability_Delay": "2480",
+    "Interactability_Hint": "Use",
+    "Interactability_Reward_ID": "7265",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Deadzone Alter"
+  }
+}

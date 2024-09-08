@@ -1,0 +1,12 @@
+{
+  "name": "CA_Board_Ramp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Other/CA_Board_Ramp/CA_Board_Ramp.dat",
+  "data": {
+    "GUID": "78e30db2b45043bfbb841b43f4268301",
+    "Type": "Large",
+    "ID": "4322"
+  },
+  "translation": {
+    "Name": "California Board Ramp #1"
+  }
+}

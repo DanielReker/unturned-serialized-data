@@ -1,0 +1,12 @@
+{
+  "name": "Bollard",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Bollard/Bollard.dat",
+  "data": {
+    "GUID": "3ef9ee08643949d3815436f3e2a8b594",
+    "Type": "Medium",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Bollard"
+  }
+}

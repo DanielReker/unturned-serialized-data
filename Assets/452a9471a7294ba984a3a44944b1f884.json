@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Construction_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Buildings/Kuwait_Construction_0/Kuwait_Construction_0.dat",
+  "data": {
+    "GUID": "452a9471a7294ba984a3a44944b1f884",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5288",
+    "LOD": "Area",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Construction #1"
+  }
+}

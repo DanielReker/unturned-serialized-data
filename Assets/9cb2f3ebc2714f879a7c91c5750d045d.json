@@ -1,0 +1,37 @@
+{
+  "name": "Metro_Elevator_Door_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_Elevator_Door_0/Metro_Elevator_Door_0.dat",
+  "data": {
+    "GUID": "9cb2f3ebc2714f879a7c91c5750d045d",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "58121",
+    "Interactability": "Binary_State",
+    "Interactability_Delay": "3",
+    "Interactability_Hint": "Use",
+    "Interactability_Conditions": "4",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "57128",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability_Condition_1_Type": "Flag_Bool",
+    "Interactability_Condition_1_ID": "57129",
+    "Interactability_Condition_1_Value": "True",
+    "Interactability_Condition_1_Logic": "Equal",
+    "Interactability_Condition_2_Type": "Flag_Bool",
+    "Interactability_Condition_2_ID": "57130",
+    "Interactability_Condition_2_Value": "True",
+    "Interactability_Condition_2_Logic": "Equal",
+    "Interactability_Condition_3_Type": "Flag_Bool",
+    "Interactability_Condition_3_ID": "57131",
+    "Interactability_Condition_3_Value": "True",
+    "Interactability_Condition_3_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Metro Elevator Door #1",
+    "Interactability_Condition_0": "Power up the Energy Core",
+    "Interactability_Condition_1": "Power up the Energy Core",
+    "Interactability_Condition_2": "Power up the Energy Core",
+    "Interactability_Condition_3": "Power up the Energy Core"
+  }
+}

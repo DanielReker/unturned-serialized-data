@@ -1,0 +1,13 @@
+{
+  "name": "PS_Graffiti_60",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Graffiti_60/PS_Graffiti_60.dat",
+  "data": {
+    "GUID": "034b80f39de148f9a1f24a50423d9baf",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60010"
+  },
+  "translation": {
+    "Name": "PS Graffiti #61 [The War Is Over]"
+  }
+}

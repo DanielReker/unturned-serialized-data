@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Cooler_Store",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Cooler_Store/Buak_Cooler_Store.dat",
+  "data": {
+    "GUID": "526c6ece99de40e0b174454757810888",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Cooler_Store"
+  }
+}

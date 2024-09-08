@@ -1,0 +1,29 @@
+{
+  "name": "ZPD_Truck",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Vehicles/ZPD_Truck/ZPD_Truck.dat",
+  "data": {
+    "GUID": "914642b3dcc04a06b0c5f87b0e206c70",
+    "Type": "Vehicle",
+    "Rarity": "Rare",
+    "ID": "4429",
+    "Speed_Min": "-5",
+    "Speed_Max": "12",
+    "Steer_Min": "12",
+    "Steer_Max": "24",
+    "Brake": "24",
+    "Fuel_Min": "300",
+    "Fuel_Max": "500",
+    "Fuel": "2250",
+    "Health_Min": "400",
+    "Health_Max": "500",
+    "Health": "700",
+    "Traction": "",
+    "Cam_Follow_Distance": "7",
+    "Trunk_Storage_X": "5",
+    "Trunk_Storage_Y": "4",
+    "Explosion": "20"
+  },
+  "translation": {
+    "Name": "ZPD Truck"
+  }
+}

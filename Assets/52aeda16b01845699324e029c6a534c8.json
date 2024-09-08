@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Shrub_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Resources/Easter_Shrub_0/Easter_Shrub_0.dat",
+  "data": {
+    "GUID": "52aeda16b01845699324e029c6a534c8",
+    "Type": "Resource",
+    "ID": "6608",
+    "Health": "1000",
+    "Radius": "3",
+    "Scale": "0.1",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Easter Shrub #1"
+  }
+}

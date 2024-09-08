@@ -1,0 +1,17 @@
+{
+  "name": "Road_Quad_0",
+  "path": "Bundles/Objects/Large/Roads/Road_Quad_0/Road_Quad_0.dat",
+  "data": {
+    "GUID": "bec22e8664b54b06aaee361c062980e3",
+    "Type": "Large",
+    "ID": "4",
+    "Soft": "",
+    "Chart": "Street",
+    "Collision_Important": "",
+    "Landmark_Quality": "Ultra",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Road Quad #1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Metro_Sentry_Engine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Weapons/Metro_Sentry_Engine/Metro_Sentry_Engine.dat",
+  "data": {
+    "GUID": "17b0c035b9c94942b6e0373511f6cf07",
+    "Type": "Supply",
+    "Rarity": "Legendary",
+    "ID": "57108",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Sentry Engine",
+    "Description": "Provides power for the almighty behemoth of a weapon. Used for crafting the <color=#c832fa>Devastator</color>. "
+  }
+}

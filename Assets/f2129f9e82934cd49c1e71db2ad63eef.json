@@ -1,0 +1,18 @@
+{
+  "name": "Frost_Expedition_02_Gate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Expedition_02/Frost_Expedition_02_Gate/Asset.dat",
+  "data": {
+    "GUID": "f2129f9e82934cd49c1e71db2ad63eef",
+    "Type": "Dialogue",
+    "ID": "36471",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Responses": "1",
+    "Response_0_Dialogue": "36454"
+  },
+  "translation": {
+    "Message_0_Page_0": "The sewer gate is unlocked with a lever.",
+    "Message_0_Page_1": "It will be marked by a red flare, deep down in the sewers.",
+    "Response_0": "Okay, thanks."
+  }
+}

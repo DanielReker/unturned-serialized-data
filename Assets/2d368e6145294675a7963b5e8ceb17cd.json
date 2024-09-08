@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Fireflies",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Particles/Buak_Fireflies/Buak_Fireflies.dat",
+  "data": {
+    "GUID": "2d368e6145294675a7963b5e8ceb17cd",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Fireflies"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Chess",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Chess/Obj_Chess.dat",
+  "data": {
+    "GUID": "05849b0ff51441b1b34dba640fe4ad05",
+    "Type": "Effect",
+    "ID": "25490"
+  },
+  "translation": null
+}

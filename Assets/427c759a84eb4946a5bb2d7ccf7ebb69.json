@@ -1,0 +1,32 @@
+{
+  "name": "FacilityTeleports",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardListSpawns/FacilityTeleports/FacilityTeleports.dat",
+  "data": {
+    "GUID": "427c759a84eb4946a5bb2d7ccf7ebb69",
+    "Type": "Spawn",
+    "ID": "51231",
+    "Tables": [
+      {
+        "Guid": "77b473b5663d4b599dbf00b87f117f5f",
+        "Weight": "1"
+      },
+      {
+        "Guid": "b04c5e99da1e446eaff4265007e941d2",
+        "Weight": "1"
+      },
+      {
+        "Guid": "b82e0105c9134edfa2c7498662d4c756",
+        "Weight": "1"
+      },
+      {
+        "Guid": "24a7313aa8f243788f0349e813e4a473",
+        "Weight": "1"
+      },
+      {
+        "Guid": "100d5f40442f4ca2945813f8b908e71e",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

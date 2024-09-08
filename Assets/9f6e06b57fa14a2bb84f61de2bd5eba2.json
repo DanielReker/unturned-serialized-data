@@ -1,0 +1,14 @@
+{
+  "name": "ADATS1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/ADATS1/ADATS1.dat",
+  "data": {
+    "GUID": "9f6e06b57fa14a2bb84f61de2bd5eba2",
+    "Type": "Large",
+    "ID": "51000",
+    "Exclude_From_Master_Bundle": "",
+    "Asset_Bundle_Version": "4"
+  },
+  "translation": {
+    "Name": "PBS ADATS 1"
+  }
+}

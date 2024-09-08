@@ -1,0 +1,17 @@
+{
+  "name": "Keytar",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Songs/Keytar/Keytar.asset",
+  "data": {
+    "GUID": "d786696eacde4812b87685cfb19d6dea",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Song": {
+      "MasterBundle": "buak.masterbundle",
+      "AssetPath": "Music/God_Speed_Keytar.ogg"
+    },
+    "Link_URL": "https://www.youtube.com/watch?v=t0Taaorzcys",
+    "Is_Loop": "true"
+  },
+  "translation": {
+    "Name": "God Speed Keytar - Paulfest"
+  }
+}

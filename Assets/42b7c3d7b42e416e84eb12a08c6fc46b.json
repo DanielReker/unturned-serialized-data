@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Church_Seat_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_Church_Seat_0/Metro_Church_Seat_0.dat",
+  "data": {
+    "GUID": "42b7c3d7b42e416e84eb12a08c6fc46b",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "58052"
+  },
+  "translation": {
+    "Name": "Metro Church Seat #1"
+  }
+}

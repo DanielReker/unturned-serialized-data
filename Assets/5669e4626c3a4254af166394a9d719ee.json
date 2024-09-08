@@ -1,0 +1,31 @@
+{
+  "name": "28911KAS",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/Q/28911KAS/Asset.dat",
+  "data": {
+    "GUID": "5669e4626c3a4254af166394a9d719ee",
+    "Type": "Quest",
+    "ID": "28961",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "5467",
+    "Condition_0_Amount": "1",
+    "Rewards": "4",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "125",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "10",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "27000",
+    "Reward_2_Value": "2",
+    "Reward_2_Modification": "Increment",
+    "Reward_3_Type": "Achievement",
+    "Reward_3_ID": "Kuwait_Squeek"
+  },
+  "translation": {
+    "Name": "<color=#b8b188>Concord: </color><color=rare>Apex Predator</color>",
+    "Description": "Adnan has seen what may be the biggest fish in Kuwait. He thinks that the Fiberglass Fishing Rod is the key to catching this apex predator.",
+    "Condition_0": "Catch the Apex Predator",
+    "Reward_0": "125 Experience",
+    "Reward_1": "10 Reputation"
+  }
+}

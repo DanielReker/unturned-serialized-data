@@ -1,0 +1,34 @@
+{
+  "name": "PS_Cloth_Plant",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Cloth_Plant/PS_Cloth_Plant.dat",
+  "data": {
+    "GUID": "59732eba5636406290835fa5f4cdcfbb",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "59902",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.53",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59902",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "59564",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Output_1_ID": "59901",
+    "Blueprint_0_Output_1_Amount": "1",
+    "Blueprint_0_Build": "32",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Craft Cloth and Seed",
+    "Action_0_Tooltip": "Obtain <color=#1f871f>Stack Of Cloth</color> and a <color=#964bfa>Cloth Seed</color>."
+  },
+  "translation": {
+    "Name": "Cloth Plant",
+    "Description": "Fully grown plant, ready to be harvested."
+  }
+}

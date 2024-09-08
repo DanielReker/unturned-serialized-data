@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Orange_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Orange_5/Drop_Orange_5.dat",
+  "data": {
+    "GUID": "719dfa13491a49b0a495ac07e9c21591",
+    "Type": "Spawn",
+    "ID": "25526",
+    "Tables": [
+      {
+        "Guid": "5005c2699f3247aeb8eb2a0f84995e5a",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

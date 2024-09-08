@@ -1,0 +1,17 @@
+{
+  "name": "RadioEquipment_Setup_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/RadioEquipment_Setup_1/RadioEquipment_Setup_1.dat",
+  "data": {
+    "GUID": "f7ad71c4613540cd9a859cb4bb187a93",
+    "Type": "Small",
+    "ID": "4514",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "45739",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Relay Lighthouse Setup #2"
+  }
+}

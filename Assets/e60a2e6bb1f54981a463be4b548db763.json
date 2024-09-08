@@ -1,0 +1,23 @@
+{
+  "name": "BP_Emergency_Hatchet",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Emergency_Hatchet/Asset.dat",
+  "data": {
+    "GUID": "e60a2e6bb1f54981a463be4b548db763",
+    "Type": "Quest",
+    "ID": "24981",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "bedc5aabb0834684bcd0b28969d3d8ec",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24980",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Emergency Hatchet Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Emergency Hatchet Recipe"
+  }
+}

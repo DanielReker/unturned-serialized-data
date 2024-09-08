@@ -1,0 +1,20 @@
+{
+  "name": "Metro_Barrel_Suppressor_Mosca",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Weapons/Metro_Barrel_Suppressor_Mosca/Metro_Barrel_Suppressor_Mosca.dat",
+  "data": {
+    "GUID": "a150474eef254139a9f5371b366ffc40",
+    "Type": "Barrel",
+    "Rarity": "Mythical",
+    "ID": "57505",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "1",
+    "Silenced": "",
+    "Volume": "0.8",
+    "Gunshot_Rolloff_Distance_Multiplier": "0.6"
+  },
+  "translation": {
+    "Name": "Mosca Suppressor",
+    "Description": "<color=#FF0000>Unobtainable</color>"
+  }
+}

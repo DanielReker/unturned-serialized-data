@@ -1,0 +1,25 @@
+{
+  "name": "FishingCrateRifle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Tools/FishingCrateRifle/FishingCrateRifle.dat",
+  "data": {
+    "GUID": "93f98550663b493bb6a66adaa5425b9b",
+    "Type": "Medical",
+    "Rarity": "Epic",
+    "Useable": "Consumeable",
+    "ID": "51924",
+    "Size_X": "4",
+    "Size_Y": "2",
+    "Size_Z": ".3",
+    "Aid": "",
+    "Quest_Rewards": "2",
+    "Quest_Reward_0_Type": "Rewards_List_Asset",
+    "Quest_Reward_0_GUID": "32510a498b6f4326bf6f9db86cd8029d",
+    "Quest_Reward_1_Type": "Item",
+    "Quest_Reward_1_ID": "51933",
+    "Quest_Reward_1_Amount": "1"
+  },
+  "translation": {
+    "Name": "Long Gun Crate",
+    "Description": "Contains a random rifle, assault rifle, or shotgun, with some extra goodies."
+  }
+}

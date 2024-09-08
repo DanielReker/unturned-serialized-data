@@ -1,0 +1,17 @@
+{
+  "name": "CA_CS5_Supressor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Barrels/CA_CS5_Supressor/CA_CS5_Supressor.dat",
+  "data": {
+    "GUID": "6af0f6fc113e494ba5d3c54684027974",
+    "Type": "Barrel",
+    "ID": "4067",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "1",
+    "Silenced": "",
+    "Volume": "0.9",
+    "Gunshot_Rolloff_Distance_Multiplier": "0.75",
+    "Ballistic_Drop": "1.2"
+  },
+  "translation": {}
+}

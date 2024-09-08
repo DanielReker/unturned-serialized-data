@@ -1,0 +1,28 @@
+{
+  "name": "Secret_Trophy_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Secret_Trophy_6/Secret_Trophy_6.dat",
+  "data": {
+    "GUID": "bef192f5c45c4867ac1339e92fd4bde2",
+    "Type": "Small",
+    "ID": "3833",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "3328",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "2",
+    "Interactability_Reward_0_Type": "Flag_Short",
+    "Interactability_Reward_0_ID": "3332",
+    "Interactability_Reward_0_Value": "1",
+    "Interactability_Reward_0_Modification": "Increment",
+    "Interactability_Reward_1_Type": "Flag_Bool",
+    "Interactability_Reward_1_ID": "3328",
+    "Interactability_Reward_1_Value": "True"
+  },
+  "translation": {
+    "Name": "Secret Trophy #7",
+    "Interact": "Collect Trophy[{0}]"
+  }
+}

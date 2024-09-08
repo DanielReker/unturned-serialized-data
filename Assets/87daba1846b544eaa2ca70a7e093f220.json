@@ -1,0 +1,13 @@
+{
+  "name": "Cherryparticles",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Cherryparticles/Cherryparticles.dat",
+  "data": {
+    "GUID": "87daba1846b544eaa2ca70a7e093f220",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Cherry particles"
+  }
+}

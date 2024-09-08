@@ -1,0 +1,15 @@
+{
+  "name": "Candyland_Ranger_Rootbeer_Hat",
+  "path": "Bundles/Items/Hats/Candyland_Ranger_Rootbeer_Hat/Candyland_Ranger_Rootbeer_Hat.dat",
+  "data": {
+    "GUID": "c34eeed69c6f45a89e0bdba9189aa828",
+    "Type": "Hat",
+    "ID": "1557",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

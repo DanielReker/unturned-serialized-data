@@ -1,0 +1,12 @@
+{
+  "name": "IR_Castle_Tunnel_Room_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/Debris/IR_Castle_Tunnel_Room_2/IR_Castle_Tunnel_Room_2.dat",
+  "data": {
+    "GUID": "c270227d13cd4037bc341096481de2f1",
+    "Type": "Large",
+    "ID": "17086"
+  },
+  "translation": {
+    "Name": "Irish Castle Tunnel Room#2"
+  }
+}

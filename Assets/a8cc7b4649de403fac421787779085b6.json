@@ -1,0 +1,13 @@
+{
+  "name": "BE Castle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Castle/BE Castle.dat",
+  "data": {
+    "GUID": "a8cc7b4649de403fac421787779085b6",
+    "Type": "Large",
+    "ID": "9111",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Castle"
+  }
+}

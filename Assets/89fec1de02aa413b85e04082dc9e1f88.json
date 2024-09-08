@@ -1,0 +1,29 @@
+{
+  "name": "Rio_Allegoric_Blank",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Vehicles/Rio_Allegoric_Blank/Rio_Allegoric_Blank.dat",
+  "data": {
+    "GUID": "89fec1de02aa413b85e04082dc9e1f88",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon",
+    "ID": "4401",
+    "Speed_Min": "-5",
+    "Speed_Max": "10",
+    "Steer_Min": "22",
+    "Steer_Max": "33",
+    "Brake": "24",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "2000",
+    "Health_Min": "400",
+    "Health_Max": "500",
+    "Health": "1100",
+    "Traction": "",
+    "Trunk_Storage_X": "6",
+    "Trunk_Storage_Y": "4",
+    "Explosion": "20",
+    "Tires_Invulnerable": ""
+  },
+  "translation": {
+    "Name": "Float"
+  }
+}

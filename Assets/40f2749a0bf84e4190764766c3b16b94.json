@@ -1,0 +1,16 @@
+{
+  "name": "PenineCranberry",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/SodaSpawns/PenineCranberry/PenineCranberry.dat",
+  "data": {
+    "GUID": "40f2749a0bf84e4190764766c3b16b94",
+    "Type": "Spawn",
+    "ID": "51258",
+    "Tables": [
+      {
+        "Guid": "70ba3da645064046afa55b6b502699c9",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

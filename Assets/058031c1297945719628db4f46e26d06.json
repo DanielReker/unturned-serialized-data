@@ -1,0 +1,30 @@
+{
+  "name": "PBS_Nora",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Nora/Asset.dat",
+  "data": {
+    "GUID": "058031c1297945719628db4f46e26d06",
+    "Type": "NPC",
+    "ID": "52500",
+    "Shirt": "ccac78fdf03f4e9b9ff628a37ac3386c",
+    "Pants": "7a8f242d572b46848d8295f1ab662b39",
+    "Glasses": "5fe00f8f33ed4bd7b21dd719b86c18e9",
+    "Mask": "a1b535234d8547058693cd704930cb4d",
+    "Face": "24",
+    "Hair": "7",
+    "Beard": "0",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#352C22",
+    "Dialogue": "52501",
+    "Pose": "Sit",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "52405",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS NPC Nora",
+    "Character": "Nora"
+  }
+}

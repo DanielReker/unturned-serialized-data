@@ -1,0 +1,25 @@
+{
+  "name": "PBS_EOD_Quest_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Quests/PBS_EOD_Quest_5/Asset.dat",
+  "data": {
+    "GUID": "0d7ab74f9af44cbbb48ce897865b71c3",
+    "Type": "Quest",
+    "ID": "52585",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Horde",
+    "Condition_0_ID": "52586",
+    "Condition_0_Value": "1",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Nav": "3",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "5"
+  },
+  "translation": {
+    "Name": "<color=epic>EOD: Undead Upset</color>",
+    "Description": "With most of the human issues put away, it's time for the big issue - the undead issue.  We'll send in sweepers to clear out major issues out in most places - but we need you to clear out the zombies up at TKR Industrial.  Acquire a horde beacon to clear them out up there, and we'll handle the rest.",
+    "Condition_0": "Complete Horde Beacon at TKR Industrial {0}/1"
+  }
+}

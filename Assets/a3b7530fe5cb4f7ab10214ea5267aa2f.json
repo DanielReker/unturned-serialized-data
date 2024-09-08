@@ -1,0 +1,14 @@
+{
+  "name": "PS_Train_Engine_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Train_Engine_0/PS_Train_Engine_0.dat",
+  "data": {
+    "GUID": "a3b7530fe5cb4f7ab10214ea5267aa2f",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59658",
+    "Material_Palette": "3c0f45d7f40c48d3afa08063d5017935"
+  },
+  "translation": {
+    "Name": "PS Train Engine #1"
+  }
+}

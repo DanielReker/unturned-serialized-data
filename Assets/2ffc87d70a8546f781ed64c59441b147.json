@@ -1,0 +1,13 @@
+{
+  "name": "Luggage_Car",
+  "path": "Bundles/Objects/Large/Vehicles/Luggage_Car/Luggage_Car.dat",
+  "data": {
+    "GUID": "2ffc87d70a8546f781ed64c59441b147",
+    "Type": "Large",
+    "ID": "665",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Luggage Car"
+  }
+}

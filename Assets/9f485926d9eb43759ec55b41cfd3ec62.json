@@ -1,0 +1,10 @@
+{
+  "name": "Trail_Bow",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Guns/Trail_Bow/Trail_Bow.dat",
+  "data": {
+    "GUID": "9f485926d9eb43759ec55b41cfd3ec62",
+    "Type": "Effect",
+    "ID": "25566"
+  },
+  "translation": null
+}

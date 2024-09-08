@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Outlands_Trainstation_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Quests/Kuwait_Outlands/Kuwait_Outlands_Trainstation_1/Kuwait_Outlands_Trainstation_1.dat",
+  "data": {
+    "GUID": "1d487fbd54a4423f8b24d2afa01f7f06",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5463",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Final Train Station #2"
+  }
+}

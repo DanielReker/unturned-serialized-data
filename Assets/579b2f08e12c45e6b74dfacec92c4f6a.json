@@ -1,0 +1,13 @@
+{
+  "name": "PEI Arena_Arena_Ghillie_Bottom",
+  "path": "Bundles/Spawns/Items/PEI Arena_Arena_Ghillie_Bottom/PEI Arena_Arena_Ghillie_Bottom.dat",
+  "data": {
+    "GUID": "579b2f08e12c45e6b74dfacec92c4f6a",
+    "Type": "Spawn",
+    "ID": "49",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "30",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

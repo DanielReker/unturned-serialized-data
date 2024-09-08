@@ -1,0 +1,13 @@
+{
+  "name": "Beach_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Beach_Brazil/Beach_Brazil.dat",
+  "data": {
+    "GUID": "0b15421158384eecbb435850bb99f797",
+    "Type": "Spawn",
+    "ID": "5020",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "258",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

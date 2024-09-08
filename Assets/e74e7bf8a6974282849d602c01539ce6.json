@@ -1,0 +1,13 @@
+{
+  "name": "France_Police_France_Heli",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Vehicles/France_Police_France_Heli/France_Police_France_Heli.dat",
+  "data": {
+    "GUID": "e74e7bf8a6974282849d602c01539ce6",
+    "Type": "Spawn",
+    "ID": "2135",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "2134",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

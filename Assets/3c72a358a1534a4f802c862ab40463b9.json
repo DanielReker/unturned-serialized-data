@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Q_S7M3_Computer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M3/Buak_Q_S7M3_Computer/Buak_Q_S7M3_Computer.dat",
+  "data": {
+    "GUID": "3c72a358a1534a4f802c862ab40463b9",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24274",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Bundle_Override_Path": "/Objects/Quests/M2/Buak_Q_S7M2_Computer"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M3_Computer"
+  }
+}

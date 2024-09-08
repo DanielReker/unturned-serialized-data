@@ -1,0 +1,13 @@
+{
+  "name": "PS_Projector_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Projector_0/PS_Projector_0.dat",
+  "data": {
+    "GUID": "864a8598a13e403eb1363f13f67227f4",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59767"
+  },
+  "translation": {
+    "Name": "PS Projector #1"
+  }
+}

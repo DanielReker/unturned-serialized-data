@@ -1,0 +1,22 @@
+{
+  "name": "PS_Trader_0_Barter_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_0_Dialogue/PS_Trader_0_Barter_3/Asset.dat",
+  "data": {
+    "GUID": "1ccfd7da4f77499597505966eecc07fd",
+    "Type": "Quest",
+    "ID": "59022",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59924",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "59418",
+    "Reward_0_Amount": "4"
+  },
+  "translation": {
+    "Name": "Barter - Frag Grenades",
+    "Description": "Exchange of goods."
+  }
+}

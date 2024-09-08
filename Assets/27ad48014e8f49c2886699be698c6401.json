@@ -1,0 +1,12 @@
+{
+  "name": "Frost_Digger_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Medium/Frost_Digger_03/Frost_Digger_03.dat",
+  "data": {
+    "GUID": "27ad48014e8f49c2886699be698c6401",
+    "Type": "Large",
+    "ID": "36000"
+  },
+  "translation": {
+    "Name": "Frost Digger #4"
+  }
+}

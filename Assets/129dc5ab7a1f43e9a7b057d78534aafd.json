@@ -1,0 +1,15 @@
+{
+  "name": "Lost_Documents_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Colonel/Lost_Documents_Completed/Asset.dat",
+  "data": {
+    "GUID": "129dc5ab7a1f43e9a7b057d78534aafd",
+    "Type": "Dialogue",
+    "ID": "4054",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you very much. These documents will help the fort greatly.",
+    "Message_0_Page_1": "Come back to me when you are ready for more."
+  }
+}

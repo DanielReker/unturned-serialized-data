@@ -1,0 +1,12 @@
+{
+  "name": "Apartment_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Apartment_3/Apartment_3.dat",
+  "data": {
+    "GUID": "f4a9458db8484730bb5423f0ce49b5c8",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Apartment 3"
+  }
+}

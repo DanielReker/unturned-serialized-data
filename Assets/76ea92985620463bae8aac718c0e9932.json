@@ -1,0 +1,20 @@
+{
+  "name": "Ensign_Adney",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/Coalition/Ensign_Adney/Asset.dat",
+  "data": {
+    "GUID": "76ea92985620463bae8aac718c0e9932",
+    "Type": "NPC",
+    "ID": "15013",
+    "Shirt": "1420",
+    "Pants": "1419",
+    "Hat": "1426",
+    "Face": "7",
+    "Color_Skin": "#eddab6",
+    "Color_Hair": "#33312d",
+    "Dialogue": "15132"
+  },
+  "translation": {
+    "Name": "Coalition Armory Adney",
+    "Character": "<color=uncommon>Ensign Adney</color>"
+  }
+}

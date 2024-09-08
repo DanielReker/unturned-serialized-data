@@ -1,0 +1,43 @@
+{
+  "name": "Window_Bars_Titanium",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Barricades/Windows/Window_Bars_Titanium/Window_Bars_Titanium.dat",
+  "data": {
+    "GUID": "355593b29430451bb9ac8205610f517a",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Useable": "Barricade",
+    "Build": "Glass",
+    "ID": "25896",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Use_Auto_Icon_Measurements": "False",
+    "Salvage_Duration_Multiplier": ".3",
+    "Has_Clip_Prefab": "false",
+    "Health": "10000",
+    "Range": "4",
+    "Radius": "0.1",
+    "Explosion": "25404",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25342",
+    "Blueprint_0_Supply_0_Amount": "6",
+    "Blueprint_0_Tool": "25376",
+    "Blueprint_0_Build": "25527",
+    "Blueprint_1_Type": "Gear",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25896",
+    "Blueprint_1_Tool": "25393",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "25310",
+    "Blueprint_1_Output_0_Amount": "2",
+    "Blueprint_1_Build": "25520",
+    "PlacementAudioClip": "Sounds/Placement/TitaniumPlacement.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Titanium Window Bars",
+    "Description": "Window bars ideal for looking out of and keeping out unwanted visitors."
+  }
+}

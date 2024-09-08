@@ -1,0 +1,16 @@
+{
+  "name": "Guard_Passage_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Guards/Guard_Passage_Accepted/Asset.dat",
+  "data": {
+    "GUID": "a89e701d76644430a6ea12adb58c3cdf",
+    "Type": "Dialogue",
+    "ID": "3022",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Goodluck, we'll be here when you are done.",
+    "Response_0": "Seeya."
+  }
+}

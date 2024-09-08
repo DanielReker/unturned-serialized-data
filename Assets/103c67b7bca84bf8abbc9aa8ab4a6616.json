@@ -1,0 +1,23 @@
+{
+  "name": "Buak_Goat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Animals/Buak_Goat/Buak_Goat.dat",
+  "data": {
+    "GUID": "103c67b7bca84bf8abbc9aa8ab4a6616",
+    "Type": "Animal",
+    "ID": "25301",
+    "Speed_Run": "8",
+    "Speed_Walk": "4",
+    "Behaviour": "Offense",
+    "Damage": "15",
+    "Horizontal_Attack_Range": "3",
+    "Health": "100",
+    "Reward_ID": "25337",
+    "Reward_XP": "14",
+    "Reward_Min": "1",
+    "Reward_Max": "1",
+    "Glance_Anim_Variants": "1"
+  },
+  "translation": {
+    "Name": "Buak_Goat"
+  }
+}

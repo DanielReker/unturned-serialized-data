@@ -1,0 +1,12 @@
+{
+  "name": "AC_Unit_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/AC_Unit_0/AC_Unit_0.dat",
+  "data": {
+    "GUID": "0de9a5bc8fd74b36aaae4970f2b6d9c9",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS AC unit 1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Note_California_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/Note_California_1/Note_California_1.dat",
+  "data": {
+    "GUID": "6470b76d88b7460aa94369a8cdbfae9a",
+    "Type": "Medium",
+    "ID": "4701",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "5",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note"
+  },
+  "translation": {
+    "Name": "California Note - Letter from Bout",
+    "Interactability_Text_Line_0": "Personally in hands",
+    "Interactability_Text_Line_1": "-----",
+    "Interactability_Text_Line_2": "Meet at the bar of Monterey, near the pier. Shipment is canceled. It needs to be discussed. I am waiting for you at 10 pm on the 23rd day, this is important",
+    "Interactability_Text_Line_3": "-----",
+    "Interactability_Text_Line_4": "From Bout"
+  }
+}

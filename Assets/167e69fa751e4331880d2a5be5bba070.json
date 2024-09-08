@@ -1,0 +1,31 @@
+{
+  "name": "PS_Weapon_Case_PRO90_Black",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Weapon_Case_PRO90_Black/PS_Weapon_Case_PRO90_Black.dat",
+  "data": {
+    "GUID": "167e69fa751e4331880d2a5be5bba070",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "59898",
+    "Size_X": "4",
+    "Size_Y": "2",
+    "Size_Z": "0.45",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59898",
+    "Blueprint_0_Outputs": "3",
+    "Blueprint_0_Output_0_ID": "59894",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Output_1_ID": "59891",
+    "Blueprint_0_Output_1_Amount": "3",
+    "Blueprint_0_Output_2_ID": "59893",
+    "Blueprint_0_Output_2_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/PS_Weapon_Case_0"
+  },
+  "translation": {
+    "Name": "PRO90 Weapon Case",
+    "Description": "Weapon case holding weapon and ammunition."
+  }
+}

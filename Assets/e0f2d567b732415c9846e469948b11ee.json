@@ -1,0 +1,20 @@
+{
+  "name": "Metro_AreaC_Capsule_Placed_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_AreaC_Capsule_Placed_3/Metro_AreaC_Capsule_Placed_3.dat",
+  "data": {
+    "GUID": "e0f2d567b732415c9846e469948b11ee",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "58115",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57131",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Master_Bundle_Override": "metro.masterbundle",
+    "Bundle_Override_Path": "Objects/Quest/NPC/Final/Boss/Metro_AreaC_Capsule_Placed"
+  },
+  "translation": {
+    "Name": "Metro AreaC Capsule Placed #4"
+  }
+}

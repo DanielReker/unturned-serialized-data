@@ -1,0 +1,13 @@
+{
+  "name": "BE Lighthouse #1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Lighthouse #1/BE Lighthouse #1.dat",
+  "data": {
+    "GUID": "d21f35d075004450ba90fa1b37b5c7b2",
+    "Type": "Large",
+    "ID": "9047",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Lighthouse #1"
+  }
+}

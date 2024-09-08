@@ -1,0 +1,21 @@
+{
+  "name": "ShadowstalkerMk2_Scope",
+  "path": "Bundles/Items/Sights/ShadowstalkerMk2_Scope/ShadowstalkerMk2_Scope.dat",
+  "data": {
+    "GUID": "5b2f26a78cee4a02a92261e37562d9e4",
+    "Type": "Sight",
+    "Rarity": "Mythical",
+    "ID": "1442",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Spread": "0.7",
+    "Zoom": "20",
+    "ThirdPerson_Zoom": "2",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Shadowstalker Mk. II Scope",
+    "Description": "Rail mounted Shadowstalker Mk. II zoom scope."
+  }
+}

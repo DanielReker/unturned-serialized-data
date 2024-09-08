@@ -1,0 +1,32 @@
+{
+  "name": "27956KuwaitGuard6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/C/27956KuwaitGuard6/Asset.dat",
+  "data": {
+    "GUID": "9b5090e18fbe4873adf63bbb7752249d",
+    "Type": "NPC",
+    "ID": "27956",
+    "Shirt": "5301",
+    "Pants": "5302",
+    "Primary": "5003",
+    "Secondary": "5008",
+    "Tertiary": "1446",
+    "Equipped": "Tertiary",
+    "Face": "9",
+    "Hair": "0",
+    "Beard": "10",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#352C22",
+    "Pose_Pitch": "105",
+    "Dialogue": "27950",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "25050",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitNPCPosGuardKermie",
+    "Character": "<color=uncommon>Private Kermie</color>"
+  }
+}

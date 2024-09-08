@@ -1,0 +1,19 @@
+{
+  "name": "Frost_Logs_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Medium/Frost_Logs_02/Frost_Logs_02.dat",
+  "data": {
+    "GUID": "1325b541afe54b3bad2fadeb3e035be4",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "100",
+    "Rubble_Effect": "29",
+    "Rubble_Blade_ID": "36",
+    "Rubble_Reward_ID": "36133"
+  },
+  "translation": {
+    "Name": "Frost Logs #3"
+  }
+}

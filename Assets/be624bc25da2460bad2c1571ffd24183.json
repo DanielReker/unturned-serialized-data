@@ -1,0 +1,13 @@
+{
+  "name": "Ashley5Meme",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Ashley5Meme/Ashley5Meme.dat",
+  "data": {
+    "GUID": "be624bc25da2460bad2c1571ffd24183",
+    "Type": "Spawn",
+    "ID": "7176",
+    "Tables": "1",
+    "Table_0_Asset_ID": "5206",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

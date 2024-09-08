@@ -1,0 +1,21 @@
+{
+  "name": "France_Civilian_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Characters/France_Civilian_1/Asset.dat",
+  "data": {
+    "GUID": "35f6e6ff22cd4fa8a8c29cbb1e4214ae",
+    "Type": "NPC",
+    "ID": "4011",
+    "Shirt": "670",
+    "Pants": "207",
+    "Face": "21",
+    "Hair": "2",
+    "Color_Skin": "#E6CEA8",
+    "Color_Hair": "#A56B46",
+    "Primary": "3100",
+    "Dialogue": "4167"
+  },
+  "translation": {
+    "Name": "France Civilian Kevin",
+    "Character": "<color=uncommon>Kevin</color>"
+  }
+}

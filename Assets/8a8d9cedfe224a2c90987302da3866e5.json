@@ -1,0 +1,13 @@
+{
+  "name": "PS_Items_07",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Items_07/PS_Items_07.dat",
+  "data": {
+    "GUID": "8a8d9cedfe224a2c90987302da3866e5",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59875"
+  },
+  "translation": {
+    "Name": "PS Items #8 [Toolbox]"
+  }
+}

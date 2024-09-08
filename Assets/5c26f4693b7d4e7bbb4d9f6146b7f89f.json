@@ -1,0 +1,15 @@
+{
+  "name": "MineralMeds_Accept",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/James/James_02/MineralMeds_Accept/Asset.dat",
+  "data": {
+    "GUID": "5c26f4693b7d4e7bbb4d9f6146b7f89f",
+    "Type": "Dialogue",
+    "ID": "24521",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "5"
+  },
+  "translation": {
+    "Message_0_Page_0": "Glad to hear you're up for the task!"
+  }
+}

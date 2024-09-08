@@ -1,0 +1,41 @@
+{
+  "name": "Trader_12_Vendor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Trader_12/Trader_12_Vendor/Asset.dat",
+  "data": {
+    "GUID": "aa9580478b824db68fc163ec95cbbb1d",
+    "Type": "Vendor",
+    "ID": "57635",
+    "Buying": "4",
+    "Buying_0_ID": "57585 ",
+    "Buying_0_Cost": "150",
+    "Buying_1_ID": "57307",
+    "Buying_1_Cost": "250",
+    "Buying_2_ID": "57025",
+    "Buying_2_Cost": "500",
+    "Buying_3_ID": "57308",
+    "Buying_3_Cost": "1500",
+    "Selling": "8",
+    "Selling_0_ID": "57580 ",
+    "Selling_0_Cost": "30",
+    "Selling_1_ID": "57067              ",
+    "Selling_1_Cost": "10",
+    "Selling_2_ID": "57068                ",
+    "Selling_2_Cost": "10",
+    "Selling_3_ID": "57450                ",
+    "Selling_3_Cost": "10",
+    "Selling_4_ID": "57307          ",
+    "Selling_4_Cost": "250                ",
+    "Selling_5_ID": "57309",
+    "Selling_5_Cost": "100",
+    "Selling_6_ID": "57484",
+    "Selling_6_Cost": "100",
+    "Selling_7_ID": "57308                 ",
+    "Selling_7_Cost": "2000",
+    "Disable_Sorting": "",
+    "Currency": "56cc0f28e97a4c5eaf19c8e652c34369"
+  },
+  "translation": {
+    "Name": "<color=#64c819>Tools</color>",
+    "Description": "Parachutes, binoculars and some other random items."
+  }
+}

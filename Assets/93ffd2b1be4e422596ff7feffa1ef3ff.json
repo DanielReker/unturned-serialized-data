@@ -1,0 +1,18 @@
+{
+  "name": "Fuse_Box_Inserted_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Fuse_Box_Inserted_0/Fuse_Box_Inserted_0.dat",
+  "data": {
+    "GUID": "93ffd2b1be4e422596ff7feffa1ef3ff",
+    "Type": "Small",
+    "ID": "3771",
+    "Asset_Bundle_Version": "2",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3258",
+    "Condition_0_Value": "0",
+    "Condition_0_Logic": "Greater_Than"
+  },
+  "translation": {
+    "Name": "Quest Fuse Inserted #1"
+  }
+}

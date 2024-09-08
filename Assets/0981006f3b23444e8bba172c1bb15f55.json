@@ -1,0 +1,14 @@
+{
+  "name": "Frost_Truck_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Frost_Truck_02/Frost_Truck_02.dat",
+  "data": {
+    "GUID": "0981006f3b23444e8bba172c1bb15f55",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "Frost Truck #3"
+  }
+}

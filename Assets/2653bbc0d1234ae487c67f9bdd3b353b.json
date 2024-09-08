@@ -1,0 +1,13 @@
+{
+  "name": "Paintball_Arena_0_Arena_Bonus_Paintball",
+  "path": "Bundles/Spawns/Items/Paintball_Arena_0_Arena_Bonus_Paintball/Paintball_Arena_0_Arena_Bonus_Paintball.dat",
+  "data": {
+    "GUID": "2653bbc0d1234ae487c67f9bdd3b353b",
+    "Type": "Spawn",
+    "ID": "536",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "537",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Michail_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Michail Fedorov/Michail_Welcome/Asset.dat",
+  "data": {
+    "GUID": "b2373457df72400a95db077a914213ce",
+    "Type": "Dialogue",
+    "ID": "9101",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Vendor": "9102",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Reputation",
+    "Response_0_Condition_0_Value": "-10",
+    "Response_0_Condition_0_Logic": "Less_Than_Or_Equal_To"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hmm ...<pause> I'm listening to you.",
+    "Response_0": "Are you selling something?",
+    "Response_1": "Creepy..."
+  }
+}

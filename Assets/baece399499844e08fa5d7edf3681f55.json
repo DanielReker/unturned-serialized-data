@@ -1,0 +1,25 @@
+{
+  "name": "Waffle_Triangle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Waffle_Triangle/Waffle_Triangle.dat",
+  "data": {
+    "GUID": "baece399499844e08fa5d7edf3681f55",
+    "Type": "Food",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "25706",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.26",
+    "Use_Auto_Icon_Measurements": "False",
+    "Food": "25",
+    "Water": "0",
+    "Quality_Min": "60",
+    "Quality_Max": "100",
+    "ConsumeAudioClip": "Sounds/Food/EatSquishy.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Triangle Waffle",
+    "Description": "Everyone loves waffles!"
+  }
+}

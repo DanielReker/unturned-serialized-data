@@ -1,0 +1,16 @@
+{
+  "name": "Barracks_Recruiter_Scouter1_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Barracks_Military/Barracks_Recruiter_Scouter1_Completed/Asset.dat",
+  "data": {
+    "GUID": "ad2466f1eebe48f3a6c4fac0dcb70e60",
+    "Type": "Dialogue",
+    "ID": "3104",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hardly a scratch, I'm impressed. The recovery team sends their reguards.",
+    "Response_0": "Thank you."
+  }
+}

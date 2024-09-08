@@ -1,0 +1,17 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Carter/Carter_01/Welcome/Asset.dat",
+  "data": {
+    "GUID": "460311075c534854b92e20b5717bf868",
+    "Type": "Dialogue",
+    "ID": "24125",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hey.",
+    "Response_0": "Hello!",
+    "Response_1": "Goodbye."
+  }
+}

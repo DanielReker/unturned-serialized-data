@@ -1,0 +1,32 @@
+{
+  "name": "Construction",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Construction/Construction/Construction.dat",
+  "data": {
+    "GUID": "138ce4f539e741d8a5a5b20dd4e04f70",
+    "Type": "Spawn",
+    "ID": "51060",
+    "Tables": [
+      {
+        "Guid": "0603e597e2ae450dabc6e3bf39aa12f1",
+        "Weight": "30"
+      },
+      {
+        "Guid": "c5cba4e595cd4cbf8b282aa65ed2de10",
+        "Weight": "25"
+      },
+      {
+        "Guid": "0c71458e31d54248a8766ceab4ba6a00",
+        "Weight": "20"
+      },
+      {
+        "Guid": "85caf4855d674ed98a06aeb37e413f6b",
+        "Weight": "20"
+      },
+      {
+        "Guid": "71559778fb684cfb9bdf5c0f39e9ceb9",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

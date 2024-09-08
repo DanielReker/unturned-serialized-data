@@ -1,0 +1,20 @@
+{
+  "name": "PS_Exit_Door_08",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Exit_Door_08/PS_Exit_Door_08.dat",
+  "data": {
+    "GUID": "45bd407cfc8040d79e0da34198f27f5b",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59833",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/PS_Exit_Door_00",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "EXIT_HYDRO_1"
+  },
+  "translation": {
+    "Name": "PS Exit Door #9 [Hydro Exit to Desert2]",
+    "Interact": "Exit to Desert [{0}]"
+  }
+}

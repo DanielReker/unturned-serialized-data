@@ -1,0 +1,22 @@
+{
+  "name": "NH2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/ProItems/NH2/NH2.dat",
+  "data": {
+    "GUID": "d54d619d16924469a19d314c1bd39fc8",
+    "Type": "Medical",
+    "Useable": "Consumeable",
+    "Rarity": "Rare",
+    "ID": "52001",
+    "Pro": "",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Health": "0",
+    "Master_Bundle_Override": "pbs.masterbundle",
+    "Bundle_Override_Path": "/Items/Supplies/Medical/Bandage"
+  },
+  "translation": {
+    "Name": "Basic Healing",
+    "Description": "It's barely anything, stop complaining!"
+  }
+}

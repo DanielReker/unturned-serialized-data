@@ -1,0 +1,16 @@
+{
+  "name": "Farmer_Fertilizer_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Farmer_Omega/Farmer_Fertilizer_Accepted/Asset.dat",
+  "data": {
+    "GUID": "3499048672a649e58e77794211363e25",
+    "Type": "Dialogue",
+    "ID": "3151",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'd do it myself, but I recently hurt my back so it isn't so easy for me anymore.",
+    "Response_0": "Sorry to hear that."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Metro_Bench_Metal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Metro_Bench_Metal/Metro_Bench_Metal.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "114bf7810000400fab8f9c7393932ba3",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "57650",
+    "Size_X": "2",
+    "Health": "150",
+    "Range": "4",
+    "Radius": "0.2",
+    "Offset": "0.25",
+    "Explosion": "36",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "67",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Supply_1_ID": "57580 ",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Supply_1_Critical": "",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Elver",
+    "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Metal Bench",
+    "Description": "<color=#64c819>150</color> Health<br><color=#fa3219>Cannot</color> be Crystalized"
+  }
+}

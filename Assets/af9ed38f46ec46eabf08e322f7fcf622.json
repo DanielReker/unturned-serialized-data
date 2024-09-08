@@ -1,0 +1,28 @@
+{
+  "name": "PBS_Dumpster",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Dumpster/Asset.dat",
+  "data": {
+    "GUID": "af9ed38f46ec46eabf08e322f7fcf622",
+    "Type": "NPC",
+    "ID": "52040",
+    "Shirt": "bfd6f085bfa64ec8ba1814571d510ae7",
+    "Pants": "aa0cb9830b0545768cf38e1c177def6c",
+    "Face": "16",
+    "Hair": "2",
+    "Beard": "11",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#352C22",
+    "Dialogue": "52045",
+    "Has_Clip_Prefab": "false",
+    "Pose": "Rest",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "52230",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS NPC DD Dumpster",
+    "Character": "Dumpster"
+  }
+}

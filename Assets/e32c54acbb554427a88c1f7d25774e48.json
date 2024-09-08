@@ -1,0 +1,16 @@
+{
+  "name": "26211KEHBD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26210KEHD/26211KEHBD/Asset.dat",
+  "data": {
+    "GUID": "e32c54acbb554427a88c1f7d25774e48",
+    "Type": "Dialogue",
+    "ID": "26211",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good morning <name_char>.",
+    "Response_0": "Good morning!"
+  }
+}

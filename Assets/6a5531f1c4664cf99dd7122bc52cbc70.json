@@ -1,0 +1,12 @@
+{
+  "name": "CA_Pot_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Pot_4/CA_Pot_4.dat",
+  "data": {
+    "GUID": "6a5531f1c4664cf99dd7122bc52cbc70",
+    "Type": "Medium",
+    "ID": "4419"
+  },
+  "translation": {
+    "Name": "California Pot #5"
+  }
+}

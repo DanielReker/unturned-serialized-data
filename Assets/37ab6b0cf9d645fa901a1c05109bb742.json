@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Pizza",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Pizza/Buak_Pizza.dat",
+  "data": {
+    "GUID": "37ab6b0cf9d645fa901a1c05109bb742",
+    "Type": "Spawn",
+    "ID": "25395",
+    "Tables": "4",
+    "Table_0_Asset_ID": "25659",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "27844",
+    "Table_1_Weight": "100",
+    "Table_2_Asset_ID": "27846",
+    "Table_2_Weight": "100",
+    "Table_3_Asset_ID": "27848",
+    "Table_3_Weight": "100"
+  },
+  "translation": null
+}

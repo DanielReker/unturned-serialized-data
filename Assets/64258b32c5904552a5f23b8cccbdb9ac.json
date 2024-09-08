@@ -1,0 +1,30 @@
+{
+  "name": "Hot_Balloon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Vehicles/Hawaii_Expansion/Hot_Balloon/Hot_Balloon.dat",
+  "data": {
+    "GUID": "64258b32c5904552a5f23b8cccbdb9ac",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "ID": "849",
+    "Speed_Min": "-3",
+    "Speed_Max": "14",
+    "Steer_Min": "8",
+    "Steer_Max": "3",
+    "Fuel": "2000",
+    "Health_Min": "700",
+    "Health_Max": "800",
+    "Health": "550",
+    "Exit": "3",
+    "Cam_Follow_Distance": "7.5",
+    "LockMouse": "",
+    "Engine": "Helicopter",
+    "Explosion": "20",
+    "Trunk_Storage_X": "3",
+    "Trunk_Storage_Y": "2",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hot Air Balloon"
+  }
+}

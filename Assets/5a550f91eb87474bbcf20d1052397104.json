@@ -1,0 +1,11 @@
+{
+  "name": "Frost_Shirt_Pink",
+  "path": "Bundles/Items/Frost/Frost_Shirt_Pink/Frost_Shirt_Pink.dat",
+  "data": {
+    "GUID": "5a550f91eb87474bbcf20d1052397104",
+    "Type": "Shirt",
+    "ID": "1814",
+    "Pro": ""
+  },
+  "translation": null
+}

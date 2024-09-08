@@ -1,0 +1,19 @@
+{
+  "name": "Note_10",
+  "path": "Bundles/Objects/Medium/Furniture/Note_10/Note_10.dat",
+  "data": {
+    "GUID": "d7b223270834423e9dd2c2b877caba20",
+    "Type": "Medium",
+    "ID": "2011",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Note - Apology",
+    "Interactability_Text_Line_0": "I'm sorry, so so sorry... Our past bioweapon contracts were never used so I didn't think twice about this one. If you're reading thi"
+  }
+}

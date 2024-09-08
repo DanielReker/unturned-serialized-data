@@ -1,0 +1,13 @@
+{
+  "name": "Brazil_Airport",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Brazil_Airport/Brazil_Airport.dat",
+  "data": {
+    "GUID": "d078f2374ecb45f0b8708f5b03f323b6",
+    "Type": "Spawn",
+    "ID": "5060",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5059",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Basic_Shelf",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Basic_Shelf/Basic_Shelf.dat",
+  "data": {
+    "GUID": "f6bf1b266d6c44f089d08852391a54e9",
+    "Type": "Medium",
+    "ID": "51000",
+    "Material_Palette": "6a5ccb06c7ac4e22a574856d2d271e3a",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Basic Shelf"
+  }
+}

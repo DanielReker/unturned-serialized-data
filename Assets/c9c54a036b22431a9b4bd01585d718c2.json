@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Guitar_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Quests/Easter_Guitar_0/Easter_Guitar_0.dat",
+  "data": {
+    "GUID": "c9c54a036b22431a9b4bd01585d718c2",
+    "Type": "Medium",
+    "ID": "6764",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Guitar #1"
+  }
+}

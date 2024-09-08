@@ -1,0 +1,32 @@
+{
+  "name": "Hale_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Sergeant_Hale/Hale_Welcome/Asset.dat",
+  "data": {
+    "GUID": "7680b62792aa4a658af3122668af966f",
+    "Type": "Dialogue",
+    "ID": "45771",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "45776",
+    "Response_0_Conditions": "2",
+    "Response_0_Condition_0_Type": "Flag_Bool",
+    "Response_0_Condition_0_ID": "45769",
+    "Response_0_Condition_0_Value": "True",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_1_Type": "Flag_Bool",
+    "Response_0_Condition_1_ID": "45772",
+    "Response_0_Condition_1_Value": "False",
+    "Response_0_Condition_1_Logic": "Equal",
+    "Response_0_Condition_1_Allow_Unset": "",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Flag_Bool",
+    "Response_0_Reward_0_ID": "45769",
+    "Response_0_Reward_0_Value": "False"
+  },
+  "translation": {
+    "Message_0_Page_0": "Here I was thinking I was screwed, but then out of nowhere came those boys dressed in blue! I hear you are what made it all possible, impressive.",
+    "Response_0": "I'm sorry about the mayor.",
+    "Response_1": "I'm glad you made it."
+  }
+}

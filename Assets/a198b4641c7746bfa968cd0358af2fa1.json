@@ -1,0 +1,17 @@
+{
+  "name": "Colpo_Iron_Sights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Items/Sights/Colpo_Iron_Sights/Colpo_Iron_Sights.dat",
+  "data": {
+    "GUID": "a198b4641c7746bfa968cd0358af2fa1",
+    "Type": "Sight",
+    "ID": "8016 ",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.05",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Colpo Iron Sight",
+    "Description": "Rail mounted iron sights."
+  }
+}

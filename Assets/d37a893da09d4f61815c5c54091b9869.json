@@ -1,0 +1,32 @@
+{
+  "name": "Tourist_Charger",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Quests/Tourist_Charger/Asset.dat",
+  "data": {
+    "GUID": "d37a893da09d4f61815c5c54091b9869",
+    "Type": "Quest",
+    "ID": "4206",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "4207",
+    "Condition_0_Value": "1",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "4",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "75",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "10",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "4014",
+    "Reward_2_Value": "1",
+    "Reward_2_Modification": "Increment",
+    "Reward_3_Type": "Flag_Short",
+    "Reward_3_ID": "4207",
+    "Reward_3_Value": "1",
+    "Reward_3_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "<color=rare>Battery Hunt</color>",
+    "Description": "<color=uncommon>Jack</color> would like you to find a <color=legendary>Solar Charger</color> to charge his Smartphone. <color=uncommon>Jack</color> suggests that <color=rare>Corporal Matthieu</color> may know about the Rula Facility it lies in.",
+    "Condition_0": "<color=legendary>Solar Charger</color> {0}/1"
+  }
+}

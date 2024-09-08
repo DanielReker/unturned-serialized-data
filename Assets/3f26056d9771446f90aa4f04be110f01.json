@@ -1,0 +1,13 @@
+{
+  "name": "PS_Boombox_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Boombox_0/PS_Boombox_0.dat",
+  "data": {
+    "GUID": "3f26056d9771446f90aa4f04be110f01",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60255"
+  },
+  "translation": {
+    "Name": "PS Boombox #1"
+  }
+}

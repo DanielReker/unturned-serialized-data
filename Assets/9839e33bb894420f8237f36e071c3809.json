@@ -1,0 +1,31 @@
+{
+  "name": "28360KACS",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/C/28360KACS/Asset.dat",
+  "data": {
+    "GUID": "9839e33bb894420f8237f36e071c3809",
+    "Type": "NPC",
+    "ID": "28360 ",
+    "Shirt": "540 ",
+    "Pants": "227 ",
+    "Face": "6",
+    "Hair": "3",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#352C22",
+    "Dialogue": "28361",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "28264",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitAhmadChildSaved",
+    "Character": "Ahmad"
+  }
+}

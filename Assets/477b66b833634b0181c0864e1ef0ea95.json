@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Store_Sign_Pharmacy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Stores/Buak_Store_Sign_Pharmacy/Buak_Store_Sign_Pharmacy.dat",
+  "data": {
+    "GUID": "477b66b833634b0181c0864e1ef0ea95",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Store_Sign_Pharmacy"
+  }
+}

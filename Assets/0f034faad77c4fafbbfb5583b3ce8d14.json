@@ -1,0 +1,23 @@
+{
+  "name": "Sailor Escobar",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Guards/Sailor Escobar/Asset.dat",
+  "data": {
+    "GUID": "0f034faad77c4fafbbfb5583b3ce8d14",
+    "Type": "NPC",
+    "ID": "9022",
+    "Shirt": "8036",
+    "Pants": "8033",
+    "Hat": "8044",
+    "Face": "10",
+    "Beard": "12",
+    "Color_Skin": "#e5c289",
+    "Color_Hair": "#4f3201",
+    "Primary": "8019",
+    "Pose": "Rest",
+    "Dialogue": "9202"
+  },
+  "translation": {
+    "Name": "NAM Sailor Escobar",
+    "Character": "<color=uncommon>Sailor Escobar</color>"
+  }
+}

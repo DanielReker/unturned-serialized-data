@@ -1,0 +1,19 @@
+{
+  "name": "Olivia_End",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Civilian Olivia/Olivia_End/Asset.dat",
+  "data": {
+    "GUID": "ba8ac314805e4fe98fce4a43ed9abfd5",
+    "Type": "Dialogue",
+    "ID": "9217",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Responses": "3"
+  },
+  "translation": {
+    "Message_0_Page_0": "Wow it's been that long? There has to be cure. There's just has to be one.",
+    "Message_0_Page_1": "I want to feel the comfort of my bed back in Antwerp.",
+    "Response_0": "One day you will.",
+    "Response_1": "I really hope there's a cure.",
+    "Response_2": "I think Belgium will always be this way now."
+  }
+}

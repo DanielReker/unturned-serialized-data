@@ -1,0 +1,14 @@
+{
+  "name": "RugShopping_00_Reminder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Carter/Carter_02/RugShopping_00_Reminder/Asset.dat",
+  "data": {
+    "GUID": "d25eb2bfa19d4e878ac528dd7f413dd9",
+    "Type": "Dialogue",
+    "ID": "24538",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Once you have the deer corpse, you can use a bowie knife to turn it into a rug."
+  }
+}

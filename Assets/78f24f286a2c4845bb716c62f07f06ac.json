@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Weapon_Mod_Kit",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Weapon_Mod_Kit/PS_Drops_Weapon_Mod_Kit.dat",
+  "data": {
+    "GUID": "78f24f286a2c4845bb716c62f07f06ac",
+    "Type": "Spawn",
+    "ID": "59431",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59845",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

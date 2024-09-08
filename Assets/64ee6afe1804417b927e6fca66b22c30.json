@@ -1,0 +1,16 @@
+{
+  "name": "Boris_Information",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Boris Mansurov/Boris_Information/Asset.dat",
+  "data": {
+    "GUID": "64ee6afe1804417b927e6fca66b22c30",
+    "Type": "Dialogue",
+    "ID": "8252",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I have one thing, Try not to shoot anybody if you don't want to run into trouble. They won't trade with you and they definitly won't be friends with you. it's better to survive together than to shoot other survivors.",
+    "Response_0": "Good to know."
+  }
+}

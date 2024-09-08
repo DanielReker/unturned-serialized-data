@@ -1,0 +1,26 @@
+{
+  "name": "Stealy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Tools/Stealy/Stealy.dat",
+  "data": {
+    "GUID": "f99db15d0d8b4bf99f73f920f2789999",
+    "Type": "Tool",
+    "Rarity": "Rare",
+    "Useable": "Carlockpick",
+    "ID": "25408",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.26",
+    "Use_Auto_Icon_Measurements": "False",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "25408",
+    "Blueprint_0_Product": "25310",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Tool": "25393",
+    "Blueprint_0_Build": "25520"
+  },
+  "translation": {
+    "Name": "Stealy Wheely Automobiley",
+    "Description": "Tool for unlocking cars i̶l̶l̶e̶g̶a̶l̶l̶y̶."
+  }
+}

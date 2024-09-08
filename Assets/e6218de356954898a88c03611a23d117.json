@@ -1,0 +1,14 @@
+{
+  "name": "Armory_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Armory_Arnold/Armory_Completed/Asset.dat",
+  "data": {
+    "GUID": "e6218de356954898a88c03611a23d117",
+    "Type": "Dialogue",
+    "ID": "2032",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you so much! Now we can fight off more zombies!"
+  }
+}

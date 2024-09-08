@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Broken_Bulb",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Broken_Bulb/PS_Drops_Broken_Bulb.dat",
+  "data": {
+    "GUID": "a48d53ad68d1467b9f5d4ec24e55cdfe",
+    "Type": "Spawn",
+    "ID": "59354",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59584",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

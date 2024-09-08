@@ -1,0 +1,14 @@
+{
+  "name": "Pirate_Rod_Accepted",
+  "path": "Bundles/NPCs/Dialogues/Pirate/Pirate_Rod_Accepted/Asset.dat",
+  "data": {
+    "GUID": "d8bb7ea391cd435aadfffc03588de59b",
+    "Type": "Dialogue",
+    "ID": "35",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good luck! That rod'll do just the trick."
+  }
+}

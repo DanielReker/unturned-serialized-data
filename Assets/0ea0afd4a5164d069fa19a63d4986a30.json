@@ -1,0 +1,20 @@
+{
+  "name": "Frost_Modulo_08_End",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Modulo_2/Frost_Modulo_08_End/Frost_Modulo_08_End.dat",
+  "data": {
+    "GUID": "0ea0afd4a5164d069fa19a63d4986a30",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "36259",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Master_Bundle_Override": "frost.masterbundle",
+    "Bundle_Override_Path": "/Objects/Safezone/Frost_Modulo_3"
+  },
+  "translation": {
+    "Name": "Frost Modulo #9 [End]"
+  }
+}

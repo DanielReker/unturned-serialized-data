@@ -1,0 +1,30 @@
+{
+  "name": "AG_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/Others/AG_00/Asset.dat",
+  "data": {
+    "GUID": "ff77d12b09054dd384042133b360e577",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "61186728cc2840179729ece0edc0e2bd",
+    "Shirt": "de96c5ead9294910a14d8986fd2188bb",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "Face": "1",
+    "Hair": "4",
+    "Color_Skin": "#F4E6D2",
+    "Color_Hair": "#161616",
+    "Dialogue": "8bd76ae1d78f4c3cbf7749f17404f203",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24768",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_AG_00",
+    "Character": "<color=#FFBF00>Anthe Grim</color>"
+  }
+}

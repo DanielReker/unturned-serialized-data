@@ -1,0 +1,20 @@
+{
+  "name": "Unknown_Patient_2_Middle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Unknown Patient 2/Unknown_Patient_2_Middle/Asset.dat",
+  "data": {
+    "GUID": "f9d4592e76d644b28d5079488c492aea",
+    "Type": "Dialogue",
+    "ID": "9141",
+    "Messages": "1",
+    "Message_0_Pages": "3",
+    "Responses": "2",
+    "Response_0_Dialogue": "9142"
+  },
+  "translation": {
+    "Message_0_Page_0": "It's the Nulirane!",
+    "Message_0_Page_1": "They are experimenting on me!",
+    "Message_0_Page_2": "They are doing this to all the infected and the prisoners!",
+    "Response_0": "The Nulirane is doing this to you!?",
+    "Response_1": "I'm sorry, I can't be apart of this."
+  }
+}

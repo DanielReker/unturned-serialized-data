@@ -1,0 +1,28 @@
+{
+  "name": "Militia_Russia_Magazines",
+  "path": "Bundles/Spawns/Items/Militia_Russia_Magazines/Militia_Russia_Magazines.dat",
+  "data": {
+    "GUID": "53fe472c58b64c2c8b30b4c386c7339e",
+    "Type": "Spawn",
+    "ID": "626",
+    "Tables": [
+      {
+        "LegacyAssetId": "6",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "100",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "1026",
+        "Weight": "10"
+      },
+      {
+        "Guid": "75602221e0de41fea05ab0d096b08d4d",
+        "Weight": "10"
+      }
+    ]
+  },
+  "translation": null
+}

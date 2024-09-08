@@ -1,0 +1,22 @@
+{
+  "name": "Omega_Civillian_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Civillian_4/Asset.dat",
+  "data": {
+    "GUID": "f07e9fd5fe014ec7a9697a0e618edaef",
+    "Type": "NPC",
+    "ID": "3634",
+    "Shirt": "421",
+    "Pants": "422",
+    "Face": "25",
+    "Hair": "9",
+    "Beard": "7",
+    "Color_Skin": "#7F654E",
+    "Color_Hair": "#373737",
+    "Pose": "Rest",
+    "Dialogue": "3669"
+  },
+  "translation": {
+    "Name": "Greek Omega Civillian Mel",
+    "Character": "Mel"
+  }
+}

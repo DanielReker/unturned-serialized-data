@@ -1,0 +1,15 @@
+{
+  "name": "Engineer_Materials_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Workshop_Omega/Engineer_Materials_Completed/Asset.dat",
+  "data": {
+    "GUID": "5fc7e56521544b12bb702782db1561c1",
+    "Type": "Dialogue",
+    "ID": "3174",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "3170"
+  },
+  "translation": {
+    "Message_0_Page_0": "With this much scrap we could build ourselfs a Trojan horse! ... but we won't of course."
+  }
+}

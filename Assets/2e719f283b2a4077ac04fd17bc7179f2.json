@@ -1,0 +1,18 @@
+{
+  "name": "Kuwait_Boulder_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Scenery/Kuwait_Boulder_4/Kuwait_Boulder_4.dat",
+  "data": {
+    "GUID": "2e719f283b2a4077ac04fd17bc7179f2",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5017",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Material_Palette": "502db2e78e1a4219be333d68ac172867",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Boulder #5"
+  }
+}

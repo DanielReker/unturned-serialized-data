@@ -1,0 +1,16 @@
+{
+  "name": "Playmat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/CarpetSpawns/Playmat/Playmat.dat",
+  "data": {
+    "GUID": "cfd38fd0fc2a49af938df3c883517088",
+    "Type": "Spawn",
+    "ID": "51269",
+    "Tables": [
+      {
+        "Guid": "35e442811a3f4677b2a02f19c1ba5d23",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

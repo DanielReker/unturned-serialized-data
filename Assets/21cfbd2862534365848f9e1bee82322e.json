@@ -1,0 +1,19 @@
+{
+  "name": "California_Militia_Germany_Mags",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_Militia_Germany_Mags/California_Militia_Germany_Mags.dat",
+  "data": {
+    "GUID": "21cfbd2862534365848f9e1bee82322e",
+    "Type": "Spawn",
+    "ID": "4404",
+    "Tables": "4",
+    "Table_0_Asset_ID": "42016",
+    "Table_0_Weight": "15",
+    "Table_1_Asset_ID": "123",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "1479",
+    "Table_2_Weight": "10",
+    "Table_3_Asset_ID": "1371",
+    "Table_3_Weight": "5"
+  },
+  "translation": null
+}

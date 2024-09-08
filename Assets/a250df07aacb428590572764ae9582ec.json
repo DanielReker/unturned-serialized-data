@@ -1,0 +1,12 @@
+{
+  "name": "CA_Winery_Shed_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Winery_Shed_0/CA_Winery_Shed_0.dat",
+  "data": {
+    "GUID": "a250df07aacb428590572764ae9582ec",
+    "Type": "Large",
+    "ID": "4362"
+  },
+  "translation": {
+    "Name": "California Winery Shed #1"
+  }
+}

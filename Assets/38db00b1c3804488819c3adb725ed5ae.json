@@ -1,0 +1,13 @@
+{
+  "name": "IR_Debris_Medium_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/Debris/IR_Debris_Medium_2/IR_Debris_Medium_2.dat",
+  "data": {
+    "GUID": "38db00b1c3804488819c3adb725ed5ae",
+    "Type": "Medium",
+    "ID": "17053",
+    "Material_Palette": "3638de70ef1b421c98b9efa9681ea6f8"
+  },
+  "translation": {
+    "Name": "Irish Medium Debris#2"
+  }
+}

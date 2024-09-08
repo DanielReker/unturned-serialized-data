@@ -1,0 +1,36 @@
+{
+  "name": "PS_Currency_RPG",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/PS_Currency_RPG.asset",
+  "data": {
+    "GUID": "533bacaaf3774946a8f6dec1c7af17ea",
+    "Type": "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ValueFormat": "{0:N0} RPG Parts",
+    "Entries": [
+      {
+        "Item": {
+          "GUID": "c0c7ac28e5e443c4b8a178cb5869eeab"
+        },
+        "Value": "1"
+      },
+      {
+        "Item": {
+          "GUID": "dede0f70913d4f39832f6aa3cc093d61"
+        },
+        "Value": "1"
+      },
+      {
+        "Item": {
+          "GUID": "1aa3838b40e54fa3ac3ef56cee76d571"
+        },
+        "Value": "1"
+      },
+      {
+        "Item": {
+          "GUID": "7d1b32475809496db6bf5ce60d720dbd"
+        },
+        "Value": "1"
+      }
+    ]
+  },
+  "translation": null
+}

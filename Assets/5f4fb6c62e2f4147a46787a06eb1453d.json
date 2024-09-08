@@ -1,0 +1,13 @@
+{
+  "name": "Frost_G_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Furniture/Frost_G_00/Frost_G_00.dat",
+  "data": {
+    "GUID": "5f4fb6c62e2f4147a46787a06eb1453d",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000"
+  },
+  "translation": {
+    "Name": "Frost G #1"
+  }
+}

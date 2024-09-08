@@ -1,0 +1,34 @@
+{
+  "name": "Metro_Stock_Recoil_0_Gray",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Ranger/Metro_Stock_Recoil_0_Gray/Metro_Stock_Recoil_0_Gray.dat",
+  "data": {
+    "GUID": "1652296194e24db5bb810bf45e5d75e7",
+    "Type": "Tactical",
+    "Rarity": "Epic",
+    "ID": "57077",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.175",
+    "Calibers": "5",
+    "Caliber_0": "57000",
+    "Caliber_1": "57001",
+    "Caliber_2": "57003",
+    "Caliber_3": "57004",
+    "Caliber_4": "57005",
+    "Spread": "0.55",
+    "Recoil_X": "0.25",
+    "Recoil_Y": "0.25",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "57077",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "67",
+    "Blueprint_0_Output_0_Amount": "2",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Reign Stock",
+    "Description": "<color=#64c819>-75%</color> Recoil<br><color=#64c819>-45%</color> Spread"
+  }
+}

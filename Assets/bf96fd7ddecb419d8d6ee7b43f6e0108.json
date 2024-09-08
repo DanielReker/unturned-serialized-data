@@ -1,0 +1,12 @@
+{
+  "name": "Kerchoo_BWTY_PORANGE",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Vehicles/Redirectors/Kerchoo_BWT/Kerchoo_BWTY_PORANGE.asset",
+  "data": {
+    "GUID": "bf96fd7ddecb419d8d6ee7b43f6e0108",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "25363",
+    "TargetVehicle": "04655cb9850342448f0a79febf0b325c",
+    "LoadPaintColor": "#B67D4A"
+  },
+  "translation": null
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Civilian",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Civilian/Civilian/Civilian.dat",
+  "data": {
+    "GUID": "32c747793fae4ffd98876fe351837f8f",
+    "Type": "Spawn",
+    "ID": "51125",
+    "Tables": [
+      {
+        "Guid": "108bd30808024772a28684e7705ecdf4",
+        "Weight": "50"
+      },
+      {
+        "Guid": "ccdd0da5764b43d293c72a256ceb042d",
+        "Weight": "15"
+      },
+      {
+        "Guid": "dcc46cf3050a4f4e85e9663986473af3",
+        "Weight": "15"
+      },
+      {
+        "Guid": "f3339664717b44e589b181b63f79e20d",
+        "Weight": "10"
+      },
+      {
+        "Guid": "ac9106ab23804fbc9e85e2cd02c57991",
+        "Weight": "10"
+      }
+    ]
+  },
+  "translation": null
+}

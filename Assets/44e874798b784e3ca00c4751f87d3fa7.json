@@ -1,0 +1,22 @@
+{
+  "name": "Kira_Hat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Kira_Hat/Kira_Hat.dat",
+  "data": {
+    "GUID": "44e874798b784e3ca00c4751f87d3fa7",
+    "Rarity": "Uncommon",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "27020",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Beard": "",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Kira_Hat",
+    "Description": "NPC Hat."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Frost_Farmer_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Farmer_00/Frost_Farmer_00/Asset.dat",
+  "data": {
+    "GUID": "3c9962639bc8405c8ef8d23aca7651ee",
+    "Type": "NPC",
+    "ID": "36153",
+    "Face": "6",
+    "Hair": "0",
+    "Beard": "3",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#352C22",
+    "Glasses": "1610",
+    "Shirt": "36313",
+    "Pants": "36311",
+    "Hat": "36318",
+    "Primary": "1034",
+    "Secondary": "36410",
+    "Dialogue": "36154"
+  },
+  "translation": {
+    "Name": "Frost NPC Farmer #1 [Safezone]",
+    "Character": "Ember the Farmer"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "PS_Drops_Metal_Crate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Metal_Crate/PS_Drops_Metal_Crate.dat",
+  "data": {
+    "GUID": "04c177041ba84fc18861775a13b87d5a",
+    "Type": "Spawn",
+    "ID": "59434",
+    "Tables": "2",
+    "Table_0_Asset_ID": "59009",
+    "Table_0_Weight": "2",
+    "Table_1_Asset_ID": "59010",
+    "Table_1_Weight": "1"
+  },
+  "translation": null
+}

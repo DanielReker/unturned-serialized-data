@@ -1,0 +1,13 @@
+{
+  "name": "California_PMC_Special_Gear",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_PMC_Special_Gear/California_PMC_Special_Gear.dat",
+  "data": {
+    "GUID": "c4f85919b8664bcfa94de8e97870c09e",
+    "Type": "Spawn",
+    "ID": "4360",
+    "Tables": "1",
+    "Table_0_Asset_ID": "4066",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

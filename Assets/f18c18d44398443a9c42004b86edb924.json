@@ -1,0 +1,43 @@
+{
+  "name": "PS_Chair_Placable_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Barricades/PS_Chair_Placable_1/PS_Chair_Placable_1.dat",
+  "data": {
+    "GUID": "f18c18d44398443a9c42004b86edb924",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Barricade",
+    "ID": "59919",
+    "SalvageItem": "f18c18d44398443a9c42004b86edb924",
+    "Min_Items_Dropped_On_Destroy": "4",
+    "Max_Items_Dropped_On_Destroy": "4",
+    "Item_Dropped_On_Destroy": "4663b2cd83d94e8087e00882d35bb286",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.55",
+    "Health": "150",
+    "Range": "4",
+    "Radius": "0.4",
+    "Offset": "0.8",
+    "Explosion": "19",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supply_0_ID": "59028",
+    "Blueprint_0_Supply_0_Amount": "8",
+    "Blueprint_0_Tool": "59004",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Conditions": "1",
+    "Blueprint_0_Condition_0_Type": "Flag_Bool",
+    "Blueprint_0_Condition_0_ID": "59289",
+    "Blueprint_0_Condition_0_Value": "True",
+    "Blueprint_0_Condition_0_Logic": "Equal",
+    "PlacementAudioClip": "Sounds/WoodenPlacement.mp3",
+    "Salvage_Duration_Multiplier": "0.4"
+  },
+  "translation": {
+    "Name": "Monobloc Chair",
+    "Description": "Lightweight stackable polypropylene chair."
+  }
+}

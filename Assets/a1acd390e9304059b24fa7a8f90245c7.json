@@ -1,0 +1,26 @@
+{
+  "name": "Military_Injured",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Injured/Asset.dat",
+  "data": {
+    "GUID": "a1acd390e9304059b24fa7a8f90245c7",
+    "Type": "NPC",
+    "ID": "3938",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_Logic": "Not_Equal",
+    "Condition_0_ID": "3403",
+    "Condition_0_Value": "500",
+    "Pants": "3504",
+    "Face": "9",
+    "Hair": "19",
+    "Beard": "0",
+    "Color_Skin": "#867F6E",
+    "Color_Hair": "#372319",
+    "Pose": "Asleep",
+    "Dialogue": "3412"
+  },
+  "translation": {
+    "Name": "Greek Military Injured Tennyson",
+    "Character": "<color=legendary>Master Sergeant Tennyson</color>"
+  }
+}

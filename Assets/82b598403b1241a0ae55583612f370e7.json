@@ -1,0 +1,20 @@
+{
+  "name": "Easter_Note_Paradise_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Small/Notes/Easter_Note_Paradise_0/Easter_Note_Paradise_0.dat",
+  "data": {
+    "GUID": "82b598403b1241a0ae55583612f370e7",
+    "Type": "Small",
+    "ID": "6835",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Easter Note - Project Paradise - Log",
+    "Interactability_Text_Line_0": "Project Paradise, our last resort incase of total infection on the mainland. If the orders are sent, protocall says to start construction on a network of artificial islands for regrowth of the human population. Hopefully this population of survivors will be able to step foot on the mainland in the distant future."
+  }
+}

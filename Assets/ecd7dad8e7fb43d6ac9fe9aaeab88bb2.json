@@ -1,0 +1,14 @@
+{
+  "name": "Mechanic_Broadcast_Repair",
+  "path": "Bundles/NPCs/Dialogues/Mechanic/Mechanic_Broadcast_Repair/Asset.dat",
+  "data": {
+    "GUID": "ecd7dad8e7fb43d6ac9fe9aaeab88bb2",
+    "Type": "Dialogue",
+    "ID": "49",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Broadcast repair kit? That's not very specific <pause>- do you mean like to get one of those radio towers online again? <pause>Hmmm <pause>Okay, here's a bag of some tools I expect you'll need!"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Rio_Boulder_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Boulder_3/Rio_Boulder_3.dat",
+  "data": {
+    "GUID": "86f7d2d7d4284cd79f804917e82bcf06",
+    "Type": "Large",
+    "ID": "6008",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Cliff",
+    "Landmark_Quality": "High",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Boulder #4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "29616KJA2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/3/D/29610KJD/29616KJA2/Asset.dat",
+  "data": {
+    "GUID": "1ce748803d9c41b08af8d765f7a5e60e",
+    "Type": "Dialogue",
+    "ID": "29616",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I've been waiting for this chance. Hopefully you can get it."
+  }
+}

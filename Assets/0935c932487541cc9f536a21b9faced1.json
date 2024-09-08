@@ -1,0 +1,21 @@
+{
+  "name": "Policeman",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Characters/Policeman/Asset.dat",
+  "data": {
+    "GUID": "0935c932487541cc9f536a21b9faced1",
+    "Type": "NPC",
+    "ID": "5500",
+    "Hat": "23518",
+    "Shirt": "23516",
+    "Pants": "23517",
+    "Face": "5",
+    "Hair": "1",
+    "Color_Skin": "#F9E2AC",
+    "Color_Hair": "#F9A811",
+    "Dialogue": "5501"
+  },
+  "translation": {
+    "Name": "Policeman",
+    "Character": "<color=rare>Policeman</color>"
+  }
+}

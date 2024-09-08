@@ -1,0 +1,11 @@
+{
+  "name": "Car_Profile",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Content/Vehicle/Car_Profile.asset",
+  "data": {
+    "GUID": "3738ac46470b4a979a53df99bcf93069",
+    "Type": "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Wheel_Suspension_Damper": "7",
+    "Carjack_Force_Multiplier": "0.05"
+  },
+  "translation": null
+}

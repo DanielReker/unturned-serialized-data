@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Billboard_13",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Billboards/Buak_Billboard_13/Buak_Billboard_13.dat",
+  "data": {
+    "GUID": "02187175f680454ab03c3b7b19e1b7a8",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Billboard_13"
+  }
+}

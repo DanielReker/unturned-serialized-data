@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Hunter_Acc",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Hunter/PBS_Hunter_Acc/Asset.dat",
+  "data": {
+    "GUID": "8651e596d3f54291b996c1dc41709ced",
+    "Type": "Dialogue",
+    "ID": "52292",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good luck!  Sneak up quietly to get 'em."
+  }
+}

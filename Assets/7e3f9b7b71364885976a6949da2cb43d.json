@@ -1,0 +1,14 @@
+{
+  "name": "RULA_Tunnel_Line_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/RULA/RULA_Tunnel_Line_0/RULA_Tunnel_Line_0.dat",
+  "data": {
+    "GUID": "7e3f9b7b71364885976a6949da2cb43d",
+    "Type": "Large",
+    "ID": "35142",
+    "Snowshoe": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "RULA Tunnel Line #1"
+  }
+}

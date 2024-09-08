@@ -1,0 +1,17 @@
+{
+  "name": "Elver_Ski_Sky",
+  "path": "Bundles/Items/Elver/Elver_Ski_Sky/Elver_Ski_Sky.dat",
+  "data": {
+    "GUID": "c9a58c51b8e24db39c6dae34b8f32983",
+    "Type": "Glasses",
+    "Useable": "Clothing",
+    "ID": "988",
+    "Hair": "",
+    "Beard": "",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.15",
+    "Pro": ""
+  },
+  "translation": null
+}

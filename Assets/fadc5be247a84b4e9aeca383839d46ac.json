@@ -1,0 +1,17 @@
+{
+  "name": "PS_Sandbag_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Sandbag_7/PS_Sandbag_7.dat",
+  "data": {
+    "GUID": "fadc5be247a84b4e9aeca383839d46ac",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59136",
+    "Material_Palette": "918476166f474d7ca8d4b88f66bb5724",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/PS_Sandbag_1",
+    "Causes_Fall_Damage": "False"
+  },
+  "translation": {
+    "Name": "PS Sandbag #8"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "BP_External_Rock_Gate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_External_Rock_Gate/Asset.dat",
+  "data": {
+    "GUID": "c3bc110c0f084606a7cc3dab519d90d9",
+    "Type": "Quest",
+    "ID": "24877",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "78352c62ded94b308129da1c75c4a817",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24876",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "External Rock Gate Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "External Rock Gate Recipe"
+  }
+}

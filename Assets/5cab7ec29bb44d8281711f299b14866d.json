@@ -1,0 +1,16 @@
+{
+  "name": "BE Road Quad",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Road Quad/BE Road Quad.dat",
+  "data": {
+    "GUID": "5cab7ec29bb44d8281711f299b14866d",
+    "Type": "Large",
+    "ID": "9042",
+    "Soft": "",
+    "Chart": "Street",
+    "Collision_Important": "",
+    "Landmark_Quality": "Ultra"
+  },
+  "translation": {
+    "Name": "BE Road Quad"
+  }
+}

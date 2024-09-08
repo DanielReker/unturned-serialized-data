@@ -1,0 +1,30 @@
+{
+  "name": "Bottle_Pesticide_Cyan",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Bottle_Pesticide_Cyan/Bottle_Pesticide_Cyan.dat",
+  "data": {
+    "GUID": "2eb5c7e4175a4b59b5d3fcb813f215fe",
+    "Type": "Small",
+    "ID": "3748",
+    "Asset_Bundle_Version": "2",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3214",
+    "Condition_0_Value": "2",
+    "Condition_0_Logic": "Not_Equal",
+    "Condition_1_Type": "Flag_Short",
+    "Condition_1_ID": "3214",
+    "Condition_1_Value": "4",
+    "Condition_1_Logic": "Not_Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Short",
+    "Interactability_Reward_0_ID": "3214",
+    "Interactability_Reward_0_Value": "2",
+    "Interactability_Reward_0_Modification": "Assign"
+  },
+  "translation": {
+    "Name": "Bottled Pesticide Cyan",
+    "Interact": "Take Cyan Pesticides[{0}]"
+  }
+}

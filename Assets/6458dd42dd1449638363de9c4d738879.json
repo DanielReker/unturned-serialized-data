@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Generator_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Generator_3/Metro_Generator_3.dat",
+  "data": {
+    "GUID": "6458dd42dd1449638363de9c4d738879",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57346",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Generator #4"
+  }
+}

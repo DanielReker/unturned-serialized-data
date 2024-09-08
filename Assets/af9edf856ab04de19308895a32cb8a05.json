@@ -1,0 +1,14 @@
+{
+  "name": "26884KACT",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/265 CO/2664-2691 Mili/26880KACD/26884KACT/Asset.dat",
+  "data": {
+    "GUID": "af9edf856ab04de19308895a32cb8a05",
+    "Type": "Dialogue",
+    "ID": "26884",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Mission first, people always."
+  }
+}

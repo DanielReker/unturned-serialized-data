@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Outlands_Support_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Quests/Kuwait_Outlands/Kuwait_Outlands_Support_0/Kuwait_Outlands_Support_0.dat",
+  "data": {
+    "GUID": "1c81fc473dae4f8baf80f5b60cb9b0a9",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5247"
+  },
+  "translation": {
+    "Name": "Kuwait Outlands Support"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "IR_Brewary_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Brewary_1/IR_Brewary_1.dat",
+  "data": {
+    "GUID": "5094b5b556254e118d852a1ee0a365b4",
+    "Type": "Large",
+    "ID": "17096"
+  },
+  "translation": {
+    "Name": "Irish Brewary# 1"
+  }
+}

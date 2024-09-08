@@ -1,0 +1,13 @@
+{
+  "name": "Tire_Stack",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Tire_Stack/Tire_Stack.dat",
+  "data": {
+    "GUID": "1ab53790f0d147cca365190eac592621",
+    "Type": "Large",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Tire Stack"
+  }
+}

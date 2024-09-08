@@ -1,0 +1,32 @@
+{
+  "name": "29530KP",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/2/C/29530KP/Asset.dat",
+  "data": {
+    "GUID": "94b7f3258c374f6a8868955ad39798ba",
+    "Type": "NPC",
+    "ID": "29530",
+    "Shirt": "181",
+    "Pants": "214",
+    "Glasses": "502",
+    "Face": "10",
+    "Hair": "14",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#57452F",
+    "Dialogue": "29531",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "29320",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitSurvivorPete",
+    "Character": "Pete"
+  }
+}

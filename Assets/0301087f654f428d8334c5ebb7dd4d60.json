@@ -1,0 +1,16 @@
+{
+  "name": "DeadzoneAirdrop",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/DeadzoneAirdrop/DeadzoneAirdrop.dat",
+  "data": {
+    "GUID": "0301087f654f428d8334c5ebb7dd4d60",
+    "Type": "Spawn",
+    "ID": "51230",
+    "Tables": [
+      {
+        "Guid": "ba1e0a5de6914004a5a6252c68535ea4",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

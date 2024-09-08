@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Wardrobe_Poplar",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Wardrobe_Poplar/Bar_Wardrobe_Poplar.dat",
+  "data": {
+    "GUID": "cc577756ce9642e3956182ebf96e579b",
+    "Type": "Effect",
+    "ID": "25451"
+  },
+  "translation": null
+}

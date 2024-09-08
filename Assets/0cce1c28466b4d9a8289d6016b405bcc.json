@@ -1,0 +1,15 @@
+{
+  "name": "Farmer_Fertilizer_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Farmer_Military/Farmer_Fertilizer_Completed/Asset.dat",
+  "data": {
+    "GUID": "0cce1c28466b4d9a8289d6016b405bcc",
+    "Type": "Dialogue",
+    "ID": "3144",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "3142"
+  },
+  "translation": {
+    "Message_0_Page_0": "Excellent! Let me know when you're ready for the next job."
+  }
+}

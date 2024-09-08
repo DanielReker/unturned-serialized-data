@@ -1,0 +1,24 @@
+{
+  "name": "Military_Farm_Officer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Farm_Officer/Asset.dat",
+  "data": {
+    "GUID": "76ac2edd1edd45009063a07b19caaadf",
+    "Type": "NPC",
+    "ID": "3574",
+    "Shirt": "314",
+    "Pants": "3504",
+    "Hat": "244",
+    "Face": "24",
+    "Hair": "4",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#665037",
+    "Tertiary": "1328",
+    "Equipped": "Tertiary",
+    "Dialogue": "3142"
+  },
+  "translation": {
+    "Name": "Greek Military Farmer Lead Daphne",
+    "Character": "<color=epic>Lead Botanist Daphne</color>"
+  }
+}

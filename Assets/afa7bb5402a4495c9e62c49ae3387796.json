@@ -1,0 +1,14 @@
+{
+  "name": "Alessio_End Reposne",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Captain Sailor Alessio/Alessio_End Reposne/Asset.dat",
+  "data": {
+    "GUID": "afa7bb5402a4495c9e62c49ae3387796",
+    "Type": "Dialogue",
+    "ID": "9190",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I wish you all the luck beyond the sea!"
+  }
+}

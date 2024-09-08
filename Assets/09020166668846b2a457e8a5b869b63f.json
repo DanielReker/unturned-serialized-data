@@ -1,0 +1,208 @@
+{
+  "name": "Buak_Horde_Beacon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Horde_Beacon/Buak_Horde_Beacon.dat",
+  "data": {
+    "GUID": "09020166668846b2a457e8a5b869b63f",
+    "Type": "Spawn",
+    "ID": "25346",
+    "Tables": [
+      {
+        "LegacyAssetId": "25380",
+        "Weight": "150"
+      },
+      {
+        "LegacyAssetId": "25463",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25462",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25460",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25468",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25445",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25652",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25442",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25441",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25440",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25439",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25438",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25446",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25444",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25405",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25443",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25651",
+        "Weight": "100"
+      },
+      {
+        "Guid": "fb8525d4e4784c27af446ce30ce44574",
+        "Weight": "100"
+      },
+      {
+        "Guid": "c9d6b336baf14d6d9d54506a0f0686cb",
+        "Weight": "100"
+      },
+      {
+        "Guid": "12254cca61644d6e981c346360ccff03",
+        "Weight": "100"
+      },
+      {
+        "Guid": "2e78a8ad81794c8c82237e3fdb9cbef3",
+        "Weight": "100"
+      },
+      {
+        "Guid": "7a670574a5f940b29287e57649d54a14",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25464",
+        "Weight": "100"
+      },
+      {
+        "Guid": "fa7e6e0d12c0406ea4277a331b63352d",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25465",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25467",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25516",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25517",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25518",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25519",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25520",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25521",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25471",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25522",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25525",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25526",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25527",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25530",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25531",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25532",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25533",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25523",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25514",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25515",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25524",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25470",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25469",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25466",
+        "Weight": "100"
+      },
+      {
+        "Guid": "1dbb8afb74294afaaa9d955ff45d52d3",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

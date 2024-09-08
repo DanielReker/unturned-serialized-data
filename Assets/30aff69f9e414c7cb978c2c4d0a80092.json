@@ -1,0 +1,23 @@
+{
+  "name": "BP_Masterkey",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Masterkey/Asset.dat",
+  "data": {
+    "GUID": "30aff69f9e414c7cb978c2c4d0a80092",
+    "Type": "Quest",
+    "ID": "24945",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "8a28fe9f014b4817a191a519132a444d",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24944",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Masterkey Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Masterkey Recipe"
+  }
+}

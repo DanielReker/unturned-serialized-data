@@ -1,0 +1,31 @@
+{
+  "name": "James_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/01/James_01/Asset.dat",
+  "data": {
+    "GUID": "f80372d115994cfc96dcd1fbd10e138a",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "ebb71672b00f4e60ac6ce7a8eca1300b",
+    "Shirt": "c840c89e0b7d4d4c9e27ac1da5a4ed9d",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "8",
+    "Hair": "4",
+    "Color_Skin": "#706049",
+    "Color_Hair": "#161616",
+    "Dialogue": "ceb2879d9a19461abd7a917ad5e585cb",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24788",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_James_01",
+    "Character": "<color=legendary>James</color>"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PS_Canister_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Canister_0/PS_Canister_0.dat",
+  "data": {
+    "GUID": "8bf251ff531c40e49345b3d89717e278",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59982",
+    "Material_Palette": "097b1a70f0254a338089319b33ff42ac"
+  },
+  "translation": {
+    "Name": "PS Canister #1"
+  }
+}

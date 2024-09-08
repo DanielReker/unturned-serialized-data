@@ -1,0 +1,22 @@
+{
+  "name": "Carpat_Pine_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Trees/Carpat_Pine_0/Carpat_Pine_0.dat",
+  "data": {
+    "GUID": "659a25e2199a4e3186e3e756df0c6c34",
+    "Type": "Resource",
+    "ID": "23330",
+    "Health": "2000",
+    "Radius": "1",
+    "Scale": "0.3",
+    "Explosion": "21",
+    "Reward_ID": "517",
+    "Reward_XP": "2",
+    "Reward_Min": "3",
+    "Reward_Max": "6",
+    "Reset": "600",
+    "Auto_Skybox": ""
+  },
+  "translation": {
+    "Name": "Carpat Pine #0"
+  }
+}

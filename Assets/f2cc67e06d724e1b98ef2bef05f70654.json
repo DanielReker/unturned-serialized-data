@@ -1,0 +1,41 @@
+{
+  "name": "Fransisco_Sell_Start",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Vendors/Fransisco_Sell_Start/Asset.dat",
+  "data": {
+    "GUID": "f2cc67e06d724e1b98ef2bef05f70654",
+    "Type": "Vendor",
+    "ID": "9250",
+    "Buying": "6",
+    "Buying_0_ID": "269",
+    "Buying_0_Cost": "60",
+    "Buying_1_ID": "15",
+    "Buying_1_Cost": "70",
+    "Buying_2_ID": "403",
+    "Buying_2_Cost": "60",
+    "Buying_3_ID": "387",
+    "Buying_3_Cost": "50",
+    "Buying_4_ID": "395",
+    "Buying_4_Cost": "50",
+    "Buying_5_ID": "388",
+    "Buying_5_Cost": "50",
+    "Selling": "7",
+    "Selling_0_ID": "404",
+    "Selling_0_Cost": "30",
+    "Selling_1_ID": "389",
+    "Selling_1_Cost": "40",
+    "Selling_2_ID": "392",
+    "Selling_2_Cost": "30",
+    "Selling_3_ID": "391",
+    "Selling_3_Cost": "30",
+    "Selling_4_ID": "390",
+    "Selling_4_Cost": "40",
+    "Selling_5_ID": "394",
+    "Selling_5_Cost": "40",
+    "Selling_6_ID": "96",
+    "Selling_6_Cost": "30"
+  },
+  "translation": {
+    "Name": "Fransisco's Office",
+    "Description": "For your medical needs"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Kuwait_Chuck_Barrel_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Supplies/Kuwait_Chuck_Barrel_0/Kuwait_Chuck_Barrel_0.dat",
+  "data": {
+    "GUID": "e4f6f4667cf64bd48728281d936dfd2f",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "5142",
+    "Size_X": "3",
+    "Size_Y": "1",
+    "Size_Z": "0.55",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supply_0_ID": "5142",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Chuck Barrel",
+    "Description": "Chuck's barrel."
+  }
+}

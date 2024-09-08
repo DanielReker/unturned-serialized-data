@@ -1,0 +1,31 @@
+{
+  "name": "Bottled_Coconut",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Water/Bottled_Coconut/Bottled_Coconut.dat",
+  "data": {
+    "GUID": "451a6daef8d04f5bac996e18eec2b53b",
+    "Type": "Water",
+    "Useable": "Consumeable",
+    "ID": "5234",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.4",
+    "Health": "10",
+    "Water": "50",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "5528",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "5270",
+    "Quest_Reward_0_Amount": "1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Water/Bottled_Coconut",
+    "ConsumeAudioClip": "Sounds/DrinkSwallow.mp3"
+  },
+  "translation": {
+    "Name": "Bottled Coconut",
+    "Description": "Water from the center of the coconut.<br><color=#BF1F1F>+10 HP</color><br><color=#3298C8>+50 Water</color>"
+  }
+}

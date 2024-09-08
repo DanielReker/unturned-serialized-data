@@ -1,0 +1,16 @@
+{
+  "name": "Alexandr_Information",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Alexandr Costin/Alexandr_Information/Asset.dat",
+  "data": {
+    "GUID": "de0ce1bacf414b0cacb63ad638b78501",
+    "Type": "Dialogue",
+    "ID": "8502",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Nothing but my boring job, I'm guarding the territory. I think you should talk to the other folks around here, they have lots to say.",
+    "Response_0": "Thanks anyway."
+  }
+}

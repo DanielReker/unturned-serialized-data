@@ -1,0 +1,31 @@
+{
+  "name": "Frost_Currency_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Crafting/Frost_Currency_0/Frost_Currency_0.dat",
+  "data": {
+    "GUID": "482e24292245467c96d23330b849462d",
+    "Type": "Supply",
+    "ID": "36101",
+    "Size_Z": "0.16",
+    "Use_Auto_Icon_Measurements": "False",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "36101",
+    "Blueprint_0_Supply_0_Amount": "5",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "36102",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "36101",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "▲Combine",
+    "Action_0_Tooltip": "▲Combine into 1x <color=#1f871f>Silver Coins</color>"
+  },
+  "translation": {
+    "Name": "Bronze Coin",
+    "Description": "<color=#64c819>金1</color> Quid Value"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "26363KEJDD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26360KEJD/26363KEJDD/Asset.dat",
+  "data": {
+    "GUID": "d742903657974118b44214e526dcd3f5",
+    "Type": "Dialogue",
+    "ID": "26363",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I haven't been here long, but I can already tell I prefer the nighttime. Right <name_char>?",
+    "Response_0": "Good evening!"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Crop_Dirt",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Crop_Dirt/Bar_Crop_Dirt.dat",
+  "data": {
+    "GUID": "7f41506aff4943fa8eabfbe9f0175bbc",
+    "Type": "Effect",
+    "ID": "25358"
+  },
+  "translation": null
+}

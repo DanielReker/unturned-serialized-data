@@ -1,0 +1,15 @@
+{
+  "name": "Cabanabed_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Cabanabed_0/Cabanabed_0.dat",
+  "data": {
+    "GUID": "f52b91c5e10c4622a08a90bd194ffc1b",
+    "Type": "Medium",
+    "ID": "677",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Hawaii Cabana Bed #1"
+  }
+}

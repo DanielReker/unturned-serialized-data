@@ -1,0 +1,32 @@
+{
+  "name": "FishingPistol",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardListSpawns/FishingPistol/FishingPistol.dat",
+  "data": {
+    "GUID": "c440fb64cb134e1dadc45c3d69eca044",
+    "Type": "Spawn",
+    "ID": "51300",
+    "Tables": [
+      {
+        "Guid": "ebeb86b355824954826f1269e550bb64",
+        "Weight": "100"
+      },
+      {
+        "Guid": "6ea7b09d56bc4f33846f452d99f6585e",
+        "Weight": "100"
+      },
+      {
+        "Guid": "29b088d71ef545eabdbe84634efeefa8",
+        "Weight": "100"
+      },
+      {
+        "Guid": "0fa51fc22bc749dd823df885bfeae093",
+        "Weight": "50"
+      },
+      {
+        "Guid": "17467247f0514a02801f8043abe870c6",
+        "Weight": "3"
+      }
+    ]
+  },
+  "translation": null
+}

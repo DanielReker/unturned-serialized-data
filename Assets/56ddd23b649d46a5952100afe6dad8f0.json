@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Q_FTGU_Tools_Shelf",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_FTGU_Tools_Shelf/Buak_Q_FTGU_Tools_Shelf.dat",
+  "data": {
+    "GUID": "56ddd23b649d46a5952100afe6dad8f0",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24592",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_Q_FTGU_Tools_Shelf"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Frag_Ammo_Boom",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Explosions/PS_Frag_Ammo_Boom/PS_Frag_Ammo_Boom.dat",
+  "data": {
+    "GUID": "bbdba1aa9ea244c58d0f62fb5e375468",
+    "Type": "Effect",
+    "ID": "59044",
+    "Relevant_Distance": "800",
+    "CameraShake_Radius": "5",
+    "CameraShake_MagnitudeDegrees": "30"
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Tire_Pile_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Props/Buak_Tire_Pile_01/Buak_Tire_Pile_01.dat",
+  "data": {
+    "GUID": "413f8aaf22224207be5f0f01ccdaa87a",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Tire_Pile_01"
+  }
+}

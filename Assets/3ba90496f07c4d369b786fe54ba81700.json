@@ -1,0 +1,13 @@
+{
+  "name": "BE Practitioner",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Practitioner/BE Practitioner.dat",
+  "data": {
+    "GUID": "3ba90496f07c4d369b786fe54ba81700",
+    "Type": "Large",
+    "ID": "9089",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Practitioner"
+  }
+}

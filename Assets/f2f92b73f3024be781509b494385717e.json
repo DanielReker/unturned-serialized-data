@@ -1,0 +1,19 @@
+{
+  "name": "Easter_Boulder_14",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Scenery/Easter_Boulder_14/Easter_Boulder_14.dat",
+  "data": {
+    "GUID": "f2f92b73f3024be781509b494385717e",
+    "Type": "Large",
+    "ID": "6639",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Cliff",
+    "Landmark_Quality": "High",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Boulder #15"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Frost_Nuke_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Frost_Nuke_03/Frost_Nuke_03.dat",
+  "data": {
+    "GUID": "9c49756574714e9dac6386d22ba9f6a7",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "LOD": "Area",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "Frost Nuke #4"
+  }
+}

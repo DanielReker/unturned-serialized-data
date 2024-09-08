@@ -1,0 +1,19 @@
+{
+  "name": "Note_Ambulance",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Update Irish Knights/Note/Note_Ambulance/Note_Ambulance.dat",
+  "data": {
+    "GUID": "3c9b43a67cc04e81a67ea0f3081f6a0b",
+    "Type": "Medium",
+    "ID": "17716",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Asset_Bundle_Version": "2",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note"
+  },
+  "translation": {
+    "Name": "Irish Note - Ambulance",
+    "Interactability_Text_Line_0": "The patient is now comatose. These are all the same symptoms of that infection going around. The one ending the world. The one turning people into freaking zombies. They did call it the Turned Infection, but I heard they’re calling it “Metaphin” now cause of the mutations popping up. I didn’t think it would get here so fast. If it were up to me, I’d put this patient down right now and save us all a hell of a lot of trouble. I really hope they don’t wake up…"
+  }
+}

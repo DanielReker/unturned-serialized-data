@@ -1,0 +1,14 @@
+{
+  "name": "Musician_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Musician_Help/Musician_Accepted/Asset.dat",
+  "data": {
+    "GUID": "a7c75ce2559e4fb69f95811114b8b1ec",
+    "Type": "Dialogue",
+    "ID": "2091",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I really hope you find it! I'm still very upset I left it behind!"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Energized",
+  "path": "Bundles/Mythics/Energized/Energized.dat",
+  "data": {
+    "GUID": "35baa5b55afb451a8e36f92400bc533e",
+    "Type": "Mythic",
+    "ID": "16"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Energized"
+  }
+}

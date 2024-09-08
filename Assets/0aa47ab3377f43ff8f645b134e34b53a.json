@@ -1,0 +1,14 @@
+{
+  "name": "PS_Carpet_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Carpet_0/PS_Carpet_0.dat",
+  "data": {
+    "GUID": "0aa47ab3377f43ff8f645b134e34b53a",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59110",
+    "Material_Palette": "cdeb0b66eb3043b08b8690347948ac86"
+  },
+  "translation": {
+    "Name": "PS Carpet #1"
+  }
+}

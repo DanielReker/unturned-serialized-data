@@ -1,0 +1,31 @@
+{
+  "name": "Navy_Cap",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Items/Hats/Navy_Cap/Navy_Cap.dat",
+  "data": {
+    "GUID": "58cc56259a514bd0bfaced2d37a3c1ec",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Useable": "Clothing",
+    "ID": "8044",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Beard": "",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "8031",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Navy Cap",
+    "Description": "Navy Sailor rank uniform hat."
+  }
+}

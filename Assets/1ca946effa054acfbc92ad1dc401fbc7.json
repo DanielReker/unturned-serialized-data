@@ -1,0 +1,15 @@
+{
+  "name": "26648KIRT",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/265 CO/2664-2691 Mili/26640KIRD/26648KIRT/Asset.dat",
+  "data": {
+    "GUID": "1ca946effa054acfbc92ad1dc401fbc7",
+    "Type": "Dialogue",
+    "ID": "26648",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "26641"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hm. Well, sometimes you have to assert your position of leadership, and sometimes you have to let people do what they want. Try to collaborate instead of compromise."
+  }
+}

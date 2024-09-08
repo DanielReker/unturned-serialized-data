@@ -1,0 +1,16 @@
+{
+  "name": "Owen_Question_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Owen/Owen_04/Owen_Question_00/Asset.dat",
+  "data": {
+    "GUID": "fb1283273c48494a93b50b1fce0259d0",
+    "Type": "Dialogue",
+    "ID": "24057",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Before the apocalypse I saw a commercial for it on TV, I saved up a bunch of money doing chores to buy it and I succeeded! My grandparents also bought me the same one at the same time so I ended up with two!",
+    "Response_0": "Good to know!"
+  }
+}

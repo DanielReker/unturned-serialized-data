@@ -1,0 +1,28 @@
+{
+  "name": "Metro_Fish_Quest_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_Fish_Quest_2/Metro_Fish_Quest_2.dat",
+  "data": {
+    "GUID": "26c612f2de344e9cb7ed3cd4bf225d82",
+    "Type": "Food",
+    "Rarity": "Legendary",
+    "Useable": "Consumeable",
+    "ID": "57536",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Virus": "30",
+    "Food": "10",
+    "Water": "15",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supply_0_ID": "57536",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Product": "57118",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Hypertech Fish",
+    "Description": "<color=#64c819>10</color> Food <color=#64c819>15</color> Water<br><color=#fa3219>30</color> Radiation<br>Can be turned into <color=#ffffff>Raw Fish Meat</color> and then <color=#64c819>Cooked</color><br>For <color=#ffffff>Fisher Quest Part 3</color>"
+  }
+}

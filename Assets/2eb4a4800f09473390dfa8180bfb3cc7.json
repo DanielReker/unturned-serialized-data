@@ -1,0 +1,15 @@
+{
+  "name": "Pilot_Jet_Accepted",
+  "path": "Bundles/NPCs/Dialogues/Pilot/Pilot_Jet_Accepted/Asset.dat",
+  "data": {
+    "GUID": "2eb4a4800f09473390dfa8180bfb3cc7",
+    "Type": "Dialogue",
+    "ID": "238",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "87"
+  },
+  "translation": {
+    "Message_0_Page_0": "Great! Let me know once you're ready."
+  }
+}

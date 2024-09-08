@@ -1,0 +1,16 @@
+{
+  "name": "Research_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Assets/Material_Palettes/Research_1.asset",
+  "data": {
+    "GUID": "2fe2d2a60ada404b8f27acd7888e602b",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "california.masterbundle",
+        "Path": "palettes/research_1/research_1.mat"
+      }
+    ]
+  },
+  "translation": null
+}

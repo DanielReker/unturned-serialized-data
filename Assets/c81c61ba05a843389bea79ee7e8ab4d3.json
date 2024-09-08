@@ -1,0 +1,20 @@
+{
+  "name": "Nelson_1_Response_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Nelson_1/Nelson_1_Response_0/Asset.dat",
+  "data": {
+    "GUID": "c81c61ba05a843389bea79ee7e8ab4d3",
+    "Type": "Dialogue",
+    "ID": "57661",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Responses": "1",
+    "Message_0_Response_0": "0",
+    "Responses": "1",
+    "Response_0_Dialogue": "57662"
+  },
+  "translation": {
+    "Message_0_Page_0": [
+      "Response_0 Who are YOU?"
+    ]
+  }
+}

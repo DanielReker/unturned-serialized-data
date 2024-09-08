@@ -1,0 +1,18 @@
+{
+  "name": "PictureEOD3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/PicturesEOD/PictureEOD3/PictureEOD3.dat",
+  "data": {
+    "GUID": "31af4d0ca8f9400e89ec372f00781bc9",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "51000",
+    "Conditions": "1",
+    "Condition_0_Type": "Quest",
+    "Condition_0_ID": "52583",
+    "Condition_0_Status": "Active",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS Screen EOD 3 (QUEST)"
+  }
+}

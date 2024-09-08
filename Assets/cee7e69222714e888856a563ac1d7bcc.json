@@ -1,0 +1,32 @@
+{
+  "name": "Metro_Military_Low_Mags",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Military/Metro_Military_Low_Mags/Metro_Military_Low_Mags.dat",
+  "data": {
+    "GUID": "cee7e69222714e888856a563ac1d7bcc",
+    "Type": "Spawn",
+    "ID": "57088",
+    "Tables": [
+      {
+        "LegacyAssetId": "57127",
+        "Weight": "150"
+      },
+      {
+        "LegacyAssetId": "57131",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "57055",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "57031",
+        "Weight": "10"
+      },
+      {
+        "Guid": "5c320e862be842b0909ab7c93df8b5c9",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

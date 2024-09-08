@@ -1,0 +1,18 @@
+{
+  "name": "PaintingYounus",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PaintingYounus/PaintingYounus.dat",
+  "data": {
+    "GUID": "5d4957ac26bb48c6aacd21fd78c66aa8",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "58",
+    "Rubble_Reward_ID": "51296"
+  },
+  "translation": {
+    "Name": "PBS Painting Younus"
+  }
+}

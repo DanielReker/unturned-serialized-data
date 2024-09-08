@@ -1,0 +1,21 @@
+{
+  "name": "Note_Peaks_0",
+  "path": "Bundles/Objects/Medium/Furniture/Note_Peaks_0/Note_Peaks_0.dat",
+  "data": {
+    "GUID": "f6fe2157cdb64698a1e71b0a93ece780",
+    "Type": "Medium",
+    "ID": "2029",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Peaks Note - P.Riso",
+    "Interactability_Text_Line_0": "P.Riso's Diary",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "I met a very cool dude today down in the yard, and wouldn't you know it we're cellmate neighbors! He goes by T.Rickster and I can just tell we're going to have a grand 'ol time together."
+  }
+}

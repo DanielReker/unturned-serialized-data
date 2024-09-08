@@ -1,0 +1,41 @@
+{
+  "name": "Rag_Dirty",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Meds/Rag_Dirty/Rag_Dirty.dat",
+  "data": {
+    "GUID": "dd186ddf72144c8389d2ec78757fd6f4",
+    "Type": "Supply",
+    "Rarity": "Common",
+    "ID": "25619",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.34",
+    "Use_Auto_Icon_Measurements": "False",
+    "Actions": "3",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "25620",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Clean Rag (Bottle)",
+    "Action_0_Tooltip": "Clean with water.",
+    "Action_1_Type": "Blueprint",
+    "Action_1_Source": "25620",
+    "Action_1_Blueprints": "1",
+    "Action_1_Blueprint_0_Index": "1",
+    "Action_1_Text": "Clean Rag (Jug)",
+    "Action_1_Tooltip": "Clean with water.",
+    "Action_2_Type": "Blueprint",
+    "Action_2_Blueprints": "1",
+    "Action_2_Blueprint_0_Index": "0",
+    "Action_2_Key": "Salvage",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "25619",
+    "Blueprint_0_Product": "25300",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "25535"
+  },
+  "translation": {
+    "Name": "Dirty Rag",
+    "Description": "A rag that needs to be cleaned."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Peach_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Peach_5/Drop_Peach_5.dat",
+  "data": {
+    "GUID": "17d3eb24a54945618fb99a053b4bf4ec",
+    "Type": "Spawn",
+    "ID": "25524",
+    "Tables": [
+      {
+        "Guid": "e111066574ab4400b66ebb23f0d14fd1",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

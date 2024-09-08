@@ -1,0 +1,14 @@
+{
+  "name": "25313KMSG",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/253 RG/25310KMSD/25313KMSG/Asset.dat",
+  "data": {
+    "GUID": "b8ecbf65a68d49dfb4dda96fe34bbd8f",
+    "Type": "Dialogue",
+    "ID": "25313",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh, thank you <name_char>! I had lost my own before while trying to escape the zombies."
+  }
+}

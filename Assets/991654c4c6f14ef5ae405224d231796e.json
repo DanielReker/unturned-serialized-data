@@ -1,0 +1,13 @@
+{
+  "name": "Hazard_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Hazard_0/Hazard_0.dat",
+  "data": {
+    "GUID": "991654c4c6f14ef5ae405224d231796e",
+    "Type": "Medium",
+    "ID": "45738",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Barrel Hazard #1"
+  }
+}

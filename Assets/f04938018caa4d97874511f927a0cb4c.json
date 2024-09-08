@@ -1,0 +1,12 @@
+{
+  "name": "cell_tower",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/cell_tower/cell_tower.dat",
+  "data": {
+    "GUID": "f04938018caa4d97874511f927a0cb4c",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS cell tower"
+  }
+}

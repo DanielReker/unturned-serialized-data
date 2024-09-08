@@ -1,0 +1,30 @@
+{
+  "name": "Rod_Hook",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Fishing/Rod_Hook/Rod_Hook.dat",
+  "data": {
+    "GUID": "3d2e4b12e63646a2a3c1b9b36c250bf7",
+    "Type": "Fisher",
+    "Useable": "Fisher",
+    "ID": "6620",
+    "Size_X": "3",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Backward": "",
+    "Reward_ID": "6603",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "503",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "6622",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Level": "1",
+    "Blueprint_0_Skill": "Craft",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Easter Island"
+  },
+  "translation": {
+    "Name": "Fishing Rod with Hook",
+    "Description": "Long range fish generator, now with a hook!"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Military_Quarantine_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Quarantine_2/Asset.dat",
+  "data": {
+    "GUID": "da99ca2703bd4164b4a8e7fc4979f84a",
+    "Type": "NPC",
+    "ID": "3593",
+    "Shirt": "1015",
+    "Pants": "1016",
+    "Mask": "1017",
+    "Face": "4",
+    "Hair": "16",
+    "Beard": "0",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#473928",
+    "Secondary": "3515",
+    "Dialogue": "3663"
+  },
+  "translation": {
+    "Name": "Greek Military Quarantine Miles",
+    "Character": "<color=epic>Sergeant Miles</color>"
+  }
+}

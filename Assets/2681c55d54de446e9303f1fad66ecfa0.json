@@ -1,0 +1,31 @@
+{
+  "name": "IR_Jambo_Ammo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Items/Ammo/IR_Jambo_Ammo/IR_Jambo_Ammo.dat",
+  "data": {
+    "GUID": "2681c55d54de446e9303f1fad66ecfa0",
+    "Type": "Magazine",
+    "Rarity": "Mythical",
+    "ID": "15055",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.2",
+    "Amount": "4",
+    "Count_Min": "4",
+    "Count_Max": "4",
+    "Calibers": "1",
+    "Caliber_0": "289",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "15055",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "15055",
+    "Blueprint_1_Build": "30"
+  },
+  "translation": {
+    "Name": "Jambo Rockets",
+    "Description": "Military grade <color=mythical>Jambo</color> rockets."
+  }
+}

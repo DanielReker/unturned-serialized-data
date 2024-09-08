@@ -1,0 +1,12 @@
+{
+  "name": "Hospital_Bench",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Hospital_Bench/Hospital_Bench.dat",
+  "data": {
+    "GUID": "20ff6405a6e442a3b12205de11f403e8",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Hospital Bench"
+  }
+}

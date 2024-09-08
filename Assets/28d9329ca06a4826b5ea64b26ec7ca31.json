@@ -1,0 +1,25 @@
+{
+  "name": "Buak_Ore_Stone",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Resources/Buak_Ore_Stone/Buak_Ore_Stone.dat",
+  "data": {
+    "GUID": "28d9329ca06a4826b5ea64b26ec7ca31",
+    "Type": "Resource",
+    "ID": "25309",
+    "Health": "1200",
+    "Radius": "4",
+    "Scale": "0.1",
+    "Explosion": "25315",
+    "Reward_ID": "25308",
+    "Reward_XP": "2",
+    "Reward_Min": "8",
+    "Reward_Max": "12",
+    "BladeID": "2",
+    "No_Debris": "",
+    "Reset": "650",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Ore_Stone"
+  }
+}

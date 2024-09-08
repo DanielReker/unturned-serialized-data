@@ -1,0 +1,12 @@
+{
+  "name": "Lanterns",
+  "path": "Bundles/Mythics/Lanterns/Lanterns.dat",
+  "data": {
+    "GUID": "a27b501d2f1d42419384c24bb264557b",
+    "Type": "Mythic",
+    "ID": "27"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Sky Lantern"
+  }
+}

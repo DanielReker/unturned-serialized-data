@@ -1,0 +1,33 @@
+{
+  "name": "Metro_Pillar_Baby",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Structures/Metal/Metro_Pillar_Baby/Metro_Pillar_Baby.dat",
+  "data": {
+    "GUID": "a5fcf56d88244b36b074cc68b8e2f979",
+    "Type": "Structure",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Epic",
+    "Useable": "Structure",
+    "Construct": "Post",
+    "ID": "57249",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Health": "1000",
+    "Range": "8",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "57247",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Level": "2",
+    "Blueprint_0_Skill": "Craft",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Elver"
+  },
+  "translation": {
+    "Name": "Metal Post",
+    "Description": "<color=#64c819>1000</color> Health"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "BP_Avenger",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Avenger/Asset.dat",
+  "data": {
+    "GUID": "8552c5388bcb4e3ea8bebb7d5bcd84b5",
+    "Type": "Quest",
+    "ID": "24929",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "4017f88b6c9348ec9c0af64a08810bc5",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24928",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Avenger Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Avenger Recipe"
+  }
+}

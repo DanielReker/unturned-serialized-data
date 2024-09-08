@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Mounted_Flag_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Parks/Kuwait_Mounted_Flag_1/Kuwait_Mounted_Flag_1.dat",
+  "data": {
+    "GUID": "3ad37168d464437491a2a73bc2661b3e",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5465",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Mounted Flag #2"
+  }
+}

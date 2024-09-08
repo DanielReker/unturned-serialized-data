@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Construction_Sign_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Business/Kuwait_Construction_Sign_0/Kuwait_Construction_Sign_0.dat",
+  "data": {
+    "GUID": "db5c365afdd94dc2a511d5ad3f7f5049",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5210",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Sign #1"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "PS_Trader_5_Quest_9",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_5_Dialogue/PS_Trader_5_Quest_9/Asset.dat",
+  "data": {
+    "GUID": "5c8b1dcdd4fa4ba4b408255276702e70",
+    "Type": "Quest",
+    "ID": "59367",
+    "Conditions": "2",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59931",
+    "Condition_0_Amount": "6",
+    "Condition_0_Reset": "",
+    "Condition_1_Zombie": "None",
+    "Condition_1_Type": "Kills_Zombie",
+    "Condition_1_ID": "59354",
+    "Condition_1_Value": "300",
+    "Condition_1_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_1_Radius": "75",
+    "Condition_1_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "60034",
+    "Reward_0_Amount": "1"
+  },
+  "translation": {
+    "Name": "Contract - Heavy Artillery",
+    "Description": "Bring me 6x <color=#964bfa>Artillery Shell Case</color> & kill 300x zombies.",
+    "Condition_1": "{0}/{1} Zombies"
+  }
+}

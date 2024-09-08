@@ -1,0 +1,28 @@
+{
+  "name": "Fire",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Fire/Fire.dat",
+  "data": {
+    "GUID": "9d11283a83fc4701aeca4ae0b97b9603",
+    "Type": "Spawn",
+    "ID": "51045",
+    "Tables": [
+      {
+        "Guid": "253fd717506f445194c23eeaf28387f7",
+        "Weight": "4"
+      },
+      {
+        "Guid": "d7821a6f4efa49ce9b6a906827ae119f",
+        "Weight": "2"
+      },
+      {
+        "Guid": "b51c7ec18a004fe898ffae452b1c95f3",
+        "Weight": "2"
+      },
+      {
+        "Guid": "b00c44d8118a4879b4d8321ec47adfb9",
+        "Weight": "2"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,31 @@
+{
+  "name": "WS_Clothes",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/WS_Clothes/WS_Clothes.dat",
+  "data": {
+    "GUID": "c1d9008467b04e5a95a503a4f2777b34",
+    "Type": "Spawn",
+    "ID": "25416",
+    "Tables": "10",
+    "Table_0_Spawn_ID": "25319",
+    "Table_0_Weight": "150",
+    "Table_1_Asset_ID": "26970",
+    "Table_1_Weight": "1",
+    "Table_2_Asset_ID": "26972",
+    "Table_2_Weight": "1",
+    "Table_3_Asset_ID": "26973",
+    "Table_3_Weight": "1",
+    "Table_4_Asset_ID": "26974",
+    "Table_4_Weight": "1",
+    "Table_5_Asset_ID": "26975",
+    "Table_5_Weight": "1",
+    "Table_6_Asset_ID": "26976",
+    "Table_6_Weight": "1",
+    "Table_7_Asset_ID": "26977",
+    "Table_7_Weight": "1",
+    "Table_8_Asset_ID": "26978",
+    "Table_8_Weight": "1",
+    "Table_9_Asset_ID": "26979",
+    "Table_9_Weight": "1"
+  },
+  "translation": null
+}

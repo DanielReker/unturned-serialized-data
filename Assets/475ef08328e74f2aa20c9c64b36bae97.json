@@ -1,0 +1,13 @@
+{
+  "name": "PS_Abrams_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Abrams_1/PS_Abrams_1.dat",
+  "data": {
+    "GUID": "475ef08328e74f2aa20c9c64b36bae97",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59715"
+  },
+  "translation": {
+    "Name": "PS Abrams #2 [Turret]"
+  }
+}

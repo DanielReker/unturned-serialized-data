@@ -1,0 +1,15 @@
+{
+  "name": "Cali_Journalist_Hat",
+  "path": "Bundles/Items/Outfits/Cali_Journalist/Cali_Journalist_Hat/Cali_Journalist_Hat.dat",
+  "data": {
+    "GUID": "2602ad54c23c4442a956a57fbce6bec7",
+    "Type": "Hat",
+    "ID": "936",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

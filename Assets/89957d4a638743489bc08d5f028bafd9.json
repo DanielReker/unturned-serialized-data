@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Bale_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Bale_1/Metro_Bale_1.dat",
+  "data": {
+    "GUID": "89957d4a638743489bc08d5f028bafd9",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57216",
+    "Causes_Fall_Damage": "False"
+  },
+  "translation": {
+    "Name": "Metro Bale #2"
+  }
+}

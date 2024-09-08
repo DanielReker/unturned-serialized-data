@@ -1,0 +1,19 @@
+{
+  "name": "Greece_7_Sand",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Terrain/Materials/Greece_7_Sand.asset",
+  "data": {
+    "GUID": "1b30a651c2ff4c90b8c62d6d9212c146",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "greece.masterbundle",
+      "Path": "Terrain/Materials/7 Sand.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "SAND_STATIC"
+  },
+  "translation": null
+}

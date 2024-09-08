@@ -1,0 +1,30 @@
+{
+  "name": "Buak_Q_LH_BD_00_Open1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/AG_00/Buak_Q_LH_BD_00_Open1/Buak_Q_LH_BD_00_Open1.dat",
+  "data": {
+    "GUID": "2255bce0cd314846ba193350ae42cbf6",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24744",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Quest",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_ID": "95a500aecc404f28b454d79406a79bd7",
+    "Condition_1_Status": "Active",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "Boss_1",
+    "Bundle_Override_Path": "/Objects/Quests/AG_00/Buak_Q_LH_BD_00_Open"
+  },
+  "translation": {
+    "Name": "Buak_Q_LH_BD_00_Open1",
+    "Interact": "Enter Boss Fight [{0}]"
+  }
+}

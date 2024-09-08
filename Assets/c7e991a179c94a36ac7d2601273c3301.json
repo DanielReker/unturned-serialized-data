@@ -1,0 +1,25 @@
+{
+  "name": "Pistol",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Quests/Pistol/Asset.dat",
+  "data": {
+    "GUID": "c7e991a179c94a36ac7d2601273c3301",
+    "Type": "Quest",
+    "ID": "5558",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "23139",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "1053",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "11"
+  },
+  "translation": {
+    "Name": "<color=rare>Pistol</color>",
+    "Description": "<color=epic>Policeman</color> asked to find his award-winning Fort-12, which he lost in a police car near some bridge.",
+    "Condition_0": "Find a pistol {0}/1"
+  }
+}

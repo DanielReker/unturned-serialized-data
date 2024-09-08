@@ -1,0 +1,13 @@
+{
+  "name": "Fountain_0",
+  "path": "Bundles/Objects/Medium/Parks/Fountain_0/Fountain_0.dat",
+  "data": {
+    "GUID": "87e59dff821e4925919294a25be67208",
+    "Type": "Medium",
+    "ID": "712",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Fountain #1"
+  }
+}

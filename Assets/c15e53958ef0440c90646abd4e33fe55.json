@@ -1,0 +1,13 @@
+{
+  "name": "CA_Log_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Other/CA_Log_0/CA_Log_0.dat",
+  "data": {
+    "GUID": "c15e53958ef0440c90646abd4e33fe55",
+    "Type": "Large",
+    "ID": "4661",
+    "Material_Palette": "687099f8f54d4dffb40f8b33e0126b23"
+  },
+  "translation": {
+    "Name": "California Log #1"
+  }
+}

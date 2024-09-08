@@ -1,0 +1,17 @@
+{
+  "name": "CA_Umbrella_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Props/CA_Umbrella_7/CA_Umbrella_7.dat",
+  "data": {
+    "GUID": "16a6c7d7b14743a98480de76f3bddc6b",
+    "Type": "Medium",
+    "ID": "4413",
+    "Snowshoe": "",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "30",
+    "Rubble_Effect": "19"
+  },
+  "translation": {
+    "Name": "California Umbrella #8"
+  }
+}

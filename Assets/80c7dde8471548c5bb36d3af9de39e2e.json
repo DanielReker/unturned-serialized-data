@@ -1,0 +1,17 @@
+{
+  "name": "Frost_Guide_00_Quest_01_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Guide_00/Frost_Guide_00_Quest_01_Return/Asset.dat",
+  "data": {
+    "GUID": "80c7dde8471548c5bb36d3af9de39e2e",
+    "Type": "Dialogue",
+    "ID": "36206",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "36200"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=#d2bf22>Adventurer II</color> <color=#64c819>Completed</color>",
+    "Response_0": "Continue"
+  }
+}

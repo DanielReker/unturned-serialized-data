@@ -1,0 +1,33 @@
+{
+  "name": "Electrical_Wires",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Electrical_Wires/Electrical_Wires.dat",
+  "data": {
+    "GUID": "a93095dc709b460e8135ac1d0c2b617f",
+    "Type": "Supply",
+    "Rarity": "Common",
+    "ID": "25360",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.42",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "27081",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Product": "25360",
+    "Blueprint_0_Products": "10",
+    "Blueprint_0_Build": "25526",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "27081",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "▲ Stack 10 Electrical Wires",
+    "Action_0_Tooltip": "Stack up 10 electrical wires."
+  },
+  "translation": {
+    "Name": "Electrical Wires",
+    "Description": "Electrical wires, the Wi element!"
+  }
+}

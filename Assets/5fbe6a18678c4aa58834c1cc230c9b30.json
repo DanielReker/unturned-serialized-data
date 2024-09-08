@@ -1,0 +1,13 @@
+{
+  "name": "PS_Numbering_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Numbering_00/PS_Numbering_00.dat",
+  "data": {
+    "GUID": "5fbe6a18678c4aa58834c1cc230c9b30",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59415"
+  },
+  "translation": {
+    "Name": "PS Numbering #1"
+  }
+}

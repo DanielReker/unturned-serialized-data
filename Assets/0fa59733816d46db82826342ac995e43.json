@@ -1,0 +1,11 @@
+{
+  "name": "Classic_Axe_Camp",
+  "path": "Bundles/Skins/Anniversary_10/Classic_Axe_Camp/Classic_Axe_Camp.dat",
+  "data": {
+    "GUID": "0fa59733816d46db82826342ac995e43",
+    "Type": "Skin",
+    "ID": "301",
+    "Override_Meshes": "1"
+  },
+  "translation": null
+}

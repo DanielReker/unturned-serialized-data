@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Fence_Wood_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Fences/Buak_Fence_Wood_03/Buak_Fence_Wood_03.dat",
+  "data": {
+    "GUID": "aa627c77dff745e39bd48a2adc8d1f5b",
+    "Type": "Medium",
+    "ID": "25300",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "500",
+    "Rubble_Health": "50",
+    "Rubble_Effect": "25463",
+    "Rubble_Reward_ID": "25314",
+    "Rubble_Reward_Probability": "0.2",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Fence_Wood_03"
+  }
+}

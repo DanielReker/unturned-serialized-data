@@ -1,0 +1,16 @@
+{
+  "name": "Barracks_Officer_Scouter1_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Barracks_Omega/Barracks_Officer_Scouter1_Accepted/Asset.dat",
+  "data": {
+    "GUID": "6aa25e3a23184dce81ca7c103ff29c07",
+    "Type": "Dialogue",
+    "ID": "3094",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Take care, I don't want to lose a new recruit.",
+    "Response_0": "It'll be a breeze."
+  }
+}

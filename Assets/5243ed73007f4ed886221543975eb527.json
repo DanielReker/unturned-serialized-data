@@ -1,0 +1,17 @@
+{
+  "name": "Arid_Baseball_Cap",
+  "path": "Bundles/Items/Arid/Arid_Baseball_Cap/Arid_Baseball_Cap.dat",
+  "data": {
+    "GUID": "5243ed73007f4ed886221543975eb527",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "1710",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Beard": "",
+    "Hair_Override": "Model_0",
+    "Pro": ""
+  },
+  "translation": null
+}

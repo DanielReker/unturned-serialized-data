@@ -1,0 +1,13 @@
+{
+  "name": "PS_Bulk_Crane_Track_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Bulk_Crane_Track_0/PS_Bulk_Crane_Track_0.dat",
+  "data": {
+    "GUID": "545e1c7de2194899bb88322d8d039d9d",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59510"
+  },
+  "translation": {
+    "Name": "PS Bulk Crane Track #1"
+  }
+}

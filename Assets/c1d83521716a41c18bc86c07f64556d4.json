@@ -1,0 +1,19 @@
+{
+  "name": "Frost_Expedition_01_Quest_01_Good_Luck",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Expedition_01/Frost_Expedition_01_Quest_01_Good_Luck/Asset.dat",
+  "data": {
+    "GUID": "c1d83521716a41c18bc86c07f64556d4",
+    "Type": "Dialogue",
+    "ID": "36384",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Teleport",
+    "Response_0_Reward_0_Spawnpoint": "Expedition_1_0"
+  },
+  "translation": {
+    "Message_0_Page_0": "Let us commence forth.",
+    "Response_0": "Let's go."
+  }
+}

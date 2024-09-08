@@ -1,0 +1,12 @@
+{
+  "name": "CA_Mansion_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Mansion_1/CA_Mansion_1.dat",
+  "data": {
+    "GUID": "f73e588b10f9432ebc6be5eac70ec432",
+    "Type": "Large",
+    "ID": "4519"
+  },
+  "translation": {
+    "Name": "California Mansion #2"
+  }
+}

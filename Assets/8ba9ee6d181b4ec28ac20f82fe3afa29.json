@@ -1,0 +1,13 @@
+{
+  "name": "PS_Utility_Pole_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Utility_Pole_3/PS_Utility_Pole_3.dat",
+  "data": {
+    "GUID": "8ba9ee6d181b4ec28ac20f82fe3afa29",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59317"
+  },
+  "translation": {
+    "Name": "PS Utility Pole #4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Wild_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Animals/Wild_Brazil/Wild_Brazil.dat",
+  "data": {
+    "GUID": "f6137f3ac46540a79ac287b5228ca310",
+    "Type": "Spawn",
+    "ID": "5088",
+    "Tables": "2",
+    "Table_0_Spawn_ID": "5086",
+    "Table_0_Weight": "30",
+    "Table_1_Spawn_ID": "5087",
+    "Table_1_Weight": "10"
+  },
+  "translation": null
+}

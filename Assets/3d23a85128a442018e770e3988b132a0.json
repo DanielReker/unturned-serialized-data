@@ -1,0 +1,12 @@
+{
+  "name": "IR_Candy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Candy/IR_Candy.dat",
+  "data": {
+    "GUID": "3d23a85128a442018e770e3988b132a0",
+    "Type": "Large",
+    "ID": "17051"
+  },
+  "translation": {
+    "Name": "Irish Candy#1"
+  }
+}

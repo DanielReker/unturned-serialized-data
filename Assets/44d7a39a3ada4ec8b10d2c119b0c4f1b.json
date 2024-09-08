@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Outlands_Tent_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Quests/Kuwait_Outlands/Kuwait_Outlands_Tent_0/Kuwait_Outlands_Tent_0.dat",
+  "data": {
+    "GUID": "44d7a39a3ada4ec8b10d2c119b0c4f1b",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5999",
+    "Material_Palette": "13fae8f53e54490bb8e08e12cc92812a",
+    "Causes_Fall_Damage": "False"
+  },
+  "translation": {
+    "Name": "Kuwait Final Outlands Tent #1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "IR_Bed_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/City/IR_Bed_1/IR_Bed_1.dat",
+  "data": {
+    "GUID": "1f0707381e8b4c6c9d9c6498b0b68468",
+    "Type": "Medium",
+    "ID": "17123"
+  },
+  "translation": {
+    "Name": "Irish Bed# 1"
+  }
+}

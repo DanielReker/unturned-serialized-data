@@ -1,0 +1,17 @@
+{
+  "name": "IR_Wezel_Sign",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Items/Signs/IR_Wezel_Sign/IR_Wezel_Sign.dat",
+  "data": {
+    "GUID": "681573cda5f940d1b0ee8bcc21623b49",
+    "Type": "Sight",
+    "ID": "15037",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Wezel Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

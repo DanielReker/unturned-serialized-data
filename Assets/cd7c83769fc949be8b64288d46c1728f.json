@@ -1,0 +1,13 @@
+{
+  "name": "Yukon_RCMP",
+  "path": "Bundles/Spawns/Items/Yukon_RCMP/Yukon_RCMP.dat",
+  "data": {
+    "GUID": "cd7c83769fc949be8b64288d46c1728f",
+    "Type": "Spawn",
+    "ID": "463",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "246",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

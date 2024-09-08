@@ -1,0 +1,22 @@
+{
+  "name": "Kuwait_Street_Light_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Traffic/Kuwait_Street_Light_0/Kuwait_Street_Light_0.dat",
+  "data": {
+    "GUID": "3accf79be8a9426896874d74ed271df7",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5027",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "275",
+    "Rubble_Effect": "72",
+    "Interactability": "Binary_State",
+    "Interactability_Hint": "Switch",
+    "Interactability_Power": "Stay",
+    "Interactability_Emission": "",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Kuwait Street Light #1"
+  }
+}

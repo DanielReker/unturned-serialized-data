@@ -1,0 +1,13 @@
+{
+  "name": "Snowmobile_Orange",
+  "path": "Bundles/Objects/Large/Vehicles/Snowmobile_Orange/Snowmobile_Orange.dat",
+  "data": {
+    "GUID": "76d95199c8a94ad484a91c919c9a70b0",
+    "Type": "Large",
+    "ID": "435",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Orange Snowmobile"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Tap_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Tap_4/PS_Tap_4.dat",
+  "data": {
+    "GUID": "b60476706e914b5ebad07708387132e7",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59100"
+  },
+  "translation": {
+    "Name": "PS Tap #2"
+  }
+}

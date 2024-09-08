@@ -1,0 +1,19 @@
+{
+  "name": "Note_Hawaii1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Note_Hawaii1/Note_Hawaii1.dat",
+  "data": {
+    "GUID": "9a83ca3941a443ef846b3fe7747edc46",
+    "Type": "Medium",
+    "ID": "6200",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Hawaii Note - Aegis 1",
+    "Interactability_Text_Line_0": "We knew it was more than a pharmaceutical company when frigate upon frigate of armed soldiers started to arrive daily. The military tried to intervene but it was simply too late. Aegis had too much firepower. I think there's still hope though. Word around the island is that the remnants of the coastguard have set up a safehaven to the south. I'm going to begin my journey to seek it out in the morning."
+  }
+}

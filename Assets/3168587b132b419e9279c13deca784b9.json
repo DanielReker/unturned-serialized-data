@@ -1,0 +1,32 @@
+{
+  "name": "29630KA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/3/C/29630KA/Asset.dat",
+  "data": {
+    "GUID": "3168587b132b419e9279c13deca784b9",
+    "Type": "NPC",
+    "ID": "29630",
+    "Shirt": "164",
+    "Pants": "213",
+    "Face": "4",
+    "Hair": "15",
+    "Beard": "0",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#AC6A39",
+    "Dialogue": "29631",
+    "Primary": "16",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "29321",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitSurvivorAlex",
+    "Character": "Alex"
+  }
+}

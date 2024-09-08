@@ -1,0 +1,14 @@
+{
+  "name": "25913KSauerGift",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/256 CS/25910KESD/25913KSauerGift/Asset.dat",
+  "data": {
+    "GUID": "8c95343a2c5b4fcfad4cab356125f412",
+    "Type": "Dialogue",
+    "ID": "25913",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You made this for me? I can't wait to eat it on my break, thanks!"
+  }
+}

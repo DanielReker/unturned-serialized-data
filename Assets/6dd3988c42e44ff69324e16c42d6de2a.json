@@ -1,0 +1,35 @@
+{
+  "name": "PS_Seed_Tea",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Barricades/PS_Seed_Tea/PS_Seed_Tea.dat",
+  "data": {
+    "GUID": "6dd3988c42e44ff69324e16c42d6de2a",
+    "Type": "Farm",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Farm",
+    "ID": "59695",
+    "SalvageItem": "6dd3988c42e44ff69324e16c42d6de2a",
+    "Min_Items_Dropped_On_Destroy": "0",
+    "Max_Items_Dropped_On_Destroy": "0",
+    "Item_Dropped_On_Destroy": "b54b9b87500a4ea19e88f64f84455a71",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.24",
+    "Health": "1",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "0.325",
+    "Growth": "1800",
+    "Grow": "59696",
+    "Explosion": "43",
+    "Vulnerable": "",
+    "PlacementAudioClip": "Sounds/PlantPlacement.mp3",
+    "Salvage_Duration_Multiplier": "0.1",
+    "Unpickupable": ""
+  },
+  "translation": {
+    "Name": "Tea Plant Seed",
+    "Description": "Ready for planting."
+  }
+}

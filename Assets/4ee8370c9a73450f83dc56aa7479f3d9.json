@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Ship_M_8",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Rio_Ship_M_8/Rio_Ship_M_8.dat",
+  "data": {
+    "GUID": "4ee8370c9a73450f83dc56aa7479f3d9",
+    "Type": "Medium",
+    "ID": "7029",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Ship Monitor #9"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "GluttonNumber7-9",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/GluttonObjects/GluttonNumber7-9/GluttonNumber7-9.dat",
+  "data": {
+    "GUID": "101ad92a5b6b4d3b8624c396c7f02582",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "51000",
+    "Master_Bundle_Override": "PBS.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/GluttonObjects/GluttonNumber7",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "52884",
+    "Condition_0_Value": "7",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS Glutton Screen #7-9"
+  }
+}

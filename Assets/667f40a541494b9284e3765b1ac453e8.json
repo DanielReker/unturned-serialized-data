@@ -1,0 +1,15 @@
+{
+  "name": "Carpat_Traditional_Vest",
+  "path": "Bundles/Items/Vests/Carpat_Traditional_Vest/Carpat_Traditional_Vest.dat",
+  "data": {
+    "GUID": "667f40a541494b9284e3765b1ac453e8",
+    "Type": "Vest",
+    "ID": "875",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Pro": "",
+    "Ignore_NPOT": ""
+  },
+  "translation": null
+}

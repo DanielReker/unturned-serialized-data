@@ -1,0 +1,26 @@
+{
+  "name": "Disease_Flap_BirdFlu",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Disease_Flap_BirdFlu/Disease_Flap_BirdFlu.dat",
+  "data": {
+    "GUID": "faff3d56b0964abc8d871e2e3068aa22",
+    "Type": "Small",
+    "ID": "3809",
+    "Asset_Bundle_Version": "2",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3300",
+    "Condition_0_Value": "10",
+    "Condition_0_Logic": "Less_Than",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Short",
+    "Interactability_Reward_0_ID": "3300",
+    "Interactability_Reward_0_Value": "0",
+    "Interactability_Reward_0_Modification": "Assign"
+  },
+  "translation": {
+    "Name": "Disease Flap #1",
+    "Interact": "View Bird Flu Page[{0}]"
+  }
+}

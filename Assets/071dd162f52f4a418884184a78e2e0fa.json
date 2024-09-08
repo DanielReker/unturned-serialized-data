@@ -1,0 +1,36 @@
+{
+  "name": "PS_Magnum_Mag_DU",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Magazines/PS_Magnum_Mag_DU/PS_Magnum_Mag_DU.dat",
+  "data": {
+    "GUID": "071dd162f52f4a418884184a78e2e0fa",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "ID": "60046",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.23",
+    "Use_Auto_Icon_Measurements": "False",
+    "Amount": "8",
+    "Count_Min": "3",
+    "Count_Max": "6",
+    "Calibers": "1",
+    "Caliber_0": "59290",
+    "Speed": "0.8",
+    "Recoil_X": "1.2",
+    "Recoil_Y": "1.2",
+    "Spread": "1.2",
+    "Shake": "1.2",
+    "Invulnerable": "true",
+    "Tracer": "59042",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "60046",
+    "Blueprint_0_Build": "30",
+    "Delete_Empty": ""
+  },
+  "translation": {
+    "Name": "Magnum DU Mag",
+    "Description": "Magazine designed to fit 8 rounds of experimental <color=#FF823A>depleted uranium</color> chambering of magnum ammunition. Compatible with <color=#4b64fa>CO45</color> and <color=#964bfa>DF-357</color> pistols."
+  }
+}

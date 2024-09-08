@@ -1,0 +1,22 @@
+{
+  "name": "Rio_Dead_00_Material",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Assets/Materials/Rio_Dead_00_Material.asset",
+  "data": {
+    "GUID": "4d509bf98a2a4e9a82d58e7526ccc4a2",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "riodejaneiro.masterbundle",
+      "Path": "landscape/materials/dead.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "FOLIAGE_STATIC",
+    "Foliage": {
+      "GUID": "1249d84bbb7b48618f02c740baee24e6"
+    }
+  },
+  "translation": null
+}

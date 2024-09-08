@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Flag_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Flag_01/Buak_Flag_01.dat",
+  "data": {
+    "GUID": "2fea303a710b4c91b35b87057ee1da69",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "500",
+    "Rubble_Health": "225",
+    "Rubble_Effect": "25331",
+    "Rubble_Reward_ID": "25356",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Flag_01"
+  }
+}

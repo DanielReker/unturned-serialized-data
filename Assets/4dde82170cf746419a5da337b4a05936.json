@@ -1,0 +1,19 @@
+{
+  "name": "Note_Rio2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Note_Rio2/Note_Rio2.dat",
+  "data": {
+    "GUID": "4dde82170cf746419a5da337b4a05936",
+    "Type": "Medium",
+    "ID": "6148",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Note - Medic Tent #2",
+    "Interactability_Text_Line_0": "The amount of people coming here just keeps raising and raising, just in the last 2 hours 48 people came here, and to make things better the government seems to be interested in calling the ZPD, there is just one problem here, the ZPD will make things go public, and one thing nobody wants is that, as soon as the Internationals are over, we will make it public, just not now.",
+    "Interactability_Text_Line_1": "But I don't think we can hide it any longer, people are realising this isn't a flu, we are finally finding out which disease it is, but apparently the ZPD is right... but I still don't wanna believe, they MUST be wrong, I wont follow their orders.",
+    "Interactability_Text_Line_2": "Now, well, I want the government to give us something that can defend us, because the patients have been a bit agressive lately, some of them even tried to bite us, but to some sick people they really are strong, my hand still hurts from when they did bite me, also, what have they been eating? this terrible smell wont get out of my hand with anything, I've washed it tons of times and the smell still there."
+  }
+}

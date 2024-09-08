@@ -1,0 +1,28 @@
+{
+  "name": "Buak_Shelves",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Material_Palettes/Buak_Shelves.asset",
+  "data": {
+    "GUID": "c90247b2d530426c87649d6a2a09c5e5",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Shelves/Buak_Shelf_00.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Shelves/Buak_Shelf_01.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Shelves/Buak_Shelf_02.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Shelves/Buak_Shelf_03.mat"
+      }
+    ]
+  },
+  "translation": null
+}

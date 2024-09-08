@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Toy_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Toy_0/Metro_Toy_0.dat",
+  "data": {
+    "GUID": "c014ddf269044352b094977be834df3b",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57250",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Toy #1"
+  }
+}

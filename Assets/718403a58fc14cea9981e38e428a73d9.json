@@ -1,0 +1,13 @@
+{
+  "name": "Camp_Crossbows",
+  "path": "Bundles/Spawns/Items/Camp_Crossbows/Camp_Crossbows.dat",
+  "data": {
+    "GUID": "718403a58fc14cea9981e38e428a73d9",
+    "Type": "Spawn",
+    "ID": "193",
+    "Tables": "1",
+    "Table_0_Asset_ID": "346",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

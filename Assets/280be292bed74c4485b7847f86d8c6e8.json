@@ -1,0 +1,29 @@
+{
+  "name": "Carpat_Ambulance",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Vehicles/Carpat_Ambulance/Carpat_Ambulance.dat",
+  "data": {
+    "GUID": "280be292bed74c4485b7847f86d8c6e8",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon",
+    "ID": "23009",
+    "Speed_Min": "-6.5",
+    "Speed_Max": "16",
+    "Steer_Min": "15",
+    "Steer_Max": "30",
+    "Brake": "32",
+    "Fuel_Min": "200",
+    "Fuel_Max": "450",
+    "Fuel": "2000",
+    "Health_Min": "350",
+    "Health_Max": "500",
+    "Health": "600",
+    "Traction": "",
+    "Trunk_Storage_X": "5",
+    "Trunk_Storage_Y": "4",
+    "Explosion": "20",
+    "Physics_Profile": "368073e1f56e45a1b0771a4a0b24fee1"
+  },
+  "translation": {
+    "Name": "Ambulance"
+  }
+}

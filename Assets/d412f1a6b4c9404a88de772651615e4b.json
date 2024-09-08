@@ -1,0 +1,13 @@
+{
+  "name": "Couch_1",
+  "path": "Bundles/Objects/Medium/Furniture/Couch_1/Couch_1.dat",
+  "data": {
+    "GUID": "d412f1a6b4c9404a88de772651615e4b",
+    "Type": "Medium",
+    "ID": "107",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Couch #2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_DunemanNecklace",
+  "path": "Bundles/Items/Kuwait/Kuwait_DunemanNecklace/Kuwait_DunemanNecklace.dat",
+  "data": {
+    "GUID": "3fc807c1f50c4544a55ca11ff12b39e5",
+    "Type": "Vest",
+    "ID": "1655",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.5",
+    "Pro": ""
+  },
+  "translation": null
+}

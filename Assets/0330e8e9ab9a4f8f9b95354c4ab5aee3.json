@@ -1,0 +1,19 @@
+{
+  "name": "Focus_Rifle_Sights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Items/France/Sights/Focus_Rifle_Sights/Focus_Rifle_Sights.dat",
+  "data": {
+    "GUID": "0330e8e9ab9a4f8f9b95354c4ab5aee3",
+    "Type": "Sight",
+    "Rarity": "Legendary",
+    "ID": "3096",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Holographic": "",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Focus Rifle Sight",
+    "Description": "Rail mounted sight with electronic aiming point and HUD."
+  }
+}

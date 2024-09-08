@@ -1,0 +1,17 @@
+{
+  "name": "PS_Radio_Towers_Guns",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Radio_Towers_Guns/PS_Radio_Towers_Guns.dat",
+  "data": {
+    "GUID": "0bf3c46b58ac43a4ba3ca25dd6d4d87c",
+    "Type": "Spawn",
+    "ID": "59113",
+    "Tables": "3",
+    "Table_0_Asset_ID": "60018",
+    "Table_0_Weight": "200",
+    "Table_1_Asset_ID": "60016",
+    "Table_1_Weight": "200",
+    "Table_2_Asset_ID": "59948",
+    "Table_2_Weight": "1"
+  },
+  "translation": null
+}

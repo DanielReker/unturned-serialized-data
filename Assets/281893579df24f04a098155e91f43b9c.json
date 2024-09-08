@@ -1,0 +1,24 @@
+{
+  "name": "Ensign_Nitro",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Ensign_Nitro/Asset.dat",
+  "data": {
+    "GUID": "281893579df24f04a098155e91f43b9c",
+    "Type": "NPC",
+    "ID": "45787",
+    "Shirt": "1420",
+    "Pants": "1419",
+    "Vest": "1425",
+    "Glasses": "409",
+    "Face": "9",
+    "Hair": "16",
+    "Beard": "14",
+    "Color_Skin": "#AE7744",
+    "Color_Hair": "#433030",
+    "Primary": "132",
+    "Dialogue": "45713"
+  },
+  "translation": {
+    "Name": "Ensign \"Nitro\" Powell",
+    "Character": "<color=uncommon>Ensign \"Nitro\" Powell</color>"
+  }
+}

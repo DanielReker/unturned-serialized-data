@@ -1,0 +1,20 @@
+{
+  "name": "Research_Door_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Quests/Research_Door_4/Research_Door_4.dat",
+  "data": {
+    "GUID": "2c9bfabcb6ec4306840b681d1adeda96",
+    "Type": "Medium",
+    "ID": "6705",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Bypass_ID_Limit": "",
+    "Master_Bundle_Override": "easterisland.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/Quests/Research_Door_1",
+    "Exclude_From_Master_Bundle": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Research Door #5"
+  }
+}

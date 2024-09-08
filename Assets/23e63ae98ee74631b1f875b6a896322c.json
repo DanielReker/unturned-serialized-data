@@ -1,0 +1,17 @@
+{
+  "name": "PBS_Invest",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardConditioned/PBS_Invest/PBS_Invest.dat",
+  "data": {
+    "GUID": "23e63ae98ee74631b1f875b6a896322c",
+    "Type": "RewardsList",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "52191",
+    "Condition_0_Value": "250",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Rewards": "1",
+    "Reward_0_Type": "Achievement",
+    "Reward_0_ID": "PBS_PoorInvestment"
+  },
+  "translation": null
+}

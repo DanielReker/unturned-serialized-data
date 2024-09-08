@@ -1,0 +1,21 @@
+{
+  "name": "Tuna_Raw",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Food/Tuna_Raw/Tuna_Raw.dat",
+  "data": {
+    "GUID": "7b5cc807a6124ef697f683c7d452f752",
+    "Type": "Food",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "6628",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Food": "30",
+    "Virus": "30",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Raw Tuna",
+    "Description": "Rather smelly and fishy."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Gravel_Dynamic",
+  "path": "Bundles/Effects/Impacts/Gravel_Dynamic/Gravel_Dynamic.dat",
+  "data": {
+    "GUID": "6026313376c540238dc0cd394dca52ea",
+    "Type": "Effect",
+    "ID": "44",
+    "Preload": "2"
+  },
+  "translation": null
+}

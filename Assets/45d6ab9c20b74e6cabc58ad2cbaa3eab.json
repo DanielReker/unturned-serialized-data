@@ -1,0 +1,13 @@
+{
+  "name": "MilitaryOffice",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/MilitaryOffice/MilitaryOffice.dat",
+  "data": {
+    "GUID": "45d6ab9c20b74e6cabc58ad2cbaa3eab",
+    "Type": "Large",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Military Office"
+  }
+}

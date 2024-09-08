@@ -1,0 +1,15 @@
+{
+  "name": "PS_Smoke_Boom",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Explosions/PS_Smoke_Boom/PS_Smoke_Boom.dat",
+  "data": {
+    "GUID": "07a62e2aca784d6f9507ee09717d1282",
+    "Type": "Effect",
+    "ID": "59091",
+    "Relevant_Distance": "600",
+    "CameraShake_Radius": "5",
+    "CameraShake_MagnitudeDegrees": "50",
+    "Lifetime": "50",
+    "Lifetime_Spread": "0"
+  },
+  "translation": null
+}

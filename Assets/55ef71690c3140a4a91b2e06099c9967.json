@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Sparks",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Sparks/Bar_Sparks.dat",
+  "data": {
+    "GUID": "55ef71690c3140a4a91b2e06099c9967",
+    "Type": "Effect",
+    "ID": "25561"
+  },
+  "translation": null
+}

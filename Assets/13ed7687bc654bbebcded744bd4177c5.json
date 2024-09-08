@@ -1,0 +1,29 @@
+{
+  "name": "Soldier_Kobe_Under_The_Counter",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Quests/Soldier_Kobe_Under_The_Counter/Asset.dat",
+  "data": {
+    "GUID": "13ed7687bc654bbebcded744bd4177c5",
+    "Type": "Quest",
+    "ID": "9056",
+    "Conditions": "2",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "271",
+    "Condition_0_Amount": "4",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "270",
+    "Condition_1_Amount": "2",
+    "Condition_1_Reset": "",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "20",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "-10"
+  },
+  "translation": {
+    "Name": "<color=uncommon>Under The Counter</color>",
+    "Description": "I need some specific items that the rest of the HQ can't know about whatsoever. Obtain them and get them to me as soon as possible.",
+    "Condition_0": "Find {0}/{1} Indigo Berries",
+    "Condition_1": "Find {0}/{1} Amber Berries"
+  }
+}

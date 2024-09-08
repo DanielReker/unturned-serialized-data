@@ -1,0 +1,12 @@
+{
+  "name": "Suspension Bridge",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Suspension Bridge/Suspension Bridge.dat",
+  "data": {
+    "GUID": "2dc459c7d69f49d9bddb39cda8a543b2",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Suspension Bridge"
+  }
+}

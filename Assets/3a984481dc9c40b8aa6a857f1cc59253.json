@@ -1,0 +1,28 @@
+{
+  "name": "PS_Airfield_CR_Key_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Airfield_CR_Key_1/PS_Airfield_CR_Key_1.dat",
+  "data": {
+    "GUID": "3a984481dc9c40b8aa6a857f1cc59253",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "60187",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "59118",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "59118",
+    "Interactability_Reward_0_Value": "True",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Smol/PS_Radar_Station_Key_0"
+  },
+  "translation": {
+    "Name": "PS SACR2 Key #1",
+    "Interact": "Pickup SACR2 Key [{0}]"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Bar_Onion",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Bar_Onion/Buak_Bar_Onion.dat",
+  "data": {
+    "GUID": "ddcc2323c6c342a4994d2df828dc103a",
+    "Type": "Spawn",
+    "ID": "25459",
+    "Tables": "2",
+    "Table_0_Asset_ID": "25753",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "25754",
+    "Table_1_Weight": "5"
+  },
+  "translation": null
+}

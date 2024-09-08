@@ -1,0 +1,13 @@
+{
+  "name": "Barrel_0",
+  "path": "Bundles/Objects/Medium/Business/Barrel_0/Barrel_0.dat",
+  "data": {
+    "GUID": "4ca1de6fdcc84b6bbc4a76c3ad394739",
+    "Type": "Medium",
+    "ID": "113",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Barrel #1"
+  }
+}

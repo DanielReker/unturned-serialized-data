@@ -1,0 +1,17 @@
+{
+  "name": "Stop_0",
+  "path": "Bundles/Objects/Medium/Signs/Stop_0/Stop_0.dat",
+  "data": {
+    "GUID": "99662274a5d645f9bd210808c47a7dd0",
+    "Type": "Medium",
+    "ID": "9",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "50",
+    "Interactability_Effect": "72",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Stop Sign #1"
+  }
+}

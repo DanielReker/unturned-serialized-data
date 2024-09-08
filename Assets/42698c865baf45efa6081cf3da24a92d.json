@@ -1,0 +1,23 @@
+{
+  "name": "California_SWAT_Special_Low",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_SWAT_Special_Low/California_SWAT_Special_Low.dat",
+  "data": {
+    "GUID": "42698c865baf45efa6081cf3da24a92d",
+    "Type": "Spawn",
+    "ID": "4339",
+    "Tables": "6",
+    "Table_0_Asset_ID": "4036",
+    "Table_0_Weight": "200",
+    "Table_1_Asset_ID": "4034",
+    "Table_1_Weight": "175",
+    "Table_2_Asset_ID": "4021",
+    "Table_2_Weight": "150",
+    "Table_3_Asset_ID": "4037",
+    "Table_3_Weight": "75",
+    "Table_4_Asset_ID": "4035",
+    "Table_4_Weight": "50",
+    "Table_5_Asset_ID": "4038",
+    "Table_5_Weight": "25"
+  },
+  "translation": null
+}

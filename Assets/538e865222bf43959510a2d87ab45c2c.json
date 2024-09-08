@@ -1,0 +1,38 @@
+{
+  "name": "Metro_Backpack_Red",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Clothing/Metro_Backpack_Red/Metro_Backpack_Red.dat",
+  "data": {
+    "GUID": "538e865222bf43959510a2d87ab45c2c",
+    "Type": "Backpack",
+    "Useable": "Clothing",
+    "ID": "57171",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "7",
+    "Height": "4",
+    "Blueprints": "3",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "57171",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "3",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "32",
+    "Blueprint_2_Type": "Apparel",
+    "Blueprint_2_Supplies": "2",
+    "Blueprint_2_Supply_0_ID": "57172",
+    "Blueprint_2_Supply_0_Amount": "1",
+    "Blueprint_2_Supply_1_ID": "57067      ",
+    "Blueprint_2_Supply_1_Amount": "1",
+    "Blueprint_2_Supply_1_Critical": "",
+    "Blueprint_2_Build": "32"
+  },
+  "translation": {
+    "Name": "Red Backpack",
+    "Description": "<color=#64c819>+28</color> Slots"
+  }
+}

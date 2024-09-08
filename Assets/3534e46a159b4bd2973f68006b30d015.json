@@ -1,0 +1,14 @@
+{
+  "name": "PBS_PvtPaatz_Comp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_PvtPaatz/PBS_PvtPaatz_Comp/Asset.dat",
+  "data": {
+    "GUID": "3534e46a159b4bd2973f68006b30d015",
+    "Type": "Dialogue",
+    "ID": "52243",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Perfect, this'll do.  Here, you can have some extra parts."
+  }
+}

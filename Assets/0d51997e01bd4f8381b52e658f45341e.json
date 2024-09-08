@@ -1,0 +1,12 @@
+{
+  "name": "CA_Bar_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Bar_00/CA_Bar_00.dat",
+  "data": {
+    "GUID": "0d51997e01bd4f8381b52e658f45341e",
+    "Type": "Large",
+    "ID": "4325"
+  },
+  "translation": {
+    "Name": "California Bar #1"
+  }
+}

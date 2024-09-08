@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait_Elver_Rod",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Fishers/Kuwait_Elver_Rod/Kuwait_Elver_Rod.dat",
+  "data": {
+    "GUID": "7bdb4eba594b41b9983619558c6b2b06",
+    "Type": "Fisher",
+    "Rarity": "Epic",
+    "Useable": "Fisher",
+    "ID": "5571",
+    "Size_X": "4",
+    "Size_Y": "1",
+    "Size_Z": "0.26",
+    "Backward": "",
+    "Reward_ID": "7245"
+  },
+  "translation": {
+    "Name": "Reinforced Bamboo Rod",
+    "Description": "Oddly mystical, maybe it catches something unique?"
+  }
+}

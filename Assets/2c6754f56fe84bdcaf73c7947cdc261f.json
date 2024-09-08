@@ -1,0 +1,38 @@
+{
+  "name": "PS_Trader_12_Dialogue",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_13_Dialogue/PS_Trader_12_Dialogue/Asset.dat",
+  "data": {
+    "GUID": "2c6754f56fe84bdcaf73c7947cdc261f",
+    "Type": "Dialogue",
+    "ID": "59464",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "4",
+    "Response_0_Dialogue": "59467",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Flag_Bool",
+    "Response_0_Condition_0_ID": "59436",
+    "Response_0_Condition_0_Value": "False",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_Allow_Unset": "",
+    "Response_1_Vendor": "59466",
+    "Response_1_Conditions": "1",
+    "Response_1_Condition_0_Type": "Flag_Bool",
+    "Response_1_Condition_0_ID": "59436",
+    "Response_1_Condition_0_Value": "True",
+    "Response_1_Condition_0_Logic": "Equal",
+    "Response_2_Dialogue": "59469",
+    "Response_2_Conditions": "1",
+    "Response_2_Condition_0_Type": "Flag_Bool",
+    "Response_2_Condition_0_ID": "59437",
+    "Response_2_Condition_0_Value": "True",
+    "Response_2_Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Message_0_Page_0": "Haii thearr~~ Whart ar youu lookin' for??",
+    "Response_0": "What can you do for me?",
+    "Response_1": "Trade",
+    "Response_2": "Barter",
+    "Response_3": "Goodbye."
+  }
+}

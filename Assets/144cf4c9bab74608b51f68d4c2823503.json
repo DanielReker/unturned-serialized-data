@@ -1,0 +1,14 @@
+{
+  "name": "26371KEJA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26360KEJD/26370KEJAD/26371KEJA/Asset.dat",
+  "data": {
+    "GUID": "144cf4c9bab74608b51f68d4c2823503",
+    "Type": "Dialogue",
+    "ID": "26371",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Nice, I'll handle it for you."
+  }
+}

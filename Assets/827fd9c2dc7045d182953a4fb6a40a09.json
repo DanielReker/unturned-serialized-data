@@ -1,0 +1,17 @@
+{
+  "name": "CA_Vest_Cargo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Supplies/CA_Vest_Cargo/CA_Vest_Cargo.dat",
+  "data": {
+    "GUID": "827fd9c2dc7045d182953a4fb6a40a09",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "4035",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.33"
+  },
+  "translation": {
+    "Name": "Rig Cargo Pouches",
+    "Description": "Cargo ouches which can be attached to a vest in order to further increase carrying capacity."
+  }
+}

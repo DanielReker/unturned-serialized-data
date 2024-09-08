@@ -1,0 +1,38 @@
+{
+  "name": "S_Pig",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Barricades/S_Pig/S_Pig.dat",
+  "data": {
+    "GUID": "bd06e88d8043456eae949a04afef9db2",
+    "Type": "Barricade",
+    "Rarity": "Mythical",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "27664",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.44",
+    "Use_Auto_Icon_Measurements": "False",
+    "Has_Clip_Prefab": "false",
+    "Salvage_Duration_Multiplier": ".3",
+    "Health": "100",
+    "Range": "4",
+    "Radius": "0.28",
+    "Offset": "0.2841",
+    "Explosion": "25458",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "27664",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "25357",
+    "Blueprint_0_Output_0_Amount": "4",
+    "Blueprint_0_Build": "25535",
+    "PlacementAudioClip": "Sounds/Placement/SleepingBagPlacement.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Plush Pig",
+    "Description": "A soft plush toy."
+  }
+}

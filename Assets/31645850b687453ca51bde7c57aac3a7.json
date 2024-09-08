@@ -1,0 +1,13 @@
+{
+  "name": "BE Mansion #1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Mansion #1/BE Mansion #1.dat",
+  "data": {
+    "GUID": "31645850b687453ca51bde7c57aac3a7",
+    "Type": "Large",
+    "ID": "9083",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Mansion #1"
+  }
+}

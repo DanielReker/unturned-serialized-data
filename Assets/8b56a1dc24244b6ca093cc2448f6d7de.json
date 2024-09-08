@@ -1,0 +1,17 @@
+{
+  "name": "Metro_Platform_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Platform_0/Metro_Platform_0.dat",
+  "data": {
+    "GUID": "8b56a1dc24244b6ca093cc2448f6d7de",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57066",
+    "Snowshoe": "",
+    "Soft": "",
+    "Chart": "Highway",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Platform #1"
+  }
+}

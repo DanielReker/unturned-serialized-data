@@ -1,0 +1,23 @@
+{
+  "name": "James_Questions",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/James/James_04/James_Questions/Asset.dat",
+  "data": {
+    "GUID": "a97281dfbeba490e8431b360f9b6908f",
+    "Type": "Dialogue",
+    "ID": "24052",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "1bc9f0560944437187fda10446ee617a",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "d901cec9f75340a0bbd4ed5a84cff487",
+    "Response_0_Condition_0_Status": "Completed"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ask away!",
+    "Response_0": "How's the farm going?",
+    "Response_1": "Nevermind!"
+  }
+}

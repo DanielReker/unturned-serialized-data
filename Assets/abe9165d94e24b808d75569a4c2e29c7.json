@@ -1,0 +1,14 @@
+{
+  "name": "Admiral_Replacement_Uniform",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/Coali/Admiral_Sir_Thomas/Admiral_Replacement_Uniform/Asset.dat",
+  "data": {
+    "GUID": "abe9165d94e24b808d75569a4c2e29c7",
+    "Type": "Dialogue",
+    "ID": "15128",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Uniform supply is one of <color=uncommon>Ensign Franklin</color>'s responsibilities, you can buy a replacement from him."
+  }
+}

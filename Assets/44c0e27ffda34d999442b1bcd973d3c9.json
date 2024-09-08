@@ -1,0 +1,86 @@
+{
+  "name": "Pickup_Truck",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Vehicles/Pickup_Truck/Pickup_Truck.dat",
+  "data": {
+    "GUID": "44c0e27ffda34d999442b1bcd973d3c9",
+    "Physics_Profile": "a6f2e2624a904b8a88545ea17228dbfb",
+    "Type": "Vehicle",
+    "Rarity": "Rare",
+    "ID": "51008",
+    "Bumper_Invulnerable": "",
+    "Speed_Min": "-5",
+    "Speed_Max": "10",
+    "Steer_Min": "12",
+    "Steer_Max": "48",
+    "Valid_Speed_Horizontal": "200",
+    "Brake": "100",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "1200",
+    "Health_Min": "700",
+    "Health_Max": "1000",
+    "Health": "1000",
+    "Exit": "4",
+    "Cam_Follow_Distance": "7.5",
+    "Cam_Driver_Offset": "-0.0625",
+    "Passenger_Explosion_Armor": "0.2",
+    "Traction": "",
+    "Trunk_Storage_X": "12",
+    "Trunk_Storage_Y": "12",
+    "Explosion": "20",
+    "Tires_Invulnerable": "",
+    "Drops_Table_ID": "51003",
+    "Has_Clip_Prefab": "false",
+    "Default_Battery": "c934328c0f1b44c1b0e1627c1aef223b",
+    "WheelConfigurations": [
+      {
+        "WheelColliderPath": "Tires/Tire_0",
+        "IsColliderSteered": "true",
+        "IsColliderPowered": "true",
+        "ModelPath": "Wheels/Wheel_0",
+        "ModelUseColliderPose": "true"
+      },
+      {
+        "WheelColliderPath": "Tires/Tire_1",
+        "IsColliderSteered": "true",
+        "IsColliderPowered": "true",
+        "ModelPath": "Wheels/Wheel_1",
+        "ModelUseColliderPose": "true"
+      },
+      {
+        "WheelColliderPath": "Tires/Tire_2",
+        "IsColliderSteered": "false",
+        "IsColliderPowered": "false",
+        "ModelPath": "Wheels/Wheel_2",
+        "ModelUseColliderPose": "true"
+      },
+      {
+        "WheelColliderPath": "Tires/Tire_3",
+        "IsColliderSteered": "false",
+        "IsColliderPowered": "false",
+        "ModelPath": "Wheels/Wheel_3",
+        "ModelUseColliderPose": "true"
+      }
+    ],
+    "ReverseGearRatio": "5",
+    "ForwardGearRatios": [
+      "14",
+      "8.75"
+    ],
+    "GearShift_Duration": "0.2",
+    "GearShift_Interval": "0.5",
+    "EngineIdleRPM": "1000",
+    "EngineMaxRPM": "6000",
+    "EngineMaxTorque": "5.5",
+    "EngineSound_Type": "EngineRPMSimple",
+    "EngineSound": {
+      "IdlePitch": "1.0",
+      "IdleVolume": "0.75",
+      "MaxPitch": "2",
+      "MaxVolume": "1.0"
+    }
+  },
+  "translation": {
+    "Name": "Red Pickup Truck"
+  }
+}

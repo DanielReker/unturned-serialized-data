@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Wild",
+    "tableID": 5089,
+    "tiers": [
+      {
+        "name": "1",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 6
+          },
+          {
+            "animal": 4
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  }
+]

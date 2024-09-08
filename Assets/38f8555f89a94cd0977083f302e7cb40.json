@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Campfire",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Campfire/Bar_Campfire.dat",
+  "data": {
+    "GUID": "38f8555f89a94cd0977083f302e7cb40",
+    "Type": "Effect",
+    "ID": "25349"
+  },
+  "translation": null
+}

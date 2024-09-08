@@ -1,0 +1,21 @@
+{
+  "name": "Carpat_Mutant_Wolf",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Animals/Carpat_Mutant_Wolf/Carpat_Mutant_Wolf.dat",
+  "data": {
+    "GUID": "4914ddf0e7a94e89a1730caff6c1d7e5",
+    "Type": "Animal",
+    "ID": "23502",
+    "Speed_Run": "10",
+    "Speed_Walk": "6",
+    "Behaviour": "Offense",
+    "Health": "50",
+    "Damage": "20",
+    "Pelt": "23004",
+    "Reward_XP": "1",
+    "Reward_Min": "1",
+    "Reward_Max": "1"
+  },
+  "translation": {
+    "Name": "Carpat Mutant Wolf"
+  }
+}

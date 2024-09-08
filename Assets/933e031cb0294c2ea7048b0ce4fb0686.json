@@ -1,0 +1,15 @@
+{
+  "name": "Yeti",
+  "path": "Bundles/Items/Masks/Yeti/Yeti.dat",
+  "data": {
+    "GUID": "933e031cb0294c2ea7048b0ce4fb0686",
+    "Type": "Mask",
+    "ID": "823",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.38",
+    "Pro": "",
+    "Ignore_TexRW": ""
+  },
+  "translation": null
+}

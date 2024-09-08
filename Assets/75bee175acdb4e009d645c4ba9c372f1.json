@@ -1,0 +1,22 @@
+{
+  "name": "PBS_Caster",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Caster/Asset.dat",
+  "data": {
+    "GUID": "75bee175acdb4e009d645c4ba9c372f1",
+    "Type": "NPC",
+    "ID": "52110",
+    "Shirt": "51952",
+    "Face": "1",
+    "Hair": "2",
+    "Color_Skin": "#534736",
+    "Color_Hair": "#191919",
+    "Dialogue": "52111",
+    "Tertiary": "51929",
+    "Equipped": "Tertiary",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS NPC Caster",
+    "Character": "Caster"
+  }
+}

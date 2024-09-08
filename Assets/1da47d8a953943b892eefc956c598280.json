@@ -1,0 +1,24 @@
+{
+  "name": "Easter_Palm_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Resources/Easter_Palm_2/Easter_Palm_2.dat",
+  "data": {
+    "GUID": "1da47d8a953943b892eefc956c598280",
+    "Type": "Resource",
+    "ID": "6606",
+    "Health": "800",
+    "Radius": "4",
+    "Scale": "0.1",
+    "Explosion": "6608",
+    "Reward_ID": "6649",
+    "Reward_XP": "4",
+    "Reward_Min": "3",
+    "Reward_Max": "5",
+    "Reset": "450",
+    "Auto_Skybox": "",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Easter Palm Dead #1"
+  }
+}

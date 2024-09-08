@@ -1,0 +1,16 @@
+{
+  "name": "PaintingBlueNight",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingBlueNight/PaintingBlueNight.dat",
+  "data": {
+    "GUID": "4b91d9b509ff43d9804ab5a6e6d675d5",
+    "Type": "Spawn",
+    "ID": "51293",
+    "Tables": [
+      {
+        "Guid": "5de350f29a8047239498164934bb4d0d",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

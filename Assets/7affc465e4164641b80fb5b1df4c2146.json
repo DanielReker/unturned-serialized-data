@@ -1,0 +1,13 @@
+{
+  "name": "PS_Items_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Items_03/PS_Items_03.dat",
+  "data": {
+    "GUID": "7affc465e4164641b80fb5b1df4c2146",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59871"
+  },
+  "translation": {
+    "Name": "PS Items #4 [Metal Parts]"
+  }
+}

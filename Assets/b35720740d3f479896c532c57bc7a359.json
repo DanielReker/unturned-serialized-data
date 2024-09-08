@@ -1,0 +1,15 @@
+{
+  "name": "Buak_RS_Base",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Signs/Buak_RS_Base/Buak_RS_Base.dat",
+  "data": {
+    "GUID": "b35720740d3f479896c532c57bc7a359",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_RS_Base"
+  }
+}

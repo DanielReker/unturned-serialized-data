@@ -1,0 +1,22 @@
+{
+  "name": "Metro_Nelson_Hair",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Clothing/Metro_Nelson_Hair/Metro_Nelson_Hair.dat",
+  "data": {
+    "GUID": "41d057062cc747faa9efc7ee93735297",
+    "Type": "Hat",
+    "Rarity": "Mythical",
+    "Useable": "Clothing",
+    "ID": "57571",
+    "Quality_Min": "100",
+    "Quality_Max": "100",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Armor": "0.55",
+    "Beard": ""
+  },
+  "translation": {
+    "Name": "Nelson Hair",
+    "Description": "<color=#FF0000>Unobtainable</color>"
+  }
+}

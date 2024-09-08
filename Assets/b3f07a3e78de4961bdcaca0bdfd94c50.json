@@ -1,0 +1,20 @@
+{
+  "name": "Chef_Joeseph",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Quest Givers/Chef_Joeseph/Asset.dat",
+  "data": {
+    "GUID": "b3f07a3e78de4961bdcaca0bdfd94c50",
+    "Type": "NPC",
+    "ID": "9059",
+    "Shirt": "230",
+    "Pants": "228",
+    "Face": "6",
+    "Hair": "1",
+    "Color_Skin": "#e2c7ac",
+    "Color_Hair": "#6d4b29",
+    "Dialogue": "8257"
+  },
+  "translation": {
+    "Name": "NAM Chef Joseph",
+    "Character": "Chef Joe"
+  }
+}

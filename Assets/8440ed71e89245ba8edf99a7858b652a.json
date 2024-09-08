@@ -1,0 +1,13 @@
+{
+  "name": "California_Special_High_Guns",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_Special_High_Guns/California_Special_High_Guns.dat",
+  "data": {
+    "GUID": "8440ed71e89245ba8edf99a7858b652a",
+    "Type": "Spawn",
+    "ID": "4393",
+    "Tables": "1",
+    "Table_0_Asset_ID": "4101",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

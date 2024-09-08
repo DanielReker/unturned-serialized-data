@@ -1,0 +1,19 @@
+{
+  "name": "Stan_Welcome_Shop",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Fisherman Stan/Stan_Welcome_Shop/Asset.dat",
+  "data": {
+    "GUID": "2ed32f190e6b4f629e872606b808dea0",
+    "Type": "Dialogue",
+    "ID": "9218",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Vendor": "9220",
+    "Response_0_Dialogue": "9219"
+  },
+  "translation": {
+    "Message_0_Page_0": "This is so frustrating. I'm having no luck here!",
+    "Response_0": "Aww that's too bad. Yes what do you have to offer?",
+    "Response_1": "Patience and you'll catch something."
+  }
+}

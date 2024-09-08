@@ -1,0 +1,23 @@
+{
+  "name": "Kira_Shirt",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Kira_Shirt/Kira_Shirt.dat",
+  "data": {
+    "GUID": "d1ccc962efb0486f8c4bd5d065643480",
+    "Rarity": "Uncommon",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "27021",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "8",
+    "Height": "4",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Kira_Shirt",
+    "Description": "NPC Shirt."
+  }
+}

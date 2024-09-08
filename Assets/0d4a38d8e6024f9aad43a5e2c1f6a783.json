@@ -1,0 +1,24 @@
+{
+  "name": "GreatRock",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Quests/Chapter_02/GreatRock/Asset.dat",
+  "data": {
+    "GUID": "0d4a38d8e6024f9aad43a5e2c1f6a783",
+    "Type": "Quest",
+    "ID": "24515",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24513",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "20"
+  },
+  "translation": {
+    "Name": "Great Rock #1",
+    "Description": "Grandma Cherry wants you to find a large heart shaped rock that's located over at the west mine entrance near Burywood.",
+    "Condition_0": "Find {0}/1 Large Heart Shaped Rocks"
+  }
+}

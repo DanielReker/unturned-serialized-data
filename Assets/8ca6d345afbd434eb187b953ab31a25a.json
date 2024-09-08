@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Q_LH_BD_02_Closed1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/AG_00/Buak_Q_LH_BD_02_Closed1/Buak_Q_LH_BD_02_Closed1.dat",
+  "data": {
+    "GUID": "8ca6d345afbd434eb187b953ab31a25a",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Quest",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "29bfd9fd2e6f42f8845871005ee5ed6c",
+    "Condition_0_Status": "Completed",
+    "Bundle_Override_Path": "/Objects/Quests/AG_00/Buak_Q_LH_BD_02_Closed"
+  },
+  "translation": {
+    "Name": "Buak_Q_LH_BD_02_Closed1"
+  }
+}

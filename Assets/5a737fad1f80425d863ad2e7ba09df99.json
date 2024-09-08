@@ -1,0 +1,28 @@
+{
+  "name": "PBS_Cruz_Mortar",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Quests/PBS_Cruz_Mortar/Asset.dat",
+  "data": {
+    "GUID": "5a737fad1f80425d863ad2e7ba09df99",
+    "Type": "Quest",
+    "ID": "52172",
+    "Conditions": "2",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "51329",
+    "Condition_0_Amount": "1",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Currency",
+    "Condition_1_GUID": "561f74cdccdf48abaa6d49343b56aab0",
+    "Condition_1_Value": "3000",
+    "Condition_1_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_1_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51332",
+    "Reward_0_Amount": "1"
+  },
+  "translation": {
+    "Name": "<color=legendary>Strike Package: Mortar Suppression</color>",
+    "Description": "Waves of mortars will hit a location, denying the enemy the area."
+  }
+}

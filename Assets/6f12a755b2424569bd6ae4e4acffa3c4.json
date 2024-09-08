@@ -1,0 +1,14 @@
+{
+  "name": "Lost_Documents_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Colonel/Lost_Documents_Accepted/Asset.dat",
+  "data": {
+    "GUID": "6f12a755b2424569bd6ae4e4acffa3c4",
+    "Type": "Dialogue",
+    "ID": "4053",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Take care of them, every page is valuable."
+  }
+}

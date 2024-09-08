@@ -1,0 +1,17 @@
+{
+  "name": "Quarantine_0",
+  "path": "Bundles/Objects/Medium/Signs/Quarantine_0/Quarantine_0.dat",
+  "data": {
+    "GUID": "277eb9851d9c498e8e2415fa21b118de",
+    "Type": "Medium",
+    "ID": "975",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "60",
+    "Interactability_Health": "25",
+    "Interactability_Effect": "72",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Quarantine Sign #1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Tape_Stack",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Tape_Stack/PS_Drops_Tape_Stack.dat",
+  "data": {
+    "GUID": "8db70710bc5a484a9c51ab606c654759",
+    "Type": "Spawn",
+    "ID": "59425",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59969",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

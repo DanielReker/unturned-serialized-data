@@ -1,0 +1,16 @@
+{
+  "name": "CA_Container_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Other/CA_Container_1/CA_Container_1.dat",
+  "data": {
+    "GUID": "c3ebb4117e24439bbbfa61f4b4ce4d8e",
+    "Type": "Large",
+    "ID": "4545",
+    "Chart": "Medium",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Large/Business/Container_3",
+    "Material_Palette": "a3366759b75540f590872c69ba4f505d"
+  },
+  "translation": {
+    "Name": "California Container #2"
+  }
+}

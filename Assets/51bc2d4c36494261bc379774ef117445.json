@@ -1,0 +1,14 @@
+{
+  "name": "Shirt_Banana",
+  "path": "Bundles/Items/Shirts/Shirt_Banana/Shirt_Banana.dat",
+  "data": {
+    "GUID": "51bc2d4c36494261bc379774ef117445",
+    "Type": "Shirt",
+    "ID": "537",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Pro": ""
+  },
+  "translation": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "IR_Zabubenkov_Scope",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Items/Signs/IR_Zabubenkov_Scope/IR_Zabubenkov_Scope.dat",
+  "data": {
+    "GUID": "72df803e245044ddbeae05d12d5fb149",
+    "Type": "Sight",
+    "Rarity": "Rare",
+    "ID": "15049",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Spread": "0.7",
+    "Zoom": "3",
+    "Paintable": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Zabubenkov Scope",
+    "Description": "Rail mounted 3x zoom scope."
+  }
+}

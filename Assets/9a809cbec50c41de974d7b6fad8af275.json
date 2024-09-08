@@ -1,0 +1,21 @@
+{
+  "name": "Nulirane Scientist Camile",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Nulirane Scientist Camile/Asset.dat",
+  "data": {
+    "GUID": "9a809cbec50c41de974d7b6fad8af275",
+    "Type": "NPC",
+    "ID": "9082",
+    "Shirt": "731",
+    "Pants": "2",
+    "Glasses": "730",
+    "Face": "17",
+    "Hair": "7",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#d3d126",
+    "Dialogue": "9082"
+  },
+  "translation": {
+    "Name": "Nulirane Scientist Camile",
+    "Character": "<color=rare>Professor Camile</color>"
+  }
+}

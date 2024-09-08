@@ -1,0 +1,13 @@
+{
+  "name": "PS_Cardboard_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Cardboard_2/PS_Cardboard_2.dat",
+  "data": {
+    "GUID": "14cf6176555a44338e7130e8ba170f49",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59167"
+  },
+  "translation": {
+    "Name": "PS Cardboard #3"
+  }
+}

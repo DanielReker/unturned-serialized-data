@@ -1,0 +1,14 @@
+{
+  "name": "PS_Armory_Box_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Armory_Box_6/PS_Armory_Box_6.dat",
+  "data": {
+    "GUID": "efeec1cb9420498bbf5e356b1a29e728",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60124",
+    "Exclude_From_Level_Batching": "true"
+  },
+  "translation": {
+    "Name": "PS Armory Box #7 [Coverup]"
+  }
+}

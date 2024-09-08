@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Surf_Bones_05",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Props/Buak_Surf_Bones_05/Buak_Surf_Bones_05.dat",
+  "data": {
+    "GUID": "8065df34b3164fbbbe5c1548ebedf624",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Surf_Bones_05"
+  }
+}

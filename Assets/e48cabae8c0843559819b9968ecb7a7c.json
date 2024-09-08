@@ -1,0 +1,14 @@
+{
+  "name": "French_Hardware_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/French_Hardware_0/French_Hardware_0.dat",
+  "data": {
+    "GUID": "e48cabae8c0843559819b9968ecb7a7c",
+    "Type": "Large",
+    "ID": "35050",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "French Hardware #1"
+  }
+}

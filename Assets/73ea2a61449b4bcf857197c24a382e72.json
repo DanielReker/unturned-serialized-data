@@ -1,0 +1,13 @@
+{
+  "name": "PS_Crystal_Ball_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Crystal_Ball_0/PS_Crystal_Ball_0.dat",
+  "data": {
+    "GUID": "73ea2a61449b4bcf857197c24a382e72",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59911"
+  },
+  "translation": {
+    "Name": "PS Crystal Ball #1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Scout_Airport_Accepted",
+  "path": "Bundles/NPCs/Dialogues/Scout/Scout_Airport_Accepted/Asset.dat",
+  "data": {
+    "GUID": "acac37be404b44ac98af0145bcd6b303",
+    "Type": "Dialogue",
+    "ID": "108",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Make sure to keep track of everything you find! Especially jet fuel if you come across any <pause>- we are on emergency reserves right now."
+  }
+}

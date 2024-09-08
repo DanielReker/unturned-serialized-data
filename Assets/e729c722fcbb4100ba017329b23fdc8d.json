@@ -1,0 +1,25 @@
+{
+  "name": "Civilian Ayoub",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Civilian Ayoub/Asset.dat",
+  "data": {
+    "GUID": "e729c722fcbb4100ba017329b23fdc8d",
+    "Type": "NPC",
+    "ID": "9075",
+    "Shirt": "517",
+    "Pants": "518",
+    "Backpack": "1014",
+    "Primary": "356",
+    "Secondary": "139",
+    "Equipped": "Primary",
+    "Face": "4",
+    "Hair": "5",
+    "Beard": "8",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#0F0F0F",
+    "Dialogue": "9075"
+  },
+  "translation": {
+    "Name": "Civilian Ayoub",
+    "Character": "Ayoub"
+  }
+}

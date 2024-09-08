@@ -1,0 +1,16 @@
+{
+  "name": "AG_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/AG/AG_2/Asset.dat",
+  "data": {
+    "GUID": "f63ad25eff48430681dff62798b10465",
+    "Type": "Dialogue",
+    "ID": "24035",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you again, for everything.",
+    "Response_0": "No problem!"
+  }
+}

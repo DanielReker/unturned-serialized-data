@@ -1,0 +1,14 @@
+{
+  "name": "26542KIRC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/265 CO/2654-2663 Civ/26542KIRC/Asset.dat",
+  "data": {
+    "GUID": "71161f71c5c84e8291117e35e14accd6",
+    "Type": "Dialogue",
+    "ID": "26542",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ah, thanks! Nice to have some clean clothes."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Snow_Profile",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Content/Vehicle/Snow_Profile.asset",
+  "data": {
+    "GUID": "12075bbfe3ce40c397fe17921e8f285f",
+    "Type": "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Wheel_Suspension_Damper": "7",
+    "Wheel_Drive_Model": "All",
+    "Wheel_Damping_Rate": "0.6",
+    "Carjack_Force_Multiplier": "1"
+  },
+  "translation": null
+}

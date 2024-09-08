@@ -1,0 +1,21 @@
+{
+  "name": "Buak_Note_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Note_00/Buak_Note_00.dat",
+  "data": {
+    "GUID": "cd87745cc322414195713523e0a4dd89",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Material_Palette": "3758ac9d1b774a4a99a407c069e2a21a"
+  },
+  "translation": {
+    "Name": "Buak_Note_00",
+    "Interactability_Text_Line_0": "2009/10/21",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Little? Too little?! I was too little, he said- when I’m not even comparable to a mouse! What on Earth does dear baba know! To a mouse…I’m big. To a rat, even bigger! I can be big, baba! I can be a big man! I’m starting a band and moving to Canada with mama-<b> and there’s nothing you can do about it!</b>"
+  }
+}

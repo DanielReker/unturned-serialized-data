@@ -1,0 +1,16 @@
+{
+  "name": "Parking_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Assets/Material_Palettes/Parking_0.asset",
+  "data": {
+    "GUID": "c05b33e7fb5e490b8cb9ba781d806e0c",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "california.masterbundle",
+        "Path": "palettes/parking_0/parking_0.mat"
+      }
+    ]
+  },
+  "translation": null
+}

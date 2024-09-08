@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Metal_Tables",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Material_Palettes/Buak_Metal_Tables.asset",
+  "data": {
+    "GUID": "d17c3931779f42a6a206448201ab1cde",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Metal_Tables/Buak_Table_Metal_00.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Metal_Tables/Buak_Table_Metal_01.mat"
+      }
+    ]
+  },
+  "translation": null
+}

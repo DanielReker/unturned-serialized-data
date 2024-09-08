@@ -1,0 +1,28 @@
+{
+  "name": "PS_Meat_Raw",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Food/PS_Meat_Raw/PS_Meat_Raw.dat",
+  "data": {
+    "GUID": "ab0bf46422714225a3b327ffbee97e61",
+    "Type": "Food",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "59062",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.45",
+    "Food": "20",
+    "Water": "10",
+    "Virus": "20",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Source": "59063",
+    "Action_0_Text": "Cook.",
+    "Action_0_Tooltip": "Make it more edible."
+  },
+  "translation": {
+    "Name": "Raw Meat",
+    "Description": "Edible but not recommended to be eaten raw."
+  }
+}

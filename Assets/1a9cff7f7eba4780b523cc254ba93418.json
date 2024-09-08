@@ -1,0 +1,13 @@
+{
+  "name": "Carpat_House_08",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Objects/Large/Carpat_House_08/Carpat_House_08.dat",
+  "data": {
+    "GUID": "1a9cff7f7eba4780b523cc254ba93418",
+    "Type": "Large",
+    "ID": "23108",
+    "LOD": "Mesh"
+  },
+  "translation": {
+    "Name": "Carpat House #8"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Baller_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Frost_Baller_00/Frost_Baller_00.dat",
+  "data": {
+    "GUID": "a8c47d26524a4052bbe2e1c605256445",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000"
+  },
+  "translation": {
+    "Name": "Frost Baller #1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Metro_Beef_Raw",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Overrides/Metro_Beef_Raw/Metro_Beef_Raw.dat",
+  "data": {
+    "GUID": "410f98f162b3456c9a13ca31128985a8",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "57304 ",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.45",
+    "Food": "30",
+    "Virus": "35",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Beef_Raw",
+    "ConsumeAudioClip": "Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Meat",
+    "Description": "<color=#64c819>30</color> Food                                                          <color=#fa3219>35</color> Radiation                                                                Can be <color=#64c819>Cooked</color>"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Car_Seat_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Car_Seat_1/PS_Car_Seat_1.dat",
+  "data": {
+    "GUID": "79fc0a37e49f4a9e868ef8aacc4c58ad",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59084"
+  },
+  "translation": {
+    "Name": "PS Car Seat #2"
+  }
+}

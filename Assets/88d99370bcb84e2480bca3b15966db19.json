@@ -1,0 +1,12 @@
+{
+  "name": "Musical",
+  "path": "Bundles/Mythics/Musical/Musical.dat",
+  "data": {
+    "GUID": "88d99370bcb84e2480bca3b15966db19",
+    "Type": "Mythic",
+    "ID": "4"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Musical"
+  }
+}

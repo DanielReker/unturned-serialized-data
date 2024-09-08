@@ -1,0 +1,36 @@
+{
+  "name": "Buak_Shores_Collection",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Landscapes/Collections/Buak_Shores_Collection.asset",
+  "data": {
+    "GUID": "52d5f1c1c2514b399e2067a50f719231",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "47dd8cada53545ef9ab1a87026759e28"
+        },
+        "Weight": "0.02"
+      },
+      {
+        "Asset": {
+          "GUID": "8fa765f5bed747d9b10ca96810b008d9"
+        },
+        "Weight": "0.01"
+      },
+      {
+        "Asset": {
+          "GUID": "a0ef64445f53439992098d7712b06163"
+        },
+        "Weight": "0.2"
+      },
+      {
+        "Asset": {
+          "GUID": "862165313f7b4bf38ae0c994348bf0d0"
+        },
+        "Weight": "0.2"
+      }
+    ]
+  },
+  "translation": null
+}

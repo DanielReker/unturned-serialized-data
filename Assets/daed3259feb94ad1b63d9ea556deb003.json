@@ -1,0 +1,23 @@
+{
+  "name": "Metro_Dragonfruit_Soup",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Farming/Metro_Dragonfruit_Soup/Metro_Dragonfruit_Soup.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "daed3259feb94ad1b63d9ea556deb003",
+    "Type": "Water",
+    "Rarity": "Epic",
+    "Useable": "Consumeable",
+    "ID": "57539",
+    "Food": "70",
+    "Water": "70",
+    "Health": "15",
+    "Energy": "100",
+    "Broken": "",
+    "Bleeding": "",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Canned Dragonfruit Soup",
+    "Description": "<color=#64c819>70</color> Food <color=#64c819>70</color> Water<br><color=#64c819>15</color> Health<br><color=#64c819>Heals Bones</color><br><color=#64c819>Stops Bleeding</color><br><color=#64c819>100</color> Energy"
+  }
+}

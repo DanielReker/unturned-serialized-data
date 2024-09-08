@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Research",
+    "tableID": 508,
+    "tiers": [
+      {
+        "name": "Passive",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 1
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.349019617,
+      "g": 0.5529412,
+      "b": 0.129411772
+    }
+  },
+  {
+    "name": "Wild_Arctic",
+    "tableID": 510,
+    "tiers": [
+      {
+        "name": "Aggressive",
+        "chance": 0.24666667,
+        "table": [
+          {
+            "animal": 3
+          },
+          {
+            "animal": 5
+          }
+        ]
+      },
+      {
+        "name": "Passive",
+        "chance": 1.0,
+        "table": [
+          {
+            "animal": 2
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.819607854,
+      "g": 0.490196079,
+      "b": 0.239215687
+    }
+  }
+]

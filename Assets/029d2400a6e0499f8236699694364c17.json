@@ -1,0 +1,13 @@
+{
+  "name": "GreekFence_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreekFence_0/GreekFence_0.dat",
+  "data": {
+    "GUID": "029d2400a6e0499f8236699694364c17",
+    "Type": "Medium",
+    "ID": "3513",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Metal Fence #1"
+  }
+}

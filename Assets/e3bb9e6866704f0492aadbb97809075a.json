@@ -1,0 +1,17 @@
+{
+  "name": "Kuwait_Poster_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Small/Furniture/Kuwait_Poster_0/Kuwait_Poster_0.dat",
+  "data": {
+    "GUID": "e3bb9e6866704f0492aadbb97809075a",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "5157",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "60",
+    "Interactability_Health": "1",
+    "Interactability_Effect": "58"
+  },
+  "translation": {
+    "Name": "Kuwait Poster #1"
+  }
+}

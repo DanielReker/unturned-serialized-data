@@ -1,0 +1,13 @@
+{
+  "name": "Switch_0",
+  "path": "Bundles/Objects/Medium/Signs/Switch_0/Switch_0.dat",
+  "data": {
+    "GUID": "0f6b9588d2e24050821f7e57c5fb5190",
+    "Type": "Medium",
+    "ID": "210",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Switch #1"
+  }
+}

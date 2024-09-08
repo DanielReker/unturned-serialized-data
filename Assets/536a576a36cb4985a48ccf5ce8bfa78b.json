@@ -1,0 +1,38 @@
+{
+  "name": "29680KGD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/3/C/29680KGD/Asset.dat",
+  "data": {
+    "GUID": "536a576a36cb4985a48ccf5ce8bfa78b",
+    "Type": "NPC",
+    "ID": "29680",
+    "Hat": "530 ",
+    "Glasses": "568",
+    "Mask": "418",
+    "Vest": "531",
+    "Shirt": "770",
+    "Pants": "549",
+    "Face": "17",
+    "Hair": "11",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#352C22",
+    "Primary": "5012",
+    "Equipped": "Primary",
+    "Dialogue": "29681",
+    "Pose": "Sit",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "29321",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitSurvivorGuardDaniel",
+    "Character": "Daniel"
+  }
+}

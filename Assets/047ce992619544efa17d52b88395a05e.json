@@ -1,0 +1,14 @@
+{
+  "name": "PS_Trader_2_Quest_3_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_2_Dialogue/PS_Trader_2_Quest_3_Return/Asset.dat",
+  "data": {
+    "GUID": "047ce992619544efa17d52b88395a05e",
+    "Type": "Dialogue",
+    "ID": "59096",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Supplier IV Completed"
+  }
+}

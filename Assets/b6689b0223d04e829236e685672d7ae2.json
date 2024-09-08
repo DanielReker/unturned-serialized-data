@@ -1,0 +1,29 @@
+{
+  "name": "CA_Huey_Merc",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Vehicles/CA_Huey_Merc/CA_Huey_Merc.dat",
+  "data": {
+    "GUID": "b6689b0223d04e829236e685672d7ae2",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "ID": "4021",
+    "Speed_Min": "-2",
+    "Speed_Max": "17",
+    "Steer_Min": "16",
+    "Steer_Max": "8",
+    "Fuel": "2000",
+    "Health_Min": "800",
+    "Health_Max": "900",
+    "Health": "1000",
+    "Exit": "3",
+    "Cam_Follow_Distance": "7.5",
+    "LockMouse": "",
+    "Engine": "Helicopter",
+    "Trunk_Storage_X": "6",
+    "Trunk_Storage_Y": "5",
+    "Explosion": "20",
+    "Invulnerable": ""
+  },
+  "translation": {
+    "Name": "Mercenary Heli"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Omega_Farm_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Farm_2/Asset.dat",
+  "data": {
+    "GUID": "94e35900baa04319965e24f402203003",
+    "Type": "NPC",
+    "ID": "3609",
+    "Shirt": "510",
+    "Pants": "511",
+    "Hat": "509",
+    "Face": "24",
+    "Hair": "14",
+    "Beard": "0",
+    "Color_Skin": "#94764B",
+    "Color_Hair": "#352C22",
+    "Secondary": "1031",
+    "Dialogue": "3221"
+  },
+  "translation": {
+    "Name": "Greek Omega Farmer Myrtle",
+    "Character": "<color=uncommon>Gardener Myrtle</color>"
+  }
+}

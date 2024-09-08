@@ -1,0 +1,23 @@
+{
+  "name": "PS_Plank",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Plank/PS_Plank.dat",
+  "data": {
+    "GUID": "1d21b167da6d49358f0bcc8e0de41515",
+    "Type": "Supply",
+    "Rarity": "Common",
+    "ID": "59202",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.575",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "59201",
+    "Blueprint_0_Tool": "59006",
+    "Blueprint_0_Products": "3",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Plank",
+    "Description": "Recently cut, high quality plank."
+  }
+}

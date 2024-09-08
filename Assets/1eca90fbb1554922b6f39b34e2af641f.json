@@ -1,0 +1,23 @@
+{
+  "name": "Coffee_Raw",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Items/Food/Coffee_Raw/Coffee_Raw.dat",
+  "data": {
+    "GUID": "1eca90fbb1554922b6f39b34e2af641f",
+    "Type": "Water",
+    "Useable": "Consumeable",
+    "ID": "8070",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Health": "-5",
+    "Food": "5",
+    "Water": "5",
+    "Virus": "25",
+    "Energy": "10",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Raw Coffee Beans",
+    "Description": "Not ready for consumption."
+  }
+}

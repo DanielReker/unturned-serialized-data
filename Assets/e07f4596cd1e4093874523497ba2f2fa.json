@@ -1,0 +1,13 @@
+{
+  "name": "PS_Generator_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Generator_1/PS_Generator_1.dat",
+  "data": {
+    "GUID": "e07f4596cd1e4093874523497ba2f2fa",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59625"
+  },
+  "translation": {
+    "Name": "PS Generator #2"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PS_Head_Gasket_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Head_Gasket_0/PS_Head_Gasket_0.dat",
+  "data": {
+    "GUID": "3deaaf0de3df43b88d4566d612fc6492",
+    "Type": "Supply",
+    "Rarity": "Common",
+    "ID": "59282",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.34",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59282",
+    "Blueprint_0_Product": "59000",
+    "Blueprint_0_Products": "4",
+    "Blueprint_0_Tool": "59004",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Head Gasket",
+    "Description": "Critical sealing application in the engine."
+  }
+}

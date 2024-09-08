@@ -1,0 +1,33 @@
+{
+  "name": "Leek_Spin",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Leek_Spin/Leek_Spin.dat",
+  "data": {
+    "GUID": "388a72410b66401485c1b576ba56dd43",
+    "Type": "Food",
+    "Rarity": "Mythical",
+    "Useable": "Consumeable",
+    "ID": "25715",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.68",
+    "Use_Auto_Icon_Measurements": "False",
+    "Food": "16",
+    "Water": "8",
+    "ConsumeAudioClip": "Sounds/Food/Eat_Leek_Spin.wav",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "25331",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_0_Critical": "",
+    "Blueprint_0_Supply_1_ID": "25716",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Supply_1_Critical": "",
+    "Blueprint_0_Build": "25534",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Leek?",
+    "Description": "Spin before consumption."
+  }
+}

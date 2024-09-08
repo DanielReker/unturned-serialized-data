@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Plaque_Iron",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Plaque_Iron/Bar_Plaque_Iron.dat",
+  "data": {
+    "GUID": "ede26db3563542bca49f309424409252",
+    "Type": "Effect",
+    "ID": "25440"
+  },
+  "translation": null
+}

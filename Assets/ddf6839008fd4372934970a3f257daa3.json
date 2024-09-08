@@ -1,0 +1,38 @@
+{
+  "name": "PS_Window_Metal_Red",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Structures/PS_Window_Metal_Red/PS_Window_Metal_Red.dat",
+  "data": {
+    "GUID": "ddf6839008fd4372934970a3f257daa3",
+    "Type": "Structure",
+    "Has_Clip_Prefab": "False",
+    "Rarity": "Epic",
+    "Useable": "Structure",
+    "Construct": "Wall",
+    "ID": "59488",
+    "SalvageItem": "ddf6839008fd4372934970a3f257daa3",
+    "Min_Items_Dropped_On_Destroy": "1",
+    "Max_Items_Dropped_On_Destroy": "1",
+    "Item_Dropped_On_Destroy": "61dc1feb5aca452bb35c75511ec7e0b3",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Health": "4000",
+    "Range": "6",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "59472",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "59505",
+    "Blueprint_0_Supply_1_Amount": "2",
+    "Blueprint_0_Tool": "59003",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "Sounds/MetalPlacement.mp3",
+    "Salvage_Duration_Multiplier": "0.8"
+  },
+  "translation": {
+    "Name": "Adamantine Window",
+    "Description": "<color=#FFC023>4000 Health</color>"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Military_Janitor_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Janitor_1/Asset.dat",
+  "data": {
+    "GUID": "6b6d4c89d2fc46b8b5ccaf814e308abe",
+    "Type": "NPC",
+    "ID": "3576",
+    "Shirt": "405",
+    "Pants": "406",
+    "Glasses": "491",
+    "Face": "29",
+    "Hair": "20",
+    "Beard": "0",
+    "Color_Skin": "#A3886B",
+    "Color_Hair": "#191919",
+    "Dialogue": "3198",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3002",
+    "Condition_0_Value": "1",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Greek Military Janitor #2",
+    "Character": "<color=rare>Obelius the Janitor</color>"
+  }
+}

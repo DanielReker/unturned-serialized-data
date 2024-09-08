@@ -1,0 +1,22 @@
+{
+  "name": "Amanda",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii_Special/Characters/Amanda/Asset.dat",
+  "data": {
+    "GUID": "b5821db69f9e4d99a071423e2d349c7d",
+    "Type": "NPC",
+    "ID": "45699",
+    "Glasses": "727",
+    "Shirt": "184",
+    "Pants": "612",
+    "Vest": "766",
+    "Face": "17",
+    "Hair": "8",
+    "Color_Skin": "#E5CABE",
+    "Color_Hair": "#714C26",
+    "Dialogue": "45698"
+  },
+  "translation": {
+    "Name": "Amanda",
+    "Character": "Amanda"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Bunker_Cables_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Bunker_Cables_0/PS_Bunker_Cables_0.dat",
+  "data": {
+    "GUID": "b6bb48462726405fa1737a78740a405c",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59630"
+  },
+  "translation": {
+    "Name": "PS Bunker Cables #1 [Straight]"
+  }
+}

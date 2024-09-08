@@ -1,0 +1,13 @@
+{
+  "name": "PS_Bollard_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Bollard_0/PS_Bollard_0.dat",
+  "data": {
+    "GUID": "56d3953db7d54bf0ace6ac6e764fcab2",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59407"
+  },
+  "translation": {
+    "Name": "PS Bollard #1"
+  }
+}

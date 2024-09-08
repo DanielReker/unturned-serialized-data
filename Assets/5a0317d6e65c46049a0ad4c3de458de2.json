@@ -1,0 +1,15 @@
+{
+  "name": "Science_Guns_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Engineer/Science_Guns_Completed/Asset.dat",
+  "data": {
+    "GUID": "5a0317d6e65c46049a0ad4c3de458de2",
+    "Type": "Dialogue",
+    "ID": "4065",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks! I'll start experimenting!",
+    "Message_0_Page_1": "Also, we need more scrap. Just tell me when you are ready to get some materials."
+  }
+}

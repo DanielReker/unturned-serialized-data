@@ -1,0 +1,14 @@
+{
+  "name": "RULA_Elevator_Line",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/RULA/RULA_Elevator_Line/RULA_Elevator_Line.dat",
+  "data": {
+    "GUID": "d068c7cf637d43e38e33f5168d65f9fe",
+    "Type": "Large",
+    "ID": "35128",
+    "Snowshoe": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "RULA Elevator Line"
+  }
+}

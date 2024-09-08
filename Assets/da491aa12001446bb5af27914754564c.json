@@ -1,0 +1,14 @@
+{
+  "name": "CJ_Selfvester_Bandolier",
+  "path": "Bundles/Items/Outfits/CJ_Selfvester/CJ_Selfvester_Bandolier/CJ_Selfvester_Bandolier.dat",
+  "data": {
+    "GUID": "da491aa12001446bb5af27914754564c",
+    "Type": "Vest",
+    "ID": "941",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Pro": ""
+  },
+  "translation": null
+}

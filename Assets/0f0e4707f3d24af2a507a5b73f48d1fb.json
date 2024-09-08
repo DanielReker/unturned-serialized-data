@@ -1,0 +1,14 @@
+{
+  "name": "25033KuwaitRuthWhat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/4/D/25030KRIRD/25033KuwaitRuthWhat/Asset.dat",
+  "data": {
+    "GUID": "0f0e4707f3d24af2a507a5b73f48d1fb",
+    "Type": "Dialogue",
+    "ID": "25033",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "From what I've gathered, some of my troops found you incapacitated towards the north of Boubyan's inner shoreline. They brought you back here and you seem to be back up on your feet again."
+  }
+}

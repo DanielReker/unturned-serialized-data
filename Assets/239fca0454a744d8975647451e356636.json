@@ -1,0 +1,13 @@
+{
+  "name": "BE Pub #1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Pub #1/BE Pub #1.dat",
+  "data": {
+    "GUID": "239fca0454a744d8975647451e356636",
+    "Type": "Large",
+    "ID": "9037",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Pub #1"
+  }
+}

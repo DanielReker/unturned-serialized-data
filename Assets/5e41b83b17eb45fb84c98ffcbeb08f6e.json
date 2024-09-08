@@ -1,0 +1,25 @@
+{
+  "name": "Major_Alastair",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Major_Alastair/Asset.dat",
+  "data": {
+    "GUID": "5e41b83b17eb45fb84c98ffcbeb08f6e",
+    "Type": "NPC",
+    "ID": "45784",
+    "Shirt": "1422",
+    "Pants": "1419",
+    "Hat": "1428",
+    "Vest": "1425",
+    "Face": "5",
+    "Hair": "20",
+    "Beard": "0",
+    "Color_Skin": "#BFAD92",
+    "Color_Hair": "#CE8F50",
+    "Primary": "1037",
+    "Secondary": "1021",
+    "Dialogue": "45700"
+  },
+  "translation": {
+    "Name": "Major Mac Alastair",
+    "Character": "<color=epic>Major Mac Alastair</color>"
+  }
+}

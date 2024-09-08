@@ -1,0 +1,17 @@
+{
+  "name": "Bridge_Ramp_1",
+  "path": "Bundles/Objects/Large/Roads/Bridge_Ramp_1/Bridge_Ramp_1.dat",
+  "data": {
+    "GUID": "9add4e3655d94f07a0c66a17c138eeda",
+    "Type": "Large",
+    "ID": "990",
+    "Snowshoe": "",
+    "Soft": "",
+    "Chart": "Highway",
+    "Collision_Important": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Bridge Ramp #2"
+  }
+}

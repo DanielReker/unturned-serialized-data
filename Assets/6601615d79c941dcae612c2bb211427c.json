@@ -1,0 +1,16 @@
+{
+  "name": "AG_Question_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/AG/AG_Question_01/Asset.dat",
+  "data": {
+    "GUID": "6601615d79c941dcae612c2bb211427c",
+    "Type": "Dialogue",
+    "ID": "24036",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm not entirely sure, though my guess is about 7 or 8 years? I kept track the best I could and no one around here seems to know exactly what day it is anymore.",
+    "Response_0": "Good to know!"
+  }
+}

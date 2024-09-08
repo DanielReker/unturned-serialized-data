@@ -1,0 +1,38 @@
+{
+  "name": "Kuwait_Suv_Olive",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Suv_Olive/Kuwait_Suv_Olive.dat",
+  "data": {
+    "GUID": "ae9f82a966234972b5d20588a2704e53",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon",
+    "ID": "5021",
+    "Speed_Min": "-5",
+    "Speed_Max": "12",
+    "Steer_Min": "14",
+    "Steer_Max": "28",
+    "Brake": "32",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "1250",
+    "Health_Min": "300",
+    "Health_Max": "400",
+    "Health": "500",
+    "Can_Be_Locked": "False",
+    "Trunk_Storage_X": "5",
+    "Trunk_Storage_Y": "4",
+    "Explosion": "20",
+    "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
+    "Valid_Speed_Horizontal": "150",
+    "Traction": "",
+    "ShouldExplosionCauseDamage": "True",
+    "ShouldExplosionBurnMaterials": "True",
+    "Bumper_Invulnerable": "",
+    "Has_Clip_Prefab": "False",
+    "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
+    "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Olive Land Explorer"
+  }
+}

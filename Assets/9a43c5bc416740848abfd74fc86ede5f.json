@@ -1,0 +1,19 @@
+{
+  "name": "Frost_ATM_00_Info_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_ATM_00/Frost_ATM_00_Info_1/Asset.dat",
+  "data": {
+    "GUID": "9a43c5bc416740848abfd74fc86ede5f",
+    "Type": "Dialogue",
+    "ID": "36141",
+    "Messages": "1",
+    "Message_0_Pages": "3",
+    "Responses": "1",
+    "Response_0_Dialogue": "36139"
+  },
+  "translation": {
+    "Message_0_Page_0": "The capacity can be increased by doing quests for others!",
+    "Message_0_Page_1": "Every quest will give you <color=#64c819>1 Point</color> towards your ATM...",
+    "Message_0_Page_2": "and every <color=#64c819>4 Points</color> your ATM will go up one level.",
+    "Response_0": "Ok, thanks."
+  }
+}

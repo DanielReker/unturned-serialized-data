@@ -1,0 +1,32 @@
+{
+  "name": "Event_2_Snowy_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Event_2/Event_2_Snowy_2/Asset.dat",
+  "data": {
+    "GUID": "9be5f09cd7554bb48eafe2a4181ae3eb",
+    "Type": "Quest",
+    "ID": "57898",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "57333",
+    "Condition_0_Value": "10",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Rewards": "4",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "0",
+    "Reward_1_Type": "Flag_Bool",
+    "Reward_1_ID": "57332",
+    "Reward_1_Value": "True",
+    "Reward_2_Type": "Flag_Bool",
+    "Reward_2_ID": "57335",
+    "Reward_2_Value": "True",
+    "Reward_3_Type": "Flag_Bool",
+    "Reward_3_ID": "57334",
+    "Reward_3_Value": "False"
+  },
+  "translation": {
+    "Name": "<color=#88D3E0>Festive 3</color>",
+    "Description": "Decorate the <color=#64c819>Floating Island</color> by placing at least <color=#64c819>10</color>x decorations.",
+    "Condition_0": "{0}/{1} Decorations Placed",
+    "Reward_0": "<color=#ffffff>White Presents</color> Can be Exchanged for Decorative Items"
+  }
+}

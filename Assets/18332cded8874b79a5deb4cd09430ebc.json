@@ -1,0 +1,33 @@
+{
+  "name": "WS_Post",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/WS_Post/WS_Post.dat",
+  "data": {
+    "GUID": "18332cded8874b79a5deb4cd09430ebc",
+    "Type": "Spawn",
+    "ID": "25429",
+    "Tables": "11",
+    "Table_0_Asset_ID": "25336",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "25354",
+    "Table_1_Weight": "50",
+    "Table_2_Asset_ID": "25362",
+    "Table_2_Weight": "10",
+    "Table_3_Asset_ID": "25363",
+    "Table_3_Weight": "10",
+    "Table_4_Asset_ID": "25364",
+    "Table_4_Weight": "10",
+    "Table_5_Asset_ID": "25365",
+    "Table_5_Weight": "10",
+    "Table_6_Asset_ID": "25366",
+    "Table_6_Weight": "10",
+    "Table_7_Asset_ID": "25367",
+    "Table_7_Weight": "10",
+    "Table_8_Asset_ID": "25368",
+    "Table_8_Weight": "10",
+    "Table_9_Asset_ID": "25369",
+    "Table_9_Weight": "10",
+    "Table_10_Asset_ID": "25370",
+    "Table_10_Weight": "10"
+  },
+  "translation": null
+}

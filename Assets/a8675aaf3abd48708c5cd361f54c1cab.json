@@ -1,0 +1,15 @@
+{
+  "name": "California_SWAT_Guns_High",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_SWAT_Guns_High/California_SWAT_Guns_High.dat",
+  "data": {
+    "GUID": "a8675aaf3abd48708c5cd361f54c1cab",
+    "Type": "Spawn",
+    "ID": "4355",
+    "Tables": "2",
+    "Table_0_Asset_ID": "42001",
+    "Table_0_Weight": "15",
+    "Table_1_Asset_ID": "4072",
+    "Table_1_Weight": "5"
+  },
+  "translation": null
+}

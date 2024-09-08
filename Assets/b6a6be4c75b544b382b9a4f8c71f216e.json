@@ -1,0 +1,13 @@
+{
+  "name": "Agriculture_0",
+  "path": "Bundles/Objects/Large/Utilities/Agriculture_0/Agriculture_0.dat",
+  "data": {
+    "GUID": "b6a6be4c75b544b382b9a4f8c71f216e",
+    "Type": "Large",
+    "ID": "471",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Agriculture #1"
+  }
+}

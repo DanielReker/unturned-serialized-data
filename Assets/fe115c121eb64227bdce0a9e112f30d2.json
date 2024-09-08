@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait_Plants_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Parks/Kuwait_Plants_2/Kuwait_Plants_2.dat",
+  "data": {
+    "GUID": "fe115c121eb64227bdce0a9e112f30d2",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5501",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "28205",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Plants #3"
+  }
+}

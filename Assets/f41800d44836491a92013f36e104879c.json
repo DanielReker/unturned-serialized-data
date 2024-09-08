@@ -1,0 +1,16 @@
+{
+  "name": "25117KuwaitDevosHelp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/250 MC/25100KLDD/25117KuwaitDevosHelp/Asset.dat",
+  "data": {
+    "GUID": "f41800d44836491a92013f36e104879c",
+    "Type": "Dialogue",
+    "ID": "25117",
+    "Messages": "1",
+    "Message_0_Pages": "3"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hm. Well, <color=epic>Major Sydney</color> is leading our operations group, she will likely need some help with getting supplies in order to surmount the difficulty of finding people.",
+    "Message_0_Page_1": "<color=epic>Major Kriss</color> is leading our combat group, so they might need some more equipment or such. Probably more ammo or arms.",
+    "Message_0_Page_2": "<color=epic>Major Grant</color> leads our logistics group, so he could use a bit of funding. The logistics group can get you things in exchange for some local currency."
+  }
+}

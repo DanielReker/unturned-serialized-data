@@ -1,0 +1,13 @@
+{
+  "name": "Airport_AIR_2_Belgium",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Spawns/Vehicles/Airport_AIR_2_Belgium/Airport_AIR_2_Belgium.dat",
+  "data": {
+    "GUID": "9f0896117ea64b9381b32ff9c5ea66f6",
+    "Type": "Spawn",
+    "ID": "9031",
+    "Tables": "1",
+    "Table_0_Asset_ID": "107",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

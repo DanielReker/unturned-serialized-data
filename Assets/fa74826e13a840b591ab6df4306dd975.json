@@ -1,0 +1,21 @@
+{
+  "name": "MW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/3/D/29110KM2D/MW/Asset.dat",
+  "data": {
+    "GUID": "fa74826e13a840b591ab6df4306dd975",
+    "Type": "Dialogue",
+    "ID": "29111",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Dialogue": "29113",
+    "Response_0_Vendor": "29112",
+    "Response_1_Dialogue": "29114"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hello.",
+    "Response_0": "Anything I can buy?",
+    "Response_1": "Who are you guys?",
+    "Response_2": "Goodbye."
+  }
+}

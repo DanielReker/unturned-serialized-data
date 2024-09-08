@@ -1,0 +1,36 @@
+{
+  "name": "Nelson_1_Punisher_1_Name_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Nelson_1/Nelson_1_Punisher_1_Name_2/Asset.dat",
+  "data": {
+    "GUID": "b6f9f4369cf644e4b796f5b884cb9ec2",
+    "Type": "Quest",
+    "ID": "58093",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57365",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "57718",
+    "Condition_1_Amount": "1",
+    "Condition_1_Reset": "",
+    "Rewards": "4",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "57729",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Flag_Bool",
+    "Reward_1_ID": "57365",
+    "Reward_1_Value": "False",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "57229",
+    "Reward_2_Value": "2",
+    "Reward_2_Modification": "Assign",
+    "Reward_3_Type": "Flag_Bool",
+    "Reward_3_ID": "57219",
+    "Reward_3_Value": "False"
+  },
+  "translation": {
+    "Name": "<color=#B522B7>Punisher 2</color>",
+    "Description": "Hand over your <color=#c832fa>Sword of Light</color> for Big J to rename it."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Owen_Keytar",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Misc/NPC_Items/Owen_Keytar/Owen_Keytar.dat",
+  "data": {
+    "GUID": "b54456cb42ea468da6f8a8c2d087ae96",
+    "Type": "Cloud",
+    "Useable": "Cloud",
+    "Rarity": "Uncommon",
+    "ID": "26993",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.66",
+    "Use_Auto_Icon_Measurements": "False",
+    "Gravity": "1"
+  },
+  "translation": {
+    "Name": "Owen_Keytar",
+    "Description": "NPC_Item"
+  }
+}

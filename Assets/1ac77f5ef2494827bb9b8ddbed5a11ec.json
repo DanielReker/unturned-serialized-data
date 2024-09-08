@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Bush_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Resources/Easter_Bush_4/Easter_Bush_4.dat",
+  "data": {
+    "GUID": "1ac77f5ef2494827bb9b8ddbed5a11ec",
+    "Type": "Resource",
+    "ID": "6611",
+    "Health": "1000",
+    "Radius": "3",
+    "Scale": "0.1",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Easter Bush Dead #2"
+  }
+}

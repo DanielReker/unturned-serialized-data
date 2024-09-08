@@ -1,0 +1,199 @@
+[
+  {
+    "name": "Tonk",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "1",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 36000
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Hovercraft",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Hovercraft",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 36030
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Heli",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Heli",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 36027
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Military",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Ural",
+        "chance": 0.203333318,
+        "table": [
+          {
+            "vehicle": 36045
+          }
+        ]
+      },
+      {
+        "name": "Quad",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 36050
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.6784314,
+      "g": 0.921568632,
+      "b": 0.65882355
+    }
+  },
+  {
+    "name": "Tractor",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Tractor",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 36052
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 0.635294139
+    }
+  },
+  {
+    "name": "Police",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Van",
+        "chance": 0.0966666341,
+        "table": [
+          {
+            "vehicle": 36049
+          }
+        ]
+      },
+      {
+        "name": "Scout",
+        "chance": 0.298333377,
+        "table": [
+          {
+            "vehicle": 36023
+          }
+        ]
+      },
+      {
+        "name": "Quad",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 36051
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.5058824,
+      "g": 0.533333361,
+      "b": 0.784313738
+    }
+  },
+  {
+    "name": "Bus",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Bus",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 36046
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Hospital",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Ambulance",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 36047
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.917647064,
+      "g": 0.6509804,
+      "b": 0.8039216
+    }
+  },
+  {
+    "name": "Civ",
+    "tableID": 36018,
+    "tiers": [],
+    "color": {
+      "r": 0.8392157,
+      "g": 0.831372559,
+      "b": 1.0
+    }
+  }
+]

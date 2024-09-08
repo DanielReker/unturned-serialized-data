@@ -1,0 +1,15 @@
+{
+  "name": "House_01_Burned",
+  "path": "Bundles/Objects/Large/Buildings/House_01_Burned/House_01_Burned.dat",
+  "data": {
+    "GUID": "353bc1e41bef47f3a93beda60f198a5f",
+    "Type": "Large",
+    "ID": "923",
+    "LOD": "Mesh",
+    "Material_Palette": "8a86f496a8664800bf05a9adc5615f25",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "House #02 Burned"
+  }
+}

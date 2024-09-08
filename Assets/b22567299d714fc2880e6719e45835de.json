@@ -1,0 +1,23 @@
+{
+  "name": "Corporal_Lorenzo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Quest Givers/Corporal_Lorenzo/Asset.dat",
+  "data": {
+    "GUID": "b22567299d714fc2880e6719e45835de",
+    "Type": "NPC",
+    "ID": "9100",
+    "Shirt": "8036",
+    "Pants": "8033",
+    "Face": "29",
+    "Hair": "13",
+    "Color_Skin": "#ccb79b",
+    "Color_Hair": "#594221",
+    "Primary": "8051",
+    "Equipped": "Primary",
+    "Pose": "Stand",
+    "Dialogue": "9233"
+  },
+  "translation": {
+    "Name": "NAM Corporal Lorenzo",
+    "Character": "<color=rare>Corporal Lorenzo</color>"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Poplar",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Poplar/Drop_Poplar.dat",
+  "data": {
+    "GUID": "2f2bfbfe02ad4ec38b2ce86c5c92e50c",
+    "Type": "Spawn",
+    "ID": "25483",
+    "Tables": [
+      {
+        "Guid": "e54bd8f64ce343f6aca649794b289de4",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

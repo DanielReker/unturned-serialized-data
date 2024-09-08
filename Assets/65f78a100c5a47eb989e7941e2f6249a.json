@@ -1,0 +1,13 @@
+{
+  "name": "Truck_Orange",
+  "path": "Bundles/Objects/Large/Vehicles/Truck_Orange/Truck_Orange.dat",
+  "data": {
+    "GUID": "65f78a100c5a47eb989e7941e2f6249a",
+    "Type": "Large",
+    "ID": "192",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Orange Truck"
+  }
+}

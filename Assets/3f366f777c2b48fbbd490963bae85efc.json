@@ -1,0 +1,16 @@
+{
+  "name": "Metro_Bunker_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Bunker_6/Metro_Bunker_6.dat",
+  "data": {
+    "GUID": "3f366f777c2b48fbbd490963bae85efc",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57804",
+    "LOD": "Area",
+    "Soft": "",
+    "Collision_Important": ""
+  },
+  "translation": {
+    "Name": "Metro Bunker #7"
+  }
+}

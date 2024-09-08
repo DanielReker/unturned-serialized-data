@@ -1,0 +1,40 @@
+{
+  "name": "Baking_Ingredients",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Quests/Baking_Ingredients/Asset.dat",
+  "data": {
+    "GUID": "9cb4cabf5b5d4d1cba83a1516ee2de14",
+    "Type": "Quest",
+    "ID": "2075",
+    "Conditions": "3",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "272",
+    "Condition_0_Amount": "4",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "462",
+    "Condition_1_Amount": "1",
+    "Condition_1_Value": "True",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Reset": "",
+    "Condition_2_Type": "Item",
+    "Condition_2_ID": "470",
+    "Condition_2_Amount": "1",
+    "Condition_2_Value": "True",
+    "Condition_2_Logic": "Equal",
+    "Condition_2_Reset": "",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "10"
+  },
+  "translation": {
+    "Name": "Find ingredients for Chef Larry!",
+    "Description": "Larry wants to lift the spirits of all the survivors at base. He wants you to find him ingredients so he can bake a Jade Pie!",
+    "Condition_0": "Find Jade Berry {0}/4",
+    "Condition_1": "Find Box Milk {0}/1",
+    "Condition_2": "Find Eggs {0}/1"
+  }
+}

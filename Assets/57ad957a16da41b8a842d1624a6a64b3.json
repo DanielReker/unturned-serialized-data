@@ -1,0 +1,13 @@
+{
+  "name": "Cinderblock",
+  "path": "Bundles/Objects/Small/Business/Cinderblock/Cinderblock.dat",
+  "data": {
+    "GUID": "57ad957a16da41b8a842d1624a6a64b3",
+    "Type": "Small",
+    "ID": "890",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Cinderblock #1"
+  }
+}

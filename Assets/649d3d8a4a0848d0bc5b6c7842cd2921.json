@@ -1,0 +1,13 @@
+{
+  "name": "PS_Tunnel_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Tunnel_0/PS_Tunnel_0.dat",
+  "data": {
+    "GUID": "649d3d8a4a0848d0bc5b6c7842cd2921",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59665"
+  },
+  "translation": {
+    "Name": "PS Tunnel #1"
+  }
+}

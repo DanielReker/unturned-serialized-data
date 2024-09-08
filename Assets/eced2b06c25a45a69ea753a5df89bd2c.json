@@ -1,0 +1,11 @@
+{
+  "name": "Trail_F_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Effects/France/Guns/Trail_F_0/Trail_F_0.dat",
+  "data": {
+    "GUID": "eced2b06c25a45a69ea753a5df89bd2c",
+    "Type": "Effect",
+    "ID": "702",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": null
+}

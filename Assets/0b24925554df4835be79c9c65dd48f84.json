@@ -1,0 +1,16 @@
+{
+  "name": "Easter_Pump_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Business/Easter_Pump_0/Easter_Pump_0.dat",
+  "data": {
+    "GUID": "0b24925554df4835be79c9c65dd48f84",
+    "Type": "Medium",
+    "ID": "6751",
+    "Interactability": "Fuel",
+    "Interactability_Reset": "1500",
+    "Interactability_Resource": "2500",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Gas Pump #1"
+  }
+}

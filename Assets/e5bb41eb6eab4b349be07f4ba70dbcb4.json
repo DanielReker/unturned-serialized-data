@@ -1,0 +1,14 @@
+{
+  "name": "PS_Plant_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Plant_0/PS_Plant_0.dat",
+  "data": {
+    "GUID": "e5bb41eb6eab4b349be07f4ba70dbcb4",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59011",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "PS Plant #1"
+  }
+}

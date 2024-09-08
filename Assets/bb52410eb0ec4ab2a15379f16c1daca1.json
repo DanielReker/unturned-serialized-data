@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Seed_Herb_Alum",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Seed_Herb_Alum/PS_Drops_Seed_Herb_Alum.dat",
+  "data": {
+    "GUID": "bb52410eb0ec4ab2a15379f16c1daca1",
+    "Type": "Spawn",
+    "ID": "59379",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59904",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

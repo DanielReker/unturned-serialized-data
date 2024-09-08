@@ -1,0 +1,23 @@
+{
+  "name": "BP_Clearing_Axe",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Clearing_Axe/Asset.dat",
+  "data": {
+    "GUID": "03fbaf4f77ee4a4d88ffebad210b7862",
+    "Type": "Quest",
+    "ID": "24979",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "7cdf59be2cfa477c8f91c2e1ac0d480d",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24978",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Clearing Axe Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Clearing Axe Recipe"
+  }
+}

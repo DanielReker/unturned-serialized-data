@@ -1,0 +1,23 @@
+{
+  "name": "Buak_Cherry_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Resources/Buak_Cherry_00/Buak_Cherry_00.dat",
+  "data": {
+    "GUID": "65944055d2ee4369b52e06166885e68b",
+    "Type": "Resource",
+    "ID": "25314",
+    "Health": "1",
+    "Radius": "5",
+    "Scale": "1.2",
+    "Explosion": "25321",
+    "Reward_ID": "25342",
+    "Reward_XP": "1",
+    "Forage": "",
+    "Reset": "1000",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Halloween_Redirect": "faf507abb65e4dc7ade4b15a558eed54"
+  },
+  "translation": {
+    "Name": "Buak_Cherry_00"
+  }
+}

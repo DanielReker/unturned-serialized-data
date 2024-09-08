@@ -1,0 +1,15 @@
+{
+  "name": "Grave_1_HW",
+  "path": "Bundles/Objects/Medium/Furniture/Grave_1_HW/Grave_1_HW.dat",
+  "data": {
+    "GUID": "7ce113ae9f3345c5b30be33a602d4980",
+    "Type": "Medium",
+    "ID": "860",
+    "Holiday_Restriction": "HALLOWEEN",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Grave_1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Grave #2"
+  }
+}

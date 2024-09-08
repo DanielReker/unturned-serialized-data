@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Ore_Nickel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Ore_Nickel/Drop_Ore_Nickel.dat",
+  "data": {
+    "GUID": "8655e4d417ef4e18ac85a0ccd1bbd454",
+    "Type": "Spawn",
+    "ID": "25502",
+    "Tables": [
+      {
+        "Guid": "5dce766da8464d0ca33c6c1f17414af6",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

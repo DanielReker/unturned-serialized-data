@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Gunpowder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Gunpowder/Bar_Gunpowder.dat",
+  "data": {
+    "GUID": "397edd3da84a412c924fad3b8aa1575c",
+    "Type": "Effect",
+    "ID": "25560"
+  },
+  "translation": null
+}

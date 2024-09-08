@@ -1,0 +1,13 @@
+{
+  "name": "Jet_0",
+  "path": "Bundles/Objects/Large/Vehicles/Jet_0/Jet_0.dat",
+  "data": {
+    "GUID": "1ad153dab8a44effaaab0f33e7087b01",
+    "Type": "Large",
+    "ID": "744",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Jet #1"
+  }
+}

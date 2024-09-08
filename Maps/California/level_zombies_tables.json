@@ -1,0 +1,1770 @@
+[
+  {
+    "name": "PMC_Low",
+    "isMega": false,
+    "health": 100,
+    "damage": 20,
+    "lootIndex": 0,
+    "lootID": 4304,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4082
+          },
+          {
+            "item": 4086
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4084
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4087
+          }
+        ]
+      },
+      {
+        "chance": 0.5,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.294117659,
+      "g": 0.294117659,
+      "b": 0.294117659
+    },
+    "tableUniqueId": 1,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "PMC_High",
+    "isMega": false,
+    "health": 150,
+    "damage": 25,
+    "lootIndex": 0,
+    "lootID": 4308,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4083
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4085
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4080
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4088
+          },
+          {
+            "item": 4089
+          },
+          {
+            "item": 4090
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.196078435,
+      "g": 0.196078435,
+      "b": 0.196078435
+    },
+    "tableUniqueId": 2,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Police_Low",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 4354,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4025
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4023
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4022
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 3,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Police_High",
+    "isMega": false,
+    "health": 100,
+    "damage": 20,
+    "lootIndex": 0,
+    "lootID": 4323,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4025
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4023
+          },
+          {
+            "item": 4024
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4022
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 568
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.607843161
+    },
+    "tableUniqueId": 4,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "SWAT",
+    "isMega": false,
+    "health": 100,
+    "damage": 25,
+    "lootIndex": 0,
+    "lootID": 4345,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4028
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4027
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4026
+          },
+          {
+            "item": 4049
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4037
+          },
+          {
+            "item": 4038
+          },
+          {
+            "item": 4036
+          },
+          {
+            "item": 4021
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.215686277
+    },
+    "tableUniqueId": 5,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Fire",
+    "isMega": false,
+    "health": 100,
+    "damage": 20,
+    "lootIndex": 0,
+    "lootID": 558,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 233
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 234
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 241
+          }
+        ]
+      },
+      {
+        "chance": 0.1,
+        "table": [
+          {
+            "item": 1270
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "tableUniqueId": 6,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Mega_PMC",
+    "isMega": true,
+    "health": 3000,
+    "damage": 35,
+    "lootIndex": 0,
+    "lootID": 4361,
+    "xp": 25,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4085
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1141
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.09803922,
+      "g": 0.09803922,
+      "b": 0.09803922
+    },
+    "tableUniqueId": 7,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Mega_SWAT",
+    "isMega": true,
+    "health": 3500,
+    "damage": 40,
+    "lootIndex": 0,
+    "lootID": 4335,
+    "xp": 25,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4027
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4021
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "tableUniqueId": 8,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Civilian",
+    "isMega": false,
+    "health": 90,
+    "damage": 20,
+    "lootIndex": 0,
+    "lootID": 4400,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 154
+          },
+          {
+            "item": 155
+          },
+          {
+            "item": 3
+          },
+          {
+            "item": 158
+          },
+          {
+            "item": 159
+          },
+          {
+            "item": 161
+          },
+          {
+            "item": 157
+          },
+          {
+            "item": 163
+          },
+          {
+            "item": 164
+          },
+          {
+            "item": 165
+          },
+          {
+            "item": 167
+          },
+          {
+            "item": 168
+          },
+          {
+            "item": 169
+          },
+          {
+            "item": 171
+          },
+          {
+            "item": 172
+          },
+          {
+            "item": 173
+          },
+          {
+            "item": 175
+          },
+          {
+            "item": 176
+          },
+          {
+            "item": 177
+          },
+          {
+            "item": 179
+          },
+          {
+            "item": 180
+          },
+          {
+            "item": 181
+          },
+          {
+            "item": 183
+          },
+          {
+            "item": 184
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 209
+          },
+          {
+            "item": 212
+          },
+          {
+            "item": 213
+          },
+          {
+            "item": 214
+          },
+          {
+            "item": 207
+          },
+          {
+            "item": 226
+          },
+          {
+            "item": 227
+          },
+          {
+            "item": 228
+          },
+          {
+            "item": 229
+          }
+        ]
+      },
+      {
+        "chance": 0.2,
+        "table": [
+          {
+            "item": 425
+          },
+          {
+            "item": 426
+          },
+          {
+            "item": 427
+          },
+          {
+            "item": 428
+          },
+          {
+            "item": 429
+          },
+          {
+            "item": 430
+          },
+          {
+            "item": 431
+          },
+          {
+            "item": 432
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 9,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Camp",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 564,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 211
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 212
+          },
+          {
+            "item": 213
+          },
+          {
+            "item": 214
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.607843161,
+      "g": 0.215686277,
+      "b": 0.0
+    },
+    "tableUniqueId": 10,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Farmer",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 379,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 242
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 243
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 244
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 0.0
+    },
+    "tableUniqueId": 11,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Grocer",
+    "isMega": false,
+    "health": 90,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 364,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 314
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 315
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.607843161,
+      "g": 0.607843161,
+      "b": 0.0
+    },
+    "tableUniqueId": 12,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Meds",
+    "isMega": false,
+    "health": 90,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 559,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 311
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 312
+          }
+        ]
+      },
+      {
+        "chance": 0.0,
+        "table": []
+      },
+      {
+        "chance": 0.1,
+        "table": [
+          {
+            "item": 727
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 13,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Gas",
+    "isMega": false,
+    "health": 100,
+    "damage": 20,
+    "lootIndex": 0,
+    "lootID": 365,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 405
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 406
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.215686277,
+      "g": 0.0,
+      "b": 0.607843161
+    },
+    "tableUniqueId": 14,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Chef",
+    "isMega": false,
+    "health": 100,
+    "damage": 25,
+    "lootIndex": 0,
+    "lootID": 387,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 230
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 231
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 239
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.607843161,
+      "g": 0.215686277,
+      "b": 0.215686277
+    },
+    "tableUniqueId": 15,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Construction",
+    "isMega": false,
+    "health": 100,
+    "damage": 20,
+    "lootIndex": 5,
+    "lootID": 704,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 232
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 2
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 240
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.607843161,
+      "b": 0.0
+    },
+    "tableUniqueId": 16,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "beach",
+    "isMega": false,
+    "health": 80,
+    "damage": 10,
+    "lootIndex": 0,
+    "lootID": 0,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1454
+          },
+          {
+            "item": 1455
+          },
+          {
+            "item": 1456
+          },
+          {
+            "item": 1457
+          },
+          {
+            "item": 1458
+          },
+          {
+            "item": 1459
+          },
+          {
+            "item": 1460
+          },
+          {
+            "item": 1461
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 17,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Biohazard",
+    "isMega": false,
+    "health": 175,
+    "damage": 35,
+    "lootIndex": 3,
+    "lootID": 4315,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4093
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4094
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4092
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4088
+          },
+          {
+            "item": 4089
+          },
+          {
+            "item": 4090
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.6862745,
+      "g": 0.215686277,
+      "b": 0.0
+    },
+    "tableUniqueId": 18,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Biohazard Mega",
+    "isMega": true,
+    "health": 2500,
+    "damage": 35,
+    "lootIndex": 0,
+    "lootID": 4316,
+    "xp": 50,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4093
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4094
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4092
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.215686277,
+      "g": 0.0196078438,
+      "b": 0.0
+    },
+    "tableUniqueId": 19,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Spec Ops",
+    "isMega": false,
+    "health": 130,
+    "damage": 30,
+    "lootIndex": 0,
+    "lootID": 4335,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1171
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1172
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1270
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1169
+          },
+          {
+            "item": 1389
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.215686277,
+      "g": 0.215686277,
+      "b": 0.215686277
+    },
+    "tableUniqueId": 20,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Richman",
+    "isMega": false,
+    "health": 100,
+    "damage": 20,
+    "lootIndex": 0,
+    "lootID": 4313,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4007
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4006
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "tableUniqueId": 21,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Military High O",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 4381,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4043
+          },
+          {
+            "item": 4044
+          },
+          {
+            "item": 4050
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4039
+          },
+          {
+            "item": 4040
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4047
+          },
+          {
+            "item": 4058
+          },
+          {
+            "item": 4060
+          }
+        ]
+      },
+      {
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 4052
+          },
+          {
+            "item": 4053
+          },
+          {
+            "item": 4054
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.333333343,
+      "g": 0.4509804,
+      "b": 0.137254909
+    },
+    "tableUniqueId": 22,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Sawmill",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 4399,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 211
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 213
+          },
+          {
+            "item": 214
+          },
+          {
+            "item": 209
+          }
+        ]
+      },
+      {
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 11
+          },
+          {
+            "item": 185
+          },
+          {
+            "item": 188
+          },
+          {
+            "item": 191
+          }
+        ]
+      },
+      {
+        "chance": 0.2,
+        "table": [
+          {
+            "item": 4104
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.4509804,
+      "g": 0.333333343,
+      "b": 0.215686277
+    },
+    "tableUniqueId": 23,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Military_Low",
+    "isMega": false,
+    "health": 100,
+    "damage": 20,
+    "lootIndex": 0,
+    "lootID": 4376,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4046
+          },
+          {
+            "item": 4051
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4041
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4059
+          },
+          {
+            "item": 4048
+          }
+        ]
+      },
+      {
+        "chance": 0.1,
+        "table": [
+          {
+            "item": 4064
+          },
+          {
+            "item": 4078
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    },
+    "tableUniqueId": 24,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Military_High",
+    "isMega": false,
+    "health": 100,
+    "damage": 25,
+    "lootIndex": 0,
+    "lootID": 4381,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4051
+          },
+          {
+            "item": 4045
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4041
+          },
+          {
+            "item": 4042
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4061
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4055
+          },
+          {
+            "item": 4056
+          },
+          {
+            "item": 4057
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.607843161,
+      "b": 0.0
+    },
+    "tableUniqueId": 25,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Military_Mega",
+    "isMega": true,
+    "health": 3000,
+    "damage": 35,
+    "lootIndex": 0,
+    "lootID": 4390,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4042
+          },
+          {
+            "item": 4040
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1389
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.215686277,
+      "b": 0.0
+    },
+    "tableUniqueId": 26,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Richman_Guard",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 0,
+    "lootID": 4395,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 179
+          },
+          {
+            "item": 183
+          },
+          {
+            "item": 1391
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 212
+          },
+          {
+            "item": 213
+          },
+          {
+            "item": 214
+          },
+          {
+            "item": 209
+          },
+          {
+            "item": 207
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 11
+          },
+          {
+            "item": 4087
+          },
+          {
+            "item": 185
+          },
+          {
+            "item": 186
+          },
+          {
+            "item": 187
+          },
+          {
+            "item": 188
+          },
+          {
+            "item": 189
+          },
+          {
+            "item": 190
+          },
+          {
+            "item": 191
+          }
+        ]
+      },
+      {
+        "chance": 0.700000048,
+        "table": [
+          {
+            "item": 4088
+          },
+          {
+            "item": 4089
+          },
+          {
+            "item": 4090
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.392156869,
+      "b": 0.392156869
+    },
+    "tableUniqueId": 27,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Military_Gasmask",
+    "isMega": false,
+    "health": 110,
+    "damage": 35,
+    "lootIndex": 0,
+    "lootID": 4381,
+    "xp": 1,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4045
+          },
+          {
+            "item": 4051
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4041
+          },
+          {
+            "item": 4042
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4021
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4061
+          },
+          {
+            "item": 4055
+          },
+          {
+            "item": 4056
+          },
+          {
+            "item": 4057
+          },
+          {
+            "item": 4078
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.490196079,
+      "b": 0.0
+    },
+    "tableUniqueId": 28,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  }
+]

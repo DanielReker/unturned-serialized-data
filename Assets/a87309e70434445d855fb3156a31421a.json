@@ -1,0 +1,14 @@
+{
+  "name": "27512KLWIVC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/2/D/27501-27550KuwaitReturn/27510KLWI/27512KLWIVC/Asset.dat",
+  "data": {
+    "GUID": "a87309e70434445d855fb3156a31421a",
+    "Type": "Dialogue",
+    "ID": "27512",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Do be careful, <name_char>. Thanks for all your help!"
+  }
+}

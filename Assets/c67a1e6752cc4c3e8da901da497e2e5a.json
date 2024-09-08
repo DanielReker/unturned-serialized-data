@@ -1,0 +1,14 @@
+{
+  "name": "Hungry_Present_Completed",
+  "path": "Bundles/NPCs/Dialogues/Hungry/Hungry_Present_Completed/Asset.dat",
+  "data": {
+    "GUID": "c67a1e6752cc4c3e8da901da497e2e5a",
+    "Type": "Dialogue",
+    "ID": "339",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yay! Good job!"
+  }
+}

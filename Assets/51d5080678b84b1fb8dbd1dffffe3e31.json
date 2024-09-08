@@ -1,0 +1,15 @@
+{
+  "name": "RugShopping_01_Accept",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Carter/Carter_02/RugShopping_01_Accept/Asset.dat",
+  "data": {
+    "GUID": "51d5080678b84b1fb8dbd1dffffe3e31",
+    "Type": "Dialogue",
+    "ID": "24536",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "5"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good luck!"
+  }
+}

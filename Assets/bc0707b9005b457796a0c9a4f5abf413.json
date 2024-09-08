@@ -1,0 +1,25 @@
+{
+  "name": "Buak_Res_Sand_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Resources/Buak_Res_Sand_00/Buak_Res_Sand_00.dat",
+  "data": {
+    "GUID": "bc0707b9005b457796a0c9a4f5abf413",
+    "Type": "Resource",
+    "ID": "25316",
+    "Health": "400",
+    "Radius": "4",
+    "Scale": "0.1",
+    "Explosion": "25493",
+    "Reward_ID": "25376",
+    "Reward_XP": "10",
+    "Reward_Min": "4",
+    "Reward_Max": "8",
+    "BladeID": "125",
+    "No_Debris": "",
+    "Reset": "650",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Res_Sand_00"
+  }
+}

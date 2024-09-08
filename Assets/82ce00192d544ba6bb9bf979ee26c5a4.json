@@ -1,0 +1,30 @@
+{
+  "name": "FragGrenade3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Throwables/FragGrenade3/FragGrenade3.dat",
+  "data": {
+    "GUID": "82ce00192d544ba6bb9bf979ee26c5a4",
+    "Type": "Throwable",
+    "Rarity": "Legendary",
+    "Useable": "Throwable",
+    "ID": "51302",
+    "Size_X": "1",
+    "Size_Y": "3",
+    "Size_Z": "0.3",
+    "Player_Damage": "275",
+    "Zombie_Damage": "300",
+    "Animal_Damage": "300",
+    "Barricade_Damage": "200",
+    "Structure_Damage": "200",
+    "Vehicle_Damage": "300",
+    "Resource_Damage": "1000",
+    "Object_Damage": "500",
+    "Range": "16",
+    "Explosion": "45",
+    "Explosive": "",
+    "Fuse_Length": "5"
+  },
+  "translation": {
+    "Name": "Triple Frag Grenade",
+    "Description": "Combined frag grenade for extreme lethality."
+  }
+}

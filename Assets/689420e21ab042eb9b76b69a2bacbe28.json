@@ -1,0 +1,14 @@
+{
+  "name": "PS_Tire_8",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Tire_8/PS_Tire_8.dat",
+  "data": {
+    "GUID": "689420e21ab042eb9b76b69a2bacbe28",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59857",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "PS Wheel #9 [Wreck]"
+  }
+}

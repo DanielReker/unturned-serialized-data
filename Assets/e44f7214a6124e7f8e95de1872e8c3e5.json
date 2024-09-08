@@ -1,0 +1,14 @@
+{
+  "name": "Russia_Grass_Dead_PhysicsMaterial",
+  "path": "Bundles/Assets/PhysicsMaterials/Russia_Grass_Dead_PhysicsMaterial.asset",
+  "data": {
+    "GUID": "e44f7214a6124e7f8e95de1872e8c3e5",
+    "Type": "SDG.Unturned.PhysicsMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "UnityNames": [
+      "Russia_Grass_Dead"
+    ],
+    "Fallback": "1c3a3c6664f14aa486d73528a5d9f92c",
+    "TireMotionEffect": "7d731c4c004a44a5b0b0f5dd32ef58c9"
+  },
+  "translation": null
+}

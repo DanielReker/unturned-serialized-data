@@ -1,0 +1,34 @@
+{
+  "name": "PS_Tools_Rewire_Kit",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Tools_Rewire_Kit/PS_Tools_Rewire_Kit.dat",
+  "data": {
+    "GUID": "dccf9c193f56468b88675a219ab8cd0c",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Barricade",
+    "ID": "59375",
+    "SalvageItem": "dccf9c193f56468b88675a219ab8cd0c",
+    "Min_Items_Dropped_On_Destroy": "1",
+    "Max_Items_Dropped_On_Destroy": "1",
+    "Item_Dropped_On_Destroy": "2505d315b2fb486ba219e6fe29d5bf97",
+    "Size_X": "6",
+    "Size_Y": "4",
+    "Size_Z": "0.46",
+    "Health": "300",
+    "Range": "4",
+    "Radius": "0.24",
+    "Offset": "0.255",
+    "Explosion": "36",
+    "Vulnerable": "",
+    "Use_Auto_Icon_Measurements": "False",
+    "PlacementAudioClip": "Sounds/MetalPlacement.mp3",
+    "Salvage_Duration_Multiplier": "0.1",
+    "Bypass_Pickup_Ownership": "True"
+  },
+  "translation": {
+    "Name": "Rewire Kit",
+    "Description": "Set of advanced tools necessary for tinkering with explosives."
+  }
+}

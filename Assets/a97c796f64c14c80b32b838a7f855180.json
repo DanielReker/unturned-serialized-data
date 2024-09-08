@@ -1,0 +1,24 @@
+{
+  "name": "Sergeant_Emiel_Secret_Snack",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Quests/Sergeant_Emiel_Secret_Snack/Asset.dat",
+  "data": {
+    "GUID": "a97c796f64c14c80b32b838a7f855180",
+    "Type": "Quest",
+    "ID": "9070",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "9032",
+    "Condition_0_Amount": "3",
+    "Condition_0_Reset": "",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "20",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "20"
+  },
+  "translation": {
+    "Name": "<color=rare>Secret Snack</color>",
+    "Description": "I'm assigning you to acquiring one of the best pastries in Belgium. ",
+    "Condition_0": "Find {0}/{1} Belgian Eclair"
+  }
+}

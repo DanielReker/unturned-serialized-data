@@ -1,0 +1,20 @@
+{
+  "name": "Note_Rio11",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Note_Rio11/Note_Rio11.dat",
+  "data": {
+    "GUID": "3045e446ce434fc2941d9cc1751ba46d",
+    "Type": "Medium",
+    "ID": "7118",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "4",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Note - World Paper News #2",
+    "Interactability_Text_Line_0": "World Paper News",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "The spread of the \"Zombie Virus\" continues as it reaches new areas around the country. The ZPD has declared that their scientists will double the speed of the research. The military has been mobilized as well in Rio de Janeiro, São Paulo and Espirito Santo.",
+    "Interactability_Text_Line_3": "Another riot in Brasilia also mobilized the police force in the Federal District. 10 people were arrested and 3 got injured."
+  }
+}

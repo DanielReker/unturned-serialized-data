@@ -1,0 +1,13 @@
+{
+  "name": "PS_Scaffolding_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Scaffolding_4/PS_Scaffolding_4.dat",
+  "data": {
+    "GUID": "4894f968b1b7483c902638241c4c7034",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59196"
+  },
+  "translation": {
+    "Name": "PS Scaffolding #5"
+  }
+}

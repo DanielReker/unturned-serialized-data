@@ -1,0 +1,22 @@
+{
+  "name": "Buak_Note_13",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Note_13/Buak_Note_13.dat",
+  "data": {
+    "GUID": "9c87f8833a5143e78099108514f2b96a",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Material_Palette": "3758ac9d1b774a4a99a407c069e2a21a",
+    "Bundle_Override_Path": "/Objects/Small/Furniture/Buak_Note_01"
+  },
+  "translation": {
+    "Name": "Buak_Note_13",
+    "Interactability_Text_Line_0": "Willow's Log",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "I made a sentient wristwatch, Boredom. Simple as that! Problem is, I factored in a miscalculation into my development, and now it’s a sentient wristwatch with a thirst for blood. We all have our quirks. Anyways, I had it on for months and the little [UNINTELLIGIBLE] developed needles that stuck into my arm and drank around half a litre of my blood over time. Couldn’t get it off for months. Apparently, it’s also a sadist, because it’s only after it sucked my blood that I realized it also wanted me to cut off my own hand. It wins this round, but I’ll be back, with a sentient hammer with a thirst for hour hands."
+  }
+}

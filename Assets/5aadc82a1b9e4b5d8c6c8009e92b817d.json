@@ -1,0 +1,60 @@
+{
+  "name": "Buak_Grass_04_Foliage",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Landscapes/Grass/Buak_Grass_04_Foliage.asset",
+  "data": {
+    "GUID": "5aadc82a1b9e4b5d8c6c8009e92b817d",
+    "Type": "SDG.Framework.Foliage.FoliageInstancedMeshInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Density": "2",
+    "Min_Normal_Position_Offset": "0",
+    "Max_Normal_Position_Offset": "0",
+    "Normal_Rotation_Offset": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Normal_Rotation_Alignment": "1",
+    "Min_Weight": "0.5",
+    "Max_Weight": "1",
+    "Min_Angle": "0",
+    "Max_Angle": "60",
+    "Min_Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Max_Rotation": {
+      "X": "0",
+      "Y": "360",
+      "Z": "0"
+    },
+    "Min_Scale": {
+      "X": "0.8",
+      "Y": "0.8",
+      "Z": "0.8"
+    },
+    "Max_Scale": {
+      "X": "1.2",
+      "Y": "1.2",
+      "Z": "1.2"
+    },
+    "Mesh": {
+      "Name": "core.masterbundle",
+      "Path": "Terrain/Foliage/Grass/Grass_00_Mesh.fbx"
+    },
+    "Material": {
+      "Name": "buak.masterbundle",
+      "Path": "Grass/Buak_Grass_04.mat"
+    },
+    "Cast_Shadows": "false",
+    "Tile_Dither": "true",
+    "Draw_Distance": "-1",
+    "Christmas_Redirect": {
+      "GUID": "00000000000000000000000000000000"
+    },
+    "Halloween_Redirect": {
+      "GUID": "49fa3bfc6eb5475996f98cdd0c02249a"
+    }
+  },
+  "translation": null
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Buak_Junk_09",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Resources/Buak_Junk_09/Buak_Junk_09.dat",
+  "data": {
+    "GUID": "56bd04387a9546ba8c94704e172c8a1a",
+    "Type": "Resource",
+    "ID": "25342",
+    "Health": "1200",
+    "Radius": "6",
+    "Scale": "0",
+    "Explosion": "25515",
+    "Reward_ID": "25380",
+    "Reward_XP": "2",
+    "Reward_Min": "4",
+    "Reward_Max": "6",
+    "BladeID": "2",
+    "No_Debris": "",
+    "Reset": "800",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Junk_09"
+  }
+}

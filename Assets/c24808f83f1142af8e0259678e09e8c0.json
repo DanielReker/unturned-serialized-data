@@ -1,0 +1,30 @@
+{
+  "name": "Buak_Q_S7M3_KC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M3/Buak_Q_S7M3_KC/Buak_Q_S7M3_KC.dat",
+  "data": {
+    "GUID": "c24808f83f1142af8e0259678e09e8c0",
+    "Type": "Small",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24271",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "2",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "24271",
+    "Interactability_Reward_0_Value": "False",
+    "Interactability_Reward_1_Type": "Flag_Bool",
+    "Interactability_Reward_1_ID": "24270",
+    "Interactability_Reward_1_Value": "True",
+    "Bundle_Override_Path": "/Objects/Large/Monuments/Buak_LAB/Buak_KCS7_LV1"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M3_KC",
+    "Interact": "Pickup Keycard [{0}]"
+  }
+}

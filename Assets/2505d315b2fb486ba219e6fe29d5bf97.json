@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Tools_Rewire_Kit",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Tools_Rewire_Kit/PS_Drops_Tools_Rewire_Kit.dat",
+  "data": {
+    "GUID": "2505d315b2fb486ba219e6fe29d5bf97",
+    "Type": "Spawn",
+    "ID": "59427",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59375",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

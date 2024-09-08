@@ -1,0 +1,14 @@
+{
+  "name": "Scout_Waikoloa_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Scout_Stuart/Scout_Waikoloa_Completed/Asset.dat",
+  "data": {
+    "GUID": "33fe4bf6e4434c159227ed7d838dbeef",
+    "Type": "Dialogue",
+    "ID": "2155",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Great work! We will have to send a boat over there to grab some supplies!"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Military_Helicopter_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Military_Helicopter_Brazil/Military_Helicopter_Brazil.dat",
+  "data": {
+    "GUID": "2674f74bd3f044cea26f9c677604aed7",
+    "Type": "Spawn",
+    "ID": "5520",
+    "Tables": "1",
+    "Table_0_Asset_ID": "4431",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

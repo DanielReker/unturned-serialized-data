@@ -1,0 +1,26 @@
+{
+  "name": "Candy_Cane",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Candy_Cane/Candy_Cane.dat",
+  "data": {
+    "GUID": "e17d1d91dd994d0bbc13e8a4a24db0f8",
+    "Type": "Food",
+    "Rarity": "Legendary",
+    "Useable": "Consumeable",
+    "ID": "27841",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Use_Auto_Icon_Measurements": "False",
+    "Left_Handed_Characters_Mirror_Equipable": "false",
+    "Food": "15",
+    "Water": "0",
+    "Quality_Min": "80",
+    "Quality_Max": "100",
+    "ConsumeAudioClip": "Sounds/Food/EatCrunchyShort.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Candy Cane",
+    "Description": "A cane made of candy. Probably won't help you walk."
+  }
+}

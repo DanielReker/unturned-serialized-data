@@ -1,0 +1,14 @@
+{
+  "name": "French_House_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/French_House/French_House_2/French_House_2.dat",
+  "data": {
+    "GUID": "6f51d3654f044d78864b04d16fc17edf",
+    "Type": "Large",
+    "ID": "35053",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "French House #3"
+  }
+}

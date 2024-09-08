@@ -1,0 +1,14 @@
+{
+  "name": "PBS_DD_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_DD_1/PBS_DD_Completed/Asset.dat",
+  "data": {
+    "GUID": "11e84f92d76d4657aa749a4a285dee9b",
+    "Type": "Dialogue",
+    "ID": "52053",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Stay safe out there."
+  }
+}

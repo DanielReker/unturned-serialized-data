@@ -1,0 +1,13 @@
+{
+  "name": "PS_Bones_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Bones_2/PS_Bones_2.dat",
+  "data": {
+    "GUID": "1503d58468a944568ad60b5063e8d418",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60067"
+  },
+  "translation": {
+    "Name": "PS Bones #3"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "FishingRifleCrateBarricade",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/FishingRifleCrateBarricade/FishingRifleCrateBarricade.dat",
+  "data": {
+    "GUID": "8be7ce9eef3145bfab1b95939e52b4d5",
+    "Type": "Storage",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Storage",
+    "ID": "51933",
+    "SalvageItem": "8be7ce9eef3145bfab1b95939e52b4d5",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.5",
+    "Health": "200",
+    "Range": "4",
+    "Radius": "0.2",
+    "Offset": "0.175",
+    "Storage_X": "8",
+    "Storage_Y": "4",
+    "Explosion": "36",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false",
+    "Vulnerable": ""
+  },
+  "translation": {
+    "Name": "Long Gun Crate Storage",
+    "Description": "An opened long gun crate that can be used for storage now."
+  }
+}

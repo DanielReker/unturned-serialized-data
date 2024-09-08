@@ -1,0 +1,12 @@
+{
+  "name": "CA_Hotel_California_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Hotel_California_1/CA_Hotel_California_1.dat",
+  "data": {
+    "GUID": "abfdc5fd80fb40ecbc8d47cb85b5b258",
+    "Type": "Large",
+    "ID": "4495"
+  },
+  "translation": {
+    "Name": "California Hotel #3"
+  }
+}

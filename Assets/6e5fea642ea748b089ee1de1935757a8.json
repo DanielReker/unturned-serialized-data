@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Q_AG_Cr_Screen",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/AG_00/Buak_Q_AG_Cr_Screen/Buak_Q_AG_Cr_Screen.dat",
+  "data": {
+    "GUID": "6e5fea642ea748b089ee1de1935757a8",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24773",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_Q_AG_Cr_Screen"
+  }
+}

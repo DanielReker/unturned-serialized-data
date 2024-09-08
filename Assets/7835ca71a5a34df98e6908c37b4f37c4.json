@@ -1,0 +1,13 @@
+{
+  "name": "GreekMachine_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreekMachine_1/GreekMachine_1.dat",
+  "data": {
+    "GUID": "7835ca71a5a34df98e6908c37b4f37c4",
+    "Type": "Medium",
+    "ID": "3517",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Machinery #2"
+  }
+}

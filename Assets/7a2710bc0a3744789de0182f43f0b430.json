@@ -1,0 +1,16 @@
+{
+  "name": "Beach2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/Beach2/Beach2.dat",
+  "data": {
+    "GUID": "7a2710bc0a3744789de0182f43f0b430",
+    "Type": "Spawn",
+    "ID": "51210",
+    "Tables": [
+      {
+        "Guid": "5eb6ae46b9c548b18205a822ed36c1f8",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

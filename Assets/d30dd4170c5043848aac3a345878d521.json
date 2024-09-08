@@ -1,0 +1,20 @@
+{
+  "name": "Medic",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Medic/Medic/Medic.dat",
+  "data": {
+    "GUID": "d30dd4170c5043848aac3a345878d521",
+    "Type": "Spawn",
+    "ID": "51050",
+    "Tables": [
+      {
+        "Guid": "3498fd7b894a45ca82369ddc6bbee72d",
+        "Weight": "65"
+      },
+      {
+        "Guid": "329d09287a9043ae877b098c378f6704",
+        "Weight": "35"
+      }
+    ]
+  },
+  "translation": null
+}

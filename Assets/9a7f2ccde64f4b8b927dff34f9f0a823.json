@@ -1,0 +1,14 @@
+{
+  "name": "Earplugs_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Military/Barracks_Dysis/Earplugs_Accepted/Asset.dat",
+  "data": {
+    "GUID": "9a7f2ccde64f4b8b927dff34f9f0a823",
+    "Type": "Dialogue",
+    "ID": "6214",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I think you should be able to find them in one of the supply buildings!<br><i>*Yawns*</i> I'll give you something extra for grabbing them for me!"
+  }
+}

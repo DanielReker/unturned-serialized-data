@@ -1,0 +1,25 @@
+{
+  "name": "France_Note1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Medium/Furniture/France_Note1/France_Note1.dat",
+  "data": {
+    "GUID": "6362c6791a5548529b29dda129c2a0f7",
+    "Type": "Medium",
+    "ID": "35110",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "7",
+    "Has_Clip_Prefab": "false",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "France Note - ATC",
+    "Interactability_Text_Line_0": "ATC Log",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "February 23rd 12:11 AM",
+    "Interactability_Text_Line_3": "Sacré bleu! A plane just crashed into the north end of the airstrip and dozens of infected are pouring out the side of the wreckage!",
+    "Interactability_Text_Line_4": "---",
+    "Interactability_Text_Line_5": "February 23rd 12:18 AM",
+    "Interactability_Text_Line_6": "The troops have secured the area. Investigation crews will be dispatching in 15 minutes to collect info on this plane."
+  }
+}

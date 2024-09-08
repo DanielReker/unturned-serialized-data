@@ -1,0 +1,22 @@
+{
+  "name": "Survivor Pedro",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Survivors/Survivor Pedro/Asset.dat",
+  "data": {
+    "GUID": "12398d138022441891395a2b42c5fe00",
+    "Type": "NPC",
+    "ID": "9004",
+    "Shirt": "184",
+    "Pants": "227",
+    "Face": "20",
+    "Hair": "1",
+    "Beard": "2",
+    "Color_Skin": "#d8bfa4",
+    "Color_Hair": "#423527",
+    "Pose": "Rest",
+    "Dialogue": "9201"
+  },
+  "translation": {
+    "Name": "NAM Survivor Pedro",
+    "Character": "Pedro"
+  }
+}

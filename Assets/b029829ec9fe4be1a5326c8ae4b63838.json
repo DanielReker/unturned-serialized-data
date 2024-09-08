@@ -1,0 +1,29 @@
+{
+  "name": "Cliffs_Special_Low_Clothes",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Spawns/Items/Cliffs_Special_Low_Clothes/Cliffs_Special_Low_Clothes.dat",
+  "data": {
+    "GUID": "b029829ec9fe4be1a5326c8ae4b63838",
+    "Type": "Spawn",
+    "ID": "10078",
+    "Tables": "9",
+    "Table_0_Asset_ID": "15006",
+    "Table_0_Weight": "15",
+    "Table_1_Asset_ID": "16269",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "16272",
+    "Table_2_Weight": "10",
+    "Table_3_Asset_ID": "16235",
+    "Table_3_Weight": "10",
+    "Table_4_Asset_ID": "253",
+    "Table_4_Weight": "10",
+    "Table_5_Asset_ID": "1170",
+    "Table_5_Weight": "10",
+    "Table_6_Asset_ID": "16232",
+    "Table_6_Weight": "10",
+    "Table_7_Asset_ID": "16260",
+    "Table_7_Weight": "10",
+    "Table_8_Asset_ID": "16231",
+    "Table_8_Weight": "10"
+  },
+  "translation": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Survivor_Elaine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/Coalition/Filler/Survivor_Elaine/Asset.dat",
+  "data": {
+    "GUID": "95985517e72f43e983f1da40beea687e",
+    "Type": "NPC",
+    "ID": "15041",
+    "Shirt": "421",
+    "Pants": "422",
+    "Face": "24",
+    "Hair": "16",
+    "Color_Hair": "#172560",
+    "Color_Skin": "#a8956b",
+    "Pose": "Sit",
+    "Dialogue": "15188"
+  },
+  "translation": {
+    "Name": "Coalition Survivor Elaine",
+    "Character": "Elaine"
+  }
+}

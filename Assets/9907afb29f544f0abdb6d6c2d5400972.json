@@ -1,0 +1,23 @@
+{
+  "name": "BP_Sight_Reflex",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Sight_Reflex/Asset.dat",
+  "data": {
+    "GUID": "9907afb29f544f0abdb6d6c2d5400972",
+    "Type": "Quest",
+    "ID": "24889",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "89f9c079e99c4eb6a52c3233d563eb99",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24888",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Reflex Sight Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Reflex Sight Recipe"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Junkyard_House",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_Junkyard_House/Buak_Junkyard_House.dat",
+  "data": {
+    "GUID": "c21e957901ca419fa5acb46d3ce7b194",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "LOD": "Area",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Junkyard_House"
+  }
+}

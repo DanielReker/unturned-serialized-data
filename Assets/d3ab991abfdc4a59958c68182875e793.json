@@ -1,0 +1,18 @@
+{
+  "name": "Hawaii_Fern_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Assets/Trees/Hawaii_Fern_0.asset",
+  "data": {
+    "GUID": "d3ab991abfdc4a59958c68182875e793",
+    "Type": "SDG.Framework.Foliage.FoliageResourceInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Density": "4000",
+    "Min_Weight": "0.5",
+    "Max_Weight": "1",
+    "Min_Angle": "0",
+    "Max_Angle": "60",
+    "Resource": {
+      "GUID": "334ec8a69a7c4dddbeff924754f1c22b"
+    },
+    "Obstruction_Radius": "4"
+  },
+  "translation": null
+}

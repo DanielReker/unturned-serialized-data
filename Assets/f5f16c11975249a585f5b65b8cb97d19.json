@@ -1,0 +1,14 @@
+{
+  "name": "Buak_AC_Line_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Props/Buak_AC_Line_02/Buak_AC_Line_02.dat",
+  "data": {
+    "GUID": "f5f16c11975249a585f5b65b8cb97d19",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_AC_Line_02"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "29704KSA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/4/D/29700KSD/29704KSA/Asset.dat",
+  "data": {
+    "GUID": "93c94e4692e74fa0a2a9975011b5b99e",
+    "Type": "Dialogue",
+    "ID": "29704",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Should we believe it? It's always watching, what can we hide, anyways?"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "PS_Airdrop_Guns_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Airdrop_Guns_0/PS_Airdrop_Guns_0.dat",
+  "data": {
+    "GUID": "81d31ea99a7d418ab1183baf2f3f7e31",
+    "Type": "Spawn",
+    "ID": "59318",
+    "Tables": [
+      {
+        "LegacyAssetId": "59896",
+        "Weight": "12"
+      },
+      {
+        "LegacySpawnId": "59319",
+        "Weight": "6"
+      },
+      {
+        "LegacyAssetId": "60004",
+        "Weight": "5"
+      },
+      {
+        "Guid": "ec2ada395cfd4ccdab5625c693d635ef",
+        "Weight": "3"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "28854KOQ",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28851KOMD/28854KOQ/Asset.dat",
+  "data": {
+    "GUID": "de9867682f6c48598f0ce171c6c38f2e",
+    "Type": "Dialogue",
+    "ID": "28854",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm helping excavate these ruins. It won't excavate itself, after all."
+  }
+}

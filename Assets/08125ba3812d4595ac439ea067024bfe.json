@@ -1,0 +1,12 @@
+{
+  "name": "Carpat_Apartment_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Objects/Large/Carpat_Apartment_01/Carpat_Apartment_01.dat",
+  "data": {
+    "GUID": "08125ba3812d4595ac439ea067024bfe",
+    "Type": "Large",
+    "ID": "23170"
+  },
+  "translation": {
+    "Name": "Carpat Apartment #1"
+  }
+}

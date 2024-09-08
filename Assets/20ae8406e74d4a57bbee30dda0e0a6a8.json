@@ -1,0 +1,17 @@
+{
+  "name": "Cardboard_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Assets/Material_Palletes/Cardboard_0.asset",
+  "data": {
+    "GUID": "20ae8406e74d4a57bbee30dda0e0a6a8",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "metro.masterbundle",
+        "Path": "Terrain/Metro/Foliage/Box_Material_0.mat"
+      },
+      "}"
+    ]
+  },
+  "translation": null
+}

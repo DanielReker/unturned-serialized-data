@@ -1,0 +1,13 @@
+{
+  "name": "Speed_Boat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Vehicles/Speed_Boat/Speed_Boat.dat",
+  "data": {
+    "GUID": "f1aa59d473a94684b66a1f97c5bea4c0",
+    "Type": "Large",
+    "ID": "35076",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Speed Boat"
+  }
+}

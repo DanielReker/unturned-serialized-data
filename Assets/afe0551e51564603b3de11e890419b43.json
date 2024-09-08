@@ -1,0 +1,13 @@
+{
+  "name": "Versailles_Gate_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Scenery/Versailles_Gate_0/Versailles_Gate_0.dat",
+  "data": {
+    "GUID": "afe0551e51564603b3de11e890419b43",
+    "Type": "Large",
+    "ID": "35100",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Versailles Gate #1"
+  }
+}

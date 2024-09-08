@@ -1,0 +1,13 @@
+{
+  "name": "Cliffs_Police_Magazine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Spawns/Items/Cliffs_Police_Magazine/Cliffs_Police_Magazine.dat",
+  "data": {
+    "GUID": "7d40060245db4109bd5819645b08584d",
+    "Type": "Spawn",
+    "ID": "10049",
+    "Tables": "1",
+    "Table_0_Asset_ID": "100",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

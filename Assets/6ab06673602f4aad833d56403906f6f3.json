@@ -1,0 +1,11 @@
+{
+  "name": "Classic_Golf",
+  "path": "Bundles/Skins/Anniversary_10/Classic_Golf/Classic_Golf.dat",
+  "data": {
+    "GUID": "6ab06673602f4aad833d56403906f6f3",
+    "Type": "Skin",
+    "ID": "305",
+    "Override_Meshes": "1"
+  },
+  "translation": null
+}

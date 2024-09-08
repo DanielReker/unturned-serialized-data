@@ -1,0 +1,15 @@
+{
+  "name": "Barracks_Officer_Vending",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Barracks_Omega/Barracks_Officer_Vending/Asset.dat",
+  "data": {
+    "GUID": "0214527b85cd443a89c74f55ae72afb6",
+    "Type": "Dialogue",
+    "ID": "3314",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "3081"
+  },
+  "translation": {
+    "Message_0_Page_0": "Let me know if it's too tight!"
+  }
+}

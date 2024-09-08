@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Yukari_Comp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Yukari/PBS_Yukari_Comp/Asset.dat",
+  "data": {
+    "GUID": "f40bc5b2d0e54e008cdd555955f7ce45",
+    "Type": "Dialogue",
+    "ID": "52563",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ah, wonderful!  This'll definitely help, I'll get to it!"
+  }
+}

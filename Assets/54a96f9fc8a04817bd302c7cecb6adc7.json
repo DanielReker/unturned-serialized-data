@@ -1,0 +1,30 @@
+{
+  "name": "FixingGood_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Alexander/Alexander_02/FixingGood_Welcome/Asset.dat",
+  "data": {
+    "GUID": "54a96f9fc8a04817bd302c7cecb6adc7",
+    "Type": "Dialogue",
+    "ID": "24486",
+    "Messages": "1",
+    "Message_0_Pages": "4",
+    "Responses": "2",
+    "Response_0_Dialogue": "cb6dd2febe414f899ec79891c2ee4eb9",
+    "Response_0_Quest": "1214d4c1aa7b462e86045b89c6b64f70",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "1214d4c1aa7b462e86045b89c6b64f70",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "1214d4c1aa7b462e86045b89c6b64f70"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yeah I could use some help if you don't mind. In factory building 1's kitchen, there's a generator that seems to be busted.",
+    "Message_0_Page_1": "Along with that, factory building 3 with the tents has a room with a radio station, the microphone cable seems to be damaged.",
+    "Message_0_Page_2": "You can probably see what I'm getting at, if we fix the generator, patch up the cable, we might have a working radio station which would be very benificial.",
+    "Message_0_Page_3": "To do this you will need some tools and some tape. Which luckily I have all that in my tool box! You can borrow it just make sure to return it after.",
+    "Response_0": "Sure thing!",
+    "Response_1": "Not now."
+  }
+}

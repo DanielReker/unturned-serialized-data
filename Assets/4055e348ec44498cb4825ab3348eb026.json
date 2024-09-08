@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Q_FG_Signal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_FG_Signal/Buak_Q_FG_Signal.dat",
+  "data": {
+    "GUID": "4055e348ec44498cb4825ab3348eb026",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24709",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_Q_FG_Signal"
+  }
+}

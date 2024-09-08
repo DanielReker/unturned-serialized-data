@@ -1,0 +1,10 @@
+{
+  "name": "Ore_Iron",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Resources/Ore_Iron/Ore_Iron.dat",
+  "data": {
+    "GUID": "be03d748d10641e696bcf561320553ad",
+    "Type": "Effect",
+    "ID": "25314"
+  },
+  "translation": null
+}

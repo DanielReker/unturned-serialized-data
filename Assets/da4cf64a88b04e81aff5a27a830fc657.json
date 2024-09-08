@@ -1,0 +1,17 @@
+{
+  "name": "Metro_Box",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Ranger/Metro_Box/Metro_Box.dat",
+  "data": {
+    "GUID": "da4cf64a88b04e81aff5a27a830fc657",
+    "Type": "Supply",
+    "Rarity": "Legendary",
+    "ID": "57472 ",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.35"
+  },
+  "translation": {
+    "Name": "Mysterious Chest",
+    "Description": "Grants ammunition, a weapon, armor and materials upon being unlocked at the <color=#64c819>Floating Island</color>."
+  }
+}

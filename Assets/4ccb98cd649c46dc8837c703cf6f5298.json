@@ -1,0 +1,13 @@
+{
+  "name": "Quad_Purple",
+  "path": "Bundles/Objects/Large/Vehicles/Quad_Purple/Quad_Purple.dat",
+  "data": {
+    "GUID": "4ccb98cd649c46dc8837c703cf6f5298",
+    "Type": "Large",
+    "ID": "447",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Purple Quad"
+  }
+}

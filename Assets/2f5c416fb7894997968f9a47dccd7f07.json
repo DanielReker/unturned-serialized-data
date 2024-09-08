@@ -1,0 +1,12 @@
+{
+  "name": "Facility_Shelf",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Facility_Shelf/Facility_Shelf.dat",
+  "data": {
+    "GUID": "2f5c416fb7894997968f9a47dccd7f07",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Facility_Shelf"
+  }
+}

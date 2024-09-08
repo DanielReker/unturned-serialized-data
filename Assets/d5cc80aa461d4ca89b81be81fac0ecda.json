@@ -1,0 +1,16 @@
+{
+  "name": "Baby6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/Baby6/Baby6.dat",
+  "data": {
+    "GUID": "d5cc80aa461d4ca89b81be81fac0ecda",
+    "Type": "Spawn",
+    "ID": "51207",
+    "Tables": [
+      {
+        "Guid": "305a28e31ba04c9a81389233cf7951c2",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

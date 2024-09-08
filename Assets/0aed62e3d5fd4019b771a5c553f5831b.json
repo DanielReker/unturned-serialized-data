@@ -1,0 +1,26 @@
+{
+  "name": "Report_Back",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Quests/IFR/Report_Back/Asset.dat",
+  "data": {
+    "GUID": "0aed62e3d5fd4019b771a5c553f5831b",
+    "Type": "Quest",
+    "ID": "15304",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "15104",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Flag_Short",
+    "Reward_1_ID": "15002",
+    "Reward_1_Value": "1",
+    "Reward_1_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "Lost in Translation",
+    "Description": "<color=rare>August</color> was in charge of getting the letter back to HQ. However, it seems that the recruit must have gotte infected at an <color=red>IFR</color> base before they passed it to HQ. Find the letter and give it to <color=rare>Quinn</color> at home base.",
+    "Condition_0": "Find out where the letter to HQ is {0}/1"
+  }
+}

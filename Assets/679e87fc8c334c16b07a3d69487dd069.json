@@ -1,0 +1,14 @@
+{
+  "name": "Firm_Weapon_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Firm Matvel/Firm_Weapon_Completed/Asset.dat",
+  "data": {
+    "GUID": "679e87fc8c334c16b07a3d69487dd069",
+    "Type": "Dialogue",
+    "ID": "5059",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Found? Great, give them here. What's on the tip ... <pause> Hold C4. In the Chalet there is a secretory one, look for a wall a little broken, well, there's an explosive ... All yours."
+  }
+}

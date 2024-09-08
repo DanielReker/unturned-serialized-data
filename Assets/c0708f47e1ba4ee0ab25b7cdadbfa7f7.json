@@ -1,0 +1,33 @@
+{
+  "name": "Arid_Box",
+  "path": "Bundles/Items/Boxes/Arid_Box/Arid_Box.dat",
+  "data": {
+    "GUID": "c0708f47e1ba4ee0ab25b7cdadbfa7f7",
+    "Type": "Box",
+    "ID": "1715",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Generate": "21054",
+    "Probability_Model": "Equalized",
+    "Contains_Bonus_Items": "True",
+    "Drops": "16",
+    "Drop_0": "-1",
+    "Drop_1": "92101",
+    "Drop_2": "92201",
+    "Drop_3": "92301",
+    "Drop_4": "92401",
+    "Drop_5": "92501",
+    "Drop_6": "92601",
+    "Drop_7": "92701",
+    "Drop_8": "92801",
+    "Drop_9": "92901",
+    "Drop_10": "93001",
+    "Drop_11": "93101",
+    "Drop_12": "93201",
+    "Drop_13": "93301",
+    "Drop_14": "93401",
+    "Drop_15": "93501",
+    "Pro": ""
+  },
+  "translation": null
+}

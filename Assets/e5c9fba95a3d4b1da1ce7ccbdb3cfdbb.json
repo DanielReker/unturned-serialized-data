@@ -1,0 +1,12 @@
+{
+  "name": "CA_Mansion_Wall_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Mansion_Wall_0/CA_Mansion_Wall_0.dat",
+  "data": {
+    "GUID": "e5c9fba95a3d4b1da1ce7ccbdb3cfdbb",
+    "Type": "Medium",
+    "ID": "4304"
+  },
+  "translation": {
+    "Name": "California Mansion Wall #1"
+  }
+}

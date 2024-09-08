@@ -1,0 +1,32 @@
+{
+  "name": "CA_SV_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Magazines/CA_SV_7/CA_SV_7.dat",
+  "data": {
+    "GUID": "dc7684b127b74876a4695f9bb6607064",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "ID": "4096",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.18",
+    "Amount": "7",
+    "Count_Min": "2",
+    "Count_Max": "6",
+    "Calibers": "1",
+    "Caliber_0": "4097",
+    "Tracer": "48",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "1193",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "4096",
+    "Blueprint_1_Build": "30"
+  },
+  "translation": {
+    "Name": "Esfałka Magazine",
+    "Description": "Ranger grade <color=legendary>Esfałka</color> magazine. Holds 7 high caliber bullets."
+  }
+}

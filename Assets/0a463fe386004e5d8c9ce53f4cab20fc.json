@@ -1,0 +1,13 @@
+{
+  "name": "PS_Cannon_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Cannon_0/PS_Cannon_0.dat",
+  "data": {
+    "GUID": "0a463fe386004e5d8c9ce53f4cab20fc",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59306"
+  },
+  "translation": {
+    "Name": "PS Cannon #1"
+  }
+}

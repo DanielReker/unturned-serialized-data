@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Compost",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Compost/Drop_Compost.dat",
+  "data": {
+    "GUID": "9012ead5c44e457a87b0f7ce3af97926",
+    "Type": "Spawn",
+    "ID": "25517",
+    "Tables": [
+      {
+        "Guid": "09502a6f4ff448138b6b6a931246f382",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

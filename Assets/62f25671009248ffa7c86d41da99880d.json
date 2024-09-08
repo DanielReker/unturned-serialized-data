@@ -1,0 +1,23 @@
+{
+  "name": "Viola_Vest",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Viola_Vest/Viola_Vest.dat",
+  "data": {
+    "GUID": "62f25671009248ffa7c86d41da99880d",
+    "Rarity": "Uncommon",
+    "Type": "Vest",
+    "Useable": "Clothing",
+    "ID": "27035",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.52",
+    "Width": "8",
+    "Height": "8",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Viola_Vest",
+    "Description": "NPC Vest."
+  }
+}

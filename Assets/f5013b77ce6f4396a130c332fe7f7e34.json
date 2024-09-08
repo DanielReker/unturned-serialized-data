@@ -1,0 +1,13 @@
+{
+  "name": "Quarry_Conveyor_0",
+  "path": "Bundles/Objects/Medium/Business/Quarry_Conveyor_0/Quarry_Conveyor_0.dat",
+  "data": {
+    "GUID": "f5013b77ce6f4396a130c332fe7f7e34",
+    "Type": "Medium",
+    "ID": "879",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Quarry Conveyor Belt"
+  }
+}

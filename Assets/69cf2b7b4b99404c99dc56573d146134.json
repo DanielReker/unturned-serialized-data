@@ -1,0 +1,40 @@
+{
+  "name": "BE Plane",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Vehicles/BE Plane/BE Plane.dat",
+  "data": {
+    "GUID": "69cf2b7b4b99404c99dc56573d146134",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "ID": "9006",
+    "Speed_Min": "-4",
+    "Speed_Max": "24",
+    "Steer_Min": "8",
+    "Steer_Max": "32",
+    "Brake": "32",
+    "Lift": "6",
+    "Fuel": "1750",
+    "Health_Min": "600",
+    "Health_Max": "1000",
+    "Health": "800",
+    "LockMouse": "",
+    "Engine": "Plane",
+    "Sleds": "",
+    "Traction": "",
+    "Trunk_Storage_X": "10",
+    "Trunk_Storage_Y": "10",
+    "Explosion": "20",
+    "Invulnerable": "",
+    "Tires_Invulnerable": "",
+    "Turrets": "1",
+    "Turret_0_Seat_Index": "1",
+    "Turret_0_Item_ID": "1394",
+    "Turret_0_Yaw_Min": "-135",
+    "Turret_0_Yaw_Max": "135",
+    "Turret_0_Pitch_Min": "85",
+    "Turret_0_Pitch_Max": "180",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Skyland Plane"
+  }
+}

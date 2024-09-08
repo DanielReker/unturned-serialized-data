@@ -1,0 +1,13 @@
+{
+  "name": "Roadster_Purple",
+  "path": "Bundles/Objects/Large/Vehicles/Roadster_Purple/Roadster_Purple.dat",
+  "data": {
+    "GUID": "cf661f17027646e592c8d547dc0691b0",
+    "Type": "Large",
+    "ID": "185",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Purple Roadster"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Basket_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Business/Easter_Basket_0/Easter_Basket_0.dat",
+  "data": {
+    "GUID": "87c8ebbbae4d427982c6a3f2a358d103",
+    "Type": "Medium",
+    "ID": "6792",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Basket #1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Scaffolding_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Scaffolding_0/PS_Scaffolding_0.dat",
+  "data": {
+    "GUID": "bf441a11ee34481b82033279734706ac",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59192"
+  },
+  "translation": {
+    "Name": "PS Scaffolding #1"
+  }
+}

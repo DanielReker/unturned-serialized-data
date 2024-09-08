@@ -1,0 +1,33 @@
+{
+  "name": "Quest_0_Misc_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_0/Quest_0_Misc_1/Asset.dat",
+  "data": {
+    "GUID": "e28bba6618d84dbf96082ec46d3fd738",
+    "Type": "Quest",
+    "ID": "57597",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "57014",
+    "Condition_0_Value": "4",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Rewards": "4",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "57469 ",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Flag_Bool",
+    "Reward_1_ID": "57015",
+    "Reward_1_Value": "True",
+    "Reward_2_Type": "Experience",
+    "Reward_2_Value": "1",
+    "Reward_3_Type": "Flag_Short",
+    "Reward_3_ID": "57014",
+    "Reward_3_Value": "5",
+    "Reward_3_Modification": "Assign"
+  },
+  "translation": {
+    "Name": "<color=#5383CC>Servant</color>",
+    "Description": "Pick up the badge in the town, visit the floating house, dispose of the floating poster and then destroy all <color=#64c819>4</color> wanted posters.",
+    "Condition_0": "{0}/{1} Wanted Posters",
+    "Reward_2": "Access to Dorms teleporter."
+  }
+}

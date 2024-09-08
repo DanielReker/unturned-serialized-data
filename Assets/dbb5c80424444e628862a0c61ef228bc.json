@@ -1,0 +1,13 @@
+{
+  "name": "Turnstile_1",
+  "path": "Bundles/Objects/Medium/Business/Turnstile_1/Turnstile_1.dat",
+  "data": {
+    "GUID": "dbb5c80424444e628862a0c61ef228bc",
+    "Type": "Medium",
+    "ID": "613",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Turnstile #2"
+  }
+}

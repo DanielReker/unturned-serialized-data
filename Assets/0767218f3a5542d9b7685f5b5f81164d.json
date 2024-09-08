@@ -1,0 +1,23 @@
+{
+  "name": "Easter_Hatch_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Quests/Easter_Hatch_1/Easter_Hatch_1.dat",
+  "data": {
+    "GUID": "0767218f3a5542d9b7685f5b5f81164d",
+    "Type": "Medium",
+    "ID": "6889",
+    "Interactability": "Quest",
+    "Interactability_Effect": "8",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "WeatherExit_0",
+    "Master_Bundle_Override": "easterisland.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/Quests/Easter_Hatch_0",
+    "Exclude_From_Master_Bundle": "",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Hatch #2",
+    "Interact": "Open the Hatch [{0}]"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "France_Note6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Medium/Furniture/France_Note6/France_Note6.dat",
+  "data": {
+    "GUID": "b520c635e18e4902ac516d3a448f6b20",
+    "Type": "Medium",
+    "ID": "35115",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Has_Clip_Prefab": "false",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "France Note - Lost",
+    "Interactability_Text_Line_0": "I thought the gang and I were the only ones out here but I just established a radio and received this distress signal! It appears to be 30 seconds long.",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Iteration 40320 \"Si qui que ce soit puisse entendre ceci, ils sont morts. Veuillez nous aider. Je vais essayer d'aller jusqu'au Verdun. Ils les a tués. Ils les a tués tous.\""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PBS_Wheat_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Trees/PBS_Wheat_0/PBS_Wheat_0.dat",
+  "data": {
+    "GUID": "82065d085e094028969163e215ebdb75",
+    "Type": "Resource",
+    "ID": "51030",
+    "Health": "1000",
+    "Radius": "1",
+    "Scale": "0.1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Wheat"
+  }
+}

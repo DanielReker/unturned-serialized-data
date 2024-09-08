@@ -1,0 +1,17 @@
+{
+  "name": "Frost_Zombie_00_Quest_02_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Zombie_00/Frost_Zombie_00_Quest_02_Return/Asset.dat",
+  "data": {
+    "GUID": "1b272c360100429bb7f022524eb4dab7",
+    "Type": "Dialogue",
+    "ID": "36194",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "36185"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=#d2bf22>Executioner III</color> <color=#64c819>Completed</color>",
+    "Response_0": "Continue"
+  }
+}

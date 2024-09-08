@@ -1,0 +1,16 @@
+{
+  "name": "26310KEVSD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26310KEVD/26310KEVSD/Asset.dat",
+  "data": {
+    "GUID": "133e0151e93f4793b23ba3c0b9a6c517",
+    "Type": "Dialogue",
+    "ID": "26310",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<i>They're sleeping soundly.</i>",
+    "Response_0": "Sleep well."
+  }
+}

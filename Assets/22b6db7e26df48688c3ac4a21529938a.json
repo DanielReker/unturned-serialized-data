@@ -1,0 +1,26 @@
+{
+  "name": "Mag_Jimmy_Rifle_Icon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Misc/Gun_Icons/Mag_Jimmy_Rifle_Icon/Mag_Jimmy_Rifle_Icon.dat",
+  "data": {
+    "GUID": "22b6db7e26df48688c3ac4a21529938a",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "ID": "27514",
+    "Use_Auto_Icon_Measurements": "False",
+    "Bundle_Override_Path": "/Items/Magazines/Mag_Jimmy_Rifle",
+    "Pro": "",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Amount": "5",
+    "Count_Min": "1",
+    "Count_Max": "5",
+    "Calibers": "1",
+    "Caliber_0": "25308",
+    "Tracer": "51"
+  },
+  "translation": {
+    "Name": "Rifle Magazine (5RD)",
+    "Description": "Magazine for rifles, Jimmy approved."
+  }
+}

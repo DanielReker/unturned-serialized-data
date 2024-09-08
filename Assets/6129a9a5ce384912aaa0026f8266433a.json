@@ -1,0 +1,12 @@
+{
+  "name": "PD_Station 2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/PD_Station 2/PD_Station 2.dat",
+  "data": {
+    "GUID": "6129a9a5ce384912aaa0026f8266433a",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS PD Station 2"
+  }
+}

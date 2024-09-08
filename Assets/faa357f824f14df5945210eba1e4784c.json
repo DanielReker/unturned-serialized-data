@@ -1,0 +1,15 @@
+{
+  "name": "CQT",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/3/D/29040KC1D/CQT/Asset.dat",
+  "data": {
+    "GUID": "faa357f824f14df5945210eba1e4784c",
+    "Type": "Dialogue",
+    "ID": "29043",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "29041"
+  },
+  "translation": {
+    "Message_0_Page_0": "Bring it fast! My mouth is parched!"
+  }
+}

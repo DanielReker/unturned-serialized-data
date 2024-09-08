@@ -1,0 +1,16 @@
+{
+  "name": "Median_Line",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Roads/Median/Median_Line/Median_Line.dat",
+  "data": {
+    "GUID": "e21e83a79719481a9b02c70a559098a1",
+    "Type": "Large",
+    "ID": "35011",
+    "Soft": "",
+    "Chart": "Street",
+    "Collision_Important": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Median Line #1"
+  }
+}

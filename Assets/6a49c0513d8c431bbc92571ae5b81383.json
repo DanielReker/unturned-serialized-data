@@ -1,0 +1,13 @@
+{
+  "name": "PS_Netting_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Netting_0/PS_Netting_0.dat",
+  "data": {
+    "GUID": "6a49c0513d8c431bbc92571ae5b81383",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59227"
+  },
+  "translation": {
+    "Name": "PS Netting #1"
+  }
+}

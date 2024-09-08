@@ -1,0 +1,18 @@
+{
+  "name": "Buak_Toolbox_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Furniture/Buak_Toolbox_01/Buak_Toolbox_01.dat",
+  "data": {
+    "GUID": "d8d9d1ac0b0d45f18c2d6891d55f037c",
+    "Type": "Medium",
+    "ID": "25300",
+    "Interactability": "Dropper",
+    "Interactability_Delay": "720",
+    "Interactability_Hint": "Use",
+    "Interactability_Reward_ID": "25306",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Toolbox_01"
+  }
+}

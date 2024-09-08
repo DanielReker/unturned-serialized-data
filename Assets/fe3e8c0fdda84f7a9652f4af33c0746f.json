@@ -1,0 +1,20 @@
+{
+  "name": "Note_Rio13",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Note_Rio13/Note_Rio13.dat",
+  "data": {
+    "GUID": "fe3e8c0fdda84f7a9652f4af33c0746f",
+    "Type": "Medium",
+    "ID": "7121",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "4",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Note - World Paper News #4",
+    "Interactability_Text_Line_0": "World Paper News",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Yesterday, August 20th, an Internationals football game was interrupted in the middle of the broadcast due to a mass riot in the Maracanã Stadium. According to viewers, the cause of the riot was a group of heavily violent people that began to attack their surroudings.",
+    "Interactability_Text_Line_3": "The government has issued a public statement to not head to Rio De Janeiro until the situation is resolved, and for residents to leave to nearby towns."
+  }
+}

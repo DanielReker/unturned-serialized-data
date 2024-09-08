@@ -1,0 +1,23 @@
+{
+  "name": "Eggs",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Food/Eggs/Eggs.dat",
+  "data": {
+    "GUID": "b61d09271cbc410dab408b47979e4495",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "5217",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.15",
+    "Quality_Max": "50",
+    "Food": "20",
+    "Water": "20",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Eggs",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Eggs",
+    "Description": "Chicken eggs ready for the frying pan.<br><color=#AB8019>+20 Food</color><br><color=#3298C8>+20 Water</color>"
+  }
+}

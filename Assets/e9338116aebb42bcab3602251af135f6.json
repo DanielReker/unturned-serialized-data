@@ -1,0 +1,13 @@
+{
+  "name": "BE_Dragon_Mage_Top",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Cosmetics/BE_Dragon_Mage_Top/BE_Dragon_Mage_Top.dat",
+  "data": {
+    "GUID": "e9338116aebb42bcab3602251af135f6",
+    "Type": "Shirt",
+    "ID": "1538",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6"
+  },
+  "translation": null
+}

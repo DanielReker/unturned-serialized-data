@@ -1,0 +1,34 @@
+{
+  "name": "PS_Trader_5_Vendor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_5_Dialogue/PS_Trader_5_Vendor/Asset.dat",
+  "data": {
+    "GUID": "dca22e9566db483e8e7433f7b1764ae0",
+    "Type": "Vendor",
+    "ID": "59126",
+    "Buying": "9",
+    "Buying_0_ID": "59619   ",
+    "Buying_0_Cost": "20",
+    "Buying_1_ID": "59039   ",
+    "Buying_1_Cost": "30",
+    "Buying_2_ID": "59621  ",
+    "Buying_2_Cost": "100",
+    "Buying_3_ID": "59618   ",
+    "Buying_3_Cost": "100",
+    "Buying_4_ID": "59613",
+    "Buying_4_Cost": "150",
+    "Buying_5_ID": "59622   ",
+    "Buying_5_Cost": "750",
+    "Buying_6_ID": "59342",
+    "Buying_6_Cost": "1000",
+    "Buying_7_ID": "59512    ",
+    "Buying_7_Cost": "1000",
+    "Buying_8_ID": "59706   ",
+    "Buying_8_Cost": "1000",
+    "Selling": "0",
+    "Disable_Sorting": ""
+  },
+  "translation": {
+    "Name": "Military Surplus",
+    "Description": "He buys it all."
+  }
+}

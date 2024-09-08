@@ -1,0 +1,15 @@
+{
+  "name": "IR_Bush_Jazz",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Trees/IR_Bush_Jazz/IR_Bush_Jazz.dat",
+  "data": {
+    "GUID": "48b07b2f51ea41be928746503b33faea",
+    "Type": "Resource",
+    "ID": "15423",
+    "Health": "1000",
+    "Radius": "3",
+    "Scale": "0.1"
+  },
+  "translation": {
+    "Name": "Irish Bush Jazz#1"
+  }
+}

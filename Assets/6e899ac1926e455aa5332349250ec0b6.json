@@ -1,0 +1,35 @@
+{
+  "name": "Sign_Wooden",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Sign_Wooden/Sign_Wooden.dat",
+  "data": {
+    "GUID": "6e899ac1926e455aa5332349250ec0b6",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Sign",
+    "ID": "52160",
+    "SalvageItem": "6e899ac1926e455aa5332349250ec0b6",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Health": "300",
+    "Range": "4",
+    "Radius": "0.5",
+    "Offset": "1.25",
+    "Locked": "",
+    "Vulnerable": "",
+    "Explosion": "29",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51023",
+    "Blueprint_0_Supply_0_Amount": "6",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Wooden Sign",
+    "Description": "Wooden sign coupled with colorful markers."
+  }
+}

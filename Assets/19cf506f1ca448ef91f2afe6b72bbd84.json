@@ -1,0 +1,12 @@
+{
+  "name": "Carpat_Firewood_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Objects/Medium/Carpat_Firewood_01/Carpat_Firewood_01.dat",
+  "data": {
+    "GUID": "19cf506f1ca448ef91f2afe6b72bbd84",
+    "Type": "Medium",
+    "ID": "23136"
+  },
+  "translation": {
+    "Name": "Carpat Firewood #1"
+  }
+}

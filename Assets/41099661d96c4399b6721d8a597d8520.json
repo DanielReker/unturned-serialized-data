@@ -1,0 +1,17 @@
+{
+  "name": "Boulderwall",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Boulderwall/Boulderwall.dat",
+  "data": {
+    "GUID": "41099661d96c4399b6721d8a597d8520",
+    "Type": "Large",
+    "ID": "51000",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Has_Clip_Prefab": "false",
+    "Allow_Structures": ""
+  },
+  "translation": {
+    "Name": "PBS Boulder wall"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Military_Low_Melee",
+  "path": "Bundles/Spawns/Items/Military_Low_Melee/Military_Low_Melee.dat",
+  "data": {
+    "GUID": "4b1a74cf2c924d21a66d260c40eb4703",
+    "Type": "Spawn",
+    "ID": "649",
+    "Tables": "1",
+    "Table_0_Asset_ID": "121",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

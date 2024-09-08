@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Bed_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Bed_3/Metro_Bed_3.dat",
+  "data": {
+    "GUID": "92f8c495b6c641cea085d377c2f14cee",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57153",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Bed #4"
+  }
+}

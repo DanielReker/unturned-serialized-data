@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Bossfight_9",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_Bossfight_9/Metro_Bossfight_9.dat",
+  "data": {
+    "GUID": "d31c7a15f5314d55ab9edf6452a5e149",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "58202"
+  },
+  "translation": {
+    "Name": "Metro Bossfight #10"
+  }
+}

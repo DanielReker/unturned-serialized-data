@@ -1,0 +1,13 @@
+{
+  "name": "Renaxon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Plaques/Renaxon/Renaxon.dat",
+  "data": {
+    "GUID": "57342b82f4184e23b60e34401cfad4e2",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Plaque Renaxon"
+  }
+}

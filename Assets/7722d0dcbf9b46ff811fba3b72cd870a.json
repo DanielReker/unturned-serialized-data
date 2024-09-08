@@ -1,0 +1,18 @@
+{
+  "name": "25285KDDV",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/4/V/25285KDDV/Asset.dat",
+  "data": {
+    "GUID": "7722d0dcbf9b46ff811fba3b72cd870a",
+    "Type": "Vendor",
+    "ID": "25285",
+    "Buying": "0",
+    "Selling": "1",
+    "Selling_0_ID": "5152 ",
+    "Selling_0_Cost": "10000",
+    "Currency": "b76b37b2d40c4054b850458e135408c6"
+  },
+  "translation": {
+    "Name": "Divine Duneman's Wares",
+    "Description": "Just what you need to defeat anything, guaranteed!"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Truck_Purple",
+  "path": "Bundles/Objects/Large/Vehicles/Truck_Purple/Truck_Purple.dat",
+  "data": {
+    "GUID": "88802f71208445489159c61ca809f510",
+    "Type": "Large",
+    "ID": "193",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Purple Truck"
+  }
+}

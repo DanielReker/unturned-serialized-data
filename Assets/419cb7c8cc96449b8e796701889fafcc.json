@@ -1,0 +1,14 @@
+{
+  "name": "Lorenzo_Fire_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Crew/Corporal_Lorenzo/Lorenzo_Fire_Accepted/Asset.dat",
+  "data": {
+    "GUID": "419cb7c8cc96449b8e796701889fafcc",
+    "Type": "Dialogue",
+    "ID": "9234",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Cool. Ha, literally."
+  }
+}

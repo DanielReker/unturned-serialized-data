@@ -1,0 +1,18 @@
+{
+  "name": "Frost_Infected_01_Quest_00_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Infected_01/Frost_Infected_01_Quest_00_Return/Asset.dat",
+  "data": {
+    "GUID": "534450af5ba3424aa75350ca4e3c594a",
+    "Type": "Dialogue",
+    "ID": "36054",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Responses": "1",
+    "Response_0_Dialogue": "36053"
+  },
+  "translation": {
+    "Message_0_Page_0": "My friend.",
+    "Message_0_Page_1": "Thank you.",
+    "Response_0": "..."
+  }
+}

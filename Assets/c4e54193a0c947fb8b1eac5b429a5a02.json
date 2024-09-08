@@ -1,0 +1,18 @@
+{
+  "name": "Square_Porcelain",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Carpets/Square_Porcelain/Square_Porcelain.dat",
+  "data": {
+    "GUID": "c4e54193a0c947fb8b1eac5b429a5a02",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "37",
+    "Rubble_Reward_ID": "51226"
+  },
+  "translation": {
+    "Name": "PBS Carpet Square Porcelain White"
+  }
+}

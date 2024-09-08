@@ -1,0 +1,12 @@
+{
+  "name": "Painting_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Small/Furniture/Painting_3/Painting_3.dat",
+  "data": {
+    "GUID": "b87972f4b4c2446d90792864c4f129d4",
+    "Type": "Small",
+    "ID": "35309"
+  },
+  "translation": {
+    "Name": "France Painting #4"
+  }
+}

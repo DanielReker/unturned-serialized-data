@@ -1,0 +1,11 @@
+{
+  "name": "Shroomy_Shirt",
+  "path": "Bundles/Items/Outfits/Shroomy/Shroomy_Shirt/Shroomy_Shirt.dat",
+  "data": {
+    "GUID": "efd844c94cd74d118abd1e38f637b2fc",
+    "Type": "Shirt",
+    "Pro": "",
+    "Ignore_NPOT": ""
+  },
+  "translation": null
+}

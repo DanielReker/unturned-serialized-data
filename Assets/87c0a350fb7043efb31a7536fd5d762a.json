@@ -1,0 +1,14 @@
+{
+  "name": "28554KVQ",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28551KRBVD/28554KVQ/Asset.dat",
+  "data": {
+    "GUID": "87c0a350fb7043efb31a7536fd5d762a",
+    "Type": "Dialogue",
+    "ID": "28554",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm <name_npc>. Here to grow some food for the survivors."
+  }
+}

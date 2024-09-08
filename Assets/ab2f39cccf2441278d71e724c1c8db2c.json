@@ -1,0 +1,33 @@
+{
+  "name": "Terrya_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/03/Terrya_03/Asset.dat",
+  "data": {
+    "GUID": "ab2f39cccf2441278d71e724c1c8db2c",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "4b5340d8442147ddb43a3ee421876964",
+    "Shirt": "885ef191c16f4455b9e12dfa54cf19fa",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "Face": "6",
+    "Hair": "4",
+    "Color_Skin": "#F4E6D2",
+    "Color_Hair": "#161616",
+    "Pose": "Sit",
+    "Tertiary": "d6005e7d314d43ee897c704722ba9535",
+    "Equipped": "Tertiary",
+    "Dialogue": "77fe9c5c66254a489726cae48db61f99",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24786",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Terrya_03",
+    "Character": "<color=legendary>Terrya</color>"
+  }
+}

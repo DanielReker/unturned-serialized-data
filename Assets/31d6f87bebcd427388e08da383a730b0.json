@@ -1,0 +1,15 @@
+{
+  "name": "Graffiti_6",
+  "path": "Bundles/Objects/Small/Overgrowth/Graffiti_6/Graffiti_6.dat",
+  "data": {
+    "GUID": "31d6f87bebcd427388e08da383a730b0",
+    "Type": "Decal",
+    "ID": "737",
+    "Decal_X": "3",
+    "Decal_Y": "3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Graffiti #7"
+  }
+}

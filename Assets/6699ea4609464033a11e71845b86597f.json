@@ -1,0 +1,41 @@
+{
+  "name": "Singer_Backpacks",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Vendors/Singer_Backpacks/Asset.dat",
+  "data": {
+    "GUID": "6699ea4609464033a11e71845b86597f",
+    "Type": "Vendor",
+    "ID": "52739",
+    "Disable_Sorting": "",
+    "Selling": "5",
+    "Selling_0_ID": "51988",
+    "Selling_0_Cost": "125",
+    "Selling_0_Rewards": "1",
+    "Selling_0_Reward_0_Type": "Rewards_List_Asset",
+    "Selling_0_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
+    "Selling_1_ID": "51989",
+    "Selling_1_Cost": "125",
+    "Selling_1_Rewards": "1",
+    "Selling_1_Reward_0_Type": "Rewards_List_Asset",
+    "Selling_1_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
+    "Selling_2_ID": "51990",
+    "Selling_2_Cost": "125",
+    "Selling_2_Rewards": "1",
+    "Selling_2_Reward_0_Type": "Rewards_List_Asset",
+    "Selling_2_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
+    "Selling_3_ID": "51991",
+    "Selling_3_Cost": "125",
+    "Selling_3_Rewards": "1",
+    "Selling_3_Reward_0_Type": "Rewards_List_Asset",
+    "Selling_3_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
+    "Selling_4_ID": "51992",
+    "Selling_4_Cost": "125",
+    "Selling_4_Rewards": "1",
+    "Selling_4_Reward_0_Type": "Rewards_List_Asset",
+    "Selling_4_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
+    "Currency": "561f74cdccdf48abaa6d49343b56aab0"
+  },
+  "translation": {
+    "Name": "Singer's Styles",
+    "Description": "Get some stylish threads on."
+  }
+}

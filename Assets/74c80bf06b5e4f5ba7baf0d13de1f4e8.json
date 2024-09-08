@@ -1,0 +1,24 @@
+{
+  "name": "Buak_Hellos",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Material_Palettes/Buak_Hellos.asset",
+  "data": {
+    "GUID": "74c80bf06b5e4f5ba7baf0d13de1f4e8",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Hellos/Buak_Hello_00.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Hellos/Buak_Hello_01.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Hellos/Buak_Hello_02.mat"
+      }
+    ]
+  },
+  "translation": null
+}

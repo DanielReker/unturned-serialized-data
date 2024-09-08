@@ -1,0 +1,11 @@
+{
+  "name": "CivilianSupplies",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Civilian/CivilianSupplies/CivilianSupplies.dat",
+  "data": {
+    "GUID": "5b81403479ea4421a3f504276afca5d3",
+    "Type": "Spawn",
+    "ID": "51128",
+    "Tables": []
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PS_Debris_Chunks_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Debris_Chunks_2/PS_Debris_Chunks_2.dat",
+  "data": {
+    "GUID": "b2deab24cc4c4590b4102370255099f2",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "60025",
+    "Material_Palette": "22258ceb1349401aa8adf44d9c9cd694"
+  },
+  "translation": {
+    "Name": "PS Debris Chunks #3"
+  }
+}

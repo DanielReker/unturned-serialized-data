@@ -1,0 +1,12 @@
+{
+  "name": "Roomy_BWTY_PORANGE",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Vehicles/Redirectors/Roomy_BWT/Roomy_BWTY_PORANGE.asset",
+  "data": {
+    "GUID": "5abece7bcf3540319ad6cfbf3eba1aa5",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "25362",
+    "TargetVehicle": "092bed840ad3497f84e17ba7a680dee8",
+    "LoadPaintColor": "#B67D4A"
+  },
+  "translation": null
+}

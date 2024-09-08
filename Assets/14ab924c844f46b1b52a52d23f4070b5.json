@@ -1,0 +1,13 @@
+{
+  "name": "PS_Graffiti_57",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Graffiti_57/PS_Graffiti_57.dat",
+  "data": {
+    "GUID": "14ab924c844f46b1b52a52d23f4070b5",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60007"
+  },
+  "translation": {
+    "Name": "PS Graffiti #58 [Wind Of Change]"
+  }
+}

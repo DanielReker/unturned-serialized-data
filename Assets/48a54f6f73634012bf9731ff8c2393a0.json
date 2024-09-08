@@ -1,0 +1,13 @@
+{
+  "name": "French_Lecture_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/French_Lecture/French_Lecture_1/French_Lecture_1.dat",
+  "data": {
+    "GUID": "48a54f6f73634012bf9731ff8c2393a0",
+    "Type": "Large",
+    "ID": "35022",
+    "LOD": "Mesh"
+  },
+  "translation": {
+    "Name": "French Lecture #1"
+  }
+}

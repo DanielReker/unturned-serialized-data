@@ -1,0 +1,14 @@
+{
+  "name": "Lobby_0",
+  "path": "Bundles/Objects/Large/Buildings/Lobby_0/Lobby_0.dat",
+  "data": {
+    "GUID": "dff986177ba644c297bdf62a3b9a50d6",
+    "Type": "Large",
+    "ID": "491",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Lobby #1"
+  }
+}

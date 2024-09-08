@@ -1,0 +1,10 @@
+{
+  "name": "Ore_Stone",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Resources/Ore_Stone/Ore_Stone.dat",
+  "data": {
+    "GUID": "58364174a7a24d48bf5492a324b5d5b2",
+    "Type": "Effect",
+    "ID": "25315"
+  },
+  "translation": null
+}

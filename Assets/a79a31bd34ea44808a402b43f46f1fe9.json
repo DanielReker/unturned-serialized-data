@@ -1,0 +1,14 @@
+{
+  "name": "GreeceFactory_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceFactory_0/GreeceFactory_0.dat",
+  "data": {
+    "GUID": "a79a31bd34ea44808a402b43f46f1fe9",
+    "Type": "Large",
+    "ID": "6239",
+    "Soft": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Factory #1"
+  }
+}

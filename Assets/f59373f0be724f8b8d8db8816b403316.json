@@ -1,0 +1,16 @@
+{
+  "name": "Buak_Bridge_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_Bridge_00/Buak_Bridge_00.dat",
+  "data": {
+    "GUID": "f59373f0be724f8b8d8db8816b403316",
+    "Type": "Large",
+    "ID": "25300",
+    "Soft": "",
+    "Chart": "Highway",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Bridge_00"
+  }
+}

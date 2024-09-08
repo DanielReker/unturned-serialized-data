@@ -1,0 +1,33 @@
+{
+  "name": "Jeans_Outfit",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Clothes/Pants/Jeans_Outfit/Jeans_Outfit.dat",
+  "data": {
+    "GUID": "ca36cea9c91b4544a51428efd222d25b",
+    "Type": "Pants",
+    "Useable": "Clothing",
+    "ID": "5678",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Width": "5",
+    "Height": "3",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "5678",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "32",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Pants/Jeans_Outfit"
+  },
+  "translation": {
+    "Name": "Outfit Jeans",
+    "Description": "Denim day-to-day pants.<br><color=#FF69B4>+15 Slots</color><br><color=#b8b188>+5% Armour</color>"
+  }
+}

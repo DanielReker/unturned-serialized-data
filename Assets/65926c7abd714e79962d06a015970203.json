@@ -1,0 +1,14 @@
+{
+  "name": "PS_LAW_Boom_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Explosions/PS_LAW_Boom_0/PS_LAW_Boom_0.dat",
+  "data": {
+    "GUID": "65926c7abd714e79962d06a015970203",
+    "Type": "Effect",
+    "ID": "59075",
+    "Blast": "137",
+    "Relevant_Distance": "3000",
+    "CameraShake_Radius": "32",
+    "CameraShake_MagnitudeDegrees": "50"
+  },
+  "translation": null
+}

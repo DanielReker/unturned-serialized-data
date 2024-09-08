@@ -1,0 +1,12 @@
+{
+  "name": "CA_Menu_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Menu_0/CA_Menu_0.dat",
+  "data": {
+    "GUID": "8116dbaed4eb49e7b5be16ad2a3c3676",
+    "Type": "Medium",
+    "ID": "4658"
+  },
+  "translation": {
+    "Name": "California Menu #1"
+  }
+}

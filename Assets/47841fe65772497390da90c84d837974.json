@@ -1,0 +1,16 @@
+{
+  "name": "Water Crate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Water Crate/Water Crate.dat",
+  "data": {
+    "GUID": "47841fe65772497390da90c84d837974",
+    "Type": "Medium",
+    "ID": "51000",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Water Crate"
+  }
+}

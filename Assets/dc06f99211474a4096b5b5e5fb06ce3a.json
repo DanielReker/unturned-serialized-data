@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Metal_Chair",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Metal_Chair/Obj_Metal_Chair.dat",
+  "data": {
+    "GUID": "dc06f99211474a4096b5b5e5fb06ce3a",
+    "Type": "Effect",
+    "ID": "25477"
+  },
+  "translation": null
+}

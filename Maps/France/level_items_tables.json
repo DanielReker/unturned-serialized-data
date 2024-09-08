@@ -1,0 +1,362 @@
+[
+  {
+    "name": "France_Police_Low_France",
+    "tableID": 2073,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "France_Police_High_France",
+    "tableID": 2078,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.596078455
+    }
+  },
+  {
+    "name": "France_Fire",
+    "tableID": 2068,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Airport_France",
+    "tableID": 2067,
+    "tiers": [],
+    "color": {
+      "r": 0.905882359,
+      "g": 0.7176471,
+      "b": 0.6313726
+    }
+  },
+  {
+    "name": "France_Civilian_France",
+    "tableID": 2065,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "France_Cheese_Factory",
+    "tableID": 2057,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.8117647,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Military_Low_France",
+    "tableID": 2084,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Military_High_France",
+    "tableID": 2089,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.509803951,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Medic",
+    "tableID": 2030,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "France_School",
+    "tableID": 2028,
+    "tiers": [],
+    "color": {
+      "r": 0.419607848,
+      "g": 0.298039228,
+      "b": 0.533333361
+    }
+  },
+  {
+    "name": "France_Kitchen",
+    "tableID": 2027,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.458823532
+    }
+  },
+  {
+    "name": "France_Prison",
+    "tableID": 2023,
+    "tiers": [],
+    "color": {
+      "r": 0.5372549,
+      "g": 0.596078455,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "France_Post",
+    "tableID": 2022,
+    "tiers": [],
+    "color": {
+      "r": 0.5372549,
+      "g": 0.443137258,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Food",
+    "tableID": 2021,
+    "tiers": [],
+    "color": {
+      "r": 0.384313732,
+      "g": 0.286274523,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Farm",
+    "tableID": 2016,
+    "tiers": [],
+    "color": {
+      "r": 0.545098066,
+      "g": 0.5647059,
+      "b": 0.466666669
+    }
+  },
+  {
+    "name": "France_Chef",
+    "tableID": 2011,
+    "tiers": [],
+    "color": {
+      "r": 0.423529416,
+      "g": 0.3372549,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Camp",
+    "tableID": 2007,
+    "tiers": [],
+    "color": {
+      "r": 0.286274523,
+      "g": 0.172549024,
+      "b": 0.152941182
+    }
+  },
+  {
+    "name": "France_Cloth",
+    "tableID": 2003,
+    "tiers": [],
+    "color": {
+      "r": 0.7764706,
+      "g": 0.745098054,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "France_Botanist",
+    "tableID": 2002,
+    "tiers": [],
+    "color": {
+      "r": 0.784313738,
+      "g": 1.0,
+      "b": 0.670588255
+    }
+  },
+  {
+    "name": "France_Construction",
+    "tableID": 2001,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.5058824,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Gas",
+    "tableID": 2029,
+    "tiers": [],
+    "color": {
+      "r": 0.4117647,
+      "g": 0.4392157,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Special_Low_France",
+    "tableID": 2098,
+    "tiers": [],
+    "color": {
+      "r": 0.333333343,
+      "g": 0.3647059,
+      "b": 0.392156869
+    }
+  },
+  {
+    "name": "France_Special_High_France",
+    "tableID": 2105,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_German_Border_France",
+    "tableID": 2106,
+    "tiers": [],
+    "color": {
+      "r": 0.384313732,
+      "g": 0.431372553,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_GIGN_Low_France",
+    "tableID": 2112,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.4392157,
+      "b": 0.490196079
+    }
+  },
+  {
+    "name": "France_GIGN_High_France",
+    "tableID": 2119,
+    "tiers": [],
+    "color": {
+      "r": 0.2784314,
+      "g": 0.203921571,
+      "b": 0.286274523
+    }
+  },
+  {
+    "name": "France_Security_France",
+    "tableID": 2123,
+    "tiers": [],
+    "color": {
+      "r": 0.8,
+      "g": 0.8039216,
+      "b": 0.8039216
+    }
+  },
+  {
+    "name": "France_Beach",
+    "tableID": 2124,
+    "tiers": [],
+    "color": {
+      "r": 0.7607843,
+      "g": 0.698039234,
+      "b": 0.5019608
+    }
+  },
+  {
+    "name": "France_Mine",
+    "tableID": 2125,
+    "tiers": [],
+    "color": {
+      "r": 0.5372549,
+      "g": 0.533333361,
+      "b": 0.5568628
+    }
+  },
+  {
+    "name": "France_Milita_France",
+    "tableID": 2157,
+    "tiers": [],
+    "color": {
+      "r": 0.5176471,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "France_Milita_Special_France",
+    "tableID": 2163,
+    "tiers": [],
+    "color": {
+      "r": 0.333333343,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "RULA_Canteen",
+    "tableID": 2167,
+    "tiers": [],
+    "color": {
+      "r": 0.105882354,
+      "g": 0.533333361,
+      "b": 0.5058824
+    }
+  },
+  {
+    "name": "RULA_Hydroponics",
+    "tableID": 2173,
+    "tiers": [],
+    "color": {
+      "r": 0.145098045,
+      "g": 0.670588255,
+      "b": 0.2509804
+    }
+  },
+  {
+    "name": "RULA_Quarters",
+    "tableID": 2175,
+    "tiers": [],
+    "color": {
+      "r": 0.109803922,
+      "g": 0.223529413,
+      "b": 0.5254902
+    }
+  },
+  {
+    "name": "FOCUS_Weaponry",
+    "tableID": 2179,
+    "tiers": [],
+    "color": {
+      "r": 0.117647059,
+      "g": 0.117647059,
+      "b": 0.117647059
+    }
+  },
+  {
+    "name": "Ranger_Higest",
+    "tableID": 2184,
+    "tiers": [],
+    "color": {
+      "r": 0.5568628,
+      "g": 0.5568628,
+      "b": 0.5568628
+    }
+  }
+]

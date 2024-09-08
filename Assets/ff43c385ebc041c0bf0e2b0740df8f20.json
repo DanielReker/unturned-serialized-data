@@ -1,0 +1,15 @@
+{
+  "name": "Green",
+  "path": "Bundles/Skins/Patterns/Green/Green.dat",
+  "data": {
+    "GUID": "ff43c385ebc041c0bf0e2b0740df8f20",
+    "Type": "Skin",
+    "ID": "80",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Pattern": ""
+  },
+  "translation": null
+}

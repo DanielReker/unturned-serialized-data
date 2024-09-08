@@ -1,0 +1,16 @@
+{
+  "name": "Field",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/Field/Field.dat",
+  "data": {
+    "GUID": "e0d4c44494ce4eb4ba3ba61fd4198858",
+    "Type": "Spawn",
+    "ID": "51245",
+    "Tables": [
+      {
+        "Guid": "183d1dccd10b4aeaa101106ba98774ab",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

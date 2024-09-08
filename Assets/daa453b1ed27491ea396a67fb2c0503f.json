@@ -1,0 +1,17 @@
+{
+  "name": "Camera_0",
+  "path": "Bundles/Objects/Small/Furniture/Camera_0/Camera_0.dat",
+  "data": {
+    "GUID": "daa453b1ed27491ea396a67fb2c0503f",
+    "Type": "Small",
+    "ID": "339",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "60",
+    "Interactability_Health": "1",
+    "Interactability_Effect": "61",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Camera #1"
+  }
+}

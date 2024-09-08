@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait_ATM_Screen_9-2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Utilities/Kuwait_ATM_Screen_9-2/Kuwait_ATM_Screen_9-2.dat",
+  "data": {
+    "GUID": "9726e4c6d1fe4ef190dfd7094dab2338",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5999",
+    "Master_Bundle_Override": "kuwait.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/Utilities/Kuwait_ATM_Screen_9",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "27478",
+    "Condition_0_Value": "9",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Kuwait ATM Screen #9-2"
+  }
+}

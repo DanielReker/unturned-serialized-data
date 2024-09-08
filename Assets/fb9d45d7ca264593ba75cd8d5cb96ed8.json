@@ -1,0 +1,22 @@
+{
+  "name": "Admiral_Tyler",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Admiral_Tyler/Asset.dat",
+  "data": {
+    "GUID": "fb9d45d7ca264593ba75cd8d5cb96ed8",
+    "Type": "NPC",
+    "ID": "2122",
+    "Shirt": "1462",
+    "Pants": "1463",
+    "Mask": "1446",
+    "Secondary": "99",
+    "Face": "13",
+    "Hair": "17",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#47351E",
+    "Dialogue": "2123"
+  },
+  "translation": {
+    "Name": "Admiral Tyler",
+    "Character": "<color=legendary>Admiral Tyler</color>"
+  }
+}

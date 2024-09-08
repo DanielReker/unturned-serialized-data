@@ -1,0 +1,25 @@
+{
+  "name": "Kuwait_Armour_Dismantled",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Small/Quests/Kuwait_Armour_Dismantled/Kuwait_Armour_Dismantled.dat",
+  "data": {
+    "GUID": "3a58e85e345f4be88c0867b3ec668d04",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "5058",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "28006",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "28006",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Kuwait Armour #1 (QUEST ITEM)",
+    "Interact": "Pickup Armour Fragments[{0}]"
+  }
+}

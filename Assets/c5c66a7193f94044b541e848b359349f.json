@@ -1,0 +1,17 @@
+{
+  "name": "Buak_Water_Dispenser_Water",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Water_Dispenser_Water/Buak_Water_Dispenser_Water.dat",
+  "data": {
+    "GUID": "c5c66a7193f94044b541e848b359349f",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Water",
+    "Interactability_Reset": "600",
+    "Interactability_Resource": "1"
+  },
+  "translation": {
+    "Name": "Buak_Water_Dispenser_Water"
+  }
+}

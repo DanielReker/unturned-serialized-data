@@ -1,0 +1,15 @@
+{
+  "name": "Metro_Ranger_Grips",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Ranger/Metro_Ranger_Grips/Metro_Ranger_Grips.dat",
+  "data": {
+    "GUID": "657eebafe59246e5be2b848e0654166a",
+    "Type": "Spawn",
+    "ID": "57058",
+    "Tables": "2",
+    "Table_0_Asset_ID": "57052",
+    "Table_0_Weight": "1",
+    "Table_1_Asset_ID": "57141",
+    "Table_1_Weight": "1"
+  },
+  "translation": null
+}

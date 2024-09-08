@@ -1,0 +1,34 @@
+{
+  "name": "Hat_Top",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Hats/Hat_Top/Hat_Top.dat",
+  "data": {
+    "GUID": "f505de1606b840f6b48a6718d5843b0f",
+    "Rarity": "Uncommon",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "26680",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.42",
+    "Use_Auto_Icon_Measurements": "False",
+    "WearAudio": "Sounds/Clothes/Clothes.asset",
+    "Beard": "",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26680",
+    "Blueprint_0_Product": "25300",
+    "Blueprint_0_Products": "4",
+    "Blueprint_0_Build": "25535",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25300",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Build": "25534",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Top Hat",
+    "Description": "Top of the line when it comes to hats."
+  }
+}

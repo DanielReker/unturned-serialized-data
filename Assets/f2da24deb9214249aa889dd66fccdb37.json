@@ -1,0 +1,13 @@
+{
+  "name": "Canal_Line_Cap",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Roads/Canal/Canal_Line_Cap/Canal_Line_Cap.dat",
+  "data": {
+    "GUID": "f2da24deb9214249aa889dd66fccdb37",
+    "Type": "Large",
+    "ID": "35038",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Canal Line Cap"
+  }
+}

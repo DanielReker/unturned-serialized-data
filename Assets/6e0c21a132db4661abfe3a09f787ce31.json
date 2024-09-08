@@ -1,0 +1,23 @@
+{
+  "name": "Carter_Shirt",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Carter_Shirt/Carter_Shirt.dat",
+  "data": {
+    "GUID": "6e0c21a132db4661abfe3a09f787ce31",
+    "Rarity": "Uncommon",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "27016",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "8",
+    "Height": "4",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Carter_Shirt",
+    "Description": "NPC Shirt."
+  }
+}

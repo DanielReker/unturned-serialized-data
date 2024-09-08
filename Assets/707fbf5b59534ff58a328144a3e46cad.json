@@ -1,0 +1,13 @@
+{
+  "name": "CA_Cache_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Cache_0/CA_Cache_0.dat",
+  "data": {
+    "GUID": "707fbf5b59534ff58a328144a3e46cad",
+    "Type": "Large",
+    "ID": "4351",
+    "Collision_Important": ""
+  },
+  "translation": {
+    "Name": "California Cache #1"
+  }
+}

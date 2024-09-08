@@ -1,0 +1,14 @@
+{
+  "name": "Firm_Weapon_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Firm Matvel/Firm_Weapon_Accepted/Asset.dat",
+  "data": {
+    "GUID": "3722261301e04b09af84c3ac29aad540",
+    "Type": "Dialogue",
+    "ID": "5058",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Three makarovs, bring them over and you get your stuff."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Missile_Launcher_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Missile_Launcher_0/PS_Missile_Launcher_0.dat",
+  "data": {
+    "GUID": "1a5076d0ee704375a3d153b78d6b03f1",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59894"
+  },
+  "translation": {
+    "Name": "PS Missile Launcher #1"
+  }
+}

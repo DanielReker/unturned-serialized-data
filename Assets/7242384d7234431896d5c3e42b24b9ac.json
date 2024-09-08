@@ -1,0 +1,14 @@
+{
+  "name": "Nelson_1_Punisher_1_Return_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Nelson_1/Nelson_1_Punisher_1_Return_0/Asset.dat",
+  "data": {
+    "GUID": "7242384d7234431896d5c3e42b24b9ac",
+    "Type": "Dialogue",
+    "ID": "58090",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=#B522B7>Punisher 2</color> <color=#64c819>Completed</color>"
+  }
+}

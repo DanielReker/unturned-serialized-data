@@ -1,0 +1,13 @@
+{
+  "name": "Bird_Red",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Small/Bird_Red/Bird_Red.dat",
+  "data": {
+    "GUID": "3b5a229e4b314dda8e68e931b99fe4ad",
+    "Type": "Large",
+    "ID": "51006",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Bird"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Omega_Engineer_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Engineer_1/Asset.dat",
+  "data": {
+    "GUID": "949f4bc64a1e4c09ae9a2bb9e3d5a30c",
+    "Type": "NPC",
+    "ID": "3627",
+    "Shirt": "232",
+    "Pants": "227",
+    "Hat": "240",
+    "Face": "8",
+    "Hair": "1",
+    "Beard": "8",
+    "Color_Skin": "#534736",
+    "Color_Hair": "#191919",
+    "Secondary": "76",
+    "Dialogue": "3668"
+  },
+  "translation": {
+    "Name": "Greek Omega Engineer Gavriil",
+    "Character": "<color=rare>Engineer Gavriil</color>"
+  }
+}

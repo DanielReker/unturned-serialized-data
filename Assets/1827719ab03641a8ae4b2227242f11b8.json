@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Dye_Purple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Dye_Purple/Buak_Dye_Purple.dat",
+  "data": {
+    "GUID": "1827719ab03641a8ae4b2227242f11b8",
+    "Type": "Spawn",
+    "ID": "25370",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25367",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

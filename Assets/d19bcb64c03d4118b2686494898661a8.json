@@ -1,0 +1,28 @@
+{
+  "name": "GunstoreRare",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Gunstore/GunstoreRare/GunstoreRare.dat",
+  "data": {
+    "GUID": "d19bcb64c03d4118b2686494898661a8",
+    "Type": "Spawn",
+    "ID": "51162",
+    "Tables": [
+      {
+        "Guid": "404eb4b2694b476b84eed74323960870",
+        "Weight": "90"
+      },
+      {
+        "Guid": "bc401718e3e34c348afc17775dcd0845",
+        "Weight": "5"
+      },
+      {
+        "Guid": "93f98550663b493bb6a66adaa5425b9b",
+        "Weight": "4"
+      },
+      {
+        "Guid": "6d01258e884940d7937eaf96b17a9f35",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

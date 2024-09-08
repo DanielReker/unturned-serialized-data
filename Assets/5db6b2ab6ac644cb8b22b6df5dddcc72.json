@@ -1,0 +1,30 @@
+{
+  "name": "IR_Dffts626_Top",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Items/Shirts/IR_Dffts626_Top/IR_Dffts626_Top.dat",
+  "data": {
+    "GUID": "5db6b2ab6ac644cb8b22b6df5dddcc72",
+    "Type": "Shirt",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "15223",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "15223",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Tespy",
+    "Description": "Vanilla number one!"
+  }
+}

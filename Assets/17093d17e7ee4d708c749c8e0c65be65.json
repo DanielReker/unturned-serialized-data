@@ -1,0 +1,15 @@
+{
+  "name": "CA_Fire_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Fire_1/CA_Fire_1.dat",
+  "data": {
+    "GUID": "17093d17e7ee4d708c749c8e0c65be65",
+    "Type": "Large",
+    "ID": "4693",
+    "Material_Palette": "3987063d60df43e2ac4ca66fe91880f1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Large/Buildings/Fire_1"
+  },
+  "translation": {
+    "Name": "California Fire Station #2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Viola_Question_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Viola/Viola_04/Viola_Question_02/Asset.dat",
+  "data": {
+    "GUID": "418ea588596746df9152c87f99b7dec8",
+    "Type": "Dialogue",
+    "ID": "24067",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "25",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Nah, Amber and I are from Alberta. It feels like forever ago since we were there... so much has happened...",
+    "Response_0": "Good to know!"
+  }
+}

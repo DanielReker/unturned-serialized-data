@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Paracord",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Paracord/Drop_Paracord.dat",
+  "data": {
+    "GUID": "e78656bbea454a058fdec8bffad1aae4",
+    "Type": "Spawn",
+    "ID": "25522",
+    "Tables": [
+      {
+        "Guid": "6de4f1264d314a96acb672852a66fdbd",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Clothes_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Buildings/Kuwait_Clothes_0/Kuwait_Clothes_0.dat",
+  "data": {
+    "GUID": "c69538a3c4674b6a9cf0ce6b89dde2b0",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5099",
+    "LOD": "Area",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Clothes #1"
+  }
+}

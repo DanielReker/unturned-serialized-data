@@ -1,0 +1,22 @@
+{
+  "name": "Banana",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Food/Banana/Banana.dat",
+  "data": {
+    "GUID": "879ce632a2514551ad048a6b117a63f7",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "6619",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.35",
+    "Quality_Max": "50",
+    "Food": "35",
+    "Water": "10",
+    "Food_Constrains_Water": "",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Banana",
+    "Description": "Yellow fruit."
+  }
+}

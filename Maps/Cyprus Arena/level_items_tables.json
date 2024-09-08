@@ -1,0 +1,396 @@
+[
+  {
+    "name": "Greece_Arena_Guns",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "rare",
+        "chance": 0.286666632,
+        "table": [
+          {
+            "item": 116
+          },
+          {
+            "item": 18
+          },
+          {
+            "item": 132
+          },
+          {
+            "item": 3522
+          }
+        ]
+      },
+      {
+        "name": "common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 4
+          },
+          {
+            "item": 363
+          },
+          {
+            "item": 1024
+          },
+          {
+            "item": 1027
+          },
+          {
+            "item": 3512
+          },
+          {
+            "item": 3520
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Greece_Arena_Ammo",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "rare",
+        "chance": 0.140000045,
+        "table": [
+          {
+            "item": 17
+          },
+          {
+            "item": 20
+          },
+          {
+            "item": 1026
+          },
+          {
+            "item": 1029
+          },
+          {
+            "item": 133
+          },
+          {
+            "item": 3518
+          },
+          {
+            "item": 3523
+          },
+          {
+            "item": 3513
+          },
+          {
+            "item": 113
+          },
+          {
+            "item": 254
+          },
+          {
+            "item": 267
+          },
+          {
+            "item": 1346
+          }
+        ]
+      },
+      {
+        "name": "common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 6
+          },
+          {
+            "item": 113
+          },
+          {
+            "item": 267
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Greeec_Arena_Medical",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "rare",
+        "chance": 0.2733333,
+        "table": [
+          {
+            "item": 15
+          }
+        ]
+      },
+      {
+        "name": "common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 95
+          },
+          {
+            "item": 394
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Greece_Arena_Attachments",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "rare",
+        "chance": 0.286666632,
+        "table": [
+          {
+            "item": 151
+          },
+          {
+            "item": 21
+          },
+          {
+            "item": 1008
+          },
+          {
+            "item": 148
+          },
+          {
+            "item": 22
+          }
+        ]
+      },
+      {
+        "name": "common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 145
+          },
+          {
+            "item": 8
+          },
+          {
+            "item": 146
+          },
+          {
+            "item": 147
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Greece_Arena_Bonus",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "rare",
+        "chance": 0.06666666,
+        "table": [
+          {
+            "item": 254
+          }
+        ]
+      },
+      {
+        "name": "common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 387
+          },
+          {
+            "item": 267
+          },
+          {
+            "item": 1346
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Greece_Mili_Hat",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "common",
+        "chance": 0.78,
+        "table": [
+          {
+            "item": 3511
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Greece_Mili_Vest",
+    "tableID": 0,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Greece_Mili_Top",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "common",
+        "chance": 0.78,
+        "table": [
+          {
+            "item": 3503
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Greece_Mili_Bottoms",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "common",
+        "chance": 0.793333352,
+        "table": [
+          {
+            "item": 3504
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Greece_Arena_Backpacks",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 253
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Greece_arena_Armor",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 3510
+          },
+          {
+            "item": 10
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Greece_Arena_Helmet",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 3536
+          },
+          {
+            "item": 3537
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.5254902,
+      "g": 0.5372549,
+      "b": 0.5568628
+    }
+  },
+  {
+    "name": "Greece_Lancer",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 3517
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  }
+]

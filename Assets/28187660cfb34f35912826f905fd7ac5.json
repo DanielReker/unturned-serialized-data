@@ -1,0 +1,17 @@
+{
+  "name": "Road_Tee_Cap_0",
+  "path": "Bundles/Objects/Large/Roads/Road_Tee_Cap_0/Road_Tee_Cap_0.dat",
+  "data": {
+    "GUID": "28187660cfb34f35912826f905fd7ac5",
+    "Type": "Large",
+    "ID": "8",
+    "Soft": "",
+    "Chart": "Street",
+    "Collision_Important": "",
+    "Landmark_Quality": "Ultra",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Road Tee Cap #1"
+  }
+}

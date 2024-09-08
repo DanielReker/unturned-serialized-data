@@ -1,0 +1,37 @@
+{
+  "name": "Box_Pistol_EX",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Tools/Box_Pistol_EX/Box_Pistol_EX.dat",
+  "data": {
+    "GUID": "6e607eab42264d32ae254202c4fd7b4c",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "ID": "25439",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Use_Auto_Icon_Measurements": "False",
+    "InventoryAudio": "Sounds/Inventory/Ammo.asset",
+    "Amount": "200",
+    "Count_Min": "0",
+    "Count_Max": "125",
+    "Calibers": "1",
+    "Caliber_0": "25313",
+    "Blueprints": "3",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25439",
+    "Blueprint_0_Build": "25524",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25525",
+    "Blueprint_1_Build": "25524",
+    "Blueprint_2_Type": "Ammo",
+    "Blueprint_2_Supplies": "1",
+    "Blueprint_2_Supply_0_ID": "25515",
+    "Blueprint_2_Build": "25524"
+  },
+  "translation": {
+    "Name": "Explosive Pistol Ammo Box",
+    "Description": "Explosive pistol grade ammunition box. Designed to fit 200 rounds."
+  }
+}

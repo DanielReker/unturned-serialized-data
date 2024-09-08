@@ -1,0 +1,37 @@
+{
+  "name": "Chair_Plastic_Red",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Chairs/Chair_Plastic_Red/Chair_Plastic_Red.dat",
+  "data": {
+    "GUID": "6f586c2bb6f048b090424384ffc8117e",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "52130",
+    "SalvageItem": "6f586c2bb6f048b090424384ffc8117e",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Health": "300",
+    "Range": "4",
+    "Radius": "0.4",
+    "Offset": "0.5",
+    "Explosion": "37",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51007",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Tool": "51000",
+    "Blueprint_0_Build": "27",
+    "Vulnerable": "",
+    "Salvage_Duration_Multiplier": "0.25",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "False",
+    "Use_Auto_Icon_Measurements": "False"
+  },
+  "translation": {
+    "Name": "Plastic Chair (Red)",
+    "Description": "A simple plastic chair."
+  }
+}

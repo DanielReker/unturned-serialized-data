@@ -1,0 +1,19 @@
+{
+  "name": "CA_6x_Scope",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Sights/CA_6x_Scope/CA_6x_Scope.dat",
+  "data": {
+    "GUID": "1472342684f7490bb7fc0e73f3809512",
+    "Type": "Sight",
+    "Rarity": "Epic",
+    "ID": "4071",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.15",
+    "Spread": "0.7",
+    "Zoom": "6"
+  },
+  "translation": {
+    "Name": "6x Scope",
+    "Description": "6x magnification scope designed for medium range engagements."
+  }
+}

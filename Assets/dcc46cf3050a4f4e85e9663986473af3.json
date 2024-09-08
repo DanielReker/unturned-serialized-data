@@ -1,0 +1,88 @@
+{
+  "name": "Food",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Food/Food.dat",
+  "data": {
+    "GUID": "dcc46cf3050a4f4e85e9663986473af3",
+    "Type": "Spawn",
+    "ID": "51100",
+    "Tables": [
+      {
+        "Guid": "035fa8eed6ad4c2ea07da0a1eda50627",
+        "Weight": "5"
+      },
+      {
+        "Guid": "5db9939690a6443795a7e4fe6bc106e2",
+        "Weight": "4"
+      },
+      {
+        "Guid": "0108f1e55fd142d484662f965a3051cb",
+        "Weight": "4"
+      },
+      {
+        "Guid": "0e97cbaa0e5e4ffc85646715ad95a0bc",
+        "Weight": "3"
+      },
+      {
+        "Guid": "dbea58a1b17e470480393a22a7d7228a",
+        "Weight": "3"
+      },
+      {
+        "Guid": "74df2dcc29ce45418640a8aed597a361",
+        "Weight": "3"
+      },
+      {
+        "Guid": "9b7ce2db7169496badcdf4622fa1362d",
+        "Weight": "2"
+      },
+      {
+        "Guid": "92d9b13ae70f4ecb9fa40135969c98cd",
+        "Weight": "2"
+      },
+      {
+        "Guid": "ec68bec266624a32b099483377c9d1a2",
+        "Weight": "2"
+      },
+      {
+        "Guid": "47bc4a9721534efdb4538c2828ce4233",
+        "Weight": "2"
+      },
+      {
+        "Guid": "0cd100afdb8d483aa56306ebf358afd8",
+        "Weight": "2"
+      },
+      {
+        "Guid": "7dbd9f18f99d4bcbad59a2b211f9ab7b",
+        "Weight": "2"
+      },
+      {
+        "Guid": "aa318a1a467144eea3c2482c1bec2dca",
+        "Weight": "1"
+      },
+      {
+        "Guid": "27ff13381e2c4b10b5d8058a63aa7fd1",
+        "Weight": "1"
+      },
+      {
+        "Guid": "4ae044e31410484e85d1514ef36d3c2d",
+        "Weight": "1"
+      },
+      {
+        "Guid": "7dfa9e8802b649038560805423cc07b7",
+        "Weight": "1"
+      },
+      {
+        "Guid": "d46b4bcba19541539ed2333d0c08c71e",
+        "Weight": "1"
+      },
+      {
+        "Guid": "85f2643e266640e78655580eeecd3656",
+        "Weight": "1"
+      },
+      {
+        "Guid": "0df0d01c045d46809becd55d68868de7",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

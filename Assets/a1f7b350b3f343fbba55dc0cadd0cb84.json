@@ -1,0 +1,16 @@
+{
+  "name": "Civilian Liam_Quest_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Civilian Liam/Civilian Liam_Quest_Accepted/Asset.dat",
+  "data": {
+    "GUID": "a1f7b350b3f343fbba55dc0cadd0cb84",
+    "Type": "Dialogue",
+    "ID": "9023",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Alright thanks!",
+    "Response_0": "No problem!"
+  }
+}

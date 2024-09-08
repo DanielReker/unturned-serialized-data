@@ -1,0 +1,20 @@
+{
+  "name": "Metro_Planter_Location_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Planter/Metro_Planter_Location_0/Metro_Planter_Location_0.dat",
+  "data": {
+    "GUID": "d2b500765bb048faa158d4a6b79cb95c",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57709",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57152",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Master_Bundle_Override": "metro.masterbundle",
+    "Bundle_Override_Path": "/Objects/Quest/NPC/Planter/Metro_Plant_Cones_0"
+  },
+  "translation": {
+    "Name": "Metro Planter [Location #1]"
+  }
+}

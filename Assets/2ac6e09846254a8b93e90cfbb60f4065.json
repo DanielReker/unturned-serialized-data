@@ -1,0 +1,30 @@
+{
+  "name": "Coaster",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Vehicles/Hawaii/Coaster/Coaster.dat",
+  "data": {
+    "GUID": "2ac6e09846254a8b93e90cfbb60f4065",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "ID": "806",
+    "Speed_Min": "-2",
+    "Speed_Max": "19",
+    "Steer_Min": "16",
+    "Steer_Max": "8",
+    "Fuel": "1750",
+    "Health_Min": "550",
+    "Health_Max": "650",
+    "Health": "750",
+    "Exit": "3",
+    "Cam_Follow_Distance": "7.5",
+    "LockMouse": "",
+    "Engine": "Helicopter",
+    "Explosion": "20",
+    "Trunk_Storage_X": "4",
+    "Trunk_Storage_Y": "2",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Coaster"
+  }
+}

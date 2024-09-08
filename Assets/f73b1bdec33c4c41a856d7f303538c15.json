@@ -1,0 +1,15 @@
+{
+  "name": "Captain_Join_Request",
+  "path": "Bundles/NPCs/Dialogues/Captain/Captain_Join_Request/Asset.dat",
+  "data": {
+    "GUID": "f73b1bdec33c4c41a856d7f303538c15",
+    "Type": "Dialogue",
+    "ID": "4",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm sorry, but we don't recruit <color=uncommon>Ensigns</color> sight unseen. If we notice you helping out around here there's a place for you in our ranks, however!",
+    "Message_0_Page_1": "Come to think of it we're looking for someone to help spread word of our presence here <pause>- if you're interested to give a hand talk with my first mate Laurence."
+  }
+}

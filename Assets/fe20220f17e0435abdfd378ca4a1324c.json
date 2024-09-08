@@ -1,0 +1,17 @@
+{
+  "name": "Hecate_Iron_Sights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Items/France/Sights/Hecate_Iron_Sights/Hecate_Iron_Sights.dat",
+  "data": {
+    "GUID": "fe20220f17e0435abdfd378ca4a1324c",
+    "Type": "Sight",
+    "ID": "3050",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.07",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Hecate Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

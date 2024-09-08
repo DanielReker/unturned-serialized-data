@@ -1,0 +1,13 @@
+{
+  "name": "PS_Stairs_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Stairs_0/PS_Stairs_0.dat",
+  "data": {
+    "GUID": "6c68fda2970d41c89ae0c460b4174227",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59189"
+  },
+  "translation": {
+    "Name": "PS Stairs #1"
+  }
+}

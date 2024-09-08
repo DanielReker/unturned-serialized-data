@@ -1,0 +1,17 @@
+{
+  "name": "Kuwait_Outlands_Barricade_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Quests/Kuwait_Outlands/Kuwait_Outlands_Barricade_0/Kuwait_Outlands_Barricade_0.dat",
+  "data": {
+    "GUID": "4b002100cbeb4d45b2b78304d26cbb37",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5999",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "60",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "72"
+  },
+  "translation": {
+    "Name": "Kuwait Outlands Barricade #1"
+  }
+}

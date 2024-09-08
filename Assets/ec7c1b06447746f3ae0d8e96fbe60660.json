@@ -1,0 +1,30 @@
+{
+  "name": "Pesticide_Quest_Note",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Pesticide_Quest_Note/Pesticide_Quest_Note.dat",
+  "data": {
+    "GUID": "ec7c1b06447746f3ae0d8e96fbe60660",
+    "Type": "Medium",
+    "ID": "3746",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3214",
+    "Condition_0_Value": "4",
+    "Condition_0_Logic": "Not_Equal",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "6",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Quest Note - Omega Pesticides",
+    "Interactability_Text_Line_0": "COMMON BUG",
+    "Interactability_Text_Line_1": "ISSUES AND SOLUTIONS",
+    "Interactability_Text_Line_2": "---",
+    "Interactability_Text_Line_3": "1) In case of an Aphid problem, use the purple chemicals.",
+    "Interactability_Text_Line_4": "2) In case of a Cucumber Beetle problem, use the blue chemicals.",
+    "Interactability_Text_Line_5": "3) In case of a Spotted Asparagus Beetle problem, use the cyan chemicals."
+  }
+}

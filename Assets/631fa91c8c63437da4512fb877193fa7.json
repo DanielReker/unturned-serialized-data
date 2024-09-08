@@ -1,0 +1,18 @@
+{
+  "name": "PS_Heli_Crate_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Heli_Crate_0/PS_Heli_Crate_0.dat",
+  "data": {
+    "GUID": "631fa91c8c63437da4512fb877193fa7",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60090",
+    "Interactability": "Dropper",
+    "Interactability_Delay": "1800",
+    "Interactability_Hint": "Custom",
+    "Interactability_Reward_ID": "59217"
+  },
+  "translation": {
+    "Name": "PS Heli Crate #1",
+    "Interact": "Search [{0}]"
+  }
+}

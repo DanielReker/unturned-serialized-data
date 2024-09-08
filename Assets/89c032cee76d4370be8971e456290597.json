@@ -1,0 +1,16 @@
+{
+  "name": "Pallet",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pallet/Pallet.dat",
+  "data": {
+    "GUID": "89c032cee76d4370be8971e456290597",
+    "Type": "Medium",
+    "ID": "51000",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Pallet 1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Rifle_Case_Sniper",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Cases/Rifle_Case_Sniper/Rifle_Case_Sniper.dat",
+  "data": {
+    "GUID": "26c2ce6b410f4bbfbe0be0ec80822def",
+    "Type": "Effect",
+    "ID": "59005"
+  },
+  "translation": null
+}

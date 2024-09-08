@@ -1,0 +1,34 @@
+{
+  "name": "Kuwait_Rope_Ladder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Barricades/Kuwait_Rope_Ladder/Kuwait_Rope_Ladder.dat",
+  "data": {
+    "GUID": "25e23f2d2b804beaaa52e0ab32bbdb98",
+    "Type": "Barricade",
+    "Useable": "Barricade",
+    "Build": "Ladder",
+    "ID": "5401",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Health": "25",
+    "Range": "8",
+    "Offset": "0.5",
+    "Explosion": "28",
+    "Vulnerable": "",
+    "Bypass_Claim": "",
+    "Unrepairable": "",
+    "Salvage_Duration_Multiplier": "0.3",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supply_0_ID": "5536",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Kuwait",
+    "PlacementAudioClip": "kuwait.masterbundle:Audio/Kuwait_Cloth_Place.mp3",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Rope Ladder",
+    "Description": "Rope ladder, ideal for climbing to the stars inexpensively.<br><color=#BF1F1F>25 HP</color><br><color=#FF69B4>Deploys instantly</color><br>"
+  }
+}

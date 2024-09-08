@@ -1,0 +1,23 @@
+{
+  "name": "BP_Terminator",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Terminator/Asset.dat",
+  "data": {
+    "GUID": "a8e9950fe3d64a17b258ad5db29c5373",
+    "Type": "Quest",
+    "ID": "24828",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "8a144ae5e60b4c6283847e06c0b4dc51",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24827",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Terminator Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Terminator Recipe"
+  }
+}

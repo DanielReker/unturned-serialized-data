@@ -1,0 +1,16 @@
+{
+  "name": "PosterLDG",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PosterLDG/PosterLDG.dat",
+  "data": {
+    "GUID": "c115acdc5a794188a9799a27d3d52d1c",
+    "Type": "Spawn",
+    "ID": "51275",
+    "Tables": [
+      {
+        "Guid": "2ff1e5d1314c439684662c2b9f7db5fe",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

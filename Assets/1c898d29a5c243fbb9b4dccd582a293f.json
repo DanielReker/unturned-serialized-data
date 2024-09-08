@@ -1,0 +1,16 @@
+{
+  "name": "Officer_Story_Belfast",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IFR/Officer_Quinn/Officer_Story_Belfast/Asset.dat",
+  "data": {
+    "GUID": "1c898d29a5c243fbb9b4dccd582a293f",
+    "Type": "Dialogue",
+    "ID": "15112",
+    "Messages": "1",
+    "Message_0_Pages": "3"
+  },
+  "translation": {
+    "Message_0_Page_0": "At a point, we controlled a sizable amount of Northern Ireland, including Belfast.",
+    "Message_0_Page_1": "The <color=blue>Coalition</color>, who are remnants of the British Navy, showed up and began launching attacks on Belfast. I figure it was the amount of military supplies we stockpiled there that made them focus on Belfast.",
+    "Message_0_Page_2": "They were winning at first. However it seems the hordes of turned doubled and killed off the remaining <color=red>IFR</color> and <color=blue>Coalition</color> soldiers. I doubt the <color=blue>Blues</color> had it as bad as we did!"
+  }
+}

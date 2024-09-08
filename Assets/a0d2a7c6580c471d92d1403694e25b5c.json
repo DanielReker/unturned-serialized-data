@@ -1,0 +1,40 @@
+{
+  "name": "PS_Trader_9_Vendor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_9_Dialogue/PS_Trader_9_Vendor/Asset.dat",
+  "data": {
+    "GUID": "a0d2a7c6580c471d92d1403694e25b5c",
+    "Type": "Vendor",
+    "ID": "59252",
+    "Buying": "6",
+    "Buying_0_ID": "59398",
+    "Buying_0_Cost": "20",
+    "Buying_1_ID": "59273",
+    "Buying_1_Cost": "500",
+    "Buying_2_ID": "59399",
+    "Buying_2_Cost": "600",
+    "Buying_3_ID": "59180",
+    "Buying_3_Cost": "1500",
+    "Buying_4_ID": "59400",
+    "Buying_4_Cost": "4500",
+    "Buying_5_ID": "59686",
+    "Buying_5_Cost": "8000",
+    "Selling": "6",
+    "Selling_0_ID": "59273",
+    "Selling_0_Cost": "500",
+    "Selling_1_ID": "59791",
+    "Selling_1_Cost": "3000",
+    "Selling_2_ID": "59948",
+    "Selling_2_Cost": "4000",
+    "Selling_3_ID": "59406",
+    "Selling_3_Cost": "4000",
+    "Selling_4_ID": "59422",
+    "Selling_4_Cost": "6000",
+    "Selling_5_ID": "59949",
+    "Selling_5_Cost": "8000",
+    "Disable_Sorting": ""
+  },
+  "translation": {
+    "Name": "Novelties",
+    "Description": "Tacky and overpriced."
+  }
+}

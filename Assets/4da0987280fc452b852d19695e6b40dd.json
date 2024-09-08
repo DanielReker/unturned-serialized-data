@@ -1,0 +1,16 @@
+{
+  "name": "Kuwait_Palm_Fiber",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Supplies/Kuwait_Palm_Fiber/Kuwait_Palm_Fiber.dat",
+  "data": {
+    "GUID": "4da0987280fc452b852d19695e6b40dd",
+    "Type": "Supply",
+    "ID": "5501",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.35"
+  },
+  "translation": {
+    "Name": "Palm Fiber",
+    "Description": "Soft palm hairs, good to build quick structures."
+  }
+}

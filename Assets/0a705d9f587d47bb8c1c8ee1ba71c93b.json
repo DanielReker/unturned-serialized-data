@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Door_House_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Door_House_03/Obj_Door_House_03.dat",
+  "data": {
+    "GUID": "0a705d9f587d47bb8c1c8ee1ba71c93b",
+    "Type": "Effect",
+    "ID": "25500"
+  },
+  "translation": null
+}

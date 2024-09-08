@@ -1,0 +1,15 @@
+{
+  "name": "PBS_Cillian_Info",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Cillian/PBS_Cillian_Info/Asset.dat",
+  "data": {
+    "GUID": "d99472bf6e0f4f7c876f5608c0a28bb6",
+    "Type": "Dialogue",
+    "ID": "52082",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Well, we only got a few books here - but I've got a printing press.  If you bring me any new books, I can reprint them here.  Be on the lookout for anything!",
+    "Message_0_Page_1": "<i>Books sold to <name_npc> will permanently unlock them for purchase.</i>"
+  }
+}

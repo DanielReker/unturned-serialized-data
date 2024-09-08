@@ -1,0 +1,18 @@
+{
+  "name": "Easter_Shipwreck_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Vehicles/Easter_Shipwreck_1/Easter_Shipwreck_1.dat",
+  "data": {
+    "GUID": "10b503be407643f29626beb1f8c1d4b7",
+    "Type": "Large",
+    "ID": "6867",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Shipwreck #2"
+  }
+}

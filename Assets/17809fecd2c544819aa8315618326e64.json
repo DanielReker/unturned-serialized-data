@@ -1,0 +1,13 @@
+{
+  "name": "Crop_3",
+  "path": "Bundles/Objects/Medium/Parks/Crop_3/Crop_3.dat",
+  "data": {
+    "GUID": "17809fecd2c544819aa8315618326e64",
+    "Type": "Large",
+    "ID": "561",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Russia Crop #2"
+  }
+}

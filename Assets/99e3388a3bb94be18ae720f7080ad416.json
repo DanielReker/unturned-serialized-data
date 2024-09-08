@@ -1,0 +1,17 @@
+{
+  "name": "PS_BREN_Barrel_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_BREN_Barrel_0/PS_BREN_Barrel_0.dat",
+  "data": {
+    "GUID": "99e3388a3bb94be18ae720f7080ad416",
+    "Type": "Supply",
+    "Rarity": "Legendary",
+    "ID": "59509",
+    "Size_X": "3",
+    "Size_Y": "1",
+    "Size_Z": "0.4"
+  },
+  "translation": {
+    "Name": "BREN Autocannon Barrel",
+    "Description": "Heavy barrel from a modified weapon. Used for crafting <color=#c832fa>BREN Autocannon</color>. "
+  }
+}

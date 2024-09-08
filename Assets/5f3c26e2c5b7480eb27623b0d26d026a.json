@@ -1,0 +1,20 @@
+{
+  "name": "PS_Crayons",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Food/PS_Crayons/PS_Crayons.dat",
+  "data": {
+    "GUID": "5f3c26e2c5b7480eb27623b0d26d026a",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "59182",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.32",
+    "Food": "5",
+    "Quality_Min": "90",
+    "Use_Auto_Icon_Measurements": "False"
+  },
+  "translation": {
+    "Name": "Crayons",
+    "Description": "So many flavours."
+  }
+}

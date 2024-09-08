@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Science_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Props/Buak_Science_01/Buak_Science_01.dat",
+  "data": {
+    "GUID": "3ef5ecc157da497dbb50a0dd81abd674",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Science_01"
+  }
+}

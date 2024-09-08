@@ -1,0 +1,43 @@
+{
+  "name": "Railing_Half_Pine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Structures/Railings_Half/Railing_Half_Pine/Railing_Half_Pine.dat",
+  "data": {
+    "GUID": "85844fb317024ab9ad04f38c42814ce1",
+    "Type": "Structure",
+    "Rarity": "Common",
+    "Useable": "Structure",
+    "Construct": "Rampart",
+    "ID": "27726",
+    "Requires_Pillars": "False",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.24",
+    "Use_Auto_Icon_Measurements": "False",
+    "Has_Clip_Prefab": "false",
+    "Salvage_Duration_Multiplier": ".1",
+    "Health": "3000",
+    "Range": "8",
+    "Explosion": "25402",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25306",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Tool": "25375",
+    "Blueprint_0_Build": "25526",
+    "Blueprint_1_Type": "Gear",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "27726",
+    "Blueprint_1_Tool": "25393",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "25306",
+    "Blueprint_1_Output_0_Amount": "1",
+    "Blueprint_1_Build": "25521",
+    "PlacementAudioClip": "Sounds/Placement/WoodenPlacement.mp3",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Pine Half Railing",
+    "Description": "A railing to help prevent you from a fall."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Hoarder_BWTY_PPINK",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Vehicles/Redirectors/Hoarder_BWT/Hoarder_BWTY_PPINK.asset",
+  "data": {
+    "GUID": "b9484e759447401d9e17a43bb037459c",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "25365",
+    "TargetVehicle": "23320a8025884b68b527974d11ccc07c",
+    "LoadPaintColor": "#BC78B3"
+  },
+  "translation": null
+}

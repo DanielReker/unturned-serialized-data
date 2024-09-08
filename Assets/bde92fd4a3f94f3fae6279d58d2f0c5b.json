@@ -1,0 +1,17 @@
+{
+  "name": "XMAS_Cane_Fragments",
+  "path": "Bundles/Items/Supplies/XMAS_Cane_Fragments/XMAS_Cane_Fragments.dat",
+  "data": {
+    "GUID": "bde92fd4a3f94f3fae6279d58d2f0c5b",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "1694",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.35"
+  },
+  "translation": {
+    "Name": "Candy Cane Fragments",
+    "Description": "Festive fragments for decorations."
+  }
+}

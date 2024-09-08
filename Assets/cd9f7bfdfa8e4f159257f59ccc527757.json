@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Tyson_VendComp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Visitors/Dialogues/PBS_Tyson/PBS_Tyson_VendComp/Asset.dat",
+  "data": {
+    "GUID": "cd9f7bfdfa8e4f159257f59ccc527757",
+    "Type": "Dialogue",
+    "ID": "52632",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you for your buthiness with Tython Arms. I hope to see you again thoon."
+  }
+}

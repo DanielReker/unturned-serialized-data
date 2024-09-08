@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Lemon_10",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Lemon_10/Drop_Lemon_10.dat",
+  "data": {
+    "GUID": "4265c8a92d2b4f4ea13af8e2556e5c3c",
+    "Type": "Spawn",
+    "ID": "25529",
+    "Tables": [
+      {
+        "Guid": "d441cf5955a04b6db6f14f4050741fc9",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

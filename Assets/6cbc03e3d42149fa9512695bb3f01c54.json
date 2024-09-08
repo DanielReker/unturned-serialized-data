@@ -1,0 +1,22 @@
+{
+  "name": "Kuwait_Outfit_Male_07",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Shirts/Kuwait_Outfit_Male_07/Kuwait_Outfit_Male_07.dat",
+  "data": {
+    "GUID": "6cbc03e3d42149fa9512695bb3f01c54",
+    "Type": "Shirt",
+    "Rarity": "Common",
+    "Useable": "Clothing",
+    "ID": "5347",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "1",
+    "Height": "1",
+    "Armor": "1",
+    "Unsaveable": ""
+  },
+  "translation": {
+    "Name": "Male 07 ",
+    "Description": "You shouldn't have this. You weren't on the train."
+  }
+}

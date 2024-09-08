@@ -1,0 +1,22 @@
+{
+  "name": "Ensign_Siren",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Ensign_Siren/Asset.dat",
+  "data": {
+    "GUID": "aa251d16cf484c91b79a89aa9d6d5e4e",
+    "Type": "NPC",
+    "ID": "45786",
+    "Shirt": "176",
+    "Pants": "1419",
+    "Face": "25",
+    "Hair": "7",
+    "Beard": "0",
+    "Color_Skin": "#897A64",
+    "Color_Hair": "#4C4337",
+    "Secondary": "488",
+    "Dialogue": "45706"
+  },
+  "translation": {
+    "Name": "Ensign \"Siren\" Calibre",
+    "Character": "<color=uncommon>Ensign \"Siren\" Calibre</color>"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GreeceSewerEntrance",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceSewerEntrance/GreeceSewerEntrance.dat",
+  "data": {
+    "GUID": "5e186e5678d04dc1ae218379e0063167",
+    "Type": "Large",
+    "ID": "6345",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Sewer Entrance"
+  }
+}

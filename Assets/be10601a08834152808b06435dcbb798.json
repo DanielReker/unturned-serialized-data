@@ -1,0 +1,13 @@
+{
+  "name": "PS_Lamp_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Lamp_0/PS_Lamp_0.dat",
+  "data": {
+    "GUID": "be10601a08834152808b06435dcbb798",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59528"
+  },
+  "translation": {
+    "Name": "PS Lamp #1"
+  }
+}

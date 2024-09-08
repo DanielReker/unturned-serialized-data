@@ -1,0 +1,14 @@
+{
+  "name": "Armory_Help",
+  "path": "Bundles/NPCs/Dialogues/Armory/Armory_Help/Asset.dat",
+  "data": {
+    "GUID": "99bbbec8d6cb4953a077c1112c5c2484",
+    "Type": "Dialogue",
+    "ID": "144",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm in charge of our armory, keeping it stocked and ready for combat. We can always use more ammunition, so let me know if you'd like to trade!"
+  }
+}

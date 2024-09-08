@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Log_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Frost_Log_00/Frost_Log_00.dat",
+  "data": {
+    "GUID": "b4b1ea98e91444928a88388dff8b57d7",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36078"
+  },
+  "translation": {
+    "Name": "Frost Log #1"
+  }
+}

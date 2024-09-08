@@ -1,0 +1,14 @@
+{
+  "name": "Container_3",
+  "path": "Bundles/Objects/Large/Business/Container_3/Container_3.dat",
+  "data": {
+    "GUID": "96b3eaf77486491f806384df0b7410e4",
+    "Type": "Large",
+    "ID": "493",
+    "Chart": "Medium",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Container #4"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BE House #4 Wood",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE House #4 Wood/BE House #4 Wood.dat",
+  "data": {
+    "GUID": "6163766d1a854f13a790430df380211d",
+    "Type": "Large",
+    "ID": "9032",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE House #4 Wood"
+  }
+}

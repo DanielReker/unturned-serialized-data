@@ -1,0 +1,21 @@
+{
+  "name": "Deckhand_Rodger",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/Coalition/Deckhand_Rodger/Asset.dat",
+  "data": {
+    "GUID": "bad6900fbb44477ca77501be489cb20d",
+    "Type": "NPC",
+    "ID": "15016",
+    "Shirt": "405",
+    "Pants": "406",
+    "Hat": "1426",
+    "Face": "21",
+    "Hair": "21",
+    "Color_Skin": "#efe2bf",
+    "Color_Hair": "#7a5d11",
+    "Dialogue": "15142"
+  },
+  "translation": {
+    "Name": "Coalition Deckhand Rodger",
+    "Character": "<color=uncommon>Rodger</color>"
+  }
+}

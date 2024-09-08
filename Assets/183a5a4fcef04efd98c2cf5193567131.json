@@ -1,0 +1,19 @@
+{
+  "name": "France_Chef",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Characters/France_Chef/Asset.dat",
+  "data": {
+    "GUID": "183a5a4fcef04efd98c2cf5193567131",
+    "Type": "NPC",
+    "ID": "4010",
+    "Shirt": "230",
+    "Pants": "231",
+    "Hat": "239",
+    "Face": "3",
+    "Color_Skin": "#A7856A",
+    "Dialogue": "4136"
+  },
+  "translation": {
+    "Name": "France Chef Bastien",
+    "Character": "<color=uncommon>Chef Bastien</color>"
+  }
+}

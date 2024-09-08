@@ -1,0 +1,14 @@
+{
+  "name": "27226KDTVC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27200KDTD/27226KDTVC/Asset.dat",
+  "data": {
+    "GUID": "93a284afa0c34233a84fec110cabf8d8",
+    "Type": "Dialogue",
+    "ID": "27226",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks for the supplies! These will be great for improving the base."
+  }
+}

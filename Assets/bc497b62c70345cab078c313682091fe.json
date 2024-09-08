@@ -1,0 +1,28 @@
+{
+  "name": "Soldier_Hera_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Omega_Soldiers/Soldier_Hera_Welcome/Asset.dat",
+  "data": {
+    "GUID": "bc497b62c70345cab078c313682091fe",
+    "Type": "Dialogue",
+    "ID": "3390",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "3392",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Flag_Short",
+    "Response_0_Condition_0_ID": "3389",
+    "Response_0_Condition_0_Value": "1",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Flag_Short",
+    "Response_0_Reward_0_ID": "3389",
+    "Response_0_Reward_0_Value": "2",
+    "Response_0_Reward_0_Modification": "Assign"
+  },
+  "translation": {
+    "Message_0_Page_0": "Halt! Ah, you must be the resupplier! Get up here quickly before the zombies bite you.",
+    "Response_0": "I brought the vehicle supplies.",
+    "Response_1": "It's time for me to get going again."
+  }
+}

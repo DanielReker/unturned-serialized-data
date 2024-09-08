@@ -1,0 +1,13 @@
+{
+  "name": "Washington_Golf",
+  "path": "Bundles/Spawns/Vehicles/Washington_Golf/Washington_Golf.dat",
+  "data": {
+    "GUID": "07d6863b4de24b718f281833b6218be7",
+    "Type": "Spawn",
+    "ID": "421",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "422",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

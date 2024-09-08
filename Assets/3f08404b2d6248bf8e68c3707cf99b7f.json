@@ -1,0 +1,35 @@
+{
+  "name": "Vest_Leather_Brown_Wings",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Vests/Vest_Leather_Brown_Wings/Vest_Leather_Brown_Wings.dat",
+  "data": {
+    "GUID": "3f08404b2d6248bf8e68c3707cf99b7f",
+    "Rarity": "Uncommon",
+    "Type": "Vest",
+    "Useable": "Clothing",
+    "ID": "26817",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.46",
+    "Use_Auto_Icon_Measurements": "False",
+    "Width": "8",
+    "Height": "8",
+    "Armor": "0.92",
+    "WearAudio": "Sounds/Clothes/Clothes.asset",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26817",
+    "Blueprint_0_Product": "25357",
+    "Blueprint_0_Products": "4",
+    "Blueprint_0_Build": "25535",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25357",
+    "Blueprint_1_Supply_0_Amount": "6",
+    "Blueprint_1_Build": "25534",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Brown Leather Vest (Wings)",
+    "Description": "Good for riding motorcycles during the apocalypse.<br><color=#7cb9e8>8% Armor</color>"
+  }
+}

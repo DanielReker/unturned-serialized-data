@@ -1,0 +1,10 @@
+{
+  "name": "TireMotion_Gravel",
+  "path": "Bundles/Effects/TireMotion/TireMotion_Gravel/TireMotion_Gravel.dat",
+  "data": {
+    "GUID": "54f1db71f259453ab60320c8985488e7",
+    "Type": "Effect",
+    "Preload": "8"
+  },
+  "translation": null
+}

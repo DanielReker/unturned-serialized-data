@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Door_Birch",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Door_Birch/Bar_Door_Birch.dat",
+  "data": {
+    "GUID": "8a17801831d247b1bbaea260b0aaffea",
+    "Type": "Effect",
+    "ID": "25369"
+  },
+  "translation": null
+}

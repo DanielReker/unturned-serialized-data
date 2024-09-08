@@ -1,0 +1,12 @@
+{
+  "name": "Portable_Ladder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Portable_Ladder/Portable_Ladder.dat",
+  "data": {
+    "GUID": "e33f890cf1504f07946b6307fea30f42",
+    "Type": "Medium",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Portable Ladder"
+  }
+}

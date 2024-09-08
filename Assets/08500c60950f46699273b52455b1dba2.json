@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Lemon_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Lemon_00/Buak_Lemon_00.dat",
+  "data": {
+    "GUID": "08500c60950f46699273b52455b1dba2",
+    "Type": "Spawn",
+    "ID": "25343",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25764",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Herstal_Iron_Sights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Items/France/Sights/Herstal_Iron_Sights/Herstal_Iron_Sights.dat",
+  "data": {
+    "GUID": "60dd155657e844ee9493c7018df361bb",
+    "Type": "Sight",
+    "ID": "3053",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.08",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Herstal Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

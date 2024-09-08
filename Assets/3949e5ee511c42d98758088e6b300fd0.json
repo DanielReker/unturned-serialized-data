@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait_Outlands_Component_Placed_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Small/Quests/Kuwait_Outlands/Kuwait_Outlands_Component_Placed_4/Kuwait_Outlands_Component_Placed_4.dat",
+  "data": {
+    "GUID": "3949e5ee511c42d98758088e6b300fd0",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "5950",
+    "Master_Bundle_Override": "kuwait.masterbundle",
+    "Bundle_Override_Path": "/Objects/Small/Quests/Kuwait_Outlands/Kuwait_Outlands_Component_4",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "5504",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Kuwait Dynamite Component Place #5 (Quest)"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PS_Airdrop_Proper_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Airdrop_Proper_0/PS_Airdrop_Proper_0.dat",
+  "data": {
+    "GUID": "2b70db8c0376470bbaf4ed379fe167a6",
+    "Type": "Spawn",
+    "ID": "59239",
+    "Tables": [
+      {
+        "LegacySpawnId": "59240",
+        "Weight": "16"
+      },
+      {
+        "LegacySpawnId": "59241",
+        "Weight": "8"
+      },
+      {
+        "LegacySpawnId": "59318",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

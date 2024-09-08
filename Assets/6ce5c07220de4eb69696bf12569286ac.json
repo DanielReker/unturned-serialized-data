@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Glass",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Glass/Drop_Glass.dat",
+  "data": {
+    "GUID": "6ce5c07220de4eb69696bf12569286ac",
+    "Type": "Spawn",
+    "ID": "25512",
+    "Tables": [
+      {
+        "Guid": "31ef91e739fd40b3879d0d234014f998",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

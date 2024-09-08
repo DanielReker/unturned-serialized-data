@@ -1,0 +1,18 @@
+{
+  "name": "Metro_Police_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Police_0/Metro_Police_0.dat",
+  "data": {
+    "GUID": "c08ddf83fd0b44b1aff7e505f86c0aa9",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57343",
+    "LOD": "Area",
+    "LOD_Bias": "0.5",
+    "Soft": "",
+    "Collision_Important": "",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Metro Police #1"
+  }
+}

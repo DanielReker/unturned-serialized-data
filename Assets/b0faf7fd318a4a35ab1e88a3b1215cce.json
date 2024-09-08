@@ -1,0 +1,23 @@
+{
+  "name": "Stingray",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Food/Stingray/Stingray.dat",
+  "data": {
+    "GUID": "b0faf7fd318a4a35ab1e88a3b1215cce",
+    "Type": "Food",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "6642",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.8",
+    "Food": "40",
+    "Virus": "40",
+    "Health": "-10",
+    "Bleeding_Modifier": "Cut",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Stingray",
+    "Description": "Fishy and smelly. Eating it in its current state would hurt..."
+  }
+}

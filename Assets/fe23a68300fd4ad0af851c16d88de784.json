@@ -1,0 +1,22 @@
+{
+  "name": "Dmitriy Davidov",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Characters/Dmitriy Davidov/Asset.dat",
+  "data": {
+    "GUID": "fe23a68300fd4ad0af851c16d88de784",
+    "Type": "NPC",
+    "ID": "5100",
+    "Shirt": "311",
+    "Pants": "312",
+    "Face": "15",
+    "Hair": "11",
+    "Beard": "6",
+    "Color_Skin": "#F9F2E3",
+    "Color_Hair": "#FCFCFC",
+    "Secondary": "139",
+    "Dialogue": "5101"
+  },
+  "translation": {
+    "Name": "Dmitriy Davidov",
+    "Character": "<color=epic>Dmitriy Davidov</color>"
+  }
+}

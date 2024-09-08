@@ -1,0 +1,22 @@
+{
+  "name": "Nulirane Scientist Nand",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Nulirane Scientist Nand/Asset.dat",
+  "data": {
+    "GUID": "492aa7e8e87c4ee0a13f5325703e6686",
+    "Type": "NPC",
+    "ID": "9134",
+    "Shirt": "731",
+    "Pants": "2",
+    "Glasses": "730",
+    "Face": "9",
+    "Hair": "11",
+    "Beard": "4",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#d3d126",
+    "Dialogue": "9134"
+  },
+  "translation": {
+    "Name": "Nulirane Scientist Nand",
+    "Character": "<color=rare>Professor Nand</color>"
+  }
+}

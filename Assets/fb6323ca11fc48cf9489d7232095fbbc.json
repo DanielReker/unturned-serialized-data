@@ -1,0 +1,40 @@
+{
+  "name": "Major_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IDF/Major_Macdonald/Major_Welcome/Asset.dat",
+  "data": {
+    "GUID": "fb6323ca11fc48cf9489d7232095fbbc",
+    "Type": "Dialogue",
+    "ID": "15179",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Dialogue": "15180",
+    "Response_0_Quest": "15316",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "15316",
+    "Response_0_Conditions": "2",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "15316",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Condition_1_Type": "Flag_Bool",
+    "Response_0_Condition_1_ID": "12101",
+    "Response_0_Condition_1_Value": "True",
+    "Response_0_Condition_1_Logic": "Equal",
+    "Response_1_Dialogue": "15181",
+    "Response_1_Quest": "15316",
+    "Response_1_Conditions": "1",
+    "Response_1_Condition_0_Type": "Quest",
+    "Response_1_Condition_0_Logic": "Equal",
+    "Response_1_Condition_0_ID": "15316",
+    "Response_1_Condition_0_Status": "Ready",
+    "Response_1_Condition_0_Reset": ""
+  },
+  "translation": {
+    "Message_0_Page_0": "Hey, I was in the middle of a chess game.",
+    "Response_0": "<color=legendary>General Nelson</color> told me to see you. What is my mission?",
+    "Response_1": "I killed the <color=purple>Nuclear Boss</color>!",
+    "Response_2": "Oh sorry. I'll take myself out."
+  }
+}

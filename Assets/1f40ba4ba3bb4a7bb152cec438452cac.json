@@ -1,0 +1,13 @@
+{
+  "name": "PS_Lockbox_Open",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Other/PS_Lockbox_Open/PS_Lockbox_Open.dat",
+  "data": {
+    "GUID": "1f40ba4ba3bb4a7bb152cec438452cac",
+    "Type": "Effect",
+    "ID": "59088",
+    "Static": "",
+    "Relevant_Distance": "150",
+    "Spawn_On_Dedicated_Server": ""
+  },
+  "translation": null
+}

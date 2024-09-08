@@ -1,0 +1,12 @@
+{
+  "name": "Frost_Firefly",
+  "path": "Bundles/Mythics/Frost_Firefly/Frost_Firefly.dat",
+  "data": {
+    "GUID": "870197385e5c441eb20d791b8fa454c1",
+    "Type": "Mythic",
+    "ID": "48"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Firefly"
+  }
+}

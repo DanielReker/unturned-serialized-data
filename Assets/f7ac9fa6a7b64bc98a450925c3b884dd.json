@@ -1,0 +1,22 @@
+{
+  "name": "Michail Fedorov",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Characters/Michail Fedorov/Asset.dat",
+  "data": {
+    "GUID": "f7ac9fa6a7b64bc98a450925c3b884dd",
+    "Type": "NPC",
+    "ID": "9100",
+    "Hat": "23532",
+    "Shirt": "23530",
+    "Pants": "23531",
+    "Vest": "23533",
+    "Face": "25",
+    "Hair": "1",
+    "Color_Skin": "#F9E8C7",
+    "Color_Hair": "#211500",
+    "Dialogue": "9101"
+  },
+  "translation": {
+    "Name": "Michael Federov",
+    "Character": "<color=rare>Michael Federov</color>"
+  }
+}

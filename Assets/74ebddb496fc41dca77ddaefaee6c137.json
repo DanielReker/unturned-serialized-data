@@ -1,0 +1,15 @@
+{
+  "name": "Bistro_0",
+  "path": "Bundles/Objects/Mooki/Bistro_0/Bistro_0.dat",
+  "data": {
+    "GUID": "74ebddb496fc41dca77ddaefaee6c137",
+    "Type": "Large",
+    "ID": "590",
+    "Asset_Origin_Override": "Curated",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Bistro #1"
+  }
+}

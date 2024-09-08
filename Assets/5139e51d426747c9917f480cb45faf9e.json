@@ -1,0 +1,13 @@
+{
+  "name": "Renault_Orange",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Vehicles/Renault_Orange/Renault_Orange.dat",
+  "data": {
+    "GUID": "5139e51d426747c9917f480cb45faf9e",
+    "Type": "Large",
+    "ID": "35071",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Orange Cargo Truck"
+  }
+}

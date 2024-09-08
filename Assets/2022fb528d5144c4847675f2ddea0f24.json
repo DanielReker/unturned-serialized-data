@@ -1,0 +1,27 @@
+{
+  "name": "Simon_Into_The_Fire",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Quests/Simon_Into_The_Fire/Asset.dat",
+  "data": {
+    "GUID": "2022fb528d5144c4847675f2ddea0f24",
+    "Type": "Quest",
+    "ID": "9231",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_ID": "9232",
+    "Condition_0_Value": "1",
+    "Condition_0_Zombie": "Boss_Fire",
+    "Condition_0_Spawn": "",
+    "Condition_0_Nav": "34",
+    "Condition_0_Reset": "",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "200",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "20"
+  },
+  "translation": {
+    "Name": "<color=mythical>Into The Fire</color>",
+    "Description": "The Beast has remained in Belgium for far too long. It is time to travel to the cave under Signal de Botrange and slay the fire-breathing beast!",
+    "Condition_0": "Slay {0}/{1} <color=mythical>The Beast</color>"
+  }
+}

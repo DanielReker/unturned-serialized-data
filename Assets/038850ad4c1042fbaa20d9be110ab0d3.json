@@ -1,0 +1,19 @@
+{
+  "name": "PS_Gunshop_Supplies_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Gunshop_Supplies_0/PS_Gunshop_Supplies_0.dat",
+  "data": {
+    "GUID": "038850ad4c1042fbaa20d9be110ab0d3",
+    "Type": "Spawn",
+    "ID": "59299",
+    "Tables": "4",
+    "Table_0_Asset_ID": "59248",
+    "Table_0_Weight": "20",
+    "Table_1_Asset_ID": "59162",
+    "Table_1_Weight": "20",
+    "Table_2_Asset_ID": "59575",
+    "Table_2_Weight": "20",
+    "Table_3_Spawn_ID": "59336",
+    "Table_3_Weight": "13"
+  },
+  "translation": null
+}

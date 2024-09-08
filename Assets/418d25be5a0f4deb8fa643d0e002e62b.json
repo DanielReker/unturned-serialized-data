@@ -1,0 +1,18 @@
+{
+  "name": "Ashley",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/NPC/Ashley/Ashley.dat",
+  "data": {
+    "GUID": "418d25be5a0f4deb8fa643d0e002e62b",
+    "Type": "Shirt",
+    "ID": "52240",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.65",
+    "Character_Mesh_3P_Override_LODs": "1",
+    "Hair_Visible": "True"
+  },
+  "translation": {
+    "Name": "Ashley",
+    "Description": "You seem familiar."
+  }
+}

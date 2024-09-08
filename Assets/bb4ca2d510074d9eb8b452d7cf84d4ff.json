@@ -1,0 +1,15 @@
+{
+  "name": "France_Guard_3_Sandwich_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Guard_3/France_Guard_3_Sandwich_Accepted/Asset.dat",
+  "data": {
+    "GUID": "bb4ca2d510074d9eb8b452d7cf84d4ff",
+    "Type": "Dialogue",
+    "ID": "4228",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "4222"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hurry I'm kinda hungry."
+  }
+}

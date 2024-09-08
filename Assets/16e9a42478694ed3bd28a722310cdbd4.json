@@ -1,0 +1,41 @@
+{
+  "name": "PS_Pillar_Metal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Structures/PS_Pillar_Metal/PS_Pillar_Metal.dat",
+  "data": {
+    "GUID": "16e9a42478694ed3bd28a722310cdbd4",
+    "Type": "Structure",
+    "Has_Clip_Prefab": "False",
+    "Rarity": "Rare",
+    "Useable": "Structure",
+    "Construct": "Pillar",
+    "ID": "59464",
+    "SalvageItem": "16e9a42478694ed3bd28a722310cdbd4",
+    "Min_Items_Dropped_On_Destroy": "1",
+    "Max_Items_Dropped_On_Destroy": "1",
+    "Item_Dropped_On_Destroy": "f732c2df33ec4fdd8c665ded56f5b2d5",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.475",
+    "Health": "2000",
+    "Range": "6",
+    "Explosion": "36",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59009",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Tool": "59003",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Structure",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "59465",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "27",
+    "PlacementAudioClip": "Sounds/MetalPlacement.mp3",
+    "Salvage_Duration_Multiplier": "0.4"
+  },
+  "translation": {
+    "Name": "Metal Pillar",
+    "Description": "<color=#FFC023>2000 Health</color>"
+  }
+}

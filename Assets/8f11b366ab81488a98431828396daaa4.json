@@ -1,0 +1,12 @@
+{
+  "name": "IR_Armor_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/Debris/IR_Armor_1/IR_Armor_1.dat",
+  "data": {
+    "GUID": "8f11b366ab81488a98431828396daaa4",
+    "Type": "Medium",
+    "ID": "17117"
+  },
+  "translation": {
+    "Name": "Irish Armor# 1"
+  }
+}

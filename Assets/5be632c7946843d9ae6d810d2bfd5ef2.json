@@ -1,0 +1,13 @@
+{
+  "name": "Carpat_Office_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Objects/Large/Carpat_Office_02/Carpat_Office_02.dat",
+  "data": {
+    "GUID": "5be632c7946843d9ae6d810d2bfd5ef2",
+    "Type": "Large",
+    "ID": "23132",
+    "LOD": "Mesh"
+  },
+  "translation": {
+    "Name": "Carpat Office #2"
+  }
+}

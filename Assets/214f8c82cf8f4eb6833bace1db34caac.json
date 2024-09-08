@@ -1,0 +1,28 @@
+{
+  "name": "Strong_Painkillers",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Meds/Strong_Painkillers/Strong_Painkillers.dat",
+  "data": {
+    "GUID": "214f8c82cf8f4eb6833bace1db34caac",
+    "Type": "Medical",
+    "Rarity": "Epic",
+    "Useable": "Consumeable",
+    "ID": "25634",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.15",
+    "Use_Auto_Icon_Measurements": "False",
+    "Aid": "",
+    "Health": "45",
+    "Broken": "",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "25316",
+    "Quest_Reward_0_Amount": "1",
+    "Quest_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Strong Painkillers",
+    "Description": "Internecion on the pain.<br><size=14><color=#ff4466>Health 45</color> <color=#C3B096>Broken Bones</color></size>"
+  }
+}

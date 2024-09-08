@@ -1,0 +1,23 @@
+{
+  "name": "BP_Cage_Light",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Cage_Light/Asset.dat",
+  "data": {
+    "GUID": "10bdc7ddd4e642c78ea6e9cec276ae61",
+    "Type": "Quest",
+    "ID": "24995",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "6297d9ecd2a04217a3585222621c93e2",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24994",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Cage_Light Quest",
+    "Description": "Researching.",
+    "Reward_2": "Cage Light Recipe"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Tarp_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Tarp_1/PS_Tarp_1.dat",
+  "data": {
+    "GUID": "793a452c254d466d8cb3ae57dfcce239",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59144"
+  },
+  "translation": {
+    "Name": "PS Tarp #2"
+  }
+}

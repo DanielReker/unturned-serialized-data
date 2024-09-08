@@ -1,0 +1,24 @@
+{
+  "name": "Fountains_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Assets/Material_Palettes/Fountains_0.asset",
+  "data": {
+    "GUID": "be8dff0e954042b29fcce88ff478a072",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "california.masterbundle",
+        "Path": "palettes/fountains_0/fountain_0.mat"
+      },
+      {
+        "Name": "california.masterbundle",
+        "Path": "palettes/fountains_0/fountain_1.mat"
+      },
+      {
+        "Name": "california.masterbundle",
+        "Path": "palettes/fountains_0/fountain_2.mat"
+      }
+    ]
+  },
+  "translation": null
+}

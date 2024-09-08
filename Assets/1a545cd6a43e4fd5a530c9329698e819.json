@@ -1,0 +1,17 @@
+{
+  "name": "Metro_Package_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Ranger/Metro_Package_1/Metro_Package_1.dat",
+  "data": {
+    "GUID": "1a545cd6a43e4fd5a530c9329698e819",
+    "Type": "Supply",
+    "Rarity": "Legendary",
+    "ID": "57531",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.325"
+  },
+  "translation": {
+    "Name": "Mysterious Package #2",
+    "Description": "For <color=#A824B5>Planter Quest Part 2</color>"
+  }
+}

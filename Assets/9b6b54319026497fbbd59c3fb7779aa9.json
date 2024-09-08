@@ -1,0 +1,13 @@
+{
+  "name": "Brazil_Ural",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Brazil_Ural/Brazil_Ural.dat",
+  "data": {
+    "GUID": "9b6b54319026497fbbd59c3fb7779aa9",
+    "Type": "Large",
+    "ID": "6139",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Ural"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "NAM_Fire",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Quests/NAM_Fire/Asset.dat",
+  "data": {
+    "GUID": "aaff86b3dc5e49b982c23f330d78cb37",
+    "Type": "Quest",
+    "ID": "9405",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_ID": "9609",
+    "Condition_0_Value": "1",
+    "Condition_0_Zombie": "Boss_Fire",
+    "Condition_0_Spawn": "",
+    "Condition_0_Spawnpoint": "NiteroiBoss0",
+    "Rewards": "3",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "100",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "20",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "9603",
+    "Reward_2_Value": "2",
+    "Reward_2_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "Internationals Torch",
+    "Description": "Lorenzo was looking down on Rio atop Corcovado, and noticed a large source of light moving around the city.",
+    "Condition_0": "Investigate the big moving light."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Swashbuckler_Bottom",
+  "path": "Bundles/Items/Pants/Swashbuckler_Bottom/Swashbuckler_Bottom.dat",
+  "data": {
+    "GUID": "9f5253bb1e24418d97ce8ac194cb9c4a",
+    "Type": "Pants",
+    "Useable": "Clothing",
+    "ID": "612",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Pro": ""
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Bridge_Construction_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Bridge_Construction_1/PS_Bridge_Construction_1.dat",
+  "data": {
+    "GUID": "eabed05442fd4eb6ba43f7103a3850b2",
+    "Type": "Large",
+    "ID": "60275",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "PS Bridge Construction #2"
+  }
+}

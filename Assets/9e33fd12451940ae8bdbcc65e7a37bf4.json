@@ -1,0 +1,23 @@
+{
+  "name": "BP_Scope_8x",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Scope_8x/Asset.dat",
+  "data": {
+    "GUID": "9e33fd12451940ae8bdbcc65e7a37bf4",
+    "Type": "Quest",
+    "ID": "24897",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "2f873d80fb514f5f9c62c62f68a85ca9",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24896",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "8x Scope Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "8x Scope Recipe"
+  }
+}

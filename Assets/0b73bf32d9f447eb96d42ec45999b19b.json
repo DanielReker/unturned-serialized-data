@@ -1,0 +1,36 @@
+{
+  "name": "Helmet_Fire",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Hats/Helmet_Fire/Helmet_Fire.dat",
+  "data": {
+    "GUID": "0b73bf32d9f447eb96d42ec45999b19b",
+    "Rarity": "Uncommon",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "26735",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Use_Auto_Icon_Measurements": "False",
+    "WearAudio": "Sounds/Clothes/Clothes.asset",
+    "Armor_Explosion": "0.80",
+    "Beard": "",
+    "Armor": "0.80",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26735",
+    "Blueprint_0_Product": "25310",
+    "Blueprint_0_Products": "4",
+    "Blueprint_0_Build": "25535",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25310",
+    "Blueprint_1_Supply_0_Amount": "6",
+    "Blueprint_1_Tool": "25393",
+    "Blueprint_1_Build": "25534",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Fireperson Helmet",
+    "Description": "A fire fighting classic for every Fireperson.<br><color=#7cb9e8>20% Armor</color>"
+  }
+}

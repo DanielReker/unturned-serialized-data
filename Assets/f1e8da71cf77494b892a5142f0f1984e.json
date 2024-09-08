@@ -1,0 +1,21 @@
+{
+  "name": "Military_Quarantine_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Quarantine_3/Asset.dat",
+  "data": {
+    "GUID": "f1e8da71cf77494b892a5142f0f1984e",
+    "Type": "NPC",
+    "ID": "3594",
+    "Shirt": "0",
+    "Pants": "3504",
+    "Face": "19",
+    "Hair": "3",
+    "Beard": "0",
+    "Color_Skin": "#858871",
+    "Color_Hair": "#989893",
+    "Pose": "Asleep"
+  },
+  "translation": {
+    "Name": "Greek Military Quarantine Infected",
+    "Character": "<color=mythical>Infected Soldier</color>"
+  }
+}

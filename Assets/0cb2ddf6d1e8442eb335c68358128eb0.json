@@ -1,0 +1,13 @@
+{
+  "name": "BE Gun Store #1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Gun Store #1/BE Gun Store #1.dat",
+  "data": {
+    "GUID": "0cb2ddf6d1e8442eb335c68358128eb0",
+    "Type": "Large",
+    "ID": "9021",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Gun Store #1"
+  }
+}

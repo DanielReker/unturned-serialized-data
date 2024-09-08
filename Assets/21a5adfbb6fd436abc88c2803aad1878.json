@@ -1,0 +1,12 @@
+{
+  "name": "RunwayLights_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/RunwayLights_1/RunwayLights_1.dat",
+  "data": {
+    "GUID": "21a5adfbb6fd436abc88c2803aad1878",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Runway Lights 1"
+  }
+}

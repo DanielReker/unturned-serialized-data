@@ -1,0 +1,31 @@
+{
+  "name": "Berry_Indigo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Water/Berry_Indigo/Berry_Indigo.dat",
+  "data": {
+    "GUID": "6fb140b76b294136a4c0aef5e43abc56",
+    "Type": "Water",
+    "Useable": "Consumeable",
+    "ID": "5251",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Energy": "50",
+    "Food": "10",
+    "Water": "10",
+    "Vision": "20",
+    "Food_Constrains_Water": "",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "5268",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Key": "Craft_Seed",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Water/Berry_Indigo",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatSquishy.mp3"
+  },
+  "translation": {
+    "Name": "Raw Indigo Berries",
+    "Description": "Very suspicious looking.<br><color=#AB8019>+10 Food</color><br><color=#3298C8>+10 Water</color><br><color=#DCB413>+50 Energy</color>"
+  }
+}

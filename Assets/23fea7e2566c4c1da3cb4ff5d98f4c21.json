@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Bucket",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Props/Buak_Bucket/Buak_Bucket.dat",
+  "data": {
+    "GUID": "23fea7e2566c4c1da3cb4ff5d98f4c21",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Bucket"
+  }
+}

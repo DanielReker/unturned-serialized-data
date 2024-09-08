@@ -1,0 +1,17 @@
+{
+  "name": "Metro_NPC_House_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_NPC_House_1/Metro_NPC_House_1.dat",
+  "data": {
+    "GUID": "69305c99a13f45219605f3c4084f9756",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57550",
+    "LOD": "Area",
+    "Soft": "",
+    "Collision_Important": "",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Metro NPC House #2"
+  }
+}

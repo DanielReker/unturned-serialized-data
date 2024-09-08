@@ -1,0 +1,33 @@
+{
+  "name": "Electrical_Components",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Electrical_Components/Electrical_Components.dat",
+  "data": {
+    "GUID": "3802540c0fa8498e88098433df4d6876",
+    "Type": "Supply",
+    "Rarity": "Common",
+    "ID": "25359",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.4",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25356",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Product": "25359",
+    "Blueprint_0_Products": "10",
+    "Blueprint_0_Build": "25526",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "25356",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "▲ Stack 10 Electrical Components",
+    "Action_0_Tooltip": "Stack up 10 electrical components."
+  },
+  "translation": {
+    "Name": "Electrical Components",
+    "Description": "Various electrical components, probably the exact ones you are searching for, how convenient!"
+  }
+}

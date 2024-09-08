@@ -1,0 +1,10 @@
+{
+  "name": "Paintball_Red",
+  "path": "Bundles/Effects/Guns/Paintball_Red/Paintball_Red.dat",
+  "data": {
+    "GUID": "84c8caaef9bc428e9b5bbd4bb67d987a",
+    "Type": "Effect",
+    "ID": "114"
+  },
+  "translation": null
+}

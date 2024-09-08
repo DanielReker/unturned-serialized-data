@@ -1,0 +1,12 @@
+{
+  "name": "Wooden Dock",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Wooden Dock/Wooden Dock.dat",
+  "data": {
+    "GUID": "cfe4f06228514f1cbb6086104587571b",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Wooden Dock"
+  }
+}

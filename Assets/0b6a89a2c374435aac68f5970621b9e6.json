@@ -1,0 +1,14 @@
+{
+  "name": "GreeceArch_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceArch_0/GreeceArch_0.dat",
+  "data": {
+    "GUID": "0b6a89a2c374435aac68f5970621b9e6",
+    "Type": "Medium",
+    "ID": "6250",
+    "Material_Palette": "7a563917fc864422a11b8e1e7ea6c3ac",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Arch"
+  }
+}

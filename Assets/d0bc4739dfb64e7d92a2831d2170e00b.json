@@ -1,0 +1,12 @@
+{
+  "name": "CA_Table_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Table_2/CA_Table_2.dat",
+  "data": {
+    "GUID": "d0bc4739dfb64e7d92a2831d2170e00b",
+    "Type": "Medium",
+    "ID": "4400"
+  },
+  "translation": {
+    "Name": "Califonia Table #3"
+  }
+}

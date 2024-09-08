@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_ATM_Withdraw_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Utilities/Kuwait_ATM_Withdraw_0/Kuwait_ATM_Withdraw_0.dat",
+  "data": {
+    "GUID": "1ec8afe4712e4a5fb0950f9355f83458",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5999"
+  },
+  "translation": {
+    "Name": "Kuwait ATM Withdraw"
+  }
+}

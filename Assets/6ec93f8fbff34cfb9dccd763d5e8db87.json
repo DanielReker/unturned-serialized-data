@@ -1,0 +1,18 @@
+{
+  "name": "Metro_Gunpowder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Military/Metro_Gunpowder/Metro_Gunpowder.dat",
+  "data": {
+    "GUID": "6ec93f8fbff34cfb9dccd763d5e8db87",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "57062",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.525",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Gunpowder",
+    "Description": "Used for crafting explosives and ammunition."
+  }
+}

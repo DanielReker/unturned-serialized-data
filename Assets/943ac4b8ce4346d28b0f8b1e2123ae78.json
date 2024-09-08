@@ -1,0 +1,13 @@
+{
+  "name": "PS_Graffiti_54",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Graffiti_54/PS_Graffiti_54.dat",
+  "data": {
+    "GUID": "943ac4b8ce4346d28b0f8b1e2123ae78",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60004"
+  },
+  "translation": {
+    "Name": "PS Graffiti #55 [Terror]"
+  }
+}

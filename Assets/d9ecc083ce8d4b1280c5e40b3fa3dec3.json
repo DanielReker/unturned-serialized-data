@@ -1,0 +1,24 @@
+{
+  "name": "Greece_Note_Survivors_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Greece_Note_Survivors_2/Greece_Note_Survivors_2.dat",
+  "data": {
+    "GUID": "d9ecc083ce8d4b1280c5e40b3fa3dec3",
+    "Type": "Medium",
+    "ID": "3982",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "5",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Greece Note New Hope",
+    "Interactability_Text_Line_0": "June 8th",
+    "Interactability_Text_Line_1": "~~~",
+    "Interactability_Text_Line_2": "We did it! I wasn't sure it even existed, but the rumors were indeed true. After a week of travel we found the Hellenic Stronghold.",
+    "Interactability_Text_Line_3": "Collis and I waited in line for a good 3 hours or so before they let us in, but otherwise we got in easily. They took us to this tent which is where we'll be calling home. I haven't felt this safe in forever...",
+    "Interactability_Text_Line_4": "Tomorrow we are attending a \"briefing\" and tour of the compound. I wonder what life will be like here..."
+  }
+}

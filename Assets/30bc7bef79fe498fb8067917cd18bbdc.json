@@ -1,0 +1,14 @@
+{
+  "name": "Musician_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Musician_Help/Musician_Completed/Asset.dat",
+  "data": {
+    "GUID": "30bc7bef79fe498fb8067917cd18bbdc",
+    "Type": "Dialogue",
+    "ID": "2092",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you so much! I thought I would never see it again!"
+  }
+}

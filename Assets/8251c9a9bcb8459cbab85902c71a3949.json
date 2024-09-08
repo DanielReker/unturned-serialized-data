@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Door_Sign_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/Metro_Door_Sign_2/Metro_Door_Sign_2.dat",
+  "data": {
+    "GUID": "8251c9a9bcb8459cbab85902c71a3949",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57756"
+  },
+  "translation": {
+    "Name": "Metro Dorms Door Sign #3"
+  }
+}

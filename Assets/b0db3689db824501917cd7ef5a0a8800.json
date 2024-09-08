@@ -1,0 +1,13 @@
+{
+  "name": "Conveyor_2",
+  "path": "Bundles/Objects/Medium/Business/Conveyor_2/Conveyor_2.dat",
+  "data": {
+    "GUID": "b0db3689db824501917cd7ef5a0a8800",
+    "Type": "Medium",
+    "ID": "685",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Conveyor #3"
+  }
+}

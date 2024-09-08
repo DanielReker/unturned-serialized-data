@@ -1,0 +1,36 @@
+{
+  "name": "Grandma_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/00/Grandma_00/Asset.dat",
+  "data": {
+    "GUID": "89f70ed59e1c4124aa78aece259bade4",
+    "Type": "NPC",
+    "ID": "25300",
+    "Shirt": "33d09e69e7ef43de8af9235f6f8aafd5",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "6",
+    "Hair": "4",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#AC6A39",
+    "Dialogue": "0a7821e23bbd4e4c9f8e165a4c926bf0",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24612",
+    "Condition_0_Value": "False",
+    "Condition_0_Allow_Unset": "",
+    "Condition_1_Type": "Quest",
+    "Condition_1_Logic": "Less_Than_Or_Equal_To",
+    "Condition_1_ID": "c778947f76e14542a2dd35a26cdfdd00",
+    "Condition_1_Status": "Active",
+    "Condition_1_Allow_Unset": "",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Grandma_00",
+    "Character": "<color=legendary>???</color>"
+  }
+}

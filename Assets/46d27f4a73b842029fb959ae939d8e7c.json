@@ -1,0 +1,16 @@
+{
+  "name": "Stan_End",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Fisherman Stan/Stan_End/Asset.dat",
+  "data": {
+    "GUID": "46d27f4a73b842029fb959ae939d8e7c",
+    "Type": "Dialogue",
+    "ID": "9219",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I wish you have better luck than I do!",
+    "Response_0": "Have a nice day!"
+  }
+}

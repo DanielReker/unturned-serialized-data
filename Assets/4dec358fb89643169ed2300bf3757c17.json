@@ -1,0 +1,24 @@
+{
+  "name": "Sailor Hugo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Guards/Sailor Hugo/Asset.dat",
+  "data": {
+    "GUID": "4dec358fb89643169ed2300bf3757c17",
+    "Type": "NPC",
+    "ID": "9023",
+    "Shirt": "8036",
+    "Pants": "8033",
+    "Face": "9",
+    "Hair": "1",
+    "Beard": "15",
+    "Color_Skin": "#af8063",
+    "Color_Hair": "#42220e",
+    "Primary": "8050",
+    "Equipped": "Primary",
+    "Pose": "Stand",
+    "Dialogue": "9202"
+  },
+  "translation": {
+    "Name": "NAM Sailor Hugo",
+    "Character": "<color=uncommon>Sailor Hugo</color>"
+  }
+}

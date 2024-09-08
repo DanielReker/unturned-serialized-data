@@ -1,0 +1,17 @@
+{
+  "name": "IR_Ice_Cream_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/City/IR_Ice_Cream_3/IR_Ice_Cream_3.dat",
+  "data": {
+    "GUID": "a6e7c6ecab774a9d808d92693615f3e6",
+    "Type": "Large",
+    "ID": "17108",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Water",
+    "Allow_Structures": "",
+    "Collision_Important": ""
+  },
+  "translation": {
+    "Name": "Irish Ice# 3"
+  }
+}

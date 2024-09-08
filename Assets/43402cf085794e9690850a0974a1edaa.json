@@ -1,0 +1,13 @@
+{
+  "name": "Buak_AN_Goat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_AN_Goat/Buak_AN_Goat.dat",
+  "data": {
+    "GUID": "43402cf085794e9690850a0974a1edaa",
+    "Type": "Spawn",
+    "ID": "25337",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25567",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

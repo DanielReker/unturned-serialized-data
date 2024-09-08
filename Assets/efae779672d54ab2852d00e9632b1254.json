@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Dumpster_02_Lid_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Props/Buak_Dumpster_02_Lid_02/Buak_Dumpster_02_Lid_02.dat",
+  "data": {
+    "GUID": "efae779672d54ab2852d00e9632b1254",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Dumpster_02_Lid_02"
+  }
+}

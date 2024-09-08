@@ -1,0 +1,26 @@
+{
+  "name": "PS_Trader_0_Barter_14",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_0_Dialogue/PS_Trader_0_Barter_14/Asset.dat",
+  "data": {
+    "GUID": "1d6a98896a134a40b87a7f198d5514c1",
+    "Type": "Quest",
+    "ID": "59333",
+    "Conditions": "2",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59415",
+    "Condition_0_Amount": "3",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "59414",
+    "Condition_1_Amount": "3",
+    "Condition_1_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "59393",
+    "Reward_0_Amount": "1"
+  },
+  "translation": {
+    "Name": "Barter - 8x Scope",
+    "Description": "Exchange of goods."
+  }
+}

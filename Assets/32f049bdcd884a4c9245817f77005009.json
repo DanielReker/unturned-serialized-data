@@ -1,0 +1,14 @@
+{
+  "name": "Scout_Rig_Completed",
+  "path": "Bundles/NPCs/Dialogues/Scout/Scout_Rig_Completed/Asset.dat",
+  "data": {
+    "GUID": "32f049bdcd884a4c9245817f77005009",
+    "Type": "Dialogue",
+    "ID": "117",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Reactor meltdown? Those poor guys, probably in the safest place imaginable and everything can still go completely wrong out of the blue."
+  }
+}

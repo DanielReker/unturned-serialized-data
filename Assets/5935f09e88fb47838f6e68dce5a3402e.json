@@ -1,0 +1,15 @@
+{
+  "name": "Major_Boss_Nuclear_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IDF/Major_Macdonald/Major_Boss_Nuclear_Completed/Asset.dat",
+  "data": {
+    "GUID": "5935f09e88fb47838f6e68dce5a3402e",
+    "Type": "Dialogue",
+    "ID": "15181",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You've done very well, <color=rare>Lieutenant <name_char></color>. With this threat eliminated, we can focus on retaking Moneypoint.",
+    "Message_0_Page_1": "In other words, we've recently acquired a device from one of the former military bases, with some ammo of course, that we have agreed to pass on to you as a \"thanks\" for helping our cause."
+  }
+}

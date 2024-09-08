@@ -1,0 +1,12 @@
+{
+  "name": "Targeting_Housing",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Targeting_Housing/Targeting_Housing.dat",
+  "data": {
+    "GUID": "8b267c2281d84ea6b66c38f7a8d960b6",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Targeting Housing"
+  }
+}

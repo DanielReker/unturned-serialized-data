@@ -1,0 +1,17 @@
+{
+  "name": "PS_Fishing_Line",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Fishing_Line/PS_Fishing_Line.dat",
+  "data": {
+    "GUID": "cf470b51afd246d7a5747c90b00f2205",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "59573",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.35"
+  },
+  "translation": {
+    "Name": "Fishing Line",
+    "Description": "Heavy duty, extra long string."
+  }
+}

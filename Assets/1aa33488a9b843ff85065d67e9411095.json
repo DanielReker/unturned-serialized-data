@@ -1,0 +1,14 @@
+{
+  "name": "Gilson_Electric_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Crew/Sailor_Gilson/Gilson_Electric_Accepted/Asset.dat",
+  "data": {
+    "GUID": "1aa33488a9b843ff85065d67e9411095",
+    "Type": "Dialogue",
+    "ID": "9237",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "It will be smooth sailing around Niterói from here. It will be nice to get back on the water."
+  }
+}

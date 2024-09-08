@@ -1,0 +1,16 @@
+{
+  "name": "Clock_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Assets/Material_Palettes/Clock_1.asset",
+  "data": {
+    "GUID": "e578e701dbf44a0abfde47131d06cc47",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "california.masterbundle",
+        "Path": "palettes/clock_1/clock_1.mat"
+      }
+    ]
+  },
+  "translation": null
+}

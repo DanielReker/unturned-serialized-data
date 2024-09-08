@@ -1,0 +1,17 @@
+{
+  "name": "Update",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_02/Update/Asset.dat",
+  "data": {
+    "GUID": "2bb6bd7732d14141a28ba192d95d004e",
+    "Type": "Dialogue",
+    "ID": "24031",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "2",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "No updates yet! I'll let you know though. I think some others around need help though!",
+    "Response_0": "Alright!"
+  }
+}

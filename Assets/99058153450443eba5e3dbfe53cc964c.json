@@ -1,0 +1,13 @@
+{
+  "name": "PS_Netting_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Netting_3/PS_Netting_3.dat",
+  "data": {
+    "GUID": "99058153450443eba5e3dbfe53cc964c",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59230"
+  },
+  "translation": {
+    "Name": "PS Netting #4"
+  }
+}

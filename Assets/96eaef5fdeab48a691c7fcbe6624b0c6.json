@@ -1,0 +1,18 @@
+{
+  "name": "Metro_Overpass_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Overpass_0/Metro_Overpass_0.dat",
+  "data": {
+    "GUID": "96eaef5fdeab48a691c7fcbe6624b0c6",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57096",
+    "Snowshoe": "",
+    "Soft": "",
+    "Chart": "Highway",
+    "Collision_Important": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Overpass #1"
+  }
+}

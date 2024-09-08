@@ -1,0 +1,15 @@
+{
+  "name": "26852KAKA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/265 CO/2664-2691 Mili/26850KAKD/26852KAKA/Asset.dat",
+  "data": {
+    "GUID": "d528778b2b104601b49b3159ccd89db8",
+    "Type": "Dialogue",
+    "ID": "26852",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "26851"
+  },
+  "translation": {
+    "Message_0_Page_0": "Be careful out there <name_char>. Watch yourself."
+  }
+}

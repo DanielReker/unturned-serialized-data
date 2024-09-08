@@ -1,0 +1,23 @@
+{
+  "name": "Frost_Expedition_00_Quest_00_Lore",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Expedition_00/Frost_Expedition_00_Quest_00_Lore/Asset.dat",
+  "data": {
+    "GUID": "aede389c9bf7408e95570af7d3f06cf7",
+    "Type": "Dialogue",
+    "ID": "36016",
+    "Messages": "1",
+    "Message_0_Pages": "7",
+    "Message_0_Prev": "36511",
+    "Responses": "0"
+  },
+  "translation": {
+    "Message_0_Page_0": "Well..",
+    "Message_0_Page_1": "You know those stubby little cylinders you've no doubt seen waddling around our beautiful peninsula?",
+    "Message_0_Page_2": "Penguins",
+    "as": "some would call them.",
+    "Message_0_Page_3": "Don't trust them.",
+    "Message_0_Page_4": "We must kill them.",
+    "Message_0_Page_5": "If you wish to assist me on my mission.",
+    "Message_0_Page_6": "I'll be waiting in my boat at the <color=#64c819>Safezone's Dock</color>."
+  }
+}

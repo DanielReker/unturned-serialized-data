@@ -1,0 +1,10 @@
+{
+  "name": "TireMotion_Foliage",
+  "path": "Bundles/Effects/TireMotion/TireMotion_Foliage/TireMotion_Foliage.dat",
+  "data": {
+    "GUID": "c1097b8d25734e9c93d63ad8d7849ad1",
+    "Type": "Effect",
+    "Preload": "8"
+  },
+  "translation": null
+}

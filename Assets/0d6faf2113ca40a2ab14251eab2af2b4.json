@@ -1,0 +1,14 @@
+{
+  "name": "Supply_Stranded_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Supply_Depot/Supply_Stranded_Accepted/Asset.dat",
+  "data": {
+    "GUID": "0d6faf2113ca40a2ab14251eab2af2b4",
+    "Type": "Dialogue",
+    "ID": "3395",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I've just got word that one of my scavenging crews has broken down by Istiaia Farm. Could be a bunch of issues so I'm gunna have to send someone expendable out there, like you, to find and give them a package."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Mechanic_Eneas_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Mechanic_Omega/Mechanic_Eneas_Welcome/Asset.dat",
+  "data": {
+    "GUID": "16a1c2ffe24f4a4598546f40d7db81a3",
+    "Type": "Dialogue",
+    "ID": "3607",
+    "Messages": "2",
+    "Message_0_Pages": "1",
+    "Message_0_Conditions": "1",
+    "Message_0_Condition_0_Type": "Flag_Short",
+    "Message_0_Condition_0_ID": "3017",
+    "Message_0_Condition_0_Value": "-2",
+    "Message_0_Condition_0_Logic": "Greater_Than",
+    "Message_0_Condition_0_Allow_Unset": "",
+    "Message_1_Pages": "1",
+    "Message_1_Conditions": "1",
+    "Message_1_Condition_0_Type": "Flag_Short",
+    "Message_1_Condition_0_ID": "3017",
+    "Message_1_Condition_0_Value": "-2",
+    "Message_1_Condition_0_Logic": "Less_Than_Or_Equal_To",
+    "Responses": "2",
+    "Response_0_Messages": "1",
+    "Response_0_Message_0": "1",
+    "Response_1_Messages": "1",
+    "Response_1_Message_0": "0"
+  },
+  "translation": {
+    "Message_0_Page_0": "You're stepping on my toes, back off.",
+    "Message_1_Page_0": "Keep your distance, I don't need you stepping on my toes while I make this Technical.",
+    "Response_0": "Sorry, I'll leave you at it.",
+    "Response_1": "Sorry."
+  }
+}

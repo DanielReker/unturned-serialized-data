@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Bar_Corn",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Bar_Corn/Buak_Bar_Corn.dat",
+  "data": {
+    "GUID": "543a45b4d468448ba28d8856d69a91c3",
+    "Type": "Spawn",
+    "ID": "25456",
+    "Tables": "2",
+    "Table_0_Asset_ID": "25756",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "25757",
+    "Table_1_Weight": "5"
+  },
+  "translation": null
+}

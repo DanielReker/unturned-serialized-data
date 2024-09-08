@@ -1,0 +1,14 @@
+{
+  "name": "Shed_0",
+  "path": "Bundles/Objects/Large/Buildings/Shed_0/Shed_0.dat",
+  "data": {
+    "GUID": "c6da7e342ae7483884baeeee88fb2bee",
+    "Type": "Large",
+    "ID": "298",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Shed #1"
+  }
+}

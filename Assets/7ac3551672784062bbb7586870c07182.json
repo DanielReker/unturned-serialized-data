@@ -1,0 +1,20 @@
+{
+  "name": "Rio_Computer_Note_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Rio_Computer_Note_7/Rio_Computer_Note_7.dat",
+  "data": {
+    "GUID": "7ac3551672784062bbb7586870c07182",
+    "Type": "Medium",
+    "ID": "7177",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "4",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Computer - MagRed Weapon #1",
+    "Interactability_Text_Line_0": "Zombie Prevention Department",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Experimental Weapons",
+    "Interactability_Text_Line_3": "After modifying a rifle to shoot pellets instead of bullets, (which is surprisingly difficult) I discovered that actually infusing the pellets with the Z.K.A. is very difficult. So instead, when the gun is fired, a miniscule amount of the Agent is secreted. It's much more efficient then our previous methods and the amount of agent used is just enough to take effect."
+  }
+}

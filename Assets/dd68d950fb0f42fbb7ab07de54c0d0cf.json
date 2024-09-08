@@ -1,0 +1,26 @@
+{
+  "name": "Belgium Military General Wout",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Belgium Military General Wout/Asset.dat",
+  "data": {
+    "GUID": "dd68d950fb0f42fbb7ab07de54c0d0cf",
+    "Type": "NPC",
+    "ID": "9175",
+    "Shirt": "9009",
+    "Pants": "9010",
+    "Vest": "9011",
+    "Hat": "9012",
+    "Primary": "1362",
+    "Secondary": "121",
+    "Equipped": "Primary",
+    "Face": "9",
+    "Hair": "0",
+    "Beard": "4",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#dbb94c",
+    "Dialogue": "9175"
+  },
+  "translation": {
+    "Name": "Belgium Military General Wout",
+    "Character": "<color=legendary>General Wout</color>"
+  }
+}

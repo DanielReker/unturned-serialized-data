@@ -1,0 +1,14 @@
+{
+  "name": "PS_Sofa_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Sofa_1/PS_Sofa_1.dat",
+  "data": {
+    "GUID": "507252b373e84a90ac666de097b9ca70",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59341",
+    "Material_Palette": "0dff723e702046389b35082bd1b8cc65"
+  },
+  "translation": {
+    "Name": "PS Sofa #2"
+  }
+}

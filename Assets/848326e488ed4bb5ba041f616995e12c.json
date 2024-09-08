@@ -1,0 +1,35 @@
+{
+  "name": "Metro_Bar_Energy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Overrides/Metro_Bar_Energy/Metro_Bar_Energy.dat",
+  "data": {
+    "GUID": "848326e488ed4bb5ba041f616995e12c",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "57404",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.34",
+    "Food": "25",
+    "Energy": "100",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "57200",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Supply",
+    "Blueprint_1_Supplies": "2",
+    "Blueprint_1_Supply_0_ID": "57403 ",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Supply_1_ID": "70",
+    "Blueprint_1_Supply_1_Amount": "1",
+    "Blueprint_1_Build": "27",
+    "Blueprint_1_Map": "Elver",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Bar_Energy",
+    "ConsumeAudioClip": "Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Energy Bar",
+    "Description": "<color=#64c819>25</color> Food                                                                 <color=#64c819>100</color> Energy"
+  }
+}

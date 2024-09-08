@@ -1,0 +1,16 @@
+{
+  "name": "PaintingBullets",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingBullets/PaintingBullets.dat",
+  "data": {
+    "GUID": "f3a2312cea654a6d9876a9339e29aa71",
+    "Type": "Spawn",
+    "ID": "51295",
+    "Tables": [
+      {
+        "Guid": "9f8c047daadd42f19efd68256d6da511",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

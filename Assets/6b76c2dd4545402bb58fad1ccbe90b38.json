@@ -1,0 +1,39 @@
+{
+  "name": "27300KuwaitFlora",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/C/27300KuwaitFlora/Asset.dat",
+  "data": {
+    "GUID": "6b76c2dd4545402bb58fad1ccbe90b38",
+    "Type": "NPC",
+    "ID": "27300",
+    "Shirt": "5301",
+    "Pants": "5302",
+    "Glasses": "761",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Hat": "545  ",
+    "Halloween_Glasses": "761",
+    "Halloween_Shirt": "546  ",
+    "Halloween_Pants": "547 ",
+    "Has_Christmas_Outfit": "True",
+    "Christmas_Shirt": "743 ",
+    "Christmas_Pants": "744 ",
+    "Christmas_Hat": "825 ",
+    "Christmas_Glasses": "761",
+    "Hair": "8",
+    "Face": "24",
+    "Color_Skin": "#bea582",
+    "Color_Hair": "#cdc08c",
+    "Tertiary": "1405",
+    "Equipped": "Tertiary",
+    "Dialogue": "27301",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "26515",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitNPCPosFlora",
+    "Character": "<color=rare>Lieutenant Flora</color>"
+  }
+}

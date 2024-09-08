@@ -1,0 +1,36 @@
+{
+  "name": "Buak_Q_SL_Flowers_00_Ghost",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_SL_Flowers_00_Ghost/Buak_Q_SL_Flowers_00_Ghost.dat",
+  "data": {
+    "GUID": "fea1967331694b43b0bc0242f71250f4",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24401",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Quest",
+    "Condition_1_Logic": "Less_Than",
+    "Condition_1_ID": "27de0ed4e6f14758a93e569e3a1b4622",
+    "Condition_1_Status": "Completed",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "3",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "24401",
+    "Interactability_Reward_0_Value": "True",
+    "Interactability_Reward_1_Type": "Flag_Bool",
+    "Interactability_Reward_1_ID": "24400",
+    "Interactability_Reward_1_Value": "False",
+    "Interactability_Reward_2_Type": "Flag_Bool",
+    "Interactability_Reward_2_ID": "24393",
+    "Interactability_Reward_2_Value": "False"
+  },
+  "translation": {
+    "Name": "Buak_Q_SL_Flowers_00_Ghost",
+    "Interact": "Throw Flowers [{0}]"
+  }
+}

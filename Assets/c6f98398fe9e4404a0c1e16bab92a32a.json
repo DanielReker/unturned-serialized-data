@@ -1,0 +1,22 @@
+{
+  "name": "France_Dead_00_Material",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Assets/Landscape/Materials/France_Dead_00_Material.asset",
+  "data": {
+    "GUID": "c6f98398fe9e4404a0c1e16bab92a32a",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "france.masterbundle",
+      "Path": "assets/materials/dead.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "FOLIAGE_STATIC",
+    "Foliage": {
+      "GUID": "384c2bd84e82436ab37b029dd02072cf"
+    }
+  },
+  "translation": null
+}

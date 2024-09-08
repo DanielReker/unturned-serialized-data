@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Speaker_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Speaker_3/Metro_Speaker_3.dat",
+  "data": {
+    "GUID": "c65b4442730d4b62a935c6eb3b2d825c",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57428",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Speaker #4"
+  }
+}

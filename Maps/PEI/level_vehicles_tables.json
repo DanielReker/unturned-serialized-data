@@ -1,0 +1,490 @@
+[
+  {
+    "name": "Civilian",
+    "tableID": 295,
+    "tiers": [
+      {
+        "name": "Roadster",
+        "chance": 0.0600000061,
+        "table": [
+          {
+            "vehicle": 43
+          },
+          {
+            "vehicle": 44
+          },
+          {
+            "vehicle": 45
+          },
+          {
+            "vehicle": 46
+          },
+          {
+            "vehicle": 47
+          },
+          {
+            "vehicle": 48
+          },
+          {
+            "vehicle": 49
+          },
+          {
+            "vehicle": 50
+          }
+        ]
+      },
+      {
+        "name": "Sedan",
+        "chance": 0.230999991,
+        "table": [
+          {
+            "vehicle": 25
+          },
+          {
+            "vehicle": 26
+          },
+          {
+            "vehicle": 27
+          },
+          {
+            "vehicle": 28
+          },
+          {
+            "vehicle": 29
+          },
+          {
+            "vehicle": 30
+          },
+          {
+            "vehicle": 31
+          },
+          {
+            "vehicle": 32
+          }
+        ]
+      },
+      {
+        "name": "Van",
+        "chance": 0.4123333,
+        "table": [
+          {
+            "vehicle": 35
+          },
+          {
+            "vehicle": 36
+          },
+          {
+            "vehicle": 37
+          },
+          {
+            "vehicle": 38
+          },
+          {
+            "vehicle": 39
+          },
+          {
+            "vehicle": 40
+          },
+          {
+            "vehicle": 41
+          },
+          {
+            "vehicle": 42
+          }
+        ]
+      },
+      {
+        "name": "Truck",
+        "chance": 0.60022223,
+        "table": [
+          {
+            "vehicle": 17
+          },
+          {
+            "vehicle": 18
+          },
+          {
+            "vehicle": 19
+          },
+          {
+            "vehicle": 20
+          },
+          {
+            "vehicle": 21
+          },
+          {
+            "vehicle": 22
+          },
+          {
+            "vehicle": 23
+          },
+          {
+            "vehicle": 24
+          }
+        ]
+      },
+      {
+        "name": "Hatchback",
+        "chance": 0.794777751,
+        "table": [
+          {
+            "vehicle": 9
+          },
+          {
+            "vehicle": 10
+          },
+          {
+            "vehicle": 11
+          },
+          {
+            "vehicle": 12
+          },
+          {
+            "vehicle": 13
+          },
+          {
+            "vehicle": 14
+          },
+          {
+            "vehicle": 15
+          },
+          {
+            "vehicle": 16
+          }
+        ]
+      },
+      {
+        "name": "Offroader",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 1
+          },
+          {
+            "vehicle": 2
+          },
+          {
+            "vehicle": 3
+          },
+          {
+            "vehicle": 4
+          },
+          {
+            "vehicle": 5
+          },
+          {
+            "vehicle": 6
+          },
+          {
+            "vehicle": 7
+          },
+          {
+            "vehicle": 8
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Police",
+    "tableID": 302,
+    "tiers": [
+      {
+        "name": "Car",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 33
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Fire",
+    "tableID": 304,
+    "tiers": [
+      {
+        "name": "Truck",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 34
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Military_Canada",
+    "tableID": 306,
+    "tiers": [
+      {
+        "name": "APC",
+        "chance": 0.11777775,
+        "table": [
+          {
+            "vehicle": 53
+          }
+        ]
+      },
+      {
+        "name": "Ural",
+        "chance": 0.271111,
+        "table": [
+          {
+            "vehicle": 51
+          }
+        ]
+      },
+      {
+        "name": "Humvee",
+        "chance": 0.5494443,
+        "table": [
+          {
+            "vehicle": 52
+          }
+        ]
+      },
+      {
+        "name": "Jeep",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 87
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Medic",
+    "tableID": 312,
+    "tiers": [
+      {
+        "name": "Car",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 54
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Farm",
+    "tableID": 314,
+    "tiers": [
+      {
+        "name": "Tractor",
+        "chance": 0.333333343,
+        "table": [
+          {
+            "vehicle": 85
+          }
+        ]
+      },
+      {
+        "name": "Quad",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 67
+          },
+          {
+            "vehicle": 68
+          },
+          {
+            "vehicle": 69
+          },
+          {
+            "vehicle": 70
+          },
+          {
+            "vehicle": 71
+          },
+          {
+            "vehicle": 72
+          },
+          {
+            "vehicle": 73
+          },
+          {
+            "vehicle": 74
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.1764706,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Huey_Canada",
+    "tableID": 317,
+    "tiers": [
+      {
+        "name": "Hummingbird",
+        "chance": 0.106666662,
+        "table": [
+          {
+            "vehicle": 107
+          }
+        ]
+      },
+      {
+        "name": "Tier",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 93
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Otter",
+    "tableID": 321,
+    "tiers": [
+      {
+        "name": "Tier",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 96
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Runabout",
+    "tableID": 323,
+    "tiers": [
+      {
+        "name": "Tier",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 97
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Jetski",
+    "tableID": 325,
+    "tiers": [
+      {
+        "name": "Tier",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 98
+          },
+          {
+            "vehicle": 99
+          },
+          {
+            "vehicle": 100
+          },
+          {
+            "vehicle": 101
+          },
+          {
+            "vehicle": 102
+          },
+          {
+            "vehicle": 103
+          },
+          {
+            "vehicle": 104
+          },
+          {
+            "vehicle": 105
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Police_Boat",
+    "tableID": 327,
+    "tiers": [
+      {
+        "name": "Tier",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 108
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Tank",
+    "tableID": 529,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  }
+]

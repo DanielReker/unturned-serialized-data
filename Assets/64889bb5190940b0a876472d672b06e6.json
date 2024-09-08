@@ -1,0 +1,39 @@
+{
+  "name": "MopPuddle_Clean",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/MopPuddle_Clean/MopPuddle_Clean.dat",
+  "data": {
+    "GUID": "64889bb5190940b0a876472d672b06e6",
+    "Type": "Small",
+    "ID": "3737",
+    "Asset_Bundle_Version": "2",
+    "Conditions": "3",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3197",
+    "Condition_0_Value": "8",
+    "Condition_0_Logic": "Less_Than",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "3196",
+    "Condition_1_Value": "True",
+    "Condition_1_Logic": "Equal",
+    "Condition_2_Type": "Quest",
+    "Condition_2_ID": "3203",
+    "Condition_2_Status": "Active",
+    "Condition_2_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "76",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "3196",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "3196",
+    "Interactability_Reward_0_Value": "False"
+  },
+  "translation": {
+    "Name": "Mop Puddle Cleaner",
+    "Interactability_Condition_0": "Mop isn't dirty.",
+    "Interact": "Clean Mop[{0}]"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Bunker_Prop_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Bunker_Prop_1/PS_Bunker_Prop_1.dat",
+  "data": {
+    "GUID": "99866222d8b74314bc1b366beb599c30",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59955"
+  },
+  "translation": {
+    "Name": "PS Bunker Prop #2"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Armorer_Ryan",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IFR/Armorer_Ryan/Asset.dat",
+  "data": {
+    "GUID": "84af696b370e4c39976a7fba4726a701",
+    "Type": "NPC",
+    "ID": "15001",
+    "Shirt": "15014",
+    "Pants": "15001",
+    "Mask": "15009",
+    "Face": "7",
+    "Hair": "12",
+    "Color_Skin": "#e2d2b7",
+    "Color_Hair": "#967133",
+    "Secondary": "15039",
+    "Dialogue": "15101"
+  },
+  "translation": {
+    "Name": "IFR Armory Ryan",
+    "Character": "<color=rare>Ryan</color>"
+  }
+}

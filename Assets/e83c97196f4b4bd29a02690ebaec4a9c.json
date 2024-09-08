@@ -1,0 +1,14 @@
+{
+  "name": "25363KLLA2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/253 RG/25360KLLD/25363KLLA2/Asset.dat",
+  "data": {
+    "GUID": "e83c97196f4b4bd29a02690ebaec4a9c",
+    "Type": "Dialogue",
+    "ID": "25363",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks for the help! Hopefully it shouldn't be too hard to find a couple things for everyone."
+  }
+}

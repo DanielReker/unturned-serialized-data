@@ -1,0 +1,16 @@
+{
+  "name": "Frost_Penguin_01_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Penguin_01/Frost_Penguin_01_Welcome/Asset.dat",
+  "data": {
+    "GUID": "d1dd9b507386493cbdafcdec5e22162b",
+    "Type": "Dialogue",
+    "ID": "36594",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "D'oh!",
+    "Response_0": "Bye.."
+  }
+}

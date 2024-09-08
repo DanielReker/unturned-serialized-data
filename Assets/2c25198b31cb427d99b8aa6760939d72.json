@@ -1,0 +1,16 @@
+{
+  "name": "29713KSC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/4/D/29710KSP/29713KSC/Asset.dat",
+  "data": {
+    "GUID": "2c25198b31cb427d99b8aa6760939d72",
+    "Type": "Dialogue",
+    "ID": "29713",
+    "Messages": "0",
+    "Message_0_Pages": "2",
+    "Message_0_Prev": "0"
+  },
+  "translation": {
+    "Message_0_Page_0": "Together, together, together...",
+    "Message_0_Page_1": "The parts. The one with the rocket launcher. They have my parts. You need the parts. They're linked in the desert. "
+  }
+}

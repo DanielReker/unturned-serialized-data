@@ -1,0 +1,19 @@
+{
+  "name": "France_Tourist_Smartphone_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Tourist/France_Tourist_Smartphone_Completed/Asset.dat",
+  "data": {
+    "GUID": "7f5f330b1aaf41df9fdde61bee67a9f2",
+    "Type": "Dialogue",
+    "ID": "4202",
+    "Messages": "1",
+    "Message_0_Pages": "3",
+    "Responses": "1",
+    "Response_0_Dialogue": "4193"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ah yes! I knew you could do it!",
+    "Message_0_Page_1": "Alright let's see... Wait... No! It's out of battery!",
+    "Message_0_Page_2": "NOOOOOOOO!!",
+    "Response_0": "I'm sorry for your loss..."
+  }
+}

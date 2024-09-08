@@ -1,0 +1,20 @@
+{
+  "name": "PS_Barrel_Cache_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Barrel_Cache_0/PS_Barrel_Cache_0.dat",
+  "data": {
+    "GUID": "714b517e923a44ecacaeb9dd41e3b987",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59965",
+    "Interactability": "Dropper",
+    "Interactability_Delay": "600",
+    "Interactability_Hint": "Custom",
+    "Interactability_Reward_ID": "59173",
+    "Material_Palette": "77694250016a40228264f7d306646509",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "PS Barrel Cache #1 [Metal]",
+    "Interact": "Search [{0}]"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "26956KAKPA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/265 CO/2664-2691 Mili/26850KAKD/26956KAKPA/Asset.dat",
+  "data": {
+    "GUID": "cf884f71237b4542a30db5442a546ad6",
+    "Type": "Dialogue",
+    "ID": "26956",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "26851"
+  },
+  "translation": {
+    "Message_0_Page_0": "To understand the art of melee will let you better understand silence. Knowing how to take down the enemy silently means you need to know how to get to them silently."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "ConstructionMat1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Construction/ConstructionMat1/ConstructionMat1.dat",
+  "data": {
+    "GUID": "0c71458e31d54248a8766ceab4ba6a00",
+    "Type": "Spawn",
+    "ID": "51062",
+    "Tables": [
+      {
+        "Guid": "3d928892f4d24e0d917f97b99283aba7",
+        "Weight": "3"
+      },
+      {
+        "Guid": "c39a5496c2ee4897b03469f7a9d488f0",
+        "Weight": "2"
+      },
+      {
+        "Guid": "ab6772bda536483193356c3e0ae2cb01",
+        "Weight": "2"
+      },
+      {
+        "Guid": "3f393b35dc22447b8582e6cfa9d185cf",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

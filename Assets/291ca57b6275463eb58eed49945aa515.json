@@ -1,0 +1,34 @@
+{
+  "name": "Eyepatch_R",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Glasses/Eyepatch_R/Eyepatch_R.dat",
+  "data": {
+    "GUID": "291ca57b6275463eb58eed49945aa515",
+    "Type": "Glasses",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "26758",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.32",
+    "Use_Auto_Icon_Measurements": "False",
+    "WearAudio": "Sounds/Clothes/Clothes.asset",
+    "Hair": "",
+    "Beard": "",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26758",
+    "Blueprint_0_Product": "25300",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "25535",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25300",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "25534",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Eyepatch (Right)",
+    "Description": "Eye think these are pretty neat. (Reverses If Left Handed)"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Kuwait_Money_10_Bundle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Supplies/Kuwait_Money_10_Bundle/Kuwait_Money_10_Bundle.dat",
+  "data": {
+    "GUID": "cea90153d766466fae7749fc4b3004c6",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "5513",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.375"
+  },
+  "translation": {
+    "Name": "Stack of Tens",
+    "Description": "Valuable currency used for trading.<br><color=#FF69B4>Worth 100 KWD</color><br>"
+  }
+}

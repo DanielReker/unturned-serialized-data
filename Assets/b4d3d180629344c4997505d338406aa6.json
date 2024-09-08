@@ -1,0 +1,23 @@
+{
+  "name": "Kuwait_Boss_Vest",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Vests/Kuwait_Boss_Vest/Kuwait_Boss_Vest.dat",
+  "data": {
+    "GUID": "b4d3d180629344c4997505d338406aa6",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "5360",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.565",
+    "Width": "0",
+    "Height": "0",
+    "Armor": "1",
+    "Unsaveable": "",
+    "Unobtainable": ""
+  },
+  "translation": {
+    "Name": "Boss Vest",
+    "Description": "You shouldn't have this."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "29444KJQ",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29440KJD/29444KJQ/Asset.dat",
+  "data": {
+    "GUID": "b87491446be943389c84dad6197b4f10",
+    "Type": "Dialogue",
+    "ID": "29444",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "29441"
+  },
+  "translation": {
+    "Message_0_Page_0": "Just thinking about what a mess we're in. It's hard to even know where this all began."
+  }
+}

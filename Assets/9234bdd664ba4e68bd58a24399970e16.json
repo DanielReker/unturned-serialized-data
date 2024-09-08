@@ -1,0 +1,15 @@
+{
+  "name": "Doctor_Organize_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Doctor_Omega/Doctor_Organize_Completed/Asset.dat",
+  "data": {
+    "GUID": "9234bdd664ba4e68bd58a24399970e16",
+    "Type": "Dialogue",
+    "ID": "3127",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "3125"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh woah, you did a much better job than I ever could have!"
+  }
+}

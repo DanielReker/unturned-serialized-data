@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Car_Seat_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Vehicles/Kuwait_Car_Seat_0/Kuwait_Car_Seat_0.dat",
+  "data": {
+    "GUID": "4bdabb443b294da3b674cec878ddf20c",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5376",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Carseat #1"
+  }
+}

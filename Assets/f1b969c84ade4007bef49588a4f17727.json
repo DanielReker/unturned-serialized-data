@@ -1,0 +1,14 @@
+{
+  "name": "French_Fire_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/French_Fire_1/French_Fire_1.dat",
+  "data": {
+    "GUID": "f1b969c84ade4007bef49588a4f17727",
+    "Type": "Large",
+    "ID": "35049",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "French Fire #2"
+  }
+}

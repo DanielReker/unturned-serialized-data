@@ -1,0 +1,23 @@
+{
+  "name": "Metro_Civ_Mats",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Civ_Mats/Metro_Civ_Mats.dat",
+  "data": {
+    "GUID": "42dfae0a028a441bb47d59f448252d00",
+    "Type": "Spawn",
+    "ID": "57040",
+    "Tables": "6",
+    "Table_0_Asset_ID": "67",
+    "Table_0_Weight": "200",
+    "Table_1_Asset_ID": "66",
+    "Table_1_Weight": "100",
+    "Table_2_Asset_ID": "64",
+    "Table_2_Weight": "50",
+    "Table_3_Asset_ID": "69",
+    "Table_3_Weight": "50",
+    "Table_4_Asset_ID": "71",
+    "Table_4_Weight": "25",
+    "Table_5_Asset_ID": "72",
+    "Table_5_Weight": "25"
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Felix_Metal_Detector_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military Soldier Felix/Felix_Metal_Detector_Completed/Asset.dat",
+  "data": {
+    "GUID": "092ab981842f4ed9866a70d66dddf295",
+    "Type": "Dialogue",
+    "ID": "9098",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh good! This is certainly enough metal to build up support for the walls!"
+  }
+}

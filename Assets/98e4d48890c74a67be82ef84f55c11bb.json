@@ -1,0 +1,12 @@
+{
+  "name": "Tank_Stand",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Tank_Stand/Tank_Stand.dat",
+  "data": {
+    "GUID": "98e4d48890c74a67be82ef84f55c11bb",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Tank Stand"
+  }
+}

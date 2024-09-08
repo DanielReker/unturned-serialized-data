@@ -1,0 +1,14 @@
+{
+  "name": "Leader_Armament_Capture_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IFR/Leader_Holiday/Leader_Armament_Capture_Accepted/Asset.dat",
+  "data": {
+    "GUID": "e47fcfcffb9a43878527f8b977c60459",
+    "Type": "Dialogue",
+    "ID": "15106",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good luck, <color=uncommon>recruit</color>. The forts are far out there and it's hard to reach there without a boat or helicopter."
+  }
+}

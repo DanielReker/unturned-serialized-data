@@ -1,0 +1,26 @@
+{
+  "name": "PS_Steel_Mesh",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Steel_Mesh/PS_Steel_Mesh.dat",
+  "data": {
+    "GUID": "315c1a26b7d9407da79372cc45d452e9",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "59530",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.32",
+    "Use_Auto_Icon_Measurements": "False",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Source": "59527",
+    "Action_0_Blueprint_0_Link": "",
+    "Action_0_Text": "Craft Filter",
+    "Action_0_Tooltip": "Use the Mesh."
+  },
+  "translation": {
+    "Name": "Steel Mesh",
+    "Description": "Fine mesh made from high quality metal. Useful in crafting."
+  }
+}

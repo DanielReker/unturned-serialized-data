@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Outlands_Crossing_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Quests/Kuwait_Outlands/Kuwait_Outlands_Crossing_0/Kuwait_Outlands_Crossing_0.dat",
+  "data": {
+    "GUID": "4e77cf4b38ea4857abb9603c137b0c18",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5999",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Outlands Crossing #1"
+  }
+}

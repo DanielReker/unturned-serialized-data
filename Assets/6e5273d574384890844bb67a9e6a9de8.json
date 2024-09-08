@@ -1,0 +1,14 @@
+{
+  "name": "FixingGood_Reminder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Alexander/Alexander_02/FixingGood_Reminder/Asset.dat",
+  "data": {
+    "GUID": "6e5273d574384890844bb67a9e6a9de8",
+    "Type": "Dialogue",
+    "ID": "24478",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh yes, well the generator is located inside the kitchen that's in building 1, and the radio station is inside that little room with all the windows which is located in building 3."
+  }
+}

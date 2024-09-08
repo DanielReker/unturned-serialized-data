@@ -1,0 +1,12 @@
+{
+  "name": "IR_Morgue",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/Debris/IR_Morgue/IR_Morgue.dat",
+  "data": {
+    "GUID": "d57e56627b9a4b748eed215340cbfb49",
+    "Type": "Large",
+    "ID": "17118"
+  },
+  "translation": {
+    "Name": "Irish Morgue# 1"
+  }
+}

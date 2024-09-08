@@ -1,0 +1,14 @@
+{
+  "name": "29393KDC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29390KDD/29393KDC/Asset.dat",
+  "data": {
+    "GUID": "8895b651cae84901a44b1e7aa5eca552",
+    "Type": "Dialogue",
+    "ID": "29393",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ah, thanks a bunch. I'll be ready, even walking in broad daylight!"
+  }
+}

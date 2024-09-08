@@ -1,0 +1,13 @@
+{
+  "name": "Volga_Orange",
+  "path": "Bundles/Objects/Large/Vehicles/Volga_Orange/Volga_Orange.dat",
+  "data": {
+    "GUID": "63111bba7cc94dbbb1cf186c2450e23e",
+    "Type": "Large",
+    "ID": "649",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Orange Auto"
+  }
+}

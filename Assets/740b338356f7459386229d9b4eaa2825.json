@@ -1,0 +1,15 @@
+{
+  "name": "Buak_License_Plate",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Props/Buak_License_Plate/Buak_License_Plate.dat",
+  "data": {
+    "GUID": "740b338356f7459386229d9b4eaa2825",
+    "Type": "Small",
+    "ID": "25300",
+    "Material_Palette": "5f666e0520164dcbbfb60abd2430ce71",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_License_Plate"
+  }
+}

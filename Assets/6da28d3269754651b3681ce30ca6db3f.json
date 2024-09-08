@@ -1,0 +1,30 @@
+{
+  "name": "Rio_Trees_00_Collection",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Assets/Resources/Rio_Trees_00_Collection.asset",
+  "data": {
+    "GUID": "6da28d3269754651b3681ce30ca6db3f",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "f84b099dd6814696aad45ebf3b61b0c3"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "ffa3da37d1594a8692dd62ddfd1495d0"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "7f38ee97422e4d479a484baa2c265051"
+        },
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

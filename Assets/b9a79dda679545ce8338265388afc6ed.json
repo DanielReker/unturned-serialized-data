@@ -1,0 +1,36 @@
+{
+  "name": "Bandage",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Medical/Bandage/Bandage.dat",
+  "data": {
+    "GUID": "b9a79dda679545ce8338265388afc6ed",
+    "Type": "Medical",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "51400",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Aid": "",
+    "Bleeding": "",
+    "Health": "20",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supply_0_ID": "51020",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Build": "32",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "51401",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Key": "Craft_Dressing",
+    "InventoryAudio": "core.masterbundle:Sounds/Inventory/LightCloth.asset",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Rewards_List_Asset",
+    "Quest_Reward_0_GUID": "d50c2f052bcc4fa0a47cf18f67b23193"
+  },
+  "translation": {
+    "Name": "Bandage",
+    "Description": "Medium quality cloth for stopping bleeding, and recovering.<br><color=#bf1c1c>20 Health</color>"
+  }
+}

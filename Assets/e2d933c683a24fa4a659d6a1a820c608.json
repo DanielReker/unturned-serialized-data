@@ -1,0 +1,17 @@
+{
+  "name": "Buak_Q_S7M2_Elv_Door",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M2/Buak_Q_S7M2_Elv_Door/Buak_Q_S7M2_Elv_Door.dat",
+  "data": {
+    "GUID": "e2d933c683a24fa4a659d6a1a820c608",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Interactability": "Binary_State",
+    "Interactability_Delay": "3",
+    "Interactability_Reset": "10"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M2_Elv_Door"
+  }
+}

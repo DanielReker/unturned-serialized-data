@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Civ_Computer_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Rio_Civ_Computer_1/Rio_Civ_Computer_1.dat",
+  "data": {
+    "GUID": "e8e15c89af80447284c98e2222b65832",
+    "Type": "Medium",
+    "ID": "7036",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Civilian Computer #2"
+  }
+}

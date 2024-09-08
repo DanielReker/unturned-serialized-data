@@ -1,0 +1,25 @@
+{
+  "name": "Pocket_Watch_Belgium",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Medium/Quests/Pocket_Watch_Belgium/Pocket_Watch_Belgium.dat",
+  "data": {
+    "GUID": "006cdf6be48846589aa77de255ebaa86",
+    "Type": "Medium",
+    "ID": "9119",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "9192",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "9192",
+    "Interactability_Reward_0_Value": "True",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Belgium Pocket Watch",
+    "Interact": "Pickup Pocket Watch [{0}]"
+  }
+}

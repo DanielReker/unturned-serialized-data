@@ -1,0 +1,23 @@
+{
+  "name": "PS_Clay",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Clay/PS_Clay.dat",
+  "data": {
+    "GUID": "b23a832a5a0c43f0b6f867474bd01cd8",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "59439",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.87",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Smelt",
+    "Action_0_Tooltip": "Turn into Bricks."
+  },
+  "translation": {
+    "Name": "Chunk Of Clay",
+    "Description": "Soil material which can be made into bricks."
+  }
+}

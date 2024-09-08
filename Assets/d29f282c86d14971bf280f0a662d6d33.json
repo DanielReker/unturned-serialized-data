@@ -1,0 +1,32 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Vengeance/Vengeance_04/Welcome/Asset.dat",
+  "data": {
+    "GUID": "d29f282c86d14971bf280f0a662d6d33",
+    "Type": "Dialogue",
+    "ID": "24094",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "4",
+    "Response_1_Dialogue": "d29f282c86d14971bf280f0a662d6d33",
+    "Response_1_Vendor": "11e2e0c9ecb648338f7cc0dad6d0df8e",
+    "Response_1_Conditions": "1",
+    "Response_1_Condition_0_Type": "Quest",
+    "Response_1_Condition_0_Logic": "Equal",
+    "Response_1_Condition_0_ID": "b37df5435a1f46a3bdb3c64a60e1ad9b",
+    "Response_1_Condition_0_Status": "Completed",
+    "Response_2_Dialogue": "c72571603b1e4c2287aef27ed3f2818e",
+    "Response_2_Conditions": "1",
+    "Response_2_Condition_0_Type": "Quest",
+    "Response_2_Condition_0_Logic": "Equal",
+    "Response_2_Condition_0_ID": "b37df5435a1f46a3bdb3c64a60e1ad9b",
+    "Response_2_Condition_0_Status": "Completed"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hey.",
+    "Response_0": "Hello!",
+    "Response_1": "I'm here to sell vehicle components!",
+    "Response_2": "I have some questions.",
+    "Response_3": "Goodbye."
+  }
+}

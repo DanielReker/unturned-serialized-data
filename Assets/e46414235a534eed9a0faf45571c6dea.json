@@ -1,0 +1,16 @@
+{
+  "name": "Bubbles",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Decals/Bubbles/Bubbles.dat",
+  "data": {
+    "GUID": "e46414235a534eed9a0faf45571c6dea",
+    "Type": "Decal",
+    "ID": "51062",
+    "Decal_X": "6",
+    "Decal_Y": "6",
+    "Decal_LOD_Bias": "1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Decal Bubbles"
+  }
+}

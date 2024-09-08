@@ -1,0 +1,17 @@
+{
+  "name": "Metro_Glass_8",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Glass_8/Metro_Glass_8.dat",
+  "data": {
+    "GUID": "6bc358ff84134ba4b020ef75a8b7b9b0",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57667",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "1",
+    "Interactability_Effect": "57000"
+  },
+  "translation": {
+    "Name": "Metro Glass #9"
+  }
+}

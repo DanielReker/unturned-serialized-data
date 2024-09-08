@@ -1,0 +1,13 @@
+{
+  "name": "Greece_Police_Hats_High",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Spawns/Greece_Items/Greece_Police_Hats_High/Greece_Police_Hats_High.dat",
+  "data": {
+    "GUID": "3f0188f5a3fb4ad484b82152b19e3c40",
+    "Type": "Spawn",
+    "ID": "1022",
+    "Tables": "1",
+    "Table_0_Asset_ID": "3537",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

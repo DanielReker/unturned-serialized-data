@@ -1,0 +1,20 @@
+{
+  "name": "Survivor_Arthur",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IDF/Filler/Survivor_Arthur/Asset.dat",
+  "data": {
+    "GUID": "ce0a7927ddde46d9a96538fd965379ca",
+    "Type": "NPC",
+    "ID": "15055",
+    "Shirt": "162",
+    "Pants": "207",
+    "Face": "20",
+    "Hair": "18",
+    "Color_Skin": "#efe3d0",
+    "Color_Hair": "#493b24",
+    "Dialogue": "15196"
+  },
+  "translation": {
+    "Name": "IDF Survivor Arthur",
+    "Character": "Arthur"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "NAM_Pounder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Quests/NAM_Pounder/Asset.dat",
+  "data": {
+    "GUID": "8f47546844c748f1a7b22a7123087c4f",
+    "Type": "Quest",
+    "ID": "9407",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_ID": "9607",
+    "Condition_0_Value": "1",
+    "Condition_0_Zombie": "Boss_Wind",
+    "Condition_0_Spawn": "",
+    "Condition_0_Spawnpoint": "RioBoss0\"",
+    "Rewards": "3",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "100",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "20",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "9603",
+    "Reward_2_Value": "2",
+    "Reward_2_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "Breaking Grounds.",
+    "Description": "Raul was exploring the international airport of Governator Island, but his expidition was cut short by a bulky zombie creating mini-earthquakes.",
+    "Condition_0": "Kill ground pounder zombie at Governator Island 0/1"
+  }
+}

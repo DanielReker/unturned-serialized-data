@@ -1,0 +1,30 @@
+{
+  "name": "PS_Trader_5_Quest_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_5_Dialogue/PS_Trader_5_Quest_4/Asset.dat",
+  "data": {
+    "GUID": "291bab241b564bdfa684afa2fb6b8d4f",
+    "Type": "Quest",
+    "ID": "59362",
+    "Conditions": "2",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59581",
+    "Condition_0_Amount": "3",
+    "Condition_0_Reset": "",
+    "Condition_1_Zombie": "None",
+    "Condition_1_Type": "Kills_Zombie",
+    "Condition_1_ID": "59354",
+    "Condition_1_Value": "100",
+    "Condition_1_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_1_Radius": "100",
+    "Condition_1_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "59845",
+    "Reward_0_Amount": "2"
+  },
+  "translation": {
+    "Name": "Contract - Gunsmith",
+    "Description": "Bring me 3x <color=#ffffff>Matchbox</color> & kill 100x zombies.",
+    "Condition_1": "{0}/{1} Zombies"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Arthur_Comp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Arthur/PBS_Arthur_Comp/Asset.dat",
+  "data": {
+    "GUID": "4658a5a291414c368c8be352f8011c54",
+    "Type": "Dialogue",
+    "ID": "52263",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank ya kindly, stranger."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "CA_Tac_Cap_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Hats/CA_Tac_Cap_1/CA_Tac_Cap_1.dat",
+  "data": {
+    "GUID": "e4b8dabcf220423fb4d7691e704fec2c",
+    "Type": "Hat",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "4105",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Beard": "",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "4105",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Tactical Cap",
+    "Description": "Pink shade providing hat."
+  }
+}

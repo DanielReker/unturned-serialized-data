@@ -1,0 +1,15 @@
+{
+  "name": "Arena_Attachments_Ranger",
+  "path": "Bundles/Spawns/Items/Arena_Attachments_Ranger/Arena_Attachments_Ranger.dat",
+  "data": {
+    "GUID": "a10e9bc273d54f9ba28b2f2e0667ecbd",
+    "Type": "Spawn",
+    "ID": "80",
+    "Tables": "2",
+    "Table_0_Spawn_ID": "81",
+    "Table_0_Weight": "29",
+    "Table_1_Spawn_ID": "82",
+    "Table_1_Weight": "10"
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tractor_0",
+  "path": "Bundles/Objects/Large/Vehicles/Tractor_0/Tractor_0.dat",
+  "data": {
+    "GUID": "a2dbbe74ffcb490599ac07afacbd00be",
+    "Type": "Large",
+    "ID": "462",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Tractor #1"
+  }
+}

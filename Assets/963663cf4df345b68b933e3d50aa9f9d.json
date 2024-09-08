@@ -1,0 +1,33 @@
+{
+  "name": "France_Tourist_Question",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Tourist/France_Tourist_Question/Asset.dat",
+  "data": {
+    "GUID": "963663cf4df345b68b933e3d50aa9f9d",
+    "Type": "Dialogue",
+    "ID": "4194",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "4",
+    "Response_0_Dialogue": "4195",
+    "Response_1_Dialogue": "4196",
+    "Response_2_Dialogue": "4197",
+    "Response_2_Conditions": "1",
+    "Response_2_Condition_0_Type": "Flag_Bool",
+    "Response_2_Condition_0_ID": "4198",
+    "Response_2_Condition_0_Value": "False",
+    "Response_2_Condition_0_Logic": "Equal",
+    "Response_2_Condition_0_Allow_Unset": "",
+    "Response_2_Rewards": "1",
+    "Response_2_Reward_0_Type": "Flag_Bool",
+    "Response_2_Reward_0_ID": "4198",
+    "Response_2_Reward_0_Value": "True",
+    "Response_3_Dialogue": "4193"
+  },
+  "translation": {
+    "Message_0_Page_0": "Shoot!",
+    "Response_0": "Who are you?",
+    "Response_1": "What do you do here?",
+    "Response_2": "Need any help?",
+    "Response_3": "Nevermind."
+  }
+}

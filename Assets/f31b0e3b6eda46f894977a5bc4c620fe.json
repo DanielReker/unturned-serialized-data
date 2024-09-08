@@ -1,0 +1,19 @@
+{
+  "name": "WM_BP_MillSupport",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/WM_BP_MillSupport/WM_BP_MillSupport.dat",
+  "data": {
+    "GUID": "f31b0e3b6eda46f894977a5bc4c620fe",
+    "Type": "Small",
+    "ID": "3816",
+    "Asset_Bundle_Version": "2",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3273",
+    "Condition_0_Value": "1",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "WM Platform Blueprint",
+    "Interact": "Build[{0}]"
+  }
+}

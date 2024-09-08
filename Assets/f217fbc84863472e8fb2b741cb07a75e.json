@@ -1,0 +1,23 @@
+{
+  "name": "Buak_Note_45",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Note_45/Buak_Note_45.dat",
+  "data": {
+    "GUID": "f217fbc84863472e8fb2b741cb07a75e",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "4",
+    "Material_Palette": "3758ac9d1b774a4a99a407c069e2a21a",
+    "Bundle_Override_Path": "/Objects/Small/Furniture/Buak_Note_00"
+  },
+  "translation": {
+    "Name": "Buak_Note_45",
+    "Interactability_Text_Line_0": "1977-2-22",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Dear Zackery,",
+    "Interactability_Text_Line_3": "We are writing to formally request that you change your last name from Solace. The association with the Solace family name has become unbearable for us, as it is inextricably linked to the tragic loss of our other child. While we understand that you may not be responsible for the incident, the pain is too great for us to bear, and we can no longer see a future in which we can continue to be a family. We believe it is best for all parties involved that we go our separate ways and never cross paths again."
+  }
+}

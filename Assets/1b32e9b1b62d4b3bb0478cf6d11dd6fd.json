@@ -1,0 +1,22 @@
+{
+  "name": "Frost_Zombie_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Zombie_00/Frost_Zombie_00/Asset.dat",
+  "data": {
+    "GUID": "1b32e9b1b62d4b3bb0478cf6d11dd6fd",
+    "Type": "NPC",
+    "ID": "36184",
+    "Face": "19",
+    "Hair": "0",
+    "Beard": "0",
+    "Color_Skin": "#637C63",
+    "Color_Hair": "#C1C1C1",
+    "Shirt": "36319",
+    "Pants": "36321",
+    "Vest": "36579",
+    "Dialogue": "36185"
+  },
+  "translation": {
+    "Name": "Frost NPC Zombie #1 [Safezone]",
+    "Character": "Smittad the Zombie"
+  }
+}

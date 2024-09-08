@@ -1,0 +1,13 @@
+{
+  "name": "BE Tent FM #4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Tent FM #4/BE Tent FM #4.dat",
+  "data": {
+    "GUID": "18b1e2d0ce1d46d6b4bbe6a4712052d6",
+    "Type": "Large",
+    "ID": "9198",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Tent FM #4"
+  }
+}

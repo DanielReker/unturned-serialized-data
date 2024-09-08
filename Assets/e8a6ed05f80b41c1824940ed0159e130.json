@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Water_Tower_Scaffolding_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Utilities/Kuwait_Water_Tower_Scaffolding_3/Kuwait_Water_Tower_Scaffolding_3.dat",
+  "data": {
+    "GUID": "e8a6ed05f80b41c1824940ed0159e130",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5287"
+  },
+  "translation": {
+    "Name": "Kuwait Scaffolding #4"
+  }
+}

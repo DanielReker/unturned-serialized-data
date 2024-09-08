@@ -1,0 +1,13 @@
+{
+  "name": "PS_AC_Pipe_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_AC_Pipe_1/PS_AC_Pipe_1.dat",
+  "data": {
+    "GUID": "b041125143df42ea8f20499f75c75c19",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59532"
+  },
+  "translation": {
+    "Name": "PS AC Pipe #2 [GROUP]"
+  }
+}

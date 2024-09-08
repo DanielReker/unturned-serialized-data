@@ -1,0 +1,18 @@
+{
+  "name": "PBS_SeedLettuce",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardConditioned/PBS_SeedLettuce/PBS_SeedLettuce.dat",
+  "data": {
+    "GUID": "3892f8f3d6d140e88e8c5f9004f6e54e",
+    "Type": "RewardsList",
+    "Conditions": "1",
+    "Condition_0_Type": "Quest",
+    "Condition_0_ID": "52139",
+    "Condition_0_Status": "Completed",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51627",
+    "Reward_0_Amount": "1"
+  },
+  "translation": null
+}

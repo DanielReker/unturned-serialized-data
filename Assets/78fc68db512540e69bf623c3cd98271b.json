@@ -1,0 +1,14 @@
+{
+  "name": "Quest_0_Planter_1_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_1/Quest_0_Planter_1_Return/Asset.dat",
+  "data": {
+    "GUID": "78fc68db512540e69bf623c3cd98271b",
+    "Type": "Dialogue",
+    "ID": "57713",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=#A824B5>Planter 2</color> <color=#64c819>Completed</color>"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "27304KFFSD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27300KFFD/27304KFFSD/Asset.dat",
+  "data": {
+    "GUID": "79a6bbfaceef4d418dd9f82dad5d78d5",
+    "Type": "Dialogue",
+    "ID": "27304",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Enjoy the food! Have a nice day <name_char>!"
+  }
+}

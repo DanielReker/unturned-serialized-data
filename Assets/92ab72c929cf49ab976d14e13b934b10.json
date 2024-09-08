@@ -1,0 +1,22 @@
+{
+  "name": "Frost_Can_Drink_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Edible/Frost_Can_Drink_02/Frost_Can_Drink_02.dat",
+  "data": {
+    "GUID": "92ab72c929cf49ab976d14e13b934b10",
+    "Type": "Water",
+    "Useable": "Consumeable",
+    "ID": "36432",
+    "Water": "30",
+    "Energy": "100",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "36360",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "ConsumeAudioClip": "core.masterbundle:Items/Water/Canned_Cola/Use.mp3"
+  },
+  "translation": {
+    "Name": "Canned Energy Drink",
+    "Description": "<color=#64c819>30</color> Water<br><color=#64c819>100</color> Energy"
+  }
+}

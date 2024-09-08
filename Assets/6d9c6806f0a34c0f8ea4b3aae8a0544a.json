@@ -1,0 +1,14 @@
+{
+  "name": "Scout_Holokai_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Scout_Stuart/Scout_Holokai_Accepted/Asset.dat",
+  "data": {
+    "GUID": "6d9c6806f0a34c0f8ea4b3aae8a0544a",
+    "Type": "Dialogue",
+    "ID": "2156",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Find as much evidence about the science facility that is there! I am curious to know if we can use it to our advantage!"
+  }
+}

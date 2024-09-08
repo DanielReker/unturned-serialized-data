@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Outlands_Minecart_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Quests/Kuwait_Outlands/Kuwait_Outlands_Minecart_0/Kuwait_Outlands_Minecart_0.dat",
+  "data": {
+    "GUID": "7a25a27b3787468fa06593964ec399a6",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5247"
+  },
+  "translation": {
+    "Name": "Kuwait Outlands Minecart"
+  }
+}

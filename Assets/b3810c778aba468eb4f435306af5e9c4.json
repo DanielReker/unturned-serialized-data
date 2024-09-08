@@ -1,0 +1,15 @@
+{
+  "name": "GreeceDecal_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceDecal_0/GreeceDecal_0.dat",
+  "data": {
+    "GUID": "b3810c778aba468eb4f435306af5e9c4",
+    "Type": "Decal",
+    "ID": "6288",
+    "Decal_X": "2",
+    "Decal_Y": "2",
+    "Decal_LOD_Bias": "1"
+  },
+  "translation": {
+    "Name": "Greece Crack Decal #1"
+  }
+}

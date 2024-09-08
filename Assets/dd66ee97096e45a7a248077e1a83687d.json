@@ -1,0 +1,19 @@
+{
+  "name": "Metro_Farmable",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Farmable/Metro_Farmable.dat",
+  "data": {
+    "GUID": "dd66ee97096e45a7a248077e1a83687d",
+    "Type": "Spawn",
+    "ID": "57021",
+    "Tables": "4",
+    "Table_0_Asset_ID": "57186",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "57190",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "57196",
+    "Table_2_Weight": "10",
+    "Table_3_Asset_ID": "57202",
+    "Table_3_Weight": "10"
+  },
+  "translation": null
+}

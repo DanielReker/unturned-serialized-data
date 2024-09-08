@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Ore_Iron",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Ore_Iron/Drop_Ore_Iron.dat",
+  "data": {
+    "GUID": "bebee2ad34da486c90186c0c95122b05",
+    "Type": "Spawn",
+    "ID": "25503",
+    "Tables": [
+      {
+        "Guid": "714e272931bf4fc6ab5f0e6c6b300edf",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

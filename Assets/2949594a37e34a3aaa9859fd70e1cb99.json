@@ -1,0 +1,44 @@
+{
+  "name": "SpecClothes",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Spec/SpecClothes/SpecClothes.dat",
+  "data": {
+    "GUID": "2949594a37e34a3aaa9859fd70e1cb99",
+    "Type": "Spawn",
+    "ID": "51016",
+    "Tables": [
+      {
+        "Guid": "b6bd5ba92fd2453e987ddf9b847b0a87",
+        "Weight": "5"
+      },
+      {
+        "Guid": "2a59fb6d7b694eb898e2a3c44cb2f469",
+        "Weight": "5"
+      },
+      {
+        "Guid": "aac2184979554386b9569a981a1126eb",
+        "Weight": "5"
+      },
+      {
+        "Guid": "fb43bf7c92794659a52d9a369358d882",
+        "Weight": "5"
+      },
+      {
+        "Guid": "ef2f901cade64c939220ce2da5c6ab22",
+        "Weight": "2"
+      },
+      {
+        "Guid": "894c019cdbad47a5b9149561d041bb61",
+        "Weight": "1"
+      },
+      {
+        "Guid": "7c8d7a8d7bae4228b048d348039b7acb",
+        "Weight": "1"
+      },
+      {
+        "Guid": "91b07436e14f4dc78850758d62959238",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

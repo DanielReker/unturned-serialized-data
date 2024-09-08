@@ -1,0 +1,33 @@
+{
+  "name": "29700KuwaitSebastian",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/4/C/29700KuwaitSebastian/Asset.dat",
+  "data": {
+    "GUID": "572cd0a203ce4ff4b17516ed308098b5",
+    "Type": "NPC",
+    "ID": "29700",
+    "Hat": "1761",
+    "Mask": "1762",
+    "Vest": "1760",
+    "Shirt": "1759",
+    "Pants": "1758",
+    "Face": "16",
+    "Hair": "14",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#191919",
+    "Dialogue": "29701",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "29322",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Short",
+    "Condition_1_ID": "29706",
+    "Condition_1_Value": "3",
+    "Condition_1_Logic": "Not_Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitSurvivorSebastian",
+    "Character": "Sebastian"
+  }
+}

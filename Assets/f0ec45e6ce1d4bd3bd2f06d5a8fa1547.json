@@ -1,0 +1,16 @@
+{
+  "name": "BE Basket",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Medium/Furniture/BE Basket/BE Basket.dat",
+  "data": {
+    "GUID": "f0ec45e6ce1d4bd3bd2f06d5a8fa1547",
+    "Type": "Medium",
+    "ID": "9199",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "275",
+    "Interactability_Effect": "65"
+  },
+  "translation": {
+    "Name": "BE Basket"
+  }
+}

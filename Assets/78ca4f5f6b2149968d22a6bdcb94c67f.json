@@ -1,0 +1,28 @@
+{
+  "name": "Canned_Sardines",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Food/Canned_Sardines/Canned_Sardines.dat",
+  "data": {
+    "GUID": "78ca4f5f6b2149968d22a6bdcb94c67f",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "5230",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Food": "40",
+    "Water": "10",
+    "Quality_Min": "50",
+    "Quality_Max": "100",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "5538",
+    "Quest_Reward_0_Amount": "1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Canned_Sardines",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Canned Sardines",
+    "Description": "Carefully sealed sardine fish.<br><color=#AB8019>+40 Food</color><br><color=#3298C8>+10 Water</color>"
+  }
+}

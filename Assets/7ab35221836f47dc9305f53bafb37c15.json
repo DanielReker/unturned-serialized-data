@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Cage_Light",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Cage_Light/Bar_Cage_Light.dat",
+  "data": {
+    "GUID": "7ab35221836f47dc9305f53bafb37c15",
+    "Type": "Effect",
+    "ID": "25347"
+  },
+  "translation": null
+}

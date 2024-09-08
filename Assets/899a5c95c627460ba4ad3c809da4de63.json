@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Plot",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Plot/PS_Drops_Plot.dat",
+  "data": {
+    "GUID": "899a5c95c627460ba4ad3c809da4de63",
+    "Type": "Spawn",
+    "ID": "59369",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59900",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

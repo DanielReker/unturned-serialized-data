@@ -1,0 +1,31 @@
+{
+  "name": "Snow_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/Others/Snow_01/Asset.dat",
+  "data": {
+    "GUID": "8b9bc92e3a5441409d5b3bd5caf3bb1a",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "587521669a3746e283ca65c4cb475531",
+    "Glasses": "484c2f1add20479090d780ed02fad2dc",
+    "Shirt": "a902f1dcd4ba48aebc927e877f14e27d",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "Face": "24",
+    "Hair": "8",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#191919",
+    "Dialogue": "c946dd43a16746ae9b16873b44291fa9",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24785",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Snow_01",
+    "Character": "<color=#C4C4C4>Snow</color>"
+  }
+}

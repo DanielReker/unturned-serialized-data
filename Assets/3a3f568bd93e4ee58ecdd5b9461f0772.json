@@ -1,0 +1,13 @@
+{
+  "name": "Buak_PVC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_PVC/Buak_PVC.dat",
+  "data": {
+    "GUID": "3a3f568bd93e4ee58ecdd5b9461f0772",
+    "Type": "Spawn",
+    "ID": "25351",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25316",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

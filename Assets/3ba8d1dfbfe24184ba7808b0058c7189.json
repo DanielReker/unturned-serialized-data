@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Note_34",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Note_34/Buak_Note_34.dat",
+  "data": {
+    "GUID": "3ba8d1dfbfe24184ba7808b0058c7189",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Material_Palette": "3758ac9d1b774a4a99a407c069e2a21a",
+    "Bundle_Override_Path": "/Objects/Small/Furniture/Buak_Note_00"
+  },
+  "translation": {
+    "Name": "Buak_Note_34",
+    "Interactability_Text_Line_0": "If you are reading this, that would be surprising. I am… or I suppose was a subject at this place, but no more. I have chosen to join the others as we ravage the world, eradicating all life outside of this place. We are <b>Pure Armageddon</b>. Kill you soon! XOXO"
+  }
+}

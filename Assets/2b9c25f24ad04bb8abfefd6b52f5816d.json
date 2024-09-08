@@ -1,0 +1,14 @@
+{
+  "name": "Buak_LAB_Armory_Open",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_LAB/Buak_LAB_Armory_Open/Buak_LAB_Armory_Open.dat",
+  "data": {
+    "GUID": "2b9c25f24ad04bb8abfefd6b52f5816d",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_LAB_Armory_Open"
+  }
+}

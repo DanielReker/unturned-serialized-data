@@ -1,0 +1,35 @@
+{
+  "name": "PS_Jeans_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Pants/PS_Jeans_2/PS_Jeans_2.dat",
+  "data": {
+    "GUID": "f5985b36c230450ba80be9362917cc7e",
+    "Type": "Pants",
+    "Rarity": "Common",
+    "Useable": "Clothing",
+    "ID": "59066",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Use_Auto_Icon_Measurements": "False",
+    "Width": "4",
+    "Height": "2",
+    "Armor": "0.90",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "59066",
+    "Blueprint_0_Product": "59002",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "59002",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "32",
+    "Quality_Min": "75",
+    "Quality_Max": "100"
+  },
+  "translation": {
+    "Name": "Jeans",
+    "Description": "Standard denim pants."
+  }
+}

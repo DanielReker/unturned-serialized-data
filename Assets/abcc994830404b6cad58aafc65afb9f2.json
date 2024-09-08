@@ -1,0 +1,34 @@
+{
+  "name": "PS_PDW_Sights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Sights/PS_PDW_Sights/PS_PDW_Sights.dat",
+  "data": {
+    "GUID": "abcc994830404b6cad58aafc65afb9f2",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "ID": "60008",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.13",
+    "Calibers": "1",
+    "Caliber_0": "58904",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "60008",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "59000",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Tool": "59004",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Scrap",
+    "Action_0_Tooltip": "Turn into <color=#ffffff>Metal</color>."
+  },
+  "translation": {
+    "Name": "PDW Sights",
+    "Description": "<color=#FFC023>Rail mounted</color> iron sights from PDW."
+  }
+}

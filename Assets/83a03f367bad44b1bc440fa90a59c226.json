@@ -1,0 +1,27 @@
+{
+  "name": "28450KLD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/C/28450KLD/Asset.dat",
+  "data": {
+    "GUID": "83a03f367bad44b1bc440fa90a59c226",
+    "Type": "NPC",
+    "ID": "28450",
+    "Shirt": "180",
+    "Pants": "529",
+    "Face": "24",
+    "Hair": "15",
+    "Beard": "0",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#CDC08C",
+    "Dialogue": "28451",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "25050",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitLenaDay",
+    "Character": "Lena"
+  }
+}

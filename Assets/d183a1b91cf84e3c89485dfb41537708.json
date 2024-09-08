@@ -1,0 +1,16 @@
+{
+  "name": "27459KACIMF",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27450KACD/27459KACIMF/Asset.dat",
+  "data": {
+    "GUID": "d183a1b91cf84e3c89485dfb41537708",
+    "Type": "Dialogue",
+    "ID": "27459",
+    "Messages": "1",
+    "Message_0_Pages": "3"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=epic>Maria</color> is our medic. She can fix almost any injury, It's like magic. But she's also one for violence. Try not to get too casual.",
+    "Message_0_Page_1": "<color=rare>Flora</color> is our chef. She's not the best cook, actually. Mostly using precooked food. She's not very good with guns. Collectively, we try to keep the violence away from her. Please try to do the same.",
+    "Message_0_Page_2": "You'll probably need to give <color=epic>Maria</color> money for medical care, and you can probably get paid for giving her extra medicine. <color=legendary>Snow</color> handles the food logistics for <color=rare>Flora</color>, so you won't have to help her."
+  }
+}

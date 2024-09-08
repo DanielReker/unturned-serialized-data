@@ -1,0 +1,20 @@
+{
+  "name": "Quest_0_Vendor_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_0/Quest_0_Vendor_2/Asset.dat",
+  "data": {
+    "GUID": "76beb216326c47b6abdeb552943fa83a",
+    "Type": "Vendor",
+    "ID": "57702",
+    "Selling": "2",
+    "Selling_0_ID": "57473  ",
+    "Selling_0_Cost": "7500",
+    "Selling_1_ID": "57476   ",
+    "Selling_1_Cost": "10000",
+    "Disable_Sorting": "",
+    "Currency": "56cc0f28e97a4c5eaf19c8e652c34369"
+  },
+  "translation": {
+    "Name": "<color=#64c819>Golden Weapons</color>",
+    "Description": "Weapons unlocked after completing various quest lines."
+  }
+}

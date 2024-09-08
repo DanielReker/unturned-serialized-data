@@ -1,0 +1,13 @@
+{
+  "name": "Quarry_Catwalk_1",
+  "path": "Bundles/Objects/Medium/Business/Quarry_Catwalk_1/Quarry_Catwalk_1.dat",
+  "data": {
+    "GUID": "5c918cc304a24746b456476872aa7b63",
+    "Type": "Medium",
+    "ID": "874",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Quarry Catwalk Bracket"
+  }
+}

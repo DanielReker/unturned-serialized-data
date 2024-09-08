@@ -1,0 +1,48 @@
+{
+  "name": "Soda",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Soda/Soda.dat",
+  "data": {
+    "GUID": "371049d2e443457791d3804d892e642d",
+    "Type": "Spawn",
+    "ID": "51105",
+    "Tables": [
+      {
+        "Guid": "cef5c321555d4975b300f19605b6b44c",
+        "Weight": "1"
+      },
+      {
+        "Guid": "50aa3942607c43b8ad19ea412930d56f",
+        "Weight": "1"
+      },
+      {
+        "Guid": "1b43330a77c548c4bc2d8a279d3cecb4",
+        "Weight": "1"
+      },
+      {
+        "Guid": "8868542a219842df956135714578c791",
+        "Weight": "1"
+      },
+      {
+        "Guid": "852e4d65adaa49fb82fdbfb004ddd115",
+        "Weight": "1"
+      },
+      {
+        "Guid": "00f4271248cc4309af8b7bd5e763ae8d",
+        "Weight": "1"
+      },
+      {
+        "Guid": "f1f59d36e26344f9a88a1c05d0279343",
+        "Weight": "1"
+      },
+      {
+        "Guid": "51ac36791ccd48af89c9838bcdbbb2b9",
+        "Weight": "1"
+      },
+      {
+        "Guid": "4f69a67af6934ed480b3d56e99f2eb7e",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

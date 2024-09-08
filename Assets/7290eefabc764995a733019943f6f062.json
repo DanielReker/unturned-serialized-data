@@ -1,0 +1,13 @@
+{
+  "name": "CA_Generic_Store_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Generic_Store_1/CA_Generic_Store_1.dat",
+  "data": {
+    "GUID": "7290eefabc764995a733019943f6f062",
+    "Type": "Large",
+    "ID": "4671",
+    "Material_Palette": "3987063d60df43e2ac4ca66fe91880f1"
+  },
+  "translation": {
+    "Name": "California Store #2"
+  }
+}

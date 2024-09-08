@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Car_Engine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Car_Engine/PS_Drops_Car_Engine.dat",
+  "data": {
+    "GUID": "5aa32881228f45d4bee064d325426762",
+    "Type": "Spawn",
+    "ID": "59397",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59285",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

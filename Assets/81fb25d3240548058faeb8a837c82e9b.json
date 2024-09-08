@@ -1,0 +1,32 @@
+{
+  "name": "Viola_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/01/Viola_01/Asset.dat",
+  "data": {
+    "GUID": "81fb25d3240548058faeb8a837c82e9b",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "72be5a99b2574c7097c6bd79a3d1be6c",
+    "Shirt": "17a75104459046fba49bbb263424c99b",
+    "Vest": "62f25671009248ffa7c86d41da99880d",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "1",
+    "Hair": "4",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#161616",
+    "Dialogue": "8f6625708aa849e69f993b567645db9e",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24788",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Viola_01",
+    "Character": "<color=#8F00FF>Viola</color>"
+  }
+}

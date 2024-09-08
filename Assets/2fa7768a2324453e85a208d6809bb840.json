@@ -1,0 +1,16 @@
+{
+  "name": "Dmitriy_History",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Dmitriy Davidov/Dmitriy_History/Asset.dat",
+  "data": {
+    "GUID": "2fa7768a2324453e85a208d6809bb840",
+    "Type": "Dialogue",
+    "ID": "5103",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Well ... <pause> My name is<color=epic>Dmitry Davydov</color>. I've been monitoring what's happening. I'm also a Tailor. Bring some and I might just give you something in return.",
+    "Response_0": "Thanks for telling me."
+  }
+}

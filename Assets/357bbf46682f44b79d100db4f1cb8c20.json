@@ -1,0 +1,25 @@
+{
+  "name": "Greece_Police_High",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Spawns/Greece_Items/Greece_Police_High/Greece_Police_High.dat",
+  "data": {
+    "GUID": "357bbf46682f44b79d100db4f1cb8c20",
+    "Type": "Spawn",
+    "ID": "1018",
+    "Tables": "7",
+    "Table_0_Spawn_ID": "1037",
+    "Table_0_Weight": "800",
+    "Table_1_Spawn_ID": "1021",
+    "Table_1_Weight": "55",
+    "Table_2_Spawn_ID": "1022",
+    "Table_2_Weight": "50",
+    "Table_3_Spawn_ID": "1019",
+    "Table_3_Weight": "45",
+    "Table_4_Spawn_ID": "671",
+    "Table_4_Weight": "40",
+    "Table_5_Spawn_ID": "102",
+    "Table_5_Weight": "30",
+    "Table_6_Spawn_ID": "1020",
+    "Table_6_Weight": "15"
+  },
+  "translation": null
+}

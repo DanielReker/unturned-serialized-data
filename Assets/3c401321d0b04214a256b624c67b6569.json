@@ -1,0 +1,13 @@
+{
+  "name": "PS_Substation_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Substation_1/PS_Substation_1.dat",
+  "data": {
+    "GUID": "3c401321d0b04214a256b624c67b6569",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59514"
+  },
+  "translation": {
+    "Name": "PS Substation #2"
+  }
+}

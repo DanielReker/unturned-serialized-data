@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Spotlight_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Traffic/Kuwait_Spotlight_1/Kuwait_Spotlight_1.dat",
+  "data": {
+    "GUID": "c67bc8d678374f289d950348033dfafe",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5384"
+  },
+  "translation": {
+    "Name": "Kuwait Spotlight #2"
+  }
+}

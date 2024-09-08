@@ -1,0 +1,13 @@
+{
+  "name": "Washington Arena_Arena_Backpacks",
+  "path": "Bundles/Spawns/Items/Washington Arena_Arena_Backpacks/Washington Arena_Arena_Backpacks.dat",
+  "data": {
+    "GUID": "f0ba1a7c2e8943189925a5a86660164c",
+    "Type": "Spawn",
+    "ID": "33",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "34",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

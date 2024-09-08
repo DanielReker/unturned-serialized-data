@@ -1,0 +1,14 @@
+{
+  "name": "Monolith",
+  "path": "Bundles/Objects/Large/Scenery/Monolith/Monolith.dat",
+  "data": {
+    "GUID": "fbf50eb7c8034c3e8d0214e7e4c2b9f4",
+    "Type": "Large",
+    "ID": "490",
+    "Snowshoe": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Monolith"
+  }
+}

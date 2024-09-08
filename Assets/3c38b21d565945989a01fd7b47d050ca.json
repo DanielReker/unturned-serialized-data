@@ -1,0 +1,18 @@
+{
+  "name": "29326KLWWC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29320KLWD/29326KLWWC/Asset.dat",
+  "data": {
+    "GUID": "3c38b21d565945989a01fd7b47d050ca",
+    "Type": "Dialogue",
+    "ID": "29326",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Rewards": "1",
+    "Message_0_Reward_0_Type": "Flag_Bool",
+    "Message_0_Reward_0_ID": "29327",
+    "Message_0_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Message_0_Page_0": "I don't trust you with these, these look too valuable. The only one I trust is <color=legendary>the one with white hair.</color>"
+  }
+}

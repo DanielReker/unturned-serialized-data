@@ -1,0 +1,23 @@
+{
+  "name": "Buak_Deer2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Animals/Buak_Deer2/Buak_Deer2.dat",
+  "data": {
+    "GUID": "7378daa127f54224aee4805f97fd42e7",
+    "Type": "Animal",
+    "ID": "25307",
+    "Speed_Run": "8",
+    "Speed_Walk": "4",
+    "Behaviour": "Offense",
+    "Damage": "35",
+    "Horizontal_Attack_Range": "3",
+    "Health": "400",
+    "Reward_ID": "25383",
+    "Reward_XP": "100",
+    "Reward_Min": "1",
+    "Reward_Max": "1",
+    "Glance_Anim_Variants": "2"
+  },
+  "translation": {
+    "Name": "Buak_Deer2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Worklight_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Worklight_02/Buak_Worklight_02.dat",
+  "data": {
+    "GUID": "ee50f64f7d2a4a5797595fe846fee0a1",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Worklight_02"
+  }
+}

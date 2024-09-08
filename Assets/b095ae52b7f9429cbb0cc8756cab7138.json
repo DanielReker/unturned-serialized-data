@@ -1,0 +1,35 @@
+{
+  "name": "HikingPackOrange",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Backpacks/HikingPackOrange/HikingPackOrange.dat",
+  "data": {
+    "GUID": "b095ae52b7f9429cbb0cc8756cab7138",
+    "Type": "Backpack",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "51994",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "8",
+    "Height": "10",
+    "Movement_Speed_Multiplier": "0.85",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51994",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "51020",
+    "Blueprint_0_Output_0_Amount": "4",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51020",
+    "Blueprint_1_Supply_0_Amount": "4",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Orange Hiking Pack",
+    "Description": "Large hiking bag."
+  }
+}

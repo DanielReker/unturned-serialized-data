@@ -1,0 +1,20 @@
+{
+  "name": "PS_Barrel_Cache_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Barrel_Cache_1/PS_Barrel_Cache_1.dat",
+  "data": {
+    "GUID": "6df0ea0589c14d279f734499ee0bf1e6",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59966",
+    "Interactability": "Dropper",
+    "Interactability_Delay": "600",
+    "Interactability_Hint": "Custom",
+    "Interactability_Reward_ID": "59173",
+    "Material_Palette": "ea8f0d5087554cf0ba7d937725c9b6ee",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "PS Barrel Cache #2 [Plastic]",
+    "Interact": "Search [{0}]"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Military_Government_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Government_3/Asset.dat",
+  "data": {
+    "GUID": "4022d342cbf648e9b145b9471256edd9",
+    "Type": "NPC",
+    "ID": "3600",
+    "Shirt": "179",
+    "Pants": "214",
+    "Face": "4",
+    "Hair": "18",
+    "Beard": "0",
+    "Color_Skin": "#94764B",
+    "Color_Hair": "#373737",
+    "Pose": "Rest",
+    "Dialogue": "3646"
+  },
+  "translation": {
+    "Name": "Greek Military Government Estevao",
+    "Character": "<color=mythical>President Estevao</color>"
+  }
+}

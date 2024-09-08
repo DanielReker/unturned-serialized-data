@@ -1,0 +1,13 @@
+{
+  "name": "ZPD_Vehicle_ZPD",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/ZPD_Vehicle_ZPD/ZPD_Vehicle_ZPD.dat",
+  "data": {
+    "GUID": "e5a1f9e827144ed9af273df0d2647738",
+    "Type": "Spawn",
+    "ID": "5527",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5526",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

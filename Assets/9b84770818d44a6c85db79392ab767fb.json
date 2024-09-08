@@ -1,0 +1,13 @@
+{
+  "name": "PS_Gantry_Crane_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Gantry_Crane_3/PS_Gantry_Crane_3.dat",
+  "data": {
+    "GUID": "9b84770818d44a6c85db79392ab767fb",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59490"
+  },
+  "translation": {
+    "Name": "PS Gantry Crane #4"
+  }
+}

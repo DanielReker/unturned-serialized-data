@@ -1,0 +1,15 @@
+{
+  "name": "CA_Pharmacy_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Pharmacy_0/CA_Pharmacy_0.dat",
+  "data": {
+    "GUID": "44a2f91eb5504c7ba99c8b83418cd4dc",
+    "Type": "Large",
+    "ID": "4690",
+    "Material_Palette": "3987063d60df43e2ac4ca66fe91880f1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Large/Buildings/Medic_0"
+  },
+  "translation": {
+    "Name": "California Pharmacy #1"
+  }
+}

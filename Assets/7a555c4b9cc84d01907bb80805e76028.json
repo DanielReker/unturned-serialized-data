@@ -1,0 +1,16 @@
+{
+  "name": "FirstLove_04_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_02/FirstLove_04_Completed/Asset.dat",
+  "data": {
+    "GUID": "7a555c4b9cc84d01907bb80805e76028",
+    "Type": "Dialogue",
+    "ID": "24558",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Message_0_FaceOverride": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you! That should be all for now. Thank you for all the help! You will see what it was all for soon hopefully! Unless there's any delays...",
+    "Message_0_Page_1": "I guess in the meantime just help out anyone else around here who needs help!"
+  }
+}

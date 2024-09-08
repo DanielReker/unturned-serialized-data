@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Planks",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Planks/PS_Drops_Planks.dat",
+  "data": {
+    "GUID": "fb19455fa9524f36b91f153b7c2e0117",
+    "Type": "Spawn",
+    "ID": "59355",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59202",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

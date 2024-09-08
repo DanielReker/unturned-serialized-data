@@ -1,0 +1,16 @@
+{
+  "name": "CA_M4_Sight",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Sights/CA_M4_Sight/CA_M4_Sight.dat",
+  "data": {
+    "GUID": "f278fc801b5d49dcb4f6e2d0cd2789af",
+    "Type": "Sight",
+    "ID": "4011",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.11"
+  },
+  "translation": {
+    "Name": "Fissure Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

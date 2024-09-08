@@ -1,0 +1,47 @@
+{
+  "name": "Buak_Crop_00_Obj",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Landscapes/Objects/Buak_Crop_00_Obj.asset",
+  "data": {
+    "GUID": "732256dd296c493bbddbec405b9a62e7",
+    "Type": "SDG.Framework.Foliage.FoliageObjectInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Density": "2",
+    "Min_Normal_Position_Offset": "0",
+    "Max_Normal_Position_Offset": "0",
+    "Normal_Rotation_Offset": {
+      "X": "-90",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Normal_Rotation_Alignment": "1",
+    "Min_Weight": "0.75",
+    "Max_Weight": "1",
+    "Min_Angle": "0",
+    "Max_Angle": "60",
+    "Min_Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Max_Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "360"
+    },
+    "Min_Scale": {
+      "X": "1",
+      "Y": "1",
+      "Z": "1"
+    },
+    "Max_Scale": {
+      "X": "1",
+      "Y": "1",
+      "Z": "1"
+    },
+    "Object": {
+      "GUID": "4c4b0d6223cf49828a522b4b92d0a49d"
+    },
+    "Obstruction_Radius": "4"
+  },
+  "translation": null
+}

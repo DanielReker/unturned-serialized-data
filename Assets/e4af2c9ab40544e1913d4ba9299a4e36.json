@@ -1,0 +1,14 @@
+{
+  "name": "Supply_Dropbox_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Supply_Depot/Supply_Dropbox_Completed/Asset.dat",
+  "data": {
+    "GUID": "e4af2c9ab40544e1913d4ba9299a4e36",
+    "Type": "Dialogue",
+    "ID": "3370",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Well, well, you pulled through! Tell me, did you run into any filthy soldiers while out there?"
+  }
+}

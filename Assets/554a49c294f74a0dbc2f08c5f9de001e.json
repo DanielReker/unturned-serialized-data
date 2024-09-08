@@ -1,0 +1,24 @@
+{
+  "name": "PS_Gas_Stations",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/Material_Palettes/PS_Gas_Stations.asset",
+  "data": {
+    "GUID": "554a49c294f74a0dbc2f08c5f9de001e",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/Materials/Gas/Gas_Station_0.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/Materials/Gas/Gas_Station_1.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/Materials/Gas/Gas_Station_2.mat"
+      }
+    ]
+  },
+  "translation": null
+}

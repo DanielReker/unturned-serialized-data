@@ -1,0 +1,15 @@
+{
+  "name": "Metro_Grocer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Grocer/Metro_Grocer.dat",
+  "data": {
+    "GUID": "077bf02e057a4047bc211599107516e2",
+    "Type": "Spawn",
+    "ID": "57067",
+    "Tables": "2",
+    "Table_0_Asset_ID": "57439 ",
+    "Table_0_Weight": "50",
+    "Table_1_Asset_ID": "57440 ",
+    "Table_1_Weight": "50"
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Clock_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Clock_2/PS_Clock_2.dat",
+  "data": {
+    "GUID": "ecd1997f556443d3bc49c3cf6f5b0201",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59821"
+  },
+  "translation": {
+    "Name": "PS Clock #3"
+  }
+}

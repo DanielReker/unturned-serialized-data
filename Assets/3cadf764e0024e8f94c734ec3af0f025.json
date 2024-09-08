@@ -1,0 +1,14 @@
+{
+  "name": "GrandmaGrindset_Accept",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Grandma/Grandma_02/GrandmaGrindset_Accept/Asset.dat",
+  "data": {
+    "GUID": "3cadf764e0024e8f94c734ec3af0f025",
+    "Type": "Dialogue",
+    "ID": "24425",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you dear."
+  }
+}

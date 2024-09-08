@@ -1,0 +1,10 @@
+{
+  "name": "Wall_Birch",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Structures/Wall_Birch/Wall_Birch.dat",
+  "data": {
+    "GUID": "bfdc3b28e04f42019b39153e363f1865",
+    "Type": "Effect",
+    "ID": "25433"
+  },
+  "translation": null
+}

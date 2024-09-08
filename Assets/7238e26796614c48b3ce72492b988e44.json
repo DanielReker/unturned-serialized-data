@@ -1,0 +1,15 @@
+{
+  "name": "Profile_Tarantula",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Assets/VehiclePhysicsProfiles/Profile_Tarantula.asset",
+  "data": {
+    "GUID": "7238e26796614c48b3ce72492b988e44",
+    "Type": "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Root_Mass": "4",
+    "Wheel_Mass": "8",
+    "Carjack_Force_Multiplier": "4",
+    "Wheel_Drive_Model": "All",
+    "Wheel_Brake_Model": "All",
+    "Wheel_Damping_Rate": "0.3"
+  },
+  "translation": null
+}

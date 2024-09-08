@@ -1,0 +1,16 @@
+{
+  "name": "Red",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Decals/Red/Red.dat",
+  "data": {
+    "GUID": "3072149cdcae4e6c8502e713e169359f",
+    "Type": "Decal",
+    "ID": "51065",
+    "Decal_X": "6",
+    "Decal_Y": "6",
+    "Decal_LOD_Bias": "1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Decal Red"
+  }
+}

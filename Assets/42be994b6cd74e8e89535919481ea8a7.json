@@ -1,0 +1,32 @@
+{
+  "name": "PS_Copper_Wire",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Copper_Wire/PS_Copper_Wire.dat",
+  "data": {
+    "GUID": "42be994b6cd74e8e89535919481ea8a7",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "59007",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.35",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59007",
+    "Blueprint_0_Supply_0_Amount": "6",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "59008",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Stack",
+    "Action_0_Tooltip": "Compactify"
+  },
+  "translation": {
+    "Name": "Copper Wire",
+    "Description": "Strand of highly conductive metal. Can be utilised in crafting."
+  }
+}

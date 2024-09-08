@@ -1,0 +1,13 @@
+{
+  "name": "Cord",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/EOD/Cord/Cord.dat",
+  "data": {
+    "GUID": "52498a80a69b410dbb5b91ec6b3d7c0a",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS EOD Cord (QUEST)"
+  }
+}

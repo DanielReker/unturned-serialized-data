@@ -1,0 +1,14 @@
+{
+  "name": "Rio_Vacc_Bottom",
+  "path": "Bundles/Items/Pants/Rio_Vacc_Bottom/Rio_Vacc_Bottom.dat",
+  "data": {
+    "GUID": "de72b53ebd454d7fbaa8c1cfaf42b117",
+    "Type": "Pants",
+    "ID": "1573",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Pro": ""
+  },
+  "translation": null
+}

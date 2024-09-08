@@ -1,0 +1,36 @@
+{
+  "name": "Metro_TP_Church",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_TP_Church/Metro_TP_Church.dat",
+  "data": {
+    "GUID": "c9c785201f0245faa2ff41d3550406f2",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57744",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "57177",
+    "Condition_0_Value": "3",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "Church",
+    "Interactability_Conditions": "2",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "58010",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability_Condition_1_Type": "Flag_Bool",
+    "Interactability_Condition_1_ID": "57173",
+    "Interactability_Condition_1_Value": "True",
+    "Interactability_Condition_1_Logic": "Equal",
+    "Master_Bundle_Override": "metro.masterbundle",
+    "Bundle_Override_Path": "/Objects/Quest/NPC/Final/Metro_TP_Final"
+  },
+  "translation": {
+    "Name": "Metro Bossfight [TP]",
+    "Interact": "Teleport [{0}]",
+    "Interactability_Condition_0": "Rescue him.",
+    "Interactability_Condition_1": "Church interior incomplete."
+  }
+}

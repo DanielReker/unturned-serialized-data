@@ -1,0 +1,15 @@
+{
+  "name": "Cali_Mercenary_Heavy_Helmet",
+  "path": "Bundles/Items/Outfits/Cali_Mercenary/Cali_Mercenary_Heavy_Helmet/Cali_Mercenary_Heavy_Helmet.dat",
+  "data": {
+    "GUID": "5455d43b6ad64ef685d1793df189461f",
+    "Type": "Hat",
+    "ID": "931",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

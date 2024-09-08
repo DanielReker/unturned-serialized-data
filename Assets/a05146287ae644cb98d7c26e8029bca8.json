@@ -1,0 +1,32 @@
+{
+  "name": "29620KS",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/3/C/29620KS/Asset.dat",
+  "data": {
+    "GUID": "a05146287ae644cb98d7c26e8029bca8",
+    "Type": "NPC",
+    "ID": "29620",
+    "Shirt": "176",
+    "Pants": "207",
+    "Face": "4",
+    "Hair": "1",
+    "Beard": "3",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#352C22",
+    "Dialogue": "29621",
+    "Primary": "1198",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "29321",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitSurvivorSteve",
+    "Character": "Steve"
+  }
+}

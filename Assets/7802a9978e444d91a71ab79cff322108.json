@@ -1,0 +1,10 @@
+{
+  "name": "Drop",
+  "path": "Bundles/Effects/General/Drop/Drop.dat",
+  "data": {
+    "GUID": "7802a9978e444d91a71ab79cff322108",
+    "Type": "Effect",
+    "ID": "6"
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_PC_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_PC_2/PS_PC_2.dat",
+  "data": {
+    "GUID": "78433cc8aef94e1b9ff91b7686d3c464",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59742"
+  },
+  "translation": {
+    "Name": "PS PC #3"
+  }
+}

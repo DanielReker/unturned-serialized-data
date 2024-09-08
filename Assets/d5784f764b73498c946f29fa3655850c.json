@@ -1,0 +1,14 @@
+{
+  "name": "Warehouse_0",
+  "path": "Bundles/Objects/Large/Buildings/Warehouse_0/Warehouse_0.dat",
+  "data": {
+    "GUID": "d5784f764b73498c946f29fa3655850c",
+    "Type": "Large",
+    "ID": "294",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Warehouse #1"
+  }
+}

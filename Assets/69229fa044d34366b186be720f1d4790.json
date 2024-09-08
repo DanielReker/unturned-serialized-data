@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Snow_VendComp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Visitors/Dialogues/PBS_Snow/PBS_Snow_VendComp/Asset.dat",
+  "data": {
+    "GUID": "69229fa044d34366b186be720f1d4790",
+    "Type": "Dialogue",
+    "ID": "52612",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks! See you soon!"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "CA_AWM_10",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Magazines/CA_AWM_10/CA_AWM_10.dat",
+  "data": {
+    "GUID": "466e98c435fe4e1ba3626815c066b5fa",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "ID": "4100",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.18",
+    "Amount": "10",
+    "Count_Min": "3",
+    "Count_Max": "10",
+    "Calibers": "1",
+    "Caliber_0": "4101",
+    "Tracer": "48",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "1192",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "4100",
+    "Blueprint_1_Build": "30"
+  },
+  "translation": {
+    "Name": "Snowfox Magazine",
+    "Description": "Military grade <color=legendary>Snowfox</color> magazine. Holds 10 high caliber bullets."
+  }
+}

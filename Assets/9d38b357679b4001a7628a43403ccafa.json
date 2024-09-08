@@ -1,0 +1,13 @@
+{
+  "name": "Metro_TP_New_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Metro_TP_New_0/Metro_TP_New_0.dat",
+  "data": {
+    "GUID": "9d38b357679b4001a7628a43403ccafa",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57691"
+  },
+  "translation": {
+    "Name": "Metro Sacrifice Quest [TP New #1]"
+  }
+}

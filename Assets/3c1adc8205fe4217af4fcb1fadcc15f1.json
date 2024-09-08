@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Quarry_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Scenery/Easter_Quarry_0/Easter_Quarry_0.dat",
+  "data": {
+    "GUID": "3c1adc8205fe4217af4fcb1fadcc15f1",
+    "Type": "Large",
+    "ID": "6760",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Quarry #1"
+  }
+}

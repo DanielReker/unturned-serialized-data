@@ -1,0 +1,15 @@
+{
+  "name": "CQT",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/3/D/29080KC5D/CQT/Asset.dat",
+  "data": {
+    "GUID": "f0a79cb0b943438c96fd1a6575f764d4",
+    "Type": "Dialogue",
+    "ID": "29082",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "29081"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hurry back soon!"
+  }
+}

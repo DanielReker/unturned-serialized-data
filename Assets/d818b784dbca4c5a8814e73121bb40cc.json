@@ -1,0 +1,17 @@
+{
+  "name": "Dima_Potatoes_Shop",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Vendors/Dima_Potatoes_Shop/Asset.dat",
+  "data": {
+    "GUID": "d818b784dbca4c5a8814e73121bb40cc",
+    "Type": "Vendor",
+    "ID": "8003",
+    "Buying": "1",
+    "Buying_0_ID": "342",
+    "Buying_0_Cost": "1",
+    "Selling": "0"
+  },
+  "translation": {
+    "Name": "<color=rare>Dima Usenko</color>",
+    "Description": "Potato Trade"
+  }
+}

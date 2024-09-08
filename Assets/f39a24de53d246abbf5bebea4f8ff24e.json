@@ -1,0 +1,24 @@
+{
+  "name": "Frost_Karjalanpiirakka",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Edible/Frost_Karjalanpiirakka/Frost_Karjalanpiirakka.dat",
+  "data": {
+    "GUID": "f39a24de53d246abbf5bebea4f8ff24e",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "36415",
+    "Size_Z": "0.275",
+    "Use_Auto_Icon_Measurements": "False",
+    "Food": "25",
+    "Water": "5",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "36360",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Karjalanpiirakka",
+    "Description": "<color=#64c819>25</color> Food <color=#64c819>5</color> Water"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Bus_Stop",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Bus_Stop/Bus_Stop.dat",
+  "data": {
+    "GUID": "c28f888c099e4c929e02d7005bd40d8b",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Bus Stop"
+  }
+}

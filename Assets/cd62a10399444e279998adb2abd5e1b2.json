@@ -1,0 +1,13 @@
+{
+  "name": "TireMarks1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/TireMarks1/TireMarks1.dat",
+  "data": {
+    "GUID": "cd62a10399444e279998adb2abd5e1b2",
+    "Type": "Large",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS TireMarks1"
+  }
+}

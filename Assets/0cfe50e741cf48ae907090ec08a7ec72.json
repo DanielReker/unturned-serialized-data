@@ -1,0 +1,16 @@
+{
+  "name": "PS_Garage_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Garage_1/PS_Garage_1.dat",
+  "data": {
+    "GUID": "0cfe50e741cf48ae907090ec08a7ec72",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59169",
+    "Material_Palette": "a2ed2268e5d14980997349b1530c1a5f",
+    "LOD": "Area",
+    "LOD_Bias": "1.25"
+  },
+  "translation": {
+    "Name": "PS Garage #2"
+  }
+}

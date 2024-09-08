@@ -1,0 +1,13 @@
+{
+  "name": "Catacomb_Door",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Tunnels/Catacomb_Door/Catacomb_Door.dat",
+  "data": {
+    "GUID": "063bedf589554ed5be0d3a63f2aabec8",
+    "Type": "Large",
+    "ID": "35024",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Catacomb Door #1"
+  }
+}

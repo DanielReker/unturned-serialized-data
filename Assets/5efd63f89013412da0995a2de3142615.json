@@ -1,0 +1,14 @@
+{
+  "name": "Scientist_Horde_Cave_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IDF/Scientist_Ada/Scientist_Horde_Cave_Accepted/Asset.dat",
+  "data": {
+    "GUID": "5efd63f89013412da0995a2de3142615",
+    "Type": "Dialogue",
+    "ID": "15158",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'd recommend getting a gasmask before entering, the amount of hazardous materials is enough to make a man sick in a few seconds."
+  }
+}

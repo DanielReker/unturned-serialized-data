@@ -1,0 +1,15 @@
+{
+  "name": "PS_PMC_Guns_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_PMC_Guns_0/PS_PMC_Guns_0.dat",
+  "data": {
+    "GUID": "a4a01c44fe7145408d4831ceb8470f4a",
+    "Type": "Spawn",
+    "ID": "59055",
+    "Tables": "2",
+    "Table_0_Asset_ID": "59290",
+    "Table_0_Weight": "960",
+    "Table_1_Spawn_ID": "59339",
+    "Table_1_Weight": "433"
+  },
+  "translation": null
+}

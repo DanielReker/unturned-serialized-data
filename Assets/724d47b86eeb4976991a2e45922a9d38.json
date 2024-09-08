@@ -1,0 +1,31 @@
+{
+  "name": "PBS_Paatz_Quest",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Quests/PBS_Paatz_Quest/Asset.dat",
+  "data": {
+    "GUID": "724d47b86eeb4976991a2e45922a9d38",
+    "Type": "Quest",
+    "ID": "52244",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "51220",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "4",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51077",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "51075",
+    "Reward_1_Amount": "1",
+    "Reward_2_Type": "Currency",
+    "Reward_2_Value": "50",
+    "Reward_2_GUID": "561f74cdccdf48abaa6d49343b56aab0",
+    "Reward_3_Type": "Reputation",
+    "Reward_3_Value": "5"
+  },
+  "translation": {
+    "Name": "Reserve Shooter",
+    "Description": "I need you to acquire an extra weapon for me just in case both of mine fail.",
+    "Condition_0": "Acquire <color=rare>Ulfberht</color> {0}/{1}"
+  }
+}

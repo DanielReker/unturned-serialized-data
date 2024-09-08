@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Mine_Shell",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Mine_Shell/PS_Drops_Mine_Shell.dat",
+  "data": {
+    "GUID": "889dab83008a4c7289a9b7c6c1150eed",
+    "Type": "Spawn",
+    "ID": "59417",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59544",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

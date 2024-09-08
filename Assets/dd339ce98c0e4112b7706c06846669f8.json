@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Plaque_Birch",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Plaque_Birch/Bar_Plaque_Birch.dat",
+  "data": {
+    "GUID": "dd339ce98c0e4112b7706c06846669f8",
+    "Type": "Effect",
+    "ID": "25439"
+  },
+  "translation": null
+}

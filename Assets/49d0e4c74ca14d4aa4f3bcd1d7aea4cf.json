@@ -1,0 +1,22 @@
+{
+  "name": "Amber_Hat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Amber_Hat/Amber_Hat.dat",
+  "data": {
+    "GUID": "49d0e4c74ca14d4aa4f3bcd1d7aea4cf",
+    "Rarity": "Uncommon",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "27013",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Beard": "",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Amber_Hat",
+    "Description": "NPC Hat."
+  }
+}

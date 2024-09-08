@@ -1,0 +1,15 @@
+{
+  "name": "Metro_Dorms_Key_05",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Dorms_Key_05/Metro_Dorms_Key_05.dat",
+  "data": {
+    "GUID": "47dd1c2553eb491cb91d95243ee072bf",
+    "Type": "Spawn",
+    "ID": "57165",
+    "Tables": "2",
+    "Table_0_Spawn_ID": "57040",
+    "Table_0_Weight": "60",
+    "Table_1_Asset_ID": "57579",
+    "Table_1_Weight": "40"
+  },
+  "translation": null
+}

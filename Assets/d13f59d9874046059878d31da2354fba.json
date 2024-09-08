@@ -1,0 +1,15 @@
+{
+  "name": "Leader_Recon_Dublin_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IFR/Leader_Holiday/Leader_Recon_Dublin_Completed/Asset.dat",
+  "data": {
+    "GUID": "d13f59d9874046059878d31da2354fba",
+    "Type": "Dialogue",
+    "ID": "15105",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Damn it! Another one lost. The hordes grow stronger every day!",
+    "Message_0_Page_1": "Oh well, you did your duty. You deserve your ranking, even if you are the bearer of bad news."
+  }
+}

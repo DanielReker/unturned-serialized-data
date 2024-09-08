@@ -1,0 +1,22 @@
+{
+  "name": "Omega_Civillian_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Civillian_0/Asset.dat",
+  "data": {
+    "GUID": "f3140ed125174562be57b5f614f2db17",
+    "Type": "NPC",
+    "ID": "3630",
+    "Shirt": "777",
+    "Pants": "226",
+    "Face": "1",
+    "Hair": "18",
+    "Beard": "0",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#665037",
+    "Pose": "Sit",
+    "Dialogue": "3673"
+  },
+  "translation": {
+    "Name": "Greek Omega Civillian Ambrogio",
+    "Character": "Ambrogio"
+  }
+}

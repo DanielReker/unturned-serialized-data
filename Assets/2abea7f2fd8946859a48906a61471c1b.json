@@ -1,0 +1,18 @@
+{
+  "name": "Flag Belgium",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Medium/Utilities/Flag Belgium/Flag Belgium.dat",
+  "data": {
+    "GUID": "2abea7f2fd8946859a48906a61471c1b",
+    "Type": "Medium",
+    "ID": "9064",
+    "Snowshoe": "",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "100",
+    "Interactability_Effect": "72",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Belgium Flag"
+  }
+}

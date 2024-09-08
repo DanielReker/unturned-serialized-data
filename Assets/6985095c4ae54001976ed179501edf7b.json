@@ -1,0 +1,12 @@
+{
+  "name": "RTC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/RTC/RTC.dat",
+  "data": {
+    "GUID": "6985095c4ae54001976ed179501edf7b",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Crane 2"
+  }
+}

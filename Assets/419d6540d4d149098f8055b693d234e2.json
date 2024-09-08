@@ -1,0 +1,14 @@
+{
+  "name": "France_Armore_Ammo_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Armorer/France_Armore_Ammo_Completed/Asset.dat",
+  "data": {
+    "GUID": "419d6540d4d149098f8055b693d234e2",
+    "Type": "Dialogue",
+    "ID": "4164",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you. I will begin rationing it immediately."
+  }
+}

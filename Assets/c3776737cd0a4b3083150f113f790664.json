@@ -1,0 +1,44 @@
+{
+  "name": "Money",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Money/Money.dat",
+  "data": {
+    "GUID": "c3776737cd0a4b3083150f113f790664",
+    "Type": "Spawn",
+    "ID": "51152",
+    "Tables": [
+      {
+        "Guid": "8165071d893a48519219fa26e9b64783",
+        "Weight": "2584"
+      },
+      {
+        "Guid": "be2cfffd38f34d5db65fb080a5be794b",
+        "Weight": "1597"
+      },
+      {
+        "Guid": "3c1fcd4cc0274bc29571979bbb56ce72",
+        "Weight": "987"
+      },
+      {
+        "Guid": "47b5872e91cb408c85a6b805466890ba",
+        "Weight": "610"
+      },
+      {
+        "Guid": "b7b56208a1924f89b8bbc6dfec574524",
+        "Weight": "377"
+      },
+      {
+        "Guid": "dc05d7d3dda64d16824c8a5230f0b4bb",
+        "Weight": "233"
+      },
+      {
+        "Guid": "3fe7df6e039b42cf8359efb102432949",
+        "Weight": "144"
+      },
+      {
+        "Guid": "9a97b2460dc24f3fa51fcadaeca3f162",
+        "Weight": "21"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,32 @@
+{
+  "name": "PS_Illegal_Gun_Parts",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Illegal_Gun_Parts/PS_Illegal_Gun_Parts.dat",
+  "data": {
+    "GUID": "eada0bf89a734107891493de216e2c4f",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "59342",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.17",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59342",
+    "Blueprint_0_Product": "59010",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Tool": "59004",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "",
+    "Action_0_Blueprint_0_Link": "",
+    "Action_0_Text": "Scrap",
+    "Action_0_Tooltip": "Turn into components."
+  },
+  "translation": {
+    "Name": "Illegal Gun Parts",
+    "Description": "Various illegal firearm components. Can be used for modifying certain guns."
+  }
+}

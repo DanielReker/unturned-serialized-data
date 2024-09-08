@@ -1,0 +1,33 @@
+{
+  "name": "Car_Battery",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Tools/Car_Battery/Car_Battery.dat",
+  "data": {
+    "GUID": "c3c31b90be71481d957f68a6ebad9d0e",
+    "Type": "Vehicle_Repair_Tool",
+    "Rarity": "Rare",
+    "Useable": "Battery_Vehicle",
+    "ID": "25406",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Use_Auto_Icon_Measurements": "False",
+    "Quality_Min": "8",
+    "Quality_Max": "26",
+    "Override_Show_Quality": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "25406",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "25332",
+    "Blueprint_0_Output_0_Amount": "6",
+    "Blueprint_0_Output_1_ID": "25310",
+    "Blueprint_0_Output_1_Amount": "10",
+    "Blueprint_0_Tool": "25393",
+    "Blueprint_0_Build": "25520",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Car Battery",
+    "Description": "Vehicular electrical power source."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Vehicle_Spraypaint_ClassicBlack",
+  "path": "Bundles/Items/Tools/Vehicle_Spraypaint_ClassicBlack/Vehicle_Spraypaint_ClassicBlack.dat",
+  "data": {
+    "GUID": "ecc8570a56df4254b0a6905592eae236",
+    "Type": "Vehicle_Paint_Tool",
+    "Rarity": "Uncommon",
+    "Useable": "Vehicle_Paint",
+    "ID": "1856",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "UseAudioClip": "Sounds/Vehicle_Spraypaint.wav",
+    "PaintColor": "#353535",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supply_0_ID": "1856",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Classic Black Vehicle Spraypaint",
+    "Description": "Refreshes most vehicles with a beautiful new coat of paint."
+  }
+}

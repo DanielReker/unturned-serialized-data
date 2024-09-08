@@ -1,0 +1,23 @@
+{
+  "name": "PBS_Yukari",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Yukari/Asset.dat",
+  "data": {
+    "GUID": "1f3d1adff4c24cd1bb5e1a2822990da0",
+    "Type": "NPC",
+    "ID": "52560",
+    "Shirt": "9cd0bb7cccc44f4d80ce4e70f0f87adf",
+    "Pants": "46ebe7dbcaeb4c148cb0c8cfe9b7953e",
+    "Backpack": "b63136598c7c4c3186fcc6b9deeb54e6",
+    "Face": "18",
+    "Hair": "21",
+    "Beard": "0",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#352C22",
+    "Dialogue": "52561",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS NPC Yukari",
+    "Character": "Yukari"
+  }
+}

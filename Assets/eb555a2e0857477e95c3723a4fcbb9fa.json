@@ -1,0 +1,14 @@
+{
+  "name": "DeadzoneDangers_Accept",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Terrya/Terrya_02/DeadzoneDangers_Accept/Asset.dat",
+  "data": {
+    "GUID": "eb555a2e0857477e95c3723a4fcbb9fa",
+    "Type": "Dialogue",
+    "ID": "24461",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "...Good luck."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Buak_Q_Audio_Tape_05",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_Audio_Tape_05/Buak_Q_Audio_Tape_05.dat",
+  "data": {
+    "GUID": "5b4d877c22ee4912b45383df860f64ba",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24677",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "3",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "24677",
+    "Interactability_Reward_0_Value": "False",
+    "Interactability_Reward_1_Type": "Item",
+    "Interactability_Reward_1_ID": "27415",
+    "Interactability_Reward_1_Amount": "1",
+    "Interactability_Reward_1_Auto_Equip": "True",
+    "Interactability_Reward_2_Type": "Hint",
+    "Interactability_Reward_2_Text": "Collected Audio Tape",
+    "Interactability_Reward_2_Duration": "3",
+    "Bundle_Override_Path": "/Objects/Quests/Buak_Q_Audio_Tape"
+  },
+  "translation": {
+    "Name": "Buak_Q_Audio_Tape_05",
+    "Interact": "Collect <color=rare>Audio Tape (6/10)</color> [{0}]"
+  }
+}

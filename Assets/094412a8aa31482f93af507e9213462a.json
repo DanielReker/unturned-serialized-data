@@ -1,0 +1,30 @@
+{
+  "name": "Boss_Wind",
+  "path": "Bundles/NPCs/Quests/Boss_Wind/Asset.dat",
+  "data": {
+    "GUID": "094412a8aa31482f93af507e9213462a",
+    "Type": "Quest",
+    "ID": "162",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_ID": "163",
+    "Condition_0_Value": "1",
+    "Condition_0_Zombie": "Boss_Wind",
+    "Condition_0_Spawn": "",
+    "Condition_0_Nav": "2",
+    "Rewards": "3",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "200",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "20",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "13",
+    "Reward_2_Value": "1",
+    "Reward_2_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "<color=mythical>Aftershock</color>",
+    "Description": "During Peter's escape from Yekativurg he barely avoided a giant zombie that pounced from the air, slamming into the ground causing \"miniature earthquakes\". He hasn't been able to get it out of his mind and would really appreciate knowing it had been dealt with.",
+    "Condition_0": "Defeat {0}/{1} <color=mythical>Groundpounder Boss</color>"
+  }
+}

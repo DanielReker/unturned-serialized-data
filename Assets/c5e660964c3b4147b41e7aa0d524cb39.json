@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Q_S7M2_Sci_13",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M2/Buak_Q_S7M2_Sci_13/Buak_Q_S7M2_Sci_13.dat",
+  "data": {
+    "GUID": "c5e660964c3b4147b41e7aa0d524cb39",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24297",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M2_Sci_13"
+  }
+}

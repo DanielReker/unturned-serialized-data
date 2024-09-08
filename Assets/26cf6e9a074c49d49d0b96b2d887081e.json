@@ -1,0 +1,36 @@
+{
+  "name": "28556KRR",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/Q/28556KRR/Asset.dat",
+  "data": {
+    "GUID": "26cf6e9a074c49d49d0b96b2d887081e",
+    "Type": "Quest",
+    "ID": "28556",
+    "Conditions": "3",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "5215",
+    "Condition_0_Amount": "3",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "5214",
+    "Condition_1_Amount": "3",
+    "Condition_1_Reset": "",
+    "Condition_2_Type": "Item",
+    "Condition_2_ID": "5212",
+    "Condition_2_Amount": "3",
+    "Condition_2_Reset": "",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "5"
+  },
+  "translation": {
+    "Name": "<color=#b8b188>Concord: </color>Replanting",
+    "Description": "<color=#FF69B4>Repeating Quest</color><br>Rosa doesn't have too much space available to grow crops, so she requests that you grow some at your homestead.",
+    "Condition_0": "Grow {0}/{1} {2}",
+    "Condition_1": "Grow {0}/{1} {2}",
+    "Condition_2": "Grow {0}/{1} {2}",
+    "Reward_0": "100 Experience",
+    "Reward_1": "10 Reputation"
+  }
+}

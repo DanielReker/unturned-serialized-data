@@ -1,0 +1,14 @@
+{
+  "name": "Youssef_Good_Deed_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Homeless Civilain Youssef/Youssef_Good_Deed_Completed/Asset.dat",
+  "data": {
+    "GUID": "5a06470904314c60a329d6ff1a9dd251",
+    "Type": "Dialogue",
+    "ID": "9212",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "This is a miracle!"
+  }
+}

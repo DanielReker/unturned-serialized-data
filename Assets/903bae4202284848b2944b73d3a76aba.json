@@ -1,0 +1,15 @@
+{
+  "name": "Spirits",
+  "path": "Bundles/Skins/Bluntforce/Spirits/Spirits.dat",
+  "data": {
+    "GUID": "903bae4202284848b2944b73d3a76aba",
+    "Type": "Skin",
+    "ID": "50032",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

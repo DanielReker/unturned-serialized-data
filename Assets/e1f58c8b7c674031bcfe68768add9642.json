@@ -1,0 +1,19 @@
+{
+  "name": "PS_Sand_Pile_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Sand_Pile_4/PS_Sand_Pile_4.dat",
+  "data": {
+    "GUID": "e1f58c8b7c674031bcfe68768add9642",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59303",
+    "Material_Palette": "1021d740ecb746c497a54bbd6d10fa32",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/PS_Sand_Pile_1"
+  },
+  "translation": {
+    "Name": "PS Sand Pile #5"
+  }
+}

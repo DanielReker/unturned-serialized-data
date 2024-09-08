@@ -1,0 +1,17 @@
+{
+  "name": "Satellite_Dish_0",
+  "path": "Bundles/Objects/Small/Furniture/Satellite_Dish_0/Satellite_Dish_0.dat",
+  "data": {
+    "GUID": "b28df026e5d842169de83de7990b9f30",
+    "Type": "Small",
+    "ID": "892",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "60",
+    "Interactability_Health": "1",
+    "Interactability_Effect": "61",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Satellite Dish #1"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Thomas_Welcome_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Misc/Introvert_Thomas/Thomas_Welcome_0/Asset.dat",
+  "data": {
+    "GUID": "bc276318b99a4c128ad8a8649b283522",
+    "Type": "Dialogue",
+    "ID": "8232",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Dialogue": "8229",
+    "Response_1_Dialogue": "8230",
+    "Response_1_Quest": "9409",
+    "Response_1_Conditions": "1",
+    "Response_1_Condition_0_Type": "Quest",
+    "Response_1_Condition_0_Logic": "Equal",
+    "Response_1_Condition_0_ID": "9409",
+    "Response_1_Condition_0_Status": "Ready",
+    "Response_1_Condition_0_Reset": ""
+  },
+  "translation": {
+    "Message_0_Page_0": "*Thomas is staring off in the distance*",
+    "Response_0": "Why are you over here?",
+    "Response_1": "I talked to him for you.",
+    "Response_2": "Bye."
+  }
+}

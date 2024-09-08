@@ -1,0 +1,36 @@
+{
+  "name": "PS_Seed_Money",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Barricades/PS_Seed_Money/PS_Seed_Money.dat",
+  "data": {
+    "GUID": "3785915a33f845338eb95809ae44396d",
+    "Type": "Farm",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Farm",
+    "ID": "59971",
+    "SalvageItem": "3785915a33f845338eb95809ae44396d",
+    "Min_Items_Dropped_On_Destroy": "0",
+    "Max_Items_Dropped_On_Destroy": "0",
+    "Item_Dropped_On_Destroy": "59441973344a4b84851eba00ac3457e1",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.24",
+    "Health": "1",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "0.325",
+    "Growth": "7200",
+    "Grow": "59400",
+    "Explosion": "43",
+    "Vulnerable": "",
+    "PlacementAudioClip": "Sounds/PlantPlacement.mp3",
+    "Salvage_Duration_Multiplier": "0.1",
+    "Unpickupable": "",
+    "Allow_Fertilizer": "False"
+  },
+  "translation": {
+    "Name": "Money Plant Seed",
+    "Description": "Ready for planting."
+  }
+}

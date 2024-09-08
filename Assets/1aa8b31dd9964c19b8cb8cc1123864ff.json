@@ -1,0 +1,21 @@
+{
+  "name": "PBS_AssetSetup",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/PBS_AssetSetup/PBS_AssetSetup.dat",
+  "data": {
+    "GUID": "1aa8b31dd9964c19b8cb8cc1123864ff",
+    "Type": "RewardsList",
+    "Conditions": "0",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51215",
+    "Reward_0_Amount": "1",
+    "Reward_0_Barrel": "51077",
+    "Reward_0_Grip": "51086",
+    "Reward_0_Sight": "51085",
+    "Reward_0_Tactical": "51075",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "51041",
+    "Reward_1_Amount": "3"
+  },
+  "translation": null
+}

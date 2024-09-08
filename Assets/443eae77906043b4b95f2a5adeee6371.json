@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_RC_Car_Orange",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_RC_Car_Orange/PS_Drops_RC_Car_Orange.dat",
+  "data": {
+    "GUID": "443eae77906043b4b95f2a5adeee6371",
+    "Type": "Spawn",
+    "ID": "59373",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59365",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

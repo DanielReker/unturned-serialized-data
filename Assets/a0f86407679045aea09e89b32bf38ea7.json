@@ -1,0 +1,23 @@
+{
+  "name": "PS_Soviet_Guns_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Soviet_Guns_0/PS_Soviet_Guns_0.dat",
+  "data": {
+    "GUID": "a0f86407679045aea09e89b32bf38ea7",
+    "Type": "Spawn",
+    "ID": "59051",
+    "Tables": "6",
+    "Table_0_Asset_ID": "59329",
+    "Table_0_Weight": "95",
+    "Table_1_Spawn_ID": "59150",
+    "Table_1_Weight": "44",
+    "Table_2_Asset_ID": "59987",
+    "Table_2_Weight": "25",
+    "Table_3_Asset_ID": "60017",
+    "Table_3_Weight": "20",
+    "Table_4_Asset_ID": "60015",
+    "Table_4_Weight": "5",
+    "Table_5_Spawn_ID": "59449",
+    "Table_5_Weight": "1"
+  },
+  "translation": null
+}

@@ -1,0 +1,15 @@
+{
+  "name": "BE Boulder #2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Scenery/BE Boulder #2/BE Boulder #2.dat",
+  "data": {
+    "GUID": "160033ddb5bb48fe99b7e33dc23e9390",
+    "Type": "Large",
+    "ID": "9011",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground"
+  },
+  "translation": {
+    "Name": "BE Boulder #2"
+  }
+}

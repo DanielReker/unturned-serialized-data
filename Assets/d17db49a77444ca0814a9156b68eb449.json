@@ -1,0 +1,15 @@
+{
+  "name": "Easter_Lightning",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Effects/General/Easter_Lightning/Easter_Lightning.dat",
+  "data": {
+    "GUID": "d17db49a77444ca0814a9156b68eb449",
+    "Type": "Large",
+    "ID": "6863",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Lightning"
+  }
+}

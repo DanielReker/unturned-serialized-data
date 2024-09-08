@@ -1,0 +1,32 @@
+{
+  "name": "Fish_Peamouth_Chub",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Fish_Peamouth_Chub/Fish_Peamouth_Chub.dat",
+  "data": {
+    "GUID": "e7d47a2a99934a319e90d4cff5cc4294",
+    "Type": "Food",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "25665",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.16",
+    "Use_Auto_Icon_Measurements": "False",
+    "Food": "1",
+    "Water": "10",
+    "Virus": "50",
+    "Vision": "60",
+    "ConsumeAudioClip": "Sounds/Food/EatSquishy.wav",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "25666",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "3",
+    "Action_0_Text": "Clean",
+    "Action_0_Tooltip": "Clean the fish.",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Peamouth Chub",
+    "Description": "Somethings fishy..."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "CA_Dodge_Blue",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Vehicles/CA_Dodge_Blue/CA_Dodge_Blue.dat",
+  "data": {
+    "GUID": "5d240270cfb74b2e8d852bc59b358ece",
+    "Type": "Vehicle",
+    "Rarity": "Rare",
+    "ID": "4002",
+    "Speed_Min": "-5",
+    "Speed_Max": "19",
+    "Steer_Min": "14",
+    "Steer_Max": "28",
+    "Brake": "32",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "1700",
+    "Health_Min": "400",
+    "Health_Max": "500",
+    "Health": "600",
+    "Traction": "",
+    "Trunk_Storage_X": "5",
+    "Trunk_Storage_Y": "2",
+    "Explosion": "20"
+  },
+  "translation": {
+    "Name": "Blue Interceptor"
+  }
+}

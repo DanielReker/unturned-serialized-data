@@ -1,0 +1,14 @@
+{
+  "name": "25161KuwaitHaiderGift",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/250 MC/25150KNHD/25161KuwaitHaiderGift/Asset.dat",
+  "data": {
+    "GUID": "29ab3a68f1a14374bff45b38190f0e71",
+    "Type": "Dialogue",
+    "ID": "25161",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "eh?<br>.<pause>.<pause>.<pause>thanks."
+  }
+}

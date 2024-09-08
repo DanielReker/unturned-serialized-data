@@ -1,0 +1,16 @@
+{
+  "name": "SquareRed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/CarpetSpawns/SquareRed/SquareRed.dat",
+  "data": {
+    "GUID": "5a226e3707014179928c5371623b0234",
+    "Type": "Spawn",
+    "ID": "51225",
+    "Tables": [
+      {
+        "Guid": "21c323367145463aa13080787d3e3442",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

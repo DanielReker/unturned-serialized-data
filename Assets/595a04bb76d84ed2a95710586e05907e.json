@@ -1,0 +1,14 @@
+{
+  "name": "Magic_Bottom",
+  "path": "Bundles/Items/Pants/Magic_Bottom/Magic_Bottom.dat",
+  "data": {
+    "GUID": "595a04bb76d84ed2a95710586e05907e",
+    "Type": "Pants",
+    "ID": "564",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Pro": ""
+  },
+  "translation": null
+}

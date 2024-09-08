@@ -1,0 +1,16 @@
+{
+  "name": "Carpat_CPU_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Items/Supplies/Carpat_CPU_01/Carpat_CPU_01.dat",
+  "data": {
+    "GUID": "c2fc8226545b4288b98f3e808900d71a",
+    "Type": "Supply",
+    "ID": "23011",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.4"
+  },
+  "translation": {
+    "Name": "Processor",
+    "Description": "Computer processor"
+  }
+}

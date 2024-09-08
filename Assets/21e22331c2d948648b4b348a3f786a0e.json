@@ -1,0 +1,17 @@
+{
+  "name": "Frost_Expedition_01_Quest_00_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Expedition_01/Frost_Expedition_01_Quest_00_Return/Asset.dat",
+  "data": {
+    "GUID": "21e22331c2d948648b4b348a3f786a0e",
+    "Type": "Dialogue",
+    "ID": "36024",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "36021"
+  },
+  "translation": {
+    "Message_0_Page_0": "Great job! Their communication networks are in shambles.<pause>.<pause>.<pause> unless they have another radio tower...",
+    "Response_0": "Ok."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Captain_Introduction",
+  "path": "Bundles/NPCs/Dialogues/Captain/Captain_Introduction/Asset.dat",
+  "data": {
+    "GUID": "4974c6b1a8f443c19ba76d87442763f4",
+    "Type": "Dialogue",
+    "ID": "3",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Pleased to meet you <name_char>. You're welcome aboard, just keep in mind you're back in society so don't try and pull anything illegal.",
+    "Message_0_Page_1": "We're part of an international force formed in the wake of the outbreak called the <color=legendary>Coalition</color>. Our mission here is to rescue as many survivors, like you, as possible and unite to reclaim our home."
+  }
+}

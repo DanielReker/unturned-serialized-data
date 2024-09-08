@@ -1,0 +1,32 @@
+{
+  "name": "PS_Trader_4_Quest_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_4_Dialogue/PS_Trader_4_Quest_0/Asset.dat",
+  "data": {
+    "GUID": "17c288d02142468cac68133f437854b6",
+    "Type": "Quest",
+    "ID": "59370",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "59375",
+    "Condition_0_Value": "1",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Rewards": "4",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "59372",
+    "Reward_0_Value": "True",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "59530",
+    "Reward_1_Amount": "1",
+    "Reward_2_Type": "Item",
+    "Reward_2_ID": "59534",
+    "Reward_2_Amount": "0",
+    "Reward_3_Type": "Experience",
+    "Reward_3_Value": "300"
+  },
+  "translation": {
+    "Name": "Extraction",
+    "Description": "Insert a USB into a computer in Fort Knell server room.",
+    "Condition_0": "{0}/{1} Inserted USBs",
+    "Reward_2": "Documents Exchange "
+  }
+}

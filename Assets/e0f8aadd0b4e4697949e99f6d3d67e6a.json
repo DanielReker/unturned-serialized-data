@@ -1,0 +1,13 @@
+{
+  "name": "PS_Blood_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Blood_1/PS_Blood_1.dat",
+  "data": {
+    "GUID": "e0f8aadd0b4e4697949e99f6d3d67e6a",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59721"
+  },
+  "translation": {
+    "Name": "PS Blood #2"
+  }
+}

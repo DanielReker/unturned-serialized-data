@@ -1,0 +1,16 @@
+{
+  "name": "Engineer_Machinery_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Workshop_Omega/Engineer_Machinery_Accepted/Asset.dat",
+  "data": {
+    "GUID": "81bb669a8f2a4dcf90a0fd863c9579f8",
+    "Type": "Dialogue",
+    "ID": "3171",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "They should be just laying around in plain sight.",
+    "Response_0": "Roger that."
+  }
+}

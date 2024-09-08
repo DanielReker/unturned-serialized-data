@@ -1,0 +1,21 @@
+{
+  "name": "Vermillin_High_Guns",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Spawns/Items/Vermillin_High/Vermillin_High_Guns/Vermillin_High_Guns.dat",
+  "data": {
+    "GUID": "09de841646064e7486444bec82969b6e",
+    "Type": "Spawn",
+    "ID": "6610",
+    "Tables": "5",
+    "Table_0_Asset_ID": "6722",
+    "Table_0_Weight": "40",
+    "Table_1_Asset_ID": "1375",
+    "Table_1_Weight": "30",
+    "Table_2_Asset_ID": "6612",
+    "Table_2_Weight": "25",
+    "Table_3_Asset_ID": "1377",
+    "Table_3_Weight": "20",
+    "Table_4_Asset_ID": "1382",
+    "Table_4_Weight": "5"
+  },
+  "translation": null
+}

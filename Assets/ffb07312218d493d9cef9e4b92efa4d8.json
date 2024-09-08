@@ -1,0 +1,29 @@
+{
+  "name": "Buggy_Yellow",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Vehicles/Hawaii/Buggy_Yellow/Buggy_Yellow.dat",
+  "data": {
+    "GUID": "ffb07312218d493d9cef9e4b92efa4d8",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon",
+    "ID": "826",
+    "Speed_Min": "-6",
+    "Speed_Max": "14",
+    "Steer_Min": "24",
+    "Steer_Max": "48",
+    "Brake": "32",
+    "Fuel_Min": "100",
+    "Fuel_Max": "200",
+    "Fuel": "400",
+    "Health_Min": "200",
+    "Health_Max": "300",
+    "Health": "500",
+    "Explosion": "20",
+    "Trunk_Storage_X": "4",
+    "Trunk_Storage_Y": "2",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Yellow Dune Buggy"
+  }
+}

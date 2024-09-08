@@ -1,0 +1,27 @@
+{
+  "name": "Metro_Dyes",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Metro_Dyes/Metro_Dyes.dat",
+  "data": {
+    "GUID": "1e9d0d8d0f8d48aeb9d3ca1f5c5f8108",
+    "Type": "Spawn",
+    "ID": "57039",
+    "Tables": "8",
+    "Table_0_Asset_ID": "57450 ",
+    "Table_0_Weight": "800",
+    "Table_1_Asset_ID": "57067",
+    "Table_1_Weight": "800",
+    "Table_2_Asset_ID": "57068",
+    "Table_2_Weight": "800",
+    "Table_3_Asset_ID": "57071",
+    "Table_3_Weight": "200",
+    "Table_4_Asset_ID": "57072",
+    "Table_4_Weight": "200",
+    "Table_5_Asset_ID": "57073",
+    "Table_5_Weight": "200",
+    "Table_6_Asset_ID": "57070",
+    "Table_6_Weight": "100",
+    "Table_7_Asset_ID": "57069",
+    "Table_7_Weight": "50"
+  },
+  "translation": null
+}

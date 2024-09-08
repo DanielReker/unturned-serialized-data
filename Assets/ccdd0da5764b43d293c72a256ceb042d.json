@@ -1,0 +1,28 @@
+{
+  "name": "Clothing",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Clothing/Clothing/Clothing.dat",
+  "data": {
+    "GUID": "ccdd0da5764b43d293c72a256ceb042d",
+    "Type": "Spawn",
+    "ID": "51085",
+    "Tables": [
+      {
+        "Guid": "b5e9807111074da0a2e6ac956df9b92a",
+        "Weight": "35"
+      },
+      {
+        "Guid": "e782549dda8e4de09e03c748163f82e0",
+        "Weight": "35"
+      },
+      {
+        "Guid": "f78dcdeae94a4d6899bdd7883f6bd18f",
+        "Weight": "15"
+      },
+      {
+        "Guid": "2c5fc57d503c44ef97377728240722ba",
+        "Weight": "15"
+      }
+    ]
+  },
+  "translation": null
+}

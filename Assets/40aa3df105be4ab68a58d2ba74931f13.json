@@ -1,0 +1,19 @@
+{
+  "name": "PS_Stealy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Tools/PS_Stealy/PS_Stealy.dat",
+  "data": {
+    "GUID": "40aa3df105be4ab68a58d2ba74931f13",
+    "Type": "Tool",
+    "Rarity": "Epic",
+    "Useable": "Carlockpick",
+    "ID": "59549",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.425",
+    "Use_Auto_Icon_Measurements": "False"
+  },
+  "translation": {
+    "Name": "Stealy Wheely Automobiley",
+    "Description": "Tool for stealing cars."
+  }
+}

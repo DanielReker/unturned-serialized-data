@@ -1,0 +1,23 @@
+{
+  "name": "BP_Hammer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Hammer/Asset.dat",
+  "data": {
+    "GUID": "2c9027961c50459b9a685f358eb0873f",
+    "Type": "Quest",
+    "ID": "24991",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "5a0ac7ab47a842ff907b9d5680988638",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24990",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Hammer Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Hammer Recipe"
+  }
+}

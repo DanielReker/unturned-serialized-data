@@ -1,0 +1,12 @@
+{
+  "name": "IR_TrainStop_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/City/IR_TrainStop_1/IR_TrainStop_1.dat",
+  "data": {
+    "GUID": "0842273e574f4fe4b7268257bf64d734",
+    "Type": "Medium",
+    "ID": "17032"
+  },
+  "translation": {
+    "Name": "Irish Train Stop#1"
+  }
+}

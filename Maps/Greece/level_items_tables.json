@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Police",
+    "tableID": 1037,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "fire",
+    "tableID": 558,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "medic",
+    "tableID": 345,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.572549045
+    }
+  },
+  {
+    "name": "Military High",
+    "tableID": 1001,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.219607845,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Military Low",
+    "tableID": 1000,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.5176471,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Military Special",
+    "tableID": 1010,
+    "tiers": [],
+    "color": {
+      "r": 0.470588237,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "School",
+    "tableID": 363,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Beach",
+    "tableID": 585,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Prison",
+    "tableID": 368,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Post",
+    "tableID": 393,
+    "tiers": [],
+    "color": {
+      "r": 0.356862754,
+      "g": 0.2509804,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Gas",
+    "tableID": 365,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.3372549,
+      "b": 0.356862754
+    }
+  },
+  {
+    "name": "Consutruction",
+    "tableID": 366,
+    "tiers": [],
+    "color": {
+      "r": 0.8235294,
+      "g": 0.6431373,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Camp",
+    "tableID": 367,
+    "tiers": [],
+    "color": {
+      "r": 0.6039216,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Botanist",
+    "tableID": 378,
+    "tiers": [],
+    "color": {
+      "r": 0.4862745,
+      "g": 0.65882355,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Farm",
+    "tableID": 379,
+    "tiers": [],
+    "color": {
+      "r": 0.2784314,
+      "g": 0.156862751,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Guns US",
+    "tableID": 381,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.7254902,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Civilians RU",
+    "tableID": 576,
+    "tiers": [],
+    "color": {
+      "r": 0.4862745,
+      "g": 0.4862745,
+      "b": 0.470588237
+    }
+  },
+  {
+    "name": "Cloth",
+    "tableID": 392,
+    "tiers": [],
+    "color": {
+      "r": 0.7058824,
+      "g": 0.670588255,
+      "b": 0.490196079
+    }
+  },
+  {
+    "name": "Food",
+    "tableID": 364,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.2784314,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Chef",
+    "tableID": 377,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Kitchen",
+    "tableID": 387,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Pizza",
+    "tableID": 403,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Doughnut",
+    "tableID": 402,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Research",
+    "tableID": 369,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Police High",
+    "tableID": 1018,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.623529434
+    }
+  },
+  {
+    "name": "Beach",
+    "tableID": 585,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "money",
+    "tableID": 520,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "militia",
+    "tableID": 380,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  }
+]

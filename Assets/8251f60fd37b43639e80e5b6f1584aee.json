@@ -1,0 +1,14 @@
+{
+  "name": "29322KLWT",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29320KLWD/29322KLWT/Asset.dat",
+  "data": {
+    "GUID": "8251f60fd37b43639e80e5b6f1584aee",
+    "Type": "Dialogue",
+    "ID": "29322",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Why should I trust you? If Kyra doesn't, why should I?"
+  }
+}

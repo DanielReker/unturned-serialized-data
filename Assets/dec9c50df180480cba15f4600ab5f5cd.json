@@ -1,0 +1,41 @@
+{
+  "name": "Metro_Civ_Trash",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_Civ_Trash/Metro_Civ_Trash.dat",
+  "data": {
+    "GUID": "dec9c50df180480cba15f4600ab5f5cd",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "57025",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "4",
+    "Blueprint_0_Supply_0_ID": "57026",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "57016",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Supply_2_ID": "57017",
+    "Blueprint_0_Supply_2_Amount": "1",
+    "Blueprint_0_Supply_3_ID": "69",
+    "Blueprint_0_Supply_3_Amount": "2",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Elver",
+    "Blueprint_1_Type": "Tool",
+    "Blueprint_1_Supply_0_ID": "57025",
+    "Blueprint_1_Outputs": "3",
+    "Blueprint_1_Output_0_ID": "57026 ",
+    "Blueprint_1_Output_0_Amount": "1",
+    "Blueprint_1_Output_1_ID": "57016",
+    "Blueprint_1_Output_1_Amount": "1",
+    "Blueprint_1_Output_2_ID": "57017",
+    "Blueprint_1_Output_2_Amount": "1",
+    "Blueprint_1_Build": "27",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Components",
+    "Description": "Combination of a bunch of random items. Used for crafting."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Beep",
+  "path": "Bundles/Effects/General/Beep/Beep.dat",
+  "data": {
+    "GUID": "f515fcbe1b5241e39217b52317e68d72",
+    "Type": "Effect",
+    "ID": "56"
+  },
+  "translation": null
+}

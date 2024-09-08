@@ -1,0 +1,25 @@
+{
+  "name": "PS_Trowel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Trowel/PS_Trowel.dat",
+  "data": {
+    "GUID": "e4289114864c4503b42675e9fb9455f5",
+    "Type": "Supply",
+    "Rarity": "Common",
+    "ID": "59596",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59596",
+    "Blueprint_0_Product": "59000",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Tool": "59004",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Trowel",
+    "Description": "Small, handheld tool used to apply and spread mortar.<br><br><color=#FFC000>Nomad's Exchange Item</color>"
+  }
+}

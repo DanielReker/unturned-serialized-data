@@ -1,0 +1,17 @@
+{
+  "name": "Frost_Artillery_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Frost_Artillery_00/Frost_Artillery_00.dat",
+  "data": {
+    "GUID": "28ac85c3ffce40b2bf90a7af0eadf5f9",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Soft": "",
+    "Interactability": "Fuel",
+    "Interactability_Reset": "500",
+    "Interactability_Resource": "500"
+  },
+  "translation": {
+    "Name": "Frost Artillery #1"
+  }
+}

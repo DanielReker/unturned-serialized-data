@@ -1,0 +1,13 @@
+{
+  "name": "Potted_Plant",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Potted_Plant/Potted_Plant.dat",
+  "data": {
+    "GUID": "d208c6823b4c4298a3fe683b0ea39657",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Potted Plant"
+  }
+}

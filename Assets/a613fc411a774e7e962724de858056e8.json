@@ -1,0 +1,12 @@
+{
+  "name": "IR_Plane_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Vehicle/IR_Plane_2/IR_Plane_2.dat",
+  "data": {
+    "GUID": "a613fc411a774e7e962724de858056e8",
+    "Type": "Large",
+    "ID": "17125"
+  },
+  "translation": {
+    "Name": "Irish Plane# 2"
+  }
+}

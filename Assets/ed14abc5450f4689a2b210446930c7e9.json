@@ -1,0 +1,35 @@
+{
+  "name": "Metro_Caltrop",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Overrides_Barricades/Metro_Caltrop/Metro_Caltrop.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "ed14abc5450f4689a2b210446930c7e9",
+    "Type": "Trap",
+    "Rarity": "Uncommon",
+    "Useable": "Barricade",
+    "Build": "Spike",
+    "ID": "57382",
+    "Size_Z": "0.25",
+    "Health": "12",
+    "Range": "4",
+    "Radius": "0.1",
+    "Offset": "0.125",
+    "Player_Damage": "20",
+    "Zombie_Damage": "40",
+    "Damage_Tires": "",
+    "Explosion": "36",
+    "Vulnerable": "",
+    "Unrepairable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supply_0_ID": "71",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Build": "27",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/Caltrop"
+  },
+  "translation": {
+    "Name": "Caltrop",
+    "Description": "<color=#64c819>20</color> Player Damage<br><color=#64c819>12</color> Health"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Metro_CDJ",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/DJ/Metro_CDJ/Metro_CDJ.dat",
+  "data": {
+    "GUID": "c6de1af4fb964a5cb29c92cd06e44f5e",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57526"
+  },
+  "translation": {
+    "Name": "Metro DJ [CDJ]"
+  }
+}

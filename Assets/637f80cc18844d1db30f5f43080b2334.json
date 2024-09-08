@@ -1,0 +1,13 @@
+{
+  "name": "APC_Forest",
+  "path": "Bundles/Vehicles/Redirectors/APC/APC_Forest.asset",
+  "data": {
+    "GUID": "637f80cc18844d1db30f5f43080b2334",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "53",
+    "TargetVehicle": "6f56dc58382349b79793f9ba8839774e",
+    "LoadPaintColor": "#437c44",
+    "SpawnPaintColor": "#437c44"
+  },
+  "translation": null
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Metro_Church_Book_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_Church_Book_0/Metro_Church_Book_0.dat",
+  "data": {
+    "GUID": "f87b8ffe071444448c31eb8edfddbc79",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "58053",
+    "Interactability": "Quest",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "57055",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "60",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "58"
+  },
+  "translation": {
+    "Name": "Metro Church Book #1",
+    "Interactability_Condition_0": "Looks like it's written in some alien language...",
+    "Interact": "Looks like it's written in some alien language..."
+  }
+}

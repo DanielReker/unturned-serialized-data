@@ -1,0 +1,23 @@
+{
+  "name": "Buak_Q_TSO_Final",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_TSO_Final/Buak_Q_TSO_Final.dat",
+  "data": {
+    "GUID": "af9adb4ef01f4c769ee031455232daaa",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24545",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "24380",
+    "Condition_1_Value": "True",
+    "Condition_1_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_Q_TSO_Final"
+  }
+}

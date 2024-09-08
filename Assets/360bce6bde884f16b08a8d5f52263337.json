@@ -1,0 +1,24 @@
+{
+  "name": "PS_Trader_3_Quest_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_3_Dialogue/PS_Trader_3_Quest_0/Asset.dat",
+  "data": {
+    "GUID": "360bce6bde884f16b08a8d5f52263337",
+    "Type": "Quest",
+    "ID": "59266",
+    "Conditions": "2",
+    "Condition_0_Type": "Currency",
+    "Condition_0_GUID": "773934d4880344cea2b2c06d5b3c2cdc",
+    "Condition_0_Value": "999",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_1_Type": "Currency",
+    "Condition_1_GUID": "3469d8e03a0546c5a3c0e280828cd19c",
+    "Condition_1_Value": "999",
+    "Condition_1_Logic": "Greater_Than_Or_Equal_To"
+  },
+  "translation": {
+    "Name": "Nomad's Checklist",
+    "Description": "Track the amount of <color=#FFC000>Nomad's Exchange I</color> and <color=#EA3379>Nomad's Exchange II</color> barter items in your possession.",
+    "Condition_0": "{0} <color=#FFC000>Nomad's Exchange I</color> Barter Items",
+    "Condition_1": "{0} <color=#EA3379>Nomad's Exchange II</color> Barter Items"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Easter_Turtle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Spawns/Fishing/Easter_Turtle/Easter_Turtle.dat",
+  "data": {
+    "GUID": "7cb24f2ba21a4d489401a789d0aaa653",
+    "Type": "Spawn",
+    "ID": "6641",
+    "Tables": "1",
+    "Table_0_Asset_ID": "6652",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

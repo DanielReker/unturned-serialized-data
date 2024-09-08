@@ -1,0 +1,18 @@
+{
+  "name": "CBMIconF",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/TestItems/CBMIconF/CBMIconF.dat",
+  "data": {
+    "GUID": "6351c22a0fdd4c15886ce2d60e785c60",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "51897",
+    "Pro": "",
+    "Size_X": "3",
+    "Size_Y": "3",
+    "Size_Z": "0.8"
+  },
+  "translation": {
+    "Name": "Forget Complex Building Knowledge",
+    "Description": "This is a test item, so you shouldn't have this.  Either way, this item doesn't do anything!"
+  }
+}

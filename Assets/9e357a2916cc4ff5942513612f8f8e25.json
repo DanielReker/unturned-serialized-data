@@ -1,0 +1,26 @@
+{
+  "name": "Kuwait_Eye_Trophy_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Barricades/Kuwait_Eye_Trophy_0/Kuwait_Eye_Trophy_0.dat",
+  "data": {
+    "GUID": "9e357a2916cc4ff5942513612f8f8e25",
+    "Type": "Barricade",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "Rarity": "Epic",
+    "ID": "5491",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.5",
+    "Health": "5000",
+    "Range": "8",
+    "Offset": "0.065",
+    "Explosion": "28",
+    "Vulnerable": "",
+    "PlacementAudioClip": "kuwait.masterbundle:Audio/Kuwait_Plastic_Place.mp3",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Outlands Nazar Trophy",
+    "Description": "Always watching. <br><color=#BF1F1F>5000 HP</color><br><color=#FF69B4>It's... decor.</color><br>"
+  }
+}

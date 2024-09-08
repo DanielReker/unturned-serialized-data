@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Willem_CompR",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Willem/PBS_Willem_CompR/Asset.dat",
+  "data": {
+    "GUID": "8d8c64b124f14534b1449b882f9e224f",
+    "Type": "Dialogue",
+    "ID": "52039",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Great!  I'll let the survivors out there know, thanks!"
+  }
+}

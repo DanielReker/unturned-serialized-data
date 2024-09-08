@@ -1,0 +1,22 @@
+{
+  "name": "Painkillers",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Medical/Painkillers/Painkillers.dat",
+  "data": {
+    "GUID": "0bc6d5d2791f4b0fb3fc0abce329e0fc",
+    "Type": "Medical",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "5529",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Aid": "",
+    "Health": "25",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Medical/Painkillers"
+  },
+  "translation": {
+    "Name": "Painkillers",
+    "Description": "Magic pills for eliminating pain. Don't take too many.<br><color=#BF1F1F>+25 HP</color>"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Skeleton",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Skeleton/Buak_Skeleton.dat",
+  "data": {
+    "GUID": "dee4ac7a8cbc49ee8957fe0e2aa389e5",
+    "Type": "Spawn",
+    "ID": "25403",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25301",
+    "Table_0_Weight": "70"
+  },
+  "translation": null
+}

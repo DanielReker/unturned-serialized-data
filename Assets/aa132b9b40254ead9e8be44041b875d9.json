@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Decal_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Small/Decals/Kuwait_Decal_5/Kuwait_Decal_5.dat",
+  "data": {
+    "GUID": "aa132b9b40254ead9e8be44041b875d9",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "5077"
+  },
+  "translation": {
+    "Name": "Kuwait Graffiti #6"
+  }
+}

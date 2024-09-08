@@ -1,0 +1,13 @@
+{
+  "name": "PS_Bunker_Detailing_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Bunker_Detailing_0/PS_Bunker_Detailing_0.dat",
+  "data": {
+    "GUID": "ce5a7de07f1e477aac49e872ab618d10",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59619"
+  },
+  "translation": {
+    "Name": "PS Bunker Detailing #1"
+  }
+}

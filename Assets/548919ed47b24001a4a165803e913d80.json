@@ -1,0 +1,31 @@
+{
+  "name": "Bread",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Bread/Bread.dat",
+  "data": {
+    "GUID": "548919ed47b24001a4a165803e913d80",
+    "Type": "Food",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "25682",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.26",
+    "Use_Auto_Icon_Measurements": "False",
+    "Food": "15",
+    "Water": "0",
+    "Quality_Min": "60",
+    "Quality_Max": "100",
+    "ConsumeAudioClip": "Sounds/Food/EatSquishy.wav",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25683",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Build": "25534",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Bread",
+    "Description": "Bready to die."
+  }
+}

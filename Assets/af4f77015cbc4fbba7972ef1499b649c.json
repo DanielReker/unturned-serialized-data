@@ -1,0 +1,23 @@
+{
+  "name": "BP_Ammo_Revolver",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Ammo_Revolver/Asset.dat",
+  "data": {
+    "GUID": "af4f77015cbc4fbba7972ef1499b649c",
+    "Type": "Quest",
+    "ID": "24841",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "9e6aa9895c4d439585569f9fa1dbb0d0",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24840",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Revolver Ammo Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Revolver Ammo Recipe"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Rack",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Rack/Rack.dat",
+  "data": {
+    "GUID": "a47e7c5ca81147c28e076a5fe2add6f8",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Clothes rack"
+  }
+}

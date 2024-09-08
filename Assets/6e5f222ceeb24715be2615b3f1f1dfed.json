@@ -1,0 +1,13 @@
+{
+  "name": "BE Store #1 Wood",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Store #1 Wood/BE Store #1 Wood.dat",
+  "data": {
+    "GUID": "6e5f222ceeb24715be2615b3f1f1dfed",
+    "Type": "Large",
+    "ID": "9049",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Store #1 Wood"
+  }
+}

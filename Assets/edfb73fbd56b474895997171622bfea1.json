@@ -1,0 +1,13 @@
+{
+  "name": "Versailles",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/Versailles/Versailles.dat",
+  "data": {
+    "GUID": "edfb73fbd56b474895997171622bfea1",
+    "Type": "Large",
+    "ID": "35061",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Versailles"
+  }
+}

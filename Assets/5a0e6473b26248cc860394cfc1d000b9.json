@@ -1,0 +1,12 @@
+{
+  "name": "Wooden Barrier 2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Wooden Barrier 2/Wooden Barrier 2.dat",
+  "data": {
+    "GUID": "5a0e6473b26248cc860394cfc1d000b9",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Wooden Barrier 2"
+  }
+}

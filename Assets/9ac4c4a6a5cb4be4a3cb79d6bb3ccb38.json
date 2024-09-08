@@ -1,0 +1,14 @@
+{
+  "name": "Captain_Find_FuelTank_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IDF/Captain_Adio/Captain_Find_FuelTank_Accepted/Asset.dat",
+  "data": {
+    "GUID": "9ac4c4a6a5cb4be4a3cb79d6bb3ccb38",
+    "Type": "Dialogue",
+    "ID": "15168",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Please hurry. I need to get back on the seas."
+  }
+}

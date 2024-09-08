@@ -1,0 +1,14 @@
+{
+  "name": "Relay_Race_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Ensign_Chitchat/Relay_Race_Accepted/Asset.dat",
+  "data": {
+    "GUID": "d1d732f42980481f8aaf9ffc5fb169ba",
+    "Type": "Dialogue",
+    "ID": "45748",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "The Ailani is contaminated with some biohzard material, take proper precautions."
+  }
+}

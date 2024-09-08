@@ -1,0 +1,14 @@
+{
+  "name": "29403KCC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29400KCD/29403KCC/Asset.dat",
+  "data": {
+    "GUID": "221242dbad6744d392e92e7da719f241",
+    "Type": "Dialogue",
+    "ID": "29403",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks for all the help. It's reassuring to know that less people will be hurt by them."
+  }
+}

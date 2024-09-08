@@ -1,0 +1,16 @@
+{
+  "name": "Eruption_Iron_Sights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Sights/Eruption_Iron_Sights/Eruption_Iron_Sights.dat",
+  "data": {
+    "GUID": "1323f1b0434d4199bcc4229347c35e25",
+    "Type": "Sight",
+    "ID": "6741",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1"
+  },
+  "translation": {
+    "Name": "Eruption Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

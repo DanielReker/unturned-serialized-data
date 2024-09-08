@@ -1,0 +1,13 @@
+{
+  "name": "GreeceFountain_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceFountain_0/GreeceFountain_0.dat",
+  "data": {
+    "GUID": "bd12dd39932542ad9caff5d7382ea8d4",
+    "Type": "Large",
+    "ID": "6232",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Fountain"
+  }
+}

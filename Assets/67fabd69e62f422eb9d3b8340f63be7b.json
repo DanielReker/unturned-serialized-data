@@ -1,0 +1,21 @@
+{
+  "name": "Buak_Deer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Animals/Buak_Deer/Buak_Deer.dat",
+  "data": {
+    "GUID": "67fabd69e62f422eb9d3b8340f63be7b",
+    "Type": "Animal",
+    "ID": "25300",
+    "Speed_Run": "16",
+    "Speed_Walk": "4",
+    "Behaviour": "Defense",
+    "Health": "200",
+    "Reward_ID": "25336",
+    "Reward_XP": "12",
+    "Reward_Min": "1",
+    "Reward_Max": "1",
+    "Glance_Anim_Variants": "2"
+  },
+  "translation": {
+    "Name": "Buak_Deer"
+  }
+}

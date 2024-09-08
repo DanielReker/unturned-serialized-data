@@ -1,0 +1,31 @@
+{
+  "name": "CapPurple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Hats/CapPurple/CapPurple.dat",
+  "data": {
+    "GUID": "5e8ca5fa6b2844709808e86f6ecde2bb",
+    "Type": "Hat",
+    "Rarity": "Common",
+    "Useable": "Clothing",
+    "ID": "51970",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Beard": "",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "51970",
+    "Blueprint_0_Product": "51020",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51020",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Purple Cap",
+    "Description": "Brimmed hat."
+  }
+}

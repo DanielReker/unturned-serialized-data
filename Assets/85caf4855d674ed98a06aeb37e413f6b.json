@@ -1,0 +1,52 @@
+{
+  "name": "ConstructionMat2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Construction/ConstructionMat2/ConstructionMat2.dat",
+  "data": {
+    "GUID": "85caf4855d674ed98a06aeb37e413f6b",
+    "Type": "Spawn",
+    "ID": "51063",
+    "Tables": [
+      {
+        "Guid": "ab6772bda536483193356c3e0ae2cb01",
+        "Weight": "4"
+      },
+      {
+        "Guid": "b15012ac19e143d59717036e9cdc2f3d",
+        "Weight": "2"
+      },
+      {
+        "Guid": "223d88c12e9f4bbfa9d10d829868a21f",
+        "Weight": "2"
+      },
+      {
+        "Guid": "91ed7eee1a4840a7bb875dd5c7865911",
+        "Weight": "1"
+      },
+      {
+        "Guid": "997e711f94a848c985b8bf72dbf9ce8d",
+        "Weight": "1"
+      },
+      {
+        "Guid": "c5942245c8e94d42b5ef800547bdc6f5",
+        "Weight": "1"
+      },
+      {
+        "Guid": "e2de24995caf46c582331d126de3a1bf",
+        "Weight": "1"
+      },
+      {
+        "Guid": "3e7e34e3ec534072b865ee0015c4eada",
+        "Weight": "1"
+      },
+      {
+        "Guid": "3a2c0cdeb2f74773b85da9655f9093e7",
+        "Weight": "1"
+      },
+      {
+        "Guid": "398e4c25793a4659a57fde2e1d503caa",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

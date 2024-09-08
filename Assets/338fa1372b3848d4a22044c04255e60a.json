@@ -1,0 +1,21 @@
+{
+  "name": "Horse",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Animals/Horse/Horse.dat",
+  "data": {
+    "GUID": "338fa1372b3848d4a22044c04255e60a",
+    "Type": "Animal",
+    "ID": "6603",
+    "Speed_Run": "12",
+    "Speed_Walk": "4",
+    "Behaviour": "Ignore",
+    "Health": "100",
+    "Reward_ID": "523",
+    "Reward_XP": "10",
+    "Reward_Min": "2",
+    "Reward_Max": "3",
+    "Panics": "3"
+  },
+  "translation": {
+    "Name": "Horse"
+  }
+}

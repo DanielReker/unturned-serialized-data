@@ -1,0 +1,16 @@
+{
+  "name": "PaintingElver",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingElver/PaintingElver.dat",
+  "data": {
+    "GUID": "2ccbe65a73a541a986d89b6e0ac241b6",
+    "Type": "Spawn",
+    "ID": "51240",
+    "Tables": [
+      {
+        "Guid": "e02cd41b871a4ad5b5d847000b86ce0d",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

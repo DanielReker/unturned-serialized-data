@@ -1,0 +1,13 @@
+{
+  "name": "PS_Jet_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Jet_2/PS_Jet_2.dat",
+  "data": {
+    "GUID": "d83d60a21bc0412fb8aba6859d595a03",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60165"
+  },
+  "translation": {
+    "Name": "PS Jet #3 [No Block]"
+  }
+}

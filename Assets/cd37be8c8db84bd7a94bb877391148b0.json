@@ -1,0 +1,26 @@
+{
+  "name": "Frost_Guide_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Guide_00/Frost_Guide_00/Asset.dat",
+  "data": {
+    "GUID": "cd37be8c8db84bd7a94bb877391148b0",
+    "Type": "NPC",
+    "ID": "36199",
+    "Face": "24",
+    "Hair": "0",
+    "Beard": "0",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#57452F",
+    "Hat": "686",
+    "Pants": "214",
+    "Shirt": "903",
+    "Backpack": "36159",
+    "Vest": "36205",
+    "Mask": "729",
+    "Secondary": "36377",
+    "Dialogue": "36200"
+  },
+  "translation": {
+    "Name": "Frost NPC Guide #1 [Safezone]",
+    "Character": "Yama the Explorer"
+  }
+}

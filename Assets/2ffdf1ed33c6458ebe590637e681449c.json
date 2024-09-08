@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Hardware",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Stores/Buak_Hardware/Buak_Hardware.dat",
+  "data": {
+    "GUID": "2ffdf1ed33c6458ebe590637e681449c",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "LOD": "Area",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Hardware"
+  }
+}

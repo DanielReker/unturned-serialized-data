@@ -1,0 +1,24 @@
+{
+  "name": "Event_0_Spooky_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Event_0/Event_0_Spooky_1/Asset.dat",
+  "data": {
+    "GUID": "8a1a4d84373442bb936df38a4bc01d84",
+    "Type": "Quest",
+    "ID": "57817",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "57248       ",
+    "Condition_0_Value": "10",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "57469 ",
+    "Reward_0_Amount": "1",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "<color=#B74000>Spooky 1</color>",
+    "Description": "Find at least <color=#64c819>10</color>x <color=#64c819>Jack-o'-lantern</color>.",
+    "Condition_0": "{0}/{1} Jack-o'-lanterns Located"
+  }
+}

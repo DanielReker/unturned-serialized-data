@@ -1,0 +1,19 @@
+{
+  "name": "Kuwait_Outlands_Cactus_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Resources/Kuwait_Outlands_Cactus_0/Kuwait_Outlands_Cactus_0.dat",
+  "data": {
+    "GUID": "dcf4c1d6dafe4bdea954c366aa8b588a",
+    "Type": "Resource",
+    "ID": "3077",
+    "Health": "750",
+    "Radius": "3",
+    "Scale": ".75",
+    "Reset": "450",
+    "Auto_Skybox": "",
+    "Has_Clip_Prefab": "false ",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Outlands Cactus #1"
+  }
+}

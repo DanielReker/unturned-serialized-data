@@ -1,0 +1,15 @@
+{
+  "name": "Buak_LAB_Portrait",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_LAB/Buak_LAB_Portrait/Buak_LAB_Portrait.dat",
+  "data": {
+    "GUID": "64e965e4ba4c431c8100a86d98e814f6",
+    "a698b9522e924bd7831f6ee6226df034": "",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_LAB_Portrait"
+  }
+}

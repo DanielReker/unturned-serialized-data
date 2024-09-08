@@ -1,0 +1,18 @@
+{
+  "name": "PBS_SeedCarrot",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardConditioned/PBS_SeedCarrot/PBS_SeedCarrot.dat",
+  "data": {
+    "GUID": "887d058ad04a4b50b04a07a422e35620",
+    "Type": "RewardsList",
+    "Conditions": "1",
+    "Condition_0_Type": "Quest",
+    "Condition_0_ID": "52139",
+    "Condition_0_Status": "Completed",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51626",
+    "Reward_0_Amount": "1"
+  },
+  "translation": null
+}

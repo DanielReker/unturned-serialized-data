@@ -1,0 +1,19 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Others/Benson/Welcome/Asset.dat",
+  "data": {
+    "GUID": "e03effb962d74783ab119f9f1083038a",
+    "Type": "Dialogue",
+    "ID": "24646",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_1_Dialogue": "b7f626947374470ca74c3c04c12f9999"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hello! I need to plagiarize a witty wedding toast to say here!",
+    "Response_0": "Hello!",
+    "Response_1": "How do you know Amber and Viola?",
+    "Response_2": "Goodbye!"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Engineer_Paris_Circuit_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Engineer_Military_Paris/Engineer_Paris_Circuit_Accepted/Asset.dat",
+  "data": {
+    "GUID": "0bd2859e8a8d432cad23e89a0d01b195",
+    "Type": "Dialogue",
+    "ID": "3507",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Definitely, I've been working on this machine for a while, but I need to get that circuit box set up as well. The fuses are on the shelf, you just gotta find the right number and color combo."
+  }
+}

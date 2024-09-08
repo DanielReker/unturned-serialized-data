@@ -1,0 +1,23 @@
+{
+  "name": "BP_Trap_Barbed_Wire_Barricade",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Trap_Barbed_Wire_Barricade/Asset.dat",
+  "data": {
+    "GUID": "487c4b87844f4254961730b597778237",
+    "Type": "Quest",
+    "ID": "24849",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "aa7abc539f2245ab9341a71d11cb4b2c",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24848",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Barbed Wire Barricade Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Barbed Wire Barricade Recipe"
+  }
+}

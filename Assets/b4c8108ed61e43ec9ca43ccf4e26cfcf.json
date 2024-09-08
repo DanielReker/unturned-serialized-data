@@ -1,0 +1,25 @@
+{
+  "name": "Metro_Art_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Paintings/Metro_Art_6/Metro_Art_6.dat",
+  "data": {
+    "GUID": "b4c8108ed61e43ec9ca43ccf4e26cfcf",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Sign_Wall",
+    "ID": "57618",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Health": "200",
+    "Range": "4",
+    "Offset": "0.125",
+    "Vulnerable": "",
+    "Explosion": "19"
+  },
+  "translation": {
+    "Name": "Baby",
+    "Description": "<color=#64c819>200</color> Health<br>Collection #1<br>Painting 7/7"
+  }
+}

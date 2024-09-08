@@ -1,0 +1,14 @@
+{
+  "name": "PS_Industrial_Building_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Industrial_Building_4/PS_Industrial_Building_4.dat",
+  "data": {
+    "GUID": "287dc15ff9fb413d8b2005bbf2b36df8",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60220",
+    "LOD": "Area"
+  },
+  "translation": {
+    "Name": "PS Industrial Building #5"
+  }
+}

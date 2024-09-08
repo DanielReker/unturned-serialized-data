@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Remote",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Remote/Obj_Remote.dat",
+  "data": {
+    "GUID": "ac8e659839d44821ae3209008cce7672",
+    "Type": "Effect",
+    "ID": "25330"
+  },
+  "translation": null
+}

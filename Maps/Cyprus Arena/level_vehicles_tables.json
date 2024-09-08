@@ -1,0 +1,72 @@
+[
+  {
+    "name": "greece civilian",
+    "tableID": 1031,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "greece military",
+    "tableID": 1023,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "greece camp",
+    "tableID": 1029,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "greece farm",
+    "tableID": 315,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "greece fire",
+    "tableID": 205,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "greece piper",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "common",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 92
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  }
+]

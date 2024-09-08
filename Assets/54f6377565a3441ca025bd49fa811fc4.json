@@ -1,0 +1,13 @@
+{
+  "name": "PS_Water_Pipe_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Water_Pipe_0/PS_Water_Pipe_0.dat",
+  "data": {
+    "GUID": "54f6377565a3441ca025bd49fa811fc4",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59266"
+  },
+  "translation": {
+    "Name": "PS Water Pipe #1"
+  }
+}

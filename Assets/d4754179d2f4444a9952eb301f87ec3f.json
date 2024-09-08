@@ -1,0 +1,17 @@
+{
+  "name": "Greece_Military_Generic",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Spawns/Greece_Vehicles/Greece_Military_Generic/Greece_Military_Generic.dat",
+  "data": {
+    "GUID": "d4754179d2f4444a9952eb301f87ec3f",
+    "Type": "Spawn",
+    "ID": "1041",
+    "Tables": "3",
+    "Table_0_Asset_ID": "3509",
+    "Table_0_Weight": "50",
+    "Table_1_Asset_ID": "3508",
+    "Table_1_Weight": "25",
+    "Table_2_Asset_ID": "3507",
+    "Table_2_Weight": "15"
+  },
+  "translation": null
+}

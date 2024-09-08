@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Plastic_Fragments",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Plastic_Fragments/PS_Drops_Plastic_Fragments.dat",
+  "data": {
+    "GUID": "4663b2cd83d94e8087e00882d35bb286",
+    "Type": "Spawn",
+    "ID": "59356",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59028",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

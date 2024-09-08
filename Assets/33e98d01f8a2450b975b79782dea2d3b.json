@@ -1,0 +1,17 @@
+{
+  "name": "BananaPeel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Assets/Materials/BananaPeel.asset",
+  "data": {
+    "GUID": "33e98d01f8a2450b975b79782dea2d3b",
+    "Type": "SDG.Unturned.PhysicsMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "UnityNames": [
+      "BananaPeel"
+    ],
+    "Fallback": "cfb691d917ce43799184094940ee67bb",
+    "Character_Friction_Mode": "Custom",
+    "Character_Acceleration_Multiplier": "10",
+    "Character_Deceleration_Multiplier": "1",
+    "Character_Max_Speed_Multiplier": "5"
+  },
+  "translation": null
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Mushroom_Mound",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Items/Mushroom_Mound/Mushroom_Mound.dat",
+  "data": {
+    "GUID": "abe25ac34d2049f6a875412eb789faa1",
+    "Type": "Spawn",
+    "ID": "2012",
+    "Tables": "2",
+    "Table_0_Asset_ID": "2010",
+    "Table_0_Weight": "98",
+    "Table_1_Asset_ID": "2013",
+    "Table_1_Weight": "2"
+  },
+  "translation": null
+}

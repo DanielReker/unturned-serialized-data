@@ -1,0 +1,22 @@
+{
+  "name": "Omega_Barracks_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Barracks_2/Asset.dat",
+  "data": {
+    "GUID": "f36bbc6e927645efb134f0ac32bf5398",
+    "Type": "NPC",
+    "ID": "3618",
+    "Shirt": "3527",
+    "Pants": "3525",
+    "Face": "2",
+    "Hair": "7",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#352C22",
+    "Pose": "Rest",
+    "Dialogue": "3674"
+  },
+  "translation": {
+    "Name": "Greek Omega Barracks Ava",
+    "Character": "<color=rare>Captain Ava</color>"
+  }
+}

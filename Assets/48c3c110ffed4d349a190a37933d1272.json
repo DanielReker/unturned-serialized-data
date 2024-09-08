@@ -1,0 +1,37 @@
+{
+  "name": "Planter",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Planter/Planter.dat",
+  "data": {
+    "GUID": "48c3c110ffed4d349a190a37933d1272",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "51663",
+    "SalvageItem": "48c3c110ffed4d349a190a37933d1272",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.35",
+    "Vulnerable": "",
+    "Health": "300",
+    "Range": "4",
+    "Radius": "0.4",
+    "Offset": "0.5",
+    "Explosion": "19",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "51023",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Supply_1_ID": "51939",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "PlacementPreviewPrefab": "Items/Barricades/Planter/Placement.prefab",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Planter",
+    "Description": "Planter box perfect for growing some crops."
+  }
+}

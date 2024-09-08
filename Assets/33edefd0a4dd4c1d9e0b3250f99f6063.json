@@ -1,0 +1,16 @@
+{
+  "name": "Buak_Cave_Path_08",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Mines/Caves/Buak_Cave_Path_08/Buak_Cave_Path_08.dat",
+  "data": {
+    "GUID": "33edefd0a4dd4c1d9e0b3250f99f6063",
+    "Type": "Large",
+    "ID": "25300",
+    "Soft": "",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Cave_Path_08"
+  }
+}

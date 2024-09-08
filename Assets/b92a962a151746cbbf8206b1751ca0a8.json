@@ -1,0 +1,33 @@
+{
+  "name": "Alexander_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/02/Alexander_02/Asset.dat",
+  "data": {
+    "GUID": "b92a962a151746cbbf8206b1751ca0a8",
+    "Type": "NPC",
+    "ID": "25300",
+    "Shirt": "35a4b95ec551461a8942b3bf47e713fe",
+    "Has_Christmas_Outfit": "True",
+    "Christmas_Shirt": "be06b967ea6f43719fceb6336c38edcc",
+    "Christmas_Hat": "a6325d088c5c499389aabf7cf26c88eb",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Shirt": "7ed322377c104319b6014ec9aedc39b1",
+    "Halloween_Hat": "8e6fc52439b04823bc09843e898efab2",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "0",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#161616",
+    "Tertiary": "467d032b5ee044968f8bae86a1eaa7dd",
+    "Equipped": "Tertiary",
+    "Dialogue": "0c632468e36a4deea369b4e493cd14b4",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24787",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Alexander_02",
+    "Character": "<color=legendary>Alexander</color>"
+  }
+}

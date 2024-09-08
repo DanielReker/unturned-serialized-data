@@ -1,0 +1,14 @@
+{
+  "name": "Mechanic_Engine_Repair_Completed",
+  "path": "Bundles/NPCs/Dialogues/Mechanic/Mechanic_Engine_Repair_Completed/Asset.dat",
+  "data": {
+    "GUID": "379070c2c656484ca688f17fcd936fd5",
+    "Type": "Dialogue",
+    "ID": "130",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks <pause>- I'll get to work on that engine as soon as I get the chance!"
+  }
+}

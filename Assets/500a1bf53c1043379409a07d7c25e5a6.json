@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Oxygenator",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Oxygenator/Bar_Oxygenator.dat",
+  "data": {
+    "GUID": "500a1bf53c1043379409a07d7c25e5a6",
+    "Type": "Effect",
+    "ID": "25397"
+  },
+  "translation": null
+}

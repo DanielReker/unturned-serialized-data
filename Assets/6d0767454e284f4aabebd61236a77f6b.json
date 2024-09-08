@@ -1,0 +1,14 @@
+{
+  "name": "Mobile_0",
+  "path": "Bundles/Objects/Large/Buildings/Mobile_0/Mobile_0.dat",
+  "data": {
+    "GUID": "6d0767454e284f4aabebd61236a77f6b",
+    "Type": "Large",
+    "ID": "257",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Mobile #1"
+  }
+}

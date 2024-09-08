@@ -1,0 +1,16 @@
+{
+  "name": "Rio_Rebel_Decal_Defenders",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Decals/Rio_Rebel_Decal_Defenders/Rio_Rebel_Decal_Defenders.dat",
+  "data": {
+    "GUID": "a053887c9182456ca0b82ff15e3bb39b",
+    "Type": "Decal",
+    "ID": "7157",
+    "Decal_X": "4",
+    "Decal_Y": "2",
+    "Decal_LOD_Bias": "1",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Rebel Decal #4"
+  }
+}

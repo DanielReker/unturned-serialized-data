@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Q_LHD_05",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_LHD_05/Buak_Q_LHD_05.dat",
+  "data": {
+    "GUID": "2afed0aa05f543e0ac2d12ef4b9f2384",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24684",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Bundle_Override_Path": "/Objects/Quests/Buak_Q_LHD_00"
+  },
+  "translation": {
+    "Name": "Buak_Q_LHD_05"
+  }
+}

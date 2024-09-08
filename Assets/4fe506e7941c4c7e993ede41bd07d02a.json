@@ -1,0 +1,14 @@
+{
+  "name": "PS_Snow_0_Barter_0_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/AridSnow/SnowDialogue/PS_Snow_0_Dialogue/PS_Snow_0_Barter_0_Return/Asset.dat",
+  "data": {
+    "GUID": "4fe506e7941c4c7e993ede41bd07d02a",
+    "Type": "Dialogue",
+    "ID": "59387",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "...cheater."
+  }
+}

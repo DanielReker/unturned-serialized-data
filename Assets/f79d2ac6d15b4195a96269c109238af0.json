@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Cork_Board",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Cork_Board/Buak_Cork_Board.dat",
+  "data": {
+    "GUID": "f79d2ac6d15b4195a96269c109238af0",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Cork_Board"
+  }
+}

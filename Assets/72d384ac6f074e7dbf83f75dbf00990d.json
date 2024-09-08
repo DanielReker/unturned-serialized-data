@@ -1,0 +1,23 @@
+{
+  "name": "BP_Timberwolf",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Timberwolf/Asset.dat",
+  "data": {
+    "GUID": "72d384ac6f074e7dbf83f75dbf00990d",
+    "Type": "Quest",
+    "ID": "24925",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "23fca17a4c5f4307a54ce291054f7d9a",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24924",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Timberwolf Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Timberwolf Recipe"
+  }
+}

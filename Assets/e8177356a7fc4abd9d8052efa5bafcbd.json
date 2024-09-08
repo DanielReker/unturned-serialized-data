@@ -1,0 +1,13 @@
+{
+  "name": "Russia_Jetski",
+  "path": "Bundles/Spawns/Vehicles/Russia_Jetski/Russia_Jetski.dat",
+  "data": {
+    "GUID": "e8177356a7fc4abd9d8052efa5bafcbd",
+    "Type": "Spawn",
+    "ID": "605",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "326",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

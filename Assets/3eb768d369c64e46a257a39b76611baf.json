@@ -1,0 +1,23 @@
+{
+  "name": "PS_Quest_0_Category_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Quest_0_Dialogue/PS_Quest_0_Category_0/Asset.dat",
+  "data": {
+    "GUID": "3eb768d369c64e46a257a39b76611baf",
+    "Type": "Dialogue",
+    "ID": "59068",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "4",
+    "Response_0_Dialogue": "59075",
+    "Response_1_Dialogue": "59076",
+    "Response_2_Dialogue": "59077",
+    "Response_3_Dialogue": "59074"
+  },
+  "translation": {
+    "Message_0_Page_0": "Well, what do you want to know exactly?",
+    "Response_0": "What's up with the bunker on the map?",
+    "Response_1": "How do I access deadzones?",
+    "Response_2": "What do traders offer to me?",
+    "Response_3": "Return."
+  }
+}

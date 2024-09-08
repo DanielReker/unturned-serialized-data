@@ -1,0 +1,12 @@
+{
+  "name": "Glowstick",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Small/Glowstick/Glowstick.dat",
+  "data": {
+    "GUID": "19d7310b6ad44b3ba3093bc9d1852a88",
+    "Type": "Medium",
+    "ID": "51006"
+  },
+  "translation": {
+    "Name": "PBS Glowstick"
+  }
+}

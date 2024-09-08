@@ -1,0 +1,10 @@
+{
+  "name": "PBS_Heavy_Vest",
+  "path": "Bundles/Items/PBS/PBS_Heavy_Vest/PBS_Heavy_Vest.dat",
+  "data": {
+    "GUID": "80e9b0a70ea2458a9058ce83a4330c42",
+    "Type": "Vest",
+    "Pro": ""
+  },
+  "translation": null
+}

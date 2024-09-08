@@ -1,0 +1,21 @@
+{
+  "name": "Ray_Ext",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Music/Ray_Ext/Ray_Ext.asset",
+  "data": {
+    "GUID": "171d0890dcf8419384d7e9b011b04b60",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Title": {
+      "Namespace": "SDG",
+      "Token": "Stereo_Songs.Ray.Title"
+    },
+    "Song": {
+      "MasterBundle": "metro.masterbundle",
+      "AssetPath": "Vehicles/Metro_Faster/SirenAlt.wav"
+    },
+    "Link_URL": "https://youtu.be/0k01imD2lCU"
+  },
+  "translation": {
+    "Name": "X-Ray [Extended]"
+  }
+}

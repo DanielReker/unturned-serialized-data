@@ -1,0 +1,14 @@
+{
+  "name": "PS_Trader_1_Quest_3_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_1_Dialogue/PS_Trader_1_Quest_3_Return/Asset.dat",
+  "data": {
+    "GUID": "43a23ea6af69477fa6abf2510d64144d",
+    "Type": "Dialogue",
+    "ID": "59057",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Reinforcements IV Completed"
+  }
+}

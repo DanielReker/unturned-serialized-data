@@ -1,0 +1,14 @@
+{
+  "name": "Arid_Suit_Bottoms_2",
+  "path": "Bundles/Items/Arid/Arid_Suit_Bottoms_2/Arid_Suit_Bottoms_2.dat",
+  "data": {
+    "GUID": "a142c827bf50450896e3413b101b1bb9",
+    "Type": "Pants",
+    "Useable": "Clothing",
+    "ID": "1722",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Pro": ""
+  },
+  "translation": null
+}

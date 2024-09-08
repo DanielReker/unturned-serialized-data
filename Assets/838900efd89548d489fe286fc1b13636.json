@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Q_S7M4_4_C",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M4/Buak_Q_S7M4_4_C/Buak_Q_S7M4_4_C.dat",
+  "data": {
+    "GUID": "838900efd89548d489fe286fc1b13636",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M4_4_C"
+  }
+}

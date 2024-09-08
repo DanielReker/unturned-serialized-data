@@ -1,0 +1,14 @@
+{
+  "name": "Coalition_Guard",
+  "path": "Bundles/NPCs/Dialogues/Coalition_Guard/Coalition_Guard/Asset.dat",
+  "data": {
+    "GUID": "ced19252804e416dba764c4df6d3e7f7",
+    "Type": "Dialogue",
+    "ID": "91",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Just guarding <color=legendary>Captain Sydney's</color> quarters. If you're looking for her she's up on the bridge."
+  }
+}

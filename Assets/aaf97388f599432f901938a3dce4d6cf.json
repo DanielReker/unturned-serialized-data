@@ -1,0 +1,25 @@
+{
+  "name": "Buak_Q_LHD_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_LHD_03/Buak_Q_LHD_03.dat",
+  "data": {
+    "GUID": "aaf97388f599432f901938a3dce4d6cf",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24719",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "LH_INT"
+  },
+  "translation": {
+    "Name": "Buak_Q_LHD_03",
+    "Interact": "Enter Lighthouse [{0}]"
+  }
+}

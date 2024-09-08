@@ -1,0 +1,13 @@
+{
+  "name": "Fire_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Fire_Brazil/Fire_Brazil.dat",
+  "data": {
+    "GUID": "efe7d8a725334890abf1d4795195e863",
+    "Type": "Spawn",
+    "ID": "5511",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "305\t",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

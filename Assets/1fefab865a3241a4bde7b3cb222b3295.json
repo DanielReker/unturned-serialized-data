@@ -1,0 +1,16 @@
+{
+  "name": "Drop_BoxCircuitboards",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/BarricadeDestroy/Drop_BoxCircuitboards/Drop_BoxCircuitboards.dat",
+  "data": {
+    "GUID": "1fefab865a3241a4bde7b3cb222b3295",
+    "Type": "Spawn",
+    "ID": "51331",
+    "Tables": [
+      {
+        "Guid": "cbbebe5a009341bbb3c54d176ed41038",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

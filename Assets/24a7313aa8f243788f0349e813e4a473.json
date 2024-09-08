@@ -1,0 +1,13 @@
+{
+  "name": "PBS_SZE4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/PBS_SZE4/PBS_SZE4.dat",
+  "data": {
+    "GUID": "24a7313aa8f243788f0349e813e4a473",
+    "Type": "RewardsList",
+    "Conditions": "0",
+    "Rewards": "1",
+    "Reward_0_Type": "Teleport",
+    "Reward_0_Spawnpoint": "Facility_Spawn_3"
+  },
+  "translation": null
+}

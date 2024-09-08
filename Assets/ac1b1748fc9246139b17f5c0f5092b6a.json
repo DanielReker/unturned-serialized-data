@@ -1,0 +1,22 @@
+{
+  "name": "Major_General_Nelson",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IDF/Major_General_Nelson/Asset.dat",
+  "data": {
+    "GUID": "ac1b1748fc9246139b17f5c0f5092b6a",
+    "Type": "NPC",
+    "ID": "15021",
+    "Shirt": "16269",
+    "Pants": "16272",
+    "Hat": "16260",
+    "Vest": "16235",
+    "Face": "13",
+    "Hair": "19",
+    "Color_Skin": "#EACFBE",
+    "Color_Hair": "#160e06",
+    "Dialogue": "15151"
+  },
+  "translation": {
+    "Name": "IDF Major General Nelson",
+    "Character": "<color=legendary>Major General Nelson</color>"
+  }
+}

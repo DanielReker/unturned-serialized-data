@@ -1,0 +1,33 @@
+{
+  "name": "Military_Belgium_Guns",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Spawns/Items/Military_Belgium_Guns/Military_Belgium_Guns.dat",
+  "data": {
+    "GUID": "ec0035311ad84c1db9ae9b50f47b98a3",
+    "Type": "Spawn",
+    "ID": "9009",
+    "Tables": "11",
+    "Table_0_Asset_ID": "9003",
+    "Table_0_Weight": "35",
+    "Table_1_Asset_ID": "1037",
+    "Table_1_Weight": "35",
+    "Table_2_Asset_ID": "1362",
+    "Table_2_Weight": "35",
+    "Table_3_Asset_ID": "1024",
+    "Table_3_Weight": "50",
+    "Table_4_Asset_ID": "1369",
+    "Table_4_Weight": "28",
+    "Table_5_Asset_ID": "1481",
+    "Table_5_Weight": "50",
+    "Table_6_Asset_ID": "1377",
+    "Table_6_Weight": "35",
+    "Table_7_Asset_ID": "9028",
+    "Table_7_Weight": "35",
+    "Table_8_Asset_ID": "9026",
+    "Table_8_Weight": "65",
+    "Table_9_Asset_ID": "9030",
+    "Table_9_Weight": "65",
+    "Table_10_Asset_ID": "9033",
+    "Table_10_Weight": "18"
+  },
+  "translation": null
+}

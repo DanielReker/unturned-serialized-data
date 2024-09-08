@@ -1,0 +1,25 @@
+{
+  "name": "PS_Offices_Door_Openable_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Offices_Door_Openable_2/PS_Offices_Door_Openable_2.dat",
+  "data": {
+    "GUID": "fafe126217674b35bde2c69d322e97c1",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59755",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "59002",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability": "Binary_State",
+    "Interactability_Delay": "4",
+    "Interactability_Hint": "Use",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Large/PS_Offices_Door_Openable_0"
+  },
+  "translation": {
+    "Name": "PS Offices Door Openable #3 [A5]",
+    "Interactability_Condition_0": "Missing EUS A5 Key",
+    "Interact": "Use [{0}]"
+  }
+}

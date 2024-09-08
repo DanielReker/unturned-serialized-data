@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_CamelShirt",
+  "path": "Bundles/Items/Kuwait/Kuwait_CamelShirt/Kuwait_CamelShirt.dat",
+  "data": {
+    "GUID": "4ad9ba6b865842468ef8dcf20bdbc85c",
+    "Type": "Shirt",
+    "ID": "1662",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.6",
+    "Pro": ""
+  },
+  "translation": null
+}

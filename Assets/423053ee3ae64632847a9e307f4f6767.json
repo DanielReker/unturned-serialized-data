@@ -1,0 +1,14 @@
+{
+  "name": "Chef_Valentines_Note",
+  "path": "Bundles/NPCs/Dialogues/Chef/Chef_Valentines_Note/Asset.dat",
+  "data": {
+    "GUID": "423053ee3ae64632847a9e307f4f6767",
+    "Type": "Dialogue",
+    "ID": "234",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks, let me take a look...<pause> It's another note, addressed to Andy!"
+  }
+}

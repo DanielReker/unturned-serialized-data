@@ -1,0 +1,13 @@
+{
+  "name": "Shelf_2",
+  "path": "Bundles/Objects/Medium/Furniture/Shelf_2/Shelf_2.dat",
+  "data": {
+    "GUID": "f463c0c6285544ac86845d98a07d73a9",
+    "Type": "Medium",
+    "ID": "347",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Shelf #3"
+  }
+}

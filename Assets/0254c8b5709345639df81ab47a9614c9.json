@@ -1,0 +1,13 @@
+{
+  "name": "Renegade_Black",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Vehicles/Renegade_Black/Renegade_Black.dat",
+  "data": {
+    "GUID": "0254c8b5709345639df81ab47a9614c9",
+    "Type": "Large",
+    "ID": "35077",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Black Renegade"
+  }
+}

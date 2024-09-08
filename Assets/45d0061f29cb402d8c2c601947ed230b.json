@@ -1,0 +1,32 @@
+{
+  "name": "Mafia_Weapons",
+  "path": "Bundles/Spawns/Items/Mafia_Weapons/Mafia_Weapons.dat",
+  "data": {
+    "GUID": "45d0061f29cb402d8c2c601947ed230b",
+    "Type": "Spawn",
+    "ID": "632",
+    "Tables": [
+      {
+        "LegacyAssetId": "1379",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "1390",
+        "Weight": "100"
+      },
+      {
+        "Guid": "b007c73f4a23448bbe2d828240eae17d",
+        "Weight": "25"
+      },
+      {
+        "Guid": "90b25d37520b4330a452e36e82a41023",
+        "Weight": "25"
+      },
+      {
+        "Guid": "ac73fb1922374ef18a8e7c04d1403ba3",
+        "Weight": "25"
+      }
+    ]
+  },
+  "translation": null
+}

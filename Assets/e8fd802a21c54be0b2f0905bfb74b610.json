@@ -1,0 +1,29 @@
+{
+  "name": "Kuwait_Elver_Fish_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Food/Kuwait_Elver_Fish_1/Kuwait_Elver_Fish_1.dat",
+  "data": {
+    "GUID": "e8fd802a21c54be0b2f0905bfb74b610",
+    "Type": "Food",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "5288",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Food": "5",
+    "Virus": "50",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supply_0_ID": "5288",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Product": "5247",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Kuwait",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatSquishy.mp3"
+  },
+  "translation": {
+    "Name": "Baby Fish",
+    "Description": "I am everywhere. <br><color=#AB8019>+5 Food</color><br><color=#8B0000>-50 Infection</color>"
+  }
+}

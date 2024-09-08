@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Hydrant",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Hydrant/Obj_Hydrant.dat",
+  "data": {
+    "GUID": "12a671bf77bd40a889c98d2edc192b45",
+    "Type": "Effect",
+    "ID": "25327"
+  },
+  "translation": null
+}

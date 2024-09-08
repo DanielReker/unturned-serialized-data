@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Glass",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Glass/Buak_Glass.dat",
+  "data": {
+    "GUID": "18a4fed78b2244e9a07ea5800507d4dd",
+    "Type": "Spawn",
+    "ID": "25344",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25319",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

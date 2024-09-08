@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Q_S7M1_L2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M1/Buak_Q_S7M1_L2/Buak_Q_S7M1_L2.dat",
+  "data": {
+    "GUID": "6e8aaa5c686d4d70a11e37f9bc5ad51f",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24314",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M1_L2"
+  }
+}

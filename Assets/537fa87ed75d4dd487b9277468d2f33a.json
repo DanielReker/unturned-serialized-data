@@ -1,0 +1,16 @@
+{
+  "name": "HawaiiBoulder_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiBoulder_2/HawaiiBoulder_2.dat",
+  "data": {
+    "GUID": "537fa87ed75d4dd487b9277468d2f33a",
+    "Type": "Large",
+    "ID": "836",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Hawaii Boulder #3"
+  }
+}

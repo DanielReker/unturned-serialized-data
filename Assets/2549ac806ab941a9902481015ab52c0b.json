@@ -1,0 +1,13 @@
+{
+  "name": "Peaks_Prison",
+  "path": "Bundles/Spawns/Items/Peaks_Prison/Peaks_Prison.dat",
+  "data": {
+    "GUID": "2549ac806ab941a9902481015ab52c0b",
+    "Type": "Spawn",
+    "ID": "706",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "198",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Doctor_Vendor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Doctor_Military/Doctor_Vendor/Asset.dat",
+  "data": {
+    "GUID": "1d6a4f61d36343028ba0bc1572bc1c15",
+    "Type": "Dialogue",
+    "ID": "3537",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Come again if you need anything."
+  }
+}

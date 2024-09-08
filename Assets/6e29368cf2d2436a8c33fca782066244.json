@@ -1,0 +1,15 @@
+{
+  "name": "Needles_Happy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Ensign_Needles/Needles_Happy/Asset.dat",
+  "data": {
+    "GUID": "6e29368cf2d2436a8c33fca782066244",
+    "Type": "Dialogue",
+    "ID": "45730",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ah, so you've noticed it too. <pause> It could be a variety of things, but I'm assuming it is a mix of trauma and hope.",
+    "Message_0_Page_1": "The Unyielding has provided hope for them all, for us too. I guess, would you rather dwell on the horrors and mistakes of the past, or move forward, reinvent yourself, and stay optimistic for the future. "
+  }
+}

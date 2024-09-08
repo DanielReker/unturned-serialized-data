@@ -1,0 +1,26 @@
+{
+  "name": "KuwaitMiliVendor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/3/V/KuwaitMiliVendor/Asset.dat",
+  "data": {
+    "GUID": "5b4884846cd0406a99572eb35b8dbe8d",
+    "Type": "Vendor",
+    "ID": "29112",
+    "Buying": "2",
+    "Buying_0_ID": "5105",
+    "Buying_0_Cost": "25",
+    "Buying_1_ID": "73",
+    "Buying_1_Cost": "20",
+    "Selling": "3",
+    "Selling_0_ID": "1176",
+    "Selling_0_Cost": "20",
+    "Selling_1_ID": "5519",
+    "Selling_1_Cost": "5",
+    "Selling_2_ID": "5103",
+    "Selling_2_Cost": "10",
+    "Currency": "b76b37b2d40c4054b850458e135408c6"
+  },
+  "translation": {
+    "Name": "Military Surplus",
+    "Description": "Extra gear for sale here."
+  }
+}

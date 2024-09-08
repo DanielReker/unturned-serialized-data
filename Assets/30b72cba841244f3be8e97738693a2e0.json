@@ -1,0 +1,13 @@
+{
+  "name": "Coastguard_America_Shirts",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Items/Coastguard_America_Shirts/Coastguard_America_Shirts.dat",
+  "data": {
+    "GUID": "30b72cba841244f3be8e97738693a2e0",
+    "Type": "Spawn",
+    "ID": "802",
+    "Tables": "1",
+    "Table_0_Asset_ID": "1462",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

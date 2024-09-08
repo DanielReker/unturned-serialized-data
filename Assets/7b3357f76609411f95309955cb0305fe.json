@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Traffic_Cone",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Traffic_Cone/PS_Drops_Traffic_Cone.dat",
+  "data": {
+    "GUID": "7b3357f76609411f95309955cb0305fe",
+    "Type": "Spawn",
+    "ID": "59429",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59577",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

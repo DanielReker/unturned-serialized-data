@@ -1,0 +1,14 @@
+{
+  "name": "Cubik_PC_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Cubik/Cubik_PC_Accepted/Asset.dat",
+  "data": {
+    "GUID": "06e3bcbd62534fdd9521ccad5980417d",
+    "Type": "Dialogue",
+    "ID": "8110",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Excellent. I'll be here when you have them."
+  }
+}

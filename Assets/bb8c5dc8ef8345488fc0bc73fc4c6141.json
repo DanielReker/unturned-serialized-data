@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Sentry_Hostile",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Sentry_Hostile/Bar_Sentry_Hostile.dat",
+  "data": {
+    "GUID": "bb8c5dc8ef8345488fc0bc73fc4c6141",
+    "Type": "Effect",
+    "ID": "25413"
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sewer_Grate_0",
+  "path": "Bundles/Objects/Medium/Rubble/Sewer_Grate_0/Sewer_Grate_0.dat",
+  "data": {
+    "GUID": "17937135fb174cd9bf498084e6e06b4a",
+    "Type": "Medium",
+    "ID": "969",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Sewer Grate #1"
+  }
+}

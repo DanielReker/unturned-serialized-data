@@ -1,0 +1,25 @@
+{
+  "name": "Bag_MRE",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Food/Bag_MRE/Bag_MRE.dat",
+  "data": {
+    "GUID": "56f6503bf65f41ff8433e01dc9c1aa07",
+    "Type": "Food",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "5241",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Quality_Min": "50",
+    "Quality_Max": "100",
+    "Food": "75",
+    "Water": "75",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Bag_MRE",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "MRE",
+    "Description": "Meal ready to eat. Does not come with rock or something.<br><color=#AB8019>+75 Food</color><br><color=#3298C8>+75 Water</color>"
+  }
+}

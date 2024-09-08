@@ -1,0 +1,17 @@
+{
+  "name": "RadioEquipment_Setup_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/RadioEquipment_Setup_3/RadioEquipment_Setup_3.dat",
+  "data": {
+    "GUID": "7aa818b5d0fc4ee79a0a6073d4d91f0d",
+    "Type": "Small",
+    "ID": "4516",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "45741",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Relay Alika Setup #4"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Artemis",
+  "path": "Bundles/Skins/Bow_Compound/Artemis/Artemis.dat",
+  "data": {
+    "GUID": "6be82d64c907437aa7cad5070e60c014",
+    "Type": "Skin",
+    "ID": "255",
+    "Override_Meshes": "1"
+  },
+  "translation": null
+}

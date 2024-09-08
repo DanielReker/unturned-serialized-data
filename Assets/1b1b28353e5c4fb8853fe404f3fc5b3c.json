@@ -1,0 +1,17 @@
+{
+  "name": "Prison_Belgium",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Spawns/Items/Prison_Belgium/Prison_Belgium.dat",
+  "data": {
+    "GUID": "1b1b28353e5c4fb8853fe404f3fc5b3c",
+    "Type": "Spawn",
+    "ID": "9035",
+    "Tables": "3",
+    "Table_0_Spawn_ID": "9036",
+    "Table_0_Weight": "78",
+    "Table_1_Spawn_ID": "201",
+    "Table_1_Weight": "10",
+    "Table_2_Spawn_ID": "202",
+    "Table_2_Weight": "18"
+  },
+  "translation": null
+}

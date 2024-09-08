@@ -1,0 +1,29 @@
+{
+  "name": "Buak_Medkit",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Medkit/Buak_Medkit.dat",
+  "data": {
+    "GUID": "19157fc3dbff44fcb0f0fca9afa2054b",
+    "Type": "Spawn",
+    "ID": "25394",
+    "Tables": "9",
+    "Table_0_Asset_ID": "25621",
+    "Table_0_Weight": "120",
+    "Table_1_Asset_ID": "25628",
+    "Table_1_Weight": "120",
+    "Table_2_Asset_ID": "25624",
+    "Table_2_Weight": "120",
+    "Table_3_Asset_ID": "25623",
+    "Table_3_Weight": "20",
+    "Table_4_Asset_ID": "25633",
+    "Table_4_Weight": "10",
+    "Table_5_Asset_ID": "25630",
+    "Table_5_Weight": "5",
+    "Table_6_Asset_ID": "25635",
+    "Table_6_Weight": "5",
+    "Table_7_Asset_ID": "25631",
+    "Table_7_Weight": "1",
+    "Table_8_Asset_ID": "25634",
+    "Table_8_Weight": "1"
+  },
+  "translation": null
+}

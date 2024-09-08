@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Museum_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Museum_0/Rio_Museum_0.dat",
+  "data": {
+    "GUID": "c0f33b4bf9e14cdba0b5a9076fff477c",
+    "Type": "Large",
+    "ID": "6089",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Museum #1"
+  }
+}

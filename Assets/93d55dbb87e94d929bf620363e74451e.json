@@ -1,0 +1,13 @@
+{
+  "name": "PS_Heli_Crate_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Heli_Crate_1/PS_Heli_Crate_1.dat",
+  "data": {
+    "GUID": "93d55dbb87e94d929bf620363e74451e",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60251"
+  },
+  "translation": {
+    "Name": "PS Heli Crate #2 [Bunker Guns]"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUV_Blue",
+  "path": "Bundles/Objects/Large/Vehicles/SUV_Blue/SUV_Blue.dat",
+  "data": {
+    "GUID": "400b3892c8a34bad9e13a7bdadf0c6fa",
+    "Type": "Large",
+    "ID": "655",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Blue Rover"
+  }
+}

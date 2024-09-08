@@ -1,0 +1,41 @@
+{
+  "name": "Seed_Potato",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Tools/Seed_Potato/Seed_Potato.dat",
+  "data": {
+    "GUID": "514c5145f5f141c98907b63c507b3dce",
+    "Type": "Farm",
+    "Rarity": "Common",
+    "Useable": "Barricade",
+    "Build": "Farm",
+    "ID": "25420",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.16",
+    "Use_Auto_Icon_Measurements": "False",
+    "Has_Clip_Prefab": "false",
+    "Unrepairable": "",
+    "Salvage_Duration_Multiplier": ".3",
+    "Bypass_Pickup_Ownership": "True",
+    "Health": "4",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "0.375",
+    "Growth": "12000",
+    "Grow_SpawnTable": "debe3b9f2fd04a43986ff0e1da529934",
+    "Explosion": "25358",
+    "Vulnerable": "",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "25750",
+    "Blueprint_0_Build": "25530",
+    "Blueprint_1_Type": "Utilities",
+    "Blueprint_1_Supply_0_ID": "25751",
+    "Blueprint_1_Build": "25530",
+    "PlacementAudioClip": "Sounds/Placement/FoliagePlacement.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Potato Seed",
+    "Description": "Ready for planting and growing."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Omega_Soldier_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Soldier_1/Asset.dat",
+  "data": {
+    "GUID": "9b4c24f8cee0408297a0ba69043e1514",
+    "Type": "NPC",
+    "ID": "3621",
+    "Shirt": "3533",
+    "Pants": "3525",
+    "Hat": "763",
+    "Backpack": "1182",
+    "Face": "5",
+    "Hair": "18",
+    "Beard": "1",
+    "Color_Skin": "#534736",
+    "Color_Hair": "#191919",
+    "Backward": "",
+    "Primary": "4",
+    "Secondary": "3515",
+    "Dialogue": "3363"
+  },
+  "translation": {
+    "Name": "Greek Omega Soldier Iskander",
+    "Character": "<color=uncommon>Cadet Iskander</color>"
+  }
+}

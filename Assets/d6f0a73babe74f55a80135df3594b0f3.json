@@ -1,0 +1,17 @@
+{
+  "name": "Olivia_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Civilian Olivia/Olivia_Welcome/Asset.dat",
+  "data": {
+    "GUID": "d6f0a73babe74f55a80135df3594b0f3",
+    "Type": "Dialogue",
+    "ID": "9216",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "9217"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh hello there! How long has it been since this all started?",
+    "Response_0": "I can't even remember myself."
+  }
+}

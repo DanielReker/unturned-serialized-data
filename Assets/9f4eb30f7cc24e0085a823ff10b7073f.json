@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Harold_Acc",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Harold/PBS_Harold_Acc/Asset.dat",
+  "data": {
+    "GUID": "9f4eb30f7cc24e0085a823ff10b7073f",
+    "Type": "Dialogue",
+    "ID": "52233",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks bro.  Maybe it'll cancel out my eye being like this!"
+  }
+}

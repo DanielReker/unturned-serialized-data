@@ -1,0 +1,17 @@
+{
+  "name": "UMarine",
+  "path": "Bundles/Skins/Desert_Falcon/UMarine/UMarine.dat",
+  "data": {
+    "GUID": "508b77bc1e1b47a5bde8a72a705dc5e4",
+    "Type": "Skin",
+    "ID": "50159",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": "",
+    "Secondary_Skins": "1",
+    "Secondary_0": "489"
+  },
+  "translation": null
+}

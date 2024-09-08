@@ -1,0 +1,18 @@
+{
+  "name": "Metro_Lamp_13",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Lamp_13/Metro_Lamp_13.dat",
+  "data": {
+    "GUID": "c5eb34eacf7c4f08b3edf03eb8452665",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57340",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "180",
+    "Rubble_Effect": "72",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Metro Lamp #14"
+  }
+}

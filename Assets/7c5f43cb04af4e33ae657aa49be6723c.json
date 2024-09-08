@@ -1,0 +1,17 @@
+{
+  "name": "Viola_Question_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Viola/Viola_04/Viola_Question_00/Asset.dat",
+  "data": {
+    "GUID": "7c5f43cb04af4e33ae657aa49be6723c",
+    "Type": "Dialogue",
+    "ID": "24069",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "28",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "The guitar, piano, drums, pan flute, and I can probably play any others if I have some practice!",
+    "Response_0": "Good to know!"
+  }
+}

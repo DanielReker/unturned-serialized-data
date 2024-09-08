@@ -1,0 +1,14 @@
+{
+  "name": "26071KEZephaniahAccepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26060KEZD/26070KEZAD/26071KEZephaniahAccepted/Asset.dat",
+  "data": {
+    "GUID": "8eacbccf746442a780c81222b60e9222",
+    "Type": "Dialogue",
+    "ID": "26071",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You bet! Be back with supplies this evenin'."
+  }
+}

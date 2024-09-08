@@ -1,0 +1,15 @@
+{
+  "name": "Greece_Military_Air_Chinook",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Spawns/Greece_Vehicles/Greece_Military_Air_Chinook/Greece_Military_Air_Chinook.dat",
+  "data": {
+    "GUID": "c1ac5716e8f947ffbb30b28a13924e10",
+    "Type": "Spawn",
+    "ID": "1032",
+    "Tables": "2",
+    "Table_0_Asset_ID": "3510",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "3505",
+    "Table_1_Weight": "5"
+  },
+  "translation": null
+}

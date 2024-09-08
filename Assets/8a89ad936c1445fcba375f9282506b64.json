@@ -1,0 +1,17 @@
+{
+  "name": "Flare_Red",
+  "path": "Bundles/Items/Throwables/Flare_Red/Flare_Red.dat",
+  "data": {
+    "GUID": "8a89ad936c1445fcba375f9282506b64",
+    "Type": "Throwable",
+    "Useable": "Throwable",
+    "ID": "259",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.45"
+  },
+  "translation": {
+    "Name": "Red Flare",
+    "Description": "Road flare for quickly lighting up an area."
+  }
+}

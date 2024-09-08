@@ -1,0 +1,12 @@
+{
+  "name": "IR_Statue",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/Debris/IR_Statue/IR_Statue.dat",
+  "data": {
+    "GUID": "4a6632f6614b4e04b351c8e869ee8d34",
+    "Type": "Medium",
+    "ID": "14434"
+  },
+  "translation": {
+    "Name": "Boat#5"
+  }
+}

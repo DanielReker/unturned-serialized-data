@@ -1,0 +1,13 @@
+{
+  "name": "PS_Ruin_9",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Ruin_9/PS_Ruin_9.dat",
+  "data": {
+    "GUID": "9c409e7056554b6ca863e7e1be85265e",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60114"
+  },
+  "translation": {
+    "Name": "PS Ruin #10"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Paintball_Yellow_Dynamic",
+  "path": "Bundles/Effects/Impacts/Paintball_Yellow_Dynamic/Paintball_Yellow_Dynamic.dat",
+  "data": {
+    "GUID": "d9820fabf8174ed5807dc44593800406",
+    "Type": "Effect",
+    "ID": "117",
+    "Splatter": "4",
+    "Splatters": "8"
+  },
+  "translation": null
+}

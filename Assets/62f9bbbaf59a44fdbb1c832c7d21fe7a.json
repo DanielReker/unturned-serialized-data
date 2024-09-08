@@ -1,0 +1,40 @@
+{
+  "name": "Bottle_Pink_Lemonade",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Drinks/Bottle_Pink_Lemonade/Bottle_Pink_Lemonade.dat",
+  "data": {
+    "GUID": "62f9bbbaf59a44fdbb1c832c7d21fe7a",
+    "Type": "Water",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "25795",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "25793",
+    "Quest_Reward_0_Amount": "1",
+    "Quest_Reward_0_Value": "True",
+    "Food": "5",
+    "Water": "80",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "25628",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "25536",
+    "Blueprint_1_Type": "Supply",
+    "Blueprint_1_Supplies": "2",
+    "Blueprint_1_Supply_0_ID": "25773",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Supply_1_ID": "25374",
+    "Blueprint_1_Supply_1_Amount": "1",
+    "Blueprint_1_Supply_1_Critical": "",
+    "Blueprint_1_Build": "25536",
+    "ConsumeAudioClip": "Sounds/Food/drinkBottle.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Bottled Pink Lemonade",
+    "Description": "Repackaged pink lemon water."
+  }
+}

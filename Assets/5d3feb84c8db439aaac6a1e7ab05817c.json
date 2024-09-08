@@ -1,0 +1,21 @@
+{
+  "name": "Doctor Saraiva",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Scientist/Doctor Saraiva/Asset.dat",
+  "data": {
+    "GUID": "5d3feb84c8db439aaac6a1e7ab05817c",
+    "Type": "NPC",
+    "ID": "9033",
+    "Shirt": "8000",
+    "Pants": "8001",
+    "Glasses": "727",
+    "Face": "20",
+    "Hair": "18",
+    "Color_Skin": "#847660",
+    "Color_Hair": "#332a16",
+    "Dialogue": "9207"
+  },
+  "translation": {
+    "Name": "NAM Doctor Saraiva",
+    "Character": "<color=epic>Dr. Saraiva</color>"
+  }
+}

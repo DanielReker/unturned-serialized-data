@@ -1,0 +1,38 @@
+{
+  "name": "Orthrus",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Vehicles/Greece/Orthrus/Orthrus.dat",
+  "data": {
+    "GUID": "e9f9de72df1b4e33ab3d1ba36c781916",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "ID": "3506",
+    "Speed_Min": "-6",
+    "Speed_Max": "13.5",
+    "Steer_Min": "12",
+    "Steer_Max": "24",
+    "Brake": "40",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "1750",
+    "Health_Min": "350",
+    "Health_Max": "450",
+    "Health": "520",
+    "Invulnerable": "",
+    "Environment_Invulnerable": "",
+    "Bumper_Invulnerable": "",
+    "Traction": "",
+    "Trunk_Storage_X": "5",
+    "Trunk_Storage_Y": "4",
+    "Explosion": "20",
+    "Turrets": "1",
+    "Turret_0_Seat_Index": "1",
+    "Turret_0_Item_ID": "1394",
+    "Turret_0_Yaw_Min": "-85",
+    "Turret_0_Yaw_Max": "85",
+    "Turret_0_Pitch_Min": "45",
+    "Turret_0_Pitch_Max": "160"
+  },
+  "translation": {
+    "Name": "Orthrus"
+  }
+}

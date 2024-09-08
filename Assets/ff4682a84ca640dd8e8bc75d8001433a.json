@@ -1,0 +1,36 @@
+{
+  "name": "Kuwait_Palm_Door",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Barricades/Kuwait_Palm_Door/Kuwait_Palm_Door.dat",
+  "data": {
+    "GUID": "ff4682a84ca640dd8e8bc75d8001433a",
+    "Type": "Barricade",
+    "Useable": "Barricade",
+    "Build": "Door",
+    "ID": "5451",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Health": "250",
+    "Range": "4",
+    "Radius": "1",
+    "Offset": "1.25",
+    "Locked": "",
+    "Explosion": "5281",
+    "Salvage_Duration_Multiplier": "0.5",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "5501",
+    "Blueprint_0_Supply_0_Amount": "3",
+    "Blueprint_0_Supply_1_ID": "67",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Kuwait",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Palm Door",
+    "Description": "Palm door ideal for keeping out unwanted visitors. Not for long though.<br><color=#BF1F1F>250 HP</color>"
+  }
+}

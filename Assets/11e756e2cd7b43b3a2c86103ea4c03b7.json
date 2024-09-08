@@ -1,0 +1,32 @@
+{
+  "name": "DeadzoneMega",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Deadzone/DeadzoneMega/DeadzoneMega.dat",
+  "data": {
+    "GUID": "11e756e2cd7b43b3a2c86103ea4c03b7",
+    "Type": "Spawn",
+    "ID": "51142",
+    "Tables": [
+      {
+        "Guid": "49f76ffbfc824b148abed42f9f596b28",
+        "Weight": "250"
+      },
+      {
+        "Guid": "06b308aaa5694bb59085ceb6f64a217d",
+        "Weight": "250"
+      },
+      {
+        "Guid": "2ce6dcc83e0e4ef39a2f2f4955ede944",
+        "Weight": "240"
+      },
+      {
+        "Guid": "4ed0ec85a53e4fadaf1a49189fa24dc1",
+        "Weight": "180"
+      },
+      {
+        "Guid": "e0929c2cc55f4beb912726a292bcc56c",
+        "Weight": "80"
+      }
+    ]
+  },
+  "translation": null
+}

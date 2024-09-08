@@ -1,0 +1,37 @@
+{
+  "name": "Carpenter_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Carpenter_Pete/Carpenter_Welcome/Asset.dat",
+  "data": {
+    "GUID": "25192d1ed1b448f181c4342375567a63",
+    "Type": "Dialogue",
+    "ID": "2025",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Dialogue": "2026",
+    "Response_0_Quest": "2028",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "2028",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "2028",
+    "Response_0_Reward_0_Status": "Active",
+    "Response_1_Dialogue": "2027",
+    "Response_1_Quest": "2028",
+    "Response_1_Conditions": "1",
+    "Response_1_Condition_0_Type": "Quest",
+    "Response_1_Condition_0_Logic": "Equal",
+    "Response_1_Condition_0_ID": "2028",
+    "Response_1_Condition_0_Status": "Ready",
+    "Response_1_Condition_0_Reset": ""
+  },
+  "translation": {
+    "Message_0_Page_0": "I love the smell of the ocean!",
+    "Response_0": "Need any help?",
+    "Response_1": "I found the tools you needed!",
+    "Response_2": "Have a good day!"
+  }
+}

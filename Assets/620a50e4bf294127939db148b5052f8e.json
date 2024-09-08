@@ -1,0 +1,37 @@
+{
+  "name": "Plot",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Plot/Plot.dat",
+  "data": {
+    "GUID": "620a50e4bf294127939db148b5052f8e",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "51664",
+    "SalvageItem": "620a50e4bf294127939db148b5052f8e",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.35",
+    "Vulnerable": "",
+    "Health": "500",
+    "Range": "8",
+    "Radius": "0.15",
+    "Offset": "0.205",
+    "Explosion": "19",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "51023",
+    "Blueprint_0_Supply_0_Amount": "20",
+    "Blueprint_0_Supply_1_ID": "51939",
+    "Blueprint_0_Supply_1_Amount": "5",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "PlacementPreviewPrefab": "Items/Barricades/Plot/Placement.prefab",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Plot",
+    "Description": "Planting area perfect for growing lots of food."
+  }
+}

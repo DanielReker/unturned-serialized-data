@@ -1,0 +1,12 @@
+{
+  "name": "BrickFenceCap",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/BrickFenceCap/BrickFenceCap.dat",
+  "data": {
+    "GUID": "025edfc16184414ea3242072760979ec",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Fence Brick Cap"
+  }
+}

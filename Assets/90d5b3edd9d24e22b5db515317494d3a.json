@@ -1,0 +1,30 @@
+{
+  "name": "Metro_Berry",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Overrides/Metro_Berry/Metro_Berry.dat",
+  "data": {
+    "GUID": "90d5b3edd9d24e22b5db515317494d3a",
+    "Type": "Water",
+    "Useable": "Consumeable",
+    "ID": "57228",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.29",
+    "Energy": "50",
+    "Food": "10",
+    "Water": "10",
+    "Vision": "20",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Water/Berry_Indigo",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "57229",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Key": "Craft_Seed",
+    "ConsumeAudioClip": "Sounds/DrinkSwallow.mp3"
+  },
+  "translation": {
+    "Name": "Blue Berries",
+    "Description": "<color=#64c819>10</color> Food <color=#64c819>10</color> Water"
+  }
+}

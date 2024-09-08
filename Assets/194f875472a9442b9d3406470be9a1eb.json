@@ -1,0 +1,23 @@
+{
+  "name": "PS_Sentry_Mag",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Magazines/PS_Sentry_Mag/PS_Sentry_Mag.dat",
+  "data": {
+    "GUID": "194f875472a9442b9d3406470be9a1eb",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "ID": "59508",
+    "Size_X": "10",
+    "Size_Y": "10",
+    "Size_Z": "10",
+    "Amount": "1",
+    "Count_Min": "1",
+    "Count_Max": "1",
+    "Calibers": "1",
+    "Caliber_0": "59507",
+    "Tracer": "59002"
+  },
+  "translation": {
+    "Name": "Sentry Mag",
+    "Description": "Unobtainable."
+  }
+}

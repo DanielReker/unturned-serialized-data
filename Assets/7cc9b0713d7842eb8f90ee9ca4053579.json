@@ -1,0 +1,13 @@
+{
+  "name": "Rio_AC_8",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Rio_AC_8/Rio_AC_8.dat",
+  "data": {
+    "GUID": "7cc9b0713d7842eb8f90ee9ca4053579",
+    "Type": "Medium",
+    "ID": "7105",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio AC #8"
+  }
+}

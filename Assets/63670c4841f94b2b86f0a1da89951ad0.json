@@ -1,0 +1,13 @@
+{
+  "name": "Brazil_UltraGaz",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Brazil_UltraGaz/Brazil_UltraGaz.dat",
+  "data": {
+    "GUID": "63670c4841f94b2b86f0a1da89951ad0",
+    "Type": "Spawn",
+    "ID": "5539",
+    "Tables": "1",
+    "Table_0_Asset_ID": "4422  ",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

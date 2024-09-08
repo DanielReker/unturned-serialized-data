@@ -1,0 +1,14 @@
+{
+  "name": "Felix_Operation_Flight_Control_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military Soldier Felix/Felix_Operation_Flight_Control_Accepted/Asset.dat",
+  "data": {
+    "GUID": "cfe2e75d330446da9801ddc2b664e7ac",
+    "Type": "Dialogue",
+    "ID": "9099",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you and be careful."
+  }
+}

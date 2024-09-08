@@ -1,0 +1,14 @@
+{
+  "name": "PS_Plywood_Debris_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Plywood_Debris_0/PS_Plywood_Debris_0.dat",
+  "data": {
+    "GUID": "8bba064a53ee4602ba9f3f1f234d9271",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "60032",
+    "Material_Palette": "0d38dbae770c43d2952bdfefa446a85a"
+  },
+  "translation": {
+    "Name": "PS Plywood Debris #1"
+  }
+}

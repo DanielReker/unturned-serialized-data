@@ -1,0 +1,17 @@
+{
+  "name": "Rio_Billboard_12",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Billboard_12/Rio_Billboard_12.dat",
+  "data": {
+    "GUID": "dc3ebbfce8c04f73ab77c79a5efd4d17",
+    "Type": "Large",
+    "ID": "7155",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "275",
+    "Rubble_Effect": "72",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Billboard #13"
+  }
+}

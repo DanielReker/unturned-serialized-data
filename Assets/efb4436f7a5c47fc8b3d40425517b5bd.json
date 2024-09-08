@@ -1,0 +1,13 @@
+{
+  "name": "PS_Floodlight_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Floodlight_2/PS_Floodlight_2.dat",
+  "data": {
+    "GUID": "efb4436f7a5c47fc8b3d40425517b5bd",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59646"
+  },
+  "translation": {
+    "Name": "PS Floodlight #3"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Metro_Present_White",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_Present_White/Metro_Present_White.dat",
+  "data": {
+    "GUID": "5972b5ab264a4feead2dfefbe8c3815e",
+    "Type": "Supply",
+    "ID": "57695",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.75"
+  },
+  "translation": {
+    "Name": "White Present",
+    "Description": "Can be unlocked or exchanged for items at the <color=#64c819>Floating Island</color>."
+  }
+}

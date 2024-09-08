@@ -1,0 +1,16 @@
+{
+  "name": "Buak_Gfti_Guide_06",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Decals/Buak_Gfti_Guide_06/Buak_Gfti_Guide_06.dat",
+  "data": {
+    "GUID": "a5f248572b1c49d9b8f62d43a3c86fb1",
+    "Type": "Decal",
+    "ID": "25300",
+    "Decal_X": "6",
+    "Decal_Y": "6",
+    "Decal_LOD_Bias": "1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Gfti_Guide_06"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Crate_10",
+  "path": "Bundles/Objects/Medium/Military/Crate_10/Crate_10.dat",
+  "data": {
+    "GUID": "8e7f6990753e4501b5c5f1ecc7c2c547",
+    "Type": "Medium",
+    "ID": "956",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Coalition Crate #1"
+  }
+}

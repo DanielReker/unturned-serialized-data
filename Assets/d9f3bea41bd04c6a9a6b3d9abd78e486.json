@@ -1,0 +1,84 @@
+{
+  "name": "WS_Guns_Low",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/WS_Guns_Low/WS_Guns_Low.dat",
+  "data": {
+    "GUID": "d9f3bea41bd04c6a9a6b3d9abd78e486",
+    "Type": "Spawn",
+    "ID": "25466",
+    "Tables": [
+      {
+        "LegacyAssetId": "25514",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25532",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25516",
+        "Weight": "150"
+      },
+      {
+        "LegacyAssetId": "25460",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25468",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25469",
+        "Weight": "60"
+      },
+      {
+        "LegacyAssetId": "25524",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25530",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25533",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25466",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25467",
+        "Weight": "50"
+      },
+      {
+        "Guid": "fa7e6e0d12c0406ea4277a331b63352d",
+        "Weight": "50"
+      },
+      {
+        "Guid": "7a670574a5f940b29287e57649d54a14",
+        "Weight": "40"
+      },
+      {
+        "LegacyAssetId": "25438",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25440",
+        "Weight": "15"
+      },
+      {
+        "LegacyAssetId": "25465",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25470",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25442",
+        "Weight": "10"
+      }
+    ]
+  },
+  "translation": null
+}

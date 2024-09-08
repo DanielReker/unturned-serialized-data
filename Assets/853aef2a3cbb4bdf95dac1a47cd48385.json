@@ -1,0 +1,12 @@
+{
+  "name": "Glorified_BWTY_PORANGE",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Vehicles/Redirectors/Glorified_BWT/Glorified_BWTY_PORANGE.asset",
+  "data": {
+    "GUID": "853aef2a3cbb4bdf95dac1a47cd48385",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "25408",
+    "TargetVehicle": "0857c9cd0ee24d7697c5793b4fa02f95",
+    "LoadPaintColor": "#B67D4A"
+  },
+  "translation": null
+}

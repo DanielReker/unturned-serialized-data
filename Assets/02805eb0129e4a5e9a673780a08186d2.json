@@ -1,0 +1,14 @@
+{
+  "name": "Doctor_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Doctor_Supplies/Doctor_Completed/Asset.dat",
+  "data": {
+    "GUID": "02805eb0129e4a5e9a673780a08186d2",
+    "Type": "Dialogue",
+    "ID": "2022",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you so much! This is really gonna help a lot!"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Alien",
+  "path": "Bundles/Assets/PhysicsMaterials/Alien.asset",
+  "data": {
+    "GUID": "3c11f57bd9cd4355a689fc4383561ae3",
+    "Type": "SDG.Unturned.PhysicsMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "UnityNames": [
+      "Alien",
+      "Alien_Dynamic"
+    ],
+    "AudioDefs": {
+      "BulletImpact": "Effects/Physics/LegacyImpact/LegacyImpact_Flesh.asset",
+      "MeleeImpact": "Effects/Physics/LegacyImpact/LegacyImpact_Flesh.asset"
+    },
+    "WipDoNotUseTemp_BulletImpactEffect": "67a4addd45174d7e9ca5c8ec24f8010f"
+  },
+  "translation": null
+}

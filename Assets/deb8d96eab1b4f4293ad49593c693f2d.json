@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Moai",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Moai/Buak_Moai.dat",
+  "data": {
+    "GUID": "deb8d96eab1b4f4293ad49593c693f2d",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Moai"
+  }
+}

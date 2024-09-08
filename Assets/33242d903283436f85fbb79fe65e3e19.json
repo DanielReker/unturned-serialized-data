@@ -1,0 +1,17 @@
+{
+  "name": "Explosive_Barrel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Explosive_Barrel/Explosive_Barrel.dat",
+  "data": {
+    "GUID": "33242d903283436f85fbb79fe65e3e19",
+    "Type": "Medium",
+    "ID": "51000",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "100",
+    "Has_Clip_Prefab": "false",
+    "Rubble_Reward_ID": "51108"
+  },
+  "translation": {
+    "Name": "PBS Explosive Barrel"
+  }
+}

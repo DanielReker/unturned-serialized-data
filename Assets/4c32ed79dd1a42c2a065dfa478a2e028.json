@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Door_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Door_3/Metro_Door_3.dat",
+  "data": {
+    "GUID": "4c32ed79dd1a42c2a065dfa478a2e028",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57135",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Door #4"
+  }
+}

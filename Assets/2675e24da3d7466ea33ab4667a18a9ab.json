@@ -1,0 +1,13 @@
+{
+  "name": "PS_Concrete_Mixer_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Concrete_Mixer_0/PS_Concrete_Mixer_0.dat",
+  "data": {
+    "GUID": "2675e24da3d7466ea33ab4667a18a9ab",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59240"
+  },
+  "translation": {
+    "Name": "PS Concrete Mixer #1"
+  }
+}

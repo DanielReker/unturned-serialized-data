@@ -1,0 +1,14 @@
+{
+  "name": "YetiOutfit",
+  "path": "Bundles/Items/Outfits/YetiOutfit.asset",
+  "data": {
+    "GUID": "36cc1764428f42eeb3e9ccd0eb855239",
+    "Type": "SDG.Unturned.OutfitAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Items": [
+      "933e031cb0294c2ea7048b0ce4fb0686",
+      "95372ee9c92145af94b20f9f18532134",
+      "70f97b4a2888425aa7ad1925311bad60"
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Eagle_Statue_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Eagle_Statue_0/PS_Eagle_Statue_0.dat",
+  "data": {
+    "GUID": "6916cbba4d6448bfa28d09b22982c6e0",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59715"
+  },
+  "translation": {
+    "Name": "PS Eagle Statue #1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Carpat_Barn_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/Objects/Large/Carpat_Barn_04/Carpat_Barn_04.dat",
+  "data": {
+    "GUID": "9bc81870781f46ffbba6c736c8d1bc48",
+    "Type": "Large",
+    "ID": "23134",
+    "LOD": "Mesh",
+    "Collision_Important": ""
+  },
+  "translation": {
+    "Name": "Carpat Barn #4"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Q_FG_Generator_Static",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_FG_Generator_Static/Buak_Q_FG_Generator_Static.dat",
+  "data": {
+    "GUID": "1002038a6440439db473b8bab23875ef",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24372",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "Buak_Q_FG_Generator_Static"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pipe_3",
+  "path": "Bundles/Objects/Medium/Business/Pipe_3/Pipe_3.dat",
+  "data": {
+    "GUID": "4ced97c6ac82467ea629f724b208eaa3",
+    "Type": "Medium",
+    "ID": "750",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Pipe #4"
+  }
+}

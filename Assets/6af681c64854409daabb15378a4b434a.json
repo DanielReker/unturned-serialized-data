@@ -1,0 +1,17 @@
+{
+  "name": "PS_Boulder_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Boulder_3/PS_Boulder_3.dat",
+  "data": {
+    "GUID": "6af681c64854409daabb15378a4b434a",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59004",
+    "Material_Palette": "12462313f3564243861a841ca2d5b56d",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground"
+  },
+  "translation": {
+    "Name": "PS Boulder #4"
+  }
+}

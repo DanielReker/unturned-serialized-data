@@ -1,0 +1,16 @@
+{
+  "name": "Bank_0",
+  "path": "Bundles/Objects/Large/Buildings/Bank_0/Bank_0.dat",
+  "data": {
+    "GUID": "a7ff18b6ce3e42008f7b6ceecbd274d6",
+    "Type": "Large",
+    "ID": "85",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Bank #1"
+  }
+}

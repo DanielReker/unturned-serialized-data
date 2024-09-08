@@ -1,0 +1,35 @@
+{
+  "name": "SandbagLine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/SandbagLine/SandbagLine.dat",
+  "data": {
+    "GUID": "602caa56034d4cc281b129f656094173",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "51635",
+    "SalvageItem": "602caa56034d4cc281b129f656094173",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.35",
+    "Health": "2000",
+    "Range": "4",
+    "Radius": "0.4",
+    "Offset": "0.5",
+    "Vulnerable": "",
+    "Explosion": "19",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supply_0_ID": "51021",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Tool": "51056",
+    "Blueprint_0_Tool_Critical": "",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Sandbag Line",
+    "Description": "A well setup line of sandbags for a defensive position."
+  }
+}

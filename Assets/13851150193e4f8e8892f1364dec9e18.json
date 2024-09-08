@@ -1,0 +1,30 @@
+{
+  "name": "29040KC1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/3/C/29040KC1/Asset.dat",
+  "data": {
+    "GUID": "13851150193e4f8e8892f1364dec9e18",
+    "Type": "NPC",
+    "ID": "29040",
+    "Shirt": "172",
+    "Pants": "226",
+    "Face": "20",
+    "Hair": "12",
+    "Color_Skin": "#94764b",
+    "Color_Hair": "#373737",
+    "Dialogue": "29041",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "27031",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitCivi1",
+    "Character": "Akil"
+  }
+}

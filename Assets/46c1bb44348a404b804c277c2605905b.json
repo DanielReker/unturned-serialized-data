@@ -1,0 +1,33 @@
+{
+  "name": "Metro_Clock",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Metro_Clock/Metro_Clock.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "46c1bb44348a404b804c277c2605905b",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Clock",
+    "ID": "57569 ",
+    "Health": "50",
+    "Range": "4",
+    "Offset": "0.05",
+    "Explosion": "60",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "67",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Supply_1_ID": "57580 ",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Supply_1_Critical": "",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Clock",
+    "Description": "<color=#64c819>50</color> Health"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Building_8",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Building_8/PS_Building_8.dat",
+  "data": {
+    "GUID": "0f37250d4c3648019edb3582b4ad63a0",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59463"
+  },
+  "translation": {
+    "Name": "PS Building #9"
+  }
+}

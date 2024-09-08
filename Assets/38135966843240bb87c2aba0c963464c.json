@@ -1,0 +1,35 @@
+{
+  "name": "CA_Empire_27",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Overrides/CA_Empire_27/CA_Empire_27.dat",
+  "data": {
+    "GUID": "38135966843240bb87c2aba0c963464c",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "ID": "42008",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.225",
+    "Amount": "27",
+    "Count_Min": "14",
+    "Count_Max": "27",
+    "Calibers": "1",
+    "Caliber_0": "41",
+    "Tracer": "48",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "44",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "42008",
+    "Blueprint_1_Build": "30",
+    "Paintable": "",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Magazines/Empire_28"
+  },
+  "translation": {
+    "Name": "Empire Magazine",
+    "Description": "Low caliber military grade <color=rare>Empire</color> magazine. Designed to fit 27 rounds."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Q_S7M3_Phone",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M3/Buak_Q_S7M3_Phone/Buak_Q_S7M3_Phone.dat",
+  "data": {
+    "GUID": "f78e57fc109947ca9f6c3503bd18b5af",
+    "Type": "Small",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24274",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M3_Phone"
+  }
+}

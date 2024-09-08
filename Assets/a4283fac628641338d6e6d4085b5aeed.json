@@ -1,0 +1,14 @@
+{
+  "name": "Buggy_Black",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Large/Vehicles/Hawaii/Buggy_Black/Buggy_Black.dat",
+  "data": {
+    "GUID": "a4283fac628641338d6e6d4085b5aeed",
+    "Type": "Large",
+    "ID": "921",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Black Buggy"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Warzone_Grass_00_Material",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/Landscapes/Materials/Warzone_Grass_00_Material.asset",
+  "data": {
+    "GUID": "41a73f73b147483f86b793071620b451",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "arid.masterbundle",
+      "Path": "assets/game/bundles/terrain/warzone/materials/grass_00.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "FOLIAGE_STATIC",
+    "Foliage": {
+      "GUID": "117f75d7676a403d886855bd0fa28b66"
+    },
+    "Halloween_Redirect": {
+      "GUID": "8d1aa1da57ba4c499a727f9955763018"
+    },
+    "Use_Auto_Slope": "false",
+    "Auto_Min_Angle_Begin": "0",
+    "Auto_Min_Angle_End": "0",
+    "Auto_Max_Angle_Begin": "0",
+    "Auto_Max_Angle_End": "0",
+    "Use_Auto_Foundation": "false",
+    "Auto_Ray_Radius": "0",
+    "Auto_Ray_Length": "0",
+    "Auto_Ray_Mask": "0"
+  },
+  "translation": null
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sailor Sandro",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Guards/Sailor Sandro/Asset.dat",
+  "data": {
+    "GUID": "2f0184f261bb4af0a3ec60465eccd510",
+    "Type": "NPC",
+    "ID": "9018",
+    "Shirt": "8036",
+    "Pants": "8033",
+    "Hat": "8044",
+    "Face": "5",
+    "Hair": "19",
+    "Color_Skin": "#af8063",
+    "Color_Hair": "#42220e",
+    "Primary": "8050",
+    "Equipped": "Primary",
+    "Pose": "Stand",
+    "Dialogue": "9202"
+  },
+  "translation": {
+    "Name": "NAM Sailor Sandro",
+    "Character": "<color=uncommon>Sailor Sandro</color>"
+  }
+}

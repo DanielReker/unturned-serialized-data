@@ -1,0 +1,34 @@
+{
+  "name": "Seed_Wheat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Barricades/Seed_Wheat/Seed_Wheat.dat",
+  "data": {
+    "GUID": "08cb54e072ce4deaa4489b464b583d3c",
+    "Type": "Farm",
+    "Useable": "Barricade",
+    "Build": "Farm",
+    "ID": "5267",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Health": "1",
+    "Range": "4",
+    "Radius": "0.33",
+    "Offset": "0.75",
+    "Growth": "12000",
+    "Grow": "5215",
+    "Explosion": "43",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "5215",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Kuwait",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/Seed_Wheat",
+    "PlacementAudioClip": "Sounds/FoliagePlacement.mp3"
+  },
+  "translation": {
+    "Name": "Wheat Seed",
+    "Description": "Ready for planting and eating.<br><color=#B8B188>3 Hour 20 Minute Growth Time</color>"
+  }
+}

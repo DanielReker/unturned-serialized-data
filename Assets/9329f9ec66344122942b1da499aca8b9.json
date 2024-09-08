@@ -1,0 +1,28 @@
+{
+  "name": "NerdCommon",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Nerd/NerdCommon/NerdCommon.dat",
+  "data": {
+    "GUID": "9329f9ec66344122942b1da499aca8b9",
+    "Type": "Spawn",
+    "ID": "51111",
+    "Tables": [
+      {
+        "Guid": "866c8b1fb646475aa635490312e3b89f",
+        "Weight": "6"
+      },
+      {
+        "Guid": "cbbebe5a009341bbb3c54d176ed41038",
+        "Weight": "2"
+      },
+      {
+        "Guid": "aa318a1a467144eea3c2482c1bec2dca",
+        "Weight": "1"
+      },
+      {
+        "Guid": "3e7e34e3ec534072b865ee0015c4eada",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

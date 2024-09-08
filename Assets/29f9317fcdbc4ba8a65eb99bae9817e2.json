@@ -1,0 +1,33 @@
+{
+  "name": "Metro_Guns_Low",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Guns_Low/Metro_Guns_Low.dat",
+  "data": {
+    "GUID": "29f9317fcdbc4ba8a65eb99bae9817e2",
+    "Type": "Spawn",
+    "ID": "57053",
+    "Tables": "11",
+    "Table_0_Asset_ID": "57205",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "57138",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "57128",
+    "Table_2_Weight": "10",
+    "Table_3_Asset_ID": "57028",
+    "Table_3_Weight": "10",
+    "Table_4_Asset_ID": "57053",
+    "Table_4_Weight": "10",
+    "Table_5_Asset_ID": "57103",
+    "Table_5_Weight": "10",
+    "Table_6_Asset_ID": "57133",
+    "Table_6_Weight": "10",
+    "Table_7_Asset_ID": "57164",
+    "Table_7_Weight": "10",
+    "Table_8_Asset_ID": "57135",
+    "Table_8_Weight": "10",
+    "Table_9_Asset_ID": "57126",
+    "Table_9_Weight": "10",
+    "Table_10_Asset_ID": "57619",
+    "Table_10_Weight": "10"
+  },
+  "translation": null
+}

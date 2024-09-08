@@ -1,0 +1,23 @@
+{
+  "name": "BP_Car_Jack",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Car_Jack/Asset.dat",
+  "data": {
+    "GUID": "bb1c86009c9746b0ab2ede8effc8453e",
+    "Type": "Quest",
+    "ID": "24957",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "d92bccfe5af84f16b7f6978c8fc8f771",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24956",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Car Jack Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Car Jack Recipe"
+  }
+}

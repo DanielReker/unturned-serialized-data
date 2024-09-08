@@ -1,0 +1,14 @@
+{
+  "name": "Tyler_Lieutenant",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Admiral_Tyler/Tyler_Lieutenant/Asset.dat",
+  "data": {
+    "GUID": "bf02b5c7f95241d7bf9d2f9738f2efae",
+    "Type": "Dialogue",
+    "ID": "2127",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm sure you won't. Here you are now officially a <color=rare>Lieutenant</color>."
+  }
+}

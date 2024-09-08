@@ -1,0 +1,13 @@
+{
+  "name": "Moon_Lander",
+  "path": "Bundles/Objects/Large/Vehicles/Moon_Lander/Moon_Lander.dat",
+  "data": {
+    "GUID": "5f8c4b8e9dbb4d7ba1afe9ad5471235e",
+    "Type": "Large",
+    "ID": "871",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Moon Lander"
+  }
+}

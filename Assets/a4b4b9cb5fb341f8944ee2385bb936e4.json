@@ -1,0 +1,12 @@
+{
+  "name": "Steampunk",
+  "path": "Bundles/Mythics/Steampunk/Steampunk.dat",
+  "data": {
+    "GUID": "a4b4b9cb5fb341f8944ee2385bb936e4",
+    "Type": "Mythic",
+    "ID": "24"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Steampunk"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "PS_RPG_Parts_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_RPG_Parts_2/PS_RPG_Parts_2.dat",
+  "data": {
+    "GUID": "1aa3838b40e54fa3ac3ef56cee76d571",
+    "Type": "Supply",
+    "Rarity": "Legendary",
+    "ID": "59387",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59387",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "59262",
+    "Blueprint_0_Output_0_Amount": "2",
+    "Blueprint_0_Output_1_ID": "59202",
+    "Blueprint_0_Output_1_Amount": "1",
+    "Blueprint_0_Tool": "59004",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Blueprint_0_Link": "",
+    "Action_0_Text": "Scrap",
+    "Action_0_Tooltip": "Turn into components."
+  },
+  "translation": {
+    "Name": "RPG Trigger Assembly",
+    "Description": "Grips and hammer parts of the RPG launcher.<br><br><color=#EA3379>Nomad's Exchange Item</color>"
+  }
+}

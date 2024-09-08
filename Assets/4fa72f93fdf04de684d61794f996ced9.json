@@ -1,0 +1,13 @@
+{
+  "name": "Renault_Green",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Vehicles/Renault_Green/Renault_Green.dat",
+  "data": {
+    "GUID": "4fa72f93fdf04de684d61794f996ced9",
+    "Type": "Large",
+    "ID": "35070",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Green Cargo Truck"
+  }
+}

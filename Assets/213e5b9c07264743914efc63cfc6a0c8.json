@@ -1,0 +1,24 @@
+{
+  "name": "Radio_07",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Quests/Side/Radio/Radio_07/Asset.dat",
+  "data": {
+    "GUID": "213e5b9c07264743914efc63cfc6a0c8",
+    "Type": "Quest",
+    "ID": "24153",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "525039c672de4b72b6fdbd540f3188af",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "50"
+  },
+  "translation": {
+    "Name": "Radio Quest #8 (Optional Quest)",
+    "Description": "Help a survivor at the blue house beside the Tri Town sign.",
+    "Condition_0": "Help A Fellow Survivor"
+  }
+}

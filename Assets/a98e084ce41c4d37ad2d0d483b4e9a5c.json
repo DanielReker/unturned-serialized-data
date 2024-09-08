@@ -1,0 +1,17 @@
+{
+  "name": "Buak_Bush_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Resources/Buak_Bush_00/Buak_Bush_00.dat",
+  "data": {
+    "GUID": "a98e084ce41c4d37ad2d0d483b4e9a5c",
+    "Type": "Resource",
+    "ID": "25326",
+    "Health": "1000",
+    "Radius": "3",
+    "Scale": "0.5",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Bush_00"
+  }
+}

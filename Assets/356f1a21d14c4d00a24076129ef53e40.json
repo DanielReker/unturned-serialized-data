@@ -1,0 +1,15 @@
+{
+  "name": "PS_Vehicles_Planes",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/VEHICCLES/PS_Vehicles_Planes/PS_Vehicles_Planes.dat",
+  "data": {
+    "GUID": "356f1a21d14c4d00a24076129ef53e40",
+    "Type": "Spawn",
+    "ID": "59479",
+    "Tables": "2",
+    "Table_0_Asset_ID": "59043",
+    "Table_0_Weight": "5",
+    "Table_1_Asset_ID": "59044",
+    "Table_1_Weight": "5"
+  },
+  "translation": null
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Guard_Omega_Passage_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Guards/Guard_Omega_Passage_Completed/Asset.dat",
+  "data": {
+    "GUID": "c567697d0e3d47dcbb1f7c105506f4e9",
+    "Type": "Dialogue",
+    "ID": "3016",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You make good time, here, put these on and go see <color=legendary>Brigadier Owen</color> for your official role assignment.",
+    "Response_0": "Understood!"
+  }
+}

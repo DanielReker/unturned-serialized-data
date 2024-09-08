@@ -1,0 +1,35 @@
+{
+  "name": "FishingCrateMilitary",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Tools/FishingCrateMilitary/FishingCrateMilitary.dat",
+  "data": {
+    "GUID": "6d01258e884940d7937eaf96b17a9f35",
+    "Type": "Medical",
+    "Rarity": "Legendary",
+    "Useable": "Consumeable",
+    "ID": "51925",
+    "Size_X": "5",
+    "Size_Y": "3",
+    "Size_Z": ".3",
+    "Aid": "",
+    "Quest_Rewards": "5",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "51924",
+    "Quest_Reward_0_Amount": "2",
+    "Quest_Reward_1_Type": "Item",
+    "Quest_Reward_1_ID": "51923",
+    "Quest_Reward_1_Amount": "1",
+    "Quest_Reward_2_Type": "Item_Random",
+    "Quest_Reward_2_ID": "51019",
+    "Quest_Reward_2_Amount": "2",
+    "Quest_Reward_3_Type": "Item_Random",
+    "Quest_Reward_3_ID": "51006",
+    "Quest_Reward_3_Amount": "4",
+    "Quest_Reward_4_Type": "Item",
+    "Quest_Reward_4_ID": "51934",
+    "Quest_Reward_4_Amount": "1"
+  },
+  "translation": {
+    "Name": "Armory Crate",
+    "Description": "Contains an assortment of weapons and equipment."
+  }
+}

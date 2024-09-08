@@ -1,0 +1,20 @@
+{
+  "name": "Greece_6_Dead_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Terrain/Materials/Greece_6_Dead_2.asset",
+  "data": {
+    "GUID": "30fe7a6c14ee4064865054b82cd71d13",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "greece.masterbundle",
+      "Path": "Terrain/Materials/6 Dead 2.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "FOLIAGE_STATIC",
+    "Foliage": "f2f65676444f4123b13f553fbf0e68ca"
+  },
+  "translation": null
+}

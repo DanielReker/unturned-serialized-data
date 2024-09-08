@@ -1,0 +1,29 @@
+{
+  "name": "WS_S-7_Armory",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/WS_S-7_Armory/WS_S-7_Armory.dat",
+  "data": {
+    "GUID": "72d5f33b7111443abc1dace1b66acfa8",
+    "Type": "Spawn",
+    "ID": "25437",
+    "Tables": "9",
+    "Table_0_Spawn_ID": "25402",
+    "Table_0_Weight": "500",
+    "Table_1_Asset_ID": "25438",
+    "Table_1_Weight": "50",
+    "Table_2_Asset_ID": "25440",
+    "Table_2_Weight": "50",
+    "Table_3_Asset_ID": "25444",
+    "Table_3_Weight": "50",
+    "Table_4_Asset_ID": "25442",
+    "Table_4_Weight": "35",
+    "Table_5_Asset_ID": "25445",
+    "Table_5_Weight": "15",
+    "Table_6_Asset_ID": "25439",
+    "Table_6_Weight": "5",
+    "Table_7_Asset_ID": "25441",
+    "Table_7_Weight": "5",
+    "Table_8_Asset_ID": "25443",
+    "Table_8_Weight": "2"
+  },
+  "translation": null
+}

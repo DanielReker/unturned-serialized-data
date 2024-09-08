@@ -1,0 +1,14 @@
+{
+  "name": "Radio_08_Accept",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Other/Radio/Radio_08_Accept/Asset.dat",
+  "data": {
+    "GUID": "a4c7d8e7ed294b20ac50093eb87043c8",
+    "Type": "Dialogue",
+    "ID": "24151",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Transmission Recieved"
+  }
+}

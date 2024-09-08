@@ -1,0 +1,15 @@
+{
+  "name": "House_11",
+  "path": "Bundles/Objects/Mooki/House_11/House_11.dat",
+  "data": {
+    "GUID": "4df6614b28104264b3066c61c6f8b38e",
+    "Type": "Large",
+    "ID": "585",
+    "Asset_Origin_Override": "Curated",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "House #12"
+  }
+}

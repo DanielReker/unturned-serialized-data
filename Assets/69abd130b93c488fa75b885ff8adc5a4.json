@@ -1,0 +1,16 @@
+{
+  "name": "PaintingApple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingApple/PaintingApple.dat",
+  "data": {
+    "GUID": "69abd130b93c488fa75b885ff8adc5a4",
+    "Type": "Spawn",
+    "ID": "51288",
+    "Tables": [
+      {
+        "Guid": "fdcb0eaf00a647e68a3db3e536c80912",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "France_Cheese_Factory",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/France_Cheese_Factory/France_Cheese_Factory.dat",
+  "data": {
+    "GUID": "4f06ca73d33742a187720d53d8deb3f1",
+    "Type": "Spawn",
+    "ID": "2057",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "2056",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

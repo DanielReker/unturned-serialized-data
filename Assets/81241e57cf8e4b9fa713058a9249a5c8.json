@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drinks_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Drinks_0/PS_Drinks_0.dat",
+  "data": {
+    "GUID": "81241e57cf8e4b9fa713058a9249a5c8",
+    "Type": "Spawn",
+    "ID": "59045",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59056",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

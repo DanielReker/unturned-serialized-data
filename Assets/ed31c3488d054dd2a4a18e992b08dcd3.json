@@ -1,0 +1,28 @@
+{
+  "name": "Stash_Farsala_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Stash_Farsala_2/Stash_Farsala_2.dat",
+  "data": {
+    "GUID": "ed31c3488d054dd2a4a18e992b08dcd3",
+    "Type": "Small",
+    "ID": "3843",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3378",
+    "Condition_0_Value": "3",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "3379",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "3379",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Stash Farsala #3",
+    "Interact": "Take Stash[{0}]"
+  }
+}

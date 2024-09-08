@@ -1,0 +1,17 @@
+{
+  "name": "Kuwait_Money_20_Bundle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Supplies/Kuwait_Money_20_Bundle/Kuwait_Money_20_Bundle.dat",
+  "data": {
+    "GUID": "c9b55f96885c4b36a022070421ffde43",
+    "Type": "Supply",
+    "Rarity": "Legendary",
+    "ID": "5514",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.375"
+  },
+  "translation": {
+    "Name": "Stack of Twenties",
+    "Description": "Valuable currency used for trading.<br><color=#FF69B4>Worth 200 KWD</color><br>"
+  }
+}

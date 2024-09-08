@@ -1,0 +1,29 @@
+{
+  "name": "AM",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/AM/AM.dat",
+  "data": {
+    "GUID": "4ed0ec85a53e4fadaf1a49189fa24dc1",
+    "Type": "Magazine",
+    "Rarity": "Mythical",
+    "ID": "52057",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.1",
+    "Amount": "4",
+    "Count_Min": "3",
+    "Count_Max": "4",
+    "Calibers": "1",
+    "Caliber_0": "51020",
+    "Tracer": "51000",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "52057",
+    "Blueprint_0_Build": "30",
+    "Delete_Empty": ""
+  },
+  "translation": {
+    "Name": "Anti-Material Magazine",
+    "Description": "Holds 4 rounds of proprietary anti-material ammo. Compatible with <color=mythical>Hemel 20MM</color>."
+  }
+}

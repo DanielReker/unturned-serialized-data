@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Tank_Shell",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Tank_Shell/PS_Drops_Tank_Shell.dat",
+  "data": {
+    "GUID": "8034b80de0144a9d8c10c3eceb19b9a2",
+    "Type": "Spawn",
+    "ID": "59424",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59379",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

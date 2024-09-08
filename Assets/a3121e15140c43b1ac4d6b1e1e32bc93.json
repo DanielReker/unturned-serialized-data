@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Water_Barrel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Water_Barrel/Bar_Water_Barrel.dat",
+  "data": {
+    "GUID": "a3121e15140c43b1ac4d6b1e1e32bc93",
+    "Type": "Effect",
+    "ID": "25418"
+  },
+  "translation": null
+}

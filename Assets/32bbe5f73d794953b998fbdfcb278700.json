@@ -1,0 +1,17 @@
+{
+  "name": "Turn_The_Last_Page",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Songs/Turn_The_Last_Page/Turn_The_Last_Page.asset",
+  "data": {
+    "GUID": "32bbe5f73d794953b998fbdfcb278700",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Song": {
+      "MasterBundle": "buak.masterbundle",
+      "AssetPath": "Music/Turn_the_Last_Page.ogg"
+    },
+    "Link_URL": "https://www.youtube.com/watch?v=i3klcXBXPxw",
+    "Is_Loop": "true"
+  },
+  "translation": {
+    "Name": "The Tale, Turned - staswalle"
+  }
+}

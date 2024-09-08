@@ -1,0 +1,14 @@
+{
+  "name": "Medic_Patient",
+  "path": "Bundles/NPCs/Dialogues/Medic/Medic_Patient/Asset.dat",
+  "data": {
+    "GUID": "9f2b417b9ed843edb86a97c90231c505",
+    "Type": "Dialogue",
+    "ID": "75",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "He had a bit of a tumble off one of these Russian cliffs and bonked his head, but I expect he'll make a full recovery. Been mumbling about settlements and \"minutemen\"."
+  }
+}

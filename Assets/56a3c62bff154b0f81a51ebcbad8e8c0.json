@@ -1,0 +1,76 @@
+{
+  "name": "PBS_WoodenRod",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Fishing/PBS_WoodenRod/PBS_WoodenRod.dat",
+  "data": {
+    "GUID": "56a3c62bff154b0f81a51ebcbad8e8c0",
+    "Type": "Spawn",
+    "ID": "51190",
+    "Tables": [
+      {
+        "Guid": "835a5de7933548c29e3710aee1d36278",
+        "Weight": "40"
+      },
+      {
+        "Guid": "e5e1ba68d74449248e0df38924ffdd33",
+        "Weight": "32"
+      },
+      {
+        "Guid": "5cbe1c506e1a4d2f906f80b4ba8c05e4",
+        "Weight": "24"
+      },
+      {
+        "Guid": "e2d1bca9ff7f46bcb997430a1694b6cd",
+        "Weight": "12"
+      },
+      {
+        "Guid": "c39a5496c2ee4897b03469f7a9d488f0",
+        "Weight": "6"
+      },
+      {
+        "Guid": "3d928892f4d24e0d917f97b99283aba7",
+        "Weight": "6"
+      },
+      {
+        "Guid": "1465299f973c4fe2bad926b923d07f70",
+        "Weight": "6"
+      },
+      {
+        "Guid": "3f393b35dc22447b8582e6cfa9d185cf",
+        "Weight": "6"
+      },
+      {
+        "Guid": "8165071d893a48519219fa26e9b64783",
+        "Weight": "4"
+      },
+      {
+        "Guid": "be2cfffd38f34d5db65fb080a5be794b",
+        "Weight": "4"
+      },
+      {
+        "Guid": "268f60872e94430d8c7097109e1c2837",
+        "Weight": "4"
+      },
+      {
+        "Guid": "29a959567bd0476ba9e60d17331e23b7",
+        "Weight": "3"
+      },
+      {
+        "Guid": "ab6772bda536483193356c3e0ae2cb01",
+        "Weight": "3"
+      },
+      {
+        "Guid": "223d88c12e9f4bbfa9d10d829868a21f",
+        "Weight": "3"
+      },
+      {
+        "Guid": "bc401718e3e34c348afc17775dcd0845",
+        "Weight": "2"
+      },
+      {
+        "Guid": "93f98550663b493bb6a66adaa5425b9b",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

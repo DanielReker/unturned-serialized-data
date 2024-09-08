@@ -1,0 +1,14 @@
+{
+  "name": "28553KVC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28551KRBVD/28553KVC/Asset.dat",
+  "data": {
+    "GUID": "6b3a81d798ab4831bc381f1ab9c755b3",
+    "Type": "Dialogue",
+    "ID": "28553",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Seeya soon bud."
+  }
+}

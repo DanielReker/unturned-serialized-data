@@ -1,0 +1,13 @@
+{
+  "name": "PS_Desk_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Desk_2/PS_Desk_2.dat",
+  "data": {
+    "GUID": "44c5346b8be94f84a9441b5b4d15a273",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59758"
+  },
+  "translation": {
+    "Name": "PS Offices Desk #3 [Conference]"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HawaiiDecal_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiDecal_2/HawaiiDecal_2.dat",
+  "data": {
+    "GUID": "75066fc37dc245d6b123072f5944c3d5",
+    "Type": "Large",
+    "ID": "6018",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hawaii Decal #3"
+  }
+}

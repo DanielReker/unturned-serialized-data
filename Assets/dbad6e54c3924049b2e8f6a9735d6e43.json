@@ -1,0 +1,24 @@
+{
+  "name": "Carpenter_Pete",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Carpenter_Pete/Asset.dat",
+  "data": {
+    "GUID": "dbad6e54c3924049b2e8f6a9735d6e43",
+    "Type": "NPC",
+    "ID": "2024",
+    "Shirt": "211",
+    "Pants": "2",
+    "Primary": "16",
+    "Secondary": "76",
+    "Equipped": "Secondary",
+    "Beard": "8",
+    "Face": "1",
+    "Hair": "14",
+    "Color_Skin": "#D3C2AD",
+    "Color_Hair": "#C8832A",
+    "Dialogue": "2025"
+  },
+  "translation": {
+    "Name": "Carpenter Pete",
+    "Character": "Pete"
+  }
+}

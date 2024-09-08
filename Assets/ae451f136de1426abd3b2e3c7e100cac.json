@@ -1,0 +1,22 @@
+{
+  "name": "Omega_Mechanic_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Mechanic_2/Asset.dat",
+  "data": {
+    "GUID": "ae451f136de1426abd3b2e3c7e100cac",
+    "Type": "NPC",
+    "ID": "3625",
+    "Shirt": "405",
+    "Pants": "406",
+    "Face": "5",
+    "Hair": "12",
+    "Beard": "11",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#B8AB8F",
+    "Secondary": "76",
+    "Dialogue": "3603"
+  },
+  "translation": {
+    "Name": "Greek Omega Mechanic Galen",
+    "Character": "<color=rare>Mechanic Galen</color>"
+  }
+}

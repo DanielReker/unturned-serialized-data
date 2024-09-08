@@ -1,0 +1,27 @@
+{
+  "name": "Nelson_1_Punisher_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Nelson_1/Nelson_1_Punisher_0/Asset.dat",
+  "data": {
+    "GUID": "fa2a88d4aac84af9b15c4d92297ea254",
+    "Type": "Quest",
+    "ID": "57968",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57365",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "57718",
+    "Condition_1_Amount": "1",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "57469  ",
+    "Reward_0_Amount": "2"
+  },
+  "translation": {
+    "Name": "<color=#B522B7>Punisher 1</color>",
+    "Description": "Authorize yourself on the biometric scanner in the deadzone and study the blueprint inside the secured room. Use the appropriate materials to then craft a <color=#c832fa>Sword of Light</color>.",
+    "Condition_0": "Study Blueprint",
+    "Condition_1": "Craft the <color=#c832fa>Sword of Light</color>"
+  }
+}

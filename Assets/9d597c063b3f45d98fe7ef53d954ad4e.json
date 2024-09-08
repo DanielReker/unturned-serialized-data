@@ -1,0 +1,22 @@
+{
+  "name": "Metro_Laptop_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_Laptop_1/Metro_Laptop_1.dat",
+  "data": {
+    "GUID": "9d597c063b3f45d98fe7ef53d954ad4e",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57749",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "58010",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Short",
+    "Condition_1_ID": "57177",
+    "Condition_1_Value": "3",
+    "Condition_1_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Metro Bossfight [Laptop]"
+  }
+}

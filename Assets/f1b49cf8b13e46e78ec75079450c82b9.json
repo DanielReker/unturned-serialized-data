@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Lantern_0_Active",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Small/Rio_Lantern_0_Active/Rio_Lantern_0_Active.dat",
+  "data": {
+    "GUID": "f1b49cf8b13e46e78ec75079450c82b9",
+    "Type": "Medium",
+    "ID": "7214",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Lantern #1 Active"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Frame_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Frame_0/Metro_Frame_0.dat",
+  "data": {
+    "GUID": "ca8318f5b4094db583870c8904ce83e7",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57367",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Frame #1"
+  }
+}

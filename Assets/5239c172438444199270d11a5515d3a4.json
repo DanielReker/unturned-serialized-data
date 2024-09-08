@@ -1,0 +1,17 @@
+{
+  "name": "Sweaty_Dreams",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Songs/Sweaty_Dreams/Sweaty_Dreams.asset",
+  "data": {
+    "GUID": "5239c172438444199270d11a5515d3a4",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Song": {
+      "MasterBundle": "buak.masterbundle",
+      "AssetPath": "Music/Sweaty_Dreams_by_Paulfest.ogg"
+    },
+    "Link_URL": "https://www.youtube.com/watch?v=pzWCqBY2qLE",
+    "Is_Loop": "true"
+  },
+  "translation": {
+    "Name": "Sweaty Dreams - Paulfest"
+  }
+}

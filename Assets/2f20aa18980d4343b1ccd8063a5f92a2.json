@@ -1,0 +1,12 @@
+{
+  "name": "Screen_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Screen_1/Screen_1.dat",
+  "data": {
+    "GUID": "2f20aa18980d4343b1ccd8063a5f92a2",
+    "Type": "Small",
+    "ID": "3825"
+  },
+  "translation": {
+    "Name": "Greece Screen #2"
+  }
+}

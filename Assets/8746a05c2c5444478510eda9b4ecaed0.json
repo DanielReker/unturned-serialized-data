@@ -1,0 +1,14 @@
+{
+  "name": "HawaiiMetalBeamCap",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiMetalBeamCap/HawaiiMetalBeamCap.dat",
+  "data": {
+    "GUID": "8746a05c2c5444478510eda9b4ecaed0",
+    "Type": "Large",
+    "ID": "835",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hawaii Metal Beam Cap"
+  }
+}

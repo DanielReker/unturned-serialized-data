@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Mailbox",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Mailbox/Buak_Mailbox.dat",
+  "data": {
+    "GUID": "68d490816b224c70906eacb4a2eab0a0",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "500",
+    "Rubble_Health": "4",
+    "Rubble_Effect": "25496",
+    "Rubble_Reward_ID": "25362",
+    "Rubble_Reward_Probability": "0.5"
+  },
+  "translation": {
+    "Name": "Buak_Mailbox"
+  }
+}

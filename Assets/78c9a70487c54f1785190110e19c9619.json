@@ -1,0 +1,24 @@
+{
+  "name": "Greece_Note_Military_9",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Greece_Note_Military_9/Greece_Note_Military_9.dat",
+  "data": {
+    "GUID": "78c9a70487c54f1785190110e19c9619",
+    "Type": "Medium",
+    "ID": "3987",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "5",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Greece Note Stationed",
+    "Interactability_Text_Line_0": "From: Krystof Galanos",
+    "Interactability_Text_Line_1": "To: Despina Floros",
+    "Interactability_Text_Line_2": "~~~~~~",
+    "Interactability_Text_Line_3": "Hey babe, I just thought I'd write you to tell you how much I miss you and wish we could be together. It's been a really long five months stationed here and I can't wait to come home! Tell Ruppers I said \"Hi\", I miss the lil' twerp too. Tomorrow I'm heading back out to the Keres Zone, but don't worry, I've got my boys here to help me incase I get in a pinch. I'll be safe and home to hold you tight in no time!",
+    "Interactability_Text_Line_4": "I love you baby, Krystof."
+  }
+}

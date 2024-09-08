@@ -1,0 +1,14 @@
+{
+  "name": "PS_Market_Stand_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Market_Stand_1/PS_Market_Stand_1.dat",
+  "data": {
+    "GUID": "a904907db4ac476d92b6230d1c89b079",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59118",
+    "Material_Palette": "b2e8dece1ce94c4f871cef121cfdb3a7"
+  },
+  "translation": {
+    "Name": "PS Market Stand #2"
+  }
+}

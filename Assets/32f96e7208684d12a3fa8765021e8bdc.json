@@ -1,0 +1,31 @@
+{
+  "name": "DeadzoneDangers_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Terrya/Terrya_02/DeadzoneDangers_Welcome/Asset.dat",
+  "data": {
+    "GUID": "32f96e7208684d12a3fa8765021e8bdc",
+    "Type": "Dialogue",
+    "ID": "24462",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "eb555a2e0857477e95c3723a4fcbb9fa",
+    "Response_0_Quest": "4c3d44b2d35c46a18a90944545cc03bc",
+    "Response_0_Conditions": "2",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "8254345ba4654a8e878a412ffccc663c",
+    "Response_0_Condition_0_Status": "Completed",
+    "Response_0_Condition_1_Type": "Quest",
+    "Response_0_Condition_1_Logic": "Equal",
+    "Response_0_Condition_1_ID": "4c3d44b2d35c46a18a90944545cc03bc",
+    "Response_0_Condition_1_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "4c3d44b2d35c46a18a90944545cc03bc"
+  },
+  "translation": {
+    "Message_0_Page_0": "...Could you go to the Scorpion-7 deadzone and grab me a few things? On the first floor in the offices there should be three... chemicals in round bottom flasks labeled X, Y, and Z.",
+    "Response_0": "Sure thing!",
+    "Response_1": "Not now."
+  }
+}

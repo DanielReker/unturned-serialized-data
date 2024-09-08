@@ -1,0 +1,12 @@
+{
+  "name": "IR_AirPort_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_AirPort_1/IR_AirPort_1.dat",
+  "data": {
+    "GUID": "18da54494b5f40848769211ee6aad8c2",
+    "Type": "Large",
+    "ID": "17015"
+  },
+  "translation": {
+    "Name": "Irish AirPort#1"
+  }
+}

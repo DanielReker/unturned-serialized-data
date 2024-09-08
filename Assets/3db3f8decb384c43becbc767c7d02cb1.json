@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Boat_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Boat_00/Buak_Boat_00.dat",
+  "data": {
+    "GUID": "3db3f8decb384c43becbc767c7d02cb1",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Boat_00"
+  }
+}

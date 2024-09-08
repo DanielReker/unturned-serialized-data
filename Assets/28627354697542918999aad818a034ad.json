@@ -1,0 +1,34 @@
+{
+  "name": "Metro_Fortification_Pine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Overrides_Barricades_Pine/Metro_Fortification_Pine/Metro_Fortification_Pine.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "28627354697542918999aad818a034ad",
+    "Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Fortification",
+    "ID": "57350",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Health": "350",
+    "Range": "4",
+    "Radius": "0.5",
+    "Offset": "0.4",
+    "Explosion": "29",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "63",
+    "Blueprint_0_Supply_0_Amount": "7",
+    "Blueprint_0_Build": "27",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/Fortification_Pine",
+    "PlacementAudioClip": "Sounds/WoodenPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Pine Fortification",
+    "Description": "<color=#64c819>350</color> Health"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bush_Teal",
+  "path": "Bundles/Spawns/Items/Bush_Teal/Bush_Teal.dat",
+  "data": {
+    "GUID": "b0427088849b4033b623635dbc6af2bb",
+    "Type": "Spawn",
+    "ID": "968",
+    "Tables": "1",
+    "Table_0_Asset_ID": "274",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

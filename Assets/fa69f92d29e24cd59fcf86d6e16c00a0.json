@@ -1,0 +1,13 @@
+{
+  "name": "Cliffs_School",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Spawns/Items/Cliffs_School/Cliffs_School.dat",
+  "data": {
+    "GUID": "fa69f92d29e24cd59fcf86d6e16c00a0",
+    "Type": "Spawn",
+    "ID": "10041",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "150",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,23 @@
+{
+  "name": "BP_Camp_Hatchet",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Camp_Hatchet/Asset.dat",
+  "data": {
+    "GUID": "eefe417e43df48c2a054fe4076a85990",
+    "Type": "Quest",
+    "ID": "24983",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "c79a3894059c45a7a3e9b242b40670b2",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24982",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Camp Hatchet Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Camp Hatchet Recipe"
+  }
+}

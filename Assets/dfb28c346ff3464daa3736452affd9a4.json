@@ -1,0 +1,17 @@
+{
+  "name": "May_Question_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Others/May/May_Question_00/Asset.dat",
+  "data": {
+    "GUID": "dfb28c346ff3464daa3736452affd9a4",
+    "Type": "Dialogue",
+    "ID": "24042",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "11",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "O-oh! That is actually quite simple. Snow and I were tasked with scouting and marking areas full of materials and the group came up to us. They weren’t doing too good when it came to food so we helped them out! and I can’t resist a good wedding. makes me kinda hopeful for the future! ...I swear there were more members though...",
+    "Response_0": "Good to know!"
+  }
+}

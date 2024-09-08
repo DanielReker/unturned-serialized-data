@@ -1,0 +1,30 @@
+{
+  "name": "Brussel Sprout Seed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Items/Seed/Brussel Sprout Seed/Brussel Sprout Seed.dat",
+  "data": {
+    "GUID": "b9081c1547c84f6f9356d3d5090c7143",
+    "Type": "Farm",
+    "Useable": "Barricade",
+    "Build": "Farm",
+    "ID": "9055",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Health": "1",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "0.375",
+    "Growth": "10800",
+    "Grow": "9054",
+    "Explosion": "43",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "9054",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Brussel Sprout Seed",
+    "Description": "Ready for planting and eating."
+  }
+}

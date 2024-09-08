@@ -1,0 +1,23 @@
+{
+  "name": "BP_Mask_Oxygen",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Mask_Oxygen/Asset.dat",
+  "data": {
+    "GUID": "babf625a70dc4a8ba505d7319d2fd190",
+    "Type": "Quest",
+    "ID": "24855",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "91c0c52483124e2c8a0c28ebbac384d1",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24854",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Oxygen Mask Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Oxygen Mask Recipe"
+  }
+}

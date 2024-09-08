@@ -1,0 +1,43 @@
+{
+  "name": "Railing_Half_Birch",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Structures/Railings_Half/Railing_Half_Birch/Railing_Half_Birch.dat",
+  "data": {
+    "GUID": "796843015c444e61a6ecb9322caa7a58",
+    "Type": "Structure",
+    "Rarity": "Common",
+    "Useable": "Structure",
+    "Construct": "Rampart",
+    "ID": "27724",
+    "Requires_Pillars": "False",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.24",
+    "Use_Auto_Icon_Measurements": "False",
+    "Salvage_Duration_Multiplier": ".1",
+    "Has_Clip_Prefab": "false",
+    "Health": "3000",
+    "Range": "8",
+    "Explosion": "25399",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25302",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Tool": "25375",
+    "Blueprint_0_Build": "25526",
+    "Blueprint_1_Type": "Gear",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "27724",
+    "Blueprint_1_Tool": "25393",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "25302",
+    "Blueprint_1_Output_0_Amount": "1",
+    "Blueprint_1_Build": "25521",
+    "PlacementAudioClip": "Sounds/Placement/WoodenPlacement.mp3",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Birch Half Railing",
+    "Description": "A railing to help prevent you from a fall."
+  }
+}

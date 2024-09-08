@@ -1,0 +1,16 @@
+{
+  "name": "Janitor_Chemicals_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Janitor/Janitor_Chemicals_Accepted/Asset.dat",
+  "data": {
+    "GUID": "2aaf080928af413a8de9941c708cc0b1",
+    "Type": "Dialogue",
+    "ID": "3201",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Chemicals can be pretty much found anywhere, best of luck!",
+    "Response_0": "I'll be back soon..."
+  }
+}

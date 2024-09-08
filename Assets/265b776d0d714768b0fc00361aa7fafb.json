@@ -1,0 +1,13 @@
+{
+  "name": "PS_Steering_Wheel_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Steering_Wheel_0/PS_Steering_Wheel_0.dat",
+  "data": {
+    "GUID": "265b776d0d714768b0fc00361aa7fafb",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59085"
+  },
+  "translation": {
+    "Name": "PS Steering Wheel #1"
+  }
+}

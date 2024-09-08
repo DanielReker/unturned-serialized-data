@@ -1,0 +1,28 @@
+{
+  "name": "Frost_Fish_Highland",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Edible/Frost_Fish_Highland/Frost_Fish_Highland.dat",
+  "data": {
+    "GUID": "32bdaf0ed86e455bb4d1b4eacecd2b8a",
+    "Type": "Food",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "36069",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Food": "5",
+    "Water": "5",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supply_0_ID": "36069",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "36066",
+    "Blueprint_0_Output_0_Amount": "6",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Highland Fish",
+    "Description": "<color=#64c819>5</color> Food <color=#64c819>5</color> Water<br>Can be turned into <color=#ffffff>Raw Fish Meat</color> and then <color=#64c819>Cooked</color>"
+  }
+}

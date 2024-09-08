@@ -1,0 +1,13 @@
+{
+  "name": "Military_Canada_Vests",
+  "path": "Bundles/Spawns/Items/Military_Canada_Vests/Military_Canada_Vests.dat",
+  "data": {
+    "GUID": "a54e6de0306d47ccad070810248f122e",
+    "Type": "Spawn",
+    "ID": "122",
+    "Tables": "1",
+    "Table_0_Asset_ID": "310",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

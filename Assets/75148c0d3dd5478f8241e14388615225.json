@@ -1,0 +1,30 @@
+{
+  "name": "Kuwait_Pebble_Collection_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Assets/Landscapes/Grass/Kuwait_Pebble_Collection_0.asset",
+  "data": {
+    "GUID": "75148c0d3dd5478f8241e14388615225",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "4ae75bd2180b4516a01065f52d1dcbd6"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "80f2a4052fe6426784f0ba6aab77d36d"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "b69e2bf534ce4131bd2babd34e9bb0ac"
+        },
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

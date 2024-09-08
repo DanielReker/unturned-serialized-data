@@ -1,0 +1,15 @@
+{
+  "name": "HawaiiLine_Cap",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiLine_Cap/HawaiiLine_Cap.dat",
+  "data": {
+    "GUID": "110756b2b69d40a7a2208e524bc62fbd",
+    "Type": "Large",
+    "ID": "701",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Hawaii Haiku Line Cap"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "High_Exterminators_High",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/High_Exterminators_High/High_Exterminators_High.dat",
+  "data": {
+    "GUID": "2ba994d50aad4bb0bc5040d90da3dd5f",
+    "Type": "Spawn",
+    "ID": "5076",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5075",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

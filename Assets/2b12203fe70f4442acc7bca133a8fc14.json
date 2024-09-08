@@ -1,0 +1,24 @@
+{
+  "name": "France_Plank",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Small/Quests/France_Plank/France_Plank.dat",
+  "data": {
+    "GUID": "2b12203fe70f4442acc7bca133a8fc14",
+    "Type": "Small",
+    "ID": "35198",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "4178",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "4178",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "France Plank",
+    "Interact": "Pickup Perfect Mahogany Plank [{0}]"
+  }
+}

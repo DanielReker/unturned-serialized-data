@@ -1,0 +1,21 @@
+{
+  "name": "Stranded_Island",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Stranded_Island/Asset.dat",
+  "data": {
+    "GUID": "57c8f6af87164ec5b18088939bf14441",
+    "Type": "NPC",
+    "ID": "2005",
+    "Vest": "1173",
+    "Pants": "1454",
+    "Face": "16",
+    "Hair": "5",
+    "Beard": "11",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#8c8c8c",
+    "Dialogue": "2006"
+  },
+  "translation": {
+    "Name": "Stranded Chuck",
+    "Character": "Chuck"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Reset_Stealth",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Ensign_Chitchat/Reset_Stealth/Asset.dat",
+  "data": {
+    "GUID": "77e1669407e7479a9e6b32f739fffc27",
+    "Type": "Dialogue",
+    "ID": "45777",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Here you go. <pause> Be more careful, we only have a narrow window here."
+  }
+}

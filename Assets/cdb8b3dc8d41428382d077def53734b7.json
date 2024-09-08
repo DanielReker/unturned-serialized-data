@@ -1,0 +1,17 @@
+{
+  "name": "Vulture_Iron_Sights",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Items/Sights/Vulture_Iron_Sights/Vulture_Iron_Sights.dat",
+  "data": {
+    "GUID": "cdb8b3dc8d41428382d077def53734b7",
+    "Type": "Sight",
+    "ID": "9004",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Vulture Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

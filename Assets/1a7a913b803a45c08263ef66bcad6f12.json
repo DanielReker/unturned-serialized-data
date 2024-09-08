@@ -1,0 +1,52 @@
+{
+  "name": "NerdRare",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Nerd/NerdRare/NerdRare.dat",
+  "data": {
+    "GUID": "1a7a913b803a45c08263ef66bcad6f12",
+    "Type": "Spawn",
+    "ID": "51112",
+    "Tables": [
+      {
+        "Guid": "cbbebe5a009341bbb3c54d176ed41038",
+        "Weight": "6"
+      },
+      {
+        "Guid": "3e7e34e3ec534072b865ee0015c4eada",
+        "Weight": "3"
+      },
+      {
+        "Guid": "aa318a1a467144eea3c2482c1bec2dca",
+        "Weight": "3"
+      },
+      {
+        "Guid": "0504e5e4989e4e50861627545f7f3582",
+        "Weight": "3"
+      },
+      {
+        "Guid": "afaec117ad13494eae586f462652df69",
+        "Weight": "3"
+      },
+      {
+        "Guid": "35ef84707fbf48499a9ccb1f8e6485ce",
+        "Weight": "3"
+      },
+      {
+        "Guid": "407c1a137eaf4af5abc09719dfba50a5",
+        "Weight": "3"
+      },
+      {
+        "Guid": "03d57cd83660479a80404c90ba65b316",
+        "Weight": "3"
+      },
+      {
+        "Guid": "0285e763ecc443169863f8874b11edc1",
+        "Weight": "3"
+      },
+      {
+        "Guid": "8a2d56bc513b4ce79700761102bf0747",
+        "Weight": "3"
+      }
+    ]
+  },
+  "translation": null
+}

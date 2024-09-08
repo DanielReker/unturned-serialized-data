@@ -1,0 +1,35 @@
+{
+  "name": "Alexander_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/00/Alexander_00/Asset.dat",
+  "data": {
+    "GUID": "51c5d03d341c4b82b9f5456f1c2f5103",
+    "Type": "NPC",
+    "ID": "25300",
+    "Shirt": "35a4b95ec551461a8942b3bf47e713fe",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "0",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#161616",
+    "Dialogue": "91205aef4a2f4a81a492869315708093",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24612",
+    "Condition_0_Value": "False",
+    "Condition_0_Allow_Unset": "",
+    "Condition_1_Type": "Quest",
+    "Condition_1_Logic": "Less_Than_Or_Equal_To",
+    "Condition_1_ID": "c778947f76e14542a2dd35a26cdfdd00",
+    "Condition_1_Status": "Active",
+    "Condition_1_Allow_Unset": "",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Alexander_00",
+    "Character": "<color=legendary>???</color>"
+  }
+}

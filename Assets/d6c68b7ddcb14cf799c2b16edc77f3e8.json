@@ -1,0 +1,17 @@
+{
+  "name": "PS_Floppy_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Floppy_3/PS_Floppy_3.dat",
+  "data": {
+    "GUID": "d6c68b7ddcb14cf799c2b16edc77f3e8",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "59405",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.25"
+  },
+  "translation": {
+    "Name": "Black Floppy",
+    "Description": "Disk storage in a thin plastic black case."
+  }
+}

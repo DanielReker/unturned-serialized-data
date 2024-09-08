@@ -1,0 +1,17 @@
+{
+  "name": "Road_Line_Cap_1",
+  "path": "Bundles/Objects/Large/Roads/Road_Line_Cap_1/Road_Line_Cap_1.dat",
+  "data": {
+    "GUID": "e188b27bc84e4e1ba6e3f5e83dcebe90",
+    "Type": "Large",
+    "ID": "3",
+    "Soft": "",
+    "Chart": "Street",
+    "Collision_Important": "",
+    "Landmark_Quality": "Ultra",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Road Line Cap #1 Europe"
+  }
+}

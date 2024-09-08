@@ -1,0 +1,21 @@
+{
+  "name": "Firefighter Timéo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Firefighter Timéo/Asset.dat",
+  "data": {
+    "GUID": "f749a9b1104447db870968e4f001d5b0",
+    "Type": "NPC",
+    "ID": "9030",
+    "Shirt": "233",
+    "Pants": "234",
+    "Hat": "241",
+    "Face": "16",
+    "Hair": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#371919",
+    "Dialogue": "9030"
+  },
+  "translation": {
+    "Name": "Firefighter Timéo",
+    "Character": "Timéo"
+  }
+}

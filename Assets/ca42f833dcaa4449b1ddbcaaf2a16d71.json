@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Lighthouse_E",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_Lighthouse_E/Buak_Lighthouse_E.dat",
+  "data": {
+    "GUID": "ca42f833dcaa4449b1ddbcaaf2a16d71",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24768",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "Buak_Lighthouse_E"
+  }
+}

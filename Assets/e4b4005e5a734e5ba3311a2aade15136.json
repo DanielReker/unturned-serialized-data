@@ -1,0 +1,21 @@
+{
+  "name": "Military_Ranger_Top",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Shirts/Military_Ranger_Top/Military_Ranger_Top.dat",
+  "data": {
+    "GUID": "e4b4005e5a734e5ba3311a2aade15136",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "51109",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "5",
+    "Height": "4",
+    "Armor": "0.95"
+  },
+  "translation": {
+    "Name": "Military Recon Top",
+    "Description": "Military top designed for stealthy reconnisance."
+  }
+}

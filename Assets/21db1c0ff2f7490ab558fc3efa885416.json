@@ -1,0 +1,12 @@
+{
+  "name": "IR_Potato_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/City/IR_Potato_1/IR_Potato_1.dat",
+  "data": {
+    "GUID": "21db1c0ff2f7490ab558fc3efa885416",
+    "Type": "Medium",
+    "ID": "17027"
+  },
+  "translation": {
+    "Name": "Irish Potato#1"
+  }
+}

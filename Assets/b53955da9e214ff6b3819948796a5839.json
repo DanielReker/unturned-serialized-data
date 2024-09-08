@@ -1,0 +1,28 @@
+{
+  "name": "27354KMPB",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27350KMPD/27354KMPB/Asset.dat",
+  "data": {
+    "GUID": "b53955da9e214ff6b3819948796a5839",
+    "Type": "Dialogue",
+    "ID": "27354",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "27355",
+    "Response_0_Quest": "27357",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "27357",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "27357",
+    "Response_1_Dialogue": "27351"
+  },
+  "translation": {
+    "Message_0_Page_0": "I need some materials to help people out.",
+    "Response_0": "Sure thing!",
+    "Response_1": "I can't, sorry."
+  }
+}

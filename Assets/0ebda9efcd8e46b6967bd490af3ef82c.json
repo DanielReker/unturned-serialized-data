@@ -1,0 +1,14 @@
+{
+  "name": "Captain_Find_FuelTank_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IDF/Captain_Adio/Captain_Find_FuelTank_Completed/Asset.dat",
+  "data": {
+    "GUID": "0ebda9efcd8e46b6967bd490af3ef82c",
+    "Type": "Dialogue",
+    "ID": "15169",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Now that I have enough fuel, I could finally get off this island. Thank you for everything!"
+  }
+}

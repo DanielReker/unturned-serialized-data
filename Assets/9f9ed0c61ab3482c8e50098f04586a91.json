@@ -1,0 +1,17 @@
+{
+  "name": "Road_Turn_1",
+  "path": "Bundles/Objects/Large/Roads/Road_Turn_1/Road_Turn_1.dat",
+  "data": {
+    "GUID": "9f9ed0c61ab3482c8e50098f04586a91",
+    "Type": "Large",
+    "ID": "6",
+    "Soft": "",
+    "Chart": "Street",
+    "Collision_Important": "",
+    "Landmark_Quality": "Ultra",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Road Turn #1 Europe"
+  }
+}

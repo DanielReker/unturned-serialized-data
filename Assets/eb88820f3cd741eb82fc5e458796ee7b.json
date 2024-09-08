@@ -1,0 +1,31 @@
+{
+  "name": "FishingPistolCrateBarricade",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/FishingPistolCrateBarricade/FishingPistolCrateBarricade.dat",
+  "data": {
+    "GUID": "eb88820f3cd741eb82fc5e458796ee7b",
+    "Type": "Storage",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Storage",
+    "ID": "51932",
+    "SalvageItem": "eb88820f3cd741eb82fc5e458796ee7b",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.5",
+    "Health": "100",
+    "Range": "4",
+    "Radius": "0.15",
+    "Offset": "0.15",
+    "Storage_X": "4",
+    "Storage_Y": "4",
+    "Explosion": "36",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false",
+    "Vulnerable": ""
+  },
+  "translation": {
+    "Name": "Short Gun Crate Storage",
+    "Description": "An opened short gun crate that can be used for storage now."
+  }
+}

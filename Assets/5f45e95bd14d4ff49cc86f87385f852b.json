@@ -1,0 +1,13 @@
+{
+  "name": "GL",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/GL/GL.dat",
+  "data": {
+    "GUID": "5f45e95bd14d4ff49cc86f87385f852b",
+    "Type": "Spawn",
+    "ID": "51001",
+    "Tables": "1",
+    "Table_0_Asset_ID": "51209",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

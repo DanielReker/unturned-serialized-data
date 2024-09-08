@@ -1,0 +1,11 @@
+{
+  "name": "PS_Horde_Beacon_W",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Explosions/PS_Horde_Beacon_W/PS_Horde_Beacon_W.dat",
+  "data": {
+    "GUID": "f9bcd60118944b868dc621b612c69f9e",
+    "Type": "Effect",
+    "ID": "59056",
+    "Relevant_Distance": "100"
+  },
+  "translation": null
+}

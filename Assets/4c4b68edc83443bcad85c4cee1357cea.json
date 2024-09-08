@@ -1,0 +1,17 @@
+{
+  "name": "Amber_Question_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_04/Amber_Question_00/Asset.dat",
+  "data": {
+    "GUID": "4c4b68edc83443bcad85c4cee1357cea",
+    "Type": "Dialogue",
+    "ID": "24073",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "2",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "When did we meet? It was April 10th, 2010. Back when we were still in high school. She gave me the hat that I'm wearing now actually, I'm surprised I never lost it haha.",
+    "Response_0": "Good to know!"
+  }
+}

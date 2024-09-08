@@ -1,0 +1,23 @@
+{
+  "name": "PBS_PvtPaatz",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_PvtPaatz/Asset.dat",
+  "data": {
+    "GUID": "46d21ed8f1a04d029f50c9cc2e2eaa4d",
+    "Type": "NPC",
+    "ID": "52240",
+    "Shirt": "51104",
+    "Pants": "51105",
+    "Vest": "51114",
+    "Face": "1",
+    "Hair": "20",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#473928",
+    "Dialogue": "52241",
+    "Primary": "51220"
+  },
+  "translation": {
+    "Name": "PBS NPC Pvt. Paatz",
+    "Character": "Pvt. Paatz"
+  }
+}

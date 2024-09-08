@@ -1,0 +1,41 @@
+{
+  "name": "Worn_Seppuku_Tee_Blue",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Tops/Seppuku_Tees/Worn/Worn_Seppuku_Tee_Blue/Worn_Seppuku_Tee_Blue.dat",
+  "data": {
+    "GUID": "4a8a1d260e3b465cab1db102d7404c4e",
+    "Rarity": "Common",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "26529",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "4",
+    "Height": "2",
+    "Armor": "1",
+    "WearAudio": "Sounds/Clothes/Clothes.asset",
+    "Actions": "2",
+    "Action_1_Type": "Blueprint",
+    "Action_1_Source": "26528",
+    "Action_1_Blueprints": "1",
+    "Action_1_Blueprint_0_Index": "2",
+    "Action_1_Text": "Stitch up ",
+    "Action_1_Tooltip": "Sew up any holes with a sewing kit.",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "26529",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Key": "Salvage",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26529",
+    "Blueprint_0_Product": "25300",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "25535",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Worn Blue Seppuku Waffles Tee",
+    "Description": "A tee that needs some stitching up, there's holes in the pockets!"
+  }
+}

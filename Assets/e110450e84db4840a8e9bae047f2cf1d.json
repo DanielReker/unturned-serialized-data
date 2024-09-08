@@ -1,0 +1,30 @@
+{
+  "name": "PS_Currency_Dogtags_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/PS_Currency_Dogtags_0.asset",
+  "data": {
+    "GUID": "e110450e84db4840a8e9bae047f2cf1d",
+    "Type": "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ValueFormat": "{0:N0} Dogtags",
+    "Entries": [
+      {
+        "Item": {
+          "GUID": "fe250490b5bc46859fe42c1f82a9fae8"
+        },
+        "Value": "1"
+      },
+      {
+        "Item": {
+          "GUID": "2e7c314297044af383d8963a6c990910"
+        },
+        "Value": "10"
+      },
+      {
+        "Item": {
+          "GUID": "d29d3107f11e4e46a4e66d0760246930"
+        },
+        "Value": "100"
+      }
+    ]
+  },
+  "translation": null
+}

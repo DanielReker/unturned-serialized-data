@@ -1,0 +1,13 @@
+{
+  "name": "PS_Server_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Server_1/PS_Server_1.dat",
+  "data": {
+    "GUID": "584b3cdbb3a94fee8eedecf1e6d3fe20",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59790"
+  },
+  "translation": {
+    "Name": "PS Server #2"
+  }
+}

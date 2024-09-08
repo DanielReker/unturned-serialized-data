@@ -1,0 +1,14 @@
+{
+  "name": "Buak_SW_Table",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Furniture/Buak_SW_Table/Buak_SW_Table.dat",
+  "data": {
+    "GUID": "82c7a8a2082e480fa024a883e9e45335",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_SW_Table"
+  }
+}

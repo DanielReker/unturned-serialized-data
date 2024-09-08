@@ -1,0 +1,12 @@
+{
+  "name": "C_MenuBoard",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/C_MenuBoard/C_MenuBoard.dat",
+  "data": {
+    "GUID": "c8e228d0959f4e668514380286f7096e",
+    "Type": "Small",
+    "ID": "3886"
+  },
+  "translation": {
+    "Name": "Quest Menu Board"
+  }
+}

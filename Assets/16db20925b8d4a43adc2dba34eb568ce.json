@@ -1,0 +1,13 @@
+{
+  "name": "PS_Hydro_Hole_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Hydro_Hole_0/PS_Hydro_Hole_0.dat",
+  "data": {
+    "GUID": "16db20925b8d4a43adc2dba34eb568ce",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59831"
+  },
+  "translation": {
+    "Name": "PS Hydro Hatch #1"
+  }
+}

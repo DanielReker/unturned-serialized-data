@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Container_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Container_4/Metro_Container_4.dat",
+  "data": {
+    "GUID": "aaa1d15c27f04f6ea4918f4a6f3ec068",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57671"
+  },
+  "translation": {
+    "Name": "Metro Container #5"
+  }
+}

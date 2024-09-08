@@ -1,0 +1,15 @@
+{
+  "name": "CA_School_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_School_0/CA_School_0.dat",
+  "data": {
+    "GUID": "cdf49e64c0374eeda9ab85bd263f7b92",
+    "Type": "Large",
+    "ID": "4685",
+    "Material_Palette": "3987063d60df43e2ac4ca66fe91880f1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Large/Buildings/School_0"
+  },
+  "translation": {
+    "Name": "California School #1"
+  }
+}

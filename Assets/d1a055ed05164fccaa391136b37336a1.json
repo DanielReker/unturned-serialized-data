@@ -1,0 +1,14 @@
+{
+  "name": "29702KSW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/4/D/29700KSD/29702KSW/Asset.dat",
+  "data": {
+    "GUID": "d1a055ed05164fccaa391136b37336a1",
+    "Type": "Dialogue",
+    "ID": "29702",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Those glimpses weren't just me, you see? I know I saw those phantoms! Analog technology, the topology, our very cities. I can't escape it, and I'm sure you can't either!"
+  }
+}

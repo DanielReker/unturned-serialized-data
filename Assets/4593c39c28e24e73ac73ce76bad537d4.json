@@ -1,0 +1,22 @@
+{
+  "name": "Easter_Note_News_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Small/Notes/Easter_Note_News_1/Easter_Note_News_1.dat",
+  "data": {
+    "GUID": "4593c39c28e24e73ac73ce76bad537d4",
+    "Type": "Small",
+    "ID": "6830",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Easter Note - Breaking News",
+    "Interactability_Text_Line_0": "BREAKING NEWS",
+    "Interactability_Text_Line_1": "------",
+    "Interactability_Text_Line_2": "Plate activity has been detected under the island of Easter Island. Scientists are unsure of what is causing this sudden and extreme activity. All that is known is that there's a good chance that a number of the now-extinct volcanoes on the island may wake up in the coming weeks. If you live near any of the Volcanoes, evacuate while you still can."
+  }
+}

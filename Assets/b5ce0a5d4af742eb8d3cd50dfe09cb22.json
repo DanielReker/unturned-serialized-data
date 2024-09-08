@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Door_House_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Building_Details/Buak_Door_House_03/Buak_Door_House_03.dat",
+  "data": {
+    "GUID": "b5ce0a5d4af742eb8d3cd50dfe09cb22",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "1000",
+    "Rubble_Health": "20",
+    "Rubble_Effect": "25500",
+    "Rubble_Reward_ID": "25355",
+    "Rubble_Reward_Probability": "1"
+  },
+  "translation": {
+    "Name": "Buak_Door_House_03"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "PS_Deadzone_US_Supplies_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Deadzone_US_Supplies_2/PS_Deadzone_US_Supplies_2.dat",
+  "data": {
+    "GUID": "c91f76eba79f4ad9aaadc56b8fbad7e6",
+    "Type": "Spawn",
+    "ID": "59207",
+    "Tables": [
+      {
+        "LegacyAssetId": "59679",
+        "Weight": "8"
+      },
+      {
+        "LegacyAssetId": "59680",
+        "Weight": "8"
+      },
+      {
+        "LegacyAssetId": "59687",
+        "Weight": "8"
+      },
+      {
+        "Guid": "6f094facb48641299544e1dcf138642b",
+        "Weight": "8"
+      },
+      {
+        "LegacyAssetId": "60000",
+        "Weight": "5"
+      },
+      {
+        "LegacyAssetId": "59512",
+        "Weight": "4"
+      },
+      {
+        "LegacyAssetId": "59620",
+        "Weight": "2"
+      }
+    ]
+  },
+  "translation": null
+}

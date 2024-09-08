@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Gas_Cover_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Gas_Cover_0/Rio_Gas_Cover_0.dat",
+  "data": {
+    "GUID": "860da2bafcdc4e7bb1c8327893a02f02",
+    "Type": "Large",
+    "ID": "6087",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Gas Cover #1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Easter_Gem_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Small/Props/Easter_Gem_3/Easter_Gem_3.dat",
+  "data": {
+    "GUID": "aed97e5dfd2f47419e0035fde51c83b1",
+    "Type": "Small",
+    "ID": "6933",
+    "Material_Pallete": "fb1bede2cf0c45799dbdaca063d786a4",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Gems #4"
+  }
+}

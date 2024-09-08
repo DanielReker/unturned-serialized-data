@@ -1,0 +1,13 @@
+{
+  "name": "PS_Ruin_Wall_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Ruin_Wall_1/PS_Ruin_Wall_1.dat",
+  "data": {
+    "GUID": "67365d8d284f41cf94340747d35c16c7",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59367"
+  },
+  "translation": {
+    "Name": "PS Ruin Wall #2"
+  }
+}

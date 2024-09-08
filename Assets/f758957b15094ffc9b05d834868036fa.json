@@ -1,0 +1,22 @@
+{
+  "name": "Metro_Confetti_Launcher_Mag",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_Confetti_Launcher_Mag/Metro_Confetti_Launcher_Mag.dat",
+  "data": {
+    "GUID": "f758957b15094ffc9b05d834868036fa",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "ID": "57713",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "1",
+    "Amount": "1",
+    "Calibers": "1",
+    "Caliber_0": "57009",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Magazines/Rocket_1"
+  },
+  "translation": {
+    "Name": "Confetti",
+    "Description": ""
+  }
+}

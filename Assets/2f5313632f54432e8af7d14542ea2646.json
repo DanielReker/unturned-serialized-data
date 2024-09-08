@@ -1,0 +1,26 @@
+{
+  "name": "ADITS",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/Other/ADITS/Asset.dat",
+  "data": {
+    "GUID": "2f5313632f54432e8af7d14542ea2646",
+    "Type": "NPC",
+    "ID": "25300",
+    "Shirt": "a61f32afe1574e768e1400cce7d72a12",
+    "Face": "0",
+    "Hair": "0",
+    "Color_Skin": "#000000",
+    "Color_Hair": "#000000",
+    "Dialogue": "d50366e4a03d43908962e58d8873b838",
+    "Conditions": "1",
+    "Condition_0_Type": "Quest",
+    "Condition_0_Logic": "Not_Equal",
+    "Condition_0_ID": "7adcedab13fc47b39c7ecbe1b13257b0",
+    "Condition_0_Status": "Completed",
+    "Condition_0_Allow_Unset": "",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_ADITS_Interact",
+    "Character": "<color=legendary>?</color>"
+  }
+}

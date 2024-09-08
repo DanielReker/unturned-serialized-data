@@ -1,0 +1,22 @@
+{
+  "name": "AG_Hat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/AG_Hat/AG_Hat.dat",
+  "data": {
+    "GUID": "61186728cc2840179729ece0edc0e2bd",
+    "Rarity": "Uncommon",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "27078",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Beard": "",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "AG_Hat",
+    "Description": "NPC Hat."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "PS_Bush_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Resources/PS_Bush_5/PS_Bush_5.dat",
+  "data": {
+    "GUID": "cc6f29907a36438e9dfe1f2db22febb6",
+    "Type": "Resource",
+    "Has_Clip_Prefab": "False",
+    "ID": "59019",
+    "Health": "10000",
+    "Radius": "3",
+    "Scale": "0.2",
+    "Explosion": "59025"
+  },
+  "translation": {
+    "Name": "PS Bush #6 [Extra Thick]"
+  }
+}

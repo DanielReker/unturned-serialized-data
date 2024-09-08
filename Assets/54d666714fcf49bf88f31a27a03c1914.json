@@ -1,0 +1,15 @@
+{
+  "name": "CA_Office_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Office_0/CA_Office_0.dat",
+  "data": {
+    "GUID": "54d666714fcf49bf88f31a27a03c1914",
+    "Type": "Large",
+    "ID": "4680",
+    "Material_Palette": "3987063d60df43e2ac4ca66fe91880f1",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Large/Buildings/Office_0"
+  },
+  "translation": {
+    "Name": "California Office #1"
+  }
+}

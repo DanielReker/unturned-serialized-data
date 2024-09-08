@@ -1,0 +1,13 @@
+{
+  "name": "PS_Valve_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Valve_0/PS_Valve_0.dat",
+  "data": {
+    "GUID": "447c1f6efd1b41e886a45edc05473a62",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59402"
+  },
+  "translation": {
+    "Name": "PS Valve #1"
+  }
+}

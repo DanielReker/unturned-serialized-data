@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Sand",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Sand/Buak_Sand.dat",
+  "data": {
+    "GUID": "b491bb0158ae4b36971cdfed72fffce8",
+    "Type": "Spawn",
+    "ID": "25376",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25313",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

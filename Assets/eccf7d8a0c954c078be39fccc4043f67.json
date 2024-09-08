@@ -1,0 +1,40 @@
+{
+  "name": "PS_Gummed_Tape_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Gummed_Tape_1/PS_Gummed_Tape_1.dat",
+  "data": {
+    "GUID": "eccf7d8a0c954c078be39fccc4043f67",
+    "Type": "Barricade",
+    "Rarity": "Mythical",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Barricade",
+    "ID": "59965",
+    "SalvageItem": "eccf7d8a0c954c078be39fccc4043f67",
+    "Min_Items_Dropped_On_Destroy": "12",
+    "Max_Items_Dropped_On_Destroy": "12",
+    "Item_Dropped_On_Destroy": "9659abbd734e4368a46d97924a92779a",
+    "Size_X": "4",
+    "Size_Y": "4",
+    "Size_Z": "0.7",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59965",
+    "Blueprint_0_Product": "59625",
+    "Blueprint_0_Products": "16",
+    "Blueprint_0_Build": "32",
+    "Health": "500",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "0.265",
+    "Explosion": "19",
+    "Vulnerable": "",
+    "Salvage_Duration_Multiplier": "0.5",
+    "PlacementAudioClip": "Sounds/ClothPlacement.mp3",
+    "Bypass_Pickup_Ownership": "True"
+  },
+  "translation": {
+    "Name": "Industrial Gummed Tape",
+    "Description": "Large amount of heavy duty water-activated tape."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "BP_Bow_Hunting",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Bow_Hunting/Asset.dat",
+  "data": {
+    "GUID": "a545206fb939444cacb41e6570863ec4",
+    "Type": "Quest",
+    "ID": "24923",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "97a9086c9fce470a9496955f82c82cb7",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24922",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Hunting Bow Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Hunting Bow Recipe"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Brazil_Medic_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Vehicles/Brazil_Medic_Brazil/Brazil_Medic_Brazil.dat",
+  "data": {
+    "GUID": "1c833f4664184033a339a479d7e11893",
+    "Type": "Spawn",
+    "ID": "5507",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5510",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

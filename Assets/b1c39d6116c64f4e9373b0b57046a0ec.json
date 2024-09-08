@@ -1,0 +1,42 @@
+{
+  "name": "Glass_Oneway",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Glass_Oneway/Glass_Oneway.dat",
+  "data": {
+    "GUID": "b1c39d6116c64f4e9373b0b57046a0ec",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Glass",
+    "ID": "51638",
+    "SalvageItem": "b1c39d6116c64f4e9373b0b57046a0ec",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.45",
+    "Health": "500",
+    "Range": "4",
+    "Radius": "0.5",
+    "Explosion": "97",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supply_0_ID": "51018",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Tool",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51638",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "51017",
+    "Blueprint_1_Output_0_Amount": "3",
+    "Blueprint_1_Build": "27",
+    "Use_Water_Height_Transparent_Sort": "",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/Glass_Oneway",
+    "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "One Way Glass",
+    "Description": "Glass pane ideal for spying on suspicious visitors."
+  }
+}

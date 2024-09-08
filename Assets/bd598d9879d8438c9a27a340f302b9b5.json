@@ -1,0 +1,14 @@
+{
+  "name": "Car_Profile_Heli_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/Vehicle_Profiles/Car_Profile_Heli_0.asset",
+  "data": {
+    "GUID": "bd598d9879d8438c9a27a340f302b9b5",
+    "Type": "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Carjack_Force_Multiplier": "4.5",
+    "Root_Drag_Multiplier": "6",
+    "Root_Mass": "4",
+    "Brake_Torque_Multiplier": "100",
+    "Root_Angular_Drag_Multiplier": "1"
+  },
+  "translation": null
+}

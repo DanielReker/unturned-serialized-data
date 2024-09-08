@@ -1,0 +1,14 @@
+{
+  "name": "25244KSA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/4/D/25241SFD/25244KSA/Asset.dat",
+  "data": {
+    "GUID": "1b15559fda304f4bb076bace0594d29e",
+    "Type": "Dialogue",
+    "ID": "25244",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "The end is in sight now, <name_char>."
+  }
+}

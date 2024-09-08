@@ -1,0 +1,19 @@
+{
+  "name": "Note_27",
+  "path": "Bundles/Objects/Medium/Furniture/Note_27/Note_27.dat",
+  "data": {
+    "GUID": "36fb9d35975c48fcaa036d6081b1ce62",
+    "Type": "Medium",
+    "ID": "2028",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Russia Note - Lab #2",
+    "Interactability_Text_Line_0": "I can't believe we're rebooting this project, we've tried bombarding it with all kinds of radiation, electrifying it, blowing it up, but nothing. Still, if this is what they came here for it must be important, and they do genuinely seem to think it will work if we can crack it, but personally I'm starting to question whether maybe the extended cryosleep scrambled their brains."
+  }
+}

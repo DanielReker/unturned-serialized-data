@@ -1,0 +1,16 @@
+{
+  "name": "Milo_End",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military Soldier Milo/Milo_End/Asset.dat",
+  "data": {
+    "GUID": "6cd7e4b0f37345bcb7e4afc8f4e22c09",
+    "Type": "Dialogue",
+    "ID": "9198",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Your welcome. Have a nice day!",
+    "Response_0": "You too!"
+  }
+}

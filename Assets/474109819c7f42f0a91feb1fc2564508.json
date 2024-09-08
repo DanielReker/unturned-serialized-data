@@ -1,0 +1,24 @@
+{
+  "name": "Radio_06",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Quests/Side/Radio/Radio_06/Asset.dat",
+  "data": {
+    "GUID": "474109819c7f42f0a91feb1fc2564508",
+    "Type": "Quest",
+    "ID": "24156",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "d4830aa9a1264835b9d308dbb37ecf52",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "50"
+  },
+  "translation": {
+    "Name": "Radio Quest #7 (Optional Quest)",
+    "Description": "Help a survivor at Seppuku Waffles in Cherry Cape.",
+    "Condition_0": "Help A Fellow Survivor"
+  }
+}

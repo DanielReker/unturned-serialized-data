@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Shelf_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Shelf_3/Metro_Shelf_3.dat",
+  "data": {
+    "GUID": "ea0895c4cfa24acd9053b4d0b369f5af",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57164",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Shelf #4"
+  }
+}

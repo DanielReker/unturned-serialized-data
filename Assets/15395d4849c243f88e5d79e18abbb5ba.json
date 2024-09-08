@@ -1,0 +1,172 @@
+{
+  "name": "DesertLevel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/Levels/DesertLevel.asset",
+  "data": {
+    "GUID": "15395d4849c243f88e5d79e18abbb5ba",
+    "Type": "SDG.Unturned.LevelAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Fall_Damage_Speed_Threshold": "28",
+    "Enable_Admin_Faster_Salvage_Duration": "False",
+    "ID": "0",
+    "Dropship": {
+      "MasterBundle": "arid.masterbundle",
+      "AssetPath": "Level/Dropship.prefab"
+    },
+    "Airdrop": {
+      "GUID": "d7d2a31e93f44e1eaf2ddd2a1dea7f67"
+    },
+    "Crafting_Blacklists": [
+      {
+        "GUID": "d9ad7fb60c53439ca10a035148537530"
+      }
+    ],
+    "Weather_Types": [
+      {
+        "Asset": "72b8dc1130a54bca9fbb3ffb974ceee8",
+        "Min_Frequency": "2",
+        "Max_Frequency": "7",
+        "Min_Duration": "0.5",
+        "Max_Duration": "1"
+      },
+      {
+        "Asset": "c8d2538e01324e2398cfaba681e46e14",
+        "Min_Frequency": "0",
+        "Max_Frequency": "0",
+        "Min_Duration": "1",
+        "Max_Duration": "2"
+      }
+    ],
+    "TerrainColors": [
+      {
+        "Color": "#79705F",
+        "HueThreshold": "0.02",
+        "SaturationThreshold": "0.1",
+        "ValueThreshold": "0.05"
+      },
+      {
+        "Color": "#4A5130",
+        "HueThreshold": "0.02",
+        "SaturationThreshold": "0.1",
+        "ValueThreshold": "0.05"
+      },
+      {
+        "Color": "#665D4C",
+        "HueThreshold": "0.02",
+        "SaturationThreshold": "0.1",
+        "ValueThreshold": "0.05"
+      }
+    ],
+    "Skills": [
+      {
+        "Id": "Overkill",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Sharpshooter",
+        "Default_Level": "7",
+        "Max_Unlockable_Level": "7"
+      },
+      {
+        "Id": "Dexterity",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Exercise",
+        "Default_Level": "4",
+        "Max_Unlockable_Level": "4"
+      },
+      {
+        "Id": "Cardio",
+        "Default_Level": "3",
+        "Max_Unlockable_Level": "3"
+      },
+      {
+        "Id": "Diving",
+        "Default_Level": "3",
+        "Max_Unlockable_Level": "3"
+      },
+      {
+        "Id": "Parkour",
+        "Default_Level": "2",
+        "Max_Unlockable_Level": "2"
+      },
+      {
+        "Id": "Sneakybeaky",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Vitality",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Immunity",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Toughness",
+        "Default_Level": "4",
+        "Max_Unlockable_Level": "4"
+      },
+      {
+        "Id": "Strength",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Warmblooded",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Survival",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Healing",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Crafting",
+        "Default_Level": "3",
+        "Max_Unlockable_Level": "3"
+      },
+      {
+        "Id": "Outdoors",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Cooking",
+        "Default_Level": "3",
+        "Max_Unlockable_Level": "3"
+      },
+      {
+        "Id": "Fishing",
+        "Default_Level": "5",
+        "Max_Unlockable_Level": "5"
+      },
+      {
+        "Id": "Agriculture",
+        "Default_Level": "0",
+        "Max_Unlockable_Level": "0"
+      },
+      {
+        "Id": "Mechanic",
+        "Default_Level": "3",
+        "Max_Unlockable_Level": "3"
+      },
+      {
+        "Id": "Engineer",
+        "Default_Level": "3",
+        "Max_Unlockable_Level": "3"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PS_Trader_12",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/PS_Trader_12/Asset.dat",
+  "data": {
+    "GUID": "5d247ca3eb474731a9cefd0fab32898d",
+    "Type": "NPC",
+    "ID": "59445",
+    "Dialogue": "59444",
+    "Face": "16",
+    "Hair": "15",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#7F4D73",
+    "Shirt": "59073",
+    "Pants": "59935",
+    "Secondary": "59277",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Shirt": "e5b563da3cfb4a478743a5de9a4dd350",
+    "Halloween_Pants": "980043289ad74b57932b58bdf6d8b6ce",
+    "Halloween_Glasses": "cb08b9467b8c45b499c4d0dcec9188f6",
+    "Halloween_Hat": "4bb4b166626e43b5880081fcafc6b58c"
+  },
+  "translation": {
+    "Name": "PS Trader #13 [Brinda] [Safezone]",
+    "Character": "Brinda"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Platform_Quad_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Roads/Platform_Quad_0/Platform_Quad_0.dat",
+  "data": {
+    "GUID": "2ff5d6c0318f4d13b3ac1e411fa65559",
+    "Type": "Medium",
+    "ID": "6660",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Platform Quad #1"
+  }
+}

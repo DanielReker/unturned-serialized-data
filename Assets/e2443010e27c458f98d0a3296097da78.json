@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Dumpster_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Dumpster_04/Buak_Dumpster_04.dat",
+  "data": {
+    "GUID": "e2443010e27c458f98d0a3296097da78",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "500",
+    "Rubble_Health": "4",
+    "Rubble_Effect": "25486",
+    "Rubble_Reward_ID": "25374",
+    "Rubble_Reward_Probability": "0.8"
+  },
+  "translation": {
+    "Name": "Buak_Dumpster_04"
+  }
+}

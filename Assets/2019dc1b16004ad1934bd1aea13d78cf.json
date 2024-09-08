@@ -1,0 +1,14 @@
+{
+  "name": "Tipi_0",
+  "path": "Bundles/Objects/Large/Buildings/Tipi_0/Tipi_0.dat",
+  "data": {
+    "GUID": "2019dc1b16004ad1934bd1aea13d78cf",
+    "Type": "Large",
+    "ID": "323",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Tipi #1"
+  }
+}

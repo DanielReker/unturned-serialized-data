@@ -1,0 +1,14 @@
+{
+  "name": "IR_Hedge",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/City/IR_Hedge/IR_Hedge.dat",
+  "data": {
+    "GUID": "85e37523ea8c4405b065f181fb29fca6",
+    "Type": "Medium",
+    "ID": "15421",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Irish Hedge#1"
+  }
+}

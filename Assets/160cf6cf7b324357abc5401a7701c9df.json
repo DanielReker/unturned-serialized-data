@@ -1,0 +1,14 @@
+{
+  "name": "Cake_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Bake_Cake/Cake_Accepted/Asset.dat",
+  "data": {
+    "GUID": "160cf6cf7b324357abc5401a7701c9df",
+    "Type": "Dialogue",
+    "ID": "2036",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Please bring me the cake. It would make her birthday fantastic!"
+  }
+}

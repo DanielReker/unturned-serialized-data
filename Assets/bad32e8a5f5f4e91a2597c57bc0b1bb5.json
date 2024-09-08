@@ -1,0 +1,20 @@
+{
+  "name": "PBS_KompactSetup",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/PBS_KompactSetup/PBS_KompactSetup.dat",
+  "data": {
+    "GUID": "bad32e8a5f5f4e91a2597c57bc0b1bb5",
+    "Type": "RewardsList",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51229",
+    "Reward_0_Amount": "1",
+    "Reward_0_Sight": "51080",
+    "Reward_0_Grip": "51087",
+    "Reward_0_Barrel": "51077",
+    "Reward_0_Tactical": "51076",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "51041",
+    "Reward_1_Amount": "3"
+  },
+  "translation": null
+}

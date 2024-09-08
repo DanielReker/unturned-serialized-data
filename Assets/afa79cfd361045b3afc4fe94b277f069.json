@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Electrical_Wires",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Electrical_Wires/Drop_Electrical_Wires.dat",
+  "data": {
+    "GUID": "afa79cfd361045b3afc4fe94b277f069",
+    "Type": "Spawn",
+    "ID": "25513",
+    "Tables": [
+      {
+        "Guid": "e02fcfbee5384f2dab57bf5054a4e1ba",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

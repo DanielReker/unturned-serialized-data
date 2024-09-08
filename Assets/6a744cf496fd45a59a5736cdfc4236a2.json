@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Note_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Note_03/Buak_Note_03.dat",
+  "data": {
+    "GUID": "6a744cf496fd45a59a5736cdfc4236a2",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Material_Palette": "3758ac9d1b774a4a99a407c069e2a21a",
+    "Bundle_Override_Path": "/Objects/Small/Furniture/Buak_Note_00"
+  },
+  "translation": {
+    "Name": "Buak_Note_03",
+    "Interactability_Text_Line_0": "Zack came to me this time and offered me the blood money, All to drop this case, leave it dead in the water. It’s more that I can spend in multiple lifetimes, even if I take it and retire, I wouldn’t be able to live with myself.<br>It’s time to bring my morals back, tell them they can keep their money, because I’m going to need it as proof against them. We have no deal and I’m going to do the right thing."
+  }
+}

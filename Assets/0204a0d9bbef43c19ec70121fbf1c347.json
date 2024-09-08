@@ -1,0 +1,14 @@
+{
+  "name": "Buak_LAB_Center_Desk",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_LAB/Buak_LAB_Center_Desk/Buak_LAB_Center_Desk.dat",
+  "data": {
+    "GUID": "0204a0d9bbef43c19ec70121fbf1c347",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_LAB_Center_Desk"
+  }
+}

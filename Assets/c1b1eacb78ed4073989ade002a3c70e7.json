@@ -1,0 +1,13 @@
+{
+  "name": "PEI_Jetski",
+  "path": "Bundles/Spawns/Vehicles/PEI_Jetski/PEI_Jetski.dat",
+  "data": {
+    "GUID": "c1b1eacb78ed4073989ade002a3c70e7",
+    "Type": "Spawn",
+    "ID": "325",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "326",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

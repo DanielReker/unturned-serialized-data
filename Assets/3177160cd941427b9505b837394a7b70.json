@@ -1,0 +1,14 @@
+{
+  "name": "Scrap_Quest_Accept",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Engineer/Scrap_Quest_Accept/Asset.dat",
+  "data": {
+    "GUID": "3177160cd941427b9505b837394a7b70",
+    "Type": "Dialogue",
+    "ID": "4066",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Bring them whenever, no rush."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Baby2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Small/Pictures/Baby2/Baby2.dat",
+  "data": {
+    "GUID": "f5b366f543cb4f2a88e3704ca9e7bb2d",
+    "Type": "Small",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "58",
+    "Rubble_Reward_ID": "51203"
+  },
+  "translation": {
+    "Name": "PBS Picture Baby 2"
+  }
+}

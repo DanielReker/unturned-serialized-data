@@ -1,0 +1,25 @@
+{
+  "name": "Metro_Doors",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Doors/Metro_Doors.dat",
+  "data": {
+    "GUID": "7b03000c4ae7490a9e4af7f4e3cc59ce",
+    "Type": "Spawn",
+    "ID": "57026",
+    "Tables": "7",
+    "Table_0_Asset_ID": "57347",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "57348",
+    "Table_1_Weight": "50",
+    "Table_2_Asset_ID": "57351",
+    "Table_2_Weight": "50",
+    "Table_3_Asset_ID": "57352",
+    "Table_3_Weight": "50",
+    "Table_4_Asset_ID": "57267",
+    "Table_4_Weight": "5",
+    "Table_5_Asset_ID": "57273",
+    "Table_5_Weight": "5",
+    "Table_6_Asset_ID": "57265",
+    "Table_6_Weight": "5"
+  },
+  "translation": null
+}

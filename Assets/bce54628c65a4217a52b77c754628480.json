@@ -1,0 +1,16 @@
+{
+  "name": "General_Introduction",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IDF/Major_General_Nelson/General_Introduction/Asset.dat",
+  "data": {
+    "GUID": "bce54628c65a4217a52b77c754628480",
+    "Type": "Dialogue",
+    "ID": "15152",
+    "Messages": "1",
+    "Message_0_Pages": "3"
+  },
+  "translation": {
+    "Message_0_Page_0": "Alright, <name_char>. We're the last surviving remnants of the <color=green>Irish Defense Forces</color>, the military of this nation. Due to our limited numbers, our efforts are focused on stablizing the nuclear reactor at Moneypoint.",
+    "Message_0_Page_1": "You may have heard, or even are currently apart of, a pair of <color=red>factions</color> that are currently fighting <color=blue>eachother</color>. In my opinion, as long as you help us clear the reactor you are a proud member of the <color=green>IDF</color>.",
+    "Message_0_Page_2": "Alright, if you wish to join, <color=epic>Major Peter</color> said he needed somebody. He's in the other room fiddling with the computer systems."
+  }
+}

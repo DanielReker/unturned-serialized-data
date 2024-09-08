@@ -1,0 +1,28 @@
+{
+  "name": "SeedyPlace_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/James/James_02/SeedyPlace_Welcome/Asset.dat",
+  "data": {
+    "GUID": "43d4441a1d9d461ca2ecd1971e779748",
+    "Type": "Dialogue",
+    "ID": "24472",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Responses": "2",
+    "Response_0_Dialogue": "e26d438f5efd48c29431bdf17844ad4d",
+    "Response_0_Quest": "702aefbfff664383beb7657924ee6191",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "702aefbfff664383beb7657924ee6191",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "702aefbfff664383beb7657924ee6191"
+  },
+  "translation": {
+    "Message_0_Page_0": "Some more help would be nice for sure if you don't mind! I have a list here, you mind grabbing these seeds for future food around here?",
+    "Message_0_Page_1": "*Carrot, Potato, Tomato, Corn, Wheat, Grapes, Onion, Rhubarb*",
+    "Response_0": "Sure thing!",
+    "Response_1": "Not now."
+  }
+}

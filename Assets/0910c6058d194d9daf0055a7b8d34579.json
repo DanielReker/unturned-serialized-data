@@ -1,0 +1,10 @@
+{
+  "name": "Shell_Pistol",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Shells/Shell_Pistol/Shell_Pistol.dat",
+  "data": {
+    "GUID": "0910c6058d194d9daf0055a7b8d34579",
+    "Type": "Effect",
+    "ID": "25506"
+  },
+  "translation": null
+}

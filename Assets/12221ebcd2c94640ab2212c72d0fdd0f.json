@@ -1,0 +1,13 @@
+{
+  "name": "PS_Planter_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Planter_5/PS_Planter_5.dat",
+  "data": {
+    "GUID": "12221ebcd2c94640ab2212c72d0fdd0f",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59760"
+  },
+  "translation": {
+    "Name": "PS Planter #6"
+  }
+}

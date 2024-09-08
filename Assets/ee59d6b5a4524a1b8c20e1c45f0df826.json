@@ -1,0 +1,13 @@
+{
+  "name": "Fence_Wood_Broken_3",
+  "path": "Bundles/Objects/Medium/Fences/Fence_Wood_Broken_3/Fence_Wood_Broken_3.dat",
+  "data": {
+    "GUID": "ee59d6b5a4524a1b8c20e1c45f0df826",
+    "Type": "Large",
+    "ID": "287",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Fence Wood Broken #4"
+  }
+}

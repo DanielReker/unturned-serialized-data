@@ -1,0 +1,13 @@
+{
+  "name": "Buak_S7_Shirt",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_S7_Shirt/Buak_S7_Shirt.dat",
+  "data": {
+    "GUID": "20ae822a49e445d896246d10afa5a0dd",
+    "Type": "Spawn",
+    "ID": "25404",
+    "Tables": "1",
+    "Table_0_Asset_ID": "26579",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

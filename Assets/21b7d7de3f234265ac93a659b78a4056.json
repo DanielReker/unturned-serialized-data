@@ -1,0 +1,25 @@
+{
+  "name": "Note_14",
+  "path": "Bundles/Objects/Medium/Furniture/Note_14/Note_14.dat",
+  "data": {
+    "GUID": "21b7d7de3f234265ac93a659b78a4056",
+    "Type": "Medium",
+    "ID": "2015",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "6",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Note - News #1",
+    "Interactability_Text_Line_0": "Big J Exposed!",
+    "Rough": "Draft",
+    "Interactability_Text_Line_1": "think of a better title maybe \"Is Big J poisoning your food?\" or \"Is Big J making their food more addicting?\"",
+    "Interactability_Text_Line_2": "",
+    "Interactability_Text_Line_3": "Everyone knows that Big J chain restruant food has been tasting better recently, but did you also notice the same is true for the berries around here? - no wait of course they didn't, who picks/eats random berries? In this artical we investigate their experimentation on wild animals and how they've been adding chemicels to keep you coming back! continue on here about the contract + observations + etc",
+    "Interactability_Text_Line_4": "",
+    "Interactability_Text_Line_5": "also seems kind of ironic I'm writing this in a Big J fastfood, but wow these blueberry pancakes are amazing :)"
+  }
+}

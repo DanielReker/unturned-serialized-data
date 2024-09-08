@@ -1,0 +1,14 @@
+{
+  "name": "25561KEAC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/253 RG/25560KEAD/25561KEAC/Asset.dat",
+  "data": {
+    "GUID": "58e59c95ff3b452ba481d0d1db1960b5",
+    "Type": "Dialogue",
+    "ID": "25561",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Stay safe, <name_char>..."
+  }
+}

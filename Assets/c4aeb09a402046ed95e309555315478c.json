@@ -1,0 +1,39 @@
+{
+  "name": "Civilian Ayoub",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Vendors/Civilian Ayoub/Asset.dat",
+  "data": {
+    "GUID": "c4aeb09a402046ed95e309555315478c",
+    "Type": "Vendor",
+    "ID": "9081",
+    "Selling": "6",
+    "Selling_0_ID": "346",
+    "Selling_0_Cost": "200",
+    "Selling_1_ID": "357",
+    "Selling_1_Cost": "50",
+    "Selling_2_ID": "347",
+    "Selling_2_Cost": "20",
+    "Selling_3_ID": "337",
+    "Selling_3_Cost": "40",
+    "Selling_4_ID": "1175",
+    "Selling_4_Cost": "30",
+    "Selling_5_ID": "1014",
+    "Selling_5_Cost": "75",
+    "Buying": "6",
+    "Buying_0_ID": "516",
+    "Buying_0_Cost": "4",
+    "Buying_1_ID": "351",
+    "Buying_1_Cost": "2",
+    "Buying_2_ID": "348",
+    "Buying_2_Cost": "2",
+    "Buying_3_ID": "352",
+    "Buying_3_Cost": "2",
+    "Buying_4_ID": "13",
+    "Buying_4_Cost": "6",
+    "Buying_5_ID": "14",
+    "Buying_5_Cost": "6"
+  },
+  "translation": {
+    "Name": "Ayoub's Survival Trading Post",
+    "Description": "I have many items for sale! Hopefully there's something that suits your needs."
+  }
+}

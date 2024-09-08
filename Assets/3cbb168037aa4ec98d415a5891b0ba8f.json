@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Ladder_Birch",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Ladder_Birch/Bar_Ladder_Birch.dat",
+  "data": {
+    "GUID": "3cbb168037aa4ec98d415a5891b0ba8f",
+    "Type": "Effect",
+    "ID": "25380"
+  },
+  "translation": null
+}

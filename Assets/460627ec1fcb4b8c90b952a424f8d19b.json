@@ -1,0 +1,14 @@
+{
+  "name": "PS_Wreck_9",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Wreck_9/PS_Wreck_9.dat",
+  "data": {
+    "GUID": "460627ec1fcb4b8c90b952a424f8d19b",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59335",
+    "Material_Palette": "4617f544a1c7439bad0385243fa2edda"
+  },
+  "translation": {
+    "Name": "PS Wreck #10"
+  }
+}

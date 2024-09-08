@@ -1,0 +1,13 @@
+{
+  "name": "Snowmobile_Black",
+  "path": "Bundles/Objects/Large/Vehicles/Snowmobile_Black/Snowmobile_Black.dat",
+  "data": {
+    "GUID": "ce8c62ac113347f4b7e0ec9bd3b4e495",
+    "Type": "Large",
+    "ID": "432",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Black Snowmobile"
+  }
+}

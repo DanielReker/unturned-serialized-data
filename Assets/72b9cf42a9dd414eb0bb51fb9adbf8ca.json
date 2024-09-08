@@ -1,0 +1,42 @@
+{
+  "name": "PS_URAL",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Vehicles/PS_URAL/PS_URAL.dat",
+  "data": {
+    "GUID": "72b9cf42a9dd414eb0bb51fb9adbf8ca",
+    "Type": "Vehicle",
+    "Has_Clip_Prefab": "False",
+    "Rarity": "Rare",
+    "ID": "59016",
+    "Speed_Min": "-8",
+    "Speed_Max": "13",
+    "Steer_Min": "24",
+    "Steer_Max": "48",
+    "Brake": "32",
+    "Fuel_Min": "600",
+    "Fuel_Max": "1000",
+    "Fuel": "9000",
+    "Health_Min": "1200",
+    "Health_Max": "1400",
+    "Health": "2100",
+    "Trunk_Storage_X": "10",
+    "Trunk_Storage_Y": "12",
+    "Explosion": "59021",
+    "Physics_Profile": "9b169479ee30485a9898e31c3e12de55",
+    "Drops_Table_ID": "59225",
+    "Drops_Min": "7",
+    "Drops_Max": "8",
+    "Melee_Damage_Multiplier": "0.75",
+    "Tires_Invulnerable": "",
+    "BatteryMode_Headlights": "Charging",
+    "BatteryMode_Sirens": "Charging",
+    "Can_Steal_Battery": "False",
+    "BatteryMode_Driving": "Charging",
+    "BatteryMode_Empty": "Charging",
+    "Fuel_Burn_Rate": "4.25",
+    "Valid_Speed_Horizontal": "200",
+    "Cam_Follow_Distance": "10"
+  },
+  "translation": {
+    "Name": "URAL"
+  }
+}

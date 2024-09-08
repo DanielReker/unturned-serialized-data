@@ -1,0 +1,13 @@
+{
+  "name": "Alpha Valley_Arena_Guns_Military",
+  "path": "Bundles/Spawns/Items/Alpha Valley_Arena_Guns_Military/Alpha Valley_Arena_Guns_Military.dat",
+  "data": {
+    "GUID": "c2596003ce694011856b036e75d21203",
+    "Type": "Spawn",
+    "ID": "55",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "4",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

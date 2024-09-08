@@ -1,0 +1,14 @@
+{
+  "name": "26321KEVA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26310KEVD/26320KEVAD/26321KEVA/Asset.dat",
+  "data": {
+    "GUID": "3c1e7201cc204f8cbcb74d3cdc54c2be",
+    "Type": "Dialogue",
+    "ID": "26321",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Always nice to not have to wait around here. I'm in!"
+  }
+}

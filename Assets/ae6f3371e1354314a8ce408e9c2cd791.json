@@ -1,0 +1,17 @@
+{
+  "name": "PS_Lantern_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Lantern_00/PS_Lantern_00.dat",
+  "data": {
+    "GUID": "ae6f3371e1354314a8ce408e9c2cd791",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59255",
+    "Conditions": "1",
+    "Condition_0_Type": "Holiday",
+    "Condition_0_Value": "HALLOWEEN",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PS Lantern #1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Ammo_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Ammo_1/PS_Ammo_1.dat",
+  "data": {
+    "GUID": "47f667d5c46b4450ab58108bd59c60b0",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59753"
+  },
+  "translation": {
+    "Name": "PS Ammo #2"
+  }
+}

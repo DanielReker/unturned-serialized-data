@@ -1,0 +1,40 @@
+{
+  "name": "Head_Deer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Barricades/Head_Deer/Head_Deer.dat",
+  "data": {
+    "GUID": "65478309fcc04a9d8657d27353194634",
+    "Type": "Barricade",
+    "Rarity": "Uncommon",
+    "Useable": "Barricade",
+    "Build": "Sign_Wall",
+    "ID": "27100",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.98",
+    "Use_Auto_Icon_Measurements": "False",
+    "Has_Clip_Prefab": "false",
+    "Salvage_Duration_Multiplier": ".3",
+    "Health": "200",
+    "Range": "4",
+    "Offset": "0.125",
+    "Explosion": "25442",
+    "Vulnerable": "",
+    "Locked": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "27100",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Tool": "25579",
+    "Blueprint_0_Tool_Critical": "True",
+    "Blueprint_0_Product": "25357",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "25535",
+    "Should_Close_When_Outside_Range": "true",
+    "PlacementAudioClip": "Sounds/Placement/WoodenPlacement.mp3",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Deer Head Trophy",
+    "Description": "An animal head trophy."
+  }
+}

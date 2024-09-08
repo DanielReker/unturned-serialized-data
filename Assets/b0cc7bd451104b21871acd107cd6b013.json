@@ -1,0 +1,23 @@
+{
+  "name": "Farmer Yanis",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Farmer Yanis/Asset.dat",
+  "data": {
+    "GUID": "b0cc7bd451104b21871acd107cd6b013",
+    "Type": "NPC",
+    "ID": "9194",
+    "Shirt": "242",
+    "Pants": "243",
+    "Hat": "244",
+    "Primary": "1034",
+    "Equipped": "Primary",
+    "Face": "4",
+    "Beard": "10",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#0F0F0F",
+    "Dialogue": "9194"
+  },
+  "translation": {
+    "Name": "Farmer Yanis",
+    "Character": "Yanis"
+  }
+}

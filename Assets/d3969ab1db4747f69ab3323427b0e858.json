@@ -1,0 +1,23 @@
+{
+  "name": "Cough_Candy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Meds/Cough_Candy/Cough_Candy.dat",
+  "data": {
+    "GUID": "d3969ab1db4747f69ab3323427b0e858",
+    "Type": "Medical",
+    "Rarity": "Common",
+    "Useable": "Consumeable",
+    "ID": "25626",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.22",
+    "Use_Auto_Icon_Measurements": "False",
+    "Aid": "",
+    "Health": "6",
+    "Disinfectant": "6",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Cough Candy",
+    "Description": "Cough medicine that ironically shouldn't be eaten like candy.<br><size=14><color=#ff4466>Health 6</color> <color=#029a30>Disinfectant 6</color></size>"
+  }
+}

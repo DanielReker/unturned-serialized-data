@@ -1,0 +1,14 @@
+{
+  "name": "27260KSAT",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27250KSAD/27260KSAT/Asset.dat",
+  "data": {
+    "GUID": "ac8a5b24e6b640639174953709c9d3e8",
+    "Type": "Dialogue",
+    "ID": "27260",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Nope! Don't have any tools that I've borrowed."
+  }
+}

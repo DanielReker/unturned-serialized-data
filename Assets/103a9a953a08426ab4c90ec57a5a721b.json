@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Nickle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Nickle/Drop_Nickle.dat",
+  "data": {
+    "GUID": "103a9a953a08426ab4c90ec57a5a721b",
+    "Type": "Spawn",
+    "ID": "25507",
+    "Tables": [
+      {
+        "Guid": "e6baf6d57ec34fdabb2647d6793138d7",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

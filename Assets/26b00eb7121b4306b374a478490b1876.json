@@ -1,0 +1,20 @@
+{
+  "name": "Frost_Helmet_Police_THICC_Zombie",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Gear/Frost_Helmet_Police_THICC_Zombie/Frost_Helmet_Police_THICC_Zombie.dat",
+  "data": {
+    "GUID": "26b00eb7121b4306b374a478490b1876",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Useable": "Clothing",
+    "ID": "36638",
+    "Armor": "0.75",
+    "Armor_Explosion": "0",
+    "Beard": "",
+    "Master_Bundle_Override": "frost.masterbundle",
+    "Bundle_Override_Path": "/Items/Gear/Frost_Helmet_Police_THICC_Open"
+  },
+  "translation": {
+    "Name": "SWAT Helmet Zombie",
+    "Description": "<color=#64c819>+25%</color> Head Armor<br><color=#64c819>+4%</color> Movement Speed"
+  }
+}

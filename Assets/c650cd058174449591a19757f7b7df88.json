@@ -1,0 +1,24 @@
+{
+  "name": "Irish_Bottle_Lucky",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Items/Water/Irish_Bottle_Lucky/Irish_Bottle_Lucky.dat",
+  "data": {
+    "GUID": "c650cd058174449591a19757f7b7df88",
+    "Type": "Water",
+    "Useable": "Consumeable",
+    "ID": "15100",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.4",
+    "Water": "60",
+    "Energy": "50",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "392",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Bottled 4-Leaf",
+    "Description": "Irish Regional soda, owned and distributed by Soda Co."
+  }
+}

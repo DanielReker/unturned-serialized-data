@@ -1,0 +1,19 @@
+{
+  "name": "Buak_RS_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Signs/Buak_RS_00/Buak_RS_00.dat",
+  "data": {
+    "GUID": "efd2e725b2824b10ad91251dffcf664d",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "500",
+    "Rubble_Health": "120",
+    "Rubble_Effect": "25322",
+    "Exclude_From_Culling_Volumes": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_RS_00"
+  }
+}

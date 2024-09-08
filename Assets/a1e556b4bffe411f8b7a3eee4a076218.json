@@ -1,0 +1,16 @@
+{
+  "name": "HawaiiSurfboard_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiSurfboard_0/HawaiiSurfboard_0.dat",
+  "data": {
+    "GUID": "a1e556b4bffe411f8b7a3eee4a076218",
+    "Type": "Medium",
+    "ID": "820",
+    "Soft": "",
+    "Snowshoe": "",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hawaii Surf Board Blue"
+  }
+}

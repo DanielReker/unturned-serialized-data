@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Radio_Tower_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_Radio_Tower_00/Buak_Radio_Tower_00.dat",
+  "data": {
+    "GUID": "98a34a6f43b643888a21956446fe3191",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Radio_Tower_00"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "25290KuwaitSAC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/4/C/25290KuwaitSAC/Asset.dat",
+  "data": {
+    "GUID": "40a6fd7905b74cc29c41c9b2ec9c8d24",
+    "Type": "NPC",
+    "ID": "25290",
+    "Shirt": "5333",
+    "Dialogue": "25291"
+  },
+  "translation": {
+    "Name": "KuwaitFINALCat",
+    "Character": "Sentient Caracal"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "FragGrenade",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Throwables/FragGrenade/FragGrenade.dat",
+  "data": {
+    "GUID": "ee0530de710b411c962b2673489aa875",
+    "Type": "Throwable",
+    "Rarity": "Rare",
+    "Useable": "Throwable",
+    "ID": "51300",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Player_Damage": "150",
+    "Zombie_Damage": "200",
+    "Animal_Damage": "200",
+    "Barricade_Damage": "25",
+    "Structure_Damage": "25",
+    "Vehicle_Damage": "100",
+    "Resource_Damage": "1000",
+    "Object_Damage": "500",
+    "Range": "8",
+    "Explosion": "51008",
+    "Explosive": ""
+  },
+  "translation": {
+    "Name": "Fragmentation Grenade",
+    "Description": "Military grade throwable fragmentation explosive."
+  }
+}

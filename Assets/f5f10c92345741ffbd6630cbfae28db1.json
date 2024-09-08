@@ -1,0 +1,22 @@
+{
+  "name": "Hale_Reward",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Sergeant_Hale/Hale_Reward/Asset.dat",
+  "data": {
+    "GUID": "f5f10c92345741ffbd6630cbfae28db1",
+    "Type": "Dialogue",
+    "ID": "45776",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Message_0_Rewards": "2",
+    "Message_0_Reward_0_Type": "Item",
+    "Message_0_Reward_0_ID": "1200",
+    "Message_0_Reward_0_Amount": "2",
+    "Message_0_Reward_1_Type": "Item",
+    "Message_0_Reward_1_ID": "43",
+    "Message_0_Reward_1_Amount": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Me too. <pause> He was a good man, they all were. <pause> My squad was protecting a group of mostly local politicians. Overtime, the numbers fell. I guess this makes me the lone survivor, and a failed mission.",
+    "Message_0_Page_1": "Well, thank you for the rescue. I figure you expended a fair share of bullets out there, so here, you can have my excess. I'll see you around."
+  }
+}

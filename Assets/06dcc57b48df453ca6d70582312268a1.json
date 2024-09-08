@@ -1,0 +1,21 @@
+{
+  "name": "France_Note4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Medium/Furniture/France_Note4/France_Note4.dat",
+  "data": {
+    "GUID": "06dcc57b48df453ca6d70582312268a1",
+    "Type": "Medium",
+    "ID": "35113",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Has_Clip_Prefab": "false",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "France Note - Overrun",
+    "Interactability_Text_Line_0": "Feb. 25th",
+    "Interactability_Text_Line_1": "",
+    "Interactability_Text_Line_2": "If you are reading this -- stay away from here, we've failed at containing the virus -- Paris is gone.. I think I'm the only one left in this city."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PosterInRainbows",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PosterInRainbows/PosterInRainbows.dat",
+  "data": {
+    "GUID": "635e3cefbe4b48f2abb188d6f57b0d05",
+    "Type": "Spawn",
+    "ID": "51281",
+    "Tables": [
+      {
+        "Guid": "fe12db0299db4c0bb0cc22c02a95bf69",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

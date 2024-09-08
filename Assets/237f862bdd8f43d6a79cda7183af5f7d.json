@@ -1,0 +1,23 @@
+{
+  "name": "BP_Grip_Horizontal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Grip_Horizontal/Asset.dat",
+  "data": {
+    "GUID": "237f862bdd8f43d6a79cda7183af5f7d",
+    "Type": "Quest",
+    "ID": "24903",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "a7783ae7e1a84efb844c2f3b815309dc",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24902",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Horizontal Grip Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Horizontal Grip Recipe"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Rhino",
+  "path": "Bundles/Skins/Bluntforce/Rhino/Rhino.dat",
+  "data": {
+    "GUID": "d55bacaced024a7fa9acc075c6f77d28",
+    "Type": "Skin",
+    "ID": "50055",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

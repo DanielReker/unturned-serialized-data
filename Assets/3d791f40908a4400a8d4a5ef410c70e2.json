@@ -1,0 +1,16 @@
+{
+  "name": "IR_Boulder_2_Sand",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Boulders/IR_Boulder_2_Sand/IR_Boulder_2_Sand.dat",
+  "data": {
+    "GUID": "3d791f40908a4400a8d4a5ef410c70e2",
+    "Type": "Large",
+    "ID": "17364",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Cliff",
+    "Landmark_Quality": "High"
+  },
+  "translation": {
+    "Name": "Irish Boulder Sand#2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Billboard 3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Billboard 3/Billboard 3.dat",
+  "data": {
+    "GUID": "3847ab935d6d4277968f9bad71253a34",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Billboard 4"
+  }
+}

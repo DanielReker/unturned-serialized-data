@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Lifesupport_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Furniture/Kuwait_Lifesupport_1/Kuwait_Lifesupport_1.dat",
+  "data": {
+    "GUID": "d6f93f269a514cfd95eb0558eb32b403",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5399",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Lifesupport #2"
+  }
+}

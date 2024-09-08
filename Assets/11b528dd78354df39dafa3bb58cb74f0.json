@@ -1,0 +1,26 @@
+{
+  "name": "Bake_Cake",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Quests/Bake_Cake/Asset.dat",
+  "data": {
+    "GUID": "11b528dd78354df39dafa3bb58cb74f0",
+    "Type": "Quest",
+    "ID": "2038",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "471",
+    "Condition_0_Amount": "1",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Reset": "",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "25",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "5"
+  },
+  "translation": {
+    "Name": "Bake a cake!",
+    "Description": "Bill wants you to bake him a cake for his wife's birthday!",
+    "Condition_0": "Bake Cake {0}/1"
+  }
+}

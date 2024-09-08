@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Stereo_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Rio_Stereo_0/Rio_Stereo_0.dat",
+  "data": {
+    "GUID": "fa304c81a11c4f60817ebcd04f4baf56",
+    "Type": "Medium",
+    "ID": "6125",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Stereo #1"
+  }
+}

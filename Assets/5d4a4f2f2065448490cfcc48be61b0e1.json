@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Sink_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Sink_2/Metro_Sink_2.dat",
+  "data": {
+    "GUID": "5d4a4f2f2065448490cfcc48be61b0e1",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57242",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Sink #3"
+  }
+}

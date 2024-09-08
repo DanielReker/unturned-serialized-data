@@ -1,0 +1,36 @@
+{
+  "name": "PS_Sabot_Box",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Magazines/PS_Sabot_Box/PS_Sabot_Box.dat",
+  "data": {
+    "GUID": "f0f357dc037d4c43a8bd9ead7517180d",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "ID": "60022",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.23",
+    "Amount": "250",
+    "Count_Min": "11",
+    "Count_Max": "33",
+    "Calibers": "1",
+    "Caliber_0": "60022",
+    "Tracer": "59040",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Searchable": "False",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "58999",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Tool": "58999",
+    "Blueprint_0_Tool_Critical": "",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "60022",
+    "Blueprint_1_Build": "30"
+  },
+  "translation": {
+    "Name": "Sabot Box",
+    "Description": "Drum designed to fit 250 rounds of sub-caliber sabot ammunition. Compatible with <color=#c832fa>Sabot MG</color>."
+  }
+}

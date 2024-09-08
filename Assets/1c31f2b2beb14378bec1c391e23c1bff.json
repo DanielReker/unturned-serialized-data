@@ -1,0 +1,12 @@
+{
+  "name": "CA_AC_Piece_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Props/CA_AC_Piece_4/CA_AC_Piece_4.dat",
+  "data": {
+    "GUID": "1c31f2b2beb14378bec1c391e23c1bff",
+    "Type": "Medium",
+    "ID": "4591"
+  },
+  "translation": {
+    "Name": "California AC Piece #5"
+  }
+}

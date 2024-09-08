@@ -1,0 +1,25 @@
+{
+  "name": "Buak_Maple_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Trees/Buak_Maple_03/Buak_Maple_03.dat",
+  "data": {
+    "GUID": "dd4610ecd42a4227ae16aa5482b1653e",
+    "Type": "Resource",
+    "ID": "25360",
+    "Health": "1000",
+    "Radius": "5",
+    "Scale": "0.3",
+    "Explosion": "25306",
+    "Reward_ID": "25301",
+    "Reward_XP": "2",
+    "Reward_Min": "5",
+    "Reward_Max": "8",
+    "Reset": "750",
+    "Auto_Skybox": "",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak Maple_03",
+    "Description": "The forest reeks of sulphur."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Speaker_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Speaker_4/PS_Speaker_4.dat",
+  "data": {
+    "GUID": "ebfd58f2a5634b5299848717c78441be",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59256"
+  },
+  "translation": {
+    "Name": "PS Speaker #5 [Armory]"
+  }
+}

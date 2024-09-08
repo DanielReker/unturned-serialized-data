@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Planter_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Parks/Kuwait_Planter_1/Kuwait_Planter_1.dat",
+  "data": {
+    "GUID": "534686881bfe407497962dd163fe9bf7",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5173",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Plot #2"
+  }
+}

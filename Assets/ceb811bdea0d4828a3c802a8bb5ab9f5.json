@@ -1,0 +1,41 @@
+{
+  "name": "Seed_Grapes",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Tools/Seed_Grapes/Seed_Grapes.dat",
+  "data": {
+    "GUID": "ceb811bdea0d4828a3c802a8bb5ab9f5",
+    "Type": "Farm",
+    "Rarity": "Common",
+    "Useable": "Barricade",
+    "Build": "Farm",
+    "ID": "25428",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.16",
+    "Use_Auto_Icon_Measurements": "False",
+    "Has_Clip_Prefab": "false",
+    "Unrepairable": "",
+    "Salvage_Duration_Multiplier": ".3",
+    "Bypass_Pickup_Ownership": "True",
+    "Health": "4",
+    "Range": "4",
+    "Radius": "0.33",
+    "Offset": "0.75",
+    "Growth": "12000",
+    "Grow_SpawnTable": "33fd1d814af2477ca4b0befaac1edefa",
+    "Explosion": "25359",
+    "Vulnerable": "",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "25766",
+    "Blueprint_0_Build": "25530",
+    "Blueprint_1_Type": "Utilities",
+    "Blueprint_1_Supply_0_ID": "25767",
+    "Blueprint_1_Build": "25530",
+    "PlacementAudioClip": "Sounds/Placement/FoliagePlacement.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Grape Seed",
+    "Description": "Ready for planting and growing."
+  }
+}

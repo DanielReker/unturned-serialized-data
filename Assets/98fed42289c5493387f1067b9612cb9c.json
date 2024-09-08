@@ -1,0 +1,16 @@
+{
+  "name": "Minotaur_Horns",
+  "path": "Bundles/Items/Masks/Minotaur_Horns/Minotaur_Horns.dat",
+  "data": {
+    "GUID": "98fed42289c5493387f1067b9612cb9c",
+    "Type": "Mask",
+    "ID": "832",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.55",
+    "Hair": "",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

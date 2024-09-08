@@ -1,0 +1,19 @@
+{
+  "name": "Kuwait_Flag_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Parks/Kuwait_Flag_2/Kuwait_Flag_2.dat",
+  "data": {
+    "GUID": "c3c5d40c2ce54dda9b772ed1eaffd55f",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5021",
+    "Snowshoe": "",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "100",
+    "Interactability_Effect": "72",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Flag #3"
+  }
+}

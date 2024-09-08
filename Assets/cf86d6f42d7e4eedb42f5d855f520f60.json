@@ -1,0 +1,13 @@
+{
+  "name": "Police_Low_Guns",
+  "path": "Bundles/Spawns/Items/Police_Low_Guns/Police_Low_Guns.dat",
+  "data": {
+    "GUID": "cf86d6f42d7e4eedb42f5d855f520f60",
+    "Type": "Spawn",
+    "ID": "638",
+    "Tables": "1",
+    "Table_0_Asset_ID": "1039",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

@@ -1,0 +1,29 @@
+{
+  "name": "IFR_Balaclava_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Items/Masks/IFR_Balaclava_2/IFR_Balaclava_2.dat",
+  "data": {
+    "GUID": "b1e78e7b0788400d863a721c9a534c0a",
+    "Type": "Mask",
+    "Useable": "Clothing",
+    "ID": "16237",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Armor": "0.95",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "16237",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "66",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "IFR Balaclava",
+    "Description": "Sneakybeaky ninja hood."
+  }
+}

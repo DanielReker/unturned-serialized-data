@@ -1,0 +1,21 @@
+{
+  "name": "Crew_Michael",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/Coalition/Filler/Crew_Michael/Asset.dat",
+  "data": {
+    "GUID": "f7848541d5b64af3b3ac72d4c1075382",
+    "Type": "NPC",
+    "ID": "15042",
+    "Shirt": "1421",
+    "Pants": "1419",
+    "Glasses": "727",
+    "Face": "8",
+    "Hair": "10",
+    "Color_Hair": "#996726",
+    "Color_Skin": "#f4e9d2",
+    "Dialogue": "15189"
+  },
+  "translation": {
+    "Name": "Coalition Crew Michael",
+    "Character": "<color=rare>Lieutenant Michael</color>"
+  }
+}

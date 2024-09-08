@@ -1,0 +1,13 @@
+{
+  "name": "GreeceSewerQuad",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreeceSewerQuad/GreeceSewerQuad.dat",
+  "data": {
+    "GUID": "7f2dca183de649118845f78fdf6d1674",
+    "Type": "Large",
+    "ID": "6349",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Sewer Quad"
+  }
+}

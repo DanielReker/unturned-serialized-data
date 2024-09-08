@@ -1,0 +1,20 @@
+{
+  "name": "CA_Register_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Props/CA_Register_0/CA_Register_0.dat",
+  "data": {
+    "GUID": "1f1158e591a6470589b5dd85cf5dfd68",
+    "Type": "Medium",
+    "ID": "4627",
+    "Interactability": "Dropper",
+    "Interactability_Delay": "60",
+    "Interactability_Hint": "Use",
+    "Interactability_Reward_ID": "519",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "60",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "81"
+  },
+  "translation": {
+    "Name": "California Register #1"
+  }
+}

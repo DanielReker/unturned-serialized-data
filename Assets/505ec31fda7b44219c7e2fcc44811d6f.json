@@ -1,0 +1,15 @@
+{
+  "name": "Easter_Rat_Cave_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Scenery/Easter_Rat_Cave_0/Easter_Rat_Cave_0.dat",
+  "data": {
+    "GUID": "505ec31fda7b44219c7e2fcc44811d6f",
+    "Type": "Large",
+    "ID": "6894",
+    "Bypass_ID_Limit": "",
+    "Collision_Important": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Rat Cave #1"
+  }
+}

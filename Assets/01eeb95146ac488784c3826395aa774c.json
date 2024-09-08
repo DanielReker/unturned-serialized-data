@@ -1,0 +1,14 @@
+{
+  "name": "Camile_Save_The_Research_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Nulirane Scientist Camile/Camile_Save_The_Research_Completed/Asset.dat",
+  "data": {
+    "GUID": "01eeb95146ac488784c3826395aa774c",
+    "Type": "Dialogue",
+    "ID": "9084",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Great, I'm glad the research is safe."
+  }
+}

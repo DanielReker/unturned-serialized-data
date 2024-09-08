@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Glass_Factory_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Building_Details/Buak_Glass_Factory_02/Buak_Glass_Factory_02.dat",
+  "data": {
+    "GUID": "6fb0b5128f9a4d6ba4ccaa89266b50d7",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Glass_Factory_02"
+  }
+}

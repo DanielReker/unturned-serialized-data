@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Dock_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Props/Buak_Dock_04/Buak_Dock_04.dat",
+  "data": {
+    "GUID": "852706c0624a491fab3ebadaebf68c4f",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Dock_04"
+  }
+}

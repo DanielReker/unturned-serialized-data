@@ -1,0 +1,13 @@
+{
+  "name": "Low_Special_Low",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Low_Special_Low/Low_Special_Low.dat",
+  "data": {
+    "GUID": "643c74bf575d459aa12057acd21e1bda",
+    "Type": "Spawn",
+    "ID": "5067",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5066",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

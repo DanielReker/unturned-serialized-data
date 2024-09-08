@@ -1,0 +1,17 @@
+{
+  "name": "Milita_France_Melee",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/Milita_France_Melee/Milita_France_Melee.dat",
+  "data": {
+    "GUID": "56fdd5ec3d9b4ffda328545a7705ce66",
+    "Type": "Spawn",
+    "ID": "2155",
+    "Tables": "3",
+    "Table_0_Asset_ID": "140",
+    "Table_0_Weight": "45",
+    "Table_1_Asset_ID": "1035",
+    "Table_1_Weight": "45",
+    "Table_2_Asset_ID": "1036",
+    "Table_2_Weight": "10"
+  },
+  "translation": null
+}

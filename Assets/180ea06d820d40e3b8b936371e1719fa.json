@@ -1,0 +1,29 @@
+{
+  "name": "Bottle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Supplies/Bottle/Bottle.dat",
+  "data": {
+    "GUID": "180ea06d820d40e3b8b936371e1719fa",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "6647",
+    "Size_X": "2",
+    "Size_Y": "4",
+    "Size_Z": "0.55",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "6647",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "6695",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Output_1_ID": "6696",
+    "Blueprint_0_Output_1_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Easter Island"
+  },
+  "translation": {
+    "Name": "Bottle",
+    "Description": "Clear as a diamond!"
+  }
+}

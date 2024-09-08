@@ -1,0 +1,21 @@
+{
+  "name": "Frost_Tank_03",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Escape/Frost_Tank_03/Frost_Tank_03.dat",
+  "data": {
+    "GUID": "8f85cf5bfded45e182f4cadc1efad2d4",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Exclude_From_Level_Batching": "True",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "36400",
+    "Condition_0_Value": "2",
+    "Condition_0_Logic": "Equal",
+    "Master_Bundle_Override": "frost.masterbundle",
+    "Bundle_Override_Path": "/Objects/Safezone/Frost_Tank_03"
+  },
+  "translation": {
+    "Name": "Frost Tank #4 [Audio #2]"
+  }
+}

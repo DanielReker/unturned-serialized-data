@@ -1,0 +1,13 @@
+{
+  "name": "Washington Arena_Arena_Ghillie_Bottom",
+  "path": "Bundles/Spawns/Items/Washington Arena_Arena_Ghillie_Bottom/Washington Arena_Arena_Ghillie_Bottom.dat",
+  "data": {
+    "GUID": "3607b939237443fe9a7de2de82312055",
+    "Type": "Spawn",
+    "ID": "29",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "30",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

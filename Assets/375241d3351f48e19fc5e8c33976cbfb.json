@@ -1,0 +1,18 @@
+{
+  "name": "PS_Gun_Locker_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Gun_Locker_0/PS_Gun_Locker_0.dat",
+  "data": {
+    "GUID": "375241d3351f48e19fc5e8c33976cbfb",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59503",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "1200",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "59069",
+    "Rubble_Reward_ID": "59012"
+  },
+  "translation": {
+    "Name": "PS Gun Locker #1"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "MineralMeds",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Quests/Chapter_02/MineralMeds/Asset.dat",
+  "data": {
+    "GUID": "af7c8256adba4f57965cb0b20adcb623",
+    "Type": "Quest",
+    "ID": "24520",
+    "Conditions": "3",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "eb982fb4584f4295b039204fa521f958",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "a2cf259320d9416586be151f6510b6dc",
+    "Condition_1_Amount": "1",
+    "Condition_1_Reset": "",
+    "Condition_2_Type": "Item",
+    "Condition_2_ID": "40210873d2e646e1a2706ec3027ad354",
+    "Condition_2_Amount": "1",
+    "Condition_2_Reset": "",
+    "Rewards": "3",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "20",
+    "Reward_2_Type": "Item",
+    "Reward_2_ID": "8219faee72d8439eb8ce7943ba6a5443",
+    "Reward_2_Amount": "0"
+  },
+  "translation": {
+    "Name": "Mineral Meds (Optional Quest)",
+    "Description": "Bring James some minerals from the mines so he can make medical supplies.",
+    "Condition_0": "Collect {0}/1 {2}",
+    "Condition_1": "Collect {0}/1 {2}",
+    "Condition_2": "Collect {0}/1 {2}",
+    "Reward_2": "<color=legendary>James' Mineral Vendor</color>"
+  }
+}

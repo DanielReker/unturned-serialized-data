@@ -1,0 +1,20 @@
+{
+  "name": "Survivor Alicia",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Survivors/Survivor Alicia/Asset.dat",
+  "data": {
+    "GUID": "bf86e3565121435f95c58b1f12cf7814",
+    "Type": "NPC",
+    "ID": "9012",
+    "Shirt": "165",
+    "Pants": "2",
+    "Face": "25",
+    "Hair": "16",
+    "Color_Skin": "#ffe0c1",
+    "Color_Hair": "#685038",
+    "Dialogue": "9201"
+  },
+  "translation": {
+    "Name": "NAM Survivor Alicia",
+    "Character": "Alicia"
+  }
+}

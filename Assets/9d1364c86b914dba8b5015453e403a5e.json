@@ -1,0 +1,12 @@
+{
+  "name": "ForLease",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/ForLease/ForLease.dat",
+  "data": {
+    "GUID": "9d1364c86b914dba8b5015453e403a5e",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Lease Sign"
+  }
+}

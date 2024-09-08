@@ -1,0 +1,27 @@
+{
+  "name": "Dye_Purple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Dye_Purple/Dye_Purple.dat",
+  "data": {
+    "GUID": "31393c2cc06e4739899a63d6d2089b84",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "25367",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.16",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "25363",
+    "Blueprint_0_Supply_1_ID": "25368",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "25367",
+    "Blueprint_0_Output_0_Amount": "2",
+    "Blueprint_0_Build": "25536"
+  },
+  "translation": {
+    "Name": "Purple Dye",
+    "Description": "Dye for dying clothes, maybe even the ones you die in!"
+  }
+}

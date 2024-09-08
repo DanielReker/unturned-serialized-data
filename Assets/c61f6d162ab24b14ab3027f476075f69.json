@@ -1,0 +1,16 @@
+{
+  "name": "Farmer_Expansion_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Farmer_Military/Farmer_Expansion_Accepted/Asset.dat",
+  "data": {
+    "GUID": "c61f6d162ab24b14ab3027f476075f69",
+    "Type": "Dialogue",
+    "ID": "3517",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=rare>Botanist Fauna</color> could probably do with a break, why don't you see if you can help her expand our farming plots.",
+    "Response_0": "I'll get on it."
+  }
+}

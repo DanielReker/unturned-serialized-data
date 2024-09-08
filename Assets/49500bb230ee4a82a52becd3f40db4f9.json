@@ -1,0 +1,16 @@
+{
+  "name": "Civilian Liam_End Reponse",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Civilian Liam/Civilian Liam_End Reponse/Asset.dat",
+  "data": {
+    "GUID": "49500bb230ee4a82a52becd3f40db4f9",
+    "Type": "Dialogue",
+    "ID": "9025",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Be careful out there. Hopefully we can talk again.",
+    "Response_0": "Yeah you too."
+  }
+}

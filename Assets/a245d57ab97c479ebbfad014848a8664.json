@@ -1,0 +1,17 @@
+{
+  "name": "Kuwait_Glass_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Business/Kuwait_Glass_1/Kuwait_Glass_1.dat",
+  "data": {
+    "GUID": "a245d57ab97c479ebbfad014848a8664",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5999",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "60",
+    "Interactability_Health": "1",
+    "Interactability_Effect": "64"
+  },
+  "translation": {
+    "Name": "Kuwait Glass #2"
+  }
+}

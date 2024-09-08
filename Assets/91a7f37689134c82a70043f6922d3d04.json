@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Arcade_Machine_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Arcade_Machine_00/Buak_Arcade_Machine_00.dat",
+  "data": {
+    "GUID": "91a7f37689134c82a70043f6922d3d04",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Arcade_Machine_00"
+  }
+}

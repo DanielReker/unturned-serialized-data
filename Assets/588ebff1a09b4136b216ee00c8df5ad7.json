@@ -1,0 +1,14 @@
+{
+  "name": "Snowman_Top",
+  "path": "Bundles/Items/Shirts/Snowman_Top/Snowman_Top.dat",
+  "data": {
+    "GUID": "588ebff1a09b4136b216ee00c8df5ad7",
+    "Type": "Shirt",
+    "ID": "592",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Pro": ""
+  },
+  "translation": null
+}

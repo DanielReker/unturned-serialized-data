@@ -1,0 +1,14 @@
+{
+  "name": "FGlass_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/FGlass_0/FGlass_0.dat",
+  "data": {
+    "GUID": "8fb9cf8df5be47a7b73054aa2465fbcb",
+    "Type": "Large",
+    "ID": "45738",
+    "Asset_Bundle_Version": "2",
+    "Use_Water_Height_Transparent_Sort": ""
+  },
+  "translation": {
+    "Name": "Facility Glass #1"
+  }
+}

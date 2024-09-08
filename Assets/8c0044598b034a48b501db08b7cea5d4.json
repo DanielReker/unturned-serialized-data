@@ -1,0 +1,12 @@
+{
+  "name": "Rhinoceros_Pine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Assets/VehicleRedirector/Rhinoceros_Pine.asset",
+  "data": {
+    "GUID": "8c0044598b034a48b501db08b7cea5d4",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "6618",
+    "TargetVehicle": "c6fc8104c85e4e268def86e6712da8c2",
+    "LoadPaintColor": "#45563A"
+  },
+  "translation": null
+}

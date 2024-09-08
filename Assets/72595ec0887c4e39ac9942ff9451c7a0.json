@@ -1,0 +1,30 @@
+{
+  "name": "PBS_Eklund",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Visitors/Characters/PBS_Eklund/Asset.dat",
+  "data": {
+    "GUID": "72595ec0887c4e39ac9942ff9451c7a0",
+    "Type": "NPC",
+    "ID": "52660",
+    "Shirt": "7d19924f4d0d47c1996b0096acc357c0",
+    "Pants": "1f55f6a68e6c404abdc8069559a62075",
+    "Vest": "058be41124b94e8ab89dcf29c7777da3",
+    "Mask": "a48d5362346d406faa6245dbe0ba3eac",
+    "Glasses": "113f8b84f86f4ee597064150807fb68a",
+    "Face": "11",
+    "Hair": "0",
+    "Beard": "2",
+    "Color_Skin": "#F4E6D2",
+    "Color_Hair": "#373737",
+    "Dialogue": "52661",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Date_Counter",
+    "Condition_0_Value": "7",
+    "Condition_0_Divisor": "13",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS NPC Visitor Eklund",
+    "Character": "Mr. Eklund"
+  }
+}

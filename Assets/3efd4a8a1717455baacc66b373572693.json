@@ -1,0 +1,18 @@
+{
+  "name": "hawaiigrass_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/hawaiigrass_1/hawaiigrass_1.dat",
+  "data": {
+    "GUID": "3efd4a8a1717455baacc66b373572693",
+    "Type": "Large",
+    "ID": "666",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Collision_Important": "",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Hawaii Grass #2"
+  }
+}

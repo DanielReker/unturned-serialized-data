@@ -1,0 +1,13 @@
+{
+  "name": "Yukon_Post",
+  "path": "Bundles/Spawns/Items/Yukon_Post/Yukon_Post.dat",
+  "data": {
+    "GUID": "6c30df1ffc9341758f4d59837d358808",
+    "Type": "Spawn",
+    "ID": "465",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "278",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

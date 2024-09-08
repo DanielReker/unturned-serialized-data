@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Trophy_Glass",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Furniture/Buak_Trophy_Glass/Buak_Trophy_Glass.dat",
+  "data": {
+    "GUID": "6773df17dca74cc183cbaeb5194f9037",
+    "Type": "Medium",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Trophy_Glass"
+  }
+}

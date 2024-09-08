@@ -1,0 +1,13 @@
+{
+  "name": "BE_Bejeweled_Necklace",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Cosmetics/BE_Bejeweled_Necklace/BE_Bejeweled_Necklace.dat",
+  "data": {
+    "GUID": "37e4eccd0bb34fc281f8d59a3de9a996",
+    "Type": "Vest",
+    "ID": "1550",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.35"
+  },
+  "translation": null
+}

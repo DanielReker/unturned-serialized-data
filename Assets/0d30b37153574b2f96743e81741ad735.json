@@ -1,0 +1,12 @@
+{
+  "name": "IR_Asylum_Tunnel_Line",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/City/IR_Asylum_Tunnel_Line/IR_Asylum_Tunnel_Line.dat",
+  "data": {
+    "GUID": "0d30b37153574b2f96743e81741ad735",
+    "Type": "Large",
+    "ID": "17112"
+  },
+  "translation": {
+    "Name": "Irish Asylum Tunnel Line# 1"
+  }
+}

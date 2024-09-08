@@ -1,0 +1,13 @@
+{
+  "name": "Industrial_Machine_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Industrial_Machine_0/Industrial_Machine_0.dat",
+  "data": {
+    "GUID": "6433b2fbc657482d9d8f980b2523f616",
+    "Type": "Large",
+    "ID": "45705",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Industrial Machine #1"
+  }
+}

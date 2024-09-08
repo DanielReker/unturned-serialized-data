@@ -1,0 +1,12 @@
+{
+  "name": "CA_Guesthouse_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Guesthouse_0/CA_Guesthouse_0.dat",
+  "data": {
+    "GUID": "47bb36f5eb6d4e408b68e3ce225f9e62",
+    "Type": "Large",
+    "ID": "4353"
+  },
+  "translation": {
+    "Name": "California Guest House #1"
+  }
+}

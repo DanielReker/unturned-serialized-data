@@ -1,0 +1,32 @@
+{
+  "name": "Militia_Magazine",
+  "path": "Bundles/Spawns/Items/Militia_Magazine/Militia_Magazine.dat",
+  "data": {
+    "GUID": "3e8c961dc14c4451abc7cf07e66bd0e6",
+    "Type": "Spawn",
+    "ID": "231",
+    "Tables": [
+      {
+        "LegacyAssetId": "123",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "1040",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "1042",
+        "Weight": "10"
+      },
+      {
+        "Guid": "78cb493018b8451e8ea7664434483e53",
+        "Weight": "5"
+      },
+      {
+        "Guid": "29e816ce506b4763a5ff6f29a514ceb7",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

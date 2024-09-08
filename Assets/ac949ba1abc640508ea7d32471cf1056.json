@@ -1,0 +1,26 @@
+{
+  "name": "Kuwait_Radio_Power_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Furniture/Kuwait_Radio_Power_0/Kuwait_Radio_Power_0.dat",
+  "data": {
+    "GUID": "ac949ba1abc640508ea7d32471cf1056",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5316",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "5325",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "5299",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "5325",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Kuwait Radio Button #1",
+    "Interact": "Turn Off Radio [{0}]"
+  }
+}

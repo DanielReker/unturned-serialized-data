@@ -1,0 +1,409 @@
+[
+  {
+    "name": "Police_Low",
+    "tableID": 6612,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.392156869,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Police_High",
+    "tableID": 6615,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Vermillin_Low",
+    "tableID": 6600,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.270588249,
+      "b": 0.23137255
+    }
+  },
+  {
+    "name": "Vermillin_High",
+    "tableID": 6609,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0784313753,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Fire",
+    "tableID": 558,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Medic",
+    "tableID": 559,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Food",
+    "tableID": 561,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.392156869,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Gas",
+    "tableID": 6671,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.6862745,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Construction",
+    "tableID": 563,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.490196079,
+      "b": 0.09803922
+    }
+  },
+  {
+    "name": "Camp",
+    "tableID": 6623,
+    "tiers": [],
+    "color": {
+      "r": 0.196078435,
+      "g": 0.392156869,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Prison",
+    "tableID": 565,
+    "tiers": [],
+    "color": {
+      "r": 0.5882353,
+      "g": 0.5882353,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Chef",
+    "tableID": 566,
+    "tiers": [],
+    "color": {
+      "r": 0.294117659,
+      "g": 0.09803922,
+      "b": 0.294117659
+    }
+  },
+  {
+    "name": "Botanist",
+    "tableID": 567,
+    "tiers": [],
+    "color": {
+      "r": 0.196078435,
+      "g": 0.392156869,
+      "b": 0.196078435
+    }
+  },
+  {
+    "name": "Farm",
+    "tableID": 568,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.196078435,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Guns_Easter",
+    "tableID": 571,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.392156869,
+      "b": 0.392156869
+    }
+  },
+  {
+    "name": "Kitchen",
+    "tableID": 573,
+    "tiers": [],
+    "color": {
+      "r": 0.196078435,
+      "g": 0.294117659,
+      "b": 0.392156869
+    }
+  },
+  {
+    "name": "Post",
+    "tableID": 574,
+    "tiers": [],
+    "color": {
+      "r": 0.6862745,
+      "g": 0.392156869,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Civilian_Easter",
+    "tableID": 6654,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Airport",
+    "tableID": 581,
+    "tiers": [],
+    "color": {
+      "r": 0.392156869,
+      "g": 0.0,
+      "b": 0.784313738
+    }
+  },
+  {
+    "name": "Mine",
+    "tableID": 583,
+    "tiers": [],
+    "color": {
+      "r": 1.0,
+      "g": 0.490196079,
+      "b": 0.784313738
+    }
+  },
+  {
+    "name": "Beach",
+    "tableID": 6657,
+    "tiers": [],
+    "color": {
+      "r": 0.784313738,
+      "g": 0.294117659,
+      "b": 0.196078435
+    }
+  },
+  {
+    "name": "Cloth",
+    "tableID": 262,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.490196079,
+      "b": 0.294117659
+    }
+  },
+  {
+    "name": "Fish",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Epic",
+        "chance": 0.146666646,
+        "table": [
+          {
+            "item": 1434
+          },
+          {
+            "item": 6630
+          },
+          {
+            "item": 6632
+          },
+          {
+            "item": 6634
+          }
+        ]
+      },
+      {
+        "name": "Rare",
+        "chance": 0.446666628,
+        "table": [
+          {
+            "item": 505
+          },
+          {
+            "item": 1351
+          }
+        ]
+      },
+      {
+        "name": "Common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1347
+          },
+          {
+            "item": 504
+          },
+          {
+            "item": 1349
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.266666681,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Vermillin_Hazard",
+    "tableID": 6617,
+    "tiers": [],
+    "color": {
+      "r": 0.431372553,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Burger",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": " bergour",
+        "chance": 0.199999973,
+        "table": [
+          {
+            "item": 6637
+          },
+          {
+            "item": 6638
+          }
+        ]
+      },
+      {
+        "name": "borger gibs",
+        "chance": 0.99999994,
+        "table": [
+          {
+            "item": 338
+          },
+          {
+            "item": 340
+          },
+          {
+            "item": 464
+          },
+          {
+            "item": 6636
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.31764707,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Coalition_Low",
+    "tableID": 722,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.196078435,
+      "b": 0.423529416
+    }
+  },
+  {
+    "name": "Coalition_High",
+    "tableID": 723,
+    "tiers": [],
+    "color": {
+      "r": 0.0,
+      "g": 0.3137255,
+      "b": 0.6666667
+    }
+  },
+  {
+    "name": "Zombie_Water",
+    "tableID": 6642,
+    "tiers": [],
+    "color": {
+      "r": 0.203921571,
+      "g": 0.309803933,
+      "b": 0.619607866
+    }
+  },
+  {
+    "name": "Pirate_Low",
+    "tableID": 6647,
+    "tiers": [],
+    "color": {
+      "r": 0.627451,
+      "g": 0.13333334,
+      "b": 0.117647059
+    }
+  },
+  {
+    "name": "Tidepools",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Urchin",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 6679
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.219607845,
+      "g": 0.0,
+      "b": 0.498039216
+    }
+  },
+  {
+    "name": "Pirate_High",
+    "tableID": 6648,
+    "tiers": [],
+    "color": {
+      "r": 0.498039216,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "\"Garbage\"",
+    "tableID": 6660,
+    "tiers": [],
+    "color": {
+      "r": 0.192156866,
+      "g": 0.223529413,
+      "b": 0.266666681
+    }
+  }
+]

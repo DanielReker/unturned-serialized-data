@@ -1,0 +1,16 @@
+{
+  "name": "Metro_Station_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Station_0/Metro_Station_0.dat",
+  "data": {
+    "GUID": "75525df959e94c56813e8904aa3806a3",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57103",
+    "Collision_Important": "",
+    "LOD": "Area",
+    "LOD_Bias": "2"
+  },
+  "translation": {
+    "Name": "Metro Station #1"
+  }
+}

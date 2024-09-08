@@ -1,0 +1,15 @@
+{
+  "name": "Leader_Officer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IFR/Leader_Holiday/Leader_Officer/Asset.dat",
+  "data": {
+    "GUID": "36f77ee36736454dbd0d4b1ce6b34980",
+    "Type": "Dialogue",
+    "ID": "15122",
+    "Messages": "1",
+    "Message_0_Pages": "2"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you for your service, <name_char>. We're happy that you have worked with us to achieve a unified Ireland, even if it isn't that way yet.",
+    "Message_0_Page_1": "Since you are a <color=rare>Officer</color> now, we believe you're up to the task. Report to <color=rare>Officer Callahan</color> for your assignment."
+  }
+}

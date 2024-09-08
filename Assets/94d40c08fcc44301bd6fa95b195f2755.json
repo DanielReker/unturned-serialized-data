@@ -1,0 +1,19 @@
+{
+  "name": "WM_BP_LegSupport_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/WM_BP_LegSupport_2/WM_BP_LegSupport_2.dat",
+  "data": {
+    "GUID": "94d40c08fcc44301bd6fa95b195f2755",
+    "Type": "Small",
+    "ID": "3814",
+    "Asset_Bundle_Version": "2",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "3271",
+    "Condition_0_Value": "1",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "WM Legs #3 Blueprint",
+    "Interact": "Build[{0}]"
+  }
+}

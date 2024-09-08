@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Grocer_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Grocer_1/Rio_Grocer_1.dat",
+  "data": {
+    "GUID": "6957baa1dda243409495d3a5ad2b9dd6",
+    "Type": "Large",
+    "ID": "6019",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Grocer #1"
+  }
+}

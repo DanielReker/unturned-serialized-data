@@ -1,0 +1,12 @@
+{
+  "name": "Fracking_Pipe_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Fracking_Pipe_1/Fracking_Pipe_1.dat",
+  "data": {
+    "GUID": "993a1df4da674a56af22b6f98e4aeaa2",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Fracking Pipe 2"
+  }
+}

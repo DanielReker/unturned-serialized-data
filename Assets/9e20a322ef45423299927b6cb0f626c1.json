@@ -1,0 +1,34 @@
+{
+  "name": "Metro_Roof_Planter",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Structures/Metal/Metro_Roof_Planter/Metro_Roof_Planter.dat",
+  "data": {
+    "GUID": "9e20a322ef45423299927b6cb0f626c1",
+    "Type": "Structure",
+    "Has_Clip_Prefab": "false",
+    "Rarity": "Epic",
+    "Useable": "Structure",
+    "Construct": "Roof",
+    "ID": "57625",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.425",
+    "Health": "1300",
+    "Range": "8",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "67",
+    "Blueprint_0_Supply_0_Amount": "10",
+    "Blueprint_0_Supply_1_ID": "57187 ",
+    "Blueprint_0_Supply_1_Amount": "2",
+    "Blueprint_0_Level": "2",
+    "Blueprint_0_Skill": "Craft",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Elver"
+  },
+  "translation": {
+    "Name": "Metal Roof Planter",
+    "Description": "<color=#64c819>1300</color> Health"
+  }
+}

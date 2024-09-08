@@ -1,0 +1,34 @@
+{
+  "name": "Whatztha_Fuzz_EX",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Food/Whatztha_Fuzz_EX/Whatztha_Fuzz_EX.dat",
+  "data": {
+    "GUID": "1232fbb2cad44f24b987070b6b6a6ec5",
+    "Type": "Food",
+    "Rarity": "Mythical",
+    "Useable": "Consumeable",
+    "ID": "27933",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Player_Damage": "100",
+    "Zombie_Damage": "200",
+    "Animal_Damage": "200",
+    "Barricade_Damage": "0",
+    "Structure_Damage": "0",
+    "Vehicle_Damage": "100",
+    "Resource_Damage": "2000",
+    "Object_Damage": "1000",
+    "Range": "8",
+    "Explosion": "45",
+    "Use_Auto_Icon_Measurements": "False",
+    "Left_Handed_Characters_Mirror_Equipable": "false",
+    "Quality_Min": "80",
+    "Quality_Max": "100",
+    "ConsumeAudioClip": "Sounds/Food/EatCrunchyFizzy.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Cherry Bomb Whatztha Fuzz",
+    "Description": "Sour rock candy with a fizzy sugary inside. Cherry Bomb flavor!"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Kuwait_Shark_Plushie",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Barricades/Kuwait_Shark_Plushie/Kuwait_Shark_Plushie.dat",
+  "data": {
+    "GUID": "fba01683b8e74c09868e1f6ff4192399",
+    "Type": "Barricade",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "5467",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.85",
+    "Health": "50",
+    "Range": "6",
+    "Offset": "0.01",
+    "Explosion": "28",
+    "Vulnerable": "",
+    "Salvage_Duration_Multiplier": "0.3",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supply_0_ID": "5467",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Product": "66",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Kuwait",
+    "PlacementAudioClip": "kuwait.masterbundle:Audio/Kuwait_Toy_Place.mp3",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Shark Plushie",
+    "Description": "Fished from the depths of the NORK Fish'n'Chips shop.<br><color=#BF1F1F>50 HP</color><br><color=#FF69B4>It's cute decor.</color><br>"
+  }
+}

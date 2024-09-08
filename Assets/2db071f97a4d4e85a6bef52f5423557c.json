@@ -1,0 +1,23 @@
+{
+  "name": "Guest_Shirt_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Guest_Shirt_1/Guest_Shirt_1.dat",
+  "data": {
+    "GUID": "2db071f97a4d4e85a6bef52f5423557c",
+    "Rarity": "Uncommon",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "26994",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "8",
+    "Height": "4",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Guest_Shirt_1",
+    "Description": "NPC Shirt."
+  }
+}

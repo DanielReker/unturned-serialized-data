@@ -1,0 +1,19 @@
+{
+  "name": "Rio_Computer_Note_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Medium/Rio_Computer_Note_5/Rio_Computer_Note_5.dat",
+  "data": {
+    "GUID": "81c1b9e8af324177a6d7ad201d4d8a41",
+    "Type": "Medium",
+    "ID": "7150",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Computer - Experiment #2",
+    "Interactability_Text_Line_0": "Zombie Prevention Department",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "We have discovered a few things about those powerful zombies; yet, we still don't know how a simple virus can mutate the human body like that. Such as making the salivary glands produce acid with the pH of 1, or having the sweat glands produce highly inflammable substances? How? How can a virus even change the way the body interacts with light? We need better equipment to continue with the research, nothing we have is able to analyze the virus itself, only how it changed the body of the infected."
+  }
+}

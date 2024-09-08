@@ -1,0 +1,30 @@
+{
+  "name": "Kuwait_Chocolate_Spicy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Food/Kuwait_Chocolate_Spicy/Kuwait_Chocolate_Spicy.dat",
+  "data": {
+    "GUID": "4dec529c99204876868ca479a9df5cc7",
+    "Type": "Food",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "5285",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.4",
+    "Food": "20",
+    "Health": "10",
+    "Warmth": "50",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "5220",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Supply_1_ID": "5282",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatSquishy.mp3"
+  },
+  "translation": {
+    "Name": "Spiced Chocolate",
+    "Description": "What doesn't kill you makes you stronger.  <br><color=#BF1F1F>+10 HP</color><br><color=#AB8019>+20 Food</color>"
+  }
+}

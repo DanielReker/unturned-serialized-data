@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Medical_Handbook",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/BarricadeDestroy/Drop_Medical_Handbook/Drop_Medical_Handbook.dat",
+  "data": {
+    "GUID": "28d34a28a09348dd91fe3f27ce0b821f",
+    "Type": "Spawn",
+    "ID": "51317",
+    "Tables": [
+      {
+        "Guid": "d4a36be24c28417f8e16fc5244c48d65",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

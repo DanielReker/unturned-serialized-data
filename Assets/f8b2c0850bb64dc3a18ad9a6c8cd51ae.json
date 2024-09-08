@@ -1,0 +1,12 @@
+{
+  "name": "IR_Wind_Turbine_Base_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Wind_Turbine_Base_1/IR_Wind_Turbine_Base_1.dat",
+  "data": {
+    "GUID": "f8b2c0850bb64dc3a18ad9a6c8cd51ae",
+    "Type": "Large",
+    "ID": "17116"
+  },
+  "translation": {
+    "Name": "Irish Wind Turbine Base# 1"
+  }
+}

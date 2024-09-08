@@ -1,0 +1,13 @@
+{
+  "name": "PS_TV_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_TV_1/PS_TV_1.dat",
+  "data": {
+    "GUID": "26fa6ee3bfa443e68985a1969d3cdf6a",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59154"
+  },
+  "translation": {
+    "Name": "PS Television #2"
+  }
+}

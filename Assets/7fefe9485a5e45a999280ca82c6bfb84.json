@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Barn_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Buildings/Kuwait_Barn_1/Kuwait_Barn_1.dat",
+  "data": {
+    "GUID": "7fefe9485a5e45a999280ca82c6bfb84",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5179",
+    "LOD": "Area",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Barn #2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Frost_Couch_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Furniture/Frost_Couch_01/Frost_Couch_01.dat",
+  "data": {
+    "GUID": "93e987238ff84580bb00fe9aa3437458",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Material_Palette": "7763cfc4c8104182967e0f85a871c795"
+  },
+  "translation": {
+    "Name": "Frost Couch #2"
+  }
+}

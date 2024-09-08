@@ -1,0 +1,15 @@
+{
+  "name": "Bamboo",
+  "path": "Bundles/Skins/Baton/Bamboo/Bamboo.dat",
+  "data": {
+    "GUID": "1e13039f474c4d11945c1047927b72ec",
+    "Type": "Skin",
+    "ID": "50124",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

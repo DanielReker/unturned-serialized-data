@@ -1,0 +1,22 @@
+{
+  "name": "Easter_Note_Chasm_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Small/Notes/Easter_Note_Chasm_0/Easter_Note_Chasm_0.dat",
+  "data": {
+    "GUID": "02bebe9d5a8542d680c57b12b4d6c419",
+    "Type": "Small",
+    "ID": "6840",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Easter Note - Chasm #1",
+    "Interactability_Text_Line_0": "Log 17/5/17 - Research Outpost: Alpha",
+    "Interactability_Text_Line_1": "------",
+    "Interactability_Text_Line_2": "We’ve recently received orders to start construction of a bunker in the recently dubbed “Giant Chasm”. An odd request especially due to the fact that it’s an active lava and thermal zone, but orders are orders."
+  }
+}

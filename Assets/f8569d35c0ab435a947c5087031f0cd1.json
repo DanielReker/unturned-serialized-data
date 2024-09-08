@@ -1,0 +1,13 @@
+{
+  "name": "Aqueduct_Line_Cap",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/Aqueduct/Aqueduct_Line_Cap/Aqueduct_Line_Cap.dat",
+  "data": {
+    "GUID": "f8569d35c0ab435a947c5087031f0cd1",
+    "Type": "Large",
+    "ID": "35087",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Aqueduct Line Cap #1"
+  }
+}

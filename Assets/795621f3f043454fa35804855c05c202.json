@@ -1,0 +1,13 @@
+{
+  "name": "Open_Tent",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Open_Tent/Open_Tent.dat",
+  "data": {
+    "GUID": "795621f3f043454fa35804855c05c202",
+    "Type": "Large",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Open Tent"
+  }
+}

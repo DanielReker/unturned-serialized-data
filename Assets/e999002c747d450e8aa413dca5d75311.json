@@ -1,0 +1,29 @@
+{
+  "name": "PBS_Duneman",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Visitors/Characters/PBS_Duneman/Asset.dat",
+  "data": {
+    "GUID": "e999002c747d450e8aa413dca5d75311",
+    "Type": "NPC",
+    "ID": "52690",
+    "Shirt": "4b1170919d6142d189aaf8f7c49c7cbe",
+    "Pants": "d0b0fd86dadf42239365b6f58aa8ecc7",
+    "Vest": "3fc807c1f50c4544a55ca11ff12b39e5",
+    "Hat": "9547e2ecd05e41b9985f3cc724670d57",
+    "Face": "15",
+    "Hair": "17",
+    "Beard": "1",
+    "Color_Skin": "#706049",
+    "Color_Hair": "#191919",
+    "Dialogue": "52691",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Date_Counter",
+    "Condition_0_Value": "0",
+    "Condition_0_Divisor": "9",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS NPC Visitor Duneman",
+    "Character": "The Divine Duneman"
+  }
+}

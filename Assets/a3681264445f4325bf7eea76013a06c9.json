@@ -1,0 +1,33 @@
+{
+  "name": "France_Civilian_2_Question",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Civilian_2/France_Civilian_2_Question/Asset.dat",
+  "data": {
+    "GUID": "a3681264445f4325bf7eea76013a06c9",
+    "Type": "Dialogue",
+    "ID": "4184",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "4",
+    "Response_0_Dialogue": "4185",
+    "Response_1_Dialogue": "4186",
+    "Response_2_Dialogue": "4187",
+    "Response_2_Conditions": "1",
+    "Response_2_Condition_0_Type": "Flag_Bool",
+    "Response_2_Condition_0_ID": "4188",
+    "Response_2_Condition_0_Value": "False",
+    "Response_2_Condition_0_Logic": "Equal",
+    "Response_2_Condition_0_Allow_Unset": "",
+    "Response_2_Rewards": "1",
+    "Response_2_Reward_0_Type": "Flag_Bool",
+    "Response_2_Reward_0_ID": "4188",
+    "Response_2_Reward_0_Value": "True",
+    "Response_3_Dialogue": "4183"
+  },
+  "translation": {
+    "Message_0_Page_0": "What is it?",
+    "Response_0": "Who are you?",
+    "Response_1": "Anything interesting going on around here?",
+    "Response_2": "Need any help?",
+    "Response_3": "Nevermind."
+  }
+}

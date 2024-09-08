@@ -1,0 +1,12 @@
+{
+  "name": "Paintball_Red_Dynamic",
+  "path": "Bundles/Effects/Impacts/Paintball_Red_Dynamic/Paintball_Red_Dynamic.dat",
+  "data": {
+    "GUID": "563658fc7a334dbc8c0b9e322aac96b9",
+    "Type": "Effect",
+    "ID": "115",
+    "Splatter": "4",
+    "Splatters": "8"
+  },
+  "translation": null
+}

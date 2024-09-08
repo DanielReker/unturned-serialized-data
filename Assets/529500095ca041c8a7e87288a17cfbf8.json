@@ -1,0 +1,26 @@
+{
+  "name": "Boris Mansurov",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Characters/Boris Mansurov/Asset.dat",
+  "data": {
+    "GUID": "529500095ca041c8a7e87288a17cfbf8",
+    "Type": "NPC",
+    "ID": "8250",
+    "Hat": "569",
+    "Shirt": "23525",
+    "Pants": "214",
+    "Vest": "1168",
+    "Backpack": "23521",
+    "Face": "16",
+    "Hair": "1",
+    "Beard": "7",
+    "Color_Skin": "#F2E7C1",
+    "Color_Hair": "#F2B80C",
+    "Primary": "122",
+    "Equipped": "Primary",
+    "Dialogue": "8251"
+  },
+  "translation": {
+    "Name": "Boris Mansurov",
+    "Character": "<color=uncommon>Boris Mansurov</color>"
+  }
+}

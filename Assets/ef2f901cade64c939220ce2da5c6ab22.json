@@ -1,0 +1,41 @@
+{
+  "name": "NVG",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Glasses/NVG/NVG.dat",
+  "data": {
+    "GUID": "ef2f901cade64c939220ce2da5c6ab22",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "51174",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.175",
+    "Hair": "",
+    "Beard": "",
+    "Vision": "Military",
+    "Nightvision_Allowed_In_ThirdPerson": "true",
+    "Nightvision_Color": "#74bee3",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51174",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "51029",
+    "Blueprint_0_Output_0_Amount": "4",
+    "Blueprint_0_Output_1_ID": "51017",
+    "Blueprint_0_Output_1_Amount": "4",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "2",
+    "Blueprint_1_Supply_0_ID": "51029",
+    "Blueprint_1_Supply_0_Amount": "4",
+    "Blueprint_1_Supply_1_ID": "51017",
+    "Blueprint_1_Supply_1_Amount": "4",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Nightvision Goggles",
+    "Description": "Next generation vision enhancing goggles."
+  }
+}

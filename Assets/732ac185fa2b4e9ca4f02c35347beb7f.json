@@ -1,0 +1,31 @@
+{
+  "name": "Metro_Cloth_Seeds",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Buildables/Farming/Metro_Cloth_Seeds/Metro_Cloth_Seeds.dat",
+  "data": {
+    "Use_Auto_Stat_Descriptions": "False",
+    "GUID": "732ac185fa2b4e9ca4f02c35347beb7f",
+    "Type": "Farm",
+    "Useable": "Barricade",
+    "Build": "Farm",
+    "ID": "57485",
+    "Health": "1",
+    "Range": "4",
+    "Radius": "0.3",
+    "Offset": "0.5",
+    "Growth": "1200",
+    "Grow": "66",
+    "Explosion": "43",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "66",
+    "Blueprint_0_Product": "57485",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/FoliagePlacement.mp3"
+  },
+  "translation": {
+    "Name": "Cloth Seeds",
+    "Description": "<color=#64c819>20 Minute</color> Growth Time<br>Grants <color=#ffffff>Cloth</color> Upon Harvesting"
+  }
+}

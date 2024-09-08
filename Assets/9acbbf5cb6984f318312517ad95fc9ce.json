@@ -1,0 +1,13 @@
+{
+  "name": "Fence_Cobblestone_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Medium/Fences/Fence_Cobblestone/Fence_Cobblestone_3/Fence_Cobblestone_3.dat",
+  "data": {
+    "GUID": "9acbbf5cb6984f318312517ad95fc9ce",
+    "Type": "Large",
+    "ID": "35003",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Fence Cobblestone #3"
+  }
+}

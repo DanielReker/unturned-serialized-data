@@ -1,0 +1,14 @@
+{
+  "name": "Kobe_Cover_Up_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military Soldier Kobe/Kobe_Cover_Up_Completed/Asset.dat",
+  "data": {
+    "GUID": "137b81f5f4114cb0aae057cdd24e26b9",
+    "Type": "Dialogue",
+    "ID": "9055",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Remember we are in this together now!"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PBS_Ruth",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Ruth/Asset.dat",
+  "data": {
+    "GUID": "260bb5a6af384431975f05e4947565ca",
+    "Type": "NPC",
+    "ID": "52270",
+    "Shirt": "51954",
+    "Face": "20",
+    "Hair": "14",
+    "Beard": "0",
+    "Color_Skin": "#D9CAB4",
+    "Color_Hair": "#C1C1C1",
+    "Dialogue": "52271",
+    "Primary": "51287",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS NPC Ruth",
+    "Character": "Ruth"
+  }
+}

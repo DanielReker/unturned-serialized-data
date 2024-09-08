@@ -1,0 +1,14 @@
+{
+  "name": "Fence_Logs_0",
+  "path": "Bundles/Objects/Medium/Fences/Fence_Logs_0/Fence_Logs_0.dat",
+  "data": {
+    "GUID": "d1bb323578af4cc6b0c90ddfbac8a220",
+    "Type": "Large",
+    "ID": "949",
+    "Snowshoe": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Log Fence #1"
+  }
+}

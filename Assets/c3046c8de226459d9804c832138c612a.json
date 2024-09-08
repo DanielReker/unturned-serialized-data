@@ -1,0 +1,16 @@
+{
+  "name": "Mechanic_Galen_Orthrus_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Mechanic_Omega/Mechanic_Galen_Orthrus_Accepted/Asset.dat",
+  "data": {
+    "GUID": "c3046c8de226459d9804c832138c612a",
+    "Type": "Dialogue",
+    "ID": "3604",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Help me build the flagship, the <color=legendary>Orthrus</color>, and you can use it all you'd like. It'll need a truly powerful engine, scorching spotlights, shining armor, a plow to clear anything in its path, and a reliable HMG mounted in the back.",
+    "Response_0": "This puppy truly will be beautiful."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bomb_1",
+  "path": "Bundles/Effects/Explosions/Bomb_1/Bomb_1.dat",
+  "data": {
+    "GUID": "b093b3297ee743c2a971ab32751f69c2",
+    "Type": "Effect",
+    "ID": "34",
+    "CameraShake_Radius": "16",
+    "CameraShake_MagnitudeDegrees": "30",
+    "Blast": "137"
+  },
+  "translation": null
+}

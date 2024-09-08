@@ -1,0 +1,37 @@
+{
+  "name": "Chili",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Food/Chili/Chili.dat",
+  "data": {
+    "GUID": "5db9939690a6443795a7e4fe6bc106e2",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "51477",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Size2_Z": "0.35",
+    "Health": "10",
+    "Food": "60",
+    "Water": "10",
+    "ConsumeAudioClip": "core.masterbundle:Sounds/EatCrunchy.mp3",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Rewards_List_Asset",
+    "Quest_Reward_0_GUID": "dc71be756f984f68adb51b5e8cb887bc",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "51416",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Purify ▲",
+    "Action_0_Tooltip": "Purify to remove impurities.",
+    "Use_Auto_Stat_Descriptions": "false"
+  },
+  "translation": {
+    "Name": "Canned Chili",
+    "Description": "Can of hearty chili.<br><color=#bf1c1c>10 Health</color> | <color=#ab8016>60 Food</color> | <color=#3298c8>10 Water</color><br>"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PS_A_Boulders_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/Material_Palettes/PS_A_Boulders_1.asset",
+  "data": {
+    "GUID": "1021d740ecb746c497a54bbd6d10fa32",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/boulders/Sand_02.mat"
+      }
+    ]
+  },
+  "translation": null
+}

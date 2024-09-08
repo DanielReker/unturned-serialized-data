@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Titanium_Sheet",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Titanium_Sheet/Drop_Titanium_Sheet.dat",
+  "data": {
+    "GUID": "e77c01745fd446c1bbc155f7de07a389",
+    "Type": "Spawn",
+    "ID": "25485",
+    "Tables": [
+      {
+        "Guid": "6097f549a41b472690a0eb3d3138a9c9",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

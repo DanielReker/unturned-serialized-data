@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_Oil_Barrel_Drops",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Kuwait_Oil_Barrel_Drops/Kuwait_Oil_Barrel_Drops.dat",
+  "data": {
+    "GUID": "5a10aec3839547e9a13e22b8187bda7b",
+    "Type": "Spawn",
+    "ID": "7765",
+    "Tables": "1",
+    "Table_0_Asset_ID": "5208",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

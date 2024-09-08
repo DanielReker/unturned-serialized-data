@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Pollen_Info",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Pollen/PBS_Pollen_Info/Asset.dat",
+  "data": {
+    "GUID": "c8e122384cee4a30ba66a70dac6d0649",
+    "Type": "Dialogue",
+    "ID": "52142",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Well, we ain't got too much space here to grow stuff, so if you could grow some at your homestead, that'd be great."
+  }
+}

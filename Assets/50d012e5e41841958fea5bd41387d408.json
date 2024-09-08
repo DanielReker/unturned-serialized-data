@@ -1,0 +1,24 @@
+{
+  "name": "Corporal Emanuel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Guards/Corporal Emanuel/Asset.dat",
+  "data": {
+    "GUID": "50d012e5e41841958fea5bd41387d408",
+    "Type": "NPC",
+    "ID": "9019",
+    "Shirt": "8040",
+    "Pants": "8033",
+    "Hat": "8035",
+    "Face": "1",
+    "Hair": "11",
+    "Color_Skin": "#ede1d0",
+    "Color_Hair": "#aaa783",
+    "Primary": "8050",
+    "Equipped": "Primary",
+    "Pose": "Stand",
+    "Dialogue": "9202"
+  },
+  "translation": {
+    "Name": "NAM Corporal Emanuel",
+    "Character": "<color=rare>Corporal Emanuel</color>"
+  }
+}

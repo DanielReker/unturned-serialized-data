@@ -1,0 +1,19 @@
+{
+  "name": "PS_Military_Quirky_AR",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Military_Quirky_AR/PS_Military_Quirky_AR.dat",
+  "data": {
+    "GUID": "c17149bae2a14521af8d264d1061b163",
+    "Type": "Spawn",
+    "ID": "59469",
+    "Tables": "4",
+    "Table_0_Asset_ID": "59019",
+    "Table_0_Weight": "5",
+    "Table_1_Asset_ID": "59655",
+    "Table_1_Weight": "5",
+    "Table_2_Asset_ID": "59660",
+    "Table_2_Weight": "3",
+    "Table_3_Asset_ID": "59944",
+    "Table_3_Weight": "2"
+  },
+  "translation": null
+}

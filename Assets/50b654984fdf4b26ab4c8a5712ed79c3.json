@@ -1,0 +1,14 @@
+{
+  "name": "Rio_Tamer_Bird",
+  "path": "Bundles/Items/Vests/Rio_Tamer_Bird/Rio_Tamer_Bird.dat",
+  "data": {
+    "GUID": "50b654984fdf4b26ab4c8a5712ed79c3",
+    "Type": "Vest",
+    "ID": "1574",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Pro": ""
+  },
+  "translation": null
+}

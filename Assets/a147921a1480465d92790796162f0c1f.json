@@ -1,0 +1,14 @@
+{
+  "name": "Pamela_Anomaly_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Omega/Omega_Pamela/Pamela_Anomaly_Completed/Asset.dat",
+  "data": {
+    "GUID": "a147921a1480465d92790796162f0c1f",
+    "Type": "Dialogue",
+    "ID": "3375",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Just mutated vanishing zombies you say? Hmm... Hopefully they don't become common place. Well, perhaps I'll be able to go back there sometime soon thanks to you!"
+  }
+}

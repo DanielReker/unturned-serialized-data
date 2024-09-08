@@ -1,0 +1,32 @@
+{
+  "name": "Unkown_Magazine_30",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Magazines/Unkown_Magazine_30/Unkown_Magazine_30.dat",
+  "data": {
+    "GUID": "4d8f91df3353415c83be4603cb06ba99",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "ID": "6613",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Amount": "25",
+    "Count_Min": "5",
+    "Count_Max": "20",
+    "Calibers": "1",
+    "Caliber_0": "6613",
+    "Tracer": "48",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "43",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "6613",
+    "Blueprint_1_Build": "30"
+  },
+  "translation": {
+    "Name": "Crown Magazine",
+    "Description": "Low caliber military grade <color=epic>Crown</color> magazine. Designed to fit 25 rounds."
+  }
+}

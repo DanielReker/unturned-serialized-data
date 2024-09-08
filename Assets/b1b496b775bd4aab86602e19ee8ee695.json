@@ -1,0 +1,27 @@
+{
+  "name": "Buak_Q_SL_Flowers_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_SL_Flowers_00/Buak_Q_SL_Flowers_00.dat",
+  "data": {
+    "GUID": "b1b496b775bd4aab86602e19ee8ee695",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "3",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24393",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Quest",
+    "Condition_1_Logic": "Less_Than",
+    "Condition_1_ID": "34d4c53921e84348949db900f44186e9",
+    "Condition_1_Status": "Completed",
+    "Condition_2_Type": "Quest",
+    "Condition_2_Logic": "Less_Than",
+    "Condition_2_ID": "27de0ed4e6f14758a93e569e3a1b4622",
+    "Condition_2_Status": "Completed"
+  },
+  "translation": {
+    "Name": "Buak_Q_SL_Flowers_00"
+  }
+}

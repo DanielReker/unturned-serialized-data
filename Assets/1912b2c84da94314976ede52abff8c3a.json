@@ -1,0 +1,12 @@
+{
+  "name": "Sewer_Output",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Sewer_Output/Sewer_Output.dat",
+  "data": {
+    "GUID": "1912b2c84da94314976ede52abff8c3a",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Sewer Output"
+  }
+}

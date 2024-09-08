@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Cabin_02",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Houses/Buak_Cabin_02/Buak_Cabin_02.dat",
+  "data": {
+    "GUID": "0c5dda6662b5479a91326a14d8979385",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Cabin_02"
+  }
+}

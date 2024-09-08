@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Harold_Comp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Harold/PBS_Harold_Comp/Asset.dat",
+  "data": {
+    "GUID": "827d797228674759b452cbb3284d5377",
+    "Type": "Dialogue",
+    "ID": "52234",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Heck yeah, that's the stuff!  Lemme try this - does my face look any better?"
+  }
+}

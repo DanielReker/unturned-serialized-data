@@ -1,0 +1,14 @@
+{
+  "name": "Platform_Quad_Supports",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Roads/Platform_Quad_Supports/Platform_Quad_Supports.dat",
+  "data": {
+    "GUID": "8657712a53384dcaba42a2fe9c92af99",
+    "Type": "Medium",
+    "ID": "6661",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Platform Quad Supports"
+  }
+}

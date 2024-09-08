@@ -1,0 +1,15 @@
+{
+  "name": "Frost_Sewer_10",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Frost_Sewer_10/Frost_Sewer_10.dat",
+  "data": {
+    "GUID": "47aed6ccbc884f0a991fd04e395a0a50",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "LOD": "Area",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "Frost Sewer #11"
+  }
+}

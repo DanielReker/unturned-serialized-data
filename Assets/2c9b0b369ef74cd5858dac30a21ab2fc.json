@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Window_Broken_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Building_Details/Buak_Window_Broken_01/Buak_Window_Broken_01.dat",
+  "data": {
+    "GUID": "2c9b0b369ef74cd5858dac30a21ab2fc",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Window_Broken_01"
+  }
+}

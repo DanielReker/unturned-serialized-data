@@ -1,0 +1,13 @@
+{
+  "name": "Jeep_Russia",
+  "path": "Bundles/Vehicles/Redirectors/Jeep/Jeep_Russia.asset",
+  "data": {
+    "GUID": "0f970256f1c147efa269d15b0eff4457",
+    "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "145",
+    "TargetVehicle": "82e07667f07e42279dce024116b322d4",
+    "LoadPaintColor": "#495631",
+    "SpawnPaintColor": "#495631"
+  },
+  "translation": null
+}

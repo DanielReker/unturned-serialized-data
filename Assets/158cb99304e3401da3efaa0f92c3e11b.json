@@ -1,0 +1,17 @@
+{
+  "name": "Frost_Farmer_00_Quest_00_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/NPCs/Frost_Farmer_00/Frost_Farmer_00_Quest_00_Return/Asset.dat",
+  "data": {
+    "GUID": "158cb99304e3401da3efaa0f92c3e11b",
+    "Type": "Dialogue",
+    "ID": "36145",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "36154"
+  },
+  "translation": {
+    "Message_0_Page_0": "<color=#d2bf22>Farmer I</color> <color=#64c819>Completed</color>",
+    "Response_0": "Continue"
+  }
+}

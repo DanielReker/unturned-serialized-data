@@ -1,0 +1,13 @@
+{
+  "name": "Door_Stable_Top",
+  "path": "Bundles/Objects/Medium/Utilities/Door_Stable_Top/Door_Stable_Top.dat",
+  "data": {
+    "GUID": "06e0901f41854f1f8d52c5c4a7200e7c",
+    "Type": "Medium",
+    "ID": "611",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Stable Door Top"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Buak_Science_07",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Props/Buak_Science_07/Buak_Science_07.dat",
+  "data": {
+    "GUID": "2004f10d715e44b7a68ea77c260fa055",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "60",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "74"
+  },
+  "translation": {
+    "Name": "Buak_Science_07"
+  }
+}

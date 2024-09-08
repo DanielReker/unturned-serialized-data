@@ -1,0 +1,16 @@
+{
+  "name": "BeachAnomaly",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/BeachAnomaly/BeachAnomaly.dat",
+  "data": {
+    "GUID": "21fcfe724177419a8494c8c92e6f7723",
+    "Type": "Spawn",
+    "ID": "51208",
+    "Tables": [
+      {
+        "Guid": "ab3bca24f50d4b8d938c1a239e2f3c95",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

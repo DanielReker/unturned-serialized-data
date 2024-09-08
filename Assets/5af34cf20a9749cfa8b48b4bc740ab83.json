@@ -1,0 +1,32 @@
+{
+  "name": "Help With Vaccine",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Quests/Help With Vaccine/Asset.dat",
+  "data": {
+    "GUID": "5af34cf20a9749cfa8b48b4bc740ab83",
+    "Type": "Quest",
+    "ID": "5020",
+    "Conditions": "3",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "390",
+    "Condition_0_Amount": "1 ",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "391",
+    "Condition_1_Amount": "1 ",
+    "Condition_2_Type": "Item",
+    "Condition_2_ID": "392",
+    "Condition_2_Amount": "1 ",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "1054",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "11"
+  },
+  "translation": {
+    "Name": "<color=epic>Assistance in creating a vaccine</color>",
+    "Description": "<color=Blue>Lena</color> asked to find some medicines that can help in creating a vaccine against the infection. The task is high priority. It's worth a try.",
+    "Condition_0": "Find the first bottle {0}/1",
+    "Condition_1": "Find the second bottle {0}/1",
+    "Condition_2": "Find the third bottle {0}/1"
+  }
+}

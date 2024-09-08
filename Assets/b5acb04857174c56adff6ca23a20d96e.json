@@ -1,0 +1,18 @@
+{
+  "name": "CA_Reflex",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Sights/CA_Reflex/CA_Reflex.dat",
+  "data": {
+    "GUID": "b5acb04857174c56adff6ca23a20d96e",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "ID": "4073",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Holographic": ""
+  },
+  "translation": {
+    "Name": "Reflex Sight",
+    "Description": "Rail mounted sight with electronic aiming point."
+  }
+}

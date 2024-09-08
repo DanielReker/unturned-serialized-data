@@ -1,0 +1,36 @@
+{
+  "name": "Metro_Cuffs",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Overrides/Metro_Cuffs/Metro_Cuffs.dat",
+  "data": {
+    "GUID": "9026f58d792f47e0acf643b29cfa39e7",
+    "Type": "Arrest_Start",
+    "Rarity": "Uncommon",
+    "Useable": "Arrest_Start",
+    "ID": "57543 ",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.24",
+    "Strength": "32",
+    "Blueprints": "2",
+    "Blueprint_1_Type": "Tool",
+    "Blueprint_1_Supply_0_ID": "57543",
+    "Blueprint_1_Product": "67",
+    "Blueprint_1_Build": "27",
+    "Blueprint_1_Map": "Elver",
+    "Blueprint_0_Type": "Barricade",
+    "Has_Clip_Prefab": "false",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "285",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Supply_1_ID": "67",
+    "Blueprint_0_Supply_1_Amount": "2",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Elver",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "Items/Arrest_Starts/Handcuffs_Lock"
+  },
+  "translation": {
+    "Name": "Handcuffs",
+    "Description": "<color=#64c819>Locks</color> up a surrendering player"
+  }
+}

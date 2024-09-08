@@ -1,0 +1,19 @@
+{
+  "name": "Red_Kobra_Sight",
+  "path": "Bundles/Items/Sights/Red_Kobra_Sight/Red_Kobra_Sight.dat",
+  "data": {
+    "GUID": "4265422a6ec84667b3bee3e3ebdd2cb6",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "ID": "1004",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Holographic": "",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Kobra Sight",
+    "Description": "Rail mounted sight with electronic aiming crosshair."
+  }
+}

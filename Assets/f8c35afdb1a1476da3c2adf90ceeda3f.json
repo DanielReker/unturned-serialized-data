@@ -1,0 +1,13 @@
+{
+  "name": "Slum_House_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Slum_House_1/Slum_House_1.dat",
+  "data": {
+    "GUID": "f8c35afdb1a1476da3c2adf90ceeda3f",
+    "Type": "Large",
+    "ID": "6027",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Slum House #1"
+  }
+}

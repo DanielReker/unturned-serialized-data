@@ -1,0 +1,13 @@
+{
+  "name": "Greece_Military_Ammo_Low",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Spawns/Greece_Items/Greece_Military_Ammo_Low/Greece_Military_Ammo_Low.dat",
+  "data": {
+    "GUID": "cec88862343347ca8ef2965e3da83068",
+    "Type": "Spawn",
+    "ID": "1005",
+    "Tables": "1",
+    "Table_0_Asset_ID": "43",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

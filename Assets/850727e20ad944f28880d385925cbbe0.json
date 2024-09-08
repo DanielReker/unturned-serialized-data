@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Propane_Small_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Props/Buak_Propane_Small_00/Buak_Propane_Small_00.dat",
+  "data": {
+    "GUID": "850727e20ad944f28880d385925cbbe0",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Propane_Small_00"
+  }
+}

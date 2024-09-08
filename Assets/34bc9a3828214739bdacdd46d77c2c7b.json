@@ -1,0 +1,14 @@
+{
+  "name": "PS_Warehouse_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Warehouse_5/PS_Warehouse_5.dat",
+  "data": {
+    "GUID": "34bc9a3828214739bdacdd46d77c2c7b",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59840",
+    "LOD": "Area"
+  },
+  "translation": {
+    "Name": "PS Warehouse #6"
+  }
+}

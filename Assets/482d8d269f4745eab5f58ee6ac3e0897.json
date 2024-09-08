@@ -1,0 +1,27 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Terrya/Terrya_04/Welcome/Asset.dat",
+  "data": {
+    "GUID": "482d8d269f4745eab5f58ee6ac3e0897",
+    "Type": "Dialogue",
+    "ID": "24089",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "6",
+    "Response_1_Dialogue": "0650f18354c14c45861e94eec6edd9c6",
+    "Response_1_Conditions": "1",
+    "Response_1_Condition_0_Type": "Quest",
+    "Response_1_Condition_0_Logic": "Equal",
+    "Response_1_Condition_0_ID": "d901cec9f75340a0bbd4ed5a84cff487",
+    "Response_1_Condition_0_Status": "Completed"
+  },
+  "translation": {
+    "Message_0_Page_0": "...0\\/o <i>*Flies buzz around her.*</i>",
+    "Response_0": "Hello!",
+    "Response_1": "I have some questions.",
+    "Response_2": "O_O",
+    "Response_3": "O_o",
+    "Response_4": "o_O",
+    "Response_5": "o_o"
+  }
+}

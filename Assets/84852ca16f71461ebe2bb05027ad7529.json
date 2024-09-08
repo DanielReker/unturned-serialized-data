@@ -1,0 +1,27 @@
+{
+  "name": "28750KFF",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/C/28750KFF/Asset.dat",
+  "data": {
+    "GUID": "84852ca16f71461ebe2bb05027ad7529",
+    "Type": "NPC",
+    "ID": "28750",
+    "Shirt": "314",
+    "Pants": "315",
+    "Face": "8",
+    "Hair": "14",
+    "Beard": "0",
+    "Color_Skin": "#94764B",
+    "Color_Hair": "#191919",
+    "Dialogue": "28751",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "25050",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitFatimaFood",
+    "Character": "Fatima"
+  }
+}

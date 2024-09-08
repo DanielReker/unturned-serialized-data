@@ -1,0 +1,14 @@
+{
+  "name": "T.Rickster_Referred",
+  "path": "Bundles/NPCs/Dialogues/T.Rickster/T.Rickster_Referred/Asset.dat",
+  "data": {
+    "GUID": "a5ff0c59cab94095be9fa48297deff36",
+    "Type": "Dialogue",
+    "ID": "22",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ooohohoho he's out and about! Wait I mean like yeah he should be, I don't suppose he mentioned I'm not supposed to be in here? Either way good to meet you <name_char>, I'm T.Rickster short for Terry Rickster."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Yukon_Farm_Arctic",
+  "path": "Bundles/Spawns/Vehicles/Yukon_Farm_Arctic/Yukon_Farm_Arctic.dat",
+  "data": {
+    "GUID": "acb1200cb219464c9054000a7c7d0762",
+    "Type": "Spawn",
+    "ID": "498",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "499",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

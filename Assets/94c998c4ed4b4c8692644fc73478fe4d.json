@@ -1,0 +1,16 @@
+{
+  "name": "Janitor_Radio_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Janitor/Janitor_Radio_Accepted/Asset.dat",
+  "data": {
+    "GUID": "94c998c4ed4b4c8692644fc73478fe4d",
+    "Type": "Dialogue",
+    "ID": "3558",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "We're Janitors, we clean up other people's messes. In this case, if this radio equipment gets into some malicious survivor's hands then our whole communication set up could be compromised. You're looking for three tan radio backpacks, grab them and get back here.",
+    "Response_0": "This was unexpected."
+  }
+}

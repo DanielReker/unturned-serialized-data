@@ -1,0 +1,14 @@
+{
+  "name": "Louis_Supply_List_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Nulirane Researcher Louis/Louis_Supply_List_Accepted/Asset.dat",
+  "data": {
+    "GUID": "bd4f28ea54ea4a0ba5b892dfc6332472",
+    "Type": "Dialogue",
+    "ID": "9015",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you kind sir! I hope this isn't a much of a hassle..."
+  }
+}

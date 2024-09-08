@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Info_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Small/Metro_Info_0/Metro_Info_0.dat",
+  "data": {
+    "GUID": "2552b5003cc74bae8fc5c9d61493508c",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57381",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Info #1"
+  }
+}

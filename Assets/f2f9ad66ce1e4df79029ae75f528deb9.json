@@ -1,0 +1,18 @@
+{
+  "name": "Metro_Locker_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Locker_3/Metro_Locker_3.dat",
+  "data": {
+    "GUID": "f2f9ad66ce1e4df79029ae75f528deb9",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57437",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "1800",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "57000",
+    "Rubble_Reward_ID": "57013"
+  },
+  "translation": {
+    "Name": "Metro Locker #4"
+  }
+}

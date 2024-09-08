@@ -1,0 +1,14 @@
+{
+  "name": "Screenshot_Contest_Top",
+  "path": "Bundles/Items/Shirts/Screenshot_Contest_Top/Screenshot_Contest_Top.dat",
+  "data": {
+    "GUID": "3463209421b2422d9c8e8f26481da33d",
+    "Type": "Shirt",
+    "ID": "770",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Pro": ""
+  },
+  "translation": null
+}

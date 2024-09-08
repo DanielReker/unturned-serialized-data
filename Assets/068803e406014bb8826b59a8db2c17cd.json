@@ -1,0 +1,24 @@
+{
+  "name": "25371KLM",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/Q/253 RG/25371KLM/Asset.dat",
+  "data": {
+    "GUID": "068803e406014bb8826b59a8db2c17cd",
+    "Type": "Quest",
+    "ID": "25371",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "25372",
+    "Condition_0_Value": "5",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "100",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "5"
+  },
+  "translation": {
+    "Name": "<color=#567DBC>Coalition: </color>Morale Booster",
+    "Description": "<color=rare>Lieutenant Laurence</color> has noticed that the coalition has been feeling a bit down - so he wants you to raise the morale of the Coalition. <color=uncommon>Ensign Astrid</color> may know about some of the problems.",
+    "Condition_0": "Raise the morale of the <color=#567DBC>Coalition</color> {0}/5"
+  }
+}

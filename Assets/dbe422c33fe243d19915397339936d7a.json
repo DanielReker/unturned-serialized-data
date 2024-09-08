@@ -1,0 +1,12 @@
+{
+  "name": "Mattress",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Mattress/Mattress.dat",
+  "data": {
+    "GUID": "dbe422c33fe243d19915397339936d7a",
+    "Type": "Medium",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Mattress"
+  }
+}

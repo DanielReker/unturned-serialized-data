@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Bus",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "BUS",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 57000
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.466666669,
+      "g": 0.5568628,
+      "b": 0.5372549
+    }
+  },
+  {
+    "name": "Mili Heli",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Heli",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 57013
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.478431374,
+      "g": 0.572549045,
+      "b": 0.266666681
+    }
+  },
+  {
+    "name": "Ambulance",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Ambulance",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 57021
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.7647059,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Motorbike",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Motorbike",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 57023
+          },
+          {
+            "vehicle": 57024
+          },
+          {
+            "vehicle": 57025
+          },
+          {
+            "vehicle": 57026
+          },
+          {
+            "vehicle": 57027
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Tank",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Tank",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 57001
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.2509804,
+      "g": 0.305882365,
+      "b": 0.109803922
+    }
+  },
+  {
+    "name": "Police",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Jail Fart",
+        "chance": 0.00888916,
+        "table": [
+          {
+            "vehicle": 57032
+          }
+        ]
+      },
+      {
+        "name": "Mustan",
+        "chance": 0.07036984,
+        "table": [
+          {
+            "vehicle": 57046
+          }
+        ]
+      },
+      {
+        "name": "Jail",
+        "chance": 0.198518544,
+        "table": [
+          {
+            "vehicle": 57031
+          }
+        ]
+      },
+      {
+        "name": "Police",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 57028
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.1764706,
+      "g": 0.458823532,
+      "b": 0.6313726
+    }
+  },
+  {
+    "name": "Military",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Common",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 57020
+          },
+          {
+            "vehicle": 57014
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Construction",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Common",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 57033
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.8392157,
+      "g": 0.733333349,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Town",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Cart II",
+        "chance": 0.006666667,
+        "table": [
+          {
+            "vehicle": 57035
+          }
+        ]
+      },
+      {
+        "name": "Cart",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 57034
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.596078455,
+      "g": 0.219607845,
+      "b": 0.117647059
+    }
+  },
+  {
+    "name": "Fire",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Common",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 57029
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.403921574,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Civ",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Fast_Special",
+        "chance": 0.0133333271,
+        "table": [
+          {
+            "vehicle": 57003
+          }
+        ]
+      },
+      {
+        "name": "Extra",
+        "chance": 0.0426666476,
+        "table": [
+          {
+            "vehicle": 57022
+          }
+        ]
+      },
+      {
+        "name": "Fast",
+        "chance": 0.188666657,
+        "table": [
+          {
+            "vehicle": 57002
+          },
+          {
+            "vehicle": 57004
+          },
+          {
+            "vehicle": 57005
+          },
+          {
+            "vehicle": 57006
+          },
+          {
+            "vehicle": 57007
+          }
+        ]
+      },
+      {
+        "name": "Bikes",
+        "chance": 0.342444479,
+        "table": [
+          {
+            "vehicle": 57023
+          },
+          {
+            "vehicle": 57024
+          },
+          {
+            "vehicle": 57025
+          },
+          {
+            "vehicle": 57026
+          },
+          {
+            "vehicle": 57027
+          }
+        ]
+      },
+      {
+        "name": "Muscle",
+        "chance": 0.4984445,
+        "table": [
+          {
+            "vehicle": 57008
+          },
+          {
+            "vehicle": 57009
+          },
+          {
+            "vehicle": 57010
+          },
+          {
+            "vehicle": 57011
+          },
+          {
+            "vehicle": 57012
+          }
+        ]
+      },
+      {
+        "name": "Civ",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 57015
+          },
+          {
+            "vehicle": 57016
+          },
+          {
+            "vehicle": 57017
+          },
+          {
+            "vehicle": 57018
+          },
+          {
+            "vehicle": 57019
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.8627451,
+      "g": 0.533333361,
+      "b": 1.0
+    }
+  }
+]

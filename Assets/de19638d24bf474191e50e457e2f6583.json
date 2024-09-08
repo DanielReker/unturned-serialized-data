@@ -1,0 +1,17 @@
+{
+  "name": "PBS_TantoSetup",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/PBS_TantoSetup/PBS_TantoSetup.dat",
+  "data": {
+    "GUID": "de19638d24bf474191e50e457e2f6583",
+    "Type": "RewardsList",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51245",
+    "Reward_0_Barrel": "51090",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "51039",
+    "Reward_1_Amount": "3"
+  },
+  "translation": null
+}

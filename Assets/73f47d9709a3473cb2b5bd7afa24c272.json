@@ -1,0 +1,17 @@
+{
+  "name": "Skeleton_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Medium/Other/Skeleton/Skeleton_1/Skeleton_1.dat",
+  "data": {
+    "GUID": "73f47d9709a3473cb2b5bd7afa24c272",
+    "Type": "Medium",
+    "ID": "35025",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "20",
+    "Interactability_Effect": "703",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Skeleton #1"
+  }
+}

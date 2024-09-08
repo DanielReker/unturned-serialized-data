@@ -1,0 +1,20 @@
+{
+  "name": "AG_Questions",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/AG/AG_Questions/Asset.dat",
+  "data": {
+    "GUID": "82021d7bfbd1407fbaeb6aa7a64cd2b4",
+    "Type": "Dialogue",
+    "ID": "24038",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Dialogue": "0e637edacc824478a6fb9ceefd202c9b",
+    "Response_1_Dialogue": "6601615d79c941dcae612c2bb211427c"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ask away!",
+    "Response_0": "How are you?",
+    "Response_1": "How long were you trapped?",
+    "Response_2": "Nevermind!"
+  }
+}

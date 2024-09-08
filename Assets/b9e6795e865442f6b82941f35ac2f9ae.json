@@ -1,0 +1,11 @@
+{
+  "name": "Frost_Detonator",
+  "path": "Bundles/Skins/Detonator/Frost_Detonator/Frost_Detonator.dat",
+  "data": {
+    "GUID": "b9e6795e865442f6b82941f35ac2f9ae",
+    "Type": "Skin",
+    "ID": "296",
+    "Override_Meshes": "1"
+  },
+  "translation": null
+}

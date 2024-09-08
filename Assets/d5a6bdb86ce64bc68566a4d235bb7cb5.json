@@ -1,0 +1,24 @@
+{
+  "name": "PS_Deadzone_Towers_Ammo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Deadzone_Towers_Ammo/PS_Deadzone_Towers_Ammo.dat",
+  "data": {
+    "GUID": "d5a6bdb86ce64bc68566a4d235bb7cb5",
+    "Type": "Spawn",
+    "ID": "59187",
+    "Tables": [
+      {
+        "LegacyAssetId": "59311",
+        "Weight": "10"
+      },
+      {
+        "Guid": "ac75d0f7c7de4f3ab6bbf824f5d930e6",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "59689",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

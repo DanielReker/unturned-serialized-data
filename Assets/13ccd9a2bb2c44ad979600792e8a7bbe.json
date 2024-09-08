@@ -1,0 +1,16 @@
+{
+  "name": "Chef_Dishes_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Cafeteria_Chef_Omega/Chef_Dishes_Accepted/Asset.dat",
+  "data": {
+    "GUID": "13ccd9a2bb2c44ad979600792e8a7bbe",
+    "Type": "Dialogue",
+    "ID": "3067",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good good, make sure to wash them out too. ",
+    "Response_0": "Of course."
+  }
+}

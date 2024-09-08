@@ -1,0 +1,15 @@
+{
+  "name": "HawaiiPlatform_TCap",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/HawaiiPlatform_TCap/HawaiiPlatform_TCap.dat",
+  "data": {
+    "GUID": "06efe288840d4fbc805b366d1446722a",
+    "Type": "Large",
+    "ID": "705",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Hawaii Haiku Platform T Cap"
+  }
+}

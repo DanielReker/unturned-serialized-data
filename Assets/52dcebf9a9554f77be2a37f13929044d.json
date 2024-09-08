@@ -1,0 +1,13 @@
+{
+  "name": "XMAS_Cane",
+  "path": "Bundles/Spawns/Items/XMAS_Cane/XMAS_Cane.dat",
+  "data": {
+    "GUID": "52dcebf9a9554f77be2a37f13929044d",
+    "Type": "Spawn",
+    "ID": "970",
+    "Tables": "1",
+    "Table_0_Asset_ID": "1694",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

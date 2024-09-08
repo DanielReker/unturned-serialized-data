@@ -1,0 +1,21 @@
+{
+  "name": "Scientist_Ada",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IDF/Scientist_Ada/Asset.dat",
+  "data": {
+    "GUID": "c60f23aec339437ca1c9ae11298b892e",
+    "Type": "NPC",
+    "ID": "15023",
+    "Shirt": "311",
+    "Pants": "312",
+    "Glasses": "727",
+    "Face": "7",
+    "Hair": "9",
+    "Color_Skin": "#f9f4e8",
+    "Color_Hair": "#7bd323",
+    "Dialogue": "15157"
+  },
+  "translation": {
+    "Name": "IDF Scientist Ada",
+    "Character": "<color=rare>Dr. Ada</color>"
+  }
+}

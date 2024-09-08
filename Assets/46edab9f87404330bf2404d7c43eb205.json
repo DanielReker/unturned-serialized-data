@@ -1,0 +1,28 @@
+{
+  "name": "PS_TV_Remote",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_TV_Remote/PS_TV_Remote.dat",
+  "data": {
+    "GUID": "46edab9f87404330bf2404d7c43eb205",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "59026",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59026",
+    "Blueprint_0_Outputs": "2",
+    "Blueprint_0_Output_0_ID": "59016",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Output_1_ID": "59028",
+    "Blueprint_0_Output_1_Amount": "1",
+    "Blueprint_0_Tool": "59004",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "TV Remote",
+    "Description": "Electronic device used to control your television."
+  }
+}

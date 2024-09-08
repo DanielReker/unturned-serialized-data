@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Beartrap",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Beartrap/Bar_Beartrap.dat",
+  "data": {
+    "GUID": "c4ed5df96a2e47fdac5bfd06983d40f0",
+    "Type": "Effect",
+    "ID": "25345"
+  },
+  "translation": null
+}

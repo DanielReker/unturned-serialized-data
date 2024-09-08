@@ -1,0 +1,43 @@
+{
+  "name": "M80_Jeep",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Vehicles/M80_Jeep/M80_Jeep.dat",
+  "data": {
+    "GUID": "41ad7b81be144fa391a9c3547cb546ac",
+    "Type": "Vehicle",
+    "Has_Clip_Prefab": "False",
+    "Rarity": "Rare",
+    "ID": "59025",
+    "Speed_Min": "-12",
+    "Speed_Max": "35",
+    "Steer_Min": "14",
+    "Steer_Max": "36",
+    "Brake": "32",
+    "Fuel_Min": "600",
+    "Fuel_Max": "1000",
+    "Fuel": "7500",
+    "Health_Min": "800",
+    "Health_Max": "1200",
+    "Health": "1900",
+    "Trunk_Storage_X": "10",
+    "Trunk_Storage_Y": "16",
+    "Explosion": "59021",
+    "Physics_Profile": "cba13bf34d024ea5954b87ed42f1a02f",
+    "Should_Spawn_Seat_Capsules": "True",
+    "Drops_Table_ID": "59225",
+    "Drops_Min": "6",
+    "Drops_Max": "8",
+    "Melee_Damage_Multiplier": "0.6",
+    "Tires_Invulnerable": "",
+    "BatteryMode_Headlights": "Charging",
+    "BatteryMode_Sirens": "Charging",
+    "Can_Steal_Battery": "False",
+    "BatteryMode_Driving": "Charging",
+    "BatteryMode_Empty": "Charging",
+    "Fuel_Burn_Rate": "4",
+    "Pitch_Drive": "0.015",
+    "Valid_Speed_Horizontal": "200"
+  },
+  "translation": {
+    "Name": "M80 Jeep"
+  }
+}

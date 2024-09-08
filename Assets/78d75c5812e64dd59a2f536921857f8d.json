@@ -1,0 +1,12 @@
+{
+  "name": "DragonTailsRed",
+  "path": "Bundles/Mythics/DragonTailsRed/DragonTailsRed.dat",
+  "data": {
+    "GUID": "78d75c5812e64dd59a2f536921857f8d",
+    "Type": "Mythic",
+    "ID": "28"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Fire Dragon"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ore_Titanium",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Resources/Ore_Titanium/Ore_Titanium.dat",
+  "data": {
+    "GUID": "01d067da43e34f96b90ed358c86bceb6",
+    "Type": "Effect",
+    "ID": "25317"
+  },
+  "translation": null
+}

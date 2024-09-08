@@ -1,0 +1,13 @@
+{
+  "name": "Large_Marble_Statue_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Scenery/Large_Marble_Statue_1/Large_Marble_Statue_1.dat",
+  "data": {
+    "GUID": "bcaa70e410784e20a4109cf57eb101c1",
+    "Type": "Large",
+    "ID": "35312",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Large Marble Statue #2"
+  }
+}

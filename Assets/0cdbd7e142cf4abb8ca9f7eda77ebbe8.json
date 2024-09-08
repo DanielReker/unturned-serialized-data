@@ -1,0 +1,14 @@
+{
+  "name": "Danno_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Detective_Danno/Danno_Accepted/Asset.dat",
+  "data": {
+    "GUID": "0cdbd7e142cf4abb8ca9f7eda77ebbe8",
+    "Type": "Dialogue",
+    "ID": "2046",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Please bring me those parts, I love my car too much to leave her!<br> I need a battery and 1 tire. I have a flat, and she won't start!"
+  }
+}

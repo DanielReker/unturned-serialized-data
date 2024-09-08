@@ -1,0 +1,33 @@
+{
+  "name": "PS_Clove_Leaves",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Clove_Leaves/PS_Clove_Leaves.dat",
+  "data": {
+    "GUID": "3a10a985f3364f458d7e86c3e9ecde75",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "59370",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.34",
+    "Use_Auto_Icon_Measurements": "False",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59370",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "59903",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Craft Seed",
+    "Action_0_Tooltip": "Plant it again."
+  },
+  "translation": {
+    "Name": "Clove Leaves",
+    "Description": "Herb which can be used to produce <color=#1f871f>Antiseptic</color>."
+  }
+}

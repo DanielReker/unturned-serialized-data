@@ -1,0 +1,16 @@
+{
+  "name": "PersianGrey",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/CarpetSpawns/PersianGrey/PersianGrey.dat",
+  "data": {
+    "GUID": "171971bccaf7444da86dd7e858a305bb",
+    "Type": "Spawn",
+    "ID": "51221",
+    "Tables": [
+      {
+        "Guid": "b4a40a269bde4314806be498cfb08481",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

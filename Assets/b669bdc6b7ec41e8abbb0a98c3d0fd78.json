@@ -1,0 +1,21 @@
+{
+  "name": "Military_Nurse_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Military/Military_Nurse_1/Asset.dat",
+  "data": {
+    "GUID": "b669bdc6b7ec41e8abbb0a98c3d0fd78",
+    "Type": "NPC",
+    "ID": "3587",
+    "Shirt": "311",
+    "Pants": "312",
+    "Face": "0",
+    "Hair": "4",
+    "Beard": "0",
+    "Color_Skin": "#756149",
+    "Color_Hair": "#352C22",
+    "Dialogue": "3525"
+  },
+  "translation": {
+    "Name": "Greek Military Nurse Ellinor",
+    "Character": "<color=rare>Nurse Ellinor</color>"
+  }
+}

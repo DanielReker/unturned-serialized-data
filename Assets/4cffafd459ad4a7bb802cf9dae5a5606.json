@@ -1,0 +1,14 @@
+{
+  "name": "PS_Trader_8_Quest_0_Return",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_8_Dialogue/PS_Trader_8_Quest_0_Return/Asset.dat",
+  "data": {
+    "GUID": "4cffafd459ad4a7bb802cf9dae5a5606",
+    "Type": "Dialogue",
+    "ID": "59433",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Quest Completed"
+  }
+}

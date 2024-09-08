@@ -1,0 +1,20 @@
+{
+  "name": "Canned_Pasta",
+  "path": "Bundles/Items/Food/Canned_Pasta/Canned_Pasta.dat",
+  "data": {
+    "GUID": "ddfdcced6bcd4f769c7d335f4e8e5c07",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "87",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Food": "40",
+    "Water": "10",
+    "ConsumeAudioClip": "Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Canned Pasta",
+    "Description": "All kinds of noodles and tubes ready for making that sort of food."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Plane_Seats",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_Plane_Seats/Buak_Plane_Seats.dat",
+  "data": {
+    "GUID": "c5e8eeb446e5414fba8e67cb91d2491a",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Plane_Seats"
+  }
+}

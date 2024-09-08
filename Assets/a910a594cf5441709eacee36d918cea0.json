@@ -1,0 +1,17 @@
+{
+  "name": "Frost_House_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Frost_House_04/Frost_House_04.dat",
+  "data": {
+    "GUID": "a910a594cf5441709eacee36d918cea0",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "LOD": "Area",
+    "Soft": "",
+    "Collision_Important": "",
+    "Material_Palette": "853a6c49920d49499fea19ea91b9ea58"
+  },
+  "translation": {
+    "Name": "Frost House #5"
+  }
+}

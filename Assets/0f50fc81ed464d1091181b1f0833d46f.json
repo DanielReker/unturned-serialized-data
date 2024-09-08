@@ -1,0 +1,14 @@
+{
+  "name": "Elver2_Bowtie_White",
+  "path": "Bundles/Items/Elver2/Elver2_Bowtie_White/Elver2_Bowtie_White.dat",
+  "data": {
+    "GUID": "0f50fc81ed464d1091181b1f0833d46f",
+    "Type": "Vest",
+    "Useable": "Clothing",
+    "ID": "1604",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Pro": ""
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Coffee",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Coffee/Buak_Coffee.dat",
+  "data": {
+    "GUID": "05defe6eda334bc6ac636d2579b23620",
+    "Type": "Spawn",
+    "ID": "25334",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25775",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Cliffs_Military_Vehicle_Low",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Spawns/Vehicles/Cliffs_Military_Vehicle_Low/Cliffs_Military_Vehicle_Low.dat",
+  "data": {
+    "GUID": "c2c73aa53e90401e841ee8190ba68150",
+    "Type": "Spawn",
+    "ID": "10106",
+    "Tables": "2",
+    "Table_0_Asset_ID": "14522",
+    "Table_0_Weight": "15",
+    "Table_1_Asset_ID": "14524",
+    "Table_1_Weight": "10"
+  },
+  "translation": null
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Flamingo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Animals/Flamingo/Flamingo.dat",
+  "data": {
+    "GUID": "7a44dea45fd04e4a8cbbf73f9198a78f",
+    "Type": "Animal",
+    "ID": "51000",
+    "Speed_Run": "0",
+    "Speed_Walk": "0",
+    "Behaviour": "Offense",
+    "Health": "1",
+    "Regen": "0.2",
+    "Damage": "20",
+    "Reward_ID": "51106",
+    "Reward_XP": "30",
+    "Reward_Min": "0",
+    "Reward_Max": "0",
+    "Roars": "3"
+  },
+  "translation": {
+    "Name": "Flamingo"
+  }
+}

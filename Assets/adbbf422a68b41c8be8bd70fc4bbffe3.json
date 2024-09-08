@@ -1,0 +1,36 @@
+{
+  "name": "Militia",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Militia/Militia/Militia.dat",
+  "data": {
+    "GUID": "adbbf422a68b41c8be8bd70fc4bbffe3",
+    "Type": "Spawn",
+    "ID": "51115",
+    "Tables": [
+      {
+        "Guid": "7f3ae837d9d841dfb7ae6c5330b2a4b5",
+        "Weight": "25"
+      },
+      {
+        "Guid": "f438d954965e4142948666a7e52bd581",
+        "Weight": "20"
+      },
+      {
+        "Guid": "154a4a7ae6a849c7bb404ce1cbf54422",
+        "Weight": "15"
+      },
+      {
+        "Guid": "3a22c65a7b9e48bfa6d7e361ba503be0",
+        "Weight": "15"
+      },
+      {
+        "Guid": "659b774c00294e8c9871a226c3e18a4b",
+        "Weight": "15"
+      },
+      {
+        "Guid": "d4413e7a49d24cb1b39606e0eb195ad4",
+        "Weight": "10"
+      }
+    ]
+  },
+  "translation": null
+}

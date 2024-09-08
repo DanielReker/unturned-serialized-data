@@ -1,0 +1,15 @@
+{
+  "name": "Maleficus",
+  "path": "Bundles/Skins/Nightraider/Maleficus/Maleficus.dat",
+  "data": {
+    "GUID": "ee78c37de4824a1686509d89c5bdeabd",
+    "Type": "Skin",
+    "ID": "193",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

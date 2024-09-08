@@ -1,0 +1,13 @@
+{
+  "name": "BE Airport Tower",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Airport Tower/BE Airport Tower.dat",
+  "data": {
+    "GUID": "48e89b2913d440ab96ff1b1090db4612",
+    "Type": "Large",
+    "ID": "9085",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Airport Tower"
+  }
+}

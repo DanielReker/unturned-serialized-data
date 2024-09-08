@@ -1,0 +1,19 @@
+{
+  "name": "Fallback_Blue",
+  "path": "Bundles/Assets/Landscapes/Materials/Fallback/Fallback_Blue.asset",
+  "data": {
+    "GUID": "8ea9b170d93e4f9a8a0e0c61cd4bee6a",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "core.masterbundle",
+      "Path": "Terrain/Materials/Fallback/Blue.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "Concrete_Static"
+  },
+  "translation": null
+}

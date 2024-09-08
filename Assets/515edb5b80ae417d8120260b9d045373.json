@@ -1,0 +1,19 @@
+{
+  "name": "Metro_AreaC_Wire_Broken",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_AreaC_Wire_Broken/Metro_AreaC_Wire_Broken.dat",
+  "data": {
+    "GUID": "515edb5b80ae417d8120260b9d045373",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "58151",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57142",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "Metro AreaC Wire Broken #1"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Navy_Helmet",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Items/Hats/Navy_Helmet/Navy_Helmet.dat",
+  "data": {
+    "GUID": "0aae47d9e2154a69a2ac325e7d39925c",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Useable": "Clothing",
+    "ID": "8035",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Beard": "",
+    "Armor": "0.85",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supply_0_ID": "8035",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "67",
+    "Blueprint_1_Supply_0_Amount": "4",
+    "Blueprint_1_Build": "32"
+  },
+  "translation": {
+    "Name": "Navy Helmet",
+    "Description": "Navy 2nd Sergeant rank uniform hat."
+  }
+}

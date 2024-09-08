@@ -1,0 +1,17 @@
+{
+  "name": "Arthur",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/NPC/Arthur/Arthur.dat",
+  "data": {
+    "GUID": "c532c2200f11423c9f4af621be5793c2",
+    "Type": "Shirt",
+    "ID": "51193",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.65",
+    "Asset_Bundle_Version": "4"
+  },
+  "translation": {
+    "Name": "Arthur",
+    "Description": "duuutch"
+  }
+}

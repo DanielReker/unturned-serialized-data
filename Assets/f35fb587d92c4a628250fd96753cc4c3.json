@@ -1,0 +1,13 @@
+{
+  "name": "Police",
+  "path": "Bundles/Objects/Large/Vehicles/Police/Police.dat",
+  "data": {
+    "GUID": "f35fb587d92c4a628250fd96753cc4c3",
+    "Type": "Large",
+    "ID": "169",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Police Car"
+  }
+}

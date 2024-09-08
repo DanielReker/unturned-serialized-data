@@ -1,0 +1,16 @@
+{
+  "name": "IR_Boulder_8",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Boulders/IR_Boulder_8/IR_Boulder_8.dat",
+  "data": {
+    "GUID": "e4cdabb62d78468e9cdea6f4b84a0322",
+    "Type": "Large",
+    "ID": "17070",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Cliff",
+    "Landmark_Quality": "High"
+  },
+  "translation": {
+    "Name": "Irish Boulder#8"
+  }
+}

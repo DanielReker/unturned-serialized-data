@@ -1,0 +1,15 @@
+{
+  "name": "PS_Sandbag_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Sandbag_2/PS_Sandbag_2.dat",
+  "data": {
+    "GUID": "59111c6282d3489b9a5045f6902f1544",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59131",
+    "Material_Palette": "6b2c5a03e1f2477eb980026ae3e1a9b8",
+    "Causes_Fall_Damage": "False"
+  },
+  "translation": {
+    "Name": "PS Sandbag #3"
+  }
+}

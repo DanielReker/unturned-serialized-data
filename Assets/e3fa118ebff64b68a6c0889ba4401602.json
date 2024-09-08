@@ -1,0 +1,36 @@
+{
+  "name": "29300KKG",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/C/29300KKG/Asset.dat",
+  "data": {
+    "GUID": "e3fa118ebff64b68a6c0889ba4401602",
+    "Type": "NPC",
+    "ID": "29300",
+    "Shirt": "5346",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Hat": "793 ",
+    "Halloween_Vest": "796 ",
+    "Halloween_Shirt": "795 ",
+    "Halloween_Pants": "794 ",
+    "Has_Christmas_Outfit": "True",
+    "Christmas_Shirt": "5346",
+    "Christmas_Backpack": "827 ",
+    "Christmas_Vest": "829 ",
+    "Face": "11",
+    "Hair": "15",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#191919",
+    "Primary": "5141",
+    "Dialogue": "29301",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "28821",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitSurvivorKyra",
+    "Character": "Kyra"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "James_Book",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/James/James_04/James_Book/Asset.dat",
+  "data": {
+    "GUID": "9a129f0cdf794b1086c1490dd0054188",
+    "Type": "Dialogue",
+    "ID": "24050",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "26",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "A book? WHAT? How did you find a copy of this? How did you even know I wanted it? Did I bring it up? Meh, who cares, thank you!",
+    "Response_0": "No problem!"
+  }
+}

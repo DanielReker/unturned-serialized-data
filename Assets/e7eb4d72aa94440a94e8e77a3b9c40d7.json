@@ -1,0 +1,26 @@
+{
+  "name": "Clay",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Supplies/Clay/Clay.dat",
+  "data": {
+    "GUID": "e7eb4d72aa94440a94e8e77a3b9c40d7",
+    "Type": "Supply",
+    "Rarity": "Common",
+    "ID": "6641",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.5",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supply_0_ID": "6641",
+    "Blueprint_0_Product": "74",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Level": "1",
+    "Blueprint_0_Skill": "Cook",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Easter Island"
+  },
+  "translation": {
+    "Name": "Clay",
+    "Description": "Wet and malleable."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Ambrogio_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Omega/Omega_Ambrogio/Ambrogio_Welcome/Asset.dat",
+  "data": {
+    "GUID": "358e251431ea4bb4b79509e93893b231",
+    "Type": "Dialogue",
+    "ID": "3673",
+    "Messages": "2",
+    "Message_0_Pages": "1",
+    "Message_0_Conditions": "1",
+    "Message_0_Condition_0_Type": "Flag_Short",
+    "Message_0_Condition_0_ID": "3017",
+    "Message_0_Condition_0_Value": "-2",
+    "Message_0_Condition_0_Logic": "Greater_Than",
+    "Message_0_Condition_0_Allow_Unset": "",
+    "Message_1_Pages": "1",
+    "Message_1_Conditions": "1",
+    "Message_1_Condition_0_Type": "Flag_Short",
+    "Message_1_Condition_0_ID": "3017",
+    "Message_1_Condition_0_Value": "-2",
+    "Message_1_Condition_0_Logic": "Less_Than_Or_Equal_To",
+    "Message_1_Condition_0_Allow_Unset": "",
+    "Responses": "2",
+    "Response_0_Messages": "1",
+    "Response_0_Message_0": "1",
+    "Response_1_Messages": "1",
+    "Response_1_Message_0": "0"
+  },
+  "translation": {
+    "Message_0_Page_0": "My parents tell me I shouldn't talk to strangers.",
+    "Message_1_Page_0": "I'm writing a history of the apocalypse... I figured I needed something to keep me busy!",
+    "Response_0": "Perhap I can read it someday.",
+    "Response_1": "Okay."
+  }
+}

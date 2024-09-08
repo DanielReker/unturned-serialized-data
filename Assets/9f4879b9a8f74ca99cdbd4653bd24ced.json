@@ -1,0 +1,14 @@
+{
+  "name": "RULA_Rubble_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/RULA/RULA_Rubble_2/RULA_Rubble_2.dat",
+  "data": {
+    "GUID": "9f4879b9a8f74ca99cdbd4653bd24ced",
+    "Type": "Large",
+    "ID": "35231",
+    "Snowshoe": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "RULA Rubble#3"
+  }
+}

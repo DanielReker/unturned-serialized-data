@@ -1,0 +1,32 @@
+{
+  "name": "PBS_Caster_Quest2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Quests/PBS_Caster_Quest2/Asset.dat",
+  "data": {
+    "GUID": "2c7afced4bc248a19f71561447b20ea9",
+    "Type": "Quest",
+    "ID": "52115",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "51929",
+    "Condition_0_Amount": "1",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "4",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "51929",
+    "Reward_0_Amount": "0",
+    "Reward_1_Type": "Currency",
+    "Reward_1_Value": "100",
+    "Reward_1_GUID": "561f74cdccdf48abaa6d49343b56aab0",
+    "Reward_2_Type": "Reputation",
+    "Reward_2_Value": "10",
+    "Reward_3_Type": "Flag_Bool",
+    "Reward_3_ID": "52121",
+    "Reward_3_Value": "True"
+  },
+  "translation": {
+    "Name": "<color=legendary>Casting for a Cause</color>",
+    "Description": "Turns out the ocean has alot more junk than expected - and there's also an even better rod that can be made.  Caster wants you to fish up another Chum Box to further upgrade the rod, and keep cleaning the ocean up.",
+    "Condition_0": "Acquire a Carbonfiber Fishing Rod {0}/{1}",
+    "Reward_0": "Unlocks purchasing Carbonfiber Fishing Rod"
+  }
+}

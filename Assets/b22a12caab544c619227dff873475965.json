@@ -1,0 +1,18 @@
+{
+  "name": "Boris_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Boris Mansurov/Boris_Welcome/Asset.dat",
+  "data": {
+    "GUID": "b22a12caab544c619227dff873475965",
+    "Type": "Dialogue",
+    "ID": "8251",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "8252"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hi!",
+    "Response_0": "Is there any interesting information?",
+    "Response_1": "Bye!"
+  }
+}

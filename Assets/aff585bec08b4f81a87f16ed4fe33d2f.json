@@ -1,0 +1,13 @@
+{
+  "name": "PS_Gun_Locker_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Gun_Locker_1/PS_Gun_Locker_1.dat",
+  "data": {
+    "GUID": "aff585bec08b4f81a87f16ed4fe33d2f",
+    "Type": "Spawn",
+    "ID": "59013",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59249",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

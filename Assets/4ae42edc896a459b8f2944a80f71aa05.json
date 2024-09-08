@@ -1,0 +1,24 @@
+{
+  "name": "PS_Metal_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Resources/PS_Metal_1/PS_Metal_1.dat",
+  "data": {
+    "GUID": "4ae42edc896a459b8f2944a80f71aa05",
+    "Type": "Resource",
+    "Has_Clip_Prefab": "False",
+    "ID": "59022",
+    "Health": "500",
+    "Radius": "4",
+    "Scale": "0.3",
+    "Explosion": "52",
+    "Reward_ID": "59029",
+    "Reward_XP": "0",
+    "Reward_Min": "4",
+    "Reward_Max": "5",
+    "BladeID": "5",
+    "No_Debris": "",
+    "Reset": "1000"
+  },
+  "translation": {
+    "Name": "PS Metal #2 [Adamantine]"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PS_A_Furniture_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/Material_Palettes/PS_A_Furniture_1.asset",
+  "data": {
+    "GUID": "b2e8dece1ce94c4f871cef121cfdb3a7",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/furniture_1/furniture_0.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/furniture_1/furniture_1.mat"
+      },
+      {
+        "Name": "arid.masterbundle",
+        "Path": "Assets/PS_Materials/afghan/furniture_1/furniture_2.mat"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Buak_Stinky",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Buak_Stinky/Buak_Stinky.dat",
+  "data": {
+    "GUID": "38dd8584fa364ecbac11bf99e1d35070",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "27085",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.5",
+    "Character_Mesh_3P_Override_LODs": "1",
+    "Has_Character_Material_Override": "True",
+    "Unobtainable": "",
+    "Unsaveable": "",
+    "Pro": "",
+    "Beard_Visible": "False",
+    "Hair_Visible": "False",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Buak_Stinky",
+    "Description": "Cat"
+  }
+}

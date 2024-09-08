@@ -1,0 +1,38 @@
+{
+  "name": "PS_Trader_4_Vendor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_4_Dialogue/PS_Trader_4_Vendor/Asset.dat",
+  "data": {
+    "GUID": "e18da3f9c7294675879b6736336d03a4",
+    "Type": "Vendor",
+    "ID": "59124",
+    "Buying": "11",
+    "Buying_0_ID": "59402  ",
+    "Buying_0_Cost": "75",
+    "Buying_1_ID": "59403  ",
+    "Buying_1_Cost": "75",
+    "Buying_2_ID": "59404 ",
+    "Buying_2_Cost": "75",
+    "Buying_3_ID": "59555  ",
+    "Buying_3_Cost": "200",
+    "Buying_4_ID": "59041  ",
+    "Buying_4_Cost": "250",
+    "Buying_5_ID": "59042",
+    "Buying_5_Cost": "300",
+    "Buying_6_ID": "59401",
+    "Buying_6_Cost": "300",
+    "Buying_7_ID": "59605   ",
+    "Buying_7_Cost": "400",
+    "Buying_8_ID": "59962",
+    "Buying_8_Cost": "450",
+    "Buying_9_ID": "59405",
+    "Buying_9_Cost": "1000",
+    "Buying_10_ID": "59550",
+    "Buying_10_Cost": "1200",
+    "Selling": "0",
+    "Disable_Sorting": ""
+  },
+  "translation": {
+    "Name": "Information",
+    "Description": "Everything for a price."
+  }
+}

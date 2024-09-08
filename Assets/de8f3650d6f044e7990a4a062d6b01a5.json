@@ -1,0 +1,26 @@
+{
+  "name": "Metro_Telescope",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_Telescope/Metro_Telescope.dat",
+  "data": {
+    "GUID": "de8f3650d6f044e7990a4a062d6b01a5",
+    "Type": "Optic",
+    "Rarity": "Rare",
+    "Useable": "Optic",
+    "ID": "57027",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Zoom": "9",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supply_0_ID": "57027",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "3",
+    "Blueprint_0_Build": "27",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Telescope",
+    "Description": "<color=#64c819>9x</color> Zoom"
+  }
+}

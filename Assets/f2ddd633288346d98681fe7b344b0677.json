@@ -1,0 +1,13 @@
+{
+  "name": "Yukon_Research",
+  "path": "Bundles/Spawns/Items/Yukon_Research/Yukon_Research.dat",
+  "data": {
+    "GUID": "f2ddd633288346d98681fe7b344b0677",
+    "Type": "Spawn",
+    "ID": "461",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "370",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

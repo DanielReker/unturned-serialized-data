@@ -1,0 +1,15 @@
+{
+  "name": "Cafeteria_Staff_Carry_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Cafeteria_Staff_Military/Cafeteria_Staff_Carry_Completed/Asset.dat",
+  "data": {
+    "GUID": "b114ad7fdde64472a981babf735301e6",
+    "Type": "Dialogue",
+    "ID": "3044",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "3031"
+  },
+  "translation": {
+    "Message_0_Page_0": "Great work! <pause> Wait, you're missing one! Where is the Olive oil? ... You're sure there was none? We can't cook half our stuff without Olive Oil!"
+  }
+}

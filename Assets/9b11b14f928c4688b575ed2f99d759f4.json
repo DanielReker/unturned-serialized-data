@@ -1,0 +1,17 @@
+{
+  "name": "France_Civilian_1_Vendor",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Vendors/France_Civilian_1_Vendor/Asset.dat",
+  "data": {
+    "GUID": "9b11b14f928c4688b575ed2f99d759f4",
+    "Type": "Vendor",
+    "ID": "4181",
+    "Buying": "0",
+    "Selling": "1",
+    "Selling_0_ID": "3101",
+    "Selling_0_Cost": "15"
+  },
+  "translation": {
+    "Name": "Kevin's crossbow bolts",
+    "Description": "Buy bolts for a unique weapon."
+  }
+}

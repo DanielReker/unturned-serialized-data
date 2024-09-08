@@ -1,0 +1,13 @@
+{
+  "name": "PS_Frag12_Boom",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Explosions/PS_Frag12_Boom/PS_Frag12_Boom.dat",
+  "data": {
+    "GUID": "724b904149134d88936fa4f3e49974d2",
+    "Type": "Effect",
+    "ID": "59065",
+    "Relevant_Distance": "1500",
+    "CameraShake_Radius": "5",
+    "CameraShake_MagnitudeDegrees": "20"
+  },
+  "translation": null
+}

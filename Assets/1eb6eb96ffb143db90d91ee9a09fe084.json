@@ -1,0 +1,16 @@
+{
+  "name": "Dango_SushiChefHat",
+  "path": "Bundles/Items/Dango/Dango_SushiChefHat/Dango_SushiChefHat.dat",
+  "data": {
+    "GUID": "1eb6eb96ffb143db90d91ee9a09fe084",
+    "Type": "Hat",
+    "ID": "916",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.45",
+    "Beard": "",
+    "Pro": "",
+    "Ignore_NPOT": ""
+  },
+  "translation": null
+}

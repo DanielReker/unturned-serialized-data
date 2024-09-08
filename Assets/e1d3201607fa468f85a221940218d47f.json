@@ -1,0 +1,14 @@
+{
+  "name": "Fauna_Expansion_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Farmer_Military_Fauna/Fauna_Expansion_Accepted/Asset.dat",
+  "data": {
+    "GUID": "e1d3201607fa468f85a221940218d47f",
+    "Type": "Dialogue",
+    "ID": "3518",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yes actually, we're trying to expand our food production but first we'll need some more plots to grow on."
+  }
+}

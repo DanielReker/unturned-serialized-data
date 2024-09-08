@@ -1,0 +1,37 @@
+{
+  "name": "Liam_Community_Task",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Quests/Liam_Community_Task/Asset.dat",
+  "data": {
+    "GUID": "6a8d7a3c58c64f5fb56e7dfc68acca5f",
+    "Type": "Quest",
+    "ID": "9028",
+    "Conditions": "2",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_Zombie": "Mega",
+    "Condition_0_ID": "9029",
+    "Condition_0_Value": "1",
+    "Condition_0_Nav": "5",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "1044",
+    "Condition_1_Amount": "1",
+    "Condition_1_Reset": "",
+    "Rewards": "4",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "20",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "20",
+    "Reward_2_Type": "Item",
+    "Reward_2_ID": "81",
+    "Reward_2_Amount": "2",
+    "Reward_3_Type": "Item",
+    "Reward_3_ID": "15",
+    "Reward_3_Amount": "2"
+  },
+  "translation": {
+    "Name": "Liam's Community Task",
+    "Description": "I need Civilian Nightvision so it's easier to see in the night. Also there's these zombies that we call \"Hulks\" that I can't defeat on my own.",
+    "Condition_0": "Kill {0}/{1} Mega Zombie at Florennes Military Base",
+    "Condition_1": "Find {0}/{1} Civilian Nightvision"
+  }
+}

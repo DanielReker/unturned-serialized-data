@@ -1,0 +1,14 @@
+{
+  "name": "Alastair_Stranded",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Major_Alastair/Alastair_Stranded/Asset.dat",
+  "data": {
+    "GUID": "96d69c8e0f7847078fa74792267dd5ab",
+    "Type": "Dialogue",
+    "ID": "45704",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yup, it has been, whew, I don’t know how long now. We have been trying with no luck to contact a nearby Coalition craft. <color=uncommon>Chitchat</color> over there is our comms expert, but he can only do so much with the scrap bucket he boldly calls a radio."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PS_Interchange_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Interchange_1/PS_Interchange_1.dat",
+  "data": {
+    "GUID": "e97fe9792b7a415684ab852f0537961d",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59845",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "PS Interchange #2"
+  }
+}

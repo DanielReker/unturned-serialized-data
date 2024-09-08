@@ -1,0 +1,13 @@
+{
+  "name": "PS_Construction_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Construction_0/PS_Construction_0.dat",
+  "data": {
+    "GUID": "fbd910c739c54564a0d970444d015f5e",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59519"
+  },
+  "translation": {
+    "Name": "PS Construction #1"
+  }
+}

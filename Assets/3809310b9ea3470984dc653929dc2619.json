@@ -1,0 +1,43 @@
+{
+  "name": "Railing_Iron",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Structures/Railings/Railing_Iron/Railing_Iron.dat",
+  "data": {
+    "GUID": "3809310b9ea3470984dc653929dc2619",
+    "Type": "Structure",
+    "Rarity": "Uncommon",
+    "Useable": "Structure",
+    "Construct": "Rampart",
+    "ID": "25549",
+    "Requires_Pillars": "False",
+    "Size_X": "4",
+    "Size_Y": "1",
+    "Size_Z": "0.24",
+    "Use_Auto_Icon_Measurements": "False",
+    "Salvage_Duration_Multiplier": ".1",
+    "Has_Clip_Prefab": "false",
+    "Health": "5000",
+    "Range": "8",
+    "Explosion": "25400",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25326",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Tool": "25376",
+    "Blueprint_0_Build": "25527",
+    "Blueprint_1_Type": "Gear",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25549",
+    "Blueprint_1_Tool": "25393",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "25310",
+    "Blueprint_1_Output_0_Amount": "2",
+    "Blueprint_1_Build": "25520",
+    "PlacementAudioClip": "Sounds/Placement/MetalPlacement.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Iron Railing",
+    "Description": "A railing to help prevent you from a fall."
+  }
+}

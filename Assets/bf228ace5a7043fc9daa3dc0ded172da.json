@@ -1,0 +1,13 @@
+{
+  "name": "Plane_2",
+  "path": "Bundles/Objects/Large/Vehicles/Plane_2/Plane_2.dat",
+  "data": {
+    "GUID": "bf228ace5a7043fc9daa3dc0ded172da",
+    "Type": "Large",
+    "ID": "260",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Plane #3"
+  }
+}

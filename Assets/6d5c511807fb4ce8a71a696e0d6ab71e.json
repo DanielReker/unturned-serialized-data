@@ -1,0 +1,15 @@
+{
+  "name": "Metro_Dispose_Unavailable",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Bank/Metro_Dispose_Unavailable/Metro_Dispose_Unavailable.dat",
+  "data": {
+    "GUID": "6d5c511807fb4ce8a71a696e0d6ab71e",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57995",
+    "Master_Bundle_Override": "metro.masterbundle",
+    "Bundle_Override_Path": "/Objects/Quest/NPC/Bank/Metro_Deposit_Unavailable"
+  },
+  "translation": {
+    "Name": "Metro Bank Dispose Unavailable"
+  }
+}

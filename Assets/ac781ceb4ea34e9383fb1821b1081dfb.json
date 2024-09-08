@@ -1,0 +1,13 @@
+{
+  "name": "PEI_Special_Canada",
+  "path": "Bundles/Spawns/Items/PEI_Special_Canada/PEI_Special_Canada.dat",
+  "data": {
+    "GUID": "ac781ceb4ea34e9383fb1821b1081dfb",
+    "Type": "Spawn",
+    "ID": "132",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "133",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PS_Trader_1_Barter_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_1_Dialogue/PS_Trader_1_Barter_3/Asset.dat",
+  "data": {
+    "GUID": "fd156c9c35424b779c408cbb8b4b4969",
+    "Type": "Quest",
+    "ID": "59110",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59680",
+    "Condition_0_Amount": "2\t",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "59011",
+    "Reward_0_Amount": "3"
+  },
+  "translation": {
+    "Name": "Barter - Metal Sheets",
+    "Description": "Exchange of goods."
+  }
+}

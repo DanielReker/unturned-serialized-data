@@ -1,0 +1,15 @@
+{
+  "name": "Buak_H_Pumpkin_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_H_Pumpkin_00/Buak_H_Pumpkin_00.dat",
+  "data": {
+    "GUID": "a2cf2dd1645044828cf75c33e531ed52",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Holiday_Restriction": "HALLOWEEN"
+  },
+  "translation": {
+    "Name": "Buak_H_Pumpkin_00"
+  }
+}

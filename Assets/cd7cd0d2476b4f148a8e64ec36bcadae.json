@@ -1,0 +1,13 @@
+{
+  "name": "WindBlade",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/WindBlade/WindBlade.dat",
+  "data": {
+    "GUID": "cd7cd0d2476b4f148a8e64ec36bcadae",
+    "Type": "Large",
+    "ID": "6616",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Wind Turbine Blade"
+  }
+}

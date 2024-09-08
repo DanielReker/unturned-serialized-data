@@ -1,0 +1,14 @@
+{
+  "name": "Hawaiidocksupport_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Hawaiidocksupport_0/Hawaiidocksupport_0.dat",
+  "data": {
+    "GUID": "03fc3ba196f44c04ad804b8627f7c9ae",
+    "Type": "Large",
+    "ID": "6015",
+    "Soft": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hawaii Dock Support"
+  }
+}

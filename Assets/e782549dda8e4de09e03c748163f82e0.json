@@ -1,0 +1,52 @@
+{
+  "name": "ClothingPants",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Clothing/ClothingPants/ClothingPants.dat",
+  "data": {
+    "GUID": "e782549dda8e4de09e03c748163f82e0",
+    "Type": "Spawn",
+    "ID": "51087",
+    "Tables": [
+      {
+        "Guid": "3aeff36f8f5e4c499da17d798c362b38",
+        "Weight": "1"
+      },
+      {
+        "Guid": "6ad2f0767c2a468b82a7166eab46875b",
+        "Weight": "1"
+      },
+      {
+        "Guid": "5f9e9abb733b4b82a0624d0d12ac752c",
+        "Weight": "1"
+      },
+      {
+        "Guid": "f0067775c857440890cb7fbdb7214122",
+        "Weight": "1"
+      },
+      {
+        "Guid": "0961cb8027e340b3b73c3556c3dafab1",
+        "Weight": "1"
+      },
+      {
+        "Guid": "46ebe7dbcaeb4c148cb0c8cfe9b7953e",
+        "Weight": "1"
+      },
+      {
+        "Guid": "1f61b62ee3c441849023b0c9812658cb",
+        "Weight": "1"
+      },
+      {
+        "Guid": "c0aedc0fe2c24f90a536a3641e48a44d",
+        "Weight": "1"
+      },
+      {
+        "Guid": "42dfaf125baf4b19aa493203af3fa517",
+        "Weight": "1"
+      },
+      {
+        "Guid": "b66e732f3ea247a29154907bf4dc07ee",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

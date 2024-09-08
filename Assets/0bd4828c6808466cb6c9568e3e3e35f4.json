@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Horde_Arena_Graffiti_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_Horde_Arena_Graffiti_0/Metro_Horde_Arena_Graffiti_0.dat",
+  "data": {
+    "GUID": "0bd4828c6808466cb6c9568e3e3e35f4",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "58059"
+  },
+  "translation": {
+    "Name": "Metro Horde Arena Graffiti #1"
+  }
+}

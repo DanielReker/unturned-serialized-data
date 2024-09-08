@@ -1,0 +1,12 @@
+{
+  "name": "IR_Billboard_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/City/IR_Billboard_1/IR_Billboard_1.dat",
+  "data": {
+    "GUID": "70add3282bd9410b89116f4fe871d9a8",
+    "Type": "Large",
+    "ID": "17021"
+  },
+  "translation": {
+    "Name": "Irish Billboard #1"
+  }
+}

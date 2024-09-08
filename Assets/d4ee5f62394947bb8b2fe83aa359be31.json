@@ -1,0 +1,42 @@
+{
+  "name": "25621KKR",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/Q/256 CS/25621KKR/Asset.dat",
+  "data": {
+    "GUID": "d4ee5f62394947bb8b2fe83aa359be31",
+    "Type": "Quest",
+    "ID": "25621",
+    "Conditions": "5",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "5003",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "5001",
+    "Condition_1_Amount": "24",
+    "Condition_1_Value": "True",
+    "Condition_1_Reset": "",
+    "Condition_2_Type": "Item",
+    "Condition_2_ID": "5507",
+    "Condition_2_Amount": "3",
+    "Condition_2_Reset": "",
+    "Condition_3_Type": "Item",
+    "Condition_3_ID": "5502 ",
+    "Condition_3_Amount": "3",
+    "Condition_3_Reset": "",
+    "Condition_4_Type": "Item",
+    "Condition_4_ID": "67 ",
+    "Condition_4_Amount": "3",
+    "Condition_4_Reset": "",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "5042",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "3"
+  },
+  "translation": {
+    "Name": "<color=#567DBC>Coalition: </color>Personal Upgrade",
+    "Description": "<color=#FF69B4>Repeating Quest</color><br><color=epic>Major Kriss</color> can upgrade a <color=epic>Suncrack</color> for you, you just need to bring the supplies.",
+    "Condition_1": "Find Full Military Magazine {0}/1"
+  }
+}

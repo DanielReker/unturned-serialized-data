@@ -1,0 +1,20 @@
+{
+  "name": "Frost_Sewer_Lever_On_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Frost_Sewer_Lever_On_04/Frost_Sewer_Lever_On_04.dat",
+  "data": {
+    "GUID": "488d5c7ae2064936a9d7f4d9bac45b29",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "36336",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Master_Bundle_Override": "frost.masterbundle",
+    "Bundle_Override_Path": "/Objects/Safezone/Frost_Sewer_Lever_On"
+  },
+  "translation": {
+    "Name": "Frost Sewer Lever On #5"
+  }
+}

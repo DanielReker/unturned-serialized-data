@@ -1,0 +1,2774 @@
+[
+  {
+    "name": "Police",
+    "tableID": 331,
+    "tiers": [
+      {
+        "name": "Glasses",
+        "chance": 0.0226666629,
+        "table": [
+          {
+            "item": 1044
+          }
+        ]
+      },
+      {
+        "name": "Arrest",
+        "chance": 0.0626666546,
+        "table": [
+          {
+            "item": 1195
+          },
+          {
+            "item": 1196
+          }
+        ]
+      },
+      {
+        "name": "Vests",
+        "chance": 0.112846464,
+        "table": [
+          {
+            "item": 10
+          }
+        ]
+      },
+      {
+        "name": "Special",
+        "chance": 0.164454937,
+        "table": [
+          {
+            "item": 1006
+          }
+        ]
+      },
+      {
+        "name": "Melee",
+        "chance": 0.237491965,
+        "table": [
+          {
+            "item": 1023
+          }
+        ]
+      },
+      {
+        "name": "Hats",
+        "chance": 0.3340209,
+        "table": [
+          {
+            "item": 225
+          }
+        ]
+      },
+      {
+        "name": "Pants",
+        "chance": 0.430550039,
+        "table": [
+          {
+            "item": 224
+          }
+        ]
+      },
+      {
+        "name": "Shirts",
+        "chance": 0.5270792,
+        "table": [
+          {
+            "item": 223
+          }
+        ]
+      },
+      {
+        "name": "Ammo",
+        "chance": 0.6655131,
+        "table": [
+          {
+            "item": 44
+          }
+        ]
+      },
+      {
+        "name": "Magazines",
+        "chance": 0.8117247,
+        "table": [
+          {
+            "item": 100
+          },
+          {
+            "item": 113
+          }
+        ]
+      },
+      {
+        "name": "Guns",
+        "chance": 0.9999999,
+        "table": [
+          {
+            "item": 99
+          },
+          {
+            "item": 112
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Fire",
+    "tableID": 332,
+    "tiers": [
+      {
+        "name": "Shirts",
+        "chance": 0.101666711,
+        "table": [
+          {
+            "item": 233
+          }
+        ]
+      },
+      {
+        "name": "Pants",
+        "chance": 0.203333423,
+        "table": [
+          {
+            "item": 234
+          }
+        ]
+      },
+      {
+        "name": "Hats",
+        "chance": 0.305000126,
+        "table": [
+          {
+            "item": 241
+          }
+        ]
+      },
+      {
+        "name": "Melee",
+        "chance": 0.5400001,
+        "table": [
+          {
+            "item": 104
+          }
+        ]
+      },
+      {
+        "name": "Flares",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 255
+          },
+          {
+            "item": 256
+          },
+          {
+            "item": 257
+          },
+          {
+            "item": 258
+          },
+          {
+            "item": 259
+          },
+          {
+            "item": 260
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Military_America",
+    "tableID": 333,
+    "tiers": [
+      {
+        "name": "Tools",
+        "chance": 0.0200000014,
+        "table": [
+          {
+            "item": 1176
+          }
+        ]
+      },
+      {
+        "name": "Magazines",
+        "chance": 0.07341014,
+        "table": [
+          {
+            "item": 6
+          },
+          {
+            "item": 1022
+          },
+          {
+            "item": 1026
+          },
+          {
+            "item": 1020
+          }
+        ]
+      },
+      {
+        "name": "Ammo",
+        "chance": 0.135285839,
+        "table": [
+          {
+            "item": 43
+          },
+          {
+            "item": 73
+          }
+        ]
+      },
+      {
+        "name": "Guns",
+        "chance": 0.204158932,
+        "table": [
+          {
+            "item": 1021
+          },
+          {
+            "item": 1037
+          },
+          {
+            "item": 1024
+          },
+          {
+            "item": 1018
+          }
+        ]
+      },
+      {
+        "name": "Vests",
+        "chance": 0.278098136,
+        "table": [
+          {
+            "item": 1013
+          }
+        ]
+      },
+      {
+        "name": "Hats",
+        "chance": 0.353730381,
+        "table": [
+          {
+            "item": 1010
+          },
+          {
+            "item": 1009
+          }
+        ]
+      },
+      {
+        "name": "Shirts",
+        "chance": 0.4441774,
+        "table": [
+          {
+            "item": 1011
+          }
+        ]
+      },
+      {
+        "name": "Pants",
+        "chance": 0.5346244,
+        "table": [
+          {
+            "item": 1012
+          }
+        ]
+      },
+      {
+        "name": "Melee",
+        "chance": 0.6676113,
+        "table": [
+          {
+            "item": 121
+          }
+        ]
+      },
+      {
+        "name": "Barricades",
+        "chance": 0.8315372,
+        "table": [
+          {
+            "item": 386
+          },
+          {
+            "item": 365
+          },
+          {
+            "item": 1227
+          }
+        ]
+      },
+      {
+        "name": "Smoke",
+        "chance": 1.00000012,
+        "table": [
+          {
+            "item": 261
+          },
+          {
+            "item": 262
+          },
+          {
+            "item": 264
+          },
+          {
+            "item": 263
+          },
+          {
+            "item": 265
+          },
+          {
+            "item": 266
+          },
+          {
+            "item": 267
+          },
+          {
+            "item": 268
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Medic",
+    "tableID": 345,
+    "tiers": [
+      {
+        "name": "Clothes",
+        "chance": 0.0333333351,
+        "table": [
+          {
+            "item": 311
+          },
+          {
+            "item": 312
+          }
+        ]
+      },
+      {
+        "name": "Rare",
+        "chance": 0.12888886,
+        "table": [
+          {
+            "item": 387
+          },
+          {
+            "item": 395
+          },
+          {
+            "item": 15
+          },
+          {
+            "item": 388
+          },
+          {
+            "item": 269
+          }
+        ]
+      },
+      {
+        "name": "Average",
+        "chance": 0.404444456,
+        "table": [
+          {
+            "item": 389
+          },
+          {
+            "item": 394
+          },
+          {
+            "item": 390
+          },
+          {
+            "item": 96
+          },
+          {
+            "item": 403
+          }
+        ]
+      },
+      {
+        "name": "Common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 95
+          },
+          {
+            "item": 404
+          },
+          {
+            "item": 392
+          },
+          {
+            "item": 391
+          },
+          {
+            "item": 66
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Special_America",
+    "tableID": 346,
+    "tiers": [
+      {
+        "name": "Vision Scopes",
+        "chance": 0.00666666636,
+        "table": [
+          {
+            "item": 1201
+          }
+        ]
+      },
+      {
+        "name": "Explosives",
+        "chance": 0.0238361619,
+        "table": [
+          {
+            "item": 1100
+          },
+          {
+            "item": 1101
+          },
+          {
+            "item": 1102
+          }
+        ]
+      },
+      {
+        "name": "Mods",
+        "chance": 0.04278344,
+        "table": [
+          {
+            "item": 1007
+          },
+          {
+            "item": 1008
+          }
+        ]
+      },
+      {
+        "name": "Effect Magazines",
+        "chance": 0.0689739138,
+        "table": [
+          {
+            "item": 1177
+          },
+          {
+            "item": 1200
+          }
+        ]
+      },
+      {
+        "name": "JTF2",
+        "chance": 0.103113107,
+        "table": [
+          {
+            "item": 1169
+          },
+          {
+            "item": 1170
+          },
+          {
+            "item": 1171
+          },
+          {
+            "item": 1172
+          }
+        ]
+      },
+      {
+        "name": "Ghillie",
+        "chance": 0.137461632,
+        "table": [
+          {
+            "item": 235
+          },
+          {
+            "item": 236
+          },
+          {
+            "item": 237
+          },
+          {
+            "item": 238
+          }
+        ]
+      },
+      {
+        "name": "Guns",
+        "chance": 0.174905419,
+        "table": [
+          {
+            "item": 488
+          },
+          {
+            "item": 297
+          },
+          {
+            "item": 132
+          },
+          {
+            "item": 116
+          }
+        ]
+      },
+      {
+        "name": "Ammo",
+        "chance": 0.212377951,
+        "table": [
+          {
+            "item": 1192
+          }
+        ]
+      },
+      {
+        "name": "Magazines",
+        "chance": 0.25454393,
+        "table": [
+          {
+            "item": 17
+          },
+          {
+            "item": 489
+          },
+          {
+            "item": 133
+          },
+          {
+            "item": 298
+          }
+        ]
+      },
+      {
+        "name": "Sights",
+        "chance": 0.3567099,
+        "table": [
+          {
+            "item": 296
+          },
+          {
+            "item": 21
+          },
+          {
+            "item": 148
+          },
+          {
+            "item": 22
+          },
+          {
+            "item": 146
+          },
+          {
+            "item": 147
+          }
+        ]
+      },
+      {
+        "name": "Tacticals",
+        "chance": 0.458875835,
+        "table": [
+          {
+            "item": 151
+          },
+          {
+            "item": 152
+          }
+        ]
+      },
+      {
+        "name": "Barrels",
+        "chance": 0.5610418,
+        "table": [
+          {
+            "item": 149
+          },
+          {
+            "item": 150
+          },
+          {
+            "item": 7
+          }
+        ]
+      },
+      {
+        "name": "Grips",
+        "chance": 0.6632077,
+        "table": [
+          {
+            "item": 143
+          },
+          {
+            "item": 145
+          },
+          {
+            "item": 8
+          }
+        ]
+      },
+      {
+        "name": "Gear",
+        "chance": 0.765611768,
+        "table": [
+          {
+            "item": 334
+          },
+          {
+            "item": 253
+          },
+          {
+            "item": 81
+          }
+        ]
+      },
+      {
+        "name": "Grenades",
+        "chance": 0.99999994,
+        "table": [
+          {
+            "item": 254
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "School",
+    "tableID": 363,
+    "tiers": [
+      {
+        "name": "Backpacks",
+        "chance": 0.103333332,
+        "table": [
+          {
+            "item": 9
+          },
+          {
+            "item": 200
+          },
+          {
+            "item": 201
+          },
+          {
+            "item": 202
+          },
+          {
+            "item": 203
+          },
+          {
+            "item": 204
+          },
+          {
+            "item": 205
+          },
+          {
+            "item": 206
+          }
+        ]
+      },
+      {
+        "name": "Melee",
+        "chance": 0.336666673,
+        "table": [
+          {
+            "item": 135
+          },
+          {
+            "item": 105
+          }
+        ]
+      },
+      {
+        "name": "Snacks",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 84
+          },
+          {
+            "item": 83
+          },
+          {
+            "item": 92
+          },
+          {
+            "item": 91
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.498039216,
+      "g": 0.6,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Food",
+    "tableID": 364,
+    "tiers": [
+      {
+        "name": "Clothes",
+        "chance": 0.0333333351,
+        "table": [
+          {
+            "item": 314
+          },
+          {
+            "item": 315
+          }
+        ]
+      },
+      {
+        "name": "Bottled",
+        "chance": 0.12333332,
+        "table": [
+          {
+            "item": 94
+          },
+          {
+            "item": 93
+          },
+          {
+            "item": 14
+          },
+          {
+            "item": 462
+          },
+          {
+            "item": 463
+          },
+          {
+            "item": 472
+          },
+          {
+            "item": 473
+          }
+        ]
+      },
+      {
+        "name": "Canned",
+        "chance": 0.217777759,
+        "table": [
+          {
+            "item": 88
+          },
+          {
+            "item": 13
+          },
+          {
+            "item": 89
+          },
+          {
+            "item": 87
+          },
+          {
+            "item": 90
+          },
+          {
+            "item": 78
+          },
+          {
+            "item": 77
+          },
+          {
+            "item": 79
+          },
+          {
+            "item": 469
+          }
+        ]
+      },
+      {
+        "name": "Bars",
+        "chance": 0.458888859,
+        "table": [
+          {
+            "item": 82
+          },
+          {
+            "item": 84
+          },
+          {
+            "item": 83
+          },
+          {
+            "item": 86
+          },
+          {
+            "item": 85
+          }
+        ]
+      },
+      {
+        "name": "Box",
+        "chance": 0.6999999,
+        "table": [
+          {
+            "item": 91
+          },
+          {
+            "item": 92
+          },
+          {
+            "item": 80
+          },
+          {
+            "item": 465
+          }
+        ]
+      },
+      {
+        "name": "Organic",
+        "chance": 0.99999994,
+        "table": [
+          {
+            "item": 464
+          },
+          {
+            "item": 329
+          },
+          {
+            "item": 335
+          },
+          {
+            "item": 338
+          },
+          {
+            "item": 342
+          },
+          {
+            "item": 340
+          },
+          {
+            "item": 344
+          },
+          {
+            "item": 460
+          },
+          {
+            "item": 470
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.309803933,
+      "g": 0.117647059,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Gas",
+    "tableID": 365,
+    "tiers": [
+      {
+        "name": "Supplies",
+        "chance": 0.0466666669,
+        "table": [
+          {
+            "item": 75
+          }
+        ]
+      },
+      {
+        "name": "Clothes",
+        "chance": 0.11277774,
+        "table": [
+          {
+            "item": 405
+          },
+          {
+            "item": 406
+          }
+        ]
+      },
+      {
+        "name": "Tools",
+        "chance": 0.3066666,
+        "table": [
+          {
+            "item": 28
+          },
+          {
+            "item": 76
+          },
+          {
+            "item": 277
+          }
+        ]
+      },
+      {
+        "name": "Melee",
+        "chance": 0.515000045,
+        "table": [
+          {
+            "item": 276
+          }
+        ]
+      },
+      {
+        "name": "Flares",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 255
+          },
+          {
+            "item": 256
+          },
+          {
+            "item": 257
+          },
+          {
+            "item": 258
+          },
+          {
+            "item": 259
+          },
+          {
+            "item": 260
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.2784314,
+      "g": 0.6784314,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Construction",
+    "tableID": 366,
+    "tiers": [
+      {
+        "name": "Guns",
+        "chance": 0.0158333369,
+        "table": [
+          {
+            "item": 1165
+          }
+        ]
+      },
+      {
+        "name": "Shirts",
+        "chance": 0.0422619022,
+        "table": [
+          {
+            "item": 232
+          }
+        ]
+      },
+      {
+        "name": "Hats",
+        "chance": 0.07380158,
+        "table": [
+          {
+            "item": 240
+          }
+        ]
+      },
+      {
+        "name": "Magazines",
+        "chance": 0.106301576,
+        "table": [
+          {
+            "item": 1166
+          }
+        ]
+      },
+      {
+        "name": "Pants",
+        "chance": 0.140507936,
+        "table": [
+          {
+            "item": 2
+          }
+        ]
+      },
+      {
+        "name": "Rare",
+        "chance": 0.216492161,
+        "table": [
+          {
+            "item": 68
+          },
+          {
+            "item": 70
+          },
+          {
+            "item": 458
+          },
+          {
+            "item": 459
+          }
+        ]
+      },
+      {
+        "name": "Melee",
+        "chance": 0.332476258,
+        "table": [
+          {
+            "item": 136
+          },
+          {
+            "item": 141
+          },
+          {
+            "item": 138
+          },
+          {
+            "item": 1031
+          },
+          {
+            "item": 1032
+          },
+          {
+            "item": 1198
+          }
+        ]
+      },
+      {
+        "name": "Average",
+        "chance": 0.579571545,
+        "table": [
+          {
+            "item": 64
+          },
+          {
+            "item": 65
+          },
+          {
+            "item": 69
+          },
+          {
+            "item": 72
+          },
+          {
+            "item": 285
+          },
+          {
+            "item": 74
+          }
+        ]
+      },
+      {
+        "name": "Common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 66
+          },
+          {
+            "item": 67
+          },
+          {
+            "item": 71
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.796078444,
+      "g": 0.184313729,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Camp",
+    "tableID": 367,
+    "tiers": [
+      {
+        "name": "Barricades",
+        "chance": 0.009992051,
+        "table": [
+          {
+            "item": 362
+          },
+          {
+            "item": 1113
+          }
+        ]
+      },
+      {
+        "name": "Bedrolls",
+        "chance": 0.0206508785,
+        "table": [
+          {
+            "item": 288
+          },
+          {
+            "item": 289
+          },
+          {
+            "item": 290
+          },
+          {
+            "item": 291
+          },
+          {
+            "item": 292
+          },
+          {
+            "item": 293
+          },
+          {
+            "item": 294
+          },
+          {
+            "item": 295
+          }
+        ]
+      },
+      {
+        "name": "Crossbows",
+        "chance": 0.0317400061,
+        "table": [
+          {
+            "item": 346
+          }
+        ]
+      },
+      {
+        "name": "Glasses",
+        "chance": 0.0450733379,
+        "table": [
+          {
+            "item": 1199
+          }
+        ]
+      },
+      {
+        "name": "Bows",
+        "chance": 0.06334195,
+        "table": [
+          {
+            "item": 357
+          }
+        ]
+      },
+      {
+        "name": "Diving",
+        "chance": 0.09578639,
+        "table": [
+          {
+            "item": 1178
+          },
+          {
+            "item": 1179
+          },
+          {
+            "item": 1180
+          },
+          {
+            "item": 1181
+          }
+        ]
+      },
+      {
+        "name": "Pants",
+        "chance": 0.141183212,
+        "table": [
+          {
+            "item": 511
+          }
+        ]
+      },
+      {
+        "name": "Shirts",
+        "chance": 0.190135568,
+        "table": [
+          {
+            "item": 510
+          }
+        ]
+      },
+      {
+        "name": "Hats",
+        "chance": 0.239532366,
+        "table": [
+          {
+            "item": 509
+          }
+        ]
+      },
+      {
+        "name": "Magazines",
+        "chance": 0.305524468,
+        "table": [
+          {
+            "item": 381
+          },
+          {
+            "item": 103
+          },
+          {
+            "item": 111
+          },
+          {
+            "item": 485
+          }
+        ]
+      },
+      {
+        "name": "Guns",
+        "chance": 0.378278464,
+        "table": [
+          {
+            "item": 109
+          },
+          {
+            "item": 101
+          },
+          {
+            "item": 380
+          },
+          {
+            "item": 484
+          }
+        ]
+      },
+      {
+        "name": "Ammo",
+        "chance": 0.458937228,
+        "table": [
+          {
+            "item": 381
+          }
+        ]
+      },
+      {
+        "name": "Arrows",
+        "chance": 0.5705392,
+        "table": [
+          {
+            "item": 347
+          },
+          {
+            "item": 352
+          }
+        ]
+      },
+      {
+        "name": "Tools",
+        "chance": 0.6854715,
+        "table": [
+          {
+            "item": 337
+          },
+          {
+            "item": 333
+          },
+          {
+            "item": 503
+          },
+          {
+            "item": 1175
+          }
+        ]
+      },
+      {
+        "name": "Food",
+        "chance": 0.8416858,
+        "table": [
+          {
+            "item": 464
+          },
+          {
+            "item": 329
+          },
+          {
+            "item": 335
+          },
+          {
+            "item": 338
+          },
+          {
+            "item": 342
+          },
+          {
+            "item": 340
+          },
+          {
+            "item": 344
+          },
+          {
+            "item": 460
+          },
+          {
+            "item": 470
+          }
+        ]
+      },
+      {
+        "name": "Melee",
+        "chance": 0.9999999,
+        "table": [
+          {
+            "item": 16
+          },
+          {
+            "item": 139
+          },
+          {
+            "item": 276
+          },
+          {
+            "item": 141
+          },
+          {
+            "item": 1033
+          },
+          {
+            "item": 1031
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0431372561,
+      "g": 0.184313729,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Prison",
+    "tableID": 368,
+    "tiers": [
+      {
+        "name": "Melee",
+        "chance": 0.0544444136,
+        "table": [
+          {
+            "item": 140
+          }
+        ]
+      },
+      {
+        "name": "Arrest",
+        "chance": 0.1566666,
+        "table": [
+          {
+            "item": 1195
+          },
+          {
+            "item": 1196
+          }
+        ]
+      },
+      {
+        "name": "Pants",
+        "chance": 0.573333263,
+        "table": [
+          {
+            "item": 304
+          }
+        ]
+      },
+      {
+        "name": "Shirts",
+        "chance": 0.9999999,
+        "table": [
+          {
+            "item": 303
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.9764706,
+      "g": 0.521568656,
+      "b": 0.149019614
+    }
+  },
+  {
+    "name": "Research",
+    "tableID": 369,
+    "tiers": [
+      {
+        "name": "Ammo",
+        "chance": 0.0533333272,
+        "table": [
+          {
+            "item": 44
+          }
+        ]
+      },
+      {
+        "name": "Magazines",
+        "chance": 0.115333319,
+        "table": [
+          {
+            "item": 1029
+          }
+        ]
+      },
+      {
+        "name": "Guns",
+        "chance": 0.198666632,
+        "table": [
+          {
+            "item": 1027
+          }
+        ]
+      },
+      {
+        "name": "Clothes",
+        "chance": 0.2946666,
+        "table": [
+          {
+            "item": 1015
+          },
+          {
+            "item": 1016
+          },
+          {
+            "item": 1017
+          }
+        ]
+      },
+      {
+        "name": "Research",
+        "chance": 0.4473334,
+        "table": [
+          {
+            "item": 269
+          }
+        ]
+      },
+      {
+        "name": "Supply",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 75
+          },
+          {
+            "item": 391
+          },
+          {
+            "item": 392
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.8980392,
+      "g": 0.533333361,
+      "b": 0.203921571
+    }
+  },
+  {
+    "name": "Chef",
+    "tableID": 377,
+    "tiers": [
+      {
+        "name": "Shirt",
+        "chance": 0.0150000006,
+        "table": [
+          {
+            "item": 230
+          }
+        ]
+      },
+      {
+        "name": "Hat",
+        "chance": 0.0383049361,
+        "table": [
+          {
+            "item": 239
+          }
+        ]
+      },
+      {
+        "name": "Pants",
+        "chance": 0.0649716,
+        "table": [
+          {
+            "item": 231
+          }
+        ]
+      },
+      {
+        "name": "Melee",
+        "chance": 0.199349076,
+        "table": [
+          {
+            "item": 137
+          },
+          {
+            "item": 1030
+          }
+        ]
+      },
+      {
+        "name": "Food",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 14
+          },
+          {
+            "item": 82
+          },
+          {
+            "item": 91
+          },
+          {
+            "item": 92
+          },
+          {
+            "item": 84
+          },
+          {
+            "item": 85
+          },
+          {
+            "item": 83
+          },
+          {
+            "item": 464
+          },
+          {
+            "item": 329
+          },
+          {
+            "item": 335
+          },
+          {
+            "item": 338
+          },
+          {
+            "item": 342
+          },
+          {
+            "item": 340
+          },
+          {
+            "item": 344
+          },
+          {
+            "item": 460
+          },
+          {
+            "item": 470
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.270588249,
+      "g": 0.117647059,
+      "b": 0.309803933
+    }
+  },
+  {
+    "name": "Botanist",
+    "tableID": 378,
+    "tiers": [
+      {
+        "name": "Barricades",
+        "chance": 0.05333333,
+        "table": [
+          {
+            "item": 331
+          }
+        ]
+      },
+      {
+        "name": "Tools",
+        "chance": 0.226666644,
+        "table": [
+          {
+            "item": 332
+          }
+        ]
+      },
+      {
+        "name": "Seeds",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 330
+          },
+          {
+            "item": 336
+          },
+          {
+            "item": 339
+          },
+          {
+            "item": 341
+          },
+          {
+            "item": 343
+          },
+          {
+            "item": 345
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.156862751,
+      "g": 0.356862754,
+      "b": 0.156862751
+    }
+  },
+  {
+    "name": "Farm",
+    "tableID": 379,
+    "tiers": [
+      {
+        "name": "Crossbows",
+        "chance": 0.0199890547,
+        "table": [
+          {
+            "item": 346
+          }
+        ]
+      },
+      {
+        "name": "Bows",
+        "chance": 0.0548672266,
+        "table": [
+          {
+            "item": 357
+          }
+        ]
+      },
+      {
+        "name": "Tools",
+        "chance": 0.0954912,
+        "table": [
+          {
+            "item": 490
+          },
+          {
+            "item": 332
+          }
+        ]
+      },
+      {
+        "name": "Barricades",
+        "chance": 0.140083775,
+        "table": [
+          {
+            "item": 331
+          }
+        ]
+      },
+      {
+        "name": "Magazines",
+        "chance": 0.1925489,
+        "table": [
+          {
+            "item": 111
+          },
+          {
+            "item": 103
+          },
+          {
+            "item": 381
+          },
+          {
+            "item": 485
+          }
+        ]
+      },
+      {
+        "name": "Guns",
+        "chance": 0.258041,
+        "table": [
+          {
+            "item": 109
+          },
+          {
+            "item": 101
+          },
+          {
+            "item": 380
+          },
+          {
+            "item": 484
+          }
+        ]
+      },
+      {
+        "name": "Ammo",
+        "chance": 0.331014335,
+        "table": [
+          {
+            "item": 44
+          },
+          {
+            "item": 381
+          }
+        ]
+      },
+      {
+        "name": "Melee",
+        "chance": 0.411014348,
+        "table": [
+          {
+            "item": 1034
+          },
+          {
+            "item": 1033
+          },
+          {
+            "item": 1031
+          },
+          {
+            "item": 1174
+          }
+        ]
+      },
+      {
+        "name": "Arrows",
+        "chance": 0.491925985,
+        "table": [
+          {
+            "item": 347
+          },
+          {
+            "item": 352
+          }
+        ]
+      },
+      {
+        "name": "Seeds",
+        "chance": 0.6580001,
+        "table": [
+          {
+            "item": 330
+          },
+          {
+            "item": 336
+          },
+          {
+            "item": 339
+          },
+          {
+            "item": 341
+          },
+          {
+            "item": 343
+          },
+          {
+            "item": 345
+          }
+        ]
+      },
+      {
+        "name": "Clothes",
+        "chance": 1.00000012,
+        "table": [
+          {
+            "item": 242
+          },
+          {
+            "item": 243
+          },
+          {
+            "item": 244
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.1764706,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Militia",
+    "tableID": 380,
+    "tiers": [
+      {
+        "name": "Thief",
+        "chance": 0.0133333309,
+        "table": [
+          {
+            "item": 1156
+          },
+          {
+            "item": 1157
+          }
+        ]
+      },
+      {
+        "name": "Special",
+        "chance": 0.0301851779,
+        "table": [
+          {
+            "item": 126
+          },
+          {
+            "item": 127
+          },
+          {
+            "item": 519
+          },
+          {
+            "item": 520
+          },
+          {
+            "item": 1000
+          },
+          {
+            "item": 1003
+          },
+          {
+            "item": 1005
+          },
+          {
+            "item": 129
+          },
+          {
+            "item": 130
+          },
+          {
+            "item": 125
+          },
+          {
+            "item": 1193
+          }
+        ]
+      },
+      {
+        "name": "Ammo",
+        "chance": 0.09153705,
+        "table": [
+          {
+            "item": 119
+          }
+        ]
+      },
+      {
+        "name": "Magazines",
+        "chance": 0.153246149,
+        "table": [
+          {
+            "item": 123
+          },
+          {
+            "item": 1040
+          },
+          {
+            "item": 1042
+          }
+        ]
+      },
+      {
+        "name": "Barrels",
+        "chance": 0.2196615,
+        "table": [
+          {
+            "item": 144
+          },
+          {
+            "item": 1190
+          },
+          {
+            "item": 1191
+          }
+        ]
+      },
+      {
+        "name": "Sights",
+        "chance": 0.3040133,
+        "table": [
+          {
+            "item": 153
+          },
+          {
+            "item": 1004
+          }
+        ]
+      },
+      {
+        "name": "Guns",
+        "chance": 0.412150741,
+        "table": [
+          {
+            "item": 122
+          },
+          {
+            "item": 1039
+          },
+          {
+            "item": 1041
+          }
+        ]
+      },
+      {
+        "name": "Masks",
+        "chance": 0.5369945,
+        "table": [
+          {
+            "item": 11
+          },
+          {
+            "item": 185
+          },
+          {
+            "item": 186
+          },
+          {
+            "item": 187
+          },
+          {
+            "item": 188
+          },
+          {
+            "item": 189
+          },
+          {
+            "item": 190
+          },
+          {
+            "item": 191
+          }
+        ]
+      },
+      {
+        "name": "Hats",
+        "chance": 0.6729492,
+        "table": [
+          {
+            "item": 434
+          },
+          {
+            "item": 435
+          },
+          {
+            "item": 436
+          },
+          {
+            "item": 437
+          },
+          {
+            "item": 438
+          },
+          {
+            "item": 439
+          },
+          {
+            "item": 440
+          },
+          {
+            "item": 441
+          }
+        ]
+      },
+      {
+        "name": "Melee",
+        "chance": 0.9999999,
+        "table": [
+          {
+            "item": 140
+          },
+          {
+            "item": 1035
+          },
+          {
+            "item": 1036
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.572549045
+    }
+  },
+  {
+    "name": "Guns_America",
+    "tableID": 381,
+    "tiers": [
+      {
+        "name": "Armor",
+        "chance": 0.0266666654,
+        "table": [
+          {
+            "item": 1168
+          }
+        ]
+      },
+      {
+        "name": "Ammo",
+        "chance": 0.177777827,
+        "table": [
+          {
+            "item": 44
+          },
+          {
+            "item": 43
+          }
+        ]
+      },
+      {
+        "name": "Guns",
+        "chance": 0.348888934,
+        "table": [
+          {
+            "item": 97
+          },
+          {
+            "item": 107
+          },
+          {
+            "item": 484
+          },
+          {
+            "item": 4
+          }
+        ]
+      },
+      {
+        "name": "Magazines",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 98
+          },
+          {
+            "item": 108
+          },
+          {
+            "item": 485
+          },
+          {
+            "item": 6
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.235294119,
+      "g": 0.235294119,
+      "b": 0.235294119
+    }
+  },
+  {
+    "name": "Kitchen",
+    "tableID": 387,
+    "tiers": [
+      {
+        "name": "Melee",
+        "chance": 0.0933333337,
+        "table": [
+          {
+            "item": 120
+          }
+        ]
+      },
+      {
+        "name": "Food",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 14
+          },
+          {
+            "item": 91
+          },
+          {
+            "item": 92
+          },
+          {
+            "item": 82
+          },
+          {
+            "item": 84
+          },
+          {
+            "item": 85
+          },
+          {
+            "item": 83
+          },
+          {
+            "item": 464
+          },
+          {
+            "item": 329
+          },
+          {
+            "item": 335
+          },
+          {
+            "item": 338
+          },
+          {
+            "item": 342
+          },
+          {
+            "item": 340
+          },
+          {
+            "item": 344
+          },
+          {
+            "item": 460
+          },
+          {
+            "item": 470
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.239215687,
+      "g": 0.286274523,
+      "b": 0.419607848
+    }
+  },
+  {
+    "name": "Alien",
+    "tableID": 388,
+    "tiers": [
+      {
+        "name": "Guns",
+        "chance": 0.106666595,
+        "table": [
+          {
+            "item": 300
+          }
+        ]
+      },
+      {
+        "name": "Magazines",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 301
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.137254909,
+      "g": 0.180392161,
+      "b": 0.137254909
+    }
+  },
+  {
+    "name": "Cloth",
+    "tableID": 392,
+    "tiers": [
+      {
+        "name": "Daypack",
+        "chance": 0.0192689709,
+        "table": [
+          {
+            "item": 9
+          },
+          {
+            "item": 200
+          },
+          {
+            "item": 201
+          },
+          {
+            "item": 202
+          },
+          {
+            "item": 203
+          },
+          {
+            "item": 204
+          },
+          {
+            "item": 205
+          },
+          {
+            "item": 206
+          }
+        ]
+      },
+      {
+        "name": "Shirts",
+        "chance": 0.0451339372,
+        "table": [
+          {
+            "item": 211
+          },
+          {
+            "item": 421
+          }
+        ]
+      },
+      {
+        "name": "Travelpack",
+        "chance": 0.07303361,
+        "table": [
+          {
+            "item": 245
+          },
+          {
+            "item": 246
+          },
+          {
+            "item": 247
+          },
+          {
+            "item": 248
+          },
+          {
+            "item": 249
+          },
+          {
+            "item": 250
+          },
+          {
+            "item": 251
+          },
+          {
+            "item": 252
+          }
+        ]
+      },
+      {
+        "name": "Cap",
+        "chance": 0.110553086,
+        "table": [
+          {
+            "item": 425
+          },
+          {
+            "item": 426
+          },
+          {
+            "item": 427
+          },
+          {
+            "item": 428
+          },
+          {
+            "item": 429
+          },
+          {
+            "item": 430
+          },
+          {
+            "item": 431
+          },
+          {
+            "item": 432
+          }
+        ]
+      },
+      {
+        "name": "Umbrella",
+        "chance": 0.15589498,
+        "table": [
+          {
+            "item": 1103
+          },
+          {
+            "item": 1122
+          },
+          {
+            "item": 1123
+          },
+          {
+            "item": 1124
+          },
+          {
+            "item": 1125
+          },
+          {
+            "item": 1126
+          },
+          {
+            "item": 1127
+          },
+          {
+            "item": 1128
+          }
+        ]
+      },
+      {
+        "name": "Dufflebag",
+        "chance": 0.209228322,
+        "table": [
+          {
+            "item": 1182
+          },
+          {
+            "item": 1183
+          },
+          {
+            "item": 1184
+          },
+          {
+            "item": 1185
+          },
+          {
+            "item": 1186
+          },
+          {
+            "item": 1187
+          },
+          {
+            "item": 1188
+          },
+          {
+            "item": 1189
+          }
+        ]
+      },
+      {
+        "name": "Hoodie",
+        "chance": 0.2646084,
+        "table": [
+          {
+            "item": 3
+          },
+          {
+            "item": 157
+          },
+          {
+            "item": 161
+          },
+          {
+            "item": 165
+          },
+          {
+            "item": 169
+          },
+          {
+            "item": 173
+          },
+          {
+            "item": 177
+          },
+          {
+            "item": 181
+          }
+        ]
+      },
+      {
+        "name": "Poncho",
+        "chance": 0.324408561,
+        "table": [
+          {
+            "item": 410
+          },
+          {
+            "item": 411
+          },
+          {
+            "item": 412
+          },
+          {
+            "item": 413
+          },
+          {
+            "item": 414
+          },
+          {
+            "item": 415
+          },
+          {
+            "item": 416
+          },
+          {
+            "item": 417
+          }
+        ]
+      },
+      {
+        "name": "Sweatervest",
+        "chance": 0.413535357,
+        "table": [
+          {
+            "item": 215
+          },
+          {
+            "item": 216
+          },
+          {
+            "item": 217
+          },
+          {
+            "item": 218
+          },
+          {
+            "item": 219
+          },
+          {
+            "item": 220
+          },
+          {
+            "item": 221
+          },
+          {
+            "item": 222
+          }
+        ]
+      },
+      {
+        "name": "Pants",
+        "chance": 0.5091348,
+        "table": [
+          {
+            "item": 2
+          },
+          {
+            "item": 207
+          },
+          {
+            "item": 208
+          },
+          {
+            "item": 209
+          },
+          {
+            "item": 212
+          },
+          {
+            "item": 213
+          },
+          {
+            "item": 214
+          },
+          {
+            "item": 226
+          },
+          {
+            "item": 227
+          },
+          {
+            "item": 228
+          },
+          {
+            "item": 229
+          },
+          {
+            "item": 422
+          }
+        ]
+      },
+      {
+        "name": "Parka",
+        "chance": 0.6293688,
+        "table": [
+          {
+            "item": 156
+          },
+          {
+            "item": 160
+          },
+          {
+            "item": 162
+          },
+          {
+            "item": 166
+          },
+          {
+            "item": 170
+          },
+          {
+            "item": 174
+          },
+          {
+            "item": 178
+          },
+          {
+            "item": 182
+          }
+        ]
+      },
+      {
+        "name": "Tee",
+        "chance": 0.7496028,
+        "table": [
+          {
+            "item": 155
+          },
+          {
+            "item": 159
+          },
+          {
+            "item": 164
+          },
+          {
+            "item": 168
+          },
+          {
+            "item": 172
+          },
+          {
+            "item": 176
+          },
+          {
+            "item": 180
+          },
+          {
+            "item": 184
+          }
+        ]
+      },
+      {
+        "name": "Shirt",
+        "chance": 0.8698368,
+        "table": [
+          {
+            "item": 154
+          },
+          {
+            "item": 158
+          },
+          {
+            "item": 163
+          },
+          {
+            "item": 167
+          },
+          {
+            "item": 171
+          },
+          {
+            "item": 175
+          },
+          {
+            "item": 179
+          },
+          {
+            "item": 183
+          }
+        ]
+      },
+      {
+        "name": "Hats",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 424
+          },
+          {
+            "item": 27
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.5058824,
+      "b": 0.309803933
+    }
+  },
+  {
+    "name": "Post",
+    "tableID": 393,
+    "tiers": [
+      {
+        "name": "Common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 70
+          },
+          {
+            "item": 64
+          },
+          {
+            "item": 69
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.23137255,
+      "g": 0.156862751,
+      "b": 0.0117647061
+    }
+  },
+  {
+    "name": "Civilian_America",
+    "tableID": 394,
+    "tiers": [
+      {
+        "name": "Armor",
+        "chance": 0.0133333327,
+        "table": [
+          {
+            "item": 1168
+          }
+        ]
+      },
+      {
+        "name": "Magazines",
+        "chance": 0.050666675,
+        "table": [
+          {
+            "item": 98
+          },
+          {
+            "item": 108
+          }
+        ]
+      },
+      {
+        "name": "Guns",
+        "chance": 0.104666665,
+        "table": [
+          {
+            "item": 97
+          },
+          {
+            "item": 107
+          },
+          {
+            "item": 4
+          }
+        ]
+      },
+      {
+        "name": "Tools",
+        "chance": 0.213666648,
+        "table": [
+          {
+            "item": 333
+          }
+        ]
+      },
+      {
+        "name": "Supplies",
+        "chance": 0.5632222,
+        "table": [
+          {
+            "item": 70
+          },
+          {
+            "item": 64
+          },
+          {
+            "item": 69
+          }
+        ]
+      },
+      {
+        "name": "Melee",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 276
+          },
+          {
+            "item": 138
+          },
+          {
+            "item": 142
+          },
+          {
+            "item": 105
+          },
+          {
+            "item": 135
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Doughnut",
+    "tableID": 402,
+    "tiers": [
+      {
+        "name": "Rare",
+        "chance": 0.106666662,
+        "table": [
+          {
+            "item": 1159
+          }
+        ]
+      },
+      {
+        "name": "Common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1162
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Pizza",
+    "tableID": 403,
+    "tiers": [
+      {
+        "name": "Common",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1162
+          },
+          {
+            "item": 464
+          },
+          {
+            "item": 340
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  }
+]

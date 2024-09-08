@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Billboard_12",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Large/Frost_Billboard_12/Frost_Billboard_12.dat",
+  "data": {
+    "GUID": "73d97e74b8224a0b9948b32071f7ea65",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000"
+  },
+  "translation": {
+    "Name": "Frost Billboard #13"
+  }
+}

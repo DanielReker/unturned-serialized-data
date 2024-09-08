@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Moving_Box",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Moving_Box/Obj_Moving_Box.dat",
+  "data": {
+    "GUID": "6da35bf60f104f428f40f3ca763e2412",
+    "Type": "Effect",
+    "ID": "25342"
+  },
+  "translation": null
+}

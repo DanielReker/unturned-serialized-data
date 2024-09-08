@@ -1,0 +1,15 @@
+{
+  "name": "28002KOQA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28001KOSD/28002KOQA/Asset.dat",
+  "data": {
+    "GUID": "9d2dbd9b38734015a4766a64a067d142",
+    "Type": "Dialogue",
+    "ID": "28002",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "28001"
+  },
+  "translation": {
+    "Message_0_Page_0": "Stay safe love."
+  }
+}

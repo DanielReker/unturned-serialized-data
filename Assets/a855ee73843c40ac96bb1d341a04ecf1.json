@@ -1,0 +1,13 @@
+{
+  "name": "IR_Hedge_Leaves",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/City/IR_Hedge_Leaves/IR_Hedge_Leaves.dat",
+  "data": {
+    "GUID": "a855ee73843c40ac96bb1d341a04ecf1",
+    "Type": "Medium",
+    "ID": "15139",
+    "Snowshoe": ""
+  },
+  "translation": {
+    "Name": "Irish Leaves Hedge#1"
+  }
+}

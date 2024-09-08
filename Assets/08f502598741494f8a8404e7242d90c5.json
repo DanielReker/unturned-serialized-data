@@ -1,0 +1,13 @@
+{
+  "name": "WS_Livingroom_TV_Stand",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/WS_Livingroom_TV_Stand/WS_Livingroom_TV_Stand.dat",
+  "data": {
+    "GUID": "08f502598741494f8a8404e7242d90c5",
+    "Type": "Spawn",
+    "ID": "25411",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "25410",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

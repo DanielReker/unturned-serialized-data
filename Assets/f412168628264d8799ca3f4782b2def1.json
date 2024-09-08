@@ -1,0 +1,23 @@
+{
+  "name": "Frost_Top_Police_THICC_Zombie",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Clothing/Frost_Top_Police_THICC_Zombie/Frost_Top_Police_THICC_Zombie.dat",
+  "data": {
+    "GUID": "f412168628264d8799ca3f4782b2def1",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Useable": "Clothing",
+    "ID": "36640",
+    "Proof_Radiation": "",
+    "Proof_Fire": "",
+    "Armor": "0.85",
+    "Armor_Explosion": "0",
+    "Width": "6",
+    "Height": "3",
+    "Master_Bundle_Override": "frost.masterbundle",
+    "Bundle_Override_Path": "/Items/Clothing/Frost_Top_Police_THICC"
+  },
+  "translation": {
+    "Name": "SWAT Top Zombie",
+    "Description": "<color=#64c819>+15%</color> Arm & Body Armor<br><color=#64c819>+Fire Protection</color><br><color=#64c819>+18</color> Slots<br><color=#64c819>+4%</color> Movement Speed"
+  }
+}

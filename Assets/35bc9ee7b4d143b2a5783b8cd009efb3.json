@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Satellite_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_Satellite_00/Buak_Satellite_00.dat",
+  "data": {
+    "GUID": "35bc9ee7b4d143b2a5783b8cd009efb3",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Exclude_From_Culling_Volumes": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Satellite_00"
+  }
+}

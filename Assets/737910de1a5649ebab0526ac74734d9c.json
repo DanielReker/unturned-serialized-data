@@ -1,0 +1,28 @@
+{
+  "name": "Find_Camera",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Quests/Find_Camera/Asset.dat",
+  "data": {
+    "GUID": "737910de1a5649ebab0526ac74734d9c",
+    "Type": "Quest",
+    "ID": "2161",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "2164",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "3",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "25",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "5",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "2116",
+    "Reward_2_Value": "1",
+    "Reward_2_Modification": "Increment"
+  },
+  "translation": {
+    "Name": "Lost Camera!",
+    "Description": "A scout claims he took photos of a hidden entryway into the mountain. We've been struggling for weeks to locate Aegis's hidden facility. The scout said he dropped it in a pile of rubble while fleeing the junk yard!",
+    "Condition_0": "Find Camera {0}/1"
+  }
+}

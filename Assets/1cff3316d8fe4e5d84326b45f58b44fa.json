@@ -1,0 +1,14 @@
+{
+  "name": "PS_Shop_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Shop_0/PS_Shop_0.dat",
+  "data": {
+    "GUID": "1cff3316d8fe4e5d84326b45f58b44fa",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59331",
+    "LOD": "Area"
+  },
+  "translation": {
+    "Name": "PS Shop #1"
+  }
+}

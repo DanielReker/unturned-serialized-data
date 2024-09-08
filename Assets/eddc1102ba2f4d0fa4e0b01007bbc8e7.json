@@ -1,0 +1,17 @@
+{
+  "name": "Easter_Bush_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Resources/Easter_Bush_1/Easter_Bush_1.dat",
+  "data": {
+    "GUID": "eddc1102ba2f4d0fa4e0b01007bbc8e7",
+    "Type": "Resource",
+    "ID": "6604",
+    "Health": "1000",
+    "Radius": "3",
+    "Scale": "0.1",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Easter Bush #2"
+  }
+}

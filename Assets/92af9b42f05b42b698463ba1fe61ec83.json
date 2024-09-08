@@ -1,0 +1,30 @@
+{
+  "name": "Sportscar_Special",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Vehicles/Hawaii_Expansion/Sportscar_Special/Sportscar_Special.dat",
+  "data": {
+    "GUID": "92af9b42f05b42b698463ba1fe61ec83",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "ID": "845",
+    "Speed_Min": "-6",
+    "Speed_Max": "23",
+    "Steer_Min": "18",
+    "Steer_Max": "32",
+    "Brake": "24",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "1750",
+    "Health_Min": "400",
+    "Health_Max": "500",
+    "Health": "650",
+    "Traction": "",
+    "Explosion": "20",
+    "Trunk_Storage_X": "5",
+    "Trunk_Storage_Y": "3",
+    "Bypass_ID_Limit": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Legareno"
+  }
+}

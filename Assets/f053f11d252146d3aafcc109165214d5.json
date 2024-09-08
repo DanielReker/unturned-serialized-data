@@ -1,0 +1,35 @@
+{
+  "name": "Bloodbag",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Meds/Bloodbag/Bloodbag.dat",
+  "data": {
+    "GUID": "f053f11d252146d3aafcc109165214d5",
+    "Type": "Medical",
+    "Rarity": "Rare",
+    "Useable": "Consumeable",
+    "ID": "25630",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.44",
+    "Use_Auto_Icon_Measurements": "False",
+    "Health": "60",
+    "Virus": "5",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "25629",
+    "Quest_Reward_0_Amount": "1",
+    "Quest_Reward_0_Value": "True",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "25358",
+    "Blueprint_0_Supply_0_Amount": "10",
+    "Blueprint_0_Supply_1_ID": "25629",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Build": "25536",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Bloodbag",
+    "Description": "A bag of human, or animal blood, whos blood? Yours now. What type? A, possibly B, could be AB, might even be O.<br><size=14><color=#ff4466>Health 60</color> <color=#3f8a41>Virus 5</color></size>"
+  }
+}

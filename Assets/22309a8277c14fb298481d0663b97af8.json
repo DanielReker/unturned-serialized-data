@@ -1,0 +1,13 @@
+{
+  "name": "Buak_Bar_Pumpkin",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Bar_Pumpkin/Buak_Bar_Pumpkin.dat",
+  "data": {
+    "GUID": "22309a8277c14fb298481d0663b97af8",
+    "Type": "Spawn",
+    "ID": "25477",
+    "Tables": "1",
+    "Table_0_Asset_ID": "27840",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

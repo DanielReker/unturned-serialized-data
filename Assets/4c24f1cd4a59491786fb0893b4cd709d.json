@@ -1,0 +1,13 @@
+{
+  "name": "Yukon_Cloth_Arctic",
+  "path": "Bundles/Spawns/Items/Yukon_Cloth_Arctic/Yukon_Cloth_Arctic.dat",
+  "data": {
+    "GUID": "4c24f1cd4a59491786fb0893b4cd709d",
+    "Type": "Spawn",
+    "ID": "476",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "477",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

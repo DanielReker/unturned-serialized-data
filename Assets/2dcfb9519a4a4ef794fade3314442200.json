@@ -1,0 +1,13 @@
+{
+  "name": "Silver_DerEnte",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Plaques/Silver_DerEnte/Silver_DerEnte.dat",
+  "data": {
+    "GUID": "2dcfb9519a4a4ef794fade3314442200",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Plaque Der Ente"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "IR_Military_Tower_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Military_Tower_2/IR_Military_Tower_2.dat",
+  "data": {
+    "GUID": "90582229a6e449cbaa11b1b257bcb445",
+    "Type": "Large",
+    "ID": "17080"
+  },
+  "translation": {
+    "Name": "Irish Military Tower#2"
+  }
+}

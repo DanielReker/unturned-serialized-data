@@ -1,0 +1,36 @@
+{
+  "name": "PS_Drops_Spooky_Box",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Spooky_Box/PS_Drops_Spooky_Box.dat",
+  "data": {
+    "GUID": "1bbd5c04ec244cddbf8d8fdfc18a1152",
+    "Type": "Spawn",
+    "ID": "59476",
+    "Tables": [
+      {
+        "Guid": "82d9b3195d1e4d4b9e2784a92b25f352",
+        "Weight": "10"
+      },
+      {
+        "Guid": "ca95ef2099374c9d88c94081e567c7d6",
+        "Weight": "7"
+      },
+      {
+        "Guid": "35b3b7daa77b48248f52e87c8ccab1a2",
+        "Weight": "7"
+      },
+      {
+        "Guid": "18a293c379f5437f828cb1bda31c5c50",
+        "Weight": "6"
+      },
+      {
+        "Guid": "32946ab36e98497681e098c2c2b586cb",
+        "Weight": "6"
+      },
+      {
+        "Guid": "8c263806d914401cb090dfd2a114313c",
+        "Weight": "3"
+      }
+    ]
+  },
+  "translation": null
+}

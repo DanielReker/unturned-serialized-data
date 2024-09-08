@@ -1,0 +1,24 @@
+{
+  "name": "PS_Bus_0_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Bus_0_Dialogue/PS_Bus_0_Welcome/Asset.dat",
+  "data": {
+    "GUID": "92304dcee8f141a19164074cf86f9019",
+    "Type": "Dialogue",
+    "ID": "59082",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Teleport",
+    "Response_0_Reward_0_Spawnpoint": "Bus0",
+    "Response_1_Rewards": "1",
+    "Response_1_Reward_0_Type": "Teleport",
+    "Response_1_Reward_0_Spawnpoint": "Bus1"
+  },
+  "translation": {
+    "Message_0_Page_0": "...where?",
+    "Response_0": "Take me to the safezone.",
+    "Response_1": "Take me to the west side.",
+    "Response_2": "Thanks!"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "California_Special_High_Mags",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_Special_High_Mags/California_Special_High_Mags.dat",
+  "data": {
+    "GUID": "0baaca2b0daf46f5ac67d9e46cb5c210",
+    "Type": "Spawn",
+    "ID": "4391",
+    "Tables": "1",
+    "Table_0_Asset_ID": "4101",
+    "Table_0_Weight": "5"
+  },
+  "translation": null
+}

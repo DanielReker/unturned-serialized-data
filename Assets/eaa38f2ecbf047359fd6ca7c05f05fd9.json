@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Fuel_Barrel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Fuel_Barrel/Bar_Fuel_Barrel.dat",
+  "data": {
+    "GUID": "eaa38f2ecbf047359fd6ca7c05f05fd9",
+    "Type": "Effect",
+    "ID": "25377"
+  },
+  "translation": null
+}

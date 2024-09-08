@@ -1,0 +1,20 @@
+{
+  "name": "Dan Caby",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Characters/Dan Caby/Asset.dat",
+  "data": {
+    "GUID": "5aee3dbe0932491f8db7bf717ba9224d",
+    "Type": "NPC",
+    "ID": "9000",
+    "Shirt": "23534",
+    "Pants": "23535",
+    "Face": "23",
+    "Hair": "1",
+    "Color_Skin": "#F9E2C5",
+    "Color_Hair": "#010B33",
+    "Dialogue": "9001"
+  },
+  "translation": {
+    "Name": "Dan Caby",
+    "Character": "<color=rare>Dan Caby</color>"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Coalition_Food",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Vendors/Coali/Coalition_Food/Asset.dat",
+  "data": {
+    "GUID": "213b07c5fc5247c49d6ef72d4fd0f8d7",
+    "Type": "Vendor",
+    "ID": "15203",
+    "Buying": "4",
+    "Buying_0_ID": "1159",
+    "Buying_0_Amount": "1",
+    "Buying_0_Cost": "450",
+    "Buying_1_ID": "1162",
+    "Buying_1_Amount": "1",
+    "Buying_1_Cost": "400",
+    "Buying_2_ID": "514",
+    "Buying_2_Amount": "1",
+    "Buying_2_Cost": "700",
+    "Buying_3_ID": "1120",
+    "Buying_3_Amount": "1",
+    "Buying_3_Cost": "650",
+    "Selling": "4",
+    "Selling_0_ID": "13",
+    "Selling_0_Amount": "1",
+    "Selling_0_Cost": "750",
+    "Selling_1_ID": "88",
+    "Selling_1_Amount": "1",
+    "Selling_1_Cost": "375",
+    "Selling_2_ID": "90",
+    "Selling_2_Amount": "1",
+    "Selling_2_Cost": "400",
+    "Selling_3_ID": "469",
+    "Selling_3_Amount": "1",
+    "Selling_3_Cost": "550"
+  },
+  "translation": {
+    "Name": "<color=rare>Coalition</color> Canteen",
+    "Description": "The best canned food around!"
+  }
+}

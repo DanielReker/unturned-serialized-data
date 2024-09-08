@@ -1,0 +1,13 @@
+{
+  "name": "PS_Shooting_Range_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Shooting_Range_0/PS_Shooting_Range_0.dat",
+  "data": {
+    "GUID": "0369141c5c6541b99ac575259dee28b4",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60069"
+  },
+  "translation": {
+    "Name": "PS Shooting Range #1"
+  }
+}

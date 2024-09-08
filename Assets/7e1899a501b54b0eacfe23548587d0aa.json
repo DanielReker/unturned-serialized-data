@@ -1,0 +1,30 @@
+{
+  "name": "PBS_Singer_ChooseSell",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Singer/PBS_Singer_ChooseSell/Asset.dat",
+  "data": {
+    "GUID": "7e1899a501b54b0eacfe23548587d0aa",
+    "Type": "Dialogue",
+    "ID": "52733",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "52731",
+    "Responses": "5",
+    "Response_0_Dialogue": "52734",
+    "Response_0_Vendor": "52741",
+    "Response_1_Dialogue": "52734",
+    "Response_1_Vendor": "52742",
+    "Response_2_Dialogue": "52734",
+    "Response_2_Vendor": "52743",
+    "Response_3_Dialogue": "52734",
+    "Response_3_Vendor": "52744",
+    "Response_4_Dialogue": "52731"
+  },
+  "translation": {
+    "Message_0_Page_0": "Sure thing, what're looking to sell?",
+    "Response_0": "High-tier Military Clothing",
+    "Response_1": "Regular Military Clothing",
+    "Response_2": "Riot Clothing",
+    "Response_3": "Police Clothing",
+    "Response_4": "Nevermind."
+  }
+}

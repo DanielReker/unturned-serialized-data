@@ -1,0 +1,14 @@
+{
+  "name": "Oscar_Escape_Room_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Prisoner Oscar/Oscar_Escape_Room_Accepted/Asset.dat",
+  "data": {
+    "GUID": "50272110412d42189e974ab9365fbffc",
+    "Type": "Dialogue",
+    "ID": "9105",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Don't let the guards see you!"
+  }
+}

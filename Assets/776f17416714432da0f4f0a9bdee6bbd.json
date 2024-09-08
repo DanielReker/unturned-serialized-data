@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Film_Camera",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Film_Camera/Buak_Film_Camera.dat",
+  "data": {
+    "GUID": "776f17416714432da0f4f0a9bdee6bbd",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "500",
+    "Rubble_Health": "10",
+    "Rubble_Effect": "25504",
+    "Rubble_Reward_ID": "25320",
+    "Rubble_Reward_Probability": "0.5"
+  },
+  "translation": {
+    "Name": "Buak_Film_Camera"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Kuwait_FelineCollar",
+  "path": "Bundles/Items/Kuwait/Kuwait_FelineCollar/Kuwait_FelineCollar.dat",
+  "data": {
+    "GUID": "a0a6c748604b44a496dbad430ca0484e",
+    "Type": "Mask",
+    "ID": "1656",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.15",
+    "Hair": "",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

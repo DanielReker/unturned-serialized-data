@@ -1,0 +1,32 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Alexander/Alexander_04/Welcome/Asset.dat",
+  "data": {
+    "GUID": "a3250e262ee64b97b30335d1158485d5",
+    "Type": "Dialogue",
+    "ID": "24093",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "4",
+    "Response_1_Dialogue": "a3250e262ee64b97b30335d1158485d5",
+    "Response_1_Vendor": "cbae9d1992704ce1a0a236ccbcb087ff",
+    "Response_1_Conditions": "1",
+    "Response_1_Condition_0_Type": "Quest",
+    "Response_1_Condition_0_Logic": "Equal",
+    "Response_1_Condition_0_ID": "edc4f7ccdcbe474db4a87d60b7cfaccc",
+    "Response_1_Condition_0_Status": "Completed",
+    "Response_2_Dialogue": "cdf1c4ceaa0f43fd83acb8af17e07b74",
+    "Response_2_Conditions": "1",
+    "Response_2_Condition_0_Type": "Quest",
+    "Response_2_Condition_0_Logic": "Equal",
+    "Response_2_Condition_0_ID": "d901cec9f75340a0bbd4ed5a84cff487",
+    "Response_2_Condition_0_Status": "Completed"
+  },
+  "translation": {
+    "Message_0_Page_0": "Howdy.",
+    "Response_0": "Howdy!",
+    "Response_1": "I'm here to sell construction supplies!",
+    "Response_2": "I have some questions.",
+    "Response_3": "Goodbye."
+  }
+}

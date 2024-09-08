@@ -1,0 +1,13 @@
+{
+  "name": "Gas_Station_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Gas_Station_0/Gas_Station_0.dat",
+  "data": {
+    "GUID": "be8bba1fa92e4429bf35efd6a0b94c25",
+    "Type": "Large",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Gas Station 1"
+  }
+}

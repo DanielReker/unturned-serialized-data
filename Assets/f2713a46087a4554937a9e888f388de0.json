@@ -1,0 +1,15 @@
+{
+  "name": "27012KIRRew2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27000KIRD/27012KIRRew2/Asset.dat",
+  "data": {
+    "GUID": "f2713a46087a4554937a9e888f388de0",
+    "Type": "Dialogue",
+    "ID": "27012",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "27001"
+  },
+  "translation": {
+    "Message_0_Page_0": "Enjoy that weapon - and stay safe, soldier."
+  }
+}

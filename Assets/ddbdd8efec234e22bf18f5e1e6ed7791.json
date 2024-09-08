@@ -1,0 +1,12 @@
+{
+  "name": "Clouds",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Clouds/Clouds.dat",
+  "data": {
+    "GUID": "ddbdd8efec234e22bf18f5e1e6ed7791",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Clouds"
+  }
+}

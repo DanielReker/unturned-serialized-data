@@ -1,0 +1,14 @@
+{
+  "name": "PS_Pulpit_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Pulpit_0/PS_Pulpit_0.dat",
+  "data": {
+    "GUID": "8afbe8c2a2ba43af9a5548cf5354f7f2",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59328",
+    "Material_Palette": "6b68dafe852c4ce29957c8a393d8806c"
+  },
+  "translation": {
+    "Name": "PS Pulpit #1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Pipe_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Pipe_3/PS_Pipe_3.dat",
+  "data": {
+    "GUID": "4d8667a892ef48ddb1be35fda1b69888",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59285"
+  },
+  "translation": {
+    "Name": "PS Pipe #4"
+  }
+}

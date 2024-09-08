@@ -1,0 +1,14 @@
+{
+  "name": "RULA_Machinery_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Medium/RULA/RULA_Machinery_2/RULA_Machinery_2.dat",
+  "data": {
+    "GUID": "35d967cb1a1b4ad4ae231fa586093693",
+    "Type": "Large",
+    "ID": "35137",
+    "Snowshoe": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "RULA Machinery #3"
+  }
+}

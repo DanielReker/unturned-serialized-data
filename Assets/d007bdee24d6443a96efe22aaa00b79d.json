@@ -1,0 +1,14 @@
+{
+  "name": "Fire_Chief",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Large/Vehicles/Hawaii/Fire_Chief/Fire_Chief.dat",
+  "data": {
+    "GUID": "d007bdee24d6443a96efe22aaa00b79d",
+    "Type": "Large",
+    "ID": "905",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": ""
+  },
+  "translation": {
+    "Name": "Hawaii Fire Chief"
+  }
+}

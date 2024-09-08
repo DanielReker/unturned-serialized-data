@@ -1,0 +1,17 @@
+{
+  "name": "PS_Floodlight_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Floodlight_3/PS_Floodlight_3.dat",
+  "data": {
+    "GUID": "ee971a2d1bbe494f8a0a864f243b185f",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59656",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "600",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "59017"
+  },
+  "translation": {
+    "Name": "PS Floodlight #4 [ON 2X]"
+  }
+}

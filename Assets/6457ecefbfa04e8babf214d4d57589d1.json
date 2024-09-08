@@ -1,0 +1,11 @@
+{
+  "name": "Buak_BM3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Ambience/Buak_BM3/Buak_BM3.dat",
+  "data": {
+    "GUID": "6457ecefbfa04e8babf214d4d57589d1",
+    "Type": "Effect",
+    "ID": "25564",
+    "Is_Music": "True"
+  },
+  "translation": null
+}

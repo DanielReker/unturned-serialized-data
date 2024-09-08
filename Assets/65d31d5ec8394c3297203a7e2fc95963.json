@@ -1,0 +1,41 @@
+{
+  "name": "Worn_Tee_Purple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Tops/Tees/Worn/Worn_Tee_Purple/Worn_Tee_Purple.dat",
+  "data": {
+    "GUID": "65d31d5ec8394c3297203a7e2fc95963",
+    "Rarity": "Common",
+    "Type": "Shirt",
+    "Useable": "Clothing",
+    "ID": "26266",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "4",
+    "Height": "2",
+    "Armor": "1",
+    "WearAudio": "Sounds/Clothes/Clothes.asset",
+    "Actions": "2",
+    "Action_1_Type": "Blueprint",
+    "Action_1_Source": "26265",
+    "Action_1_Blueprints": "1",
+    "Action_1_Blueprint_0_Index": "2",
+    "Action_1_Text": "Stitch up ",
+    "Action_1_Tooltip": "Sew up any holes with a sewing kit.",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "26266",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Key": "Salvage",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26266",
+    "Blueprint_0_Product": "25300",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "25535",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Worn Purple Tee",
+    "Description": "A tee that needs some stitching up, there's holes in the pockets!"
+  }
+}

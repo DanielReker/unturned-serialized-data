@@ -1,0 +1,34 @@
+{
+  "name": "Window_KSpectral",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Structures/Spectral/Window_KSpectral/Window_KSpectral.dat",
+  "data": {
+    "GUID": "561a6309866143ae9e595df6689fecb2",
+    "Type": "Structure",
+    "Rarity": "Epic",
+    "Useable": "Structure",
+    "Construct": "Wall",
+    "ID": "5442",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Health": "2000",
+    "Range": "8",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "5551",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Supply_1_ID": "5430",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Level": "3",
+    "Blueprint_0_Skill": "Craft",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "kuwait.masterbundle:Audio/Kuwait_Spectral_Place.mp3",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Spectral Window",
+    "Description": "Spectral window. Beware of ancient, very angry termites.<br><color=#BF1F1F>2000 HP</color>"
+  }
+}

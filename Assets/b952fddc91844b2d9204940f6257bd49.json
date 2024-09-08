@@ -1,0 +1,17 @@
+{
+  "name": "Boulder_15",
+  "path": "Bundles/Objects/Large/Scenery/Boulder_15/Boulder_15.dat",
+  "data": {
+    "GUID": "b952fddc91844b2d9204940f6257bd49",
+    "Type": "Large",
+    "ID": "981",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Cliff",
+    "Landmark_Quality": "High",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Peaks Boulder #02"
+  }
+}

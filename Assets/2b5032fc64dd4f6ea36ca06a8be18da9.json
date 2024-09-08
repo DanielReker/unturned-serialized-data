@@ -1,0 +1,16 @@
+{
+  "name": "Sirady",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Decals/Sirady/Sirady.dat",
+  "data": {
+    "GUID": "2b5032fc64dd4f6ea36ca06a8be18da9",
+    "Type": "Decal",
+    "ID": "51041",
+    "Decal_X": "6",
+    "Decal_Y": "6",
+    "Decal_LOD_Bias": "1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Decal Sirady"
+  }
+}

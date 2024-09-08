@@ -1,0 +1,27 @@
+{
+  "name": "Brazil_Military_Low",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Brazil_Military_Low/Brazil_Military_Low.dat",
+  "data": {
+    "GUID": "ff2af7d879ef47ebae159fd3f7f8dae8",
+    "Type": "Spawn",
+    "ID": "5037",
+    "Tables": "8",
+    "Table_0_Spawn_ID": "5033",
+    "Table_0_Weight": "175",
+    "Table_1_Spawn_ID": "123",
+    "Table_1_Weight": "86",
+    "Table_2_Spawn_ID": "649",
+    "Table_2_Weight": "75",
+    "Table_3_Spawn_ID": "5034",
+    "Table_3_Weight": "50",
+    "Table_4_Spawn_ID": "5036",
+    "Table_4_Weight": "25",
+    "Table_5_Spawn_ID": "5035",
+    "Table_5_Weight": "25",
+    "Table_6_Spawn_ID": "648",
+    "Table_6_Weight": "10",
+    "Table_7_Spawn_ID": "651",
+    "Table_7_Weight": "10"
+  },
+  "translation": null
+}

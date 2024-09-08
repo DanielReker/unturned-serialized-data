@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Roof_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Roof_0/Metro_Roof_0.dat",
+  "data": {
+    "GUID": "1f015c1f23d14fa7bce3b00d1293b472",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57459",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Roof #1"
+  }
+}

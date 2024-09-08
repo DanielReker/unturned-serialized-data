@@ -1,0 +1,42 @@
+{
+  "name": "BLACKBOOK",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Books/BLACKBOOK/BLACKBOOK.dat",
+  "data": {
+    "GUID": "2c0796fa803d48b98e2b2c00d7687a25",
+    "Type": "Barricade",
+    "Rarity": "Epic",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "51059",
+    "Use_Auto_Icon_Measurements": "false",
+    "SalvageItem": "2c0796fa803d48b98e2b2c00d7687a25",
+    "Min_Items_Dropped_On_Destroy": "1",
+    "Max_Items_Dropped_On_Destroy": "1",
+    "Item_Dropped_On_Destroy": "e02456663f3448ab86d0ee6a236abe35",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.7",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51059",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "51020",
+    "Blueprint_0_Output_0_Amount": "2",
+    "Blueprint_0_Build": "27",
+    "Health": "100",
+    "Range": "4",
+    "Radius": "0.1",
+    "Offset": "0.15",
+    "Explosion": "36",
+    "Vulnerable": "",
+    "Salvage_Duration_Multiplier": "0.25",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Bypass_Pickup_Ownership": "True"
+  },
+  "translation": {
+    "Name": "Black Book 01",
+    "Description": "An illegal book, containing various recipes for insurrection."
+  }
+}

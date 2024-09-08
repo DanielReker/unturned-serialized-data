@@ -1,0 +1,13 @@
+{
+  "name": "PS_Radar_Tower_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Radar_Tower_0/PS_Radar_Tower_0.dat",
+  "data": {
+    "GUID": "b05adbc85d3a464d94476411972e3a1f",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59805"
+  },
+  "translation": {
+    "Name": "PS Radar Tower #1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "PS_Electric_Detonator",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Electric_Detonator/PS_Electric_Detonator.dat",
+  "data": {
+    "GUID": "4afea55859a8465fa4f3ae2046914920",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "ID": "59036",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.26"
+  },
+  "translation": {
+    "Name": "Blasting Cap",
+    "Description": "Electrically initiated device used to trigger an explosive device."
+  }
+}

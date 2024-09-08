@@ -1,0 +1,17 @@
+{
+  "name": "PS_Mine_Lamp_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Mine_Lamp_3/PS_Mine_Lamp_3.dat",
+  "data": {
+    "GUID": "b774732e44714ffda1e2aabd83c8fa26",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60062",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "600",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "60058"
+  },
+  "translation": {
+    "Name": "PS Mine Lamp #4 [ON]"
+  }
+}

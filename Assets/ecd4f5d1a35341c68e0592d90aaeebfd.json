@@ -1,0 +1,13 @@
+{
+  "name": "Peaks_Military_High_Peaks",
+  "path": "Bundles/Spawns/Items/Peaks_Military_High_Peaks/Peaks_Military_High_Peaks.dat",
+  "data": {
+    "GUID": "ecd4f5d1a35341c68e0592d90aaeebfd",
+    "Type": "Spawn",
+    "ID": "696",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "684",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

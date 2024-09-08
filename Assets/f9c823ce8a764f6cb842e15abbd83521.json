@@ -1,0 +1,29 @@
+{
+  "name": "FirstLove_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Quests/Chapter_02/FirstLove_01/Asset.dat",
+  "data": {
+    "GUID": "f9c823ce8a764f6cb842e15abbd83521",
+    "Type": "Quest",
+    "ID": "24579",
+    "Conditions": "2",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "65fceced005c441a88ea8ca3a643b8cd",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "a84b4ea432044759b20c9488e3d80f13",
+    "Condition_1_Amount": "1",
+    "Condition_1_Reset": "",
+    "Rewards": "2",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "50",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "20"
+  },
+  "translation": {
+    "Name": "First Love Part #2",
+    "Description": "Mine some iron.",
+    "Condition_0": "Find {0}/1 {2}",
+    "Condition_1": "Find {0}/1 {2}"
+  }
+}

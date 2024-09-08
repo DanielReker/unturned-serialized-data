@@ -1,0 +1,1332 @@
+[
+  {
+    "name": "zombie",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "rare",
+        "chance": 0.1,
+        "table": [
+          {
+            "item": 1051
+          }
+        ]
+      },
+      {
+        "name": "normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 82
+          },
+          {
+            "item": 83
+          },
+          {
+            "item": 84
+          },
+          {
+            "item": 85
+          },
+          {
+            "item": 86
+          },
+          {
+            "item": 91
+          },
+          {
+            "item": 92
+          },
+          {
+            "item": 69
+          },
+          {
+            "item": 66
+          },
+          {
+            "item": 71
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "clotch",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "legendary",
+        "chance": 0.0233333111,
+        "table": [
+          {
+            "item": 23509
+          },
+          {
+            "item": 23521
+          },
+          {
+            "item": 23522
+          },
+          {
+            "item": 23523
+          },
+          {
+            "item": 23524
+          },
+          {
+            "item": 23538
+          },
+          {
+            "item": 23539
+          },
+          {
+            "item": 23540
+          }
+        ]
+      },
+      {
+        "name": "rare",
+        "chance": 0.263333321,
+        "table": [
+          {
+            "item": 23503
+          },
+          {
+            "item": 23502
+          },
+          {
+            "item": 23504
+          },
+          {
+            "item": 23505
+          },
+          {
+            "item": 23507
+          },
+          {
+            "item": 23511
+          },
+          {
+            "item": 424
+          },
+          {
+            "item": 425
+          },
+          {
+            "item": 426
+          },
+          {
+            "item": 427
+          },
+          {
+            "item": 428
+          },
+          {
+            "item": 430
+          },
+          {
+            "item": 431
+          },
+          {
+            "item": 23525
+          },
+          {
+            "item": 23526
+          },
+          {
+            "item": 23527
+          },
+          {
+            "item": 23528
+          },
+          {
+            "item": 23534
+          },
+          {
+            "item": 23535
+          },
+          {
+            "item": 23536
+          }
+        ]
+      },
+      {
+        "name": "normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 23500
+          },
+          {
+            "item": 23506
+          },
+          {
+            "item": 23501
+          },
+          {
+            "item": 23508
+          },
+          {
+            "item": 23514
+          },
+          {
+            "item": 23515
+          },
+          {
+            "item": 23520
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Food",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "legendary",
+        "chance": 0.02000001,
+        "table": [
+          {
+            "item": 81
+          },
+          {
+            "item": 471
+          },
+          {
+            "item": 1164
+          }
+        ]
+      },
+      {
+        "name": "rare",
+        "chance": 0.259999961,
+        "table": [
+          {
+            "item": 13
+          },
+          {
+            "item": 77
+          },
+          {
+            "item": 78
+          },
+          {
+            "item": 79
+          },
+          {
+            "item": 87
+          },
+          {
+            "item": 88
+          },
+          {
+            "item": 89
+          },
+          {
+            "item": 90
+          },
+          {
+            "item": 461
+          },
+          {
+            "item": 464
+          },
+          {
+            "item": 466
+          },
+          {
+            "item": 467
+          },
+          {
+            "item": 468
+          },
+          {
+            "item": 469
+          },
+          {
+            "item": 1046
+          },
+          {
+            "item": 1162
+          },
+          {
+            "item": 1163
+          },
+          {
+            "item": 14
+          },
+          {
+            "item": 462
+          },
+          {
+            "item": 463
+          },
+          {
+            "item": 465
+          },
+          {
+            "item": 472
+          },
+          {
+            "item": 473
+          },
+          {
+            "item": 1159
+          },
+          {
+            "item": 23008
+          },
+          {
+            "item": 23010
+          }
+        ]
+      },
+      {
+        "name": "normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 82
+          },
+          {
+            "item": 83
+          },
+          {
+            "item": 84
+          },
+          {
+            "item": 85
+          },
+          {
+            "item": 86
+          },
+          {
+            "item": 329
+          },
+          {
+            "item": 335
+          },
+          {
+            "item": 338
+          },
+          {
+            "item": 340
+          },
+          {
+            "item": 342
+          },
+          {
+            "item": 344
+          },
+          {
+            "item": 470
+          },
+          {
+            "item": 1160
+          },
+          {
+            "item": 1161
+          },
+          {
+            "item": 80
+          },
+          {
+            "item": 91
+          },
+          {
+            "item": 92
+          },
+          {
+            "item": 93
+          },
+          {
+            "item": 94
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Medical_Low",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "rare",
+        "chance": 0.199999988,
+        "table": [
+          {
+            "item": 1129
+          },
+          {
+            "item": 404
+          },
+          {
+            "item": 388
+          }
+        ]
+      },
+      {
+        "name": "normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 95
+          },
+          {
+            "item": 96
+          },
+          {
+            "item": 389
+          },
+          {
+            "item": 392
+          },
+          {
+            "item": 393
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Medical_Pro",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Legend",
+        "chance": 0.0100000026,
+        "table": [
+          {
+            "item": 403
+          },
+          {
+            "item": 395
+          }
+        ]
+      },
+      {
+        "name": "Rare",
+        "chance": 0.26,
+        "table": [
+          {
+            "item": 15
+          },
+          {
+            "item": 269
+          },
+          {
+            "item": 388
+          }
+        ]
+      },
+      {
+        "name": "Normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 394
+          },
+          {
+            "item": 390
+          },
+          {
+            "item": 387
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.784313738,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Garbage",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "legend",
+        "chance": 0.006666675,
+        "table": [
+          {
+            "item": 76
+          },
+          {
+            "item": 136
+          },
+          {
+            "item": 490
+          },
+          {
+            "item": 1032
+          },
+          {
+            "item": 1353
+          },
+          {
+            "item": 1508
+          },
+          {
+            "item": 28
+          },
+          {
+            "item": 337
+          },
+          {
+            "item": 328
+          }
+        ]
+      },
+      {
+        "name": "rare",
+        "chance": 0.25333333,
+        "table": [
+          {
+            "item": 65
+          },
+          {
+            "item": 68
+          },
+          {
+            "item": 285
+          },
+          {
+            "item": 75
+          },
+          {
+            "item": 16
+          },
+          {
+            "item": 138
+          },
+          {
+            "item": 141
+          },
+          {
+            "item": 142
+          },
+          {
+            "item": 276
+          },
+          {
+            "item": 1174
+          },
+          {
+            "item": 1198
+          },
+          {
+            "item": 1507
+          },
+          {
+            "item": 331
+          },
+          {
+            "item": 365
+          },
+          {
+            "item": 1031
+          },
+          {
+            "item": 1034
+          },
+          {
+            "item": 1165
+          }
+        ]
+      },
+      {
+        "name": "normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 64
+          },
+          {
+            "item": 66
+          },
+          {
+            "item": 67
+          },
+          {
+            "item": 69
+          },
+          {
+            "item": 71
+          },
+          {
+            "item": 72
+          },
+          {
+            "item": 74
+          },
+          {
+            "item": 70
+          },
+          {
+            "item": 332
+          },
+          {
+            "item": 276
+          },
+          {
+            "item": 255
+          },
+          {
+            "item": 256
+          },
+          {
+            "item": 257
+          },
+          {
+            "item": 259
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.196078435,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Kitchen_Weapon",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Rare",
+        "chance": 0.0499999933,
+        "table": [
+          {
+            "item": 139
+          },
+          {
+            "item": 140
+          }
+        ]
+      },
+      {
+        "name": "Normal",
+        "chance": 0.446666658,
+        "table": [
+          {
+            "item": 120
+          },
+          {
+            "item": 1030
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.784313738,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Cue",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Cue",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1390
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Civilian_Weapon",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Legend",
+        "chance": 0.0133333355,
+        "table": [
+          {
+            "item": 122
+          },
+          {
+            "item": 129
+          },
+          {
+            "item": 357
+          },
+          {
+            "item": 346
+          },
+          {
+            "item": 1366
+          }
+        ]
+      },
+      {
+        "name": "Rare",
+        "chance": 0.25333333,
+        "table": [
+          {
+            "item": 1360
+          },
+          {
+            "item": 109
+          },
+          {
+            "item": 1041
+          },
+          {
+            "item": 1369
+          },
+          {
+            "item": 23016
+          }
+        ]
+      },
+      {
+        "name": "Normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1039
+          },
+          {
+            "item": 107
+          },
+          {
+            "item": 101
+          },
+          {
+            "item": 380
+          },
+          {
+            "item": 97
+          },
+          {
+            "item": 23001
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.784313738,
+      "b": 0.392156869
+    }
+  },
+  {
+    "name": "Civilian_Ammo",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Legend",
+        "chance": 0.0133333309,
+        "table": [
+          {
+            "item": 43
+          },
+          {
+            "item": 119
+          },
+          {
+            "item": 125
+          },
+          {
+            "item": 1042
+          }
+        ]
+      },
+      {
+        "name": "Rare",
+        "chance": 0.259999961,
+        "table": [
+          {
+            "item": 44
+          },
+          {
+            "item": 123
+          }
+        ]
+      },
+      {
+        "name": "Normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 108
+          },
+          {
+            "item": 381
+          },
+          {
+            "item": 1040
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.784313738,
+      "b": 0.784313738
+    }
+  },
+  {
+    "name": "JKGLoot",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Rare",
+        "chance": 0.24666667,
+        "table": [
+          {
+            "item": 23512
+          },
+          {
+            "item": 23513
+          }
+        ]
+      },
+      {
+        "name": "Normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 67
+          },
+          {
+            "item": 423
+          },
+          {
+            "item": 240
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Navigation",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Legend",
+        "chance": 0.0100000054,
+        "table": [
+          {
+            "item": 1176
+          },
+          {
+            "item": 1445
+          }
+        ]
+      },
+      {
+        "name": "Rare",
+        "chance": 0.263333321,
+        "table": [
+          {
+            "item": 1175
+          },
+          {
+            "item": 1446
+          }
+        ]
+      },
+      {
+        "name": "Normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 333
+          },
+          {
+            "item": 1508
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Attachemnts",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "legendary",
+        "chance": 0.00666666636,
+        "table": [
+          {
+            "item": 143
+          },
+          {
+            "item": 7
+          },
+          {
+            "item": 144
+          },
+          {
+            "item": 1007
+          },
+          {
+            "item": 1008
+          },
+          {
+            "item": 21
+          }
+        ]
+      },
+      {
+        "name": "rare",
+        "chance": 0.25,
+        "table": [
+          {
+            "item": 8
+          },
+          {
+            "item": 150
+          },
+          {
+            "item": 1190
+          },
+          {
+            "item": 1191
+          },
+          {
+            "item": 151
+          },
+          {
+            "item": 1438
+          },
+          {
+            "item": 153
+          },
+          {
+            "item": 148
+          },
+          {
+            "item": 22
+          },
+          {
+            "item": 23537
+          }
+        ]
+      },
+      {
+        "name": "normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 145
+          },
+          {
+            "item": 152
+          },
+          {
+            "item": 146
+          },
+          {
+            "item": 147
+          },
+          {
+            "item": 1004
+          },
+          {
+            "item": 23537
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.784313738,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Meele",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Legend",
+        "chance": 0.00666666636,
+        "table": [
+          {
+            "item": 1035
+          },
+          {
+            "item": 1036
+          }
+        ]
+      },
+      {
+        "name": "Rare",
+        "chance": 0.25666666,
+        "table": [
+          {
+            "item": 135
+          },
+          {
+            "item": 137
+          },
+          {
+            "item": 139
+          },
+          {
+            "item": 1031
+          }
+        ]
+      },
+      {
+        "name": "Normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 105
+          },
+          {
+            "item": 106
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.392156869,
+      "b": 0.392156869
+    }
+  },
+  {
+    "name": "Police",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Rare",
+        "chance": 0.3,
+        "table": [
+          {
+            "item": 23001
+          },
+          {
+            "item": 44
+          },
+          {
+            "item": 119
+          },
+          {
+            "item": 23519
+          }
+        ]
+      },
+      {
+        "name": "Normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 23516
+          },
+          {
+            "item": 23517
+          },
+          {
+            "item": 23518
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Blue",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Secret",
+        "chance": 0.1,
+        "table": [
+          {
+            "item": 23014
+          }
+        ]
+      },
+      {
+        "name": "Blue",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 23015
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.392156869,
+      "b": 0.784313738
+    }
+  },
+  {
+    "name": "Epic_Guns",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Epic",
+        "chance": 0.2,
+        "table": [
+          {
+            "item": 1362
+          },
+          {
+            "item": 1366
+          },
+          {
+            "item": 1375
+          },
+          {
+            "item": 1377
+          },
+          {
+            "item": 1000
+          }
+        ]
+      },
+      {
+        "name": "Normal",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 122
+          },
+          {
+            "item": 129
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.5882353,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Seed",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Yes",
+        "chance": 0.486666679,
+        "table": [
+          {
+            "item": 330
+          },
+          {
+            "item": 336
+          },
+          {
+            "item": 339
+          },
+          {
+            "item": 341
+          },
+          {
+            "item": 343
+          },
+          {
+            "item": 345
+          },
+          {
+            "item": 1045
+          },
+          {
+            "item": 23009
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.392156869,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Legendary_Gun",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Normal",
+        "chance": 0.100000016,
+        "table": [
+          {
+            "item": 1476
+          },
+          {
+            "item": 1379
+          },
+          {
+            "item": 1477
+          },
+          {
+            "item": 126
+          }
+        ]
+      },
+      {
+        "name": "Mag",
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1381
+          },
+          {
+            "item": 1487
+          },
+          {
+            "item": 1479
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Mission_PC",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Mission",
+        "chance": 0.75333333,
+        "table": [
+          {
+            "item": 23011
+          },
+          {
+            "item": 23012
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.623529434,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Mission_Flash",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Mission",
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 23013
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "GasMask",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "GasMask",
+        "chance": 0.246666715,
+        "table": [
+          {
+            "item": 1270
+          }
+        ]
+      },
+      {
+        "name": "Filter",
+        "chance": 0.50000006,
+        "table": [
+          {
+            "item": 1271
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.392156869
+    }
+  },
+  {
+    "name": "Trap",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Normal",
+        "chance": 0.6866667,
+        "table": [
+          {
+            "item": 23510
+          },
+          {
+            "item": 23018
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.196078435
+    }
+  }
+]

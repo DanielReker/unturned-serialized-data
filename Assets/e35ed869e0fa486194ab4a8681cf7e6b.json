@@ -1,0 +1,15 @@
+{
+  "name": "Supply_Supplies_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Supply_Depot/Supply_Supplies_Completed/Asset.dat",
+  "data": {
+    "GUID": "e35ed869e0fa486194ab4a8681cf7e6b",
+    "Type": "Dialogue",
+    "ID": "3182",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "3180"
+  },
+  "translation": {
+    "Message_0_Page_0": "Well done. Then again, you were only stacking boxes."
+  }
+}

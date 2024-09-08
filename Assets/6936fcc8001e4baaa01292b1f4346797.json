@@ -1,0 +1,43 @@
+{
+  "name": "Hatch_Wood",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Hatch_Wood/Hatch_Wood.dat",
+  "data": {
+    "GUID": "6936fcc8001e4baaa01292b1f4346797",
+    "Type": "Barricade",
+    "Rarity": "Uncommon",
+    "Useable": "Barricade",
+    "Build": "Hatch",
+    "ID": "51649",
+    "SalvageItem": "6936fcc8001e4baaa01292b1f4346797",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Health": "500",
+    "Range": "4",
+    "Radius": "0.5",
+    "Explosion": "19",
+    "Locked": "",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Barricade",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "51023",
+    "Blueprint_0_Supply_0_Amount": "4",
+    "Blueprint_0_Supply_1_ID": "51017",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Barricade",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51649",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "51023",
+    "Blueprint_1_Output_0_Amount": "2",
+    "Blueprint_1_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Wooden Hatch",
+    "Description": "Wooden trapdoor ideal for keeping out unwanted visitors."
+  }
+}

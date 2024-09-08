@@ -1,0 +1,37 @@
+{
+  "name": "Amber_Questions",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Amber/Amber_04/Amber_Questions/Asset.dat",
+  "data": {
+    "GUID": "132cca62f3b34f63acda73f7db52b711",
+    "Type": "Dialogue",
+    "ID": "24074",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "4",
+    "Response_0_Dialogue": "4c4b68edc83443bcad85c4cee1357cea",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "d901cec9f75340a0bbd4ed5a84cff487",
+    "Response_0_Condition_0_Status": "Completed",
+    "Response_1_Dialogue": "ac1e4b57463847a385b8aa81f3801309",
+    "Response_1_Conditions": "1",
+    "Response_1_Condition_0_Type": "Quest",
+    "Response_1_Condition_0_Logic": "Equal",
+    "Response_1_Condition_0_ID": "8254345ba4654a8e878a412ffccc663c",
+    "Response_1_Condition_0_Status": "Completed",
+    "Response_2_Dialogue": "8b5d2d7f5a634b34961d480abcb75861",
+    "Response_2_Conditions": "1",
+    "Response_2_Condition_0_Type": "Quest",
+    "Response_2_Condition_0_Logic": "Equal",
+    "Response_2_Condition_0_ID": "d901cec9f75340a0bbd4ed5a84cff487",
+    "Response_2_Condition_0_Status": "Completed"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ask away!",
+    "Response_0": "When did you and Viola meet?",
+    "Response_1": "How do you know the lighthouse ghost?",
+    "Response_2": "Are you from British Columbia?",
+    "Response_3": "Nevermind!"
+  }
+}

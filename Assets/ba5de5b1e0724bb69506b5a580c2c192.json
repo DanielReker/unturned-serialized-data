@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Tent_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Tent_2/Metro_Tent_2.dat",
+  "data": {
+    "GUID": "ba5de5b1e0724bb69506b5a580c2c192",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57113",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Tent #3"
+  }
+}

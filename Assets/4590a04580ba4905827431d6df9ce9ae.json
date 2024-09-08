@@ -1,0 +1,16 @@
+{
+  "name": "Barracks_Officer_MIA_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Barracks_Omega/Barracks_Officer_MIA_Accepted/Asset.dat",
+  "data": {
+    "GUID": "4590a04580ba4905827431d6df9ce9ae",
+    "Type": "Dialogue",
+    "ID": "3245",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I don't care if he is dead or alive, bring him back! I won't let one of my soldiers be left for dead! The last visual someone had of him was by the crashed blue truck.",
+    "Response_0": "No man left behind!"
+  }
+}

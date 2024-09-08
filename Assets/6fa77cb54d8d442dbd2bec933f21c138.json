@@ -1,0 +1,17 @@
+{
+  "name": "Snow_0",
+  "path": "Bundles/Objects/Medium/Overgrowth/Snow_0/Snow_0.dat",
+  "data": {
+    "GUID": "6fa77cb54d8d442dbd2bec933f21c138",
+    "Type": "Medium",
+    "ID": "200",
+    "Soft": "",
+    "Snowshoe": "",
+    "Chart": "Ground",
+    "Ignore_TexRW": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Snow #1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SpecAmmo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Spec/SpecAmmo/SpecAmmo.dat",
+  "data": {
+    "GUID": "818b74e3441d470ea0e3f31158a9e3b7",
+    "Type": "Spawn",
+    "ID": "51018",
+    "Tables": [
+      {
+        "Guid": "cd6275ba582b47509581114b5fbeee35",
+        "Weight": "9"
+      },
+      {
+        "Guid": "4bb8496f288346ccb869a5cc93f9b31d",
+        "Weight": "9"
+      },
+      {
+        "Guid": "f68166a2d8e348baa28957f176b3fb12",
+        "Weight": "2"
+      }
+    ]
+  },
+  "translation": null
+}

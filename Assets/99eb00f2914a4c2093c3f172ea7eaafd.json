@@ -1,0 +1,16 @@
+{
+  "name": "Drop_Rocks",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Drop_Rocks/Drop_Rocks.dat",
+  "data": {
+    "GUID": "99eb00f2914a4c2093c3f172ea7eaafd",
+    "Type": "Spawn",
+    "ID": "25493",
+    "Tables": [
+      {
+        "Guid": "246a5c5c13ad49f18f00997b2bcc5c53",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

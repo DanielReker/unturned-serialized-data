@@ -1,0 +1,33 @@
+{
+  "name": "Wood_Birch",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Wood_Birch/Wood_Birch.dat",
+  "data": {
+    "GUID": "206a7dfea9844bfa933b65f9624a1b12",
+    "Type": "Supply",
+    "Rarity": "Common",
+    "ID": "25302",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.45",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "25303",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Product": "25302",
+    "Blueprint_0_Products": "10",
+    "Blueprint_0_Build": "25526",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "25303",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "▲ Bundle 10 Wood",
+    "Action_0_Tooltip": "Bundle up 10 pieces of wood into a stack."
+  },
+  "translation": {
+    "Name": "Birch Wood",
+    "Description": "Recently cut, high quality birch."
+  }
+}

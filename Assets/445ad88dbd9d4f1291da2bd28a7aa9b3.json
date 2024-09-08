@@ -1,0 +1,15 @@
+{
+  "name": "Retrowave",
+  "path": "Bundles/Skins/Katana/Retrowave/Retrowave.dat",
+  "data": {
+    "GUID": "445ad88dbd9d4f1291da2bd28a7aa9b3",
+    "Type": "Skin",
+    "ID": "50073",
+    "Sight": "",
+    "Tactical": "",
+    "Grip": "",
+    "Barrel": "",
+    "Magazine": ""
+  },
+  "translation": null
+}

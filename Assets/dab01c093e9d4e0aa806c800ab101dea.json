@@ -1,0 +1,17 @@
+{
+  "name": "PS_Saltpeter",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Saltpeter/PS_Saltpeter.dat",
+  "data": {
+    "GUID": "dab01c093e9d4e0aa806c800ab101dea",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "59024",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.53"
+  },
+  "translation": {
+    "Name": "Saltpeter",
+    "Description": "Chemical compound used in tree stump removal, rocket propellants and fireworks."
+  }
+}

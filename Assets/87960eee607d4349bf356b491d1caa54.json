@@ -1,0 +1,14 @@
+{
+  "name": "PS_Cardboard_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Cardboard_6/PS_Cardboard_6.dat",
+  "data": {
+    "GUID": "87960eee607d4349bf356b491d1caa54",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "60031",
+    "Material_Palette": "c09c1515562845f0896cf19fcfcd6bc7"
+  },
+  "translation": {
+    "Name": "PS Cardboard #7 [Smol]"
+  }
+}

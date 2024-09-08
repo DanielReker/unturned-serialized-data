@@ -1,0 +1,13 @@
+{
+  "name": "Control_7",
+  "path": "Bundles/Objects/Medium/Business/Control_7/Control_7.dat",
+  "data": {
+    "GUID": "ff1c83c246274f07baa2e88e621f99c2",
+    "Type": "Medium",
+    "ID": "628",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Control #8"
+  }
+}

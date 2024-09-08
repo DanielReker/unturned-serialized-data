@@ -1,0 +1,13 @@
+{
+  "name": "Field_Gun_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Scenery/Field_Gun_0/Field_Gun_0.dat",
+  "data": {
+    "GUID": "2b84f6769d8640bdacdb31bf47405c9e",
+    "Type": "Large",
+    "ID": "35082",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Field Gun #1"
+  }
+}

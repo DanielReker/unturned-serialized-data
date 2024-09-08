@@ -1,0 +1,13 @@
+{
+  "name": "Pillar_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Pillar_3/Pillar_3.dat",
+  "data": {
+    "GUID": "43e5ae6e87c74812a66ca584a94b8419",
+    "Type": "Medium",
+    "ID": "6210",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Pillar #4"
+  }
+}

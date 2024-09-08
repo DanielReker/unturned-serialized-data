@@ -1,0 +1,30 @@
+{
+  "name": "29070KC4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/3/C/29070KC4/Asset.dat",
+  "data": {
+    "GUID": "c0bb43d980094a9da2b0b5e1b61ab4ae",
+    "Type": "NPC",
+    "ID": "29070",
+    "Shirt": "669",
+    "Pants": "550",
+    "Face": "1",
+    "Hair": "8",
+    "Color_Skin": "#9d886b",
+    "Color_Hair": "#352c22",
+    "Dialogue": "29071",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "27031",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitCivi4",
+    "Character": "Hasna"
+  }
+}

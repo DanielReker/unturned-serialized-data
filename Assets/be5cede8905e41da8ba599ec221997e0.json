@@ -1,0 +1,12 @@
+{
+  "name": "BBMarkings 3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/BBMarkings 3/BBMarkings 3.dat",
+  "data": {
+    "GUID": "be5cede8905e41da8ba599ec221997e0",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS BBMarkings 3"
+  }
+}

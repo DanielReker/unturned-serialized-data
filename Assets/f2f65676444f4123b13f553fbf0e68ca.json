@@ -1,0 +1,17 @@
+{
+  "name": "Greece_Mixed_Collection",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Terrain/Foliage/Greece_Mixed_Collection.asset",
+  "data": {
+    "GUID": "f2f65676444f4123b13f553fbf0e68ca",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "0cfe426e4b8e46789f24619e3def8718"
+        },
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

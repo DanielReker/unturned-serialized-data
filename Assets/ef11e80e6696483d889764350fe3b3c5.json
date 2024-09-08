@@ -1,0 +1,24 @@
+{
+  "name": "PS_Tunnel_Debris_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Resources/PS_Tunnel_Debris_0/PS_Tunnel_Debris_0.dat",
+  "data": {
+    "GUID": "ef11e80e6696483d889764350fe3b3c5",
+    "Type": "Resource",
+    "Has_Clip_Prefab": "False",
+    "ID": "59023",
+    "Health": "100",
+    "Radius": "4",
+    "Scale": "0",
+    "Explosion": "59049",
+    "Reward_ID": "59027",
+    "Reward_XP": "0",
+    "Reward_Min": "0",
+    "Reward_Max": "0",
+    "BladeID": "4",
+    "No_Debris": "",
+    "Reset": "300"
+  },
+  "translation": {
+    "Name": "PS Tunnel Debris #1"
+  }
+}

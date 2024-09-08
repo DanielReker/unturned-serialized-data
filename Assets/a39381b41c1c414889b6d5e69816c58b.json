@@ -1,0 +1,13 @@
+{
+  "name": "Rio_Crop_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Rio_Crop_0/Rio_Crop_0.dat",
+  "data": {
+    "GUID": "a39381b41c1c414889b6d5e69816c58b",
+    "Type": "Large",
+    "ID": "6113",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Rice Crop #1"
+  }
+}

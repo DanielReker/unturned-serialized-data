@@ -1,0 +1,13 @@
+{
+  "name": "PS_Mine_Door_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Mine_Door_1/PS_Mine_Door_1.dat",
+  "data": {
+    "GUID": "ae4bf38db8ea4e91b6466964fb14dbe1",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60038"
+  },
+  "translation": {
+    "Name": "PS Mine Door #2"
+  }
+}

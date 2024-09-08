@@ -1,0 +1,61 @@
+{
+  "name": "Grubby",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Currency/Grubby.asset",
+  "data": {
+    "GUID": "561f74cdccdf48abaa6d49343b56aab0",
+    "Type": "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ValueFormat": "¤{0:N0} GRB",
+    "DefaultConditionFormat": "¤{0:N0}/{1:N0} GRB",
+    "Entries": [
+      {
+        "Item": {
+          "GUID": "8165071d893a48519219fa26e9b64783"
+        },
+        "Value": "5"
+      },
+      {
+        "Item": {
+          "GUID": "be2cfffd38f34d5db65fb080a5be794b"
+        },
+        "Value": "10"
+      },
+      {
+        "Item": {
+          "GUID": "3c1fcd4cc0274bc29571979bbb56ce72"
+        },
+        "Value": "25"
+      },
+      {
+        "Item": {
+          "GUID": "47b5872e91cb408c85a6b805466890ba"
+        },
+        "Value": "50"
+      },
+      {
+        "Item": {
+          "GUID": "b7b56208a1924f89b8bbc6dfec574524"
+        },
+        "Value": "100"
+      },
+      {
+        "Item": {
+          "GUID": "dc05d7d3dda64d16824c8a5230f0b4bb"
+        },
+        "Value": "250"
+      },
+      {
+        "Item": {
+          "GUID": "3fe7df6e039b42cf8359efb102432949"
+        },
+        "Value": "500"
+      },
+      {
+        "Item": {
+          "GUID": "d994a86f8a8f4e58ab9bc3e35b2d3f88"
+        },
+        "Value": "5000"
+      }
+    ]
+  },
+  "translation": null
+}

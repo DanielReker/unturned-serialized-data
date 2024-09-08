@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Willem_Info",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Willem/PBS_Willem_Info/Asset.dat",
+  "data": {
+    "GUID": "91c15890cab9414b9e2a3842a7e482a1",
+    "Type": "Dialogue",
+    "ID": "52012",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "M'name's Willem!  I was a garbageman before everything happened.  Always drove the route to get them dumpsters emptied out.  Some of 'em had alot of space and were in odd places, so I thought, why not move supplies for survivors there?"
+  }
+}

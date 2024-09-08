@@ -1,0 +1,19 @@
+{
+  "name": "GreekBunker_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/GreekBunker_0/GreekBunker_0.dat",
+  "data": {
+    "GUID": "dd0e2fd3eae5444b897056241478da3b",
+    "Type": "Large",
+    "ID": "3531",
+    "Collision_Important": "",
+    "Asset_Bundle_Version": "2",
+    "Soft": "",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-2",
+    "LOD_Size_Z": "-10",
+    "LOD_Bias": "1.5"
+  },
+  "translation": {
+    "Name": "Greece Bunker #1"
+  }
+}

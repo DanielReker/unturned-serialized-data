@@ -1,0 +1,20 @@
+{
+  "name": "PS_Mine_Door_25",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Mine_Door_25/PS_Mine_Door_25.dat",
+  "data": {
+    "GUID": "3c981315def4429a9d4e647ebb8ec1a3",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60236",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "Tunnels1_Exit_1",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/PS_Mine_Door_16"
+  },
+  "translation": {
+    "Name": "PS Mine Door #26 [Tunnels1 Exit #2]",
+    "Interact": "Exit the tunnels [{0}]"
+  }
+}

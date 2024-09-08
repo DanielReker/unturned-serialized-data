@@ -1,0 +1,16 @@
+{
+  "name": "Police_2",
+  "path": "Bundles/Objects/Large/Buildings/Police_2/Police_2.dat",
+  "data": {
+    "GUID": "64cf6b42fa724d0480890f82862694e5",
+    "Type": "Large",
+    "ID": "606",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Police #3"
+  }
+}

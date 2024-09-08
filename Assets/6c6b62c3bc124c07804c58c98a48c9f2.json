@@ -1,0 +1,18 @@
+{
+  "name": "PaintingDelusion",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PaintingDelusion/PaintingDelusion.dat",
+  "data": {
+    "GUID": "6c6b62c3bc124c07804c58c98a48c9f2",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "58",
+    "Rubble_Reward_ID": "51292"
+  },
+  "translation": {
+    "Name": "PBS Painting Delusion"
+  }
+}

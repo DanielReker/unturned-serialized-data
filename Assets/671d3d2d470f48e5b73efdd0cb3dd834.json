@@ -1,0 +1,23 @@
+{
+  "name": "Omega_Civillian_9",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Civillian_9/Asset.dat",
+  "data": {
+    "GUID": "671d3d2d470f48e5b73efdd0cb3dd834",
+    "Type": "NPC",
+    "ID": "3639",
+    "Shirt": "676",
+    "Pants": "229",
+    "Face": "24",
+    "Hair": "16",
+    "Beard": "0",
+    "Color_Skin": "#94764B",
+    "Color_Hair": "#341919",
+    "Backward": "",
+    "Pose": "Sit",
+    "Dialogue": "3670"
+  },
+  "translation": {
+    "Name": "Greek Omega Civillian Electra",
+    "Character": "Electra"
+  }
+}

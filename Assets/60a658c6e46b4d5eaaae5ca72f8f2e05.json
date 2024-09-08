@@ -1,0 +1,35 @@
+{
+  "name": "CA_Mili_Vest_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Items/Vests/CA_Mili_Vest_2/CA_Mili_Vest_2.dat",
+  "data": {
+    "GUID": "60a658c6e46b4d5eaaae5ca72f8f2e05",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Useable": "Clothing",
+    "ID": "4054",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Width": "5",
+    "Height": "4",
+    "Armor": "0.7",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "67",
+    "Blueprint_0_Supply_0_Amount": "6",
+    "Blueprint_0_Build": "32",
+    "Blueprint_1_Type": "Apparel",
+    "Blueprint_1_Supplies": "2",
+    "Blueprint_1_Supply_0_ID": "4053",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Supply_1_ID": "4035",
+    "Blueprint_1_Supply_1_Amount": "1",
+    "Blueprint_1_Supply_0_Critical": "",
+    "Blueprint_1_Build": "27"
+  },
+  "translation": {
+    "Name": "Military Cargo Rig",
+    "Description": "Military vest providing extensive degree of protection. Features even more pouches for improved carrying space."
+  }
+}

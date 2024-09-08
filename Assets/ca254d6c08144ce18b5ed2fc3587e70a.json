@@ -1,0 +1,13 @@
+{
+  "name": "PS_Palace_Gazebo_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Palace_Gazebo_0/PS_Palace_Gazebo_0.dat",
+  "data": {
+    "GUID": "ca254d6c08144ce18b5ed2fc3587e70a",
+    "Type": "Large",
+    "ID": "60286",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "PS Palace Gazebo #1"
+  }
+}

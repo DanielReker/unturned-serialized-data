@@ -1,0 +1,44 @@
+{
+  "name": "RiotAmmo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Riot/RiotAmmo/RiotAmmo.dat",
+  "data": {
+    "GUID": "ec14fc04c32d40e9a42d309b17da4d39",
+    "Type": "Spawn",
+    "ID": "51038",
+    "Tables": [
+      {
+        "Guid": "2f55d3d29ccc44b0824954ebaf5dd17b",
+        "Weight": "3"
+      },
+      {
+        "Guid": "42ed2e79195a4dea89e775c4f1fda0a0",
+        "Weight": "3"
+      },
+      {
+        "Guid": "bb560f56ca2b4f638df93460f674b42d",
+        "Weight": "3"
+      },
+      {
+        "Guid": "68d21a7bbcf84a7997db9ed85e83f4e3",
+        "Weight": "3"
+      },
+      {
+        "Guid": "a199629a627c4959ad293fac0b266cab",
+        "Weight": "2"
+      },
+      {
+        "Guid": "2316fd2a2d5641c790c0197ce7ff4274",
+        "Weight": "2"
+      },
+      {
+        "Guid": "89ca704a018f4b7590d4f25eff758054",
+        "Weight": "2"
+      },
+      {
+        "Guid": "52a43d9cf72843a7b6d2410885f001ef",
+        "Weight": "2"
+      }
+    ]
+  },
+  "translation": null
+}

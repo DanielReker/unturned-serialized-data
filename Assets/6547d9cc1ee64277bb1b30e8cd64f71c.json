@@ -1,0 +1,13 @@
+{
+  "name": "Opalao_Black",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Opalao_Black/Opalao_Black.dat",
+  "data": {
+    "GUID": "6547d9cc1ee64277bb1b30e8cd64f71c",
+    "Type": "Large",
+    "ID": "7077",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Black Paulio"
+  }
+}

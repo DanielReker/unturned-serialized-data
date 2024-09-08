@@ -1,0 +1,12 @@
+{
+  "name": "Elver_Crystals_Blue",
+  "path": "Bundles/Mythics/Elver_Crystals_Blue/Elver_Crystals_Blue.dat",
+  "data": {
+    "GUID": "fe558f4ebaaa4085bbd2234f363df033",
+    "Type": "Mythic",
+    "ID": "34"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Crystal Shards"
+  }
+}

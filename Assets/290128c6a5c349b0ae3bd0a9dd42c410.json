@@ -1,0 +1,12 @@
+{
+  "name": "PlayerBunker3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/PlayerBunker3/PlayerBunker3.dat",
+  "data": {
+    "GUID": "290128c6a5c349b0ae3bd0a9dd42c410",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS PlayerBunker3"
+  }
+}

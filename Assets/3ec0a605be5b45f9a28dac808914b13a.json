@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Quest_Sewer_09",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Frost_Quest_Sewer_09/Frost_Quest_Sewer_09.dat",
+  "data": {
+    "GUID": "3ec0a605be5b45f9a28dac808914b13a",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000"
+  },
+  "translation": {
+    "Name": "Frost Quest Sewer #10"
+  }
+}

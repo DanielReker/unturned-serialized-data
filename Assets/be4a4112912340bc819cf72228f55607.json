@@ -1,0 +1,41 @@
+{
+  "name": "PS_C99_Clip",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Magazines/PS_C99_Clip/PS_C99_Clip.dat",
+  "data": {
+    "GUID": "be4a4112912340bc819cf72228f55607",
+    "Type": "Magazine",
+    "Rarity": "Uncommon",
+    "ID": "59407",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Amount": "15",
+    "Count_Min": "5",
+    "Count_Max": "12",
+    "Calibers": "1",
+    "Caliber_0": "59407",
+    "Speed": "0.7",
+    "Tracer": "59002",
+    "Blueprints": "3",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Searchable": "False",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "58999",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Tool": "58999",
+    "Blueprint_0_Tool_Critical": "",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "59407",
+    "Blueprint_1_Build": "30",
+    "Blueprint_2_Type": "Ammo",
+    "Blueprint_2_Supplies": "1",
+    "Blueprint_2_Supply_0_ID": "59325",
+    "Blueprint_2_Build": "30"
+  },
+  "translation": {
+    "Name": "C99 Clip",
+    "Description": "Clip designed to fit 15 rounds of <color=#FF823A>pistol ammunition</color>. Compatible with <color=#1f871f>C99</color> Pistol."
+  }
+}

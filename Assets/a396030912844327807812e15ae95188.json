@@ -1,0 +1,13 @@
+{
+  "name": "PS_Water_Tank_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Water_Tank_0/PS_Water_Tank_0.dat",
+  "data": {
+    "GUID": "a396030912844327807812e15ae95188",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59035"
+  },
+  "translation": {
+    "Name": "PS Water Tank #1"
+  }
+}

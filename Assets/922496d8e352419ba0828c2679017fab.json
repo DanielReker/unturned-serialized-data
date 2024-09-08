@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Q_M1Speaker_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M1/Buak_Q_M1Speaker_00/Buak_Q_M1Speaker_00.dat",
+  "data": {
+    "GUID": "922496d8e352419ba0828c2679017fab",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24306",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Buak_Q_M1Speaker_00"
+  }
+}

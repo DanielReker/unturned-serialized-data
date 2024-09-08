@@ -1,0 +1,13 @@
+{
+  "name": "PS_Cart_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Cart_1/PS_Cart_1.dat",
+  "data": {
+    "GUID": "790c38561d21419194c369460b66aabb",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59358"
+  },
+  "translation": {
+    "Name": "PS Cart #2"
+  }
+}

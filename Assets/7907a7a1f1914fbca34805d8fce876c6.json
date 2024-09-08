@@ -1,0 +1,12 @@
+{
+  "name": "Semi_Truck",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Semi_Truck/Semi_Truck.dat",
+  "data": {
+    "GUID": "7907a7a1f1914fbca34805d8fce876c6",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Semi Truck"
+  }
+}

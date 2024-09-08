@@ -1,0 +1,39 @@
+{
+  "name": "Vest_Police",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Vests/Vest_Police/Vest_Police.dat",
+  "data": {
+    "GUID": "43fcde4141e74c3c869745ddccde811a",
+    "Rarity": "Rare",
+    "Type": "Vest",
+    "Useable": "Clothing",
+    "ID": "26802",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.46",
+    "Use_Auto_Icon_Measurements": "False",
+    "Width": "8",
+    "Height": "8",
+    "Armor": "0.80",
+    "WearAudio": "Sounds/Clothes/Backpack.asset",
+    "Armor_Explosion": "0.80",
+    "Movement_Speed_Multiplier": "0.90",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "26802",
+    "Blueprint_0_Tool": "25393",
+    "Blueprint_0_Product": "25372",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "25535",
+    "Blueprint_1_Type": "Repair",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "25372",
+    "Blueprint_1_Supply_0_Amount": "4",
+    "Blueprint_1_Build": "25534",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Police Vest",
+    "Description": "Heavy police vest.<br><color=#7cb9e8>20% Armor</color> <color=#cd32da>-12% Movement Speed</color>"
+  }
+}

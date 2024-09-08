@@ -1,0 +1,17 @@
+{
+  "name": "France_Corsican_BP_Display",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Small/Quests/France_Corsican_BP_Display/France_Corsican_BP_Display.dat",
+  "data": {
+    "GUID": "4a084208529146618aa9b89ee0736ceb",
+    "Type": "Small",
+    "ID": "35172",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "4018",
+    "Condition_0_Value": "4",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To"
+  },
+  "translation": {
+    "Name": "France Corsican Blueprint Display"
+  }
+}

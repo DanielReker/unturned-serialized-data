@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Table_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Table_4/Metro_Table_4.dat",
+  "data": {
+    "GUID": "0e2c236143f2411a808ce0ecef103315",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57271"
+  },
+  "translation": {
+    "Name": "Metro Table #5"
+  }
+}

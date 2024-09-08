@@ -1,0 +1,16 @@
+{
+  "name": "Cubik_Who",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Cubik/Cubik_Who/Asset.dat",
+  "data": {
+    "GUID": "4e2924fe1a014d859441ca5316fed9f1",
+    "Type": "Dialogue",
+    "ID": "8102",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "My name is Andrii Vitiv, I work in the technical part of the shelter. I Build Personal Computers, and collect information on media.",
+    "Response_0": "Neat."
+  }
+}

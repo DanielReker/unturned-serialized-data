@@ -1,0 +1,15 @@
+{
+  "name": "California_Militia_Sawmill",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_Militia_Sawmill/California_Militia_Sawmill.dat",
+  "data": {
+    "GUID": "1c6580f124aa4980a2eba5c1d754ae54",
+    "Type": "Spawn",
+    "ID": "4399",
+    "Tables": "2",
+    "Table_0_Spawn_ID": "4374",
+    "Table_0_Weight": "60",
+    "Table_1_Spawn_ID": "4402",
+    "Table_1_Weight": "40"
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Harbor_0",
+  "path": "Bundles/Objects/Large/Vehicles/Harbor_0/Harbor_0.dat",
+  "data": {
+    "GUID": "be267353f0324545b4f1f62310efad4b",
+    "Type": "Large",
+    "ID": "321",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Harbor #1"
+  }
+}

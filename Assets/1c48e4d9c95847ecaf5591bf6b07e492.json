@@ -1,0 +1,10 @@
+{
+  "name": "Muzzle_Rifle_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Effects/Muzzles/Muzzle_Rifle_1/Muzzle_Rifle_1.dat",
+  "data": {
+    "GUID": "1c48e4d9c95847ecaf5591bf6b07e492",
+    "Type": "Effect",
+    "ID": "59014"
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Minecart_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Minecart_0/PS_Minecart_0.dat",
+  "data": {
+    "GUID": "cff60bcf071c4a44a6ff3b927632a055",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60058"
+  },
+  "translation": {
+    "Name": "PS Minecart #1"
+  }
+}

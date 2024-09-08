@@ -1,0 +1,13 @@
+{
+  "name": "Renegade_Red",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Vehicles/Renegade_Red/Renegade_Red.dat",
+  "data": {
+    "GUID": "0a47a214d555465f99835f4a426f9437",
+    "Type": "Large",
+    "ID": "35079",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Red Renegade"
+  }
+}

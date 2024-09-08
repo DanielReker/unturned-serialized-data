@@ -1,0 +1,12 @@
+{
+  "name": "IR_Crate_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/City/IR_Crate_3/IR_Crate_3.dat",
+  "data": {
+    "GUID": "132364cad960473280b99f44e69dfe12",
+    "Type": "Medium",
+    "ID": "17073"
+  },
+  "translation": {
+    "Name": "Irish Crate#3"
+  }
+}

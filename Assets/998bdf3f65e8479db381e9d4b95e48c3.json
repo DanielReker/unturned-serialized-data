@@ -1,0 +1,16 @@
+{
+  "name": "Hesco",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Hesco/Hesco.dat",
+  "data": {
+    "GUID": "998bdf3f65e8479db381e9d4b95e48c3",
+    "Type": "Medium",
+    "ID": "51000",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Hesco"
+  }
+}

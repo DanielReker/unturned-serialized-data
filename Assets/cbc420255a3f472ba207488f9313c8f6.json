@@ -1,0 +1,16 @@
+{
+  "name": "France_Sniper_Question_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Sniper/France_Sniper_Question_3/Asset.dat",
+  "data": {
+    "GUID": "cbc420255a3f472ba207488f9313c8f6",
+    "Type": "Dialogue",
+    "ID": "4118",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Message_0_Prev": "4115"
+  },
+  "translation": {
+    "Message_0_Page_0": "This is an upgraded <color=legendary>Hecate</color>.",
+    "Message_0_Page_1": "Very powerful, very accurate, and very rare."
+  }
+}

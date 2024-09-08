@@ -1,0 +1,32 @@
+{
+  "name": "Kuwait_Military_24",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Magazines/Kuwait_Military_24/Kuwait_Military_24.dat",
+  "data": {
+    "GUID": "4911bcfd326a4042b8854dc11883b716",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "ID": "5001",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.25",
+    "Amount": "24",
+    "Count_Min": "6",
+    "Count_Max": "24",
+    "Calibers": "1",
+    "Caliber_0": "1",
+    "Tracer": "48",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "43",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "5001",
+    "Blueprint_1_Build": "30"
+  },
+  "translation": {
+    "Name": "Miltary Magazine",
+    "Description": "Low caliber military grade magazine designed to hold 24 rounds. "
+  }
+}

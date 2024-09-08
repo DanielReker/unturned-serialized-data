@@ -1,0 +1,12 @@
+{
+  "name": "Moonlight",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Moonlight/Moonlight.dat",
+  "data": {
+    "GUID": "bbbec8821fa04c9fa71b717bdfd516be",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Moonlight"
+  }
+}

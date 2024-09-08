@@ -1,0 +1,12 @@
+{
+  "name": "IR_Baggage_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Medium/City/IR_Baggage_1/IR_Baggage_1.dat",
+  "data": {
+    "GUID": "eabdc0898b524726afaf7bf69b2d696d",
+    "Type": "Medium",
+    "ID": "17020"
+  },
+  "translation": {
+    "Name": "Irish Baggage#1"
+  }
+}

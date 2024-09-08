@@ -1,0 +1,42 @@
+{
+  "name": "FunkyGray",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Carpets/FunkyGray/FunkyGray.dat",
+  "data": {
+    "GUID": "df890ca5df214b44bd76ce16a421cf21",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "Min_Items_Dropped_On_Destroy": "2",
+    "Max_Items_Dropped_On_Destroy": "2",
+    "Item_Dropped_On_Destroy": "edd1ce0fd90041b89e909cc303fada46",
+    "ID": "51683",
+    "SalvageItem": "df890ca5df214b44bd76ce16a421cf21",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.45",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Apparel",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51683",
+    "Blueprint_0_Product": "51020",
+    "Blueprint_0_Products": "3",
+    "Blueprint_0_Build": "27",
+    "Health": "25",
+    "Range": "4",
+    "Radius": "0.1",
+    "Offset": "0.1",
+    "Explosion": "36",
+    "Vulnerable": "",
+    "Salvage_Duration_Multiplier": "0.25",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Bypass_Pickup_Ownership": "True",
+    "Has_Clip_Prefab": "False",
+    "Use_Auto_Icon_Measurements": "False",
+    "PlacementPreviewPrefab": "Items/Barricades/Carpets/Lunar_Black/Placement.prefab"
+  },
+  "translation": {
+    "Name": "Funky Carpet (Gray)",
+    "Description": "A funky styled carpet."
+  }
+}

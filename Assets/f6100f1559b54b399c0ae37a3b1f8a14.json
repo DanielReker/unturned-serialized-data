@@ -1,0 +1,27 @@
+{
+  "name": "PBS_ColinP",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_ColinP/Asset.dat",
+  "data": {
+    "GUID": "f6100f1559b54b399c0ae37a3b1f8a14",
+    "Type": "NPC",
+    "ID": "52515",
+    "Shirt": "916569a44eef45c4b8cc77f8ba763665",
+    "Pants": "823c52c8060c406581d1175ea7a17d2c",
+    "Face": "11",
+    "Hair": "10",
+    "Beard": "7",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#352C22",
+    "Dialogue": "52516",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Quest",
+    "Condition_0_ID": "52524",
+    "Condition_0_Status": "Completed",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "PBS NPC Colin Prisoner",
+    "Character": "Colin"
+  }
+}

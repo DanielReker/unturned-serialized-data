@@ -1,0 +1,17 @@
+{
+  "name": "Chair_Office_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/Chair_Office_0/Chair_Office_0.dat",
+  "data": {
+    "GUID": "ca55b823013d4b1f97a9bcaadc621892",
+    "Type": "Medium",
+    "ID": "45678",
+    "Asset_Bundle_Version": "2",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "60",
+    "Rubble_Health": "50",
+    "Rubble_Effect": "35"
+  },
+  "translation": {
+    "Name": "Chair Office #1"
+  }
+}

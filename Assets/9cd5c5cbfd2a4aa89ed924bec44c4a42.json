@@ -1,0 +1,13 @@
+{
+  "name": "Van_White",
+  "path": "Bundles/Objects/Large/Vehicles/Van_White/Van_White.dat",
+  "data": {
+    "GUID": "9cd5c5cbfd2a4aa89ed924bec44c4a42",
+    "Type": "Large",
+    "ID": "179",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "White Van"
+  }
+}

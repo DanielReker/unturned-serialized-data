@@ -1,0 +1,24 @@
+{
+  "name": "Socks_Knee_White_Pink",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/Socks/Socks_Knee_White_Pink/Socks_Knee_White_Pink.dat",
+  "data": {
+    "GUID": "a128b75c357e48f8ae20a72eb342197c",
+    "Rarity": "Mythical",
+    "Type": "Supply",
+    "ID": "26393",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supply_0_ID": "26393",
+    "Blueprint_0_Product": "25300",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "25535",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "White & Pink Knee High Socks",
+    "Description": "White & pink knee high socks. Craft onto a pair of Sawed-Off Shorts."
+  }
+}

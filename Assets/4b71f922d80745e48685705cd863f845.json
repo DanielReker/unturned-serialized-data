@@ -1,0 +1,14 @@
+{
+  "name": "Corrosive_512x512",
+  "path": "Bundles/Skins/Patterns/Corrosive_512x512/Corrosive_512x512.dat",
+  "data": {
+    "GUID": "4b71f922d80745e48685705cd863f845",
+    "Type": "Skin",
+    "ID": "19",
+    "Tactical": "",
+    "Barrel": "",
+    "Magazine": "",
+    "Pattern": ""
+  },
+  "translation": null
+}

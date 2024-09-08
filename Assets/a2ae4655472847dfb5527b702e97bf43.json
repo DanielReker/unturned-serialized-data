@@ -1,0 +1,13 @@
+{
+  "name": "Bronze_Toque",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Plaques/Bronze_Toque/Bronze_Toque.dat",
+  "data": {
+    "GUID": "a2ae4655472847dfb5527b702e97bf43",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Plaque Toque"
+  }
+}

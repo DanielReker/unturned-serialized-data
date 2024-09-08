@@ -1,0 +1,25 @@
+{
+  "name": "French_Pine_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Resources/France/French_Pine_1/French_Pine_1.dat",
+  "data": {
+    "GUID": "636c24681ee44339a038b55ef3bf0669",
+    "Type": "Resource",
+    "ID": "161",
+    "Health": "1200",
+    "Radius": "5",
+    "Scale": "0.3",
+    "Explosion": "23",
+    "Reward_ID": "517",
+    "Reward_XP": "6",
+    "Reward_Min": "5",
+    "Reward_Max": "8",
+    "Reset": "750",
+    "SpeedTree": "",
+    "SpeedTree_Default_LOD_Weights": "",
+    "Has_Clip_Prefab": "false",
+    "Auto_Skybox": ""
+  },
+  "translation": {
+    "Name": "French Pine #2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Officer_Drink_Run_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/IFR/Officer_Molly/Officer_Drink_Run_Accepted/Asset.dat",
+  "data": {
+    "GUID": "bd9800aa866d45bfa97f5be235ae7c23",
+    "Type": "Dialogue",
+    "ID": "15116",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Can you go through it quickly? I'm getting thirsty."
+  }
+}

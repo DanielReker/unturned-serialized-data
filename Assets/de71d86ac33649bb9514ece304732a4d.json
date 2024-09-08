@@ -1,0 +1,24 @@
+{
+  "name": "Buak_Q_SL_D_03_Placed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_SL_D_03_Placed/Buak_Q_SL_D_03_Placed.dat",
+  "data": {
+    "GUID": "de71d86ac33649bb9514ece304732a4d",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24373",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_ID": "24785",
+    "Condition_1_Value": "False",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "Buak_Q_SL_D_03_Placed"
+  }
+}

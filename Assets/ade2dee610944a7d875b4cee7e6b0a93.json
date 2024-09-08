@@ -1,0 +1,22 @@
+{
+  "name": "Metro_Doughnut",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Overrides/Metro_Doughnut/Metro_Doughnut.dat",
+  "data": {
+    "GUID": "ade2dee610944a7d875b4cee7e6b0a93",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "ID": "57575",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.29",
+    "Food": "30",
+    "Energy": "100",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Doughnut",
+    "ConsumeAudioClip": "Sounds/EatCrunchy.mp3"
+  },
+  "translation": {
+    "Name": "Donut",
+    "Description": "<color=#64c819>30</color> Food                                                                 <color=#64c819>100</color> Energy"
+  }
+}

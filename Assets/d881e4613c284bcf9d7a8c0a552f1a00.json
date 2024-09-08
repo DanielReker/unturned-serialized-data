@@ -1,0 +1,14 @@
+{
+  "name": "Jetski_Black",
+  "path": "Bundles/Objects/Medium/Parks/Jetski_Black/Jetski_Black.dat",
+  "data": {
+    "GUID": "d881e4613c284bcf9d7a8c0a552f1a00",
+    "Type": "Medium",
+    "ID": "498",
+    "Snowshoe": "",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Black Jetski"
+  }
+}

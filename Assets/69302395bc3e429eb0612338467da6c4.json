@@ -1,0 +1,27 @@
+{
+  "name": "PlushRush_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Viola/Viola_02/PlushRush_Welcome/Asset.dat",
+  "data": {
+    "GUID": "69302395bc3e429eb0612338467da6c4",
+    "Type": "Dialogue",
+    "ID": "24437",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "af26c181d9884e5d9123a124b4cbe9d8",
+    "Response_0_Quest": "1905f6cb8e9247078e0bcd941ac7d803",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "1905f6cb8e9247078e0bcd941ac7d803",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "1905f6cb8e9247078e0bcd941ac7d803"
+  },
+  "translation": {
+    "Message_0_Page_0": "Could you by chance go over to the plane crash on the north east side of the mountain and pick up a crate of plushies?",
+    "Response_0": "Sure thing!",
+    "Response_1": "Not now."
+  }
+}

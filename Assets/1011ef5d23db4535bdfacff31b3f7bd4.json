@@ -1,0 +1,17 @@
+{
+  "name": "Transit_0",
+  "path": "Bundles/Objects/Medium/Business/Transit_0/Transit_0.dat",
+  "data": {
+    "GUID": "1011ef5d23db4535bdfacff31b3f7bd4",
+    "Type": "Medium",
+    "ID": "465",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "100",
+    "Rubble_Effect": "19",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Transit #1"
+  }
+}

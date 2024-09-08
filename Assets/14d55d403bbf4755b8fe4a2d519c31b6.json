@@ -1,0 +1,21 @@
+{
+  "name": "Scientist_Sarah",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Scientist_Sarah/Asset.dat",
+  "data": {
+    "GUID": "14d55d403bbf4755b8fe4a2d519c31b6",
+    "Type": "NPC",
+    "ID": "2159",
+    "Shirt": "311",
+    "Pants": "312",
+    "Glasses": "727",
+    "Face": "18",
+    "Hair": "14",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#dcc752",
+    "Dialogue": "2160"
+  },
+  "translation": {
+    "Name": "Scientist Sarah",
+    "Character": "Sarah"
+  }
+}

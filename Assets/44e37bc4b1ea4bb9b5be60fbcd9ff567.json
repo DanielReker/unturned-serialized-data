@@ -1,0 +1,13 @@
+{
+  "name": "PS_Palace_Fence_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Palace_Fence_1/PS_Palace_Fence_1.dat",
+  "data": {
+    "GUID": "44e37bc4b1ea4bb9b5be60fbcd9ff567",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60278"
+  },
+  "translation": {
+    "Name": "PS Palace Fence #2"
+  }
+}

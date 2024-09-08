@@ -1,0 +1,40 @@
+{
+  "name": "Bottle_Water",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Drinks/Bottle_Water/Bottle_Water.dat",
+  "data": {
+    "GUID": "809686887cd149f7bb29bf31d5b43ecf",
+    "Type": "Water",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "25773",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Left_Handed_Characters_Mirror_Equipable": "false",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "25793",
+    "Quest_Reward_0_Amount": "1",
+    "Quest_Reward_0_Value": "True",
+    "Water": "60",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "25628",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "25536",
+    "Blueprint_1_Type": "Supply",
+    "Blueprint_1_Supplies": "2",
+    "Blueprint_1_Supply_0_ID": "25785",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Supply_0_Critical": "",
+    "Blueprint_1_Supply_1_ID": "25628",
+    "Blueprint_1_Supply_1_Amount": "1",
+    "Blueprint_1_Build": "25536",
+    "ConsumeAudioClip": "Sounds/Food/drinkBottle.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Bottled Water",
+    "Description": "Repackaged tap water. Only $1.95!"
+  }
+}

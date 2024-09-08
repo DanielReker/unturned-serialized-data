@@ -1,0 +1,12 @@
+{
+  "name": "Glowing",
+  "path": "Bundles/Mythics/Glowing/Glowing.dat",
+  "data": {
+    "GUID": "7ee89b9d2c7f4f8491dbdb272f24db71",
+    "Type": "Mythic",
+    "ID": "2"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Glowing"
+  }
+}

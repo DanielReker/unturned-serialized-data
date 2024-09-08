@@ -1,0 +1,13 @@
+{
+  "name": "PS_Blockade_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Blockade_5/PS_Blockade_5.dat",
+  "data": {
+    "GUID": "f7a8ff538d644cf9936e897f3051f079",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60166"
+  },
+  "translation": {
+    "Name": "PS Blockade #6"
+  }
+}

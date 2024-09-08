@@ -1,0 +1,30 @@
+{
+  "name": "Warzone_Grass_Collection_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Assets/Landscapes/Foliage/Warzone_Grass_Collection_00.asset",
+  "data": {
+    "GUID": "117f75d7676a403d886855bd0fa28b66",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "730bd1f1920d4f1c8a7f6417c9d5d040"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "c556500561ed46e9b43faf4c80d7962c"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "623aa1701d3349709131a0c3b8d9bd46"
+        },
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

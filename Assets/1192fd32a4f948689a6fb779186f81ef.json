@@ -1,0 +1,17 @@
+{
+  "name": "Matamorez_Iron_Sights",
+  "path": "Bundles/Items/Sights/Matamorez_Iron_Sights/Matamorez_Iron_Sights.dat",
+  "data": {
+    "GUID": "1192fd32a4f948689a6fb779186f81ef",
+    "Type": "Sight",
+    "ID": "1001",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Matamorez Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

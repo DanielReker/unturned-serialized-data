@@ -1,0 +1,32 @@
+{
+  "name": "James_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/04/James_04/Asset.dat",
+  "data": {
+    "GUID": "f1838b6a0eba41afbba424e104768587",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "ebb71672b00f4e60ac6ce7a8eca1300b",
+    "Shirt": "c840c89e0b7d4d4c9e27ac1da5a4ed9d",
+    "Has_Christmas_Outfit": "True",
+    "Christmas_Shirt": "af272b7383ce4786a8cc4ff501b3f620",
+    "Christmas_Hat": "1bc5e7d74f384c0393d704f2b3c1ae1a",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Shirt": "14d224b5eaaa405f921ed9eedbdce725",
+    "Halloween_Hat": "f8958013883946648fd72c8f484f5bed",
+    "Face": "8",
+    "Hair": "4",
+    "Color_Skin": "#706049",
+    "Color_Hair": "#161616",
+    "Dialogue": "7635d75bb5544e79a134888547f7ead4",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24785",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_James_04",
+    "Character": "<color=legendary>James</color>"
+  }
+}

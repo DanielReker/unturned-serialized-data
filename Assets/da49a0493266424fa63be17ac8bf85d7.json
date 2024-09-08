@@ -1,0 +1,14 @@
+{
+  "name": "Pet_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Pet_Starfish/Pet_Completed/Asset.dat",
+  "data": {
+    "GUID": "da49a0493266424fa63be17ac8bf85d7",
+    "Type": "Dialogue",
+    "ID": "2085",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you so much! I shall name him Patrick!"
+  }
+}

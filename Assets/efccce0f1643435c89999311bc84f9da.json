@@ -1,0 +1,14 @@
+{
+  "name": "Dmitriy_HES_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Dmitriy Davidov/Dmitriy_HES_Accepted/Asset.dat",
+  "data": {
+    "GUID": "efccce0f1643435c89999311bc84f9da",
+    "Type": "Dialogue",
+    "ID": "5130",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Well ... <pause> Good luck to you."
+  }
+}

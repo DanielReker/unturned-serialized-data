@@ -1,0 +1,13 @@
+{
+  "name": "BE Pharmacy #1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE Pharmacy #1/BE Pharmacy #1.dat",
+  "data": {
+    "GUID": "285fb365786348619287d8e90fc0aaf4",
+    "Type": "Large",
+    "ID": "9034",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE Pharmacy #1"
+  }
+}

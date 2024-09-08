@@ -1,0 +1,13 @@
+{
+  "name": "Buak_CaveBrochure_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_CaveBrochure_01/Buak_CaveBrochure_01.dat",
+  "data": {
+    "GUID": "d893113750be40c2b9f3c1cafb9643f6",
+    "Type": "Spawn",
+    "ID": "25465",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25645",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

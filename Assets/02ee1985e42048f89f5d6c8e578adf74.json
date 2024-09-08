@@ -1,0 +1,20 @@
+{
+  "name": "Hangglider_Harry",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Characters/Hangglider_Harry/Asset.dat",
+  "data": {
+    "GUID": "02ee1985e42048f89f5d6c8e578adf74",
+    "Type": "NPC",
+    "ID": "2039",
+    "Shirt": "419",
+    "Pants": "207",
+    "Face": "13",
+    "Hair": "2",
+    "Color_Skin": "#d3c2ad",
+    "Color_Hair": "#634e33",
+    "Dialogue": "2040"
+  },
+  "translation": {
+    "Name": "Hangglider Harry",
+    "Character": "Harry"
+  }
+}

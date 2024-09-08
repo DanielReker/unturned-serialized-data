@@ -1,0 +1,16 @@
+{
+  "name": "Beach4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/Beach4/Beach4.dat",
+  "data": {
+    "GUID": "3aab4049b8064715b3d12250b91751db",
+    "Type": "Spawn",
+    "ID": "51212",
+    "Tables": [
+      {
+        "Guid": "f9ae78e88cbb48d38412d50da16f5964",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

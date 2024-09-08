@@ -1,0 +1,18 @@
+{
+  "name": "Easter_Barn_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Large/Buildings/Easter_Barn_0/Easter_Barn_0.dat",
+  "data": {
+    "GUID": "b0c1d51d1b364c1ebe20185417ec8f20",
+    "Type": "Large",
+    "ID": "6881",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Asset_Bundle_Version": "2",
+    "Bypass_ID_Limit": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Barn #1"
+  }
+}

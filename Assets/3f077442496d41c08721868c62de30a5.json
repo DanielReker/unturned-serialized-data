@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Graffiti_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Small/Graffiti/Metro_Graffiti_4/Metro_Graffiti_4.dat",
+  "data": {
+    "GUID": "3f077442496d41c08721868c62de30a5",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57453"
+  },
+  "translation": {
+    "Name": "Metro Graffiti #5"
+  }
+}

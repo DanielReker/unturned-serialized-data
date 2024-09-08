@@ -1,0 +1,13 @@
+{
+  "name": "PS_Well_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Well_0/PS_Well_0.dat",
+  "data": {
+    "GUID": "1ecd7a8aa86942fda57c0849b10bae3e",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59224"
+  },
+  "translation": {
+    "Name": "PS Well #1"
+  }
+}

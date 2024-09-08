@@ -1,0 +1,32 @@
+{
+  "name": "26380KEJW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/259 LSE/26360KEJD/26380KEJC/26380KEJW/Asset.dat",
+  "data": {
+    "GUID": "ce8b7834129e48efa1403d839556269b",
+    "Type": "Dialogue",
+    "ID": "26380",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_0_Dialogue": "26381",
+    "Response_0_Quest": "26375",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "26375",
+    "Response_0_Condition_0_Status": "Ready\t",
+    "Response_0_Condition_0_Reset": "",
+    "Response_1_Dialogue": "26373",
+    "Response_1_Conditions": "1",
+    "Response_1_Condition_0_Type": "Quest",
+    "Response_1_Condition_0_ID": "25040",
+    "Response_1_Condition_0_Status": "None",
+    "Response_1_Condition_0_Logic": "Not_Equal"
+  },
+  "translation": {
+    "Message_0_Page_0": "Give me a second, <name_char> I'm all sweaty and I'm positive that there's sand in my hat. ",
+    "Response_0": "I've brought your payment.",
+    "Response_1": "Do you know why the <color=legendary>Coalition</color> is here?",
+    "Response_2": "Good to see you back!"
+  }
+}

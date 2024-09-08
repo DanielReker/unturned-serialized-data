@@ -1,0 +1,16 @@
+{
+  "name": "Jordan_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Fluff/Patients/Jordan_Welcome/Asset.dat",
+  "data": {
+    "GUID": "84b8c9304fff40c08b97b9e4ef13305d",
+    "Type": "Dialogue",
+    "ID": "9203",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "<name_char>, I don't feel so good.",
+    "Response_0": "Ok..."
+  }
+}

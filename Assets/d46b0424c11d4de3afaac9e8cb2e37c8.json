@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Cruz_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Cruz/PBS_Cruz_Accepted/Asset.dat",
+  "data": {
+    "GUID": "d46b0424c11d4de3afaac9e8cb2e37c8",
+    "Type": "Dialogue",
+    "ID": "52165",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good luck getting the funds.  It really will be worth it."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PS_AG17_Hatch_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_AG17_Hatch_0/PS_AG17_Hatch_0.dat",
+  "data": {
+    "GUID": "f21fd8f3da9045a0a246d7c568901070",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59583",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "59000",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "AG17_1"
+  },
+  "translation": {
+    "Name": "PS AG17 Hatch #1",
+    "Interactability_Condition_0": "Missing AG17 Key",
+    "Interact": "Enter AG17 [{0}]"
+  }
+}

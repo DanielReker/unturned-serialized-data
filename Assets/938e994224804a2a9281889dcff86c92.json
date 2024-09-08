@@ -1,0 +1,17 @@
+{
+  "name": "ZZ_Theme_Loop",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Songs/ZZ_Theme_Loop/ZZ_Theme_Loop.asset",
+  "data": {
+    "GUID": "938e994224804a2a9281889dcff86c92",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Song": {
+      "MasterBundle": "buak.masterbundle",
+      "AssetPath": "Music/ZZ_Theme_Loop.ogg"
+    },
+    "Link_URL": "https://www.youtube.com/watch?v=tnPjwDzOXaE",
+    "Is_Loop": "true"
+  },
+  "translation": {
+    "Name": "The Fruits of our Labour (Loop) - staswalle"
+  }
+}

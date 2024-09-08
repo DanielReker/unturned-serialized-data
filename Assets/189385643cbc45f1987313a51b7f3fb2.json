@@ -1,0 +1,24 @@
+{
+  "name": "Easter_Note_Crew",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Small/Notes/Easter_Note_Crew/Easter_Note_Crew.dat",
+  "data": {
+    "GUID": "189385643cbc45f1987313a51b7f3fb2",
+    "Type": "Medium",
+    "ID": "6798",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "5",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Easter Note - Crew #1",
+    "Interactability_Text_Line_0": "Jerry's Log 3/9/1984",
+    "Interactability_Text_Line_1": "------",
+    "Interactability_Text_Line_2": "Never thought I'd be on a voyage to something as far out as Hawaii, but here I am, freshly departed from San Fransisco and on my way to Holokai Harbor, a quarter of a world away. The skies are clear, and all the equipment is in great shape.",
+    "Interactability_Text_Line_3": "------",
+    "Interactability_Text_Line_4": "The rest is faded and illegable."
+  }
+}

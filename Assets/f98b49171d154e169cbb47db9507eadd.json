@@ -1,0 +1,26 @@
+{
+  "name": "PS_Magbox_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Magbox_4/PS_Magbox_4.dat",
+  "data": {
+    "GUID": "f98b49171d154e169cbb47db9507eadd",
+    "Type": "Supply",
+    "Rarity": "Epic",
+    "ID": "59778",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.27",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59778",
+    "Blueprint_0_Product": "59424",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "27",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Items/Supplies/PS_Magbox_0"
+  },
+  "translation": {
+    "Name": "Magbox (MKP)",
+    "Description": "Box containing 2 MKP Boxes."
+  }
+}

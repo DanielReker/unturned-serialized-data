@@ -1,0 +1,40 @@
+{
+  "name": "Mannequin_Metal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Mannequin_Metal/Mannequin_Metal.dat",
+  "data": {
+    "GUID": "dd9ba2660d3b47ecb20582582a39a806",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Build": "Mannequin",
+    "ID": "51623",
+    "SalvageItem": "dd9ba2660d3b47ecb20582582a39a806",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.65",
+    "Health": "600",
+    "Range": "4",
+    "Radius": "0.8",
+    "Offset": "1",
+    "Locked": "",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "51018",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Supply_1_ID": "51020",
+    "Blueprint_0_Supply_1_Amount": "6",
+    "Blueprint_0_Build": "27",
+    "Ignore_TexRW": "",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/Mannequin_Metal",
+    "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3",
+    "Has_Clip_Prefab": "false",
+    "Armor_Tier": "Low"
+  },
+  "translation": {
+    "Name": "Metal Mannequin",
+    "Description": "Metal mannequin for storing clothes on."
+  }
+}

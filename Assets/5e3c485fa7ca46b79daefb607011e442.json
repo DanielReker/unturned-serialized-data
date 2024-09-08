@@ -1,0 +1,48 @@
+{
+  "name": "Kuwait_Cars",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Assets/Material_Palettes/Kuwait_Cars.asset",
+  "data": {
+    "GUID": "5e3c485fa7ca46b79daefb607011e442",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Cars/Kuwait_Destroyed_Car_Black.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Cars/Kuwait_Destroyed_Car_Blue.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Cars/Kuwait_Destroyed_Car_Green.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Cars/Kuwait_Destroyed_Car_Olive.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Cars/Kuwait_Destroyed_Car_Orange.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Cars/Kuwait_Destroyed_Car_Purple.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Cars/Kuwait_Destroyed_Car_Red.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Cars/Kuwait_Destroyed_Car_White.mat"
+      },
+      {
+        "Name": "kuwait.masterbundle",
+        "Path": "Material_Palettes/Kuwait_Cars/Kuwait_Destroyed_Car_Yellow.mat"
+      }
+    ]
+  },
+  "translation": null
+}

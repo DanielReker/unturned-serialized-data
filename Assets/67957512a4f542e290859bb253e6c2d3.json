@@ -1,0 +1,13 @@
+{
+  "name": "WoodenBox2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/WoodenBox2/WoodenBox2.dat",
+  "data": {
+    "GUID": "67957512a4f542e290859bb253e6c2d3",
+    "Type": "Medium",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Wooden crate 2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Semi_Truck_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Semi_Truck_1/PS_Semi_Truck_1.dat",
+  "data": {
+    "GUID": "5ee683e0e5ec4ba8b9d6d5cf9b75d909",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59686"
+  },
+  "translation": {
+    "Name": "PS Semi Truck #2 [Trailer]"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Carter_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Characters/01/Carter_01/Asset.dat",
+  "data": {
+    "GUID": "d4a92f6bb14e48a8ae76799336b0c796",
+    "Type": "NPC",
+    "ID": "25300",
+    "Hat": "bbaf2ad2bb7545a786de331b4ced623e",
+    "Shirt": "6e0c21a132db4661abfe3a09f787ce31",
+    "Has_Christmas_Outfit": "False",
+    "Christmas_Shirt": "1420",
+    "Christmas_Pants": "1419",
+    "Christmas_Hat": "278",
+    "PlayerKnowsNameFlagID": "24670",
+    "Face": "22",
+    "Hair": "4",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#161616",
+    "Primary": "622dbd8a28a743ee9a1e681a68b06f0a",
+    "Equipped": "Primary",
+    "Pose": "Passive",
+    "Dialogue": "460311075c534854b92e20b5717bf868",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "24788",
+    "Condition_0_Value": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Carter_01",
+    "Character": "<color=legendary>Carter</color>"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Survivor Paula",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Survivors/Survivor Paula/Asset.dat",
+  "data": {
+    "GUID": "ff1b51ed53ca419c8f237c0fa9cd75dd",
+    "Type": "NPC",
+    "ID": "9016",
+    "Shirt": "183",
+    "Pants": "213",
+    "Face": "24",
+    "Hair": "22",
+    "Color_Skin": "#c1b6a0",
+    "Color_Hair": "#223e44",
+    "Dialogue": "9201"
+  },
+  "translation": {
+    "Name": "NAM Survivor Paula",
+    "Character": "Paula"
+  }
+}

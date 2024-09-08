@@ -1,0 +1,17 @@
+{
+  "name": "Wheat_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Assets/Material_Palletes/Wheat_0.asset",
+  "data": {
+    "GUID": "ba40193825ee40918bf69928394aba0b",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "metro.masterbundle",
+        "Path": "Terrain/Metro/Material_Palletes/Wheat_0/Material_0.mat"
+      },
+      "}"
+    ]
+  },
+  "translation": null
+}

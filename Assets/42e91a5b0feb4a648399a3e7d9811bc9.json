@@ -1,0 +1,12 @@
+{
+  "name": "IR_Pub",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Pub/IR_Pub.dat",
+  "data": {
+    "GUID": "42e91a5b0feb4a648399a3e7d9811bc9",
+    "Type": "Large",
+    "ID": "17054"
+  },
+  "translation": {
+    "Name": "Irish Pub#1"
+  }
+}

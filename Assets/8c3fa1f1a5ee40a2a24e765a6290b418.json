@@ -1,0 +1,18 @@
+{
+  "name": "Greece_Pine_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Assets/Trees/Greece_Pine_1.asset",
+  "data": {
+    "GUID": "8c3fa1f1a5ee40a2a24e765a6290b418",
+    "Type": "SDG.Framework.Foliage.FoliageResourceInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Density": "4000",
+    "Min_Weight": "0.5",
+    "Max_Weight": "1",
+    "Min_Angle": "0",
+    "Max_Angle": "60",
+    "Resource": {
+      "GUID": "2c03e9e78c434ad39ed0b25bb012182c"
+    },
+    "Obstruction_Radius": "4"
+  },
+  "translation": null
+}

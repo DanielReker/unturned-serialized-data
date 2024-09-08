@@ -1,0 +1,22 @@
+{
+  "name": "DI2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/ProItems/DI2/DI2.dat",
+  "data": {
+    "GUID": "5e6bccbf903f455f82fad61e22b53986",
+    "Type": "Medical",
+    "Useable": "Consumeable",
+    "Rarity": "Rare",
+    "ID": "52006",
+    "Pro": "",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Health": "0",
+    "Master_Bundle_Override": "pbs.masterbundle",
+    "Bundle_Override_Path": "Items/Supplies/Medical/Pure"
+  },
+  "translation": {
+    "Name": "Basic Infection Treatment",
+    "Description": "Did this little survivor have a fall?"
+  }
+}

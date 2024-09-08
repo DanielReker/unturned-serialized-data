@@ -1,0 +1,28 @@
+{
+  "name": "Buak_Note_48",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Note_48/Buak_Note_48.dat",
+  "data": {
+    "GUID": "d25375ba7aa04a70b454197d06ef22d7",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "9",
+    "Material_Palette": "3758ac9d1b774a4a99a407c069e2a21a",
+    "Bundle_Override_Path": "/Objects/Small/Furniture/Buak_Note_00"
+  },
+  "translation": {
+    "Name": "Buak_Note_48",
+    "Interactability_Text_Line_0": "2014-5-6",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "Now that the team finally pulled themselves together, I was able to get the report on what happened.",
+    "Interactability_Text_Line_3": "After she died during one of the procedures, the orders were simple. Incinerate the body.",
+    "Interactability_Text_Line_4": "While those slackers were grieving for that monster instead of doing their job, something happened.",
+    "Interactability_Text_Line_5": "She resurrected, after all these years, all those experiments, all the money that went into this.",
+    "Interactability_Text_Line_6": "All of that and she’s the one who gets to come back? What a joke.",
+    "Interactability_Text_Line_7": "And to the team who thought they could fix her? I told you, look at you now.",
+    "Interactability_Text_Line_8": "I should have listened to my gut and put her down years ago."
+  }
+}

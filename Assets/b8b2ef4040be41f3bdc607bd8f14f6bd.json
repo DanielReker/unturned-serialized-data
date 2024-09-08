@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Block_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Block_0/Metro_Block_0.dat",
+  "data": {
+    "GUID": "b8b2ef4040be41f3bdc607bd8f14f6bd",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57046",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Block #1"
+  }
+}

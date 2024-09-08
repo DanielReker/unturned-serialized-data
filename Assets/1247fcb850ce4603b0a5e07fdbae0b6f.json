@@ -1,0 +1,13 @@
+{
+  "name": "Vines_4",
+  "path": "Bundles/Objects/Small/Overgrowth/Vines_4/Vines_4.dat",
+  "data": {
+    "GUID": "1247fcb850ce4603b0a5e07fdbae0b6f",
+    "Type": "Small",
+    "ID": "75",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Vines #5"
+  }
+}

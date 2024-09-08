@@ -1,0 +1,20 @@
+{
+  "name": "Officer_Molly",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Characters/IFR/Officer_Molly/Asset.dat",
+  "data": {
+    "GUID": "9d5f212161234b50b84ec34fb62c1fbc",
+    "Type": "NPC",
+    "ID": "15003",
+    "Shirt": "16216",
+    "Pants": "16218",
+    "Face": "24",
+    "Hair": "7",
+    "Color_Skin": "#f1dec8",
+    "Color_Hair": "#47321b",
+    "Dialogue": "15115"
+  },
+  "translation": {
+    "Name": "IFR Officer Molly",
+    "Character": "<color=rare>Molly</color>"
+  }
+}

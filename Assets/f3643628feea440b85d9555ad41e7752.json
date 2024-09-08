@@ -1,0 +1,13 @@
+{
+  "name": "Statue_2",
+  "path": "Bundles/Objects/Medium/Parks/Statue_2/Statue_2.dat",
+  "data": {
+    "GUID": "f3643628feea440b85d9555ad41e7752",
+    "Type": "Medium",
+    "ID": "709",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Statue #3"
+  }
+}

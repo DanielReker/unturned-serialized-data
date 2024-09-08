@@ -1,0 +1,308 @@
+{
+  "name": "WS_Kitchen_Counter",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/WS_Kitchen_Counter/WS_Kitchen_Counter.dat",
+  "data": {
+    "GUID": "91e818ceca644bbfab8e9138278504bf",
+    "Type": "Spawn",
+    "ID": "25405",
+    "Tables": [
+      {
+        "LegacyAssetId": "25655",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25746",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25744",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25749",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25718",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25765",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25763",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25752",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25738",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25755",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25758",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25768",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25679",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25681",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25790",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25793",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25785",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25771",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25741",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25590",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25591",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25761",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "25710",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25613",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25712",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25457",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25582",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25458",
+        "Weight": "100"
+      },
+      {
+        "LegacySpawnId": "25446",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25586",
+        "Weight": "80"
+      },
+      {
+        "LegacyAssetId": "25683",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25775",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25677",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25592",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25774",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25585",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25777",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25676",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25723",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25787",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25782",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25783",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25698",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25791",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25789",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25722",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25700",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25730",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25781",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25780",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25726",
+        "Weight": "20"
+      },
+      {
+        "Guid": "2745d6562eff44f8a3afe17ae4ba3ab1",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25714",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25799",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25696",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25702",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25721",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25724",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25788",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25725",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25727",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25668",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25720",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25786",
+        "Weight": "20"
+      },
+      {
+        "Guid": "e17d1d91dd994d0bbc13e8a4a24db0f8",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "27840",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25583",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "27837",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25792",
+        "Weight": "5"
+      },
+      {
+        "LegacyAssetId": "26737",
+        "Weight": "5"
+      },
+      {
+        "LegacyAssetId": "25719",
+        "Weight": "5"
+      },
+      {
+        "LegacyAssetId": "26632",
+        "Weight": "5"
+      },
+      {
+        "LegacyAssetId": "26630",
+        "Weight": "5"
+      },
+      {
+        "Guid": "1232fbb2cad44f24b987070b6b6a6ec5",
+        "Weight": "5"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CA_House_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_House_1/CA_House_1.dat",
+  "data": {
+    "GUID": "b8e3f0c1924a41ee865327d1917c6b86",
+    "Type": "Large",
+    "ID": "4248",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "California House #2"
+  }
+}

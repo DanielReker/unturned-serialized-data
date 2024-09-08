@@ -1,0 +1,38 @@
+{
+  "name": "Kuwait_ATM_Withdraw_2_200",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Utilities/Kuwait_ATM_Withdraw_2_200/Kuwait_ATM_Withdraw_2_200.dat",
+  "data": {
+    "GUID": "7c75935818834ef783de581c30432842",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5999",
+    "Master_Bundle_Override": "kuwait.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/Utilities/Kuwait_ATM_Withdraw_0",
+    "Conditions": "2",
+    "Condition_0_Type": "Compare_Flags",
+    "Condition_0_A_ID": "27481",
+    "Condition_0_B_ID": "27483",
+    "Condition_0_Logic": "Less_Than",
+    "Condition_1_Type": "Flag_Short",
+    "Condition_1_ID": "27480",
+    "Condition_1_Value": "0",
+    "Condition_1_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "5289",
+    "Interactability_Conditions": "2",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "27482",
+    "Interactability_Condition_0_Value": "False",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability_Condition_1_Type": "Flag_Bool",
+    "Interactability_Condition_1_ID": "27482",
+    "Interactability_Condition_1_Value": "True",
+    "Interactability_Condition_1_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Kuwait ATM Withdraw #3-(200)",
+    "Interactability_Condition_0": "Cannot withdraw <color=#FF69B4>200 KWD</color>!",
+    "Interactability_Condition_1": "The ATM isn't working...",
+    "Interact": "Withdraw <color=#FF69B4>200 KWD</color>  [{0}]"
+  }
+}

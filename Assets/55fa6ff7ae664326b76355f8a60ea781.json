@@ -1,0 +1,23 @@
+{
+  "name": "Suturekit",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Medical/Suturekit/Suturekit.dat",
+  "data": {
+    "GUID": "55fa6ff7ae664326b76355f8a60ea781",
+    "Type": "Medical",
+    "Rarity": "Epic",
+    "Useable": "Consumeable",
+    "ID": "5524",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Aid": "",
+    "Bleeding": "",
+    "Health": "50",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Medical/Suturekit"
+  },
+  "translation": {
+    "Name": "Suturekit",
+    "Description": "A bag of field medical equipment for emergency situations.<br><color=#FF69B4>+50 HP</color><br><color=#FF69B4>Stops Bleeding</color>"
+  }
+}

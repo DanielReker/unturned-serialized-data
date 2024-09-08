@@ -1,0 +1,25 @@
+{
+  "name": "PS_Empty_Can",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Empty_Can/PS_Empty_Can.dat",
+  "data": {
+    "GUID": "1d9465f54d68448bafca51f10ff65b8e",
+    "Type": "Supply",
+    "Rarity": "Common",
+    "ID": "59553",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.4",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Gear",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59553",
+    "Blueprint_0_Product": "59000",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Tool": "59004",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Empty Can",
+    "Description": "Cylindrical, metal can. Can be recycled."
+  }
+}

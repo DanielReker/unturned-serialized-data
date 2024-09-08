@@ -1,0 +1,18 @@
+{
+  "name": "Omega_WalkyTalky_7",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Omega_WalkyTalky_7/Omega_WalkyTalky_7.dat",
+  "data": {
+    "GUID": "10ffc4c05bde49299f5c5ed0881953f7",
+    "Type": "Small",
+    "ID": "3681",
+    "Asset_Bundle_Version": "2",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "3075",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "Omega Perimeter #4 On"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Tower_Prison_0",
+  "path": "Bundles/Objects/Large/Buildings/Tower_Prison_0/Tower_Prison_0.dat",
+  "data": {
+    "GUID": "5aadd5680fbc49b182d0755615dc3422",
+    "Type": "Large",
+    "ID": "914",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Prison Tower #1"
+  }
+}

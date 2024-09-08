@@ -1,0 +1,36 @@
+{
+  "name": "Couch_Blue",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Chairs/Couch_Blue/Couch_Blue.dat",
+  "data": {
+    "GUID": "5432301e04e040d18c9ab964554dd0a5",
+    "Type": "Barricade",
+    "Useable": "Barricade",
+    "Rarity": "Rare",
+    "Build": "Bed",
+    "ID": "51673",
+    "SalvageItem": "5432301e04e040d18c9ab964554dd0a5",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.5",
+    "Health": "400",
+    "Range": "4",
+    "Radius": "0.1",
+    "Offset": "0.4",
+    "Explosion": "37",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "51021",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Supply_1_ID": "51023",
+    "Blueprint_0_Supply_1_Amount": "4",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Blue Couch",
+    "Description": "Big comfortable couch to crash on."
+  }
+}

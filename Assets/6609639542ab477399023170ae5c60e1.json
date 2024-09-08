@@ -1,0 +1,11 @@
+{
+  "name": "Gravel_WithDecal_NoAudio",
+  "path": "Bundles/Effects/Impacts/Gravel_WithDecal_NoAudio/Gravel_WithDecal_NoAudio.dat",
+  "data": {
+    "GUID": "6609639542ab477399023170ae5c60e1",
+    "Type": "Effect",
+    "ID": "155",
+    "Preload": "4"
+  },
+  "translation": null
+}

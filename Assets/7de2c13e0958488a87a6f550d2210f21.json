@@ -1,0 +1,14 @@
+{
+  "name": "PS_Container_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Container_2/PS_Container_2.dat",
+  "data": {
+    "GUID": "7de2c13e0958488a87a6f550d2210f21",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59044",
+    "Material_Palette": "77694250016a40228264f7d306646509"
+  },
+  "translation": {
+    "Name": "PS Container #3"
+  }
+}

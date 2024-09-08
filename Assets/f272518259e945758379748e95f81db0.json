@@ -1,0 +1,27 @@
+{
+  "name": "Metro_Fish_Sun",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_Fish_Sun/Metro_Fish_Sun.dat",
+  "data": {
+    "GUID": "f272518259e945758379748e95f81db0",
+    "Type": "Food",
+    "Rarity": "Legendary",
+    "Useable": "Consumeable",
+    "ID": "57123",
+    "Size_X": "3",
+    "Size_Y": "3",
+    "Size_Z": "1.1",
+    "Food": "20",
+    "Water": "25",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supply_0_ID": "57123",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Product": "57118",
+    "Blueprint_0_Products": "9",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Sun Fish",
+    "Description": "<color=#64c819>20</color> Food <color=#64c819>25</color> Water<br>Can be turned into <color=#ffffff>Raw Fish Meat</color> and then <color=#64c819>Cooked</color><br>\"This one will feed the whole family, and the cousins too!\""
+  }
+}

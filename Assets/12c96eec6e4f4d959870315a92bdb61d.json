@@ -1,0 +1,13 @@
+{
+  "name": "PS_Light_8",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Light_8/PS_Light_8.dat",
+  "data": {
+    "GUID": "12c96eec6e4f4d959870315a92bdb61d",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59346"
+  },
+  "translation": {
+    "Name": "PS Light #9"
+  }
+}

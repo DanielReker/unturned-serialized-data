@@ -1,0 +1,21 @@
+{
+  "name": "Prisoner Marina",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Prisoners/Prisoner Marina/Asset.dat",
+  "data": {
+    "GUID": "b7e2987aa19b43e3bb1ce1580dcf6bef",
+    "Type": "NPC",
+    "ID": "9110",
+    "Shirt": "303",
+    "Pants": "304",
+    "Face": "26",
+    "Hair": "14",
+    "Color_Skin": "#d8c9b6",
+    "Color_Hair": "#c17d26",
+    "Pose": "Stand",
+    "Dialogue": "8264"
+  },
+  "translation": {
+    "Name": "NAM Prisoner Marina",
+    "Character": "Inmate Marina"
+  }
+}

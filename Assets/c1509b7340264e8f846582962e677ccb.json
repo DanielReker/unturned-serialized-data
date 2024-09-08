@@ -1,0 +1,12 @@
+{
+  "name": "IR_Castle_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Castle_1/IR_Castle_1.dat",
+  "data": {
+    "GUID": "c1509b7340264e8f846582962e677ccb",
+    "Type": "Large",
+    "ID": "17081"
+  },
+  "translation": {
+    "Name": "Irish Castle#1"
+  }
+}

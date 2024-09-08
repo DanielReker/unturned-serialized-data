@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Q_S7M2_CX",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/M2/Buak_Q_S7M2_CX/Buak_Q_S7M2_CX.dat",
+  "data": {
+    "GUID": "fe622004edfa45d9838ea459edf28a6e",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "24297",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Bundle_Override_Path": "/Objects/Quests/Buak_Q_DD_X"
+  },
+  "translation": {
+    "Name": "Buak_Q_S7M2_CX"
+  }
+}

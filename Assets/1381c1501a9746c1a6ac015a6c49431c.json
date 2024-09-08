@@ -1,0 +1,34 @@
+{
+  "name": "Quest_0_Farmer_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_1/Quest_0_Farmer_2/Asset.dat",
+  "data": {
+    "GUID": "1381c1501a9746c1a6ac015a6c49431c",
+    "Type": "Quest",
+    "ID": "57742",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "57537 ",
+    "Condition_0_Amount": "30",
+    "Condition_0_Reset": "",
+    "Rewards": "5",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "150",
+    "Reward_1_Type": "Flag_Bool",
+    "Reward_1_ID": "57176",
+    "Reward_1_Value": "True",
+    "Reward_2_Type": "Flag_Short",
+    "Reward_2_ID": "57177",
+    "Reward_2_Value": "1",
+    "Reward_2_Modification": "Increment",
+    "Reward_3_Type": "Item",
+    "Reward_3_ID": "57548    ",
+    "Reward_3_Amount": "1",
+    "Reward_4_Type": "Experience",
+    "Reward_4_Value": "1"
+  },
+  "translation": {
+    "Name": "<color=#C9A952>Farmer 3</color>",
+    "Description": "Plant and grow <color=#964bfa>Dragonfruit</color>.<br><br>Starting Equipment : <color=#64c819>1</color>x <color=#964bfa>Dragonfruit Seeds</color>",
+    "Reward_4": "Purchase of <color=#c832fa>Amethyst Kot</color>"
+  }
+}

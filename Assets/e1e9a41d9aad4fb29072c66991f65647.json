@@ -1,0 +1,30 @@
+{
+  "name": "Metro_Grip_Vert_Gray",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Ranger/Metro_Grip_Vert_Gray/Metro_Grip_Vert_Gray.dat",
+  "data": {
+    "GUID": "e1e9a41d9aad4fb29072c66991f65647",
+    "Type": "Grip",
+    "Rarity": "Epic",
+    "ID": "57079",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.15",
+    "Spread": "0.9",
+    "Recoil_X": "0.9",
+    "Recoil_Y": "0.9",
+    "Sway": "0.9",
+    "Shake": "0.9",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "57079",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "67",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Vertical Grip",
+    "Description": "<color=#64c819>-10%</color> Recoil<br><color=#64c819>-10%</color> Spread"
+  }
+}

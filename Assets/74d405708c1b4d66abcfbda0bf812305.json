@@ -1,0 +1,16 @@
+{
+  "name": "Buak_Plane_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_Plane_01/Buak_Plane_01.dat",
+  "data": {
+    "GUID": "74d405708c1b4d66abcfbda0bf812305",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "LOD": "Area",
+    "Exclude_From_Culling_Volumes": "True",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Plane_01"
+  }
+}

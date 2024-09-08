@@ -1,0 +1,24 @@
+{
+  "name": "France_Farm_00_Collection",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Assets/Landscape/Foliage/France_Farm_00_Collection.asset",
+  "data": {
+    "GUID": "3fe8baa1c90f450f98d7076a203fa25a",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "5d8e27d5a22346ccad79afde75e20cd3"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "aafba74d89134bc4912fbf70e422a45d"
+        },
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

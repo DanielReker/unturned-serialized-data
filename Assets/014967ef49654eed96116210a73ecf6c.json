@@ -1,0 +1,29 @@
+{
+  "name": "SuppliesToSurvive_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Kira/Kira_01/SuppliesToSurvive_Welcome/Asset.dat",
+  "data": {
+    "GUID": "014967ef49654eed96116210a73ecf6c",
+    "Type": "Dialogue",
+    "ID": "24610",
+    "Messages": "1",
+    "Message_0_Pages": "3",
+    "Responses": "2",
+    "Response_0_Dialogue": "788475cd5d2842c49da77696ef8d6b48",
+    "Response_0_Quest": "d901cec9f75340a0bbd4ed5a84cff487",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "d901cec9f75340a0bbd4ed5a84cff487",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "d901cec9f75340a0bbd4ed5a84cff487"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh yes, one last thing that would be a big help would be if you could get us some supplies. Before coming to the factory we searched around the cities but didn't grab the supplies right away to save our energy.",
+    "Message_0_Page_1": "But I do remember the locations and what's in them. What we need most right now is food, water, and meds, and there are some crates laying around in the town Burywood.",
+    "Message_0_Page_2": "The supplies should be easy to spot, they are in blue milk crates. The food should be in the cinema, the water is in the library, and the meds are in the pharmacy. After you find them, place the crates on the shelf under the stairs in building 1.",
+    "Response_0": "Sure thing!",
+    "Response_1": "Not now."
+  }
+}

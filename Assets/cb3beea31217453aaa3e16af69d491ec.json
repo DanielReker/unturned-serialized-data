@@ -1,0 +1,23 @@
+{
+  "name": "NH1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/ProItems/NH1/NH1.dat",
+  "data": {
+    "GUID": "cb3beea31217453aaa3e16af69d491ec",
+    "Type": "Food",
+    "Useable": "Consumeable",
+    "Rarity": "Uncommon",
+    "ID": "52000",
+    "Pro": "",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.3",
+    "Size2_Z": "0.35",
+    "Health": "0",
+    "Master_Bundle_Override": "pbs.masterbundle",
+    "Bundle_Override_Path": "/Items/Food/Apple"
+  },
+  "translation": {
+    "Name": "You're not even hurt!",
+    "Description": "Don't waste my time!"
+  }
+}

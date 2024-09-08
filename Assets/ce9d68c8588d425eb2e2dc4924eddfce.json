@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Taylor_Acc",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Taylor/PBS_Taylor_Acc/Asset.dat",
+  "data": {
+    "GUID": "ce9d68c8588d425eb2e2dc4924eddfce",
+    "Type": "Dialogue",
+    "ID": "52312",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hopefully you can find the drive!  It'll be quite helpful."
+  }
+}

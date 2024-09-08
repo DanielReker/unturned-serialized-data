@@ -1,0 +1,28 @@
+{
+  "name": "Greece_Fire",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Assets/Material_Palettes/Greece_Fire.asset",
+  "data": {
+    "GUID": "011e2687c1c74505acfee178d9c8dfeb",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "4",
+    "Materials": [
+      {
+        "Name": "greece.masterbundle",
+        "Path": "Objects/Material_Palettes/Greece_Fire/GreeceFire_0.mat"
+      },
+      {
+        "Name": "greece.masterbundle",
+        "Path": "Objects/Material_Palettes/Greece_Fire/GreeceFire_1.mat"
+      },
+      {
+        "Name": "greece.masterbundle",
+        "Path": "Objects/Material_Palettes/Greece_Fire/GreeceFire_2.mat"
+      },
+      {
+        "Name": "greece.masterbundle",
+        "Path": "Objects/Material_Palettes/Greece_Fire/GreeceFire_3.mat"
+      }
+    ]
+  },
+  "translation": null
+}

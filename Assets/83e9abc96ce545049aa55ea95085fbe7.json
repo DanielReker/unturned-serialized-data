@@ -1,0 +1,20 @@
+{
+  "name": "PS_Exit_Door_09",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Exit_Door_09/PS_Exit_Door_09.dat",
+  "data": {
+    "GUID": "83e9abc96ce545049aa55ea95085fbe7",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59842",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/PS_Exit_Door_00",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "WAREHOUSE_BASEMENT_1"
+  },
+  "translation": {
+    "Name": "PS Exit Door #10 [Warehouse Exit to Desert]",
+    "Interact": "Exit to Desert [{0}]"
+  }
+}

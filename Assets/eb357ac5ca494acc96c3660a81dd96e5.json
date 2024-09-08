@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Store_Sign_Police",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Stores/Buak_Store_Sign_Police/Buak_Store_Sign_Police.dat",
+  "data": {
+    "GUID": "eb357ac5ca494acc96c3660a81dd96e5",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Store_Sign_Police"
+  }
+}

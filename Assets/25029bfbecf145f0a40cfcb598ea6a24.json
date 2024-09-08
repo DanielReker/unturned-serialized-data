@@ -1,0 +1,12 @@
+{
+  "name": "House_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/House_5/House_5.dat",
+  "data": {
+    "GUID": "25029bfbecf145f0a40cfcb598ea6a24",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS House 6"
+  }
+}

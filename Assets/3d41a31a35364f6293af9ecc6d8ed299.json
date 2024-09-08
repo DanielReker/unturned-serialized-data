@@ -1,0 +1,12 @@
+{
+  "name": "Firetruck_Broken",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Firetruck_Broken/Firetruck_Broken.dat",
+  "data": {
+    "GUID": "3d41a31a35364f6293af9ecc6d8ed299",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Firetruck Broken"
+  }
+}

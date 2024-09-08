@@ -1,0 +1,20 @@
+{
+  "name": "Buak_Computer_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Furniture/Buak_Computer_04/Buak_Computer_04.dat",
+  "data": {
+    "GUID": "f7186ae1a566495dbfe1c6d42b01018d",
+    "Type": "Medium",
+    "ID": "25300",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "600",
+    "Rubble_Health": "10",
+    "Rubble_Effect": "25339",
+    "Rubble_Reward_ID": "25320",
+    "Rubble_Reward_Probability": "1",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Computer_04"
+  }
+}

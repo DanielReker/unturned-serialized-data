@@ -1,0 +1,25 @@
+{
+  "name": "Greece_Lyre",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Greece_Lyre/Greece_Lyre.dat",
+  "data": {
+    "GUID": "9256ae9783a847d1a55b7f78d4950287",
+    "Type": "Small",
+    "ID": "6313",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "6217",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "6217",
+    "Interactability_Reward_0_Value": "True",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Greece Lyre",
+    "Interact": "Pickup Lyre [{0}]"
+  }
+}

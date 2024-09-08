@@ -1,0 +1,14 @@
+{
+  "name": "GrandmaGrindset_Reminder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Grandma/Grandma_02/GrandmaGrindset_Reminder/Asset.dat",
+  "data": {
+    "GUID": "db8669110fdc4b159f3653f470c3d2cd",
+    "Type": "Dialogue",
+    "ID": "24417",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You can smash rocks around the island or in the caves with a sledgehammer or a pickaxe!"
+  }
+}

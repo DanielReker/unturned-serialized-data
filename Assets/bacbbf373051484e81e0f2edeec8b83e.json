@@ -1,0 +1,928 @@
+{
+  "name": "Buak_Lockers",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Lockers/Buak_Lockers.dat",
+  "data": {
+    "GUID": "bacbbf373051484e81e0f2edeec8b83e",
+    "Type": "Spawn",
+    "ID": "25359",
+    "Tables": [
+      {
+        "LegacyAssetId": "26695",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25619",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25354",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26683",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26723",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26722",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25621",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26691",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25679",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25793",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25721",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25722",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25720",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25618",
+        "Weight": "100"
+      },
+      {
+        "LegacySpawnId": "25350",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25725",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25622",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26725",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25417",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26724",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26689",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26726",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25785",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25724",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25726",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26728",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25605",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26729",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26694",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26676",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25606",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26693",
+        "Weight": "100"
+      },
+      {
+        "LegacySpawnId": "25319",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26699",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25616",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25790",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26727",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26720",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25723",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26681",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26713",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26712",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26690",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26698",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26715",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25320",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26707",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26703",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26709",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26710",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26685",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26684",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26711",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26700",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26697",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25323",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26688",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25336",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26686",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26687",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25581",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26714",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26716",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "26696",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "25627",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25727",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26804",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25392",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26776",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25452",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26774",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26719",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26775",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25355",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26778",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26772",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26821",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25626",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25456",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26820",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26779",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25397",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26773",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26826",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25395",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25398",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26792",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25719",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25639",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25391",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25396",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26777",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25676",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25399",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25588",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25332",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25414",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26809",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26754",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26807",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26771",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25375",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26822",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25384",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25593",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25331",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25607",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26769",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25353",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26825",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25400",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25614",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25393",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26827",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26813",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25408",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25687",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26808",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26811",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26818",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25337",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25677",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26812",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "25324",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26824",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26806",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26701",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26810",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26823",
+        "Weight": "50"
+      },
+      {
+        "LegacyAssetId": "26751",
+        "Weight": "40"
+      },
+      {
+        "LegacyAssetId": "26752",
+        "Weight": "40"
+      },
+      {
+        "LegacyAssetId": "26753",
+        "Weight": "40"
+      },
+      {
+        "LegacyAssetId": "25584",
+        "Weight": "40"
+      },
+      {
+        "LegacyAssetId": "25376",
+        "Weight": "30"
+      },
+      {
+        "Guid": "1232fbb2cad44f24b987070b6b6a6ec5",
+        "Weight": "25"
+      },
+      {
+        "LegacyAssetId": "25582",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25335",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26783",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26677",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25589",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25374",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26782",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25373",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26737",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26718",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25580",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26785",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26678",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26680",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26786",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26784",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26788",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26789",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26787",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25383",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "26780",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "25410",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25612",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26759",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26760",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25781",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25585",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25702",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26670",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25787",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26673",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26815",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26730",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26674",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26816",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25409",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26679",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25786",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26704",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26732",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26735",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25782",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26671",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26755",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25696",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26756",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26814",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26675",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25783",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25700",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25799",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25780",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25587",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25624",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26979",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25623",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26790",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25586",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26762",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26705",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25788",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26702",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26731",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25339",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26976",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26835",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26738",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26768",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25406",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26831",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26746",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26736",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25789",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25791",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26672",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25594",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25635",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25634",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26977",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26970",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25583",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26733",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26973",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26761",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26817",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25698",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26802",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25579",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26972",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26791",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26974",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26975",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "25774",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "26978",
+        "Weight": "10"
+      }
+    ]
+  },
+  "translation": null
+}

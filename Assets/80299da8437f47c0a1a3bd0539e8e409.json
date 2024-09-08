@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Wardrobe_Birch",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Wardrobe_Birch/Bar_Wardrobe_Birch.dat",
+  "data": {
+    "GUID": "80299da8437f47c0a1a3bd0539e8e409",
+    "Type": "Effect",
+    "ID": "25447"
+  },
+  "translation": null
+}

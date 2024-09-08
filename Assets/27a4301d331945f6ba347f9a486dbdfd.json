@@ -1,0 +1,14 @@
+{
+  "name": "A-10 Impact",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Effects/Grenades/A-10 Impact/A-10 Impact.dat",
+  "data": {
+    "GUID": "27a4301d331945f6ba347f9a486dbdfd",
+    "Type": "Effect",
+    "ID": "51030",
+    "CameraShake_Radius": "36",
+    "CameraShake_MagnitudeDegrees": "32",
+    "Spawn_On_Dedicated_Server": "",
+    "Relevant_Distance": "5000"
+  },
+  "translation": null
+}

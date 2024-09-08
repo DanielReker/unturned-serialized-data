@@ -1,0 +1,15 @@
+{
+  "name": "FElevatorTop",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/FElevatorTop/FElevatorTop.dat",
+  "data": {
+    "GUID": "7511ca5f4a984ac7bd7a0b1e0be42007",
+    "Type": "Large",
+    "ID": "6608",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1"
+  },
+  "translation": {
+    "Name": "Facility Elevator Top"
+  }
+}

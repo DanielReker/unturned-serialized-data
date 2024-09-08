@@ -1,0 +1,20 @@
+{
+  "name": "28351KAL",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28351KCLD/28351KAL/Asset.dat",
+  "data": {
+    "GUID": "3eea09eecba147dda11b3946adf7b24e",
+    "Type": "Dialogue",
+    "ID": "28351",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Flag_Bool",
+    "Response_0_Reward_0_ID": "28261",
+    "Response_0_Reward_0_Value": "False"
+  },
+  "translation": {
+    "Message_0_Page_0": "Do you know where my parents are?",
+    "Response_0": "Yes, follow me."
+  }
+}

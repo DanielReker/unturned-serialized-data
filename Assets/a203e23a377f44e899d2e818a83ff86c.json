@@ -1,0 +1,15 @@
+{
+  "name": "France_Chef_Pan_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Chef/France_Chef_Pan_Accepted/Asset.dat",
+  "data": {
+    "GUID": "a203e23a377f44e899d2e818a83ff86c",
+    "Type": "Dialogue",
+    "ID": "4146",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "4136"
+  },
+  "translation": {
+    "Message_0_Page_0": "Please bring it soon. I've gone far too long without it."
+  }
+}

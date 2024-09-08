@@ -1,0 +1,22 @@
+{
+  "name": "Survivor Sebastiao",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Survivors/Survivor Sebastiao/Asset.dat",
+  "data": {
+    "GUID": "66d32dc4d0824e5faa3f79ec08921759",
+    "Type": "NPC",
+    "ID": "9014",
+    "Shirt": "8021",
+    "Pants": "2",
+    "Glasses": "409",
+    "Face": "8",
+    "Hair": "5",
+    "Color_Skin": "#f2dfcb",
+    "Color_Hair": "#c18411",
+    "Pose": "Sit",
+    "Dialogue": "9201"
+  },
+  "translation": {
+    "Name": "NAM Survivor Sebastião",
+    "Character": "Sebastião"
+  }
+}

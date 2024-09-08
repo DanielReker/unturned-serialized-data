@@ -1,0 +1,13 @@
+{
+  "name": "PS_AC_Pipe_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_AC_Pipe_2/PS_AC_Pipe_2.dat",
+  "data": {
+    "GUID": "a9089ffbed9d4127a0544944f0cf8211",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59533"
+  },
+  "translation": {
+    "Name": "PS AC Pipe #3 [90 DEG]"
+  }
+}

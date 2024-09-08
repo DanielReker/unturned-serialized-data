@@ -1,0 +1,12 @@
+{
+  "name": "CA_Tent_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Buildings/CA_Tent_2/CA_Tent_2.dat",
+  "data": {
+    "GUID": "b804626ef5b540c2805771dfd3bb6610",
+    "Type": "Large",
+    "ID": "4528"
+  },
+  "translation": {
+    "Name": "California Tent #3"
+  }
+}

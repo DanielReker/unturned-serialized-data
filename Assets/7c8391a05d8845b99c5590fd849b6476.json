@@ -1,0 +1,16 @@
+{
+  "name": "BSilo_Line",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/BSilo_Line/BSilo_Line.dat",
+  "data": {
+    "GUID": "7c8391a05d8845b99c5590fd849b6476",
+    "Type": "Large",
+    "ID": "45771",
+    "Collision_Important": "",
+    "Soft": "",
+    "Snowshoe": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Shelter Silo #1"
+  }
+}

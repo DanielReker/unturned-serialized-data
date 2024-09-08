@@ -1,0 +1,15 @@
+{
+  "name": "Jersey_Czech",
+  "path": "Bundles/Items/Shirts/Jersey_Czech/Jersey_Czech.dat",
+  "data": {
+    "GUID": "26a004f7a59d47cd89ebbe2e99b279cb",
+    "Type": "Shirt",
+    "ID": "652",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Ignore_Hand": "",
+    "Pro": ""
+  },
+  "translation": null
+}

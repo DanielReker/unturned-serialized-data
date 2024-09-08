@@ -1,0 +1,25 @@
+{
+  "name": "Quest_0_Zombie_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_0/Quest_0_Zombie_1/Asset.dat",
+  "data": {
+    "GUID": "5b7a870a0a5446f68330ad01d7c35af7",
+    "Type": "Quest",
+    "ID": "57589",
+    "Conditions": "1",
+    "Condition_0_Zombie": "None",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_ID": "57400",
+    "Condition_0_Value": "500",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_0_Radius": "75",
+    "Rewards": "1",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "57469 ",
+    "Reward_0_Amount": "1"
+  },
+  "translation": {
+    "Name": "<color=#1f871f>Huntsman 2</color>",
+    "Description": "Kill <color=#64c819>500</color> zombies within a <color=#64c819>75</color>m radius of yourself.",
+    "Condition_0": "{0}/{1} Zombies"
+  }
+}

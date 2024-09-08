@@ -1,0 +1,14 @@
+{
+  "name": "Communicator_Gear_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/Coali/Communicator_Danny/Communicator_Gear_Accepted/Asset.dat",
+  "data": {
+    "GUID": "2a4a2bd5fd79473d93bc85841629157a",
+    "Type": "Dialogue",
+    "ID": "15144",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good luck, they could be anywhere in Ireland."
+  }
+}

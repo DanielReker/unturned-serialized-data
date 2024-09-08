@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Slide",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Slide/Buak_Slide.dat",
+  "data": {
+    "GUID": "53179d01ae23485f9231086de74fb7ad",
+    "Type": "Medium",
+    "ID": "25300",
+    "Snowshoe": "",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Slide"
+  }
+}

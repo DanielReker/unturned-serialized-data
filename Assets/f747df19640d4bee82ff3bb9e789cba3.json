@@ -1,0 +1,14 @@
+{
+  "name": "27205KDTPO",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27200KDTD/27205KDTPO/Asset.dat",
+  "data": {
+    "GUID": "f747df19640d4bee82ff3bb9e789cba3",
+    "Type": "Dialogue",
+    "ID": "27205",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "We've actually got nothin' else to! I suppose you can chill. "
+  }
+}

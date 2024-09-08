@@ -1,0 +1,37 @@
+{
+  "name": "Kuwait_Outlands_Component_3_Holo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Small/Quests/Kuwait_Outlands/Kuwait_Outlands_Component_3_Holo/Kuwait_Outlands_Component_3_Holo.dat",
+  "data": {
+    "GUID": "408be86ed35846b8bb4688d24d01cd95",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "5959",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "5501",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "5505",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "5295",
+    "Interactability_Conditions": "1",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "5500",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "5501",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Kuwait Dynamite Component Holo #4 (Quest)",
+    "Interact": "Place '1.5in x 6.25in Paper Tubes'",
+    "Interactability_Condition_0": "Missing '1.5in x 6.25in Paper Tubes'"
+  }
+}

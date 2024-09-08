@@ -1,0 +1,22 @@
+{
+  "name": "Frost_Deer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Animal/Frost_Deer/Frost_Deer.dat",
+  "data": {
+    "GUID": "bad6b12f9fcd41979375aa86ace44f87",
+    "Type": "Animal",
+    "ID": "36008",
+    "Speed_Run": "12",
+    "Speed_Walk": "4",
+    "Behaviour": "Ignore",
+    "Health": "35",
+    "Reward_ID": "36004",
+    "Reward_XP": "4",
+    "Reward_Min": "4",
+    "Reward_Max": "5",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Animals/Deer"
+  },
+  "translation": {
+    "Name": "Deer"
+  }
+}

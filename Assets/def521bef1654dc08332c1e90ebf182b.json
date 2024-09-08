@@ -1,0 +1,33 @@
+{
+  "name": "Aramid",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Aramid/Aramid.dat",
+  "data": {
+    "GUID": "def521bef1654dc08332c1e90ebf182b",
+    "Type": "Supply",
+    "Rarity": "Legendary",
+    "ID": "25372",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.24",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Supply",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "27537",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Product": "25372",
+    "Blueprint_0_Products": "10",
+    "Blueprint_0_Build": "25534",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Source": "27537",
+    "Action_0_Blueprints": "1",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "▲ Stack 10 Aramid",
+    "Action_0_Tooltip": "Stack up 10 aramid."
+  },
+  "translation": {
+    "Name": "Aramid",
+    "Description": "Aramid fabric, incredibly durable!"
+  }
+}

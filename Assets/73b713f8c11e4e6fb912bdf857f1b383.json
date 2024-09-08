@@ -1,0 +1,38 @@
+{
+  "name": "PS_Wooden_Fence_Placable",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Barricades/PS_Wooden_Fence_Placable/PS_Wooden_Fence_Placable.dat",
+  "data": {
+    "GUID": "73b713f8c11e4e6fb912bdf857f1b383",
+    "Type": "Barricade",
+    "Rarity": "Uncommon",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Barricade",
+    "ID": "59883",
+    "SalvageItem": "73b713f8c11e4e6fb912bdf857f1b383",
+    "Min_Items_Dropped_On_Destroy": "4",
+    "Max_Items_Dropped_On_Destroy": "7",
+    "Item_Dropped_On_Destroy": "fb19455fa9524f36b91f153b7c2e0117",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.55",
+    "Health": "400",
+    "Range": "6",
+    "Radius": "0.5",
+    "Offset": "0.575",
+    "Explosion": "19",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supply_0_ID": "59202",
+    "Blueprint_0_Supply_0_Amount": "11",
+    "Blueprint_0_Tool": "59006",
+    "Blueprint_0_Build": "27",
+    "Salvage_Duration_Multiplier": "0.4",
+    "PlacementAudioClip": "Sounds/WoodenPlacement.mp3"
+  },
+  "translation": {
+    "Name": "Wooden Fence",
+    "Description": "Barrier made out of wood."
+  }
+}

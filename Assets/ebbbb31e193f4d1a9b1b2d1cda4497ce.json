@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_PalmTree_Drops",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Kuwait_PalmTree_Drops/Kuwait_PalmTree_Drops.dat",
+  "data": {
+    "GUID": "ebbbb31e193f4d1a9b1b2d1cda4497ce",
+    "Type": "Spawn",
+    "ID": "7143",
+    "Tables": "1",
+    "Table_0_Asset_ID": "5501",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

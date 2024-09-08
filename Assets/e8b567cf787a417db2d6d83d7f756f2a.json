@@ -1,0 +1,14 @@
+{
+  "name": "Tower_Airport_0",
+  "path": "Bundles/Objects/Large/Buildings/Tower_Airport_0/Tower_Airport_0.dat",
+  "data": {
+    "GUID": "e8b567cf787a417db2d6d83d7f756f2a",
+    "Type": "Large",
+    "ID": "267",
+    "LOD": "Area",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Airport Tower #1"
+  }
+}

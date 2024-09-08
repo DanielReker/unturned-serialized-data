@@ -1,0 +1,27 @@
+{
+  "name": "28250KKMC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/C/28250KKMC/Asset.dat",
+  "data": {
+    "GUID": "bae21d5ae28b480ea938622ebd1b1489",
+    "Type": "NPC",
+    "ID": "28250",
+    "Shirt": "173",
+    "Pants": "213",
+    "Face": "22",
+    "Hair": "1",
+    "Beard": "2",
+    "Color_Skin": "#9d886b",
+    "Color_Hair": "#473928",
+    "Dialogue": "28251",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "25050",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitKhalidMissingChildren",
+    "Character": "Khalid"
+  }
+}

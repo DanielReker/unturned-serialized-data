@@ -1,0 +1,23 @@
+{
+  "name": "California_Military_Low_Cloth",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_Military_Low_Cloth/California_Military_Low_Cloth.dat",
+  "data": {
+    "GUID": "c3481efe3fc94fca87211e22a4cd849d",
+    "Type": "Spawn",
+    "ID": "4377",
+    "Tables": "6",
+    "Table_0_Asset_ID": "4048",
+    "Table_0_Weight": "15",
+    "Table_1_Asset_ID": "4047",
+    "Table_1_Weight": "15",
+    "Table_2_Asset_ID": "4041",
+    "Table_2_Weight": "15",
+    "Table_3_Asset_ID": "4039",
+    "Table_3_Weight": "15",
+    "Table_4_Asset_ID": "4044",
+    "Table_4_Weight": "15",
+    "Table_5_Asset_ID": "4046",
+    "Table_5_Weight": "15"
+  },
+  "translation": null
+}

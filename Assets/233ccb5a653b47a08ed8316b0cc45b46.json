@@ -1,0 +1,11 @@
+{
+  "name": "Nothing",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Effects/Sounds/Nothing/Nothing.dat",
+  "data": {
+    "GUID": "233ccb5a653b47a08ed8316b0cc45b46",
+    "Type": "Effect",
+    "ID": "51006",
+    "Spawn_On_Dedicated_Server": ""
+  },
+  "translation": null
+}

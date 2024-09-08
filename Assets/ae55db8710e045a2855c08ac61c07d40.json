@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Plastic_Bin",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Plastic_Bin/Obj_Plastic_Bin.dat",
+  "data": {
+    "GUID": "ae55db8710e045a2855c08ac61c07d40",
+    "Type": "Effect",
+    "ID": "25486"
+  },
+  "translation": null
+}

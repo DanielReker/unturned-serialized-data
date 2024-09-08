@@ -1,0 +1,14 @@
+{
+  "name": "29603KDC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/3/D/29600KDD/29603KDC/Asset.dat",
+  "data": {
+    "GUID": "6f06cddc229942c6a275505507642c9f",
+    "Type": "Dialogue",
+    "ID": "29603",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Looks like we're not out of time just yet. Thanks."
+  }
+}

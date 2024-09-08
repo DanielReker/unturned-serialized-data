@@ -1,0 +1,17 @@
+{
+  "name": "Metro_Plank_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Plank_0/Metro_Plank_0.dat",
+  "data": {
+    "GUID": "5cc26314217844eea6a1a4d14827a05b",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57267",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "1",
+    "Asset_Bundle_Version": "3"
+  },
+  "translation": {
+    "Name": "Metro Plank #1"
+  }
+}

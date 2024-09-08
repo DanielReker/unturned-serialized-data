@@ -1,0 +1,14 @@
+{
+  "name": "25194KSFQAB",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/4/D/25190SFRD/25194KSFQAB/Asset.dat",
+  "data": {
+    "GUID": "c5c0cf2ab90e4f8598131fadd2181d14",
+    "Type": "Dialogue",
+    "ID": "25194",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "You alright? Need to catch your breath still?"
+  }
+}

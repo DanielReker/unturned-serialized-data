@@ -1,0 +1,14 @@
+{
+  "name": "Dmitriy_Situation_Around_HES_Accepted",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Dialogues/Dmitriy Davidov/Dmitriy_Situation_Around_HES_Accepted/Asset.dat",
+  "data": {
+    "GUID": "326eff6103a7432eb5e34f3da62af1b5",
+    "Type": "Dialogue",
+    "ID": "5105",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I expect you to return the information."
+  }
+}

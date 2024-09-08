@@ -1,0 +1,10 @@
+{
+  "name": "TireMotion_Snow",
+  "path": "Bundles/Effects/TireMotion/TireMotion_Snow/TireMotion_Snow.dat",
+  "data": {
+    "GUID": "3050f44b94b649a7b4cdc8123a90cd7a",
+    "Type": "Effect",
+    "Preload": "8"
+  },
+  "translation": null
+}

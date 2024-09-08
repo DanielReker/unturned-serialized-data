@@ -1,0 +1,23 @@
+{
+  "name": "California_PMC_Special_High",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_PMC_Special_High/California_PMC_Special_High.dat",
+  "data": {
+    "GUID": "5d4436ded63e449eb4f43814b8f6785d",
+    "Type": "Spawn",
+    "ID": "4361",
+    "Tables": "6",
+    "Table_0_Spawn_ID": "4330",
+    "Table_0_Weight": "900",
+    "Table_1_Spawn_ID": "4363",
+    "Table_1_Weight": "35",
+    "Table_2_Spawn_ID": "4360",
+    "Table_2_Weight": "30",
+    "Table_3_Spawn_ID": "4362",
+    "Table_3_Weight": "15",
+    "Table_4_Spawn_ID": "659",
+    "Table_4_Weight": "10",
+    "Table_5_Spawn_ID": "4334",
+    "Table_5_Weight": "10"
+  },
+  "translation": null
+}

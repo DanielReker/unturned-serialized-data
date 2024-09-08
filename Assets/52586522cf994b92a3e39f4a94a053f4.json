@@ -1,0 +1,23 @@
+{
+  "name": "Wildcat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Animals/Wildcat/Wildcat.dat",
+  "data": {
+    "GUID": "52586522cf994b92a3e39f4a94a053f4",
+    "Type": "Animal",
+    "ID": "9000",
+    "Speed_Run": "12",
+    "Speed_Walk": "4",
+    "Behaviour": "Offense",
+    "Health": "50",
+    "Regen": "0.5",
+    "Damage": "10",
+    "Reward_ID": "523",
+    "Reward_XP": "20",
+    "Reward_Min": "1",
+    "Reward_Max": "2",
+    "Roars": "3"
+  },
+  "translation": {
+    "Name": "Wildcat"
+  }
+}

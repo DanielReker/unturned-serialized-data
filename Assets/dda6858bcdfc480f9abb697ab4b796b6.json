@@ -1,0 +1,40 @@
+{
+  "name": "Bedroll",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Bedroll/Bedroll.dat",
+  "data": {
+    "GUID": "dda6858bcdfc480f9abb697ab4b796b6",
+    "Type": "Barricade",
+    "Useable": "Barricade",
+    "Build": "Bed",
+    "ID": "51658",
+    "SalvageItem": "dda6858bcdfc480f9abb697ab4b796b6",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Health": "200",
+    "Range": "4",
+    "Radius": "0.1",
+    "Offset": "0.125",
+    "Explosion": "37",
+    "Vulnerable": "",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supply_0_ID": "51020",
+    "Blueprint_0_Supply_0_Amount": "9",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Tool",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51658",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "51020",
+    "Blueprint_1_Output_0_Amount": "5",
+    "Blueprint_1_Build": "27",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Bedroll",
+    "Description": "Small bedroll to rest in."
+  }
+}

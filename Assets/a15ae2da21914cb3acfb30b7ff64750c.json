@@ -1,0 +1,16 @@
+{
+  "name": "PBS_MH50A",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardConditioned/PBS_MH50A/PBS_MH50A.dat",
+  "data": {
+    "GUID": "a15ae2da21914cb3acfb30b7ff64750c",
+    "Type": "RewardsList",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "51055",
+    "Condition_0_Amount": "1",
+    "Rewards": "1",
+    "Reward_0_Type": "Player_Life_Health",
+    "Reward_0_Value": "50"
+  },
+  "translation": null
+}

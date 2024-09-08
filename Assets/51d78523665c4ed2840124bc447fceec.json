@@ -1,0 +1,13 @@
+{
+  "name": "Frost_Military_Clothing_Vests",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Spawns/Spawns/Frost_Military_Clothing_Vests/Frost_Military_Clothing_Vests.dat",
+  "data": {
+    "GUID": "51d78523665c4ed2840124bc447fceec",
+    "Type": "Spawn",
+    "ID": "36098",
+    "Tables": "1",
+    "Table_0_Asset_ID": "36042",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

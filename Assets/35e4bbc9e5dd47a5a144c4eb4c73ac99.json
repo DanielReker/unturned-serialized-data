@@ -1,0 +1,14 @@
+{
+  "name": "Nand_Besmet_Samples_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Nulirane Scientist Nand/Nand_Besmet_Samples_Completed/Asset.dat",
+  "data": {
+    "GUID": "35e4bbc9e5dd47a5a144c4eb4c73ac99",
+    "Type": "Dialogue",
+    "ID": "9136",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I can't believe it! You actually found it!"
+  }
+}

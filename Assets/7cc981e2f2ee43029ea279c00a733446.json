@@ -1,0 +1,44 @@
+{
+  "name": "PS_Caches_Goodies",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Caches_Goodies/PS_Caches_Goodies.dat",
+  "data": {
+    "GUID": "7cc981e2f2ee43029ea279c00a733446",
+    "Type": "Spawn",
+    "ID": "59172",
+    "Tables": [
+      {
+        "LegacyAssetId": "59094",
+        "Weight": "135"
+      },
+      {
+        "LegacyAssetId": "59623",
+        "Weight": "135"
+      },
+      {
+        "LegacyAssetId": "59342",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "59512",
+        "Weight": "30"
+      },
+      {
+        "Guid": "071dd162f52f4a418884184a78e2e0fa",
+        "Weight": "30"
+      },
+      {
+        "LegacySpawnId": "59035",
+        "Weight": "6"
+      },
+      {
+        "LegacyAssetId": "59706",
+        "Weight": "6"
+      },
+      {
+        "LegacyAssetId": "59686",
+        "Weight": "3"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Mansion_0",
+  "path": "Bundles/Objects/Mooki/Mansion_0/Mansion_0.dat",
+  "data": {
+    "GUID": "74a92f7c3a78420b9ba0d96a4d4d16f3",
+    "Type": "Large",
+    "ID": "588",
+    "Asset_Origin_Override": "Curated",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Mansion #1"
+  }
+}

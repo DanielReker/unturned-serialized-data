@@ -1,0 +1,13 @@
+{
+  "name": "PS_Mine_Post_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Mine_Post_0/PS_Mine_Post_0.dat",
+  "data": {
+    "GUID": "654ea43c78b74e01871583fdc3323edb",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60063"
+  },
+  "translation": {
+    "Name": "PS Mine Post #1"
+  }
+}

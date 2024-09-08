@@ -1,0 +1,14 @@
+{
+  "name": "PS_Parking_Block_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Parking_Block_1/PS_Parking_Block_1.dat",
+  "data": {
+    "GUID": "027702b776c74bd1b87cd06ebd1d8c74",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60172",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "PS Parking Block #2"
+  }
+}

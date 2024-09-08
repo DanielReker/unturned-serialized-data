@@ -1,0 +1,13 @@
+{
+  "name": "Chef_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Chef_Brazil/Chef_Brazil.dat",
+  "data": {
+    "GUID": "eb7e1d64a47f4fd6aa45dcd747e55f31",
+    "Type": "Spawn",
+    "ID": "5031",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "204",
+    "Table_0_Weight": "95"
+  },
+  "translation": null
+}

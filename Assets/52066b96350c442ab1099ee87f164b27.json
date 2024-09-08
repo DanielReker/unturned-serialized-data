@@ -1,0 +1,14 @@
+{
+  "name": "28803KAQA",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28801KACD/28803KAQA/Asset.dat",
+  "data": {
+    "GUID": "52066b96350c442ab1099ee87f164b27",
+    "Type": "Dialogue",
+    "ID": "28803",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you for helping me. They might be able to help us."
+  }
+}

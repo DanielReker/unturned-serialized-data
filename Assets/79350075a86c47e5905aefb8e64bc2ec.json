@@ -1,0 +1,28 @@
+{
+  "name": "PBS_Cecilia",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Characters/PBS_Cecilia/Asset.dat",
+  "data": {
+    "GUID": "79350075a86c47e5905aefb8e64bc2ec",
+    "Type": "NPC",
+    "ID": "52370",
+    "Shirt": "9020c18d1d3149fa93ec1c4b379902d0",
+    "Face": "22",
+    "Hair": "0",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#191919",
+    "Dialogue": "52371",
+    "Primary": "51236",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Quest",
+    "Condition_0_ID": "52374",
+    "Condition_0_Status": "Completed",
+    "Condition_0_Logic": "Not_Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "PBS NPC Cecilia",
+    "Character": "Cecilia"
+  }
+}

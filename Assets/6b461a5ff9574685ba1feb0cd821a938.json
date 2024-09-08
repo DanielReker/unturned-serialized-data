@@ -1,0 +1,16 @@
+{
+  "name": "CanyonArena_Cowboy",
+  "path": "Bundles/Items/Outfits/CanyonArena_Cowboy/CanyonArena_Cowboy.asset",
+  "data": {
+    "GUID": "6b461a5ff9574685ba1feb0cd821a938",
+    "Type": "SDG.Unturned.OutfitAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Items": [
+      "c2b2e795382f4777bed4c4376e327b13",
+      "9f5c3e3f28854fce9f68c27386d59ff1",
+      "19ec8dc2e5094daca8fd0e7dcb7aa315",
+      "aca31e7d40b84d1e953004be72beae0d",
+      "e27734644ed948388bb449c933e6e100"
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PS_Helicopter_Wreck_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Helicopter_Wreck_5/PS_Helicopter_Wreck_5.dat",
+  "data": {
+    "GUID": "6670f256680f4513b790b63123c2b44f",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "60089"
+  },
+  "translation": {
+    "Name": "PS Helicopter Wreck #6 [Debris]"
+  }
+}

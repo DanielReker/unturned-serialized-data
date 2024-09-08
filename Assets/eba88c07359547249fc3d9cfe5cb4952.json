@@ -1,0 +1,19 @@
+{
+  "name": "Frost_Bottom_Powerplant_Zombie",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Items/Clothing/Frost_Bottom_Powerplant_Zombie/Frost_Bottom_Powerplant_Zombie.dat",
+  "data": {
+    "GUID": "eba88c07359547249fc3d9cfe5cb4952",
+    "Type": "Pants",
+    "Useable": "Clothing",
+    "ID": "36634",
+    "Armor_Explosion": "0",
+    "Width": "4",
+    "Height": "3",
+    "Master_Bundle_Override": "frost.masterbundle",
+    "Bundle_Override_Path": "/Items/Clothing/Frost_Bottom_Powerplant_00"
+  },
+  "translation": {
+    "Name": "Powerplant Bottoms Zombie",
+    "Description": "<color=#64c819>+12</color> Slots"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Quest_0_Zombie_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Dialogue/Quest_0/Quest_0_Zombie_2/Asset.dat",
+  "data": {
+    "GUID": "ca1af8dab8c04180bc841e63b4d568e5",
+    "Type": "Quest",
+    "ID": "57591",
+    "Conditions": "1",
+    "Condition_0_Zombie": "None",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_ID": "57400",
+    "Condition_0_Value": "750",
+    "Condition_0_Logic": "Greater_Than_Or_Equal_To",
+    "Condition_0_Radius": "75",
+    "Rewards": "3",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "57469 ",
+    "Reward_0_Amount": "2",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "57473  ",
+    "Reward_1_Amount": "1",
+    "Reward_2_Type": "Experience",
+    "Reward_2_Value": "1"
+  },
+  "translation": {
+    "Name": "<color=#1f871f>Huntsman 3</color>",
+    "Description": "Kill <color=#64c819>750</color> zombies within a <color=#64c819>75</color>m radius of yourself.",
+    "Condition_0": "{0}/{1} Zombies",
+    "Reward_2": "Purchase of <color=#c832fa>Golden Mosca</color>"
+  }
+}

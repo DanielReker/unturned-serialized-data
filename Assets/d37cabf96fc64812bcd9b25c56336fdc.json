@@ -1,0 +1,42 @@
+{
+  "name": "Metro_Cart",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Vehicles/Metro_Cart/Metro_Cart.dat",
+  "data": {
+    "GUID": "d37cabf96fc64812bcd9b25c56336fdc",
+    "Type": "Vehicle",
+    "Has_Clip_Prefab": "false",
+    "ID": "57034 ",
+    "Speed_Min": "-7",
+    "Speed_Max": "7",
+    "Steer_Min": "12",
+    "Steer_Max": "20",
+    "Brake": "2",
+    "Fuel_Min": "400",
+    "Fuel_Max": "400",
+    "Fuel": "400",
+    "Health_Min": "250",
+    "Health_Max": "250",
+    "Health": "250",
+    "Drops_Table_ID": "57145",
+    "Drops_Min": "7",
+    "Drops_Max": "10",
+    "Wheel_Collider_Mass_Override": "5",
+    "Cam_Follow_Distance": "7.5",
+    "Trunk_Storage_X": "3",
+    "Trunk_Storage_Y": "3",
+    "Explosion": "20",
+    "Physics_Profile": "27cd9575280446558c9f009df4be92bb",
+    "Can_Be_Locked": "False",
+    "Tires_Invulnerable": "",
+    "BatteryMode_Headlights": "Charging",
+    "BatteryMode_Sirens": "Charging",
+    "Can_Steal_Battery": "False",
+    "BatteryMode_Driving": "Charging",
+    "BatteryMode_Empty": "Charging",
+    "Fuel_Burn_Rate": "0.25",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Cart"
+  }
+}

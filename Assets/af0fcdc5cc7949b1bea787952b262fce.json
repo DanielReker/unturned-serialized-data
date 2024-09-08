@@ -1,0 +1,42 @@
+{
+  "name": "26700KuwaitCynthia",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/C/265 Concord/2664 Concord Outfit/26700KuwaitCynthia/Asset.dat",
+  "data": {
+    "GUID": "af0fcdc5cc7949b1bea787952b262fce",
+    "Type": "NPC",
+    "ID": "26700",
+    "Shirt": "5318",
+    "Pants": "5322",
+    "Has_Halloween_Outfit": "True",
+    "Halloween_Backpack": "580 ",
+    "Halloween_Shirt": "581 ",
+    "Halloween_Pants": "582 ",
+    "Halloween_Hat": "579 ",
+    "Has_Christmas_Outfit": "True",
+    "Christmas_Shirt": "596",
+    "Christmas_Pants": "5322",
+    "Christmas_Hat": "278",
+    "Face": "18",
+    "Hair": "7",
+    "Color_Skin": "#4b3d31",
+    "Color_Hair": "#191919",
+    "Primary": "5000",
+    "Secondary": "5009",
+    "Pose": "Rest",
+    "Dialogue": "26701",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "25050",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "26569",
+    "Condition_1_Value": "True",
+    "Condition_1_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "KuwaitCoalitionCynthia",
+    "Character": "<color=epic>Colonel Cynthia</color>"
+  }
+}

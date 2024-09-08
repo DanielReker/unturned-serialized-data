@@ -1,0 +1,14 @@
+{
+  "name": "RugShopping_01_Reminder",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Carter/Carter_02/RugShopping_01_Reminder/Asset.dat",
+  "data": {
+    "GUID": "f13820558b5241fd81e5395674fbdf80",
+    "Type": "Dialogue",
+    "ID": "24533",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Once you have the wolf corpse, you can use a bowie knife to turn it into a rug. Wolves tend to hang out on, or around the mountain."
+  }
+}

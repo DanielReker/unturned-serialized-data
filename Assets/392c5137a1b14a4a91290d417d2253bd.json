@@ -1,0 +1,19 @@
+{
+  "name": "Note_Peaks_16",
+  "path": "Bundles/Objects/Medium/Furniture/Note_Peaks_16/Note_Peaks_16.dat",
+  "data": {
+    "GUID": "392c5137a1b14a4a91290d417d2253bd",
+    "Type": "Medium",
+    "ID": "2044",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Peaks Note - Shuttle Load",
+    "Interactability_Text_Line_0": "They airlifted the next shuttle in today, it's just resting on the runway now. These sprints are super taxing - we'll be working round the clock to set it up for launch."
+  }
+}

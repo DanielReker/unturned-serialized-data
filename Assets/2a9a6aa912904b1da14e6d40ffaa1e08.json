@@ -1,0 +1,13 @@
+{
+  "name": "Brazil_Police_Low_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Brazil_Police_Low_Brazil/Brazil_Police_Low_Brazil.dat",
+  "data": {
+    "GUID": "2a9a6aa912904b1da14e6d40ffaa1e08",
+    "Type": "Spawn",
+    "ID": "5018",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5015",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

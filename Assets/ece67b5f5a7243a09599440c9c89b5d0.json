@@ -1,0 +1,29 @@
+{
+  "name": "Frost_Mirror_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Escape/Frost_Mirror_04/Frost_Mirror_04.dat",
+  "data": {
+    "GUID": "ece67b5f5a7243a09599440c9c89b5d0",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Exclude_From_Level_Batching": "True",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "36544",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "36544",
+    "Interactability_Reward_0_Value": "True",
+    "Master_Bundle_Override": "frost.masterbundle",
+    "Bundle_Override_Path": "/Objects/Safezone/Escape/Frost_Mirror_00"
+  },
+  "translation": {
+    "Name": "Frost Mirror #5 [Blue]",
+    "Interact": "Flip [{0}]"
+  }
+}

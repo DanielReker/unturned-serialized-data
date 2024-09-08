@@ -1,0 +1,10 @@
+{
+  "name": "Repair_Metal",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Crafting/Repair_Metal/Repair_Metal.dat",
+  "data": {
+    "GUID": "781fbb21b78841e986d69b0453c8e748",
+    "Type": "Effect",
+    "ID": "25525"
+  },
+  "translation": null
+}

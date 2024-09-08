@@ -1,0 +1,15 @@
+{
+  "name": "Kuwait_Hardware_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Buildings/Kuwait_Hardware_0/Kuwait_Hardware_0.dat",
+  "data": {
+    "GUID": "72f6853e65204842a73bd4d2e452ce83",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5227",
+    "LOD": "Area",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Hardware #1"
+  }
+}

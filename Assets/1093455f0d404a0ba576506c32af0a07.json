@@ -1,0 +1,13 @@
+{
+  "name": "HeliPad",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/HeliPad/HeliPad.dat",
+  "data": {
+    "GUID": "1093455f0d404a0ba576506c32af0a07",
+    "Type": "Large",
+    "ID": "51000",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS HeliPad"
+  }
+}

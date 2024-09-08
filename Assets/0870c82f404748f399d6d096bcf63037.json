@@ -1,0 +1,16 @@
+{
+  "name": "PersianBrown",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/CarpetSpawns/PersianBrown/PersianBrown.dat",
+  "data": {
+    "GUID": "0870c82f404748f399d6d096bcf63037",
+    "Type": "Spawn",
+    "ID": "51220",
+    "Tables": [
+      {
+        "Guid": "7a5a822664cc4aa897f7daab5f93cd63",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

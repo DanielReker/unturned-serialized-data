@@ -1,0 +1,12 @@
+{
+  "name": "CA_Gold_Bars_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Props/CA_Gold_Bars_0/CA_Gold_Bars_0.dat",
+  "data": {
+    "GUID": "3730b3c577b2451da3b524d758083cfc",
+    "Type": "Medium",
+    "ID": "4593"
+  },
+  "translation": {
+    "Name": "California Gold Bars #1"
+  }
+}

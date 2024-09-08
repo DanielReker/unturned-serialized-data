@@ -1,0 +1,13 @@
+{
+  "name": "PS_BRDM_Static_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_BRDM_Static_2/PS_BRDM_Static_2.dat",
+  "data": {
+    "GUID": "109b476ee2484f15b4937dcde1ad87db",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "60230"
+  },
+  "translation": {
+    "Name": "PS BRDM-2 #3 [BLOCK]"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Omega_Civillian_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Characters/Omega/Omega_Civillian_2/Asset.dat",
+  "data": {
+    "GUID": "35101b81966843a59b534f064c471951",
+    "Type": "NPC",
+    "ID": "3632",
+    "Shirt": "158",
+    "Pants": "207",
+    "Face": "24",
+    "Hair": "7",
+    "Beard": "0",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#57452F",
+    "Dialogue": "3672"
+  },
+  "translation": {
+    "Name": "Greek Omega Civillian Maya",
+    "Character": "Maya"
+  }
+}

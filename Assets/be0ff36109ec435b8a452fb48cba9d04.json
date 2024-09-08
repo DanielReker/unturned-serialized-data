@@ -1,0 +1,26 @@
+{
+  "name": "Research_Door_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Medium/Quests/Research_Door_3/Research_Door_3.dat",
+  "data": {
+    "GUID": "be0ff36109ec435b8a452fb48cba9d04",
+    "Type": "Medium",
+    "ID": "6643",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1",
+    "Interactability": "Quest",
+    "Interactability_Effect": "38",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "EasterBunkerEntrance1",
+    "Bypass_ID_Limit": "",
+    "Master_Bundle_Override": "easterisland.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/Quests/Research_Door_1",
+    "Exclude_From_Master_Bundle": "",
+    "Has_Clip_Prefab": "False"
+  },
+  "translation": {
+    "Name": "Easter Research Door #4",
+    "Interact": "Descend the Elevator [{0}]"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Buak_Note_24",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Note_24/Buak_Note_24.dat",
+  "data": {
+    "GUID": "c899789e617941c49457b4e85dcb6329",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Material_Palette": "3758ac9d1b774a4a99a407c069e2a21a",
+    "Bundle_Override_Path": "/Objects/Small/Furniture/Buak_Note_00"
+  },
+  "translation": {
+    "Name": "Buak_Note_24",
+    "Interactability_Text_Line_0": "2018-05-22",
+    "Interactability_Text_Line_1": "---",
+    "Interactability_Text_Line_2": "I always knew it, she was right, about me, the company… I can’t stop though, not after everything, not after the sacrifices and our work. Especially not after what the company has turned into, I refuse."
+  }
+}

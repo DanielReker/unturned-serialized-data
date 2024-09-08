@@ -1,0 +1,14 @@
+{
+  "name": "Hay_Bale_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Hay_Bale_0/Hay_Bale_0.dat",
+  "data": {
+    "GUID": "ef51c83e2b0b4cabaffc86ffeac93611",
+    "Type": "Medium",
+    "ID": "51000",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Hay Bale 1"
+  }
+}

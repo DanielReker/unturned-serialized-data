@@ -1,0 +1,14 @@
+{
+  "name": "26602KMPC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/D/265 CO/2654-2663 Civ/26602KMPC/Asset.dat",
+  "data": {
+    "GUID": "b9c671afa5934ac385de3d9b0f39d988",
+    "Type": "Dialogue",
+    "ID": "26602",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Ah, nice. Thanks <name_char>."
+  }
+}

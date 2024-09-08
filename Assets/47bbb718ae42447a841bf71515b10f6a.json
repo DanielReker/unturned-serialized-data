@@ -1,0 +1,27 @@
+{
+  "name": "Rio_Paulio_Orange",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Vehicles/Rio_Paulio_Orange/Rio_Paulio_Orange.dat",
+  "data": {
+    "GUID": "47bbb718ae42447a841bf71515b10f6a",
+    "Type": "Vehicle",
+    "Rarity": "Rare",
+    "ID": "4415",
+    "Speed_Min": "-5",
+    "Speed_Max": "17",
+    "Steer_Min": "12",
+    "Steer_Max": "24",
+    "Brake": "24",
+    "Fuel_Min": "200",
+    "Fuel_Max": "400",
+    "Fuel": "1500",
+    "Health_Min": "350",
+    "Health_Max": "450",
+    "Health": "650",
+    "Trunk_Storage_X": "5",
+    "Trunk_Storage_Y": "3",
+    "Explosion": "20"
+  },
+  "translation": {
+    "Name": "Orange Paulio"
+  }
+}

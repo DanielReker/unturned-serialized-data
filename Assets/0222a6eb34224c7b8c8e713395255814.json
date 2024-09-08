@@ -1,0 +1,20 @@
+{
+  "name": "Metro_Planted_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Planter/Metro_Planted_5/Metro_Planted_5.dat",
+  "data": {
+    "GUID": "0222a6eb34224c7b8c8e713395255814",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57727",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57161",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Master_Bundle_Override": "metro.masterbundle",
+    "Bundle_Override_Path": "/Objects/Quest/NPC/Planter/Metro_Plant_2"
+  },
+  "translation": {
+    "Name": "Metro Planter [Planted #6]"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Alastair_Crash_Down_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Major_Alastair/Alastair_Crash_Down_Completed/Asset.dat",
+  "data": {
+    "GUID": "bec1ba18887a472fbd5b38ae847b8ec3",
+    "Type": "Dialogue",
+    "ID": "45720",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Goodwork! I think Chitchat over there could use a hand if you have the time."
+  }
+}

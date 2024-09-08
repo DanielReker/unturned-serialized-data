@@ -1,0 +1,14 @@
+{
+  "name": "Tower_Military_1",
+  "path": "Bundles/Objects/Large/Buildings/Tower_Military_1/Tower_Military_1.dat",
+  "data": {
+    "GUID": "125436fb0d694d1d816944a969ccfb18",
+    "Type": "Large",
+    "ID": "288",
+    "LOD": "Area",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Military Tower #2"
+  }
+}

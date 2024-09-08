@@ -1,0 +1,13 @@
+{
+  "name": "PS_Christmas_Lights_Object_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Christmas_Lights_Object_0/PS_Christmas_Lights_Object_0.dat",
+  "data": {
+    "GUID": "e5b348595a884535a4652c438bff7f84",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60150"
+  },
+  "translation": {
+    "Name": "PS Christmas Lights Object #1"
+  }
+}

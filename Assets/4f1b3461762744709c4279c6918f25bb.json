@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Q_DD_Y_Shelf",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/Buak_Q_DD_Y_Shelf/Buak_Q_DD_Y_Shelf.dat",
+  "data": {
+    "GUID": "4f1b3461762744709c4279c6918f25bb",
+    "Type": "Small",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Conditions": "1",
+    "Condition_0_Type": "Quest",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_ID": "4c3d44b2d35c46a18a90944545cc03bc",
+    "Condition_0_Status": "Completed"
+  },
+  "translation": {
+    "Name": "Buak_Q_DD_Y_Shelf"
+  }
+}

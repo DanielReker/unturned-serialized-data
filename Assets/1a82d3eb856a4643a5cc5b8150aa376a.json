@@ -1,0 +1,36 @@
+{
+  "name": "PS_Roof_Glass",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Structures/PS_Roof_Glass/PS_Roof_Glass.dat",
+  "data": {
+    "GUID": "1a82d3eb856a4643a5cc5b8150aa376a",
+    "Type": "Structure",
+    "Has_Clip_Prefab": "False",
+    "Rarity": "Rare",
+    "Useable": "Structure",
+    "Construct": "Roof",
+    "ID": "59824",
+    "SalvageItem": "1a82d3eb856a4643a5cc5b8150aa376a",
+    "Min_Items_Dropped_On_Destroy": "2",
+    "Max_Items_Dropped_On_Destroy": "3",
+    "Item_Dropped_On_Destroy": "7474561107b74a6a9589db727685533c",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.45",
+    "Health": "900",
+    "Range": "6",
+    "Explosion": "36",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59565",
+    "Blueprint_0_Supply_0_Amount": "5",
+    "Blueprint_0_Tool": "59003",
+    "Blueprint_0_Build": "27",
+    "PlacementAudioClip": "Sounds/MetalPlacement.mp3",
+    "Salvage_Duration_Multiplier": "0.5"
+  },
+  "translation": {
+    "Name": "Glass Roof",
+    "Description": "<color=#FFC023>900 Health</color>"
+  }
+}

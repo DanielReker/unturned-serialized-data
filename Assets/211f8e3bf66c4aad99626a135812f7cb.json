@@ -1,0 +1,15 @@
+{
+  "name": "Patient_Clothes",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Patient_Clothes/Patient_Clothes.dat",
+  "data": {
+    "GUID": "211f8e3bf66c4aad99626a135812f7cb",
+    "Type": "Spawn",
+    "ID": "5021",
+    "Tables": "2",
+    "Table_0_Asset_ID": "8029",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "8030",
+    "Table_1_Weight": "10"
+  },
+  "translation": null
+}

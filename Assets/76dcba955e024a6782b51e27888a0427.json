@@ -1,0 +1,13 @@
+{
+  "name": "Cliffs_Construction",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Spawns/Items/Cliffs_Construction/Cliffs_Construction.dat",
+  "data": {
+    "GUID": "76dcba955e024a6782b51e27888a0427",
+    "Type": "Spawn",
+    "ID": "10015",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "169",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

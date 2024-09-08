@@ -1,0 +1,16 @@
+{
+  "name": "Kuwait_Aura_PalmNights",
+  "path": "Bundles/Items/Masks/Kuwait_Aura_PalmNights/Kuwait_Aura_PalmNights.dat",
+  "data": {
+    "GUID": "8c4a2161c53e4486918582127a366700",
+    "Type": "Mask",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Hair": "",
+    "Beard": "",
+    "Pro": "",
+    "Bundle_Override_Path": "/Items/Masks/MythicPlaceholderMask",
+    "CosmeticPreviewMythicId": "45"
+  },
+  "translation": null
+}

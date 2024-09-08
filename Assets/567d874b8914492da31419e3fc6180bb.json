@@ -1,0 +1,14 @@
+{
+  "name": "Alastair_Stealth_Chosen",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/NPCs/Hawaii NPCs/Dialogues/Major_Alastair/Alastair_Stealth_Chosen/Asset.dat",
+  "data": {
+    "GUID": "567d874b8914492da31419e3fc6180bb",
+    "Type": "Dialogue",
+    "ID": "45755",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "We'll activate all four of the beacons once you are clear of the area.  Meanwhile, <color=uncommon>Nitro</color>, <color=uncommon>Needles</color>, and <color=uncommon>Siren</color> will rescue the trapped soldiers. If you alert the horde, the beacons will be disabled requiring you to retrieve new ones from <color=uncommon>Chitchat</color>."
+  }
+}

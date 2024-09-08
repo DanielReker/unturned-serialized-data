@@ -1,0 +1,24 @@
+{
+  "name": "Paint_Thinner",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Paint_Thinner/Paint_Thinner.dat",
+  "data": {
+    "GUID": "3542e8038e2d4d58806c4490e04cc447",
+    "Type": "Water",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "25353",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.36",
+    "Water": "2",
+    "Virus": "99",
+    "Vision": "120",
+    "ConsumeAudioClip": "Sounds/Food/drinkBottle.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Paint Thinner",
+    "Description": "A bottle of paint thinner, perfect for removing paint!<br><color=#cd32da>Removes Paint From Guns Or Vehicles</color>"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PS_Lifting_Crane_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Lifting_Crane_1/PS_Lifting_Crane_1.dat",
+  "data": {
+    "GUID": "50229b5bccdf4139b65008e205784ea8",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59214",
+    "Material_Palette": "d1095433da324bd5b80eac52c07bd799"
+  },
+  "translation": {
+    "Name": "PS Lifting Crane #2"
+  }
+}

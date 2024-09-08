@@ -1,0 +1,40 @@
+{
+  "name": "PoliceTools",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Police/PoliceTools/PoliceTools.dat",
+  "data": {
+    "GUID": "5ca66e7cbbb446c48cb65168e84c6909",
+    "Type": "Spawn",
+    "ID": "51029",
+    "Tables": [
+      {
+        "Guid": "5de39c9e80fc4228b5d25bcb7cd2e2e6",
+        "Weight": "20"
+      },
+      {
+        "Guid": "98c2b75957e346cd82a846316a0b42f0",
+        "Weight": "14"
+      },
+      {
+        "Guid": "aa318a1a467144eea3c2482c1bec2dca",
+        "Weight": "5"
+      },
+      {
+        "Guid": "e8c7aa7d3ea6486c885f6520f9ba553c",
+        "Weight": "5"
+      },
+      {
+        "Guid": "c9dd441c915a4b0db17b7b5c041971b4",
+        "Weight": "2"
+      },
+      {
+        "Guid": "1d63607870554ef5964c82bf236d9686",
+        "Weight": "2"
+      },
+      {
+        "Guid": "b9a79dda679545ce8338265388afc6ed",
+        "Weight": "2"
+      }
+    ]
+  },
+  "translation": null
+}

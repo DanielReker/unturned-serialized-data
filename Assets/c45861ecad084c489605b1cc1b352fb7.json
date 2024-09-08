@@ -1,0 +1,29 @@
+{
+  "name": "PBS_Paatz_Quest_R",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Quests/PBS_Paatz_Quest_R/Asset.dat",
+  "data": {
+    "GUID": "c45861ecad084c489605b1cc1b352fb7",
+    "Type": "Quest",
+    "ID": "52245",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "51220",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "3",
+    "Reward_0_Type": "Item_Random",
+    "Reward_0_ID": "51019",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Currency",
+    "Reward_1_Value": "25",
+    "Reward_1_GUID": "561f74cdccdf48abaa6d49343b56aab0",
+    "Reward_2_Type": "Reputation",
+    "Reward_2_Value": "5"
+  },
+  "translation": {
+    "Name": "Spare Parts",
+    "Description": "<color=yellow>Repeating Quest</color><br>Private Paatz would like for you to continue getting extra rifles for him in order to have a surplus of parts.",
+    "Condition_0": "Acquire <color=rare>Ulfberht</color> {0}/{1}",
+    "Reward_0": "1x Random Attachment"
+  }
+}

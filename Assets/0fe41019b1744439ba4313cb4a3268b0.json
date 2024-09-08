@@ -1,0 +1,21 @@
+{
+  "name": "WS_Fire",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/WS_Fire/WS_Fire.dat",
+  "data": {
+    "GUID": "0fe41019b1744439ba4313cb4a3268b0",
+    "Type": "Spawn",
+    "ID": "25428",
+    "Tables": "5",
+    "Table_0_Asset_ID": "26618",
+    "Table_0_Weight": "100",
+    "Table_1_Asset_ID": "26620",
+    "Table_1_Weight": "100",
+    "Table_2_Asset_ID": "25387",
+    "Table_2_Weight": "50",
+    "Table_3_Asset_ID": "25646",
+    "Table_3_Weight": "5",
+    "Table_4_Asset_ID": "26767",
+    "Table_4_Weight": "5"
+  },
+  "translation": null
+}

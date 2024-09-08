@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Police_Melee",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Civ/Metro_Police_Melee/Metro_Police_Melee.dat",
+  "data": {
+    "GUID": "c395684bd2454c27ad855d230fa25eef",
+    "Type": "Spawn",
+    "ID": "57075",
+    "Tables": "1",
+    "Table_0_Asset_ID": "57415 ",
+    "Table_0_Weight": "6"
+  },
+  "translation": null
+}

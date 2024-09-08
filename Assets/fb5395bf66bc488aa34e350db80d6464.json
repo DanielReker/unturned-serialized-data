@@ -1,0 +1,16 @@
+{
+  "name": "HooliganOutfit",
+  "path": "Bundles/Items/Outfits/Hooligan/HooliganOutfit.asset",
+  "data": {
+    "GUID": "fb5395bf66bc488aa34e350db80d6464",
+    "Type": "SDG.Unturned.OutfitAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Items": [
+      "1f55f6a68e6c404abdc8069559a62075",
+      "a5188e768e3b4f6c9af0369b04165e8b",
+      "67b3893f9b68472cb25bca8f1424783c",
+      "058be41124b94e8ab89dcf29c7777da3",
+      "7d19924f4d0d47c1996b0096acc357c0"
+    ]
+  },
+  "translation": null
+}

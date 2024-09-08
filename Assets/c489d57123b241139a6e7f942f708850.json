@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Mirror_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Mirror_0/Metro_Mirror_0.dat",
+  "data": {
+    "GUID": "c489d57123b241139a6e7f942f708850",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57165",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Mirror #1"
+  }
+}

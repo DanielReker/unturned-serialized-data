@@ -1,0 +1,15 @@
+{
+  "name": "France_Armore_Ammo_Accept",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Armorer/France_Armore_Ammo_Accept/Asset.dat",
+  "data": {
+    "GUID": "783dd32210f64a2c8a7f89a1fd064f95",
+    "Type": "Dialogue",
+    "ID": "4163",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "4150"
+  },
+  "translation": {
+    "Message_0_Page_0": "We should be able to hold out until you come back."
+  }
+}

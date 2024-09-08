@@ -1,0 +1,14 @@
+{
+  "name": "Commander_Coalition_Propaganda_Completed",
+  "path": "Bundles/NPCs/Dialogues/Commander/Commander_Coalition_Propaganda_Completed/Asset.dat",
+  "data": {
+    "GUID": "d86130692e0c4a9988c484e8512dc98e",
+    "Type": "Dialogue",
+    "ID": "58",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thank you! We'll keep an eye out for survivors trying to get aboard."
+  }
+}

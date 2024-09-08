@@ -1,0 +1,20 @@
+{
+  "name": "Frost_Puzzle_Board_04",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Puzzle_2/Frost_Puzzle_Board_04/Frost_Puzzle_Board_04.dat",
+  "data": {
+    "GUID": "c2a72424b0cc4518bee03507d0ae6d41",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "36283",
+    "Condition_0_Value": "4",
+    "Condition_0_Logic": "Equal",
+    "Master_Bundle_Override": "frost.masterbundle",
+    "Bundle_Override_Path": "/Objects/Safezone/Frost_Puzzle_Board_02"
+  },
+  "translation": {
+    "Name": "Frost Puzzle Board #5"
+  }
+}

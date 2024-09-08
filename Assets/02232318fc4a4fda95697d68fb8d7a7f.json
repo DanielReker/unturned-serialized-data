@@ -1,0 +1,29 @@
+{
+  "name": "IR_Black_Scout",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Vehicle/IR_Black_Scout/IR_Black_Scout.dat",
+  "data": {
+    "GUID": "02232318fc4a4fda95697d68fb8d7a7f",
+    "Type": "Vehicle",
+    "Rarity": "Uncommon",
+    "ID": "14510",
+    "Speed_Min": "-6",
+    "Speed_Max": "17",
+    "Steer_Min": "14",
+    "Steer_Max": "28",
+    "Brake": "24",
+    "Fuel_Min": "300",
+    "Fuel_Max": "500",
+    "Fuel": "1400",
+    "Health_Min": "400",
+    "Health_Max": "500",
+    "Health": "900",
+    "Traction": "",
+    "Cam_Follow_Distance": "7.5",
+    "Trunk_Storage_X": "6",
+    "Trunk_Storage_Y": "9",
+    "Explosion": "20"
+  },
+  "translation": {
+    "Name": "Black Scout"
+  }
+}

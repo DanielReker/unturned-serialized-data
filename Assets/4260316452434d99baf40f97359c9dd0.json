@@ -1,0 +1,18 @@
+{
+  "name": "PS_Light_13",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Light_13/PS_Light_13.dat",
+  "data": {
+    "GUID": "4260316452434d99baf40f97359c9dd0",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59411",
+    "WeatherEventHook": "",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "600",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "59007"
+  },
+  "translation": {
+    "Name": "PS Light #14"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "French_Restaurant_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Buildings/French_Restaurant/French_Restaurant_1/French_Restaurant_1.dat",
+  "data": {
+    "GUID": "3660cbce0a924d75baa2b74910c1acf0",
+    "Type": "Large",
+    "ID": "35051",
+    "LOD": "Mesh",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "French Restaurant #2"
+  }
+}

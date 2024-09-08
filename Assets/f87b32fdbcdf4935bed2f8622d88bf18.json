@@ -1,0 +1,13 @@
+{
+  "name": "PS_Manhole_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Manhole_0/PS_Manhole_0.dat",
+  "data": {
+    "GUID": "f87b32fdbcdf4935bed2f8622d88bf18",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59274"
+  },
+  "translation": {
+    "Name": "PS Manhole #1"
+  }
+}

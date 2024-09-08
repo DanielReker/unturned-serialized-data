@@ -1,0 +1,21 @@
+{
+  "name": "Survivor Ana",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Characters/NAM/Fluff/Survivors/Survivor Ana/Asset.dat",
+  "data": {
+    "GUID": "312d9cb5156f42b2b9da29fd7de4135b",
+    "Type": "NPC",
+    "ID": "9005",
+    "Shirt": "8024",
+    "Pants": "212",
+    "Face": "24",
+    "Hair": "7",
+    "Color_Skin": "#e2cba7",
+    "Color_Hair": "#774d01",
+    "Secondary": "97",
+    "Dialogue": "9201"
+  },
+  "translation": {
+    "Name": "NAM Survivor Ana",
+    "Character": "Ana"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Kuwait_Crate_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Military/Kuwait_Crate_0/Kuwait_Crate_0.dat",
+  "data": {
+    "GUID": "64a56866bed449e3b5323df51cd1b84a",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5167",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Kuwait Crate #1"
+  }
+}

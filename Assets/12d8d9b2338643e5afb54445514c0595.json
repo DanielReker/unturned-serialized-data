@@ -1,0 +1,54 @@
+{
+  "name": "PBS_Log",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Logs/PBS_Log.asset",
+  "data": {
+    "GUID": "12d8d9b2338643e5afb54445514c0595",
+    "Type": "SDG.Framework.Foliage.FoliageInstancedMeshInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Density": "1024",
+    "Min_Normal_Position_Offset": "0.1",
+    "Max_Normal_Position_Offset": "0.2",
+    "Normal_Rotation_Offset": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Normal_Rotation_Alignment": "1",
+    "Min_Weight": "0.5",
+    "Max_Weight": "1",
+    "Min_Angle": "0",
+    "Max_Angle": "60",
+    "Min_Rotation": {
+      "X": "-5",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Max_Rotation": {
+      "X": "5",
+      "Y": "360",
+      "Z": "360"
+    },
+    "Min_Scale": {
+      "X": "1.25",
+      "Y": "1.25",
+      "Z": "1.25"
+    },
+    "Max_Scale": {
+      "X": "1.5",
+      "Y": "1.5",
+      "Z": "1.5"
+    },
+    "Mesh": {
+      "Name": "pbs.masterbundle",
+      "Path": "Logs/PBS_Log.fbx"
+    },
+    "Material": {
+      "Name": "pbs.masterbundle",
+      "Path": "Logs/PBS_Log.mat"
+    },
+    "Cast_Shadows": "true",
+    "Tile_Dither": "false",
+    "Draw_Distance": "2"
+  },
+  "translation": null
+}

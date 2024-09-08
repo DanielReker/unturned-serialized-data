@@ -1,0 +1,13 @@
+{
+  "name": "PS_Blinds_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Blinds_1/PS_Blinds_1.dat",
+  "data": {
+    "GUID": "4037be9293c141669b43e1c7e27d148c",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "59823"
+  },
+  "translation": {
+    "Name": "PS Blinds #2"
+  }
+}

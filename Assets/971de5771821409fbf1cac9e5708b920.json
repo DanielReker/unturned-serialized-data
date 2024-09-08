@@ -1,0 +1,26 @@
+{
+  "name": "PS_Natural_Fertilizer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Growers/PS_Natural_Fertilizer/PS_Natural_Fertilizer.dat",
+  "data": {
+    "GUID": "971de5771821409fbf1cac9e5708b920",
+    "Type": "Grower",
+    "Rarity": "Uncommon",
+    "Useable": "Grower",
+    "ID": "59197",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.52",
+    "Use_Auto_Icon_Measurements": "False",
+    "Actions": "1",
+    "Action_0_Type": "Blueprint",
+    "Action_0_Blueprints": "1",
+    "Action_0_Source": "59360",
+    "Action_0_Blueprint_0_Index": "0",
+    "Action_0_Text": "Craft Planter",
+    "Action_0_Tooltip": "Use Fertilizer and Planks."
+  },
+  "translation": {
+    "Name": "Fertilizer ",
+    "Description": "Natural fertilizer. Used to make plants grow instantly."
+  }
+}

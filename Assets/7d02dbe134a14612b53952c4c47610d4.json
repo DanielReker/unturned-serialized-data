@@ -1,0 +1,37 @@
+{
+  "name": "Goop",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Items/Water/Goop/Goop.dat",
+  "data": {
+    "GUID": "7d02dbe134a14612b53952c4c47610d4",
+    "Type": "Water",
+    "Useable": "Consumeable",
+    "ID": "6651",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.34",
+    "Health": "-10",
+    "Food": "5",
+    "Water": "5",
+    "Virus": "35",
+    "Vision": "20",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "6651",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Product": "70",
+    "Blueprint_0_Products": "1",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Easter Island",
+    "Blueprint_1_Type": "Utilities",
+    "Blueprint_1_Supply_0_ID": "6651",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Product": "75",
+    "Blueprint_1_Products": "1",
+    "Blueprint_1_Build": "27",
+    "Blueprint_1_Map": "Easter Island"
+  },
+  "translation": {
+    "Name": "Goop",
+    "Description": "Useful for everything sticky!"
+  }
+}

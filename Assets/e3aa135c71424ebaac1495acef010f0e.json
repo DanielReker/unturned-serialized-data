@@ -1,0 +1,38 @@
+{
+  "name": "Seed_Apple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Tools/Seed_Apple/Seed_Apple.dat",
+  "data": {
+    "GUID": "e3aa135c71424ebaac1495acef010f0e",
+    "Type": "Farm",
+    "Rarity": "Common",
+    "Useable": "Barricade",
+    "Build": "Farm",
+    "ID": "25433",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.2",
+    "Use_Auto_Icon_Measurements": "False",
+    "Has_Clip_Prefab": "false",
+    "Unrepairable": "",
+    "Salvage_Duration_Multiplier": ".3",
+    "Bypass_Pickup_Ownership": "True",
+    "Health": "1",
+    "Range": "4",
+    "Radius": "0.33",
+    "Offset": "0.75",
+    "Growth": "12000",
+    "Grow_SpawnTable": "390b23da2dc94060a50ccbb229880c76",
+    "Explosion": "25358",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "25680",
+    "Blueprint_0_Build": "25530",
+    "PlacementAudioClip": "Sounds/Placement/FoliagePlacement.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Apple Seed",
+    "Description": "Ready for planting and growing."
+  }
+}

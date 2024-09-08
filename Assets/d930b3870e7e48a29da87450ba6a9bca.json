@@ -1,0 +1,15 @@
+{
+  "name": "27409KAKS",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/1/D/27406KAKAD/27409KAKS/Asset.dat",
+  "data": {
+    "GUID": "d930b3870e7e48a29da87450ba6a9bca",
+    "Type": "Dialogue",
+    "ID": "27409",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_Prev": "27406"
+  },
+  "translation": {
+    "Message_0_Page_0": "Did you now? Good to see you in one piece then. We ought to keep in close contact with them then, they may be able to help us liberate the mainland. Help them out and gain their trust, alright?"
+  }
+}

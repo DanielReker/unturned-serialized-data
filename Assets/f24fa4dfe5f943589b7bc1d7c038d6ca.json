@@ -1,0 +1,18 @@
+{
+  "name": "Hot_Chocolate_Mix",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Supplies/Hot_Chocolate_Mix/Hot_Chocolate_Mix.dat",
+  "data": {
+    "GUID": "f24fa4dfe5f943589b7bc1d7c038d6ca",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "25335",
+    "Use_Auto_Icon_Measurements": "False",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.4"
+  },
+  "translation": {
+    "Name": "Hot Chocolate Mix",
+    "Description": "Nomomo Cocoa mix from the upper slopes of Mount Nicaragua."
+  }
+}

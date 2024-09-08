@@ -1,0 +1,37 @@
+{
+  "name": "Kuwait_Telescope_Dismantled",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Small/Quests/Kuwait_Telescope_Dismantled/Kuwait_Telescope_Dismantled.dat",
+  "data": {
+    "GUID": "7d1ed293b0c94fc9bb97aefedacfbee5",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "5112",
+    "Asset_Bundle_Version": "2",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "28107",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Conditions": "2",
+    "Interactability_Condition_0_Type": "Flag_Bool",
+    "Interactability_Condition_0_ID": "28106",
+    "Interactability_Condition_0_Value": "True",
+    "Interactability_Condition_0_Logic": "Equal",
+    "Interactability_Condition_1_Type": "Quest",
+    "Interactability_Condition_1_ID": "28105",
+    "Interactability_Condition_1_Status": "Active",
+    "Interactability_Condition_1_Logic": "Equal",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "28107",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Kuwait Telescope Dismantled (QUEST ITEM)",
+    "Interact": "Repair Telescope [{0}]",
+    "Interactability_Condition_0": "Missing Telescope Parts"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "IR_Debris_Large_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Buildings/IR_Debris_Large_4/IR_Debris_Large_4.dat",
+  "data": {
+    "GUID": "4a0e6a510549496caf28ad8acfc79b31",
+    "Type": "Large",
+    "ID": "17048",
+    "Material_Palette": "3638de70ef1b421c98b9efa9681ea6f8"
+  },
+  "translation": {
+    "Name": "Irish Large Debris#4"
+  }
+}

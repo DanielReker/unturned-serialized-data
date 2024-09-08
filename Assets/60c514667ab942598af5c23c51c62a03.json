@@ -1,0 +1,22 @@
+{
+  "name": "Owen_Hat_HW",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Clothes/NPC_Clothes/Owen_Hat_HW/Owen_Hat_HW.dat",
+  "data": {
+    "GUID": "60c514667ab942598af5c23c51c62a03",
+    "Rarity": "Uncommon",
+    "Type": "Hat",
+    "Useable": "Clothing",
+    "ID": "27046",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Beard": "",
+    "Pro": "",
+    "Armor": "0.95",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Owen_Hat_HW",
+    "Description": "NPC Hat."
+  }
+}

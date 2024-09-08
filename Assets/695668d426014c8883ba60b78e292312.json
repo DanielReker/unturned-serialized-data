@@ -1,0 +1,14 @@
+{
+  "name": "Buak_LAB_Logo_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Monuments/Buak_LAB/Buak_LAB_Logo_01/Buak_LAB_Logo_01.dat",
+  "data": {
+    "GUID": "695668d426014c8883ba60b78e292312",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_LAB_Logo_01"
+  }
+}

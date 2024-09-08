@@ -1,0 +1,13 @@
+{
+  "name": "PS_Exit_Sign_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Exit_Sign_0/PS_Exit_Sign_0.dat",
+  "data": {
+    "GUID": "6ff52f168b204bd983d0d5b764d2b674",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59584"
+  },
+  "translation": {
+    "Name": "PS Exit Sign #1"
+  }
+}

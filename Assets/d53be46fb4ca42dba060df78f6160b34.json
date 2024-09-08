@@ -1,0 +1,13 @@
+{
+  "name": "PS_Helicopter_Wreck_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Helicopter_Wreck_3/PS_Helicopter_Wreck_3.dat",
+  "data": {
+    "GUID": "d53be46fb4ca42dba060df78f6160b34",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60087"
+  },
+  "translation": {
+    "Name": "PS Helicopter Wreck #4"
+  }
+}

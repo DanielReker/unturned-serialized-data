@@ -1,0 +1,23 @@
+{
+  "name": "EODRadio",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/NPC/EODRadio/EODRadio.dat",
+  "data": {
+    "GUID": "02480c01d2104a3381f701d0f7b13cb8",
+    "Type": "Shirt",
+    "Rarity": "Mythical",
+    "Useable": "Clothing",
+    "ID": "52027",
+    "Size_X": "3",
+    "Size_Y": "2",
+    "Size_Z": "0.6",
+    "Width": "10",
+    "Height": "20",
+    "Character_Mesh_3P_Override_LODs": "1",
+    "Hair_Visible": "True",
+    "Armor": "1"
+  },
+  "translation": {
+    "Name": "EODRadio",
+    "Description": "..."
+  }
+}

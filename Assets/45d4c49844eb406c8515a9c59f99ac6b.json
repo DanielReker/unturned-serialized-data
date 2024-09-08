@@ -1,0 +1,16 @@
+{
+  "name": "France_Tourist_Charger_Completed_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Tourist/France_Tourist_Charger_Completed_2/Asset.dat",
+  "data": {
+    "GUID": "45d4c49844eb406c8515a9c59f99ac6b",
+    "Type": "Dialogue",
+    "ID": "4210",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Message_0_Prev": "4193"
+  },
+  "translation": {
+    "Message_0_Page_0": "Oh my god... <pause> That's... <pause> Okay..",
+    "Message_0_Page_1": "Thanks for the charger."
+  }
+}

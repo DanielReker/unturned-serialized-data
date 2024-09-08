@@ -1,0 +1,13 @@
+{
+  "name": "Brazil_Jeep",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Objects/Large/Brazil_Jeep/Brazil_Jeep.dat",
+  "data": {
+    "GUID": "e27741765b2145fd83418e3b641bc5e9",
+    "Type": "Large",
+    "ID": "6140",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rio Jeep"
+  }
+}

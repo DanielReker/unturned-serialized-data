@@ -1,0 +1,23 @@
+{
+  "name": "BP_Grip_Vertical",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Grip_Vertical/Asset.dat",
+  "data": {
+    "GUID": "39677cd35b934807a7cb506b1fe35b4b",
+    "Type": "Quest",
+    "ID": "24905",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "b68eae322b934cf59bffbb5b434b525b",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24904",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Vertical Grip Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Vertical Grip Recipe"
+  }
+}

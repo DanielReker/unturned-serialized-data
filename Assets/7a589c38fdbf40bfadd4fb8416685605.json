@@ -1,0 +1,23 @@
+{
+  "name": "Guard_Omega_Inquiry",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Guards/Guard_Omega_Inquiry/Asset.dat",
+  "data": {
+    "GUID": "7a589c38fdbf40bfadd4fb8416685605",
+    "Type": "Dialogue",
+    "ID": "3007",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "3009",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Flag_Short",
+    "Response_0_Reward_0_ID": "3004",
+    "Response_0_Reward_0_Value": "0",
+    "Response_0_Reward_0_Modification": "Assign"
+  },
+  "translation": {
+    "Message_0_Page_0": "You've come across our fortress, the <color=uncommon>Omega</color> Stronghold. We are a community of survivors built from heroics, and quite possibly the final solution to humanity's survival.",
+    "Response_0": "Can I join?",
+    "Response_1": "Bye."
+  }
+}

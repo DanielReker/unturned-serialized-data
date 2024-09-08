@@ -1,0 +1,16 @@
+{
+  "name": "XMAS_Took",
+  "path": "Bundles/Items/Hats/XMAS_Took/XMAS_Took.dat",
+  "data": {
+    "GUID": "178fb57e72924945ac7f538ed5959c98",
+    "Type": "Hat",
+    "ID": "1733",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Beard": "",
+    "Hair_Override": "Model_1",
+    "Pro": ""
+  },
+  "translation": null
+}

@@ -1,0 +1,12 @@
+{
+  "name": "PBS_Wheat_Beard",
+  "path": "Bundles/Items/PBS/PBS_Wheat_Beard/PBS_Wheat_Beard.dat",
+  "data": {
+    "GUID": "efc69c93f7314230972be898bfc22741",
+    "Type": "Mask",
+    "Pro": "",
+    "Hair": "",
+    "Hair_Override": "Model_0"
+  },
+  "translation": null
+}

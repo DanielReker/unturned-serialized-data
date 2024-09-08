@@ -1,0 +1,23 @@
+{
+  "name": "Buak_Driftwood_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Resources/Buak_Driftwood_00/Buak_Driftwood_00.dat",
+  "data": {
+    "GUID": "f51bf1c5488f45699dd586e23bb60b73",
+    "Type": "Resource",
+    "ID": "25317",
+    "Health": "1",
+    "Radius": "5",
+    "Scale": "0.2",
+    "Explosion": "25320",
+    "Reward_ID": "25314",
+    "Reward_XP": "1",
+    "Forage": "",
+    "No_Debris": "",
+    "Reset": "250",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Driftwood_00"
+  }
+}

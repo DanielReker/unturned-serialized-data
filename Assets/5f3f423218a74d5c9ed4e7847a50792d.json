@@ -1,0 +1,13 @@
+{
+  "name": "PS_Spool_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Spool_2/PS_Spool_2.dat",
+  "data": {
+    "GUID": "5f3f423218a74d5c9ed4e7847a50792d",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59177"
+  },
+  "translation": {
+    "Name": "PS Spool #3"
+  }
+}

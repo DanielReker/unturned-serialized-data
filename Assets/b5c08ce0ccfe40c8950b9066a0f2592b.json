@@ -1,0 +1,13 @@
+{
+  "name": "Metro_Space_Box_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_Space_Box_0/Metro_Space_Box_0.dat",
+  "data": {
+    "GUID": "b5c08ce0ccfe40c8950b9066a0f2592b",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "58067"
+  },
+  "translation": {
+    "Name": "Metro Space Box #1"
+  }
+}

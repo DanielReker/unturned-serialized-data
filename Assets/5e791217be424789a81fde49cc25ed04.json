@@ -1,0 +1,14 @@
+{
+  "name": "28454KVQ",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28451KLDVD/28454KVQ/Asset.dat",
+  "data": {
+    "GUID": "5e791217be424789a81fde49cc25ed04",
+    "Type": "Dialogue",
+    "ID": "28454",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm <name_npc>! She's Laila. She's tired right now, so you can buy stuff from me instead!"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Metro_Vault",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Bank/Metro_Vault/Metro_Vault.dat",
+  "data": {
+    "GUID": "071cc9bb5c1f4583b5d5e5b13c11d7d5",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "58031",
+    "Master_Bundle_Override": "metro.masterbundle",
+    "Bundle_Override_Path": "/Objects/Quest/NPC/Bank/Metro_Vault_Door"
+  },
+  "translation": {
+    "Name": "Metro Vault #1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Kuwait_ATM_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Utilities/Kuwait_ATM_0/Kuwait_ATM_0.dat",
+  "data": {
+    "GUID": "ab153a1373bb43b5aea55fe01976a884",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5999"
+  },
+  "translation": {
+    "Name": "Kuwait ATM #1"
+  }
+}

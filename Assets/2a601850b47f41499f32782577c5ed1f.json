@@ -1,0 +1,25 @@
+{
+  "name": "France_Farm_00_Material",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Assets/Landscape/Materials/France_Farm_00_Material.asset",
+  "data": {
+    "GUID": "2a601850b47f41499f32782577c5ed1f",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "france.masterbundle",
+      "Path": "assets/materials/farm.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "FOLIAGE_STATIC",
+    "Foliage": {
+      "GUID": "3fe8baa1c90f450f98d7076a203fa25a"
+    },
+    "Christmas_Redirect": {
+      "GUID": "00000000000000000000000000000000"
+    }
+  },
+  "translation": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ZPD_Research",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/ZPD_Research/ZPD_Research.dat",
+  "data": {
+    "GUID": "2fd01b04f5bf4ca5a11796fc40d0a026",
+    "Type": "Spawn",
+    "ID": "5028",
+    "Tables": "3",
+    "Table_0_Spawn_ID": "371",
+    "Table_0_Weight": "28",
+    "Table_1_Spawn_ID": "372",
+    "Table_1_Weight": "103",
+    "Table_2_Spawn_ID": "5027",
+    "Table_2_Weight": "18"
+  },
+  "translation": null
+}

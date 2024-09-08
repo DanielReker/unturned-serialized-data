@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Hose_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Furniture/Buak_Hose_00/Buak_Hose_00.dat",
+  "data": {
+    "GUID": "2414fa9a7abf4b8695dd418b15564bda",
+    "Type": "Small",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Hose_00"
+  }
+}

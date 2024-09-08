@@ -1,0 +1,13 @@
+{
+  "name": "Greece_Military_Chariot",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Spawns/Greece_Vehicles/Greece_Military_Chariot/Greece_Military_Chariot.dat",
+  "data": {
+    "GUID": "307d8d0b6c234af3a47bbf0b040f640f",
+    "Type": "Spawn",
+    "ID": "1025",
+    "Tables": "1",
+    "Table_0_Asset_ID": "3501",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

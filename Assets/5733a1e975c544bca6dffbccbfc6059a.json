@@ -1,0 +1,19 @@
+{
+  "name": "PS_Progress_Table_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Quest_Objects/PS_Progress_Table_5/PS_Progress_Table_5.dat",
+  "data": {
+    "GUID": "5733a1e975c544bca6dffbccbfc6059a",
+    "Type": "Large",
+    "ID": "60207",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "59008",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Large/PS_Progress_Table_1"
+  },
+  "translation": {
+    "Name": "PS Progress Table #6 [Light]"
+  }
+}

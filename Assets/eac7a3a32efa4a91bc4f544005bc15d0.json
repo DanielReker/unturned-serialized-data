@@ -1,0 +1,17 @@
+{
+  "name": "Milo_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Belgium Military Soldier Milo/Milo_Welcome/Asset.dat",
+  "data": {
+    "GUID": "eac7a3a32efa4a91bc4f544005bc15d0",
+    "Type": "Dialogue",
+    "ID": "9197",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "1",
+    "Response_0_Dialogue": "9198"
+  },
+  "translation": {
+    "Message_0_Page_0": "If you looking for <color=legendary>General Wout</color> he's at the top of the tower.",
+    "Response_0": "Okay thank you."
+  }
+}

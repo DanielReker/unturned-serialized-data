@@ -1,0 +1,14 @@
+{
+  "name": "Lais_Sell_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Trading/Lais_Dialogue/Lais_Sell_Completed/Asset.dat",
+  "data": {
+    "GUID": "64eb3a394b8c4fb3a256cec96eeadefe",
+    "Type": "Dialogue",
+    "ID": "9247",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Enjoy!"
+  }
+}

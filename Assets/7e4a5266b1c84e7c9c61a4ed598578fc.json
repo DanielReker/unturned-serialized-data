@@ -1,0 +1,35 @@
+{
+  "name": "Metro_Battery_Vehicle",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Overrides/Metro_Battery_Vehicle/Metro_Battery_Vehicle.dat",
+  "data": {
+    "GUID": "7e4a5266b1c84e7c9c61a4ed598578fc",
+    "Type": "Vehicle_Repair_Tool",
+    "Rarity": "Uncommon",
+    "Useable": "Battery_Vehicle",
+    "ID": "57465 ",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.34",
+    "Quality_Min": "100",
+    "Quality_Max": "100",
+    "Override_Show_Quality": "",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supply_0_ID": "57465",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "27",
+    "Blueprint_1_Type": "Tool",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "67",
+    "Blueprint_1_Supply_0_Amount": "2",
+    "Blueprint_1_Build": "27",
+    "Blueprint_1_Map": "Elver",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Tools/Battery_Vehicle"
+  },
+  "translation": {
+    "Name": "Vehicle Battery ",
+    "Description": "<color=#64c819>Recharges</color> Vehicles"
+  }
+}

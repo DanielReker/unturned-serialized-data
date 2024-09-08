@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Bed_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Furniture/Buak_Bed_01/Buak_Bed_01.dat",
+  "data": {
+    "GUID": "abb1dd9f1af64463a0266326bb867395",
+    "Type": "Medium",
+    "ID": "25300",
+    "Material_Palette": "78029653263f44c49e56dcae25654d00",
+    "Has_Clip_Prefab": "false",
+    "Chart": "Ignore"
+  },
+  "translation": {
+    "Name": "Buak_Bed_01"
+  }
+}

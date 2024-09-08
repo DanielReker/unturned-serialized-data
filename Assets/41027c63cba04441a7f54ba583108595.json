@@ -1,0 +1,29 @@
+{
+  "name": "RugShopping_00_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Carter/Carter_02/RugShopping_00_Welcome/Asset.dat",
+  "data": {
+    "GUID": "41027c63cba04441a7f54ba583108595",
+    "Type": "Dialogue",
+    "ID": "24542",
+    "Messages": "1",
+    "Message_0_Pages": "2",
+    "Message_0_FaceOverride": "5",
+    "Responses": "2",
+    "Response_0_Dialogue": "39400af23bde45c89b0aeac6e16f8694",
+    "Response_0_Quest": "c19de55f4d634a7fbed8e2aebcbc43ca",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "c19de55f4d634a7fbed8e2aebcbc43ca",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "c19de55f4d634a7fbed8e2aebcbc43ca"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yeah, some help could be nice, I'm pretty big into hunting, could you by chance bag a deer for me? More specifically just the pelt for a rug?",
+    "Message_0_Page_1": "A bowie knife is the best tool for it, once you get the corpse, use the knife to get it. You can keep the meat and everything else of course.",
+    "Response_0": "Sure thing!",
+    "Response_1": "Not now."
+  }
+}

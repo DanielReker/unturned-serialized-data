@@ -1,0 +1,32 @@
+{
+  "name": "PBS_Edward_Quest",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Quests/PBS_Edward_Quest/Asset.dat",
+  "data": {
+    "GUID": "95be5765684e45638cc4bb721db225cd",
+    "Type": "Quest",
+    "ID": "52484",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "52485",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Rewards": "4",
+    "Reward_0_Type": "Currency",
+    "Reward_0_Value": "100",
+    "Reward_0_GUID": "561f74cdccdf48abaa6d49343b56aab0",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "5",
+    "Reward_2_Type": "Flag_Bool",
+    "Reward_2_ID": "52003",
+    "Reward_2_Value": "True",
+    "Reward_3_Type": "Flag_Bool",
+    "Reward_3_ID": "52003",
+    "Reward_3_Value": "False",
+    "Reward_3_GrantDelaySeconds": "3"
+  },
+  "translation": {
+    "Name": "Hair Loss",
+    "Description": "So, buddy. I'm gonna ask you for somethin, and I need you to be discreet about it. I'm gonna need you to fetch me some of that Old Man Hennessy's Miracle De-Balder Cream™ from the fire station so that I can try and regain some of my...old glory.",
+    "Condition_0": "Acquire Hair Loss Gel {0}/1"
+  }
+}

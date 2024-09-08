@@ -1,0 +1,17 @@
+{
+  "name": "Lurking_Shadow",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Songs/Lurking_Shadow/Lurking_Shadow.asset",
+  "data": {
+    "GUID": "821ea6150948471da74f0ca2f47e1ab5",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Song": {
+      "MasterBundle": "buak.masterbundle",
+      "AssetPath": "Music/Lurking_Shadow.ogg"
+    },
+    "Link_URL": "https://www.youtube.com/watch?v=iKOOFf8pB20",
+    "Is_Loop": "true"
+  },
+  "translation": {
+    "Name": "Lurking Shadow - staswalle"
+  }
+}

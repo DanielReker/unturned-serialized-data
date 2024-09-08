@@ -1,0 +1,42 @@
+{
+  "name": "Wooden_Concave_Ramp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Structures/WD/CX/Wooden_Concave_Ramp/Wooden_Concave_Ramp.dat",
+  "data": {
+    "GUID": "2a97f79627f2494db148208a36ef020a",
+    "Type": "Structure",
+    "Rarity": "Rare",
+    "Useable": "Structure",
+    "Construct": "Roof",
+    "ID": "51731",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.55",
+    "Health": "500",
+    "Range": "8",
+    "Explosion": "29",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51023",
+    "Blueprint_0_Supply_0_Amount": "5",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Tool": "51025",
+    "Blueprint_0_Tool_Critical": "",
+    "Blueprint_1_Type": "Structure",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51731",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "51023",
+    "Blueprint_1_Output_0_Amount": "3",
+    "Blueprint_1_Build": "27",
+    "Blueprint_1_Tool": "51025",
+    "Blueprint_1_Tool_Critical": "",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Wooden Concave Ramp",
+    "Description": "Wooden concave ramp. Beware of termites."
+  }
+}

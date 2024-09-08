@@ -1,0 +1,13 @@
+{
+  "name": "Renault_Black",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Large/Vehicles/Renault_Black/Renault_Black.dat",
+  "data": {
+    "GUID": "7b9a0654ca7349e8956e088fbe536e1e",
+    "Type": "Large",
+    "ID": "35068",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Black Cargo Truck"
+  }
+}

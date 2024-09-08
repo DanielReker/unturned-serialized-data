@@ -1,0 +1,13 @@
+{
+  "name": "PS_Industrial_Fence_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Industrial_Fence_4/PS_Industrial_Fence_4.dat",
+  "data": {
+    "GUID": "697cd67302624f828b476baf2d394b36",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59450"
+  },
+  "translation": {
+    "Name": "PS Industrial Fence #5"
+  }
+}

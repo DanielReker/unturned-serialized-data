@@ -1,0 +1,14 @@
+{
+  "name": "Supply_Stranded_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Supply_Depot/Supply_Stranded_Completed/Asset.dat",
+  "data": {
+    "GUID": "fa03775fb5404d0fa5f72a3f1ef21c29",
+    "Type": "Dialogue",
+    "ID": "3396",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I guess you're more committed then I first thought. Good Job."
+  }
+}

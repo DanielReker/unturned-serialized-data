@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Civilian",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Transporters",
+        "chance": 0.300000042,
+        "table": [
+          {
+            "vehicle": 5013
+          },
+          {
+            "vehicle": 5014
+          },
+          {
+            "vehicle": 5015
+          },
+          {
+            "vehicle": 5016
+          },
+          {
+            "vehicle": 5017
+          },
+          {
+            "vehicle": 5018
+          },
+          {
+            "vehicle": 5019
+          },
+          {
+            "vehicle": 5020
+          },
+          {
+            "vehicle": 5021
+          },
+          {
+            "vehicle": 5031
+          },
+          {
+            "vehicle": 5032
+          },
+          {
+            "vehicle": 5033
+          },
+          {
+            "vehicle": 5034
+          }
+        ]
+      },
+      {
+        "name": "Cruisers",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5023
+          },
+          {
+            "vehicle": 5024
+          },
+          {
+            "vehicle": 5025
+          },
+          {
+            "vehicle": 5026
+          },
+          {
+            "vehicle": 5027
+          },
+          {
+            "vehicle": 5028
+          },
+          {
+            "vehicle": 5029
+          },
+          {
+            "vehicle": 5030
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "High-Class Civilian",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "High Class",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5001
+          },
+          {
+            "vehicle": 5002
+          },
+          {
+            "vehicle": 5003
+          },
+          {
+            "vehicle": 5004
+          },
+          {
+            "vehicle": 5005
+          },
+          {
+            "vehicle": 5006
+          },
+          {
+            "vehicle": 5007
+          },
+          {
+            "vehicle": 5008
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.7372549,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Fire",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Firetruck",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5044
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0
+    }
+  },
+  {
+    "name": "Military",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Humvee",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5036
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.9098039,
+      "b": 0.533333361
+    }
+  },
+  {
+    "name": "Aerial Military",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Common",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5038
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.8509804,
+      "b": 0.4
+    }
+  },
+  {
+    "name": "Special Military",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Tank",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5035
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.992156863,
+      "b": 0.545098066
+    }
+  },
+  {
+    "name": "Militia Plane",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Sandspitter",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5037
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.3137255,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Police",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Stallion",
+        "chance": 0.399999976,
+        "table": [
+          {
+            "vehicle": 5009
+          }
+        ]
+      },
+      {
+        "name": "Truck",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5000
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.392156869
+    }
+  },
+  {
+    "name": "Bus",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Bus",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5043
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.8156863,
+      "g": 0.305882365,
+      "b": 0.274509817
+    }
+  },
+  {
+    "name": "Stamina Boat",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Boat",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5011
+          },
+          {
+            "vehicle": 5012
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    }
+  },
+  {
+    "name": "Deadzone APC",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "APC",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5010
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.419607848,
+      "g": 0.819607854,
+      "b": 0.3647059
+    }
+  },
+  {
+    "name": "Trucks",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Truck",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5031
+          },
+          {
+            "vehicle": 5032
+          },
+          {
+            "vehicle": 5033
+          },
+          {
+            "vehicle": 5034
+          },
+          {
+            "vehicle": 5015
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.7058824,
+      "b": 0.0235294122
+    }
+  },
+  {
+    "name": "Lockable Ships",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Stupid Little Baby Ships",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5039
+          },
+          {
+            "vehicle": 5040
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 0.607843161,
+      "b": 0.6156863
+    }
+  },
+  {
+    "name": "Stallion RC",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Stallion",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 5022
+          },
+          {
+            "vehicle": 5041
+          },
+          {
+            "vehicle": 5042
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.8980392,
+      "g": 0.3647059,
+      "b": 0.349019617
+    }
+  }
+]

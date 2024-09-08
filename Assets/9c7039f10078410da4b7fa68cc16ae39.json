@@ -1,0 +1,41 @@
+{
+  "name": "PS_Random_2_Quest_10",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Random_2_Dialogue/PS_Random_2_Quest_10/Asset.dat",
+  "data": {
+    "GUID": "9c7039f10078410da4b7fa68cc16ae39",
+    "Type": "Quest",
+    "ID": "59212",
+    "Conditions": "3",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59094 ",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "59046 ",
+    "Condition_1_Amount": "1",
+    "Condition_1_Reset": "",
+    "Condition_2_Type": "Item",
+    "Condition_2_ID": "59056 ",
+    "Condition_2_Amount": "1",
+    "Condition_2_Reset": "",
+    "Rewards": "4",
+    "Reward_3_Type": "Flag_Short",
+    "Reward_3_ID": "59347",
+    "Reward_3_Value": "1",
+    "Reward_3_Modification": "Increment",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "600",
+    "Reward_1_Type": "Flag_Short_Random",
+    "Reward_1_ID": "59224",
+    "Reward_1_Min_Value": "0",
+    "Reward_1_Max_Value": "17",
+    "Reward_1_Modification": "Assign",
+    "Reward_2_Type": "Item",
+    "Reward_2_ID": "59342",
+    "Reward_2_Amount": "1"
+  },
+  "translation": {
+    "Name": "Hiking Enthusiast",
+    "Description": "Bring 1x <color=#4b64fa>Camping Pack</color>, 1x <color=#1f871f>Canned Beans</color> and 1x <color=#1f871f>Bottled Water</color>."
+  }
+}

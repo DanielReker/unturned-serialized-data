@@ -1,0 +1,24 @@
+{
+  "name": "Buak_Dirt_Collection",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Landscapes/Collections/Buak_Dirt_Collection.asset",
+  "data": {
+    "GUID": "4ad904f871be42c58a98f67fde4d214b",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "47dd8cada53545ef9ab1a87026759e28"
+        },
+        "Weight": "0.02"
+      },
+      {
+        "Asset": {
+          "GUID": "8fa765f5bed747d9b10ca96810b008d9"
+        },
+        "Weight": "0.02"
+      }
+    ]
+  },
+  "translation": null
+}

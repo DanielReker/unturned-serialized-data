@@ -1,0 +1,13 @@
+{
+  "name": "PS_Graffiti_58",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Graffiti_58/PS_Graffiti_58.dat",
+  "data": {
+    "GUID": "9a35fb0561f8427592f3268ff5f5b405",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "60008"
+  },
+  "translation": {
+    "Name": "PS Graffiti #59 [Blizzard]"
+  }
+}

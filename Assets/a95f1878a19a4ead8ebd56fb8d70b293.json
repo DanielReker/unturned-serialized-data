@@ -1,0 +1,32 @@
+{
+  "name": "CampAmmo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Camp/CampAmmo/CampAmmo.dat",
+  "data": {
+    "GUID": "a95f1878a19a4ead8ebd56fb8d70b293",
+    "Type": "Spawn",
+    "ID": "51073",
+    "Tables": [
+      {
+        "Guid": "52a43d9cf72843a7b6d2410885f001ef",
+        "Weight": "4"
+      },
+      {
+        "Guid": "89ca704a018f4b7590d4f25eff758054",
+        "Weight": "4"
+      },
+      {
+        "Guid": "11e199ee44f34f8683d98f83870667e3",
+        "Weight": "3"
+      },
+      {
+        "Guid": "2316fd2a2d5641c790c0197ce7ff4274",
+        "Weight": "2"
+      },
+      {
+        "Guid": "cc283a092cd5496a86c2447229eaef03",
+        "Weight": "2"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PBS_EOD_Actual_Vend_Comp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_EOD_Actual/PBS_EOD_Actual_Vend_Comp/Asset.dat",
+  "data": {
+    "GUID": "454ffcff0670419ab702398490296300",
+    "Type": "Dialogue",
+    "ID": "52599",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Happy to take these off your hands."
+  }
+}

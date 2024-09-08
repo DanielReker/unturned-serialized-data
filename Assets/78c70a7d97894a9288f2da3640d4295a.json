@@ -1,0 +1,14 @@
+{
+  "name": "28653KBQC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/2/D/28651KB2D/28653KBQC/Asset.dat",
+  "data": {
+    "GUID": "78c70a7d97894a9288f2da3640d4295a",
+    "Type": "Dialogue",
+    "ID": "28653",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Good job. It will be much safer to pass through."
+  }
+}

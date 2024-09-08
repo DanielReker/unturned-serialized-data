@@ -1,0 +1,13 @@
+{
+  "name": "Chef_Pants",
+  "path": "Bundles/Spawns/Items/Chef_Pants/Chef_Pants.dat",
+  "data": {
+    "GUID": "35f20f4ae0e04c64922842ad401930d5",
+    "Type": "Spawn",
+    "ID": "206",
+    "Tables": "1",
+    "Table_0_Asset_ID": "231",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

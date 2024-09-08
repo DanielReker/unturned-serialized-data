@@ -1,0 +1,32 @@
+{
+  "name": "PS_Oxygenator",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Barricades/PS_Oxygenator/PS_Oxygenator.dat",
+  "data": {
+    "GUID": "d8ff5cbaae544b798f2b3d9919e73518",
+    "Type": "Barricade",
+    "Rarity": "Rare",
+    "Useable": "Barricade",
+    "Has_Clip_Prefab": "False",
+    "Build": "Oxygenator",
+    "ID": "59856",
+    "SalvageItem": "d8ff5cbaae544b798f2b3d9919e73518",
+    "Min_Items_Dropped_On_Destroy": "1",
+    "Max_Items_Dropped_On_Destroy": "1",
+    "Item_Dropped_On_Destroy": "3178a92ce5674cd884b185f689e60e12",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.582",
+    "Health": "300",
+    "Range": "4",
+    "Radius": "0.45",
+    "Offset": "0.577",
+    "Explosion": "36",
+    "Vulnerable": "",
+    "PlacementAudioClip": "Sounds/MetalPlacement.mp3",
+    "Salvage_Duration_Multiplier": "0.3"
+  },
+  "translation": {
+    "Name": "Oxygenator",
+    "Description": "Electricity powered oxygen generator."
+  }
+}

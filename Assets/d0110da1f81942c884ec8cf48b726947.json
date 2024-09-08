@@ -1,0 +1,14 @@
+{
+  "name": "Here_Accept",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Kira/Kira_00/Here_Accept/Asset.dat",
+  "data": {
+    "GUID": "d0110da1f81942c884ec8cf48b726947",
+    "Type": "Dialogue",
+    "ID": "24615",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Glad to hear!"
+  }
+}

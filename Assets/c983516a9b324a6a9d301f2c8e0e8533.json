@@ -1,0 +1,12 @@
+{
+  "name": "PBS_Purple_Hole_Aura",
+  "path": "Bundles/Mythics/PBS_Purple_Hole_Aura/PBS_Purple_Hole_Aura.dat",
+  "data": {
+    "GUID": "c983516a9b324a6a9d301f2c8e0e8533",
+    "Type": "Mythic",
+    "ID": "54"
+  },
+  "translation": {
+    "Particle_Tag_Name": "Singularity"
+  }
+}

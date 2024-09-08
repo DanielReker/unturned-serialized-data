@@ -1,0 +1,26 @@
+{
+  "name": "PS_Black_Box_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Quest_Objects/PS_Black_Box_0/PS_Black_Box_0.dat",
+  "data": {
+    "GUID": "fc37e10b7af44c80a555cbc6449c2daa",
+    "Type": "Small",
+    "ID": "59896",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Objects/Smol/PS_Black_Box_0",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "59424",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "59424",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "PS Black Box #1",
+    "Interact": "Pickup [{0}]"
+  }
+}

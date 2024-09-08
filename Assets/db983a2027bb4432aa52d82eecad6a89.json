@@ -1,0 +1,10 @@
+{
+  "name": "Beekeeper_Pants",
+  "path": "Bundles/Items/Outfits/Beekeeper/Beekeeper_Pants/Beekeeper_Pants.dat",
+  "data": {
+    "GUID": "db983a2027bb4432aa52d82eecad6a89",
+    "Type": "Pants",
+    "Pro": ""
+  },
+  "translation": null
+}

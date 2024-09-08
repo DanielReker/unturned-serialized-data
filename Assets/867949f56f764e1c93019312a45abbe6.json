@@ -1,0 +1,25 @@
+{
+  "name": "Kuwait_Vase_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Small/Quests/Kuwait_Vase_0/Kuwait_Vase_0.dat",
+  "data": {
+    "GUID": "867949f56f764e1c93019312a45abbe6",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "5060",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "28056",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "28056",
+    "Interactability_Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Kuwait Vase #1 (QUEST ITEM)",
+    "Interact": "Pickup Vase [{0}]"
+  }
+}

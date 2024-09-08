@@ -1,0 +1,20 @@
+{
+  "name": "Kuwait_Outlands_Trapdoor_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Quests/Kuwait_Outlands/Kuwait_Outlands_Trapdoor_1/Kuwait_Outlands_Trapdoor_1.dat",
+  "data": {
+    "GUID": "782f4a4b51ba4d19a3384896350fb50e",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "5999",
+    "Chart": "Ignore",
+    "GPS": "Ignore",
+    "Interactability": "Quest",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Teleport",
+    "Interactability_Reward_0_Spawnpoint": "5304"
+  },
+  "translation": {
+    "Name": "Kuwait Final Trapdoor #2",
+    "Interact": "One more thing, if you allow me."
+  }
+}

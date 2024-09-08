@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Vines_6",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Overgrowth/Metro_Vines_6/Metro_Vines_6.dat",
+  "data": {
+    "GUID": "f70667595cb24d469cafc57568006e1e",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57287",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Vines #7"
+  }
+}

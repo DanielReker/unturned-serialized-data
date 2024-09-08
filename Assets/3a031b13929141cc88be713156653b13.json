@@ -1,0 +1,22 @@
+{
+  "name": "Buak_Snow_00_Material",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Landscapes/Materials/Buak_Snow_00_Material.asset",
+  "data": {
+    "GUID": "3a031b13929141cc88be713156653b13",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "buak.masterbundle",
+      "Path": "Materials/Buak_Snow_00.png"
+    },
+    "Mask": {
+      "Name": "buak.masterbundle",
+      "Path": "Materials/Buak_Snow_Mask_00.png"
+    },
+    "Physics_Material": "SNOW_STATIC",
+    "Foliage": {
+      "GUID": "4ad904f871be42c58a98f67fde4d214b"
+    }
+  },
+  "translation": null
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Seed_Cherry",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Tools/Seed_Cherry/Seed_Cherry.dat",
+  "data": {
+    "GUID": "69b9a295d0fc41a18f9010c892eb3e4c",
+    "Type": "Farm",
+    "Rarity": "Common",
+    "Useable": "Barricade",
+    "Build": "Farm",
+    "ID": "25434",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.18",
+    "Use_Auto_Icon_Measurements": "False",
+    "Has_Clip_Prefab": "false",
+    "Unrepairable": "",
+    "Salvage_Duration_Multiplier": ".3",
+    "Bypass_Pickup_Ownership": "True",
+    "Health": "1",
+    "Range": "4",
+    "Radius": "0.33",
+    "Offset": "0.75",
+    "Growth": "12000",
+    "Grow_SpawnTable": "4cc0f613cc05400a85bd34d5d312e2fc",
+    "Explosion": "25358",
+    "Vulnerable": "",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "25745",
+    "Blueprint_0_Build": "25530",
+    "PlacementAudioClip": "Sounds/Placement/FoliagePlacement.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Cherry Seed",
+    "Description": "Ready for planting and growing."
+  }
+}

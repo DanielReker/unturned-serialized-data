@@ -1,0 +1,13 @@
+{
+  "name": "Hesco_0",
+  "path": "Bundles/Objects/Medium/Military/Hesco_0/Hesco_0.dat",
+  "data": {
+    "GUID": "de4817ed3deb459cb40bc486e0a5feea",
+    "Type": "Medium",
+    "ID": "224",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Hesco #1"
+  }
+}

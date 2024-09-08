@@ -1,0 +1,24 @@
+{
+  "name": "Dima Voronec",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatLegacy/NPCs/Carpat_NPCS/Characters/Dima Voronec/Asset.dat",
+  "data": {
+    "GUID": "c0ba393e36df425db9a2319299a49068",
+    "Type": "NPC",
+    "ID": "9150",
+    "Hat": "425",
+    "Shirt": "23530",
+    "Pants": "23531",
+    "Vest": "23533",
+    "Face": "25",
+    "Hair": "1",
+    "Color_Skin": "#F9E8C7",
+    "Color_Hair": "#211500",
+    "Primary": "23001",
+    "Equipped": "Primary",
+    "Dialogue": "9151"
+  },
+  "translation": {
+    "Name": "Marauder Guardian",
+    "Character": "<color=rare>Marauder Guardianh</color>"
+  }
+}

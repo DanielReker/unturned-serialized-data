@@ -1,0 +1,12 @@
+{
+  "name": "CA_Sofa_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Sofa_1/CA_Sofa_1.dat",
+  "data": {
+    "GUID": "ace92a847c1c4dbfba0860bfc5382edc",
+    "Type": "Medium",
+    "ID": "4374"
+  },
+  "translation": {
+    "Name": "California Sofa #2"
+  }
+}

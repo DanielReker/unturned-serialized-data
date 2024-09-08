@@ -1,0 +1,15 @@
+{
+  "name": "Hat_Gray_5",
+  "path": "Bundles/Items/Hats/Hat_Gray_5/Hat_Gray_5.dat",
+  "data": {
+    "GUID": "45abf2ff643f43959eebf79284352461",
+    "Type": "Hat",
+    "ID": "813",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.35",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

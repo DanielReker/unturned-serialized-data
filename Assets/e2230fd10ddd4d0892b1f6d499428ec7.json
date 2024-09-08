@@ -1,0 +1,32 @@
+{
+  "name": "PS_Deadzone_Munitions_Common",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/PS_Deadzone_Munitions_Common/PS_Deadzone_Munitions_Common.dat",
+  "data": {
+    "GUID": "e2230fd10ddd4d0892b1f6d499428ec7",
+    "Type": "Spawn",
+    "ID": "59193",
+    "Tables": [
+      {
+        "LegacyAssetId": "59542",
+        "Weight": "4"
+      },
+      {
+        "LegacyAssetId": "59543",
+        "Weight": "4"
+      },
+      {
+        "LegacyAssetId": "59937",
+        "Weight": "4"
+      },
+      {
+        "LegacyAssetId": "59541",
+        "Weight": "4"
+      },
+      {
+        "LegacyAssetId": "59679",
+        "Weight": "4"
+      }
+    ]
+  },
+  "translation": null
+}

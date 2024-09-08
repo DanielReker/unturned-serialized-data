@@ -1,0 +1,16 @@
+{
+  "name": "Buak_Trashbag_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Trashbag_00/Buak_Trashbag_00.dat",
+  "data": {
+    "GUID": "5f8e6e20807c4e0e884e9ece8816b3a2",
+    "Type": "Medium",
+    "ID": "25300",
+    "Material_Palette": "f7b89c36ce6d401bb2967e35fb0f95ce",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false",
+    "Causes_Fall_Damage": "False"
+  },
+  "translation": {
+    "Name": "Buak_Trashbag_00"
+  }
+}

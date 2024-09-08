@@ -1,0 +1,13 @@
+{
+  "name": "PS_Wedge_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Wedge_0/PS_Wedge_0.dat",
+  "data": {
+    "GUID": "87e8a09595ff4052a736e455dceb5e75",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "60224"
+  },
+  "translation": {
+    "Name": "PS Wheel Wedge #1"
+  }
+}

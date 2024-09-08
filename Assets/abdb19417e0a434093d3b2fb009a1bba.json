@@ -1,0 +1,17 @@
+{
+  "name": "Tiki_Hawaii_Weapons",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Spawns/Hawaii/Tiki_Hawaii_Weapons/Tiki_Hawaii_Weapons.dat",
+  "data": {
+    "GUID": "abdb19417e0a434093d3b2fb009a1bba",
+    "Type": "Spawn",
+    "ID": "839",
+    "Tables": "3",
+    "Table_0_Asset_ID": "2015",
+    "Table_0_Weight": "10",
+    "Table_1_Asset_ID": "2014",
+    "Table_1_Weight": "10",
+    "Table_2_Asset_ID": "2020",
+    "Table_2_Weight": "10"
+  },
+  "translation": null
+}

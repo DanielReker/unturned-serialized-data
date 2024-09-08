@@ -1,0 +1,34 @@
+{
+  "name": "Metro_VAL_Stock",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Ranger/Metro_VAL_Stock/Metro_VAL_Stock.dat",
+  "data": {
+    "GUID": "1741e98c477c4c4aace275f149c870d2",
+    "Type": "Tactical",
+    "Rarity": "Rare",
+    "ID": "57054",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.15",
+    "Calibers": "5",
+    "Caliber_0": "57000",
+    "Caliber_1": "57001",
+    "Caliber_2": "57003",
+    "Caliber_3": "57004",
+    "Caliber_4": "57005",
+    "Spread": "0.45",
+    "Recoil_X": "0.3",
+    "Recoil_Y": "0.3",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "57054",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "67",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Valentine Stock",
+    "Description": "<color=#64c819>-70%</color> Recoil                                               <color=#64c819>-55%</color> Spread"
+  }
+}

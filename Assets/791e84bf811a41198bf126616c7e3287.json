@@ -1,0 +1,11 @@
+{
+  "name": "Pharaoh_Hat",
+  "path": "Bundles/Items/Outfits/Pharaoh/Pharaoh_Hat/Pharaoh_Hat.dat",
+  "data": {
+    "GUID": "791e84bf811a41198bf126616c7e3287",
+    "Type": "Hat",
+    "Pro": "",
+    "Beard": ""
+  },
+  "translation": null
+}

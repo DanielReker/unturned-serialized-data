@@ -1,0 +1,26 @@
+{
+  "name": "Metro_Note_Purple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/Metro_Note_Purple/Metro_Note_Purple.dat",
+  "data": {
+    "GUID": "caf8cb1b516846d9bf58421ade56bcd7",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57422",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "1",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57005",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Asset_Bundle_Version": "3",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note"
+  },
+  "translation": {
+    "Name": "Metro Note [PURPLE]",
+    "Interactability_Text_Line_0": "After the successful demolition of the southern tunnel Team B returned to base completely intact. They had to leave in a rush though as the sun started to set and hordes assembled. In their swift escape, one of the workers had left his beloved guitar in one of the tunnels. Plans to retrieve it were promptly cancelled as the number of infected quickly grew."
+  }
+}

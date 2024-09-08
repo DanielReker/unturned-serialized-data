@@ -1,0 +1,20 @@
+{
+  "name": "Metro_Laptop_Screen_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/DJ/Metro_Laptop_Screen_1/Metro_Laptop_Screen_1.dat",
+  "data": {
+    "GUID": "b145c5ff13964fd9a68231e9e169904e",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "57534",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "57200",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro DJ [Laptop Screen #1]"
+  }
+}

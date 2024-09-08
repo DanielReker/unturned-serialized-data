@@ -1,0 +1,17 @@
+{
+  "name": "France_Ammunition",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Objects/France/Small/Quests/France_Ammunition/France_Ammunition.dat",
+  "data": {
+    "GUID": "a09c44454a0146e99be5da1fd5b0f92c",
+    "Type": "Small",
+    "ID": "35184",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "4162",
+    "Condition_0_Value": "6",
+    "Condition_0_Logic": "Equal"
+  },
+  "translation": {
+    "Name": "France Ammunition Crate (Turned In)"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Research_Brazil",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Spawns/Items/Research_Brazil/Research_Brazil.dat",
+  "data": {
+    "GUID": "8e04579919b34a388e21a399d90f9b95",
+    "Type": "Spawn",
+    "ID": "5029",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "5028",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

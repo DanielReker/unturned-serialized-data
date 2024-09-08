@@ -1,0 +1,13 @@
+{
+  "name": "Military_America_Vests",
+  "path": "Bundles/Spawns/Items/Military_America_Vests/Military_America_Vests.dat",
+  "data": {
+    "GUID": "9d00a8508be44bd1bdb918e53cd09596",
+    "Type": "Spawn",
+    "ID": "342",
+    "Tables": "1",
+    "Table_0_Asset_ID": "1013",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

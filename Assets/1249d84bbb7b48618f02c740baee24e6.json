@@ -1,0 +1,24 @@
+{
+  "name": "Rio_Dead_00_Collection",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Assets/Foliage/Rio_Dead_00_Collection.asset",
+  "data": {
+    "GUID": "1249d84bbb7b48618f02c740baee24e6",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "bfe05bf4613643cd99e601c61aa3f747"
+        },
+        "Weight": "1"
+      },
+      {
+        "Asset": {
+          "GUID": "463d73c0a15445ab9d1de075d73ca072"
+        },
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

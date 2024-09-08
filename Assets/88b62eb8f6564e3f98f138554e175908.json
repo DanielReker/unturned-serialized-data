@@ -1,0 +1,14 @@
+{
+  "name": "Metro_Dumpster_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Dumpster_2/Metro_Dumpster_2.dat",
+  "data": {
+    "GUID": "88b62eb8f6564e3f98f138554e175908",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57140",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Dumpster #3"
+  }
+}

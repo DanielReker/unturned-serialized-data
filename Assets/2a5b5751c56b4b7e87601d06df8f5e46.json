@@ -1,0 +1,17 @@
+{
+  "name": "Bane_Iron_Sights",
+  "path": "Bundles/Items/Sights/Bane_Iron_Sights/Bane_Iron_Sights.dat",
+  "data": {
+    "GUID": "2a5b5751c56b4b7e87601d06df8f5e46",
+    "Type": "Sight",
+    "ID": "1486",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.1",
+    "Paintable": ""
+  },
+  "translation": {
+    "Name": "Devil's Bane Iron Sights",
+    "Description": "Rail mounted iron sights."
+  }
+}

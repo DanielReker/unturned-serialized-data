@@ -1,0 +1,23 @@
+{
+  "name": "BP_Sight_Holo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Blueprints/BP_Sight_Holo/Asset.dat",
+  "data": {
+    "GUID": "17207d8feafd4c8781ea5da5460346a4",
+    "Type": "Quest",
+    "ID": "24891",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "e0b6a0dac761467f990e2278f5eed988",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Rewards": "1",
+    "Reward_0_Type": "Flag_Bool",
+    "Reward_0_ID": "24890",
+    "Reward_0_Value": "True"
+  },
+  "translation": {
+    "Name": "Holo Sight Research Quest",
+    "Description": "Researching.",
+    "Reward_2": "Holo Sight Recipe"
+  }
+}

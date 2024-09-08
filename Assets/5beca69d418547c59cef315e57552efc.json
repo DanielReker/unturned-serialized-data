@@ -1,0 +1,14 @@
+{
+  "name": "WaterPool_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1753131903/Objects/Hawaii/WaterPool_0/WaterPool_0.dat",
+  "data": {
+    "GUID": "5beca69d418547c59cef315e57552efc",
+    "Type": "Large",
+    "ID": "45687",
+    "Asset_Bundle_Version": "2",
+    "Collision_Important": ""
+  },
+  "translation": {
+    "Name": "Water Park #7"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PaintingDarn",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingDarn/PaintingDarn.dat",
+  "data": {
+    "GUID": "0e1e99637ddb4ede9b900b70ec794925",
+    "Type": "Spawn",
+    "ID": "51291",
+    "Tables": [
+      {
+        "Guid": "cebcc35f813b4f70ad96c1acfca8afd5",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

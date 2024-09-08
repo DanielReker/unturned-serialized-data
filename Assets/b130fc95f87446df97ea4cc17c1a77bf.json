@@ -1,0 +1,25 @@
+{
+  "name": "Buak_Cooler",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/Buak_Cooler/Buak_Cooler.dat",
+  "data": {
+    "GUID": "b130fc95f87446df97ea4cc17c1a77bf",
+    "Type": "Spawn",
+    "ID": "25341",
+    "Tables": "7",
+    "Table_0_Asset_ID": "25785",
+    "Table_0_Weight": "1000",
+    "Table_1_Asset_ID": "25780",
+    "Table_1_Weight": "500",
+    "Table_2_Asset_ID": "25781",
+    "Table_2_Weight": "500",
+    "Table_3_Asset_ID": "25782",
+    "Table_3_Weight": "500",
+    "Table_4_Asset_ID": "25783",
+    "Table_4_Weight": "500",
+    "Table_5_Asset_ID": "25799",
+    "Table_5_Weight": "500",
+    "Table_6_Asset_ID": "25773",
+    "Table_6_Weight": "5"
+  },
+  "translation": null
+}

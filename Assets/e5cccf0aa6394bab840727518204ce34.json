@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Q_AG_En_5_C",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Quests/AG_00/Buak_Q_AG_En_5_C/Buak_Q_AG_En_5_C.dat",
+  "data": {
+    "GUID": "e5cccf0aa6394bab840727518204ce34",
+    "Type": "Large",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Q_AG_En_5_C"
+  }
+}

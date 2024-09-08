@@ -1,0 +1,42 @@
+{
+  "name": "PS_HEAT_Shell_Box",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Magazines/PS_HEAT_Shell_Box/PS_HEAT_Shell_Box.dat",
+  "data": {
+    "GUID": "4f14ee35d89c4faea2122d11bb70d3a6",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "ID": "59354",
+    "Size_X": "7",
+    "Size_Y": "5",
+    "Size_Z": "0.9",
+    "Amount": "10",
+    "Ammo_Min": "10",
+    "Ammo_Max": "10",
+    "Calibers": "1",
+    "Caliber_0": "59354",
+    "Use_Auto_Icon_Measurements": "False",
+    "Blueprints": "3",
+    "Blueprint_0_Type": "Ammo",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59022",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "30",
+    "Blueprint_1_Type": "Ammo",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "59354",
+    "Blueprint_1_Build": "30",
+    "Blueprint_2_Type": "Tool",
+    "Blueprint_2_Supplies": "2",
+    "Blueprint_2_Supply_0_ID": "59022",
+    "Blueprint_2_Supply_0_Amount": "10",
+    "Blueprint_2_Supply_1_ID": "59009",
+    "Blueprint_2_Supply_1_Amount": "3",
+    "Blueprint_2_Tool": "59375",
+    "Blueprint_2_Tool_Critical": "",
+    "Blueprint_2_Build": "27"
+  },
+  "translation": {
+    "Name": "HEAT Shell Box",
+    "Description": "Box of high explosive shells. Compatible with <color=#c832fa>M11 Bruno</color> tank."
+  }
+}

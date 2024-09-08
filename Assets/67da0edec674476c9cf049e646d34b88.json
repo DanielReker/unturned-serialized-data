@@ -1,0 +1,13 @@
+{
+  "name": "PS_Submarine_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Submarine_0/PS_Submarine_0.dat",
+  "data": {
+    "GUID": "67da0edec674476c9cf049e646d34b88",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59935"
+  },
+  "translation": {
+    "Name": "PS Submarine #1"
+  }
+}

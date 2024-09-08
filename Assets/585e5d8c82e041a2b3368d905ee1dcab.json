@@ -1,0 +1,20 @@
+{
+  "name": "PS_Broken_Pick_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Resources/PS_Broken_Pick_0/PS_Broken_Pick_0.dat",
+  "data": {
+    "GUID": "585e5d8c82e041a2b3368d905ee1dcab",
+    "Type": "Resource",
+    "Has_Clip_Prefab": "False",
+    "ID": "59030",
+    "Health": "1",
+    "Radius": "3",
+    "Scale": "0",
+    "Log": "59711",
+    "Forage": "",
+    "Reset": "900"
+  },
+  "translation": {
+    "Name": "PS Broken Pick #1",
+    "Interact": "Pickup [{0}]"
+  }
+}

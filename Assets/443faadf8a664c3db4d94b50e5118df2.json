@@ -1,0 +1,27 @@
+{
+  "name": "WS_Bathroom_Counter",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/WS_Bathroom_Counter/WS_Bathroom_Counter.dat",
+  "data": {
+    "GUID": "443faadf8a664c3db4d94b50e5118df2",
+    "Type": "Spawn",
+    "ID": "25412",
+    "Tables": "8",
+    "Table_0_Asset_ID": "25357",
+    "Table_0_Weight": "200",
+    "Table_1_Asset_ID": "25331",
+    "Table_1_Weight": "100",
+    "Table_2_Asset_ID": "25619",
+    "Table_2_Weight": "100",
+    "Table_3_Asset_ID": "25354",
+    "Table_3_Weight": "80",
+    "Table_4_Asset_ID": "25353",
+    "Table_4_Weight": "50",
+    "Table_5_Asset_ID": "25620",
+    "Table_5_Weight": "50",
+    "Table_6_Spawn_ID": "25446",
+    "Table_6_Weight": "15",
+    "Table_7_Asset_ID": "26834",
+    "Table_7_Weight": "5"
+  },
+  "translation": null
+}

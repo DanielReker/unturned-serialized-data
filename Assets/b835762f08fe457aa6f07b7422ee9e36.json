@@ -1,0 +1,31 @@
+{
+  "name": "PS_Weapon_Case_AW12",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Supplies/PS_Weapon_Case_AW12/PS_Weapon_Case_AW12.dat",
+  "data": {
+    "GUID": "b835762f08fe457aa6f07b7422ee9e36",
+    "Type": "Supply",
+    "Rarity": "Legendary",
+    "ID": "59938",
+    "Size_X": "4",
+    "Size_Y": "2",
+    "Size_Z": "0.45",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "59938",
+    "Blueprint_0_Outputs": "3",
+    "Blueprint_0_Output_0_ID": "59930",
+    "Blueprint_0_Output_0_Amount": "1",
+    "Blueprint_0_Output_1_ID": "59929",
+    "Blueprint_0_Output_1_Amount": "1",
+    "Blueprint_0_Output_2_ID": "60011",
+    "Blueprint_0_Output_2_Amount": "1",
+    "Blueprint_0_Build": "27",
+    "Master_Bundle_Override": "arid.masterbundle",
+    "Bundle_Override_Path": "/Items/Barricades/PS_Weapon_Case_1"
+  },
+  "translation": {
+    "Name": "AW-12 Weapon Case",
+    "Description": "Weapon case holding weapon and ammunition."
+  }
+}

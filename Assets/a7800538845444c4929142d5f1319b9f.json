@@ -1,0 +1,14 @@
+{
+  "name": "CA_Tunnel_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Large/Other/CA_Tunnel_0/CA_Tunnel_0.dat",
+  "data": {
+    "GUID": "a7800538845444c4929142d5f1319b9f",
+    "Type": "Large",
+    "ID": "4309",
+    "Soft": "",
+    "Snowshoe": ""
+  },
+  "translation": {
+    "Name": "California Tunnel #1"
+  }
+}

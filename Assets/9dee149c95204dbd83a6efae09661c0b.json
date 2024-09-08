@@ -1,0 +1,20 @@
+{
+  "name": "Frost_Cross_01",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Frost_Cross_01/Frost_Cross_01.dat",
+  "data": {
+    "GUID": "9dee149c95204dbd83a6efae09661c0b",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "36173",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "Frost Cross #2",
+    "Interact": "Pickup [{0}]"
+  }
+}

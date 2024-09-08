@@ -1,0 +1,31 @@
+{
+  "name": "Here_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Kira/Kira_00/Here_Welcome/Asset.dat",
+  "data": {
+    "GUID": "5b5d0f1d56f64a308a4201579d939e00",
+    "Type": "Dialogue",
+    "ID": "24617",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "11",
+    "Responses": "2",
+    "Response_0_Dialogue": "5a5e408073174e4aa546231fef680db3",
+    "Response_0_Quest": "c778947f76e14542a2dd35a26cdfdd00",
+    "Response_0_Conditions": "1",
+    "Response_0_Condition_0_Type": "Quest",
+    "Response_0_Condition_0_Logic": "Equal",
+    "Response_0_Condition_0_ID": "c778947f76e14542a2dd35a26cdfdd00",
+    "Response_0_Condition_0_Status": "None",
+    "Response_0_Rewards": "2",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "c778947f76e14542a2dd35a26cdfdd00",
+    "Response_0_Reward_1_Type": "Flag_Bool",
+    "Response_0_Reward_1_ID": "24612",
+    "Response_0_Reward_1_Value": "False"
+  },
+  "translation": {
+    "Message_0_Page_0": "…You cleared them? Thanks. We have been wanting to make this place our new home, and I suppose we can start moving in now thanks to you. OH! One last thing, we dropped some luggage a little ways down this road, would you mind grabbing it and bringing it back here? It should be a red suitcase.",
+    "Response_0": "Sure thing!",
+    "Response_1": "Not now."
+  }
+}

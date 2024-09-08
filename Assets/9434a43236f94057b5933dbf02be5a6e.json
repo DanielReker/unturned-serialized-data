@@ -1,0 +1,14 @@
+{
+  "name": "PS_Gas_Flare_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Gas_Flare_0/PS_Gas_Flare_0.dat",
+  "data": {
+    "GUID": "9434a43236f94057b5933dbf02be5a6e",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59406",
+    "Exclude_From_Level_Batching": "true"
+  },
+  "translation": {
+    "Name": "PS Gas Flare #1"
+  }
+}

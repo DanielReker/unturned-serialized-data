@@ -1,0 +1,14 @@
+{
+  "name": "28853KOQC",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/D/28851KOMD/28853KOQC/Asset.dat",
+  "data": {
+    "GUID": "8db9d438c3dd4da880785c6029c0d1c8",
+    "Type": "Dialogue",
+    "ID": "28853",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Šukran gazīlan. We can find out more about these ruins now."
+  }
+}

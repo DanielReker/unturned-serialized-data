@@ -1,0 +1,13 @@
+{
+  "name": "France_German_Border_France",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/Spawns/France_Items/France_German_Border_France/France_German_Border_France.dat",
+  "data": {
+    "GUID": "7a62e125ad624a6bb1fb273cc80807f3",
+    "Type": "Spawn",
+    "ID": "2106",
+    "Tables": "1",
+    "Table_0_Spawn_ID": "684",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

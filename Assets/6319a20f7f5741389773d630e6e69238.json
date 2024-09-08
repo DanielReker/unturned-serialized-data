@@ -1,0 +1,13 @@
+{
+  "name": "PS_Ladder_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Ladder_4/PS_Ladder_4.dat",
+  "data": {
+    "GUID": "6319a20f7f5741389773d630e6e69238",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59223"
+  },
+  "translation": {
+    "Name": "PS Ladder #5"
+  }
+}

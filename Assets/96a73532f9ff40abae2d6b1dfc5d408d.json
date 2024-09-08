@@ -1,0 +1,13 @@
+{
+  "name": "Spartan_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/Spartan_1/Spartan_1.dat",
+  "data": {
+    "GUID": "96a73532f9ff40abae2d6b1dfc5d408d",
+    "Type": "Large",
+    "ID": "3542",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Spartan Broken"
+  }
+}

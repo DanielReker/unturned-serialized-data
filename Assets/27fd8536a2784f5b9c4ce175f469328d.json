@@ -1,0 +1,17 @@
+{
+  "name": "Kuwait_Electrical_Components",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Supplies/Kuwait_Electrical_Components/Kuwait_Electrical_Components.dat",
+  "data": {
+    "GUID": "27fd8536a2784f5b9c4ce175f469328d",
+    "Type": "Supply",
+    "Rarity": "Uncommon",
+    "ID": "5567",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.15"
+  },
+  "translation": {
+    "Name": "Electrical Components",
+    "Description": "Various components used in crafting."
+  }
+}

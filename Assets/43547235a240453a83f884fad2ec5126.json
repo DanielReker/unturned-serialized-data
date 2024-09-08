@@ -1,0 +1,34 @@
+{
+  "name": "Mechanic_Cypress_Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/NPCs/Dialogue/Mechanic_Omega/Mechanic_Cypress_Welcome/Asset.dat",
+  "data": {
+    "GUID": "43547235a240453a83f884fad2ec5126",
+    "Type": "Dialogue",
+    "ID": "3606",
+    "Messages": "2",
+    "Message_0_Pages": "1",
+    "Message_0_Conditions": "1",
+    "Message_0_Condition_0_Type": "Flag_Short",
+    "Message_0_Condition_0_ID": "3017",
+    "Message_0_Condition_0_Value": "-2",
+    "Message_0_Condition_0_Logic": "Greater_Than",
+    "Message_0_Condition_0_Allow_Unset": "",
+    "Message_1_Pages": "1",
+    "Message_1_Conditions": "1",
+    "Message_1_Condition_0_Type": "Flag_Short",
+    "Message_1_Condition_0_ID": "3017",
+    "Message_1_Condition_0_Value": "-2",
+    "Message_1_Condition_0_Logic": "Less_Than_Or_Equal_To",
+    "Responses": "2",
+    "Response_0_Messages": "1",
+    "Response_0_Message_0": "1",
+    "Response_1_Messages": "1",
+    "Response_1_Message_0": "0"
+  },
+  "translation": {
+    "Message_0_Page_0": "You're getting in our way, leave!",
+    "Message_1_Page_0": "No undead or any enemies will stand a chance when we're done here.",
+    "Response_0": "We'll be unstoppable!",
+    "Response_1": "Sorry!"
+  }
+}

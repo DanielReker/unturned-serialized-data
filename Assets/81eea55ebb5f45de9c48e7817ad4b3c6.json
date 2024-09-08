@@ -1,0 +1,13 @@
+{
+  "name": "PS_Gym_Equipment_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Gym_Equipment_1/PS_Gym_Equipment_1.dat",
+  "data": {
+    "GUID": "81eea55ebb5f45de9c48e7817ad4b3c6",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59770"
+  },
+  "translation": {
+    "Name": "PS Gym Equipment #2"
+  }
+}

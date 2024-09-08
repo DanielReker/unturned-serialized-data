@@ -1,0 +1,16 @@
+{
+  "name": "LilGuys2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Decals/LilGuys2/LilGuys2.dat",
+  "data": {
+    "GUID": "b51d13ac78c54d97935d7b3478d10d35",
+    "Type": "Decal",
+    "ID": "51060",
+    "Decal_X": "6",
+    "Decal_Y": "6",
+    "Decal_LOD_Bias": "1",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "PBS Decal LilGuys2"
+  }
+}

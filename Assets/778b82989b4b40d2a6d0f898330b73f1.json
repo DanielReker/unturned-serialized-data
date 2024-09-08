@@ -1,0 +1,18 @@
+{
+  "name": "Transit_3",
+  "path": "Bundles/Objects/Medium/Business/Transit_3/Transit_3.dat",
+  "data": {
+    "GUID": "778b82989b4b40d2a6d0f898330b73f1",
+    "Type": "Medium",
+    "ID": "694",
+    "Snowshoe": "",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "300",
+    "Rubble_Health": "100",
+    "Rubble_Effect": "72",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Transit #4"
+  }
+}

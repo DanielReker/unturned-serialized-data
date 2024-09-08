@@ -1,0 +1,31 @@
+{
+  "name": "Military_Belgium_Ammo",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Spawns/Items/Military_Belgium_Ammo/Military_Belgium_Ammo.dat",
+  "data": {
+    "GUID": "c89c4e2316604468a7032760d5d2c830",
+    "Type": "Spawn",
+    "ID": "9010",
+    "Tables": "10",
+    "Table_0_Asset_ID": "123",
+    "Table_0_Weight": "42",
+    "Table_1_Asset_ID": "6",
+    "Table_1_Weight": "42",
+    "Table_2_Asset_ID": "43",
+    "Table_2_Weight": "105",
+    "Table_3_Asset_ID": "119",
+    "Table_3_Weight": "105",
+    "Table_4_Asset_ID": "1026",
+    "Table_4_Weight": "40",
+    "Table_5_Asset_ID": "1371",
+    "Table_5_Weight": "28",
+    "Table_6_Asset_ID": "1483",
+    "Table_6_Weight": "40",
+    "Table_7_Asset_ID": "9027",
+    "Table_7_Weight": "52",
+    "Table_8_Asset_ID": "9031",
+    "Table_8_Weight": "52",
+    "Table_9_Asset_ID": "113",
+    "Table_9_Weight": "20"
+  },
+  "translation": null
+}

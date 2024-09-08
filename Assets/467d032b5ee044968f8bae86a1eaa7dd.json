@@ -1,0 +1,20 @@
+{
+  "name": "Alexander_Hammer",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Misc/NPC_Items/Alexander_Hammer/Alexander_Hammer.dat",
+  "data": {
+    "GUID": "467d032b5ee044968f8bae86a1eaa7dd",
+    "Type": "Cloud",
+    "Useable": "Cloud",
+    "Rarity": "Uncommon",
+    "ID": "27010",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.66",
+    "Use_Auto_Icon_Measurements": "False",
+    "Gravity": "1"
+  },
+  "translation": {
+    "Name": "Alexander_Hammer",
+    "Description": "NPC_Item"
+  }
+}

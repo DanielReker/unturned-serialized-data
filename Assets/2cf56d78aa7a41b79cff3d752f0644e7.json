@@ -1,0 +1,17 @@
+{
+  "name": "BM1_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Songs/BM1_2/BM1_2.asset",
+  "data": {
+    "GUID": "2cf56d78aa7a41b79cff3d752f0644e7",
+    "Type": "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Song": {
+      "MasterBundle": "buak.masterbundle",
+      "AssetPath": "Music/BM1_2.ogg"
+    },
+    "Link_URL": "https://www.youtube.com/watch?v=JKorQoX5td4",
+    "Is_Loop": "true"
+  },
+  "translation": {
+    "Name": "Little Problem - Paulfest"
+  }
+}

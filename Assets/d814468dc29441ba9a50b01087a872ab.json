@@ -1,0 +1,12 @@
+{
+  "name": "CA_Chair_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Furniture/CA_Chair_1/CA_Chair_1.dat",
+  "data": {
+    "GUID": "d814468dc29441ba9a50b01087a872ab",
+    "Type": "Medium",
+    "ID": "4391"
+  },
+  "translation": {
+    "Name": "California Chair #2"
+  }
+}

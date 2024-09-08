@@ -1,0 +1,19 @@
+{
+  "name": "Kuwait_Civilian_Burners_TierEasy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Assets/Zombie_Difficulty/Kuwait_Civilian_Burners_TierEasy.asset",
+  "data": {
+    "GUID": "6f8dcc33e6c34c2e8d7f7f92f19d6b56",
+    "Type": "SDG.Unturned.ZombieDifficultyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Crawler_Chance": "0.075",
+    "Sprinter_Chance": "0.05",
+    "Flanker_Chance": "0.025",
+    "Burner_Chance": "0.075",
+    "Acid_Chance": "0.025",
+    "Boss_Electric_Chance": "0",
+    "Boss_Wind_Chance": "0",
+    "Boss_Fire_Chance": "0",
+    "Allow_Horde_Beacon": "true"
+  },
+  "translation": null
+}

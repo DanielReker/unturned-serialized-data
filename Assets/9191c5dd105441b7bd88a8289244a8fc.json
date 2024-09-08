@@ -1,0 +1,13 @@
+{
+  "name": "PS_Crane_3",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Crane_3/PS_Crane_3.dat",
+  "data": {
+    "GUID": "9191c5dd105441b7bd88a8289244a8fc",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59221"
+  },
+  "translation": {
+    "Name": "PS Crane #4"
+  }
+}

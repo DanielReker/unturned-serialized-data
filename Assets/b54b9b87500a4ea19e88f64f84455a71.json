@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Seed_Tea",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Seed_Tea/PS_Drops_Seed_Tea.dat",
+  "data": {
+    "GUID": "b54b9b87500a4ea19e88f64f84455a71",
+    "Type": "Spawn",
+    "ID": "59383",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59695",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

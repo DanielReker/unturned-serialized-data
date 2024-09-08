@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Tombstone",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Tombstone/Obj_Tombstone.dat",
+  "data": {
+    "GUID": "e0a0b60ffe6e4f5bb41cf90428a47d6b",
+    "Type": "Effect",
+    "ID": "25505"
+  },
+  "translation": null
+}

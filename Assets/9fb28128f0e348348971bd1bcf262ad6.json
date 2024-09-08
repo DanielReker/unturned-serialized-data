@@ -1,0 +1,14 @@
+{
+  "name": "Alessio_Prized_Possession_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Captain Sailor Alessio/Alessio_Prized_Possession_Completed/Asset.dat",
+  "data": {
+    "GUID": "9fb28128f0e348348971bd1bcf262ad6",
+    "Type": "Dialogue",
+    "ID": "9189",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "I'm very fortunate to have run into you"
+  }
+}

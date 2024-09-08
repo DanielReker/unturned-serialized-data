@@ -1,0 +1,12 @@
+{
+  "name": "Ex_GS",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Bombs/Ex_GS/Ex_GS.dat",
+  "data": {
+    "GUID": "52c1fa94af554c8b977efec9b9234c34",
+    "Type": "Effect",
+    "ID": "25569",
+    "Spawn_On_Dedicated_Server": "",
+    "Relevant_Distance": "5000"
+  },
+  "translation": null
+}

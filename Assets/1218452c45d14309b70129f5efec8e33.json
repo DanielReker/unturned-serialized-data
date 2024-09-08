@@ -1,0 +1,14 @@
+{
+  "name": "Metro_AreaC_2",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Final/Boss/Metro_AreaC_2/Metro_AreaC_2.dat",
+  "data": {
+    "GUID": "1218452c45d14309b70129f5efec8e33",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "58142",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "Metro AreaC #3"
+  }
+}

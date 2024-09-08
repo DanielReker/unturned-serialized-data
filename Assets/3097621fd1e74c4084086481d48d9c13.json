@@ -1,0 +1,21 @@
+{
+  "name": "California_Military_High",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Spawns/Items/California_Military_High/California_Military_High.dat",
+  "data": {
+    "GUID": "3097621fd1e74c4084086481d48d9c13",
+    "Type": "Spawn",
+    "ID": "4381",
+    "Tables": "5",
+    "Table_0_Spawn_ID": "4376",
+    "Table_0_Weight": "800",
+    "Table_1_Spawn_ID": "4383",
+    "Table_1_Weight": "75",
+    "Table_2_Spawn_ID": "4382",
+    "Table_2_Weight": "50",
+    "Table_3_Spawn_ID": "4384",
+    "Table_3_Weight": "50",
+    "Table_4_Spawn_ID": "4385",
+    "Table_4_Weight": "25"
+  },
+  "translation": null
+}

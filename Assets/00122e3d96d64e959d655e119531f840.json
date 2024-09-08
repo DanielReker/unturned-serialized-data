@@ -1,0 +1,14 @@
+{
+  "name": "Buak_Body_Bag_00",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Body_Bag_00/Buak_Body_Bag_00.dat",
+  "data": {
+    "GUID": "00122e3d96d64e959d655e119531f840",
+    "Type": "Medium",
+    "ID": "25300",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Body_Bag_00"
+  }
+}

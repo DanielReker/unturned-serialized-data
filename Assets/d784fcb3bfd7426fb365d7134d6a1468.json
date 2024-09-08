@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Weston_VendComp",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Visitors/Dialogues/PBS_Weston/PBS_Weston_VendComp/Asset.dat",
+  "data": {
+    "GUID": "d784fcb3bfd7426fb365d7134d6a1468",
+    "Type": "Dialogue",
+    "ID": "52622",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Much obliged, pardner! Don't be'a stranger!"
+  }
+}

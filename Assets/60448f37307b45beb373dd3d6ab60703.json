@@ -1,0 +1,11 @@
+{
+  "name": "Cali_Hunter",
+  "path": "Bundles/Skins/Knife_Military/Cali_Hunter/Cali_Hunter.dat",
+  "data": {
+    "GUID": "60448f37307b45beb373dd3d6ab60703",
+    "Type": "Skin",
+    "ID": "280",
+    "Override_Meshes": "1"
+  },
+  "translation": null
+}

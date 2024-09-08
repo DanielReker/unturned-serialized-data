@@ -1,0 +1,12 @@
+{
+  "name": "Fishing_Cabin_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Fishing_Cabin_1/Fishing_Cabin_1.dat",
+  "data": {
+    "GUID": "82c73bf23fbd418f8a2480e04cbe556c",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Fishing Cabin 2"
+  }
+}

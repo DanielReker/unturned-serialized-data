@@ -1,0 +1,15 @@
+{
+  "name": "KiraSkull_03_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Kira/Kira_02/KiraSkull_03_Completed/Asset.dat",
+  "data": {
+    "GUID": "759ad6466b56485dbcd277fd677065ac",
+    "Type": "Dialogue",
+    "ID": "24488",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Message_0_FaceOverride": "20"
+  },
+  "translation": {
+    "Message_0_Page_0": "Nice! The less of those around the better."
+  }
+}

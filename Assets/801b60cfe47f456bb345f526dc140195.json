@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_RC_Car_Purple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_RC_Car_Purple/PS_Drops_RC_Car_Purple.dat",
+  "data": {
+    "GUID": "801b60cfe47f456bb345f526dc140195",
+    "Type": "Spawn",
+    "ID": "59374",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59366",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

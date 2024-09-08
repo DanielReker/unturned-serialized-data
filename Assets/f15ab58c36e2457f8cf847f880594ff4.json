@@ -1,0 +1,13 @@
+{
+  "name": "Off_Roader_Yellow",
+  "path": "Bundles/Objects/Large/Vehicles/Off_Roader_Yellow/Off_Roader_Yellow.dat",
+  "data": {
+    "GUID": "f15ab58c36e2457f8cf847f880594ff4",
+    "Type": "Large",
+    "ID": "160",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Yellow Offroader"
+  }
+}

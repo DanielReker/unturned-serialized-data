@@ -1,0 +1,17 @@
+{
+  "name": "PS_Offices_Lamp_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Medium/PS_Offices_Lamp_0/PS_Offices_Lamp_0.dat",
+  "data": {
+    "GUID": "815ca1cde5064c5cbc3b15e61f1e2ac6",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "False",
+    "ID": "59734",
+    "Rubble": "Destroy",
+    "Rubble_Reset": "600",
+    "Rubble_Health": "1",
+    "Rubble_Effect": "59006"
+  },
+  "translation": {
+    "Name": "PS Offices Lamp #1"
+  }
+}

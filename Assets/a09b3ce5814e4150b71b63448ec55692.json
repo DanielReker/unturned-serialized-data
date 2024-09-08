@@ -1,0 +1,18 @@
+{
+  "name": "Gravel_River_00_Collection",
+  "path": "Bundles/Assets/Landscapes/Foliage/Pebbles/Gravel_River_00_Collection.asset",
+  "data": {
+    "GUID": "a09b3ce5814e4150b71b63448ec55692",
+    "Type": "SDG.Framework.Foliage.FoliageInfoCollectionAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Foliage": [
+      {
+        "Asset": {
+          "GUID": "4df85e3d764b45fbbd65f0acb5b4b935"
+        },
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

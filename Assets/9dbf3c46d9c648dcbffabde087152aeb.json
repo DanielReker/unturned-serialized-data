@@ -1,0 +1,12 @@
+{
+  "name": "Wheat",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Wheat/Wheat.dat",
+  "data": {
+    "GUID": "9dbf3c46d9c648dcbffabde087152aeb",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Wheat field"
+  }
+}

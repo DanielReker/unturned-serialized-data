@@ -1,0 +1,14 @@
+{
+  "name": "Louis_Supply_List_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Dialogues/Nulirane Researcher Louis/Louis_Supply_List_Completed/Asset.dat",
+  "data": {
+    "GUID": "7adcc72a0a2c438fb56ecbc94fb69a1c",
+    "Type": "Dialogue",
+    "ID": "9016",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "Thanks for getting me those supplies! Hopefully I can end this pandemic..."
+  }
+}

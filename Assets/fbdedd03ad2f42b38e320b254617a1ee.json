@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Metal_Fragments",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Metal_Fragments/PS_Drops_Metal_Fragments.dat",
+  "data": {
+    "GUID": "fbdedd03ad2f42b38e320b254617a1ee",
+    "Type": "Spawn",
+    "ID": "59360",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59000",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

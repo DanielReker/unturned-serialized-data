@@ -1,0 +1,16 @@
+{
+  "name": "Kuwait_Rocket_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Utilities/Kuwait_Rocket_0/Kuwait_Rocket_0.dat",
+  "data": {
+    "GUID": "befbf78662174bdfb8f8503ec3033d63",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "5122",
+    "LOD": "Mesh",
+    "LOD_Center_Z": "-0.5",
+    "LOD_Size_Z": "-1"
+  },
+  "translation": {
+    "Name": "Kuwait Rocket #1"
+  }
+}

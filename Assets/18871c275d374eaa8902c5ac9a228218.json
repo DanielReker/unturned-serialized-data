@@ -1,0 +1,33 @@
+{
+  "name": "Kuwait_Palm_Table_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Barricades/Kuwait_Palm_Table_1/Kuwait_Palm_Table_1.dat",
+  "data": {
+    "GUID": "18871c275d374eaa8902c5ac9a228218",
+    "Type": "Barricade",
+    "Useable": "Barricade",
+    "Build": "Barricade",
+    "ID": "5462",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Health": "50",
+    "Range": "4",
+    "Offset": "0.01",
+    "Explosion": "5281",
+    "Vulnerable": "",
+    "Salvage_Duration_Multiplier": "0.5",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Furniture",
+    "Blueprint_0_Supply_0_ID": "5501",
+    "Blueprint_0_Supply_0_Amount": "5",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Map": "Kuwait",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "False",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Rectangular Palm Table",
+    "Description": "A table perfect for magically stopping things from falling onto the ground.<br><color=#BF1F1F>50 HP</color><br>"
+  }
+}

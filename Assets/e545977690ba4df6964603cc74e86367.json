@@ -1,0 +1,19 @@
+{
+  "name": "Frost_Baller_01_On",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2898548949/A6 Polaris/Bundles/Objects/Safezone/Frost_Baller_01_On/Frost_Baller_01_On.dat",
+  "data": {
+    "GUID": "e545977690ba4df6964603cc74e86367",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "36000",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "36443",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_0_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "Frost Baller #2 On"
+  }
+}

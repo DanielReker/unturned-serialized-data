@@ -1,0 +1,27 @@
+{
+  "name": "France_Colonel_Question_4",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1975500516/France/Bundles/NPCs/Dialogues/France_Colonel/France_Colonel_Question_4/Asset.dat",
+  "data": {
+    "GUID": "09707d22b9644c7ca8d84b8ee6f92ded",
+    "Type": "Dialogue",
+    "ID": "4036",
+    "Messages": "1",
+    "Message_0_Pages": "4",
+    "Responses": "2",
+    "Response_0_Dialogue": "4049",
+    "Response_0_Quest": "4039",
+    "Response_0_Rewards": "1",
+    "Response_0_Reward_0_Type": "Quest",
+    "Response_0_Reward_0_ID": "4039",
+    "Response_0_Reward_0_Status": "Active",
+    "Response_1_Dialogue": "4030"
+  },
+  "translation": {
+    "Message_0_Page_0": "Yes, actually.",
+    "Message_0_Page_1": "I have been planning a multi-step plan to lower the danger level of the mainland.",
+    "Message_0_Page_2": "My men are not ready yet for such missions, but maybe you are.",
+    "Message_0_Page_3": "If you are up for the task, tell me if you are willing to do some dirty work.",
+    "Response_0": "I'm ready!",
+    "Response_1": "Later, I am not ready."
+  }
+}

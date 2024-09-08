@@ -1,0 +1,13 @@
+{
+  "name": "Arid_Scout_Bandana",
+  "path": "Bundles/Items/Outfits/Arid_Scout/Arid_Scout_Bandana/Arid_Scout_Bandana.dat",
+  "data": {
+    "GUID": "2b9fed7ff71840ffac25243acb493c5e",
+    "Type": "Mask",
+    "ID": "1825",
+    "Hair": "",
+    "Hair_Override": "Model_0",
+    "Pro": ""
+  },
+  "translation": null
+}

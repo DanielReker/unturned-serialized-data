@@ -1,0 +1,28 @@
+{
+  "name": "Riot",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/Items/Riot/Riot/Riot.dat",
+  "data": {
+    "GUID": "cb57613127ef467ba4e7e7e45696b82e",
+    "Type": "Spawn",
+    "ID": "51035",
+    "Tables": [
+      {
+        "Guid": "d572820d628a4fa88e4f949601c45f5d",
+        "Weight": "35"
+      },
+      {
+        "Guid": "c4451779318a4839a223ed4854efe5e0",
+        "Weight": "25"
+      },
+      {
+        "Guid": "ec14fc04c32d40e9a42d309b17da4d39",
+        "Weight": "25"
+      },
+      {
+        "Guid": "0278bcbf2ffc4e65b40f32d83c03cf86",
+        "Weight": "15"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Metro_Airdrop",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/High/Metro_Airdrop/Metro_Airdrop.dat",
+  "data": {
+    "GUID": "7f04cd27013a41f786b50211b63b98c6",
+    "Type": "Spawn",
+    "ID": "57133",
+    "Tables": [
+      {
+        "LegacySpawnId": "57134",
+        "Weight": "400"
+      },
+      {
+        "LegacyAssetId": "57032",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "57056",
+        "Weight": "200"
+      },
+      {
+        "LegacyAssetId": "57055",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "57205",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "57203",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "57011",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "57131",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "57028",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "57053",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "57138",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "57031",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "57128",
+        "Weight": "100"
+      },
+      {
+        "LegacyAssetId": "57033",
+        "Weight": "25"
+      },
+      {
+        "LegacyAssetId": "57021",
+        "Weight": "25"
+      },
+      {
+        "Guid": "c419321de48a4e6cba5370b008d52927",
+        "Weight": "25"
+      },
+      {
+        "Guid": "dec9c50df180480cba15f4600ab5f5cd",
+        "Weight": "25"
+      },
+      {
+        "LegacyAssetId": "57020",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "57472",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "57308",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "57683",
+        "Weight": "3"
+      }
+    ]
+  },
+  "translation": null
+}

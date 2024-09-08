@@ -1,0 +1,13 @@
+{
+  "name": "WS_Closet_Broom",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Spawns/WS_Closet_Broom/WS_Closet_Broom.dat",
+  "data": {
+    "GUID": "09f26c0a0830471b8668e22f8c0b2da3",
+    "Type": "Spawn",
+    "ID": "25418",
+    "Tables": "1",
+    "Table_0_Asset_ID": "25606",
+    "Table_0_Weight": "100"
+  },
+  "translation": null
+}

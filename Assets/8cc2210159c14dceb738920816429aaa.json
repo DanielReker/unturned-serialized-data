@@ -1,0 +1,41 @@
+{
+  "name": "Bottle_Apple",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Drinks/Bottle_Apple/Bottle_Apple.dat",
+  "data": {
+    "GUID": "8cc2210159c14dceb738920816429aaa",
+    "Type": "Water",
+    "Rarity": "Uncommon",
+    "Useable": "Consumeable",
+    "ID": "25797",
+    "Size_X": "1",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Quest_Rewards": "1",
+    "Quest_Reward_0_Type": "Item",
+    "Quest_Reward_0_ID": "25793",
+    "Quest_Reward_0_Amount": "1",
+    "Quest_Reward_0_Value": "True",
+    "Food": "5",
+    "Water": "80",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Repair",
+    "Blueprint_0_Supply_0_ID": "25628",
+    "Blueprint_0_Supply_0_Amount": "1",
+    "Blueprint_0_Build": "25536",
+    "Blueprint_1_Type": "Supply",
+    "Blueprint_1_Supplies": "2",
+    "Blueprint_1_Supply_0_ID": "25793",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Supply_0_Critical": "",
+    "Blueprint_1_Supply_1_ID": "25680",
+    "Blueprint_1_Supply_1_Amount": "1",
+    "Blueprint_1_Tool": "25458",
+    "Blueprint_1_Build": "25536",
+    "ConsumeAudioClip": "Sounds/Food/drinkBottle.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Bottled Apple Juice",
+    "Description": "Repackaged apple water."
+  }
+}

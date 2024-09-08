@@ -1,0 +1,25 @@
+{
+  "name": "Afzetter Member Tiago",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Characters/Afzetter Member Tiago/Asset.dat",
+  "data": {
+    "GUID": "3aa720ede6bc4cfd8d68b02bd563b3fa",
+    "Type": "NPC",
+    "ID": "9167",
+    "Shirt": "1156",
+    "Pants": "1157",
+    "Mask": "1048",
+    "Backpack": "245",
+    "Primary": "129",
+    "Secondary": "490",
+    "Equipped": "Primary",
+    "Face": "22",
+    "Hair": "5",
+    "Color_Skin": "#BEA582",
+    "Color_Hair": "#0F0F0F",
+    "Dialogue": "9167"
+  },
+  "translation": {
+    "Name": "Afzetter Member Tiago",
+    "Character": "Tiago"
+  }
+}

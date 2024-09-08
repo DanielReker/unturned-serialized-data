@@ -1,0 +1,14 @@
+{
+  "name": "PS_Mosque_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Mosque_1/PS_Mosque_1.dat",
+  "data": {
+    "GUID": "55122e8a88ad42f98a246bb0ac936875",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59521",
+    "LOD": "Area"
+  },
+  "translation": {
+    "Name": "PS Mosque #2"
+  }
+}

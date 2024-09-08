@@ -1,0 +1,32 @@
+{
+  "name": "Metro_Snowball",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_Snowball/Metro_Snowball.dat",
+  "data": {
+    "GUID": "51d894a1e01145f4a641bb535845cc59",
+    "Type": "Throwable",
+    "Rarity": "Uncommon",
+    "Useable": "Throwable",
+    "ID": "57712",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.33",
+    "Player_Damage": "80",
+    "Zombie_Damage": "600",
+    "Animal_Damage": "300",
+    "Barricade_Damage": "1",
+    "Structure_Damage": "1",
+    "Vehicle_Damage": "200",
+    "Resource_Damage": "500",
+    "Object_Damage": "250",
+    "Range": "12",
+    "Explode_On_Impact": "",
+    "Explosion": "34",
+    "Explosive": "",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Items/Throwables/Snowball"
+  },
+  "translation": {
+    "Name": "Snowball",
+    "Description": "<color=#64c819>80</color> Player Damage                                                  <color=#64c819>600</color> Zombie Damage                                                    <color=#64c819>200</color> Vehicle Damage                                              <color=#64c819>12 Meter</color> Explosion Radius "
+  }
+}

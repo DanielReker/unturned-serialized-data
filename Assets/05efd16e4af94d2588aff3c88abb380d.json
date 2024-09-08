@@ -1,0 +1,38 @@
+{
+  "name": "Hydra",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/Vehicles/Hydra/Hydra.dat",
+  "data": {
+    "GUID": "05efd16e4af94d2588aff3c88abb380d",
+    "Type": "Vehicle",
+    "Rarity": "Mythical",
+    "ID": "4433",
+    "Speed_Min": "-2",
+    "Speed_Max": "16",
+    "Steer_Min": "16",
+    "Steer_Max": "8",
+    "Fuel": "1750",
+    "Health_Min": "800",
+    "Health_Max": "880",
+    "Health": "900",
+    "Exit": "3",
+    "Cam_Follow_Distance": "7",
+    "LockMouse": "",
+    "Engine": "Helicopter",
+    "Trunk_Storage_X": "3",
+    "Trunk_Storage_Y": "4",
+    "Explosion": "18",
+    "Invulnerable": "",
+    "Tires_Invulnerable": "",
+    "Turrets": "1",
+    "Turret_0_Seat_Index": "1",
+    "Turret_0_Item_ID": "8053",
+    "Turret_0_Yaw_Min": "-15",
+    "Turret_0_Yaw_Max": "15",
+    "Turret_0_Pitch_Min": "80",
+    "Turret_0_Pitch_Max": "115",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Hydra"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "CatAnomaly",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/CatAnomaly/CatAnomaly.dat",
+  "data": {
+    "GUID": "7c5a7aef03af41e99821dc0882740868",
+    "Type": "Spawn",
+    "ID": "51215",
+    "Tables": [
+      {
+        "Guid": "a668f61861c3404bb5916b76b2b96431",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

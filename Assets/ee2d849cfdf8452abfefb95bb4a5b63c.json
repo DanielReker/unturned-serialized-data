@@ -1,0 +1,33 @@
+{
+  "name": "29580KGB",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/2/C/29580KGB/Asset.dat",
+  "data": {
+    "GUID": "ee2d849cfdf8452abfefb95bb4a5b63c",
+    "Type": "NPC",
+    "ID": "29580",
+    "Shirt": "162",
+    "Pants": "209",
+    "Face": "12",
+    "Hair": "5",
+    "Beard": "4",
+    "Color_Skin": "#9D886B",
+    "Color_Hair": "#665037",
+    "Dialogue": "29581",
+    "Tertiary": "5041",
+    "Equipped": "Tertiary",
+    "Conditions": "2",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "29320",
+    "Condition_0_Value": "True",
+    "Condition_0_Logic": "Equal",
+    "Condition_1_Type": "Flag_Bool",
+    "Condition_1_ID": "25050",
+    "Condition_1_Value": "False",
+    "Condition_1_Logic": "Equal",
+    "Condition_1_Allow_Unset": ""
+  },
+  "translation": {
+    "Name": "KuwaitSurvivorGuardBaker",
+    "Character": "Baker"
+  }
+}

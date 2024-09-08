@@ -1,0 +1,46 @@
+{
+  "name": "PBSAssetCraft",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Assets/PBSAssetCraft.asset",
+  "data": {
+    "GUID": "f19bf4a07abc40b09ab3dbbb7b86405c",
+    "Type": "SDG.Unturned.CraftingBlacklistAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Allow_Core_Blueprints": "False",
+    "Input_Items": [
+      {
+        "NoteToSelf": "Cloth",
+        "GUID": "14901f32cd3240179fd6124324cc27e5"
+      },
+      {
+        "NoteToSelf": "Metal Sheet",
+        "GUID": "7f06b16642724683bd61584a52fde981"
+      },
+      {
+        "NoteToSelf": "Metal Scrap",
+        "GUID": "21ede8ebffb14c5580e8c7ad149e335e"
+      },
+      {
+        "NoteToSelf": "Rope",
+        "GUID": "5ff4bcf752554990bf06e103b996cef2"
+      }
+    ],
+    "Output_Items": [
+      {
+        "NoteToSelf": "Cloth",
+        "GUID": "14901f32cd3240179fd6124324cc27e5"
+      },
+      {
+        "NoteToSelf": "Metal Sheet",
+        "GUID": "7f06b16642724683bd61584a52fde981"
+      },
+      {
+        "NoteToSelf": "Metal Scrap",
+        "GUID": "21ede8ebffb14c5580e8c7ad149e335e"
+      },
+      {
+        "NoteToSelf": "Rope",
+        "GUID": "5ff4bcf752554990bf06e103b996cef2"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "RV_Destroyed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1702240229/Greece/Bundles/Objects/Greece/RV_Destroyed/RV_Destroyed.dat",
+  "data": {
+    "GUID": "c077309aa5854a29920afdb13f0a0693",
+    "Type": "Large",
+    "ID": "3522",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Broken RV #1"
+  }
+}

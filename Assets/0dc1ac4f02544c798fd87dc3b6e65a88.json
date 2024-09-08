@@ -1,0 +1,41 @@
+{
+  "name": "Seed_Asparagus",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Items/Tools/Seed_Asparagus/Seed_Asparagus.dat",
+  "data": {
+    "GUID": "0dc1ac4f02544c798fd87dc3b6e65a88",
+    "Type": "Farm",
+    "Rarity": "Common",
+    "Useable": "Barricade",
+    "Build": "Farm",
+    "ID": "25426",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.16",
+    "Use_Auto_Icon_Measurements": "False",
+    "Has_Clip_Prefab": "false",
+    "Unrepairable": "",
+    "Salvage_Duration_Multiplier": ".3",
+    "Bypass_Pickup_Ownership": "True",
+    "Health": "4",
+    "Range": "4",
+    "Radius": "0.25",
+    "Offset": "0.375",
+    "Growth": "12000",
+    "Grow_SpawnTable": "8c1394558076409883bcf063d5fc9271",
+    "Explosion": "25358",
+    "Vulnerable": "",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Utilities",
+    "Blueprint_0_Supply_0_ID": "25759",
+    "Blueprint_0_Build": "25530",
+    "Blueprint_1_Type": "Utilities",
+    "Blueprint_1_Supply_0_ID": "25760",
+    "Blueprint_1_Build": "25530",
+    "PlacementAudioClip": "Sounds/Placement/FoliagePlacement.wav",
+    "EquipAudioClip": "Sounds/Items/Equip_Item.wav"
+  },
+  "translation": {
+    "Name": "Asparagus Seed",
+    "Description": "Ready for planting and growing."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "PS_Trader_8_Quest_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_8_Dialogue/PS_Trader_8_Quest_0/Asset.dat",
+  "data": {
+    "GUID": "d5950c988dc844d8bd51d4b2f6df61c0",
+    "Type": "Quest",
+    "ID": "59431",
+    "Conditions": "3",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59283",
+    "Condition_0_Amount": "1",
+    "Condition_0_Reset": "",
+    "Condition_1_Type": "Item",
+    "Condition_1_ID": "59548",
+    "Condition_1_Amount": "1",
+    "Condition_1_Reset": "",
+    "Condition_2_Type": "Item",
+    "Condition_2_ID": "59129",
+    "Condition_2_Amount": "1",
+    "Condition_2_Reset": "",
+    "Rewards": "2",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "59535",
+    "Reward_0_Amount": "0",
+    "Reward_1_Type": "Flag_Bool",
+    "Reward_1_ID": "59436",
+    "Reward_1_Value": "True"
+  },
+  "translation": {
+    "Name": "Carrier I",
+    "Description": "Brinda's been constantly nagging me to find someone that has some oddly specific vehicle parts. Would you be able to help out? She's really annoying me.",
+    "Reward_0": "More purchase options at Brinda"
+  }
+}

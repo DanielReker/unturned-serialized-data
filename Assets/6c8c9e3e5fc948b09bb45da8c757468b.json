@@ -1,0 +1,76 @@
+{
+  "name": "Metro_Military_Mega",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Spawns/Spawns/Zombos/Metro_Military_Mega/Metro_Military_Mega.dat",
+  "data": {
+    "GUID": "6c8c9e3e5fc948b09bb45da8c757468b",
+    "Type": "Spawn",
+    "ID": "57128",
+    "Tables": [
+      {
+        "LegacyAssetId": "57055",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "57138",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "57056",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "57031",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "57065",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "57009",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "57010",
+        "Weight": "30"
+      },
+      {
+        "LegacyAssetId": "57011",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "57447",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "57114",
+        "Weight": "20"
+      },
+      {
+        "LegacyAssetId": "57033",
+        "Weight": "14"
+      },
+      {
+        "LegacyAssetId": "57021",
+        "Weight": "12"
+      },
+      {
+        "LegacyAssetId": "57203",
+        "Weight": "10"
+      },
+      {
+        "LegacyAssetId": "57308",
+        "Weight": "5"
+      },
+      {
+        "LegacyAssetId": "57020",
+        "Weight": "4"
+      },
+      {
+        "LegacyAssetId": "57613",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

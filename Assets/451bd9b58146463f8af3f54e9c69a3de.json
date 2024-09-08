@@ -1,0 +1,28 @@
+{
+  "name": "Rod_Plastic",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Tools/Rod_Plastic/Rod_Plastic.dat",
+  "data": {
+    "GUID": "451bd9b58146463f8af3f54e9c69a3de",
+    "Type": "Fisher",
+    "Rarity": "Rare",
+    "Useable": "Fisher",
+    "ID": "51928",
+    "Size_X": "4",
+    "Size_Y": "1",
+    "Size_Z": "0.25",
+    "Backward": "",
+    "Reward_ID": "51191",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "2",
+    "Blueprint_0_Supply_0_ID": "51927",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Supply_1_ID": "51930",
+    "Blueprint_0_Supply_1_Amount": "1",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Fiberglass Fishing Rod",
+    "Description": "Long range fish generator.  Made of reinforced fiberglass and plastic, which can pull in heavier catches."
+  }
+}

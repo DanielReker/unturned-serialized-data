@@ -1,0 +1,23 @@
+{
+  "name": "Metro_Tree_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Resources/Metro_Tree_5/Metro_Tree_5.dat",
+  "data": {
+    "GUID": "5c6ef1b5bcaf41cabe80c0ebeb8776c1",
+    "Type": "Resource",
+    "Has_Clip_Prefab": "false",
+    "ID": "57015",
+    "Health": "1000",
+    "Radius": "5",
+    "Scale": "0.3",
+    "Explosion": "104",
+    "Reward_ID": "517",
+    "Reward_XP": "2",
+    "Reward_Min": "5",
+    "Reward_Max": "8",
+    "BladeID": "57000",
+    "Reset": "65000"
+  },
+  "translation": {
+    "Name": "Metro Tree #6"
+  }
+}

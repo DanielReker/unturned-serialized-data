@@ -1,0 +1,12 @@
+{
+  "name": "Garbage_Truck",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Garbage_Truck/Garbage_Truck.dat",
+  "data": {
+    "GUID": "0d060700bf1a40a0b4a07cf95b1d00e7",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Garbage Truck"
+  }
+}

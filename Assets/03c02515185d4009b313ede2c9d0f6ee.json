@@ -1,0 +1,36 @@
+{
+  "name": "Metro_Stock_Hipfire_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Ranger/Metro_Stock_Hipfire_0/Metro_Stock_Hipfire_0.dat",
+  "data": {
+    "GUID": "03c02515185d4009b313ede2c9d0f6ee",
+    "Type": "Tactical",
+    "Rarity": "Epic",
+    "ID": "57050",
+    "Size_X": "2",
+    "Size_Y": "1",
+    "Size_Z": "0.175",
+    "Calibers": "5",
+    "Caliber_0": "57000",
+    "Caliber_1": "57001",
+    "Caliber_2": "57003",
+    "Caliber_3": "57004",
+    "Caliber_4": "57005",
+    "Spread": "0.2",
+    "Recoil_X": "0.5",
+    "Recoil_Y": "0.5",
+    "Sway": "0.75",
+    "Shake": "0.9",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "57050",
+    "Blueprint_0_Outputs": "1",
+    "Blueprint_0_Output_0_ID": "67",
+    "Blueprint_0_Output_0_Amount": "2",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Reverso Stock",
+    "Description": "<color=#64c819>-50%</color> Recoil<br><color=#64c819>-80%</color> Spread<br><color=#64c819>-25%</color> Scope Sway"
+  }
+}

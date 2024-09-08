@@ -1,0 +1,17 @@
+{
+  "name": "Metro_Deadzone_5",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Large/Metro_Deadzone_5/Metro_Deadzone_5.dat",
+  "data": {
+    "GUID": "bc6bc16372394d29ae272b059b32358f",
+    "Type": "Large",
+    "Has_Clip_Prefab": "false",
+    "ID": "57397",
+    "LOD": "Area",
+    "Soft": "",
+    "Collision_Important": "",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Deadzone #6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Anniversary_0_Rainbow",
+  "path": "Bundles/Items/Hats/Anniversary_0_Rainbow/Anniversary_0_Rainbow.dat",
+  "data": {
+    "GUID": "5a05782dcd124de5aca220cbc692c0bb",
+    "Type": "Hat",
+    "ID": "699",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.3",
+    "Beard": "",
+    "Pro": ""
+  },
+  "translation": null
+}

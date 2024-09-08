@@ -1,0 +1,16 @@
+{
+  "name": "GooMaxGrape",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/SodaSpawns/GooMaxGrape/GooMaxGrape.dat",
+  "data": {
+    "GUID": "bad633e350ec4a769def86776e825494",
+    "Type": "Spawn",
+    "ID": "51264",
+    "Tables": [
+      {
+        "Guid": "00f4271248cc4309af8b7bd5e763ae8d",
+        "Weight": "1"
+      }
+    ]
+  },
+  "translation": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Welcome",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/NPCs/Dialogues/Others/May/May_00/Welcome/Asset.dat",
+  "data": {
+    "GUID": "dafd2d523fa444cf88478853b357f16e",
+    "Type": "Dialogue",
+    "ID": "24650",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "3",
+    "Response_1_Dialogue": "dfb28c346ff3464daa3736452affd9a4"
+  },
+  "translation": {
+    "Message_0_Page_0": "Hi!",
+    "Response_0": "Hello!",
+    "Response_1": "How do you know Amber and Viola?",
+    "Response_2": "Goodbye!"
+  }
+}

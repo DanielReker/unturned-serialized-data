@@ -1,0 +1,14 @@
+{
+  "name": "PS_Bridge_9",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Large/PS_Bridge_9/PS_Bridge_9.dat",
+  "data": {
+    "GUID": "a6a1671dd3644c75845728e022fdcbb8",
+    "Type": "Large",
+    "Has_Clip_Prefab": "False",
+    "ID": "59837",
+    "Soft": ""
+  },
+  "translation": {
+    "Name": "PS Bridge #10"
+  }
+}

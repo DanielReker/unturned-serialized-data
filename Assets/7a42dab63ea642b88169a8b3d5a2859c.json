@@ -1,0 +1,16 @@
+{
+  "name": "PosterCurrents",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PosterCurrents/PosterCurrents.dat",
+  "data": {
+    "GUID": "7a42dab63ea642b88169a8b3d5a2859c",
+    "Type": "Spawn",
+    "ID": "51271",
+    "Tables": [
+      {
+        "Guid": "2f965a2acf8f428999fad944dd8ca45f",
+        "Weight": "100"
+      }
+    ]
+  },
+  "translation": null
+}

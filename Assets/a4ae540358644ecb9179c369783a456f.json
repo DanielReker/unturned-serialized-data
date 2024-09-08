@@ -1,0 +1,12 @@
+{
+  "name": "High_Tech_Facility_Hatch",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/High_Tech_Facility_Hatch/High_Tech_Facility_Hatch.dat",
+  "data": {
+    "GUID": "a4ae540358644ecb9179c369783a456f",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS High Tech Facility Hatch"
+  }
+}

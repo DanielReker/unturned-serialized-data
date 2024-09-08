@@ -1,0 +1,13 @@
+{
+  "name": "PBS_Long_Ears",
+  "path": "Bundles/Items/PBS/PBS_Long_Ears/PBS_Long_Ears.dat",
+  "data": {
+    "GUID": "39a4282c52664edb883c330b0ac26c21",
+    "Type": "Mask",
+    "Pro": "",
+    "Hair": "",
+    "Beard": "",
+    "Skin_Override": "Model_0"
+  },
+  "translation": null
+}

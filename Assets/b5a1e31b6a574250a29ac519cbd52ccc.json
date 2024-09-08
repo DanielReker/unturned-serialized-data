@@ -1,0 +1,13 @@
+{
+  "name": "Special_High_Sights",
+  "path": "Bundles/Spawns/Items/Special_High_Sights/Special_High_Sights.dat",
+  "data": {
+    "GUID": "b5a1e31b6a574250a29ac519cbd52ccc",
+    "Type": "Spawn",
+    "ID": "659",
+    "Tables": "1",
+    "Table_0_Asset_ID": "1201",
+    "Table_0_Weight": "10"
+  },
+  "translation": null
+}

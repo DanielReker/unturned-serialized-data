@@ -1,0 +1,19 @@
+{
+  "name": "Buak_Vehicle_Front",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Small/Props/Buak_Vehicle_Front/Buak_Vehicle_Front.dat",
+  "data": {
+    "GUID": "a0a628e3d5d54f2088e2e3d4ee33a16a",
+    "Type": "Small",
+    "ID": "25300",
+    "Interactability": "Dropper",
+    "Interactability_Hint": "Custom",
+    "Interactability_Delay": "1000",
+    "Interactability_Reward_ID": "25304",
+    "Chart": "Ignore",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Vehicle_Front",
+    "Interact": "Search For Parts [{0}]"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Zombie_Brain_Sample",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Medium/Quests/Zombie_Brain_Sample/Zombie_Brain_Sample.dat",
+  "data": {
+    "GUID": "197a56c3230843a2920227cc6eecab61",
+    "Type": "Medium",
+    "ID": "9117",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Bool",
+    "Condition_0_ID": "9138",
+    "Condition_0_Value": "False",
+    "Condition_0_Logic": "Equal",
+    "Interactability": "Quest",
+    "Interactability_Effect": "7",
+    "Interactability_Rewards": "1",
+    "Interactability_Reward_0_Type": "Flag_Bool",
+    "Interactability_Reward_0_ID": "9138",
+    "Interactability_Reward_0_Value": "True",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Zombie Brain Sample",
+    "Interact": "Pickup Zombie Brain Sample [{0}]"
+  }
+}

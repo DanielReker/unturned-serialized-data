@@ -1,0 +1,12 @@
+{
+  "name": "IR_Wing_Left_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/Objects/Large/Vehicle/IR_Wing_Left_1/IR_Wing_Left_1.dat",
+  "data": {
+    "GUID": "6f03bbde62ac433fa6aaf9cb3d499f7d",
+    "Type": "Large",
+    "ID": "17126"
+  },
+  "translation": {
+    "Name": "Irish Wing Left# 1"
+  }
+}

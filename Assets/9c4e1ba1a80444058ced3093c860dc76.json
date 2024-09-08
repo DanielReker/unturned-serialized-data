@@ -1,0 +1,13 @@
+{
+  "name": "PS_Items_10",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Objects/Smol/PS_Items_10/PS_Items_10.dat",
+  "data": {
+    "GUID": "9c4e1ba1a80444058ced3093c860dc76",
+    "Type": "Small",
+    "Has_Clip_Prefab": "False",
+    "ID": "60200"
+  },
+  "translation": {
+    "Name": "PS Items #11 [Intermediate Ammo Box]"
+  }
+}

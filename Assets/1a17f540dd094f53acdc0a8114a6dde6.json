@@ -1,0 +1,12 @@
+{
+  "name": "DestroyedTunnel",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/DestroyedTunnel/DestroyedTunnel.dat",
+  "data": {
+    "GUID": "1a17f540dd094f53acdc0a8114a6dde6",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Tunnel 2"
+  }
+}

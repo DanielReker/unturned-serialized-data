@@ -1,0 +1,19 @@
+{
+  "name": "Rodrigues_Interview_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1821848824/Rio de Janeiro/Bundles/NPCs/Dialogues/NAM/Misc/Officer_Rodrigues/Rodrigues_Interview_1/Asset.dat",
+  "data": {
+    "GUID": "e1fad81e9b6747d7a604d78f099eae1f",
+    "Type": "Dialogue",
+    "ID": "9211",
+    "Messages": "1",
+    "Message_0_Pages": "1",
+    "Responses": "2",
+    "Response_0_Dialogue": "9212",
+    "Response_1_Dialogue": "9215"
+  },
+  "translation": {
+    "Message_0_Page_0": "Second question, if you saw a survivor with an injury that looks infected, would you help them and tend to their wounds or leave them be?",
+    "Response_0": "I would help them the best I can. We need to rebuild our future society, not lose more to the infection.",
+    "Response_1": "I would either shoot them or leave them to their business. Who knows if they're already going crazy and wants to hurt me?"
+  }
+}

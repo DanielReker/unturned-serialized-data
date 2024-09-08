@@ -1,0 +1,10 @@
+{
+  "name": "Bar_Ladder_Poplar",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Barricades/Bar_Ladder_Poplar/Bar_Ladder_Poplar.dat",
+  "data": {
+    "GUID": "84f25e6037164a6e9fbbd81c7c95c1b1",
+    "Type": "Effect",
+    "ID": "25384"
+  },
+  "translation": null
+}

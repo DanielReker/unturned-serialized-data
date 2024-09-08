@@ -1,0 +1,13 @@
+{
+  "name": "PS_Drops_Copper_Coils",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Spawns/Buildables_Drops/PS_Drops_Copper_Coils/PS_Drops_Copper_Coils.dat",
+  "data": {
+    "GUID": "1691c749dec24f8eb882fe766824c835",
+    "Type": "Spawn",
+    "ID": "59398",
+    "Tables": "1",
+    "Table_0_Asset_ID": "59819",
+    "Table_0_Weight": "1"
+  },
+  "translation": null
+}

@@ -1,0 +1,17 @@
+{
+  "name": "GlacierArenaHunterOutfit",
+  "path": "Bundles/Items/Outfits/GlacierArenaHunterOutfit.asset",
+  "data": {
+    "GUID": "947c266c889c462a91fbaff044026b59",
+    "Type": "SDG.Unturned.OutfitAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Items": [
+      "8141c4443f7e43f3bcdb9684cc0fcd92",
+      "fb19b68f2e8c44f5829e69047fa6da40",
+      "42dd90388ac544dca0c5130f325faf26",
+      "dc3805aed15a43799e225acf3f815234",
+      "f3a4fdc6aaca45e083f694d3a1750707",
+      "81e14b3375ae46fd84a43f2540725c22"
+    ]
+  },
+  "translation": null
+}

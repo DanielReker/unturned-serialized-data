@@ -1,0 +1,14 @@
+{
+  "name": "PBS_Nicole_Acc",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Nicole/PBS_Nicole_Acc/Asset.dat",
+  "data": {
+    "GUID": "d72b41ff8ab84825a072fe2a14f36efb",
+    "Type": "Dialogue",
+    "ID": "52452",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "This'll let you work on your swing too!  You've got this."
+  }
+}

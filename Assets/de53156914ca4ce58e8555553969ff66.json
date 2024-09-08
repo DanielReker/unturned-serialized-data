@@ -1,0 +1,12 @@
+{
+  "name": "Buoy",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Buoy/Buoy.dat",
+  "data": {
+    "GUID": "de53156914ca4ce58e8555553969ff66",
+    "Type": "Large",
+    "ID": "51000"
+  },
+  "translation": {
+    "Name": "PBS Buoy"
+  }
+}

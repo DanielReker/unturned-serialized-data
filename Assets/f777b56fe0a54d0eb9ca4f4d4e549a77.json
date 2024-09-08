@@ -1,0 +1,33 @@
+{
+  "name": "Metro_Canteen",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Items/Civilian/Metro_Canteen/Metro_Canteen.dat",
+  "data": {
+    "GUID": "f777b56fe0a54d0eb9ca4f4d4e549a77",
+    "Type": "Refill",
+    "Rarity": "Rare",
+    "Useable": "Refill",
+    "ID": "57203",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.31",
+    "Quality_Min": "100",
+    "Quality_Max": "100",
+    "Clean_Virus": "0",
+    "Clean_Water": "50",
+    "Salty_Virus": "0",
+    "Salty_Water": "50",
+    "Dirty_Virus": "0",
+    "Dirty_Water": "50",
+    "Blueprints": "1",
+    "Blueprint_0_Type": "Tool",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "57203",
+    "Blueprint_0_Product": "67",
+    "Blueprint_0_Products": "2",
+    "Blueprint_0_Build": "27"
+  },
+  "translation": {
+    "Name": "Canteen",
+    "Description": "<color=#64c819>Refillable</color><br><color=#64c819>Filters</color> Dirty Water<br><color=#64c819>50</color> Water"
+  }
+}

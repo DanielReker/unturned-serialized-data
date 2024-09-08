@@ -1,0 +1,20 @@
+{
+  "name": "Metro_Dispose_10_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Quest/NPC/Bank/Metro_Dispose_10_1/Metro_Dispose_10_1.dat",
+  "data": {
+    "GUID": "7459244b18f145c2b2ff6d7084d01c3a",
+    "Type": "Small",
+    "Has_Clip_Prefab": "false",
+    "ID": "58003",
+    "Conditions": "1",
+    "Condition_0_Type": "Flag_Short",
+    "Condition_0_ID": "57210",
+    "Condition_0_Value": "1",
+    "Condition_0_Logic": "Equal",
+    "Master_Bundle_Override": "metro.masterbundle",
+    "Bundle_Override_Path": "/Objects/Quest/NPC/Bank/Metro_1"
+  },
+  "translation": {
+    "Name": "Metro Bank 10 1"
+  }
+}

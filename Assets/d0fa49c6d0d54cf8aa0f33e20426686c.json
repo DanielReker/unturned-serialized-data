@@ -1,0 +1,29 @@
+{
+  "name": "Wout_Wouts_Verzoek",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/NPCs/Quests/Wout_Wouts_Verzoek/Asset.dat",
+  "data": {
+    "GUID": "d0fa49c6d0d54cf8aa0f33e20426686c",
+    "Type": "Quest",
+    "ID": "9180",
+    "Conditions": "1",
+    "Condition_0_Type": "Kills_Zombie",
+    "Condition_0_Zombie": "None",
+    "Condition_0_ID": "9181",
+    "Condition_0_Value": "50",
+    "Condition_0_Nav": "12",
+    "Condition_0_Reset": "",
+    "Rewards": "3",
+    "Reward_0_Type": "Experience",
+    "Reward_0_Value": "20",
+    "Reward_1_Type": "Reputation",
+    "Reward_1_Value": "20",
+    "Reward_2_Type": "Item_Random",
+    "Reward_2_ID": "9027",
+    "Reward_2_Amount": "1"
+  },
+  "translation": {
+    "Name": "<color=legendary>Wout's Verzoek</color>",
+    "Description": "There's many zombies at Cheratte Quarry. It must be claer so the the military can get it running again and so Nulirane can conduct research there to figure out factors to this virus.",
+    "Condition_0": "Kill {0}/{1} Zombies at Cheratte Quarry"
+  }
+}

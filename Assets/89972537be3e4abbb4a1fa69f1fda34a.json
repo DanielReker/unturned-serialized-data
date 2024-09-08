@@ -1,0 +1,13 @@
+{
+  "name": "BE School #1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1767554683/Bundles/Objects/Large/Buildings/BE School #1/BE School #1.dat",
+  "data": {
+    "GUID": "89972537be3e4abbb4a1fa69f1fda34a",
+    "Type": "Large",
+    "ID": "9044",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "BE School #1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Buak_Harbour_Store",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Large/Stores/Buak_Harbour_Store/Buak_Harbour_Store.dat",
+  "data": {
+    "GUID": "bf7d75dc0f1a4c4a972ef996137b53a4",
+    "Type": "Large",
+    "ID": "25300",
+    "Has_Clip_Prefab": "false",
+    "LOD": "Area",
+    "Exclude_From_Culling_Volumes": "True"
+  },
+  "translation": {
+    "Name": "Buak_Harbour_Store"
+  }
+}

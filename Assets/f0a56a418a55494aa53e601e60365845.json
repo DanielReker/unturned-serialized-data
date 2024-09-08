@@ -1,0 +1,10 @@
+{
+  "name": "Obj_Chair_Camp_Monobloc",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Effects/Explosions/Objects/Obj_Chair_Camp_Monobloc/Obj_Chair_Camp_Monobloc.dat",
+  "data": {
+    "GUID": "f0a56a418a55494aa53e601e60365845",
+    "Type": "Effect",
+    "ID": "25485"
+  },
+  "translation": null
+}

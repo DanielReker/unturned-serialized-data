@@ -1,0 +1,13 @@
+{
+  "name": "Tub_0",
+  "path": "Bundles/Objects/Medium/Furniture/Tub_0/Tub_0.dat",
+  "data": {
+    "GUID": "8cffc239fd2d4a8383b0cc60399a5b35",
+    "Type": "Medium",
+    "ID": "377",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Tub #1"
+  }
+}

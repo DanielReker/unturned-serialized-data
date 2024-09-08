@@ -1,0 +1,24 @@
+{
+  "name": "Metro_Note_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Note_1/Metro_Note_1.dat",
+  "data": {
+    "GUID": "0150dbad436e45d1957570fcbc5c47cf",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57441",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "5",
+    "Asset_Bundle_Version": "3",
+    "Master_Bundle_Override": "core.masterbundle",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note"
+  },
+  "translation": {
+    "Name": "Metro Note #2",
+    "Interactability_Text_Line_0": "My Haiku",
+    "Interactability_Text_Line_1": "---------------",
+    "Interactability_Text_Line_2": "Radiation below.",
+    "Interactability_Text_Line_3": "There is a small pond there though",
+    "Interactability_Text_Line_4": "so it's safe to jump."
+  }
+}

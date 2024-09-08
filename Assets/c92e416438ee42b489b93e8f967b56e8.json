@@ -1,0 +1,22 @@
+{
+  "name": "PS_Documents_Bag_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/Items/Backpacks/PS_Documents_Bag_0/PS_Documents_Bag_0.dat",
+  "data": {
+    "GUID": "c92e416438ee42b489b93e8f967b56e8",
+    "Type": "Backpack",
+    "Rarity": "Legendary",
+    "Useable": "Clothing",
+    "ID": "59721",
+    "Size_X": "2",
+    "Size_Y": "2",
+    "Size_Z": "0.4",
+    "Width": "2",
+    "Height": "2",
+    "Quality_Min": "100",
+    "Quality_Max": "100"
+  },
+  "translation": {
+    "Name": "Documents Bag",
+    "Description": "Bag full of confidential documents. Someone will pay hefty for it."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CarpatLegacy_Terrain_Snow",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1497352180/Carpat/Bundles/CarpatFix/Assets/Landscapes/Materials/CarpatLegacy_Terrain_Snow.asset",
+  "data": {
+    "GUID": "5eabcf7bdb9842d38e2cd714b15e9960",
+    "Type": "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Texture": {
+      "Name": "carpatfix.masterbundle",
+      "Path": "Assets/Terrain/Materials/CarpatLegacy_Terrain_Snow.png"
+    },
+    "Mask": {
+      "Name": "",
+      "Path": ""
+    },
+    "Physics_Material": "SNOW_STATIC",
+    "Foliage": {
+      "GUID": "5750f2cc23cc4ad99155e1b786781012"
+    }
+  },
+  "translation": null
+}

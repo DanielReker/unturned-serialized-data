@@ -1,0 +1,16 @@
+{
+  "name": "Buak_Well",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Objects/Medium/Props/Buak_Well/Buak_Well.dat",
+  "data": {
+    "GUID": "069f3af6d2834bb8beea99d5582bac92",
+    "Type": "Medium",
+    "ID": "25300",
+    "Interactability": "Water",
+    "Interactability_Reset": "1500",
+    "Interactability_Resource": "10",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Buak_Well"
+  }
+}

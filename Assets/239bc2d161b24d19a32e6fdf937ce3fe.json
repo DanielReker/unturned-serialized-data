@@ -1,0 +1,22 @@
+{
+  "name": "Easter_Note_Bravo_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1983200271/Easter Island/Bundles/Objects/Small/Notes/Easter_Note_Bravo_0/Easter_Note_Bravo_0.dat",
+  "data": {
+    "GUID": "239bc2d161b24d19a32e6fdf937ce3fe",
+    "Type": "Small",
+    "ID": "6843",
+    "Interactability": "Note",
+    "Interactability_Hint": "Use",
+    "Interactability_Text_Lines": "3",
+    "Asset_Bundle_Version": "2",
+    "Bundle_Override_Path": "/Objects/Medium/Furniture/Note",
+    "Exclude_From_Master_Bundle": "",
+    "Master_Bundle_Override": "core.masterbundle"
+  },
+  "translation": {
+    "Name": "Easter Note - Bravo #1",
+    "Interactability_Text_Line_0": "Log: 14/4/17 - Research Outpost: Bravo",
+    "Interactability_Text_Line_1": "------",
+    "Interactability_Text_Line_2": "Finally a new import came in today. It’s been weeks since a ship has come through here. Hell must be rising on the mainland in order for us to not have any supplies. Looks like as usual we’ll be forgotten in the midst of all of this. But for now, we get back to SCIENCE!"
+  }
+}

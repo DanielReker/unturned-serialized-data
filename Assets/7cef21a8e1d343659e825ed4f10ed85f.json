@@ -1,0 +1,18 @@
+{
+  "name": "Metro_Garbage_0",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2136497468/Elver/Bundles/Main/Objects/Medium/Metro_Garbage_0/Metro_Garbage_0.dat",
+  "data": {
+    "GUID": "7cef21a8e1d343659e825ed4f10ed85f",
+    "Type": "Medium",
+    "Has_Clip_Prefab": "false",
+    "ID": "57036",
+    "Interactability": "Rubble",
+    "Interactability_Reset": "300",
+    "Interactability_Health": "75",
+    "Interactability_Effect": "70",
+    "Asset_Bundle_Version": "2"
+  },
+  "translation": {
+    "Name": "Metro Garbage #1"
+  }
+}

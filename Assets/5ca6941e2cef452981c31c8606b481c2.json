@@ -1,0 +1,43 @@
+{
+  "name": "Wooden_1Q_Roof",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Structures/WD/CX/Wooden_1Q_Roof/Wooden_1Q_Roof.dat",
+  "data": {
+    "GUID": "5ca6941e2cef452981c31c8606b481c2",
+    "Type": "Structure",
+    "Rarity": "Rare",
+    "Useable": "Structure",
+    "Construct": "Roof",
+    "ID": "51850",
+    "Size_X": "1",
+    "Size_Y": "1",
+    "Size_Z": "0.0125",
+    "Health": "500",
+    "Range": "8",
+    "Explosion": "29",
+    "Blueprints": "2",
+    "Blueprint_0_Type": "Structure",
+    "Blueprint_0_Supplies": "1",
+    "Blueprint_0_Supply_0_ID": "51023",
+    "Blueprint_0_Supply_0_Amount": "2",
+    "Blueprint_0_Build": "27",
+    "Blueprint_0_Tool": "51025",
+    "Blueprint_0_Tool_Critical": "",
+    "Blueprint_1_Type": "Structure",
+    "Blueprint_1_Supplies": "1",
+    "Blueprint_1_Supply_0_ID": "51850",
+    "Blueprint_1_Supply_0_Amount": "1",
+    "Blueprint_1_Outputs": "1",
+    "Blueprint_1_Output_0_ID": "51023",
+    "Blueprint_1_Output_0_Amount": "1",
+    "Blueprint_1_Build": "27",
+    "Blueprint_1_Tool": "51025",
+    "Blueprint_1_Tool_Critical": "",
+    "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+    "Has_Clip_Prefab": "false",
+    "Use_Auto_Icon_Measurements": "false"
+  },
+  "translation": {
+    "Name": "Wooden Quarter Roof",
+    "Description": "Wooden quarter roof. Beware of termites."
+  }
+}

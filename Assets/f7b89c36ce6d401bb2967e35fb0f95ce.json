@@ -1,0 +1,24 @@
+{
+  "name": "Buak_Trashbags",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3000549606/Buak/Bundles/Assets/Material_Palettes/Buak_Trashbags.asset",
+  "data": {
+    "GUID": "f7b89c36ce6d401bb2967e35fb0f95ce",
+    "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "ID": "0",
+    "Materials": [
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Trashbags/Trashbag_00.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Trashbags/Trashbag_01.mat"
+      },
+      {
+        "Name": "buak.masterbundle",
+        "Path": "Material_Palettes/Buak_Trashbags/Trashbag_02.mat"
+      }
+    ]
+  },
+  "translation": null
+}

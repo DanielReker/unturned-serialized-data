@@ -1,0 +1,13 @@
+{
+  "name": "Heli_4",
+  "path": "Bundles/Objects/Large/Vehicles/Heli_4/Heli_4.dat",
+  "data": {
+    "GUID": "f6e8282ca5124947aed2edffdf149f9a",
+    "Type": "Large",
+    "ID": "668",
+    "Has_Clip_Prefab": "false"
+  },
+  "translation": {
+    "Name": "Heli #5"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Ensign_Asylum_Horde_Completed",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1411633953/Ireland/Bundles/NPCs/Ireland_NPCS/Dialogues/Coali/Ensign_Archie/Ensign_Asylum_Horde_Completed/Asset.dat",
+  "data": {
+    "GUID": "852b5cef78c44080acb768bfebca6824",
+    "Type": "Dialogue",
+    "ID": "15139",
+    "Messages": "1",
+    "Message_0_Pages": "1"
+  },
+  "translation": {
+    "Message_0_Page_0": "There's a lab in there? I thought it was just urban legend. No ghosts, right?"
+  }
+}

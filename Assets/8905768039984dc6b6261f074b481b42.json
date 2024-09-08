@@ -1,0 +1,28 @@
+{
+  "name": "PS_Trader_7_Barter_1",
+  "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2683620106/Arid/Bundles/MAIN/NPC/Dialogue/PS_Trader_7_Dialogue/PS_Trader_7_Barter_1/Asset.dat",
+  "data": {
+    "GUID": "8905768039984dc6b6261f074b481b42",
+    "Type": "Quest",
+    "ID": "59232",
+    "Conditions": "1",
+    "Condition_0_Type": "Item",
+    "Condition_0_ID": "59615",
+    "Condition_0_Amount": "2",
+    "Condition_0_Reset": "",
+    "Rewards": "3",
+    "Reward_0_Type": "Item",
+    "Reward_0_ID": "59003",
+    "Reward_0_Amount": "1",
+    "Reward_1_Type": "Item",
+    "Reward_1_ID": "59129",
+    "Reward_1_Amount": "1",
+    "Reward_2_Type": "Item",
+    "Reward_2_ID": "59548",
+    "Reward_2_Amount": "1"
+  },
+  "translation": {
+    "Name": "Dogtag Trade - Car Supplies",
+    "Description": "Exchange of goods."
+  }
+}
