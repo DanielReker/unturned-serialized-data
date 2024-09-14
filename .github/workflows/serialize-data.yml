@@ -30,13 +30,15 @@ jobs:
         run: |
           whoami
           pwd
-          ls -la
+          ls -na
           groups runner
           sudo cat /etc/passwd
+          id
+
 
       - name: Run Unturned data serializer
         run: |
-          docker run -v ${{ github.workspace }}/U3DS:/app/U3DS -v ${{ github.workspace }}/data:/app/output ghcr.io/danielreker/unturned-data-serializer:latest
+          docker run -u $(id -u ${USER}):$(id -g ${USER}) -v ${{ github.workspace }}/U3DS:/app/U3DS -v ${{ github.workspace }}/data:/app/output ghcr.io/danielreker/unturned-data-serializer:latest
 
       - name: Commit & Push changes
         uses: actions-js/push@v1.5
