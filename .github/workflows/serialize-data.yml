@@ -29,8 +29,7 @@ jobs:
       - name: Run Unturned data serializer
         uses: addnab/docker-run-action@v3
         with:
-          registry: ghcr.io
-          image: danielreker/unturned-data-serializer:latest
+          image: ghcr.io/danielreker/unturned-data-serializer:latest
           options: -v ./U3DS:/app/U3DS -v ./data:/app/output
 
       - name: Commit & Push changes
