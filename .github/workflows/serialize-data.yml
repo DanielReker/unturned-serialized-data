@@ -34,11 +34,12 @@ jobs:
           groups runner
           sudo cat /etc/passwd
           id
+          sudo chown -Rv runneradmin:runneradmin ${{ github.workspace }}
 
 
       - name: Run Unturned data serializer
         run: |
-          docker run -u 0:0 -v ${{ github.workspace }}/U3DS:/app/U3DS -v ${{ github.workspace }}/data:/app/output ghcr.io/danielreker/unturned-data-serializer:latest
+          docker run -v ${{ github.workspace }}/U3DS:/app/U3DS -v ${{ github.workspace }}/data:/app/output ghcr.io/danielreker/unturned-data-serializer:latest
 
       - name: Commit & Push changes
         uses: actions-js/push@v1.5
