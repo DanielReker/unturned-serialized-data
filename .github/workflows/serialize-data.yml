@@ -22,7 +22,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: U3DS
-          key: u3ds-${{ hashFiles('U3DS') }}
+          key: u3ds-${{ hashFiles('./U3DS/') }}
           restore-keys: |
             u3ds
 
