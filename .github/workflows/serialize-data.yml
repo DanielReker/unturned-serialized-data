@@ -1,0 +1,41 @@
+name: Serialize Unturned maps and assets data
+
+on:
+  workflow_dispatch:
+
+
+permissions:
+  contents: write
+
+
+jobs:
+  serialize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+
+      - name: Cache U3DS
+        uses: actions/cache@v4
+        with:
+          path: U3DS
+          key: u3ds-${{ hashFiles('U3DS') }}
+          restore-keys: |
+            u3ds
+
+      - name: Run Unturned data serializer
+        uses: addnab/docker-run-action@v3
+        with:
+          registry: ghcr.io
+          image: danielreker/unturned-data-serializer:latest
+          options: -v ./U3DS:/app/U3DS -v ./data:/app/output
+
+      - name: Commit & Push changes
+        uses: actions-js/push@v1.5
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          directory: data
+          branch: data
