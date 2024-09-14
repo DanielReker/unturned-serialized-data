@@ -30,11 +30,11 @@ jobs:
         run: |
           whoami
           pwd
-          ls -na
+          ls -na U3DS
           sudo chown -Rv 1000:1000 ${{ github.workspace }}
-          ls -na
+          ls -na U3DS
           sudo chown -Rv $(id -u ${USER}):$(id -g ${USER}) ${{ github.workspace }}
-          ls -na
+          ls -na U3DS
           groups runner
           sudo cat /etc/passwd
           id
