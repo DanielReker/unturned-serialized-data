@@ -26,6 +26,12 @@ jobs:
           restore-keys: |
             u3ds
 
+      - name: Debug
+        run: |
+          whoami
+          pwd
+          ls -la
+
       - name: Run Unturned data serializer
         run: |
           docker run -v ${{ github.workspace }}/U3DS:/app/U3DS -v ${{ github.workspace }}/data:/app/output ghcr.io/danielreker/unturned-data-serializer:latest
