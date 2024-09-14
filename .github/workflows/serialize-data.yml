@@ -31,9 +31,9 @@ jobs:
           whoami
           pwd
           ls -na
-          sudo chown -R 1000:1000 ${{ github.workspace }}
+          sudo chown -Rv 1000:1000 ${{ github.workspace }}
           ls -na
-          sudo chown -R $(id -u ${USER}):$(id -g ${USER}) ${{ github.workspace }}
+          sudo chown -Rv $(id -u ${USER}):$(id -g ${USER}) ${{ github.workspace }}
           ls -na
           groups runner
           sudo cat /etc/passwd
