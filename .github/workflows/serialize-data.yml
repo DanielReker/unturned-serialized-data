@@ -30,7 +30,7 @@ jobs:
         uses: addnab/docker-run-action@v3
         with:
           image: ghcr.io/danielreker/unturned-data-serializer:latest
-          options: -v ./U3DS:/app/U3DS -v ./data:/app/output
+          options: -v ${{ github.workspace }}/U3DS:/app/U3DS -v ${{ github.workspace }}/data:/app/output
 
       - name: Commit & Push changes
         uses: actions-js/push@v1.5
