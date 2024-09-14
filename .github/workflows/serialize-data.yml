@@ -30,20 +30,21 @@ jobs:
         run: |
           whoami
           pwd
-          ls -na U3DS
+          ls -na
           sudo chown -Rv 1000:1000 ${{ github.workspace }}
-          ls -na U3DS
+          ls -na
           sudo chown -Rv $(id -u ${USER}):$(id -g ${USER}) ${{ github.workspace }}
-          ls -na U3DS
+          ls -na
           groups runner
           sudo cat /etc/passwd
           id
 
       - name: Run Unturned data serializer
         run: |
-          sudo chown -R 1000:1000 ${{ github.workspace }}
+          mkdir U3DS
+          sudo chown -R 1000:1000 ${{ github.workspace }}/data ${{ github.workspace }}/U3DS
           docker run -v ${{ github.workspace }}/U3DS:/app/U3DS -v ${{ github.workspace }}/data:/app/output ghcr.io/danielreker/unturned-data-serializer:latest
-          sudo chown -R $(id -u ${USER}):$(id -g ${USER}) ${{ github.workspace }}
+          sudo chown -R $(id -u ${USER}):$(id -g ${USER}) ${{ github.workspace }}/data ${{ github.workspace }}/U3DS
       
       - name: Commit & Push changes
         uses: actions-js/push@v1.5
