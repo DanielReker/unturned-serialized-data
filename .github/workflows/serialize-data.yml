@@ -22,22 +22,9 @@ jobs:
         uses: actions/cache@v4
         with:
           path: U3DS
-          key: u3ds-${{ hashFiles('./U3DS/') }}
+          key: u3ds
           restore-keys: |
             u3ds
-
-      - name: Debug
-        run: |
-          whoami
-          pwd
-          ls -na
-          sudo chown -Rv 1000:1000 ${{ github.workspace }}
-          ls -na
-          sudo chown -Rv $(id -u ${USER}):$(id -g ${USER}) ${{ github.workspace }}
-          ls -na
-          groups runner
-          sudo cat /etc/passwd
-          id
 
       - name: Run Unturned data serializer
         run: |
