@@ -28,7 +28,7 @@ jobs:
 
       - name: Run Unturned data serializer
         run: |
-          mkdir U3DS
+          mkdir -p U3DS
           sudo chown -R 1000:1000 ${{ github.workspace }}/data ${{ github.workspace }}/U3DS
           docker run -v ${{ github.workspace }}/U3DS:/app/U3DS -v ${{ github.workspace }}/data:/app/output ghcr.io/danielreker/unturned-data-serializer:latest
           sudo chown -R $(id -u ${USER}):$(id -g ${USER}) ${{ github.workspace }}/data ${{ github.workspace }}/U3DS
