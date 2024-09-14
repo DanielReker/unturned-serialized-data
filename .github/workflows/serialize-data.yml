@@ -32,7 +32,7 @@ jobs:
           pwd
           ls -la
           groups runner
-          sudo chmod -r g+w ${{ github.workspace }}
+          sudo chmod -R g+w ${{ github.workspace }}
 
       - name: Run Unturned data serializer
         run: |
