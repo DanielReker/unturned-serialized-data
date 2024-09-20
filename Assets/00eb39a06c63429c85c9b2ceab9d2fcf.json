@@ -4,7 +4,7 @@
   "data": {
     "GUID": "00eb39a06c63429c85c9b2ceab9d2fcf",
     "Type": "Melee",
-    "Rarity": "Common",
+    "Rarity": "Uncommon",
     "Useable": "Melee",
     "Slot": "Any",
     "ID": "25604",
@@ -14,7 +14,8 @@
     "Use_Auto_Icon_Measurements": "False",
     "Range": "3",
     "Strength": "1.5",
-    "Stamina": "30",
+    "Stamina": "20",
+    "Player_Damage_Bleeding": "Always",
     "Weak": "0.377",
     "Strong": "0.349",
     "Player_Damage": "40",
