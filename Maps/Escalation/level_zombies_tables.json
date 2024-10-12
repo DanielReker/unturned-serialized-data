@@ -983,76 +983,19 @@
         "chance": 1.0,
         "table": [
           {
-            "item": 51130
+            "item": 52318
           },
           {
-            "item": 51131
+            "item": 52320
           },
           {
-            "item": 51132
+            "item": 52322
           },
           {
-            "item": 51133
+            "item": 52324
           },
           {
-            "item": 51134
-          },
-          {
-            "item": 51135
-          },
-          {
-            "item": 51136
-          },
-          {
-            "item": 51137
-          },
-          {
-            "item": 51138
-          },
-          {
-            "item": 51139
-          },
-          {
-            "item": 51140
-          },
-          {
-            "item": 51141
-          },
-          {
-            "item": 51142
-          },
-          {
-            "item": 51143
-          },
-          {
-            "item": 51144
-          },
-          {
-            "item": 51145
-          },
-          {
-            "item": 51146
-          },
-          {
-            "item": 51147
-          },
-          {
-            "item": 51148
-          },
-          {
-            "item": 51149
-          },
-          {
-            "item": 51150
-          },
-          {
-            "item": 51151
-          },
-          {
-            "item": 51152
-          },
-          {
-            "item": 51153
+            "item": 52326
           }
         ]
       },
@@ -1060,34 +1003,19 @@
         "chance": 1.0,
         "table": [
           {
-            "item": 51154
+            "item": 52319
           },
           {
-            "item": 51155
+            "item": 52321
           },
           {
-            "item": 51156
+            "item": 52323
           },
           {
-            "item": 51157
+            "item": 52325
           },
           {
-            "item": 51158
-          },
-          {
-            "item": 51159
-          },
-          {
-            "item": 51160
-          },
-          {
-            "item": 51161
-          },
-          {
-            "item": 51162
-          },
-          {
-            "item": 51163
+            "item": 52327
           }
         ]
       },
@@ -1396,6 +1324,162 @@
       "b": 1.0
     },
     "tableUniqueId": 21,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "DZ2",
+    "isMega": false,
+    "health": 150,
+    "damage": 18,
+    "lootIndex": 0,
+    "lootID": 51170,
+    "xp": 6,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 52025
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 52021
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 52020
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.345098048,
+      "b": 1.0
+    },
+    "tableUniqueId": 22,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "PilotT0",
+    "isMega": false,
+    "health": 150,
+    "damage": 17,
+    "lootIndex": 0,
+    "lootID": 51180,
+    "xp": 6,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 52330
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 52331
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 52332
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.03137255,
+      "g": 0.298039228,
+      "b": 0.0196078438
+    },
+    "tableUniqueId": 24,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "PilotT2",
+    "isMega": false,
+    "health": 150,
+    "damage": 17,
+    "lootIndex": 0,
+    "lootID": 51181,
+    "xp": 6,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 52330
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 52331
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 52332
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.403921574,
+      "b": 0.298039228
+    },
+    "tableUniqueId": 25,
     "difficultyGUID": "",
     "difficulty": {
       "GUID": "00000000000000000000000000000000",
