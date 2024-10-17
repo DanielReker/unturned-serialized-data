@@ -1893,7 +1893,14 @@
       "Spread": "0.8",
       "Sway": "0.75",
       "Shake": "0.8",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Vertical Grip",
@@ -1995,7 +2002,7 @@
       "Explosion": "36",
       "Vulnerable": "",
       "Unrepairable": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Barricade",
       "Blueprint_0_Supply_0_ID": "65",
       "Blueprint_0_Supply_0_Amount": "2",
@@ -2003,6 +2010,13 @@
       "Blueprint_0_Conditions": "1",
       "Blueprint_0_Condition_0_Type": "Holiday",
       "Blueprint_0_Condition_0_Value": "Christmas",
+      "Blueprint_1_Type": "Barricade",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Product": "65",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -2505,7 +2519,14 @@
       "ID": "268",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.4"
+      "Size_Z": "0.4",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Yellow Smoke",
@@ -3763,7 +3784,7 @@
       "Name": "Getting the Word Out",
       "Description": "For survivors without radios <color=legendary>Commander Laurence</color> plans to put up posters with directions to the Liberator. He suggests placing them in each town/city's police station.",
       "Condition_0": "Jhavesk PD {0}/1",
-      "Condition_1": "Yekativurg PD {0}/1",
+      "Condition_1": "Yekaterinburg PD {0}/1",
       "Condition_2": "St. Petersburg PD {0}/1",
       "Condition_3": "Moscow West PD {0}/1",
       "Condition_4": "Moscow South PD {0}/1"
@@ -4417,7 +4438,7 @@
     },
     "translation": {
       "Name": "<color=mythical>Aftershock</color>",
-      "Description": "During Peter's escape from Yekativurg he barely avoided a giant zombie that pounced from the air, slamming into the ground causing \"miniature earthquakes\". He hasn't been able to get it out of his mind and would really appreciate knowing it had been dealt with.",
+      "Description": "During Peter's escape from Yekaterinburg he barely avoided a giant zombie that pounced from the air, slamming into the ground causing \"miniature earthquakes\". He hasn't been able to get it out of his mind and would really appreciate knowing it had been dealt with.",
       "Condition_0": "Defeat {0}/{1} <color=mythical>Groundpounder Boss</color>"
     }
   },
@@ -5868,7 +5889,7 @@
       "Size_X": "2",
       "Size_Y": "2",
       "Size_Z": "0.55",
-      "Health": "75",
+      "Health": "150",
       "Range": "4",
       "Radius": "0.5",
       "Offset": "1",
@@ -7243,7 +7264,7 @@
       "Buying_7_ID": "125",
       "Buying_7_Amount": "20",
       "Buying_7_Cost": "30",
-      "Selling": "3",
+      "Selling": "6",
       "Selling_0_ID": "121",
       "Selling_0_Amount": "1",
       "Selling_0_Cost": "50",
@@ -7252,7 +7273,26 @@
       "Selling_1_Cost": "40",
       "Selling_2_ID": "1008",
       "Selling_2_Amount": "1",
-      "Selling_2_Cost": "600"
+      "Selling_2_Cost": "600",
+      "Selling_3_ID": "107",
+      "Selling_3_Sight": "21",
+      "Selling_3_Cost": "1500",
+      "Selling_3_Conditions": "1",
+      "Selling_3_Condition_0_Type": "Flag_Short",
+      "Selling_3_Condition_0_Logic": "Equal",
+      "Selling_3_Condition_0_ID": "346",
+      "Selling_3_Condition_0_Value": "2",
+      "Selling_4_ID": "112",
+      "Selling_4_Barrel": "1444",
+      "Selling_4_Cost": "1500",
+      "Selling_4_Conditions": "1",
+      "Selling_4_Condition_0_Type": "Flag_Short",
+      "Selling_4_Condition_0_Logic": "Equal",
+      "Selling_4_Condition_0_ID": "347",
+      "Selling_4_Condition_0_Value": "2",
+      "Selling_5_ID": "eae61af155e1460481ed4dd575dfcd9d",
+      "Selling_5_Amount": "1",
+      "Selling_5_Cost": "200"
     },
     "translation": {
       "Name": "<color=legendary>Coalition</color> Armory",
@@ -7693,7 +7733,7 @@
       "ID": "143",
       "Messages": "1",
       "Message_0_Pages": "1",
-      "Responses": "3",
+      "Responses": "5",
       "Response_0_Dialogue": "145",
       "Response_0_Vendor": "142",
       "Response_0_Conditions": "1",
@@ -7705,13 +7745,47 @@
       "Response_1_Rewards": "1",
       "Response_1_Reward_0_Type": "Flag_Bool",
       "Response_1_Reward_0_ID": "146",
-      "Response_1_Reward_0_Value": "True"
+      "Response_1_Reward_0_Value": "True",
+      "Response_2_Dialogue": "bf7a621cf6ff4a61a51648edc9b984b0",
+      "Response_2_Conditions": "2",
+      "Response_2_Condition_0_Type": "Flag_Bool",
+      "Response_2_Condition_0_Logic": "Equal",
+      "Response_2_Condition_0_ID": "228",
+      "Response_2_Condition_0_Value": "True",
+      "Response_2_Condition_1_Type": "Flag_Short",
+      "Response_2_Condition_1_Logic": "Equal",
+      "Response_2_Condition_1_ID": "346",
+      "Response_2_Condition_1_Value": "0",
+      "Response_2_Condition_1_Allow_Unset": "",
+      "Response_2_Rewards": "1",
+      "Response_2_Reward_0_Type": "Flag_Short",
+      "Response_2_Reward_0_ID": "346",
+      "Response_2_Reward_0_Value": "1",
+      "Response_2_Reward_0_Modification": "Assign",
+      "Response_3_Dialogue": "e0214d958038413a9b46eb673210da93",
+      "Response_3_Conditions": "2",
+      "Response_3_Condition_0_Type": "Flag_Bool",
+      "Response_3_Condition_0_Logic": "Equal",
+      "Response_3_Condition_0_ID": "226",
+      "Response_3_Condition_0_Value": "True",
+      "Response_3_Condition_1_Type": "Flag_Short",
+      "Response_3_Condition_1_Logic": "Equal",
+      "Response_3_Condition_1_ID": "347",
+      "Response_3_Condition_1_Value": "0",
+      "Response_3_Condition_1_Allow_Unset": "",
+      "Response_3_Rewards": "1",
+      "Response_3_Reward_0_Type": "Flag_Short",
+      "Response_3_Reward_0_ID": "347",
+      "Response_3_Reward_0_Value": "1",
+      "Response_3_Reward_0_Modification": "Assign"
     },
     "translation": {
       "Message_0_Page_0": "Hello!",
       "Response_0": "I'd like to trade",
       "Response_1": "Need any help?",
-      "Response_2": "Goodbye"
+      "Response_2": "Doc Ernie modded an <color=rare>8x Scope</color> onto an <color=uncommon>Ace</color>!",
+      "Response_3": "Doc Ernie modded a suppressor onto a <color=rare>Bluntforce</color>!",
+      "Response_4": "Goodbye"
     }
   },
   "0ee876f680c24356854d7aaa8493bfc0": {
@@ -8337,8 +8411,6 @@
       "Reward_Max": "8",
       "Reset": "750",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Christmas_Redirect": "ba311a4ddbe34121acd6899fd424813b",
       "Has_Clip_Prefab": "false"
     },
@@ -8874,7 +8946,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Vonya Iron Sights",
@@ -9090,6 +9169,17 @@
       "Name": "Syndicate Decal #1"
     }
   },
+  "1178ea3ef8124d09affb04e7cd1e466d": {
+    "name": "HW2_Jack_O_Bandana",
+    "path": "Bundles/Items/Halloween2024/HW2_Jack_O_Bandana/HW2_Jack_O_Bandana.dat",
+    "data": {
+      "GUID": "1178ea3ef8124d09affb04e7cd1e466d",
+      "Type": "Mask",
+      "Hair": "",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "1183047fcfd640e893a21ddb24000e30": {
     "name": "Trout_Cooked",
     "path": "Bundles/Items/Food/Trout_Cooked/Trout_Cooked.dat",
@@ -9155,7 +9245,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Matamorez Iron Sights",
@@ -10735,32 +10832,11 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.45",
-      "Blueprints": "6",
+      "Blueprints": "1",
       "Blueprint_0_Type": "Gear",
       "Blueprint_0_Supply_0_ID": "516",
       "Blueprint_0_Supply_0_Amount": "2",
       "Blueprint_0_Build": "27",
-      "Blueprint_1_Type": "Gear",
-      "Blueprint_1_Supplies": "1",
-      "Blueprint_1_Supply_0_ID": "1051",
-      "Blueprint_1_Supply_0_Amount": "3",
-      "Blueprint_1_Build": "27",
-      "Blueprint_2_Type": "Gear",
-      "Blueprint_2_Supply_0_ID": "1052",
-      "Blueprint_2_Supply_0_Amount": "3",
-      "Blueprint_2_Build": "27",
-      "Blueprint_3_Type": "Gear",
-      "Blueprint_3_Supply_0_ID": "1053",
-      "Blueprint_3_Supply_0_Amount": "3",
-      "Blueprint_3_Build": "27",
-      "Blueprint_4_Type": "Gear",
-      "Blueprint_4_Supply_0_ID": "1054",
-      "Blueprint_4_Supply_0_Amount": "3",
-      "Blueprint_4_Build": "27",
-      "Blueprint_5_Type": "Gear",
-      "Blueprint_5_Supply_0_ID": "1055",
-      "Blueprint_5_Supply_0_Amount": "3",
-      "Blueprint_5_Build": "27",
       "Actions": "1",
       "Action_0_Type": "Blueprint",
       "Action_0_Source": "393",
@@ -10875,7 +10951,7 @@
       "Recoil_Y": "0.6",
       "Ballistic_Drop": "0.9",
       "Paintable": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Repair",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "67",
@@ -10883,7 +10959,13 @@
       "Blueprint_0_Tool": "76",
       "Blueprint_0_Level": "1",
       "Blueprint_0_Skill": "Repair",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "2",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Ranger Muzzle",
@@ -11642,7 +11724,14 @@
       "ID": "263",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.4"
+      "Size_Z": "0.4",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Green Smoke",
@@ -12398,7 +12487,7 @@
       "Vulnerable": "",
       "Unrepairable": "",
       "Proof_Explosion": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1241",
@@ -12406,6 +12495,15 @@
       "Blueprint_0_Level": "3",
       "Blueprint_0_Skill": "Craft",
       "Blueprint_0_Build": "32",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Product": "73",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Level": "2",
+      "Blueprint_1_Skill": "Craft",
+      "Blueprint_1_Build": "27",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -13173,12 +13271,29 @@
       "Size_Y": "1",
       "Size_Z": "0.1",
       "Holographic": "",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Dot Sight",
       "Description": "Rail mounted sight with electronic aiming point."
     }
+  },
+  "19c1d78c0ac54db4b8505a197004ef69": {
+    "name": "HW2_Coffin_Bag",
+    "path": "Bundles/Items/Halloween2024/HW2_Coffin_Bag/HW2_Coffin_Bag.dat",
+    "data": {
+      "GUID": "19c1d78c0ac54db4b8505a197004ef69",
+      "Type": "Backpack",
+      "Pro": ""
+    },
+    "translation": null
   },
   "19c615f4814e4faa8535b2aac4d40481": {
     "name": "Rebar_0",
@@ -13218,7 +13333,7 @@
       "Explosive": "",
       "Explode_On_Impact": "",
       "Fuse_Length": "4",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "4",
       "Blueprint_0_Supply_0_ID": "70",
@@ -13231,7 +13346,16 @@
       "Blueprint_0_Supply_3_Amount": "1",
       "Blueprint_0_Level": "2",
       "Blueprint_0_Skill": "Craft",
-      "Blueprint_0_Build": "32"
+      "Blueprint_0_Build": "32",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Product": "73",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Level": "2",
+      "Blueprint_1_Skill": "Craft",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Impact Grenade",
@@ -14603,7 +14727,15 @@
       "ID": "1057",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.15"
+      "Size_Z": "0.15",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Supply_0_Amount": "3",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Toonie",
@@ -15705,8 +15837,6 @@
       "Reward_Max": "8",
       "Reset": "750",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Christmas_Redirect": "99848480a28f41ebb3d752a47fd5b023",
       "Has_Clip_Prefab": "false"
     },
@@ -16310,7 +16440,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Dragonfang Iron Sights",
@@ -16483,8 +16620,6 @@
       "Reward_Max": "10",
       "Reset": "450",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Christmas_Redirect": "99848480a28f41ebb3d752a47fd5b023",
       "Has_Clip_Prefab": "false"
     },
@@ -16510,11 +16645,17 @@
       "Radius": "0.4",
       "Offset": "0.5",
       "Explosion": "19",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Barricade",
       "Blueprint_0_Supply_0_ID": "66",
       "Blueprint_0_Supply_0_Amount": "5",
       "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Barricade",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "66",
+      "Blueprint_1_Products": "3",
+      "Blueprint_1_Build": "27",
       "PlacementAudioClip": "Sounds/WoodenPlacement.mp3",
       "Has_Clip_Prefab": "false"
     },
@@ -17446,7 +17587,7 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.45",
-      "Blueprints": "4",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Gear",
       "Blueprint_0_Supply_0_ID": "68",
       "Blueprint_0_Products": "2",
@@ -17456,14 +17597,6 @@
       "Blueprint_1_Supply_0_Amount": "2",
       "Blueprint_1_Tool": "76",
       "Blueprint_1_Build": "27",
-      "Blueprint_2_Type": "Gear",
-      "Blueprint_2_Supply_0_ID": "1056",
-      "Blueprint_2_Supply_0_Amount": "3",
-      "Blueprint_2_Build": "27",
-      "Blueprint_3_Type": "Gear",
-      "Blueprint_3_Supply_0_ID": "1057",
-      "Blueprint_3_Supply_0_Amount": "3",
-      "Blueprint_3_Build": "27",
       "InventoryAudio": "Sounds/Inventory/SmallMetal.asset"
     },
     "translation": {
@@ -17481,7 +17614,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Fusilaut Iron Sights",
@@ -18616,7 +18756,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Nightraider Iron Sights",
@@ -19095,7 +19242,7 @@
       "Explosion": "36",
       "Vulnerable": "",
       "Unrepairable": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "4",
       "Blueprint_0_Supply_0_ID": "67",
@@ -19109,6 +19256,15 @@
       "Blueprint_0_Level": "1",
       "Blueprint_0_Skill": "Craft",
       "Blueprint_0_Build": "32",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Product": "73",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Level": "2",
+      "Blueprint_1_Skill": "Craft",
+      "Blueprint_1_Build": "27",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -20008,7 +20164,14 @@
       "Size_Y": "1",
       "Size_Z": "0.1",
       "Holographic": "",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Halo Sight",
@@ -20312,6 +20475,16 @@
       "Description": "Chilly weather hoodie."
     }
   },
+  "27d1ce422944400183faee42141aa1e1": {
+    "name": "HW2_Paper_Bag",
+    "path": "Bundles/Items/Halloween2024/HW2_Paper_Bag/HW2_Paper_Bag.dat",
+    "data": {
+      "GUID": "27d1ce422944400183faee42141aa1e1",
+      "Type": "Mask",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "27e0c24e25684f6f9d36a917b857a985": {
     "name": "Space_R77",
     "path": "Bundles/Skins/Heartbreaker/Space_R77/Space_R77.dat",
@@ -20372,6 +20545,17 @@
     "translation": {
       "Name": "Road Tee Cap #1"
     }
+  },
+  "281ef206b3a246708b20b751dbc3bc28": {
+    "name": "HW2_College_Jacket",
+    "path": "Bundles/Items/Halloween2024/HW2_College_Jacket/HW2_College_Jacket.dat",
+    "data": {
+      "GUID": "281ef206b3a246708b20b751dbc3bc28",
+      "Type": "Shirt",
+      "Pro": "",
+      "Ignore_Hand": ""
+    },
+    "translation": null
   },
   "2832a7342400423a8af1f8a77dd9f355": {
     "name": "Military_Peaks_Plane",
@@ -21156,6 +21340,16 @@
       "Name": "Divider #2"
     }
   },
+  "295efc40ec6d4cdba2e0142255673e37": {
+    "name": "HW2_Shark_Head",
+    "path": "Bundles/Items/Halloween2024/HW2_Shark_Head/HW2_Shark_Head.dat",
+    "data": {
+      "GUID": "295efc40ec6d4cdba2e0142255673e37",
+      "Type": "Mask",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "2969ed12d1984d59b5e3b61a5f3e8a9f": {
     "name": "Train_Car_2",
     "path": "Bundles/Objects/Large/Vehicles/Train_Car_2/Train_Car_2.dat",
@@ -21749,7 +21943,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Devil's Bane Iron Sights",
@@ -21811,7 +22012,14 @@
       "Size_Y": "1",
       "Size_Z": "0.075",
       "Light": "",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Tactical Light",
@@ -23701,7 +23909,7 @@
       "Vulnerable": "",
       "Unrepairable": "",
       "Proof_Explosion": "",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "3",
       "Blueprint_0_Supply_0_ID": "65",
@@ -23720,6 +23928,15 @@
       "Blueprint_1_Level": "3",
       "Blueprint_1_Skill": "Craft",
       "Blueprint_1_Build": "32",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_Amount": "1",
+      "Blueprint_2_Product": "73",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Level": "2",
+      "Blueprint_2_Skill": "Craft",
+      "Blueprint_2_Build": "27",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -23790,7 +24007,22 @@
       "ID": "255",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.45"
+      "Size_Z": "0.45",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supply_0_ID": "1272",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "3",
+      "Blueprint_1_Product": "75",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Level": "2",
+      "Blueprint_1_Skill": "Craft",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Blue Flare",
@@ -24759,7 +24991,14 @@
           "LineWidth": "0.0125",
           "Side": "Left"
         }
-      ]
+      ],
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Augewehr Scope",
@@ -24869,8 +25108,6 @@
       "Reward_Max": "8",
       "Reset": "750",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -26458,7 +26695,7 @@
     },
     "translation": {
       "Name": "<color=mythical>Scorched Earth</color>",
-      "Description": "Recently Norbert was helping out on a scavenging mission to Novobirsk when they ran into a gigantic \"firebreathing\" zombie. Unfortunately this means they can't clear it out for supplies until the zombie is slain.",
+      "Description": "Recently Norbert was helping out on a scavenging mission to Novosibirsk when they ran into a gigantic \"firebreathing\" zombie. Unfortunately this means they can't clear it out for supplies until the zombie is slain.",
       "Condition_0": "Defeat {0}/{1} <color=mythical>Flamethrower Boss</color>"
     }
   },
@@ -26971,7 +27208,7 @@
       "Radius": "0.5",
       "Offset": "1.12",
       "Explosion": "36",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Utilities",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "65",
@@ -26982,6 +27219,16 @@
       "Blueprint_0_Level": "3",
       "Blueprint_0_Skill": "Craft",
       "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Utilities",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Outputs": "2",
+      "Blueprint_1_Output_0_ID": "65",
+      "Blueprint_1_Output_0_Amount": "1",
+      "Blueprint_1_Output_1_ID": "285",
+      "Blueprint_1_Output_1_Amount": "3",
+      "Blueprint_1_Build": "27",
       "PlacementAudioClip": "Sounds/MetalPlacement.mp3",
       "Has_Clip_Prefab": "false"
     },
@@ -27366,8 +27613,6 @@
       "Reward_Max": "8",
       "Reset": "750",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -28080,25 +28325,48 @@
       "GUID": "366a222abd3e404895dc1d1c9b248a44",
       "Type": "Spawn",
       "ID": "481",
-      "Tables": "9",
-      "Table_0_Spawn_ID": "482",
-      "Table_0_Weight": "56",
-      "Table_1_Spawn_ID": "483",
-      "Table_1_Weight": "47",
-      "Table_2_Spawn_ID": "484",
-      "Table_2_Weight": "47",
-      "Table_3_Spawn_ID": "485",
-      "Table_3_Weight": "47",
-      "Table_4_Spawn_ID": "486",
-      "Table_4_Weight": "47",
-      "Table_5_Spawn_ID": "487",
-      "Table_5_Weight": "47",
-      "Table_6_Spawn_ID": "488",
-      "Table_6_Weight": "47",
-      "Table_7_Spawn_ID": "489",
-      "Table_7_Weight": "21",
-      "Table_8_Spawn_ID": "490",
-      "Table_8_Weight": "10"
+      "Tables": [
+        {
+          "LegacySpawnId": "482",
+          "Weight": "56"
+        },
+        {
+          "LegacySpawnId": "483",
+          "Weight": "47"
+        },
+        {
+          "LegacySpawnId": "484",
+          "Weight": "47"
+        },
+        {
+          "LegacySpawnId": "485",
+          "Weight": "47"
+        },
+        {
+          "LegacySpawnId": "486",
+          "Weight": "47"
+        },
+        {
+          "LegacySpawnId": "487",
+          "Weight": "47"
+        },
+        {
+          "LegacySpawnId": "488",
+          "Weight": "47"
+        },
+        {
+          "LegacySpawnId": "489",
+          "Weight": "21"
+        },
+        {
+          "LegacySpawnId": "490",
+          "Weight": "10"
+        },
+        {
+          "Guid": "6d8472d1b94e48eeba8149483e7936f1",
+          "Weight": "4"
+        }
+      ]
     },
     "translation": null
   },
@@ -29095,7 +29363,6 @@
       "Magazine": "6",
       "Hook_Sight": "",
       "Hook_Tactical": "",
-      "Hook_Grip": "",
       "Hook_Barrel": "",
       "Ammo_Min": "10",
       "Ammo_Max": "30",
@@ -29305,7 +29572,7 @@
       "Message_0_Pages": "1"
     },
     "translation": {
-      "Message_0_Page_0": "Seriously?! Thanks! We'll be able to scavenge Novobirsk now."
+      "Message_0_Page_0": "Seriously?! Thanks! We'll be able to scavenge Novosibirsk now."
     }
   },
   "388a55b475784135ab5c2afdc6c74870": {
@@ -29566,6 +29833,16 @@
       "Table_4_Weight": "10",
       "Table_5_Spawn_ID": "659",
       "Table_5_Weight": "10"
+    },
+    "translation": null
+  },
+  "390e3088c12a4eedaeb77501f0bb4b4e": {
+    "name": "Molt_Hoodie",
+    "path": "Bundles/Items/Shirts/Molt_Hoodie/Molt_Hoodie.dat",
+    "data": {
+      "GUID": "390e3088c12a4eedaeb77501f0bb4b4e",
+      "Type": "Shirt",
+      "Pro": ""
     },
     "translation": null
   },
@@ -30900,6 +31177,16 @@
     },
     "translation": null
   },
+  "3b8e934d364c4ec7962b1ffc12f4a299": {
+    "name": "Molt_Scarf",
+    "path": "Bundles/Items/Vests/Molt_Scarf/Molt_Scarf.dat",
+    "data": {
+      "GUID": "3b8e934d364c4ec7962b1ffc12f4a299",
+      "Type": "Vest",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "3b90d191412845518bc32f172cd6b7b8": {
     "name": "Headress",
     "path": "Bundles/Items/Hats/Headress/Headress.dat",
@@ -30938,7 +31225,15 @@
       "ID": "1053",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.25"
+      "Size_Z": "0.25",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Supply_0_Amount": "3",
+      "Blueprint_0_Product": "66",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "$20 Note",
@@ -31211,7 +31506,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "PDW Iron Sights",
@@ -31707,29 +32009,56 @@
       "GUID": "3d81522ee8284baf8112b18a301eb115",
       "Type": "Spawn",
       "ID": "114",
-      "Tables": "11",
-      "Table_0_Spawn_ID": "115",
-      "Table_0_Weight": "17",
-      "Table_1_Spawn_ID": "116",
-      "Table_1_Weight": "68",
-      "Table_2_Spawn_ID": "117",
-      "Table_2_Weight": "47",
-      "Table_3_Spawn_ID": "118",
-      "Table_3_Weight": "47",
-      "Table_4_Spawn_ID": "119",
-      "Table_4_Weight": "39",
-      "Table_5_Spawn_ID": "120",
-      "Table_5_Weight": "32",
-      "Table_6_Spawn_ID": "121",
-      "Table_6_Weight": "28",
-      "Table_7_Spawn_ID": "122",
-      "Table_7_Weight": "38",
-      "Table_8_Spawn_ID": "123",
-      "Table_8_Weight": "86",
-      "Table_9_Spawn_ID": "124",
-      "Table_9_Weight": "10",
-      "Table_10_Spawn_ID": "125",
-      "Table_10_Weight": "9"
+      "Tables": [
+        {
+          "LegacySpawnId": "123",
+          "Weight": "86"
+        },
+        {
+          "LegacySpawnId": "116",
+          "Weight": "68"
+        },
+        {
+          "LegacySpawnId": "117",
+          "Weight": "47"
+        },
+        {
+          "LegacySpawnId": "118",
+          "Weight": "47"
+        },
+        {
+          "LegacySpawnId": "119",
+          "Weight": "39"
+        },
+        {
+          "LegacySpawnId": "122",
+          "Weight": "38"
+        },
+        {
+          "LegacySpawnId": "120",
+          "Weight": "32"
+        },
+        {
+          "LegacySpawnId": "121",
+          "Weight": "28"
+        },
+        {
+          "LegacySpawnId": "115",
+          "Weight": "17"
+        },
+        {
+          "LegacySpawnId": "124",
+          "Weight": "10"
+        },
+        {
+          "LegacySpawnId": "125",
+          "Weight": "9"
+        },
+        {
+          "Guid": "95d2e8dfeb444e0cbc09a50d8aeb4113",
+          "Weight": "4"
+        }
+      ]
     },
     "translation": null
   },
@@ -32114,7 +32443,7 @@
       "Message_1_Condition_0_Logic": "Greater_Than_Or_Equal_To",
       "Message_1_Condition_1_Type": "Flag_Short",
       "Message_1_Condition_1_ID": "29",
-      "Message_1_Condition_1_Value": "0 ",
+      "Message_1_Condition_1_Value": "0",
       "Message_1_Condition_1_Logic": "Equal",
       "Message_1_Condition_1_Allow_Unset": "",
       "Message_2_Pages": "1",
@@ -32128,7 +32457,7 @@
       "Message_2_Condition_0_Logic": "Greater_Than_Or_Equal_To",
       "Message_2_Condition_1_Type": "Flag_Short",
       "Message_2_Condition_1_ID": "29",
-      "Message_2_Condition_1_Value": "1 ",
+      "Message_2_Condition_1_Value": "1",
       "Message_2_Condition_1_Logic": "Equal",
       "Message_3_Pages": "1",
       "Message_3_Responses": "2",
@@ -32141,10 +32470,10 @@
       "Message_3_Condition_0_Logic": "Greater_Than_Or_Equal_To",
       "Message_3_Condition_1_Type": "Flag_Short",
       "Message_3_Condition_1_ID": "29",
-      "Message_3_Condition_1_Value": "2 ",
+      "Message_3_Condition_1_Value": "2",
       "Message_3_Condition_1_Logic": "Equal",
       "Message_4_Pages": "1",
-      "Responses": "12",
+      "Responses": "13",
       "Response_0_Dialogue": "3",
       "Response_0_Messages": "1",
       "Response_0_Message_0": "0",
@@ -32208,7 +32537,7 @@
       "Response_5_Conditions": "1",
       "Response_5_Condition_0_Type": "Flag_Short",
       "Response_5_Condition_0_ID": "29",
-      "Response_5_Condition_0_Value": "0 ",
+      "Response_5_Condition_0_Value": "0",
       "Response_5_Condition_0_Logic": "Equal",
       "Response_5_Condition_0_Allow_Unset": "",
       "Response_6_Dialogue": "5",
@@ -32252,7 +32581,18 @@
       "Response_10_Condition_0_Logic": "Equal",
       "Response_10_Condition_0_ID": "230",
       "Response_10_Condition_0_Status": "Ready",
-      "Response_10_Condition_0_Reset": ""
+      "Response_10_Condition_0_Reset": "",
+      "Response_11_Dialogue": "ab9b1166931741e083347c3aeeeddf24",
+      "Response_11_Conditions": "1",
+      "Response_11_Condition_0_Type": "Flag_Short",
+      "Response_11_Condition_0_Logic": "Equal",
+      "Response_11_Condition_0_ID": "348",
+      "Response_11_Condition_0_Value": "1",
+      "Response_11_Rewards": "1",
+      "Response_11_Reward_0_Type": "Flag_Short",
+      "Response_11_Reward_0_ID": "348",
+      "Response_11_Reward_0_Value": "2",
+      "Response_11_Reward_0_Modification": "Assign"
     },
     "translation": {
       "Message_0_Page_0": "Ah hello! I heard there was someone new on-board. I'm <name_npc>, in charge of this vessel and aiding any survivors we come across. You're one of the first we've met, what's your name?",
@@ -32271,7 +32611,8 @@
       "Response_8": "<color=epic>Major Len</color> is a traitor!",
       "Response_9": "<color=uncommon>Ensign Darren</color> is the real traitor!",
       "Response_10": "I've got this note for you",
-      "Response_11": "Nothing to report"
+      "Response_11": "Will you authorize an aircraft requisition please?",
+      "Response_12": "Nothing to report"
     }
   },
   "3e4c345143c3492f9520ef42f25c50e6": {
@@ -32558,7 +32899,14 @@
       "ID": "475",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.1"
+      "Size_Z": "0.1",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Rifle Iron Sights",
@@ -34468,7 +34816,14 @@
       "Size_Y": "1",
       "Size_Z": "0.1",
       "Holographic": "",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Kobra Sight",
@@ -35440,7 +35795,22 @@
       "ID": "258",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.45"
+      "Size_Z": "0.45",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supply_0_ID": "1275",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "3",
+      "Blueprint_1_Product": "75",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Level": "2",
+      "Blueprint_1_Skill": "Craft",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Purple Flare",
@@ -35458,6 +35828,20 @@
       "Hair_Override": "Model_1"
     },
     "translation": null
+  },
+  "4494c5e6b54b45e5a3748834d0a0847d": {
+    "name": "Scientist_Bluntforce_Armory_Request",
+    "path": "Bundles/NPCs/Dialogues/Scientist/Scientist_Bluntforce_Armory_Request/Asset.dat",
+    "data": {
+      "GUID": "4494c5e6b54b45e5a3748834d0a0847d",
+      "Type": "Dialogue",
+      "Messages": "1",
+      "Message_0_Pages": "2"
+    },
+    "translation": {
+      "Message_0_Page_0": "The barrel hasn't exploded, eh?<pause> No don't worry, the chances of that happening were infinitesimal!",
+      "Message_0_Page_1": "I'll get my assistant here working on some for the armory right away."
+    }
   },
   "449513fcccb0441abbc8ac47ca0e4440": {
     "name": "Chess_0",
@@ -37172,7 +37556,14 @@
       "ID": "265",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.4"
+      "Size_Z": "0.4",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Purple Smoke",
@@ -37275,7 +37666,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Maschinengewehr Iron Sights",
@@ -37577,7 +37975,14 @@
       "ID": "262",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.4"
+      "Size_Z": "0.4",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Blue Smoke",
@@ -37955,7 +38360,14 @@
       "Sway": "0.5",
       "Shake": "0.4",
       "Bipod": "",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Bipod",
@@ -38138,7 +38550,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Grizzly Iron Sights",
@@ -38376,12 +38795,18 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.35",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Gear",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "67",
       "Blueprint_0_Supply_0_Amount": "2",
       "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Gear",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "InventoryAudio": "Sounds/Inventory/Keys.asset"
     },
     "translation": {
@@ -39228,7 +39653,17 @@
       "Object_Damage": "500",
       "Range": "8",
       "Explosion": "34",
-      "Explosive": ""
+      "Explosive": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Product": "73",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Level": "2",
+      "Blueprint_0_Skill": "Craft",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Fragmentation Grenade",
@@ -40986,7 +41421,7 @@
       "Message_0_Condition_0_Logic": "Equal",
       "Message_0_Condition_0_Allow_Unset": "",
       "Message_1_Pages": "1",
-      "Responses": "4",
+      "Responses": "5",
       "Response_0_Dialogue": "16",
       "Response_0_Messages": "1",
       "Response_0_Message_0": "0",
@@ -40996,7 +41431,18 @@
       "Response_0_Reward_0_Value": "True",
       "Response_1_Dialogue": "18",
       "Response_1_Vendor": "17",
-      "Response_2_Dialogue": "19"
+      "Response_2_Dialogue": "19",
+      "Response_3_Dialogue": "5415296940d1481c8c211fb420592210",
+      "Response_3_Conditions": "2",
+      "Response_3_Condition_0_Type": "Quest",
+      "Response_3_Condition_0_Logic": "Not_Equal",
+      "Response_3_Condition_0_ID": "37",
+      "Response_3_Condition_0_Status": "None",
+      "Response_3_Condition_1_Type": "Flag_Bool",
+      "Response_3_Condition_1_Logic": "Equal",
+      "Response_3_Condition_1_ID": "345",
+      "Response_3_Condition_1_Value": "False",
+      "Response_3_Condition_1_Allow_Unset": ""
     },
     "translation": {
       "Message_0_Page_0": "Hey dude! It's me your old pal <name_npc>!",
@@ -41004,7 +41450,8 @@
       "Response_0": "Is that a prison outfit?",
       "Response_1": "Show me what you've got",
       "Response_2": "Why are you hiding down here?",
-      "Response_3": "Catch you later!"
+      "Response_3": "Got any <color=epic>Upgraded Fishing Rods</color>?",
+      "Response_4": "Catch you later! "
     }
   },
   "5046df3b12024c30a770146006caaa35": {
@@ -41325,6 +41772,16 @@
     },
     "translation": null
   },
+  "50c1cb2f8d3d474bac4890f72d909a64": {
+    "name": "HW2_Cheese",
+    "path": "Bundles/Items/Halloween2024/HW2_Cheese/HW2_Cheese.dat",
+    "data": {
+      "GUID": "50c1cb2f8d3d474bac4890f72d909a64",
+      "Type": "Vest",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "50dab400786a47e6ad118b25dd349e7d": {
     "name": "CA_AC_Piece_1",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Objects/Medium/Props/CA_AC_Piece_1/CA_AC_Piece_1.dat",
@@ -41513,7 +41970,14 @@
       "Spread": "0.8",
       "Sway": "0.75",
       "Shake": "0.8",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Horizontal Grip",
@@ -41936,7 +42400,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Maplestrike Iron Sights",
@@ -42776,7 +43247,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Scalar Iron Sights",
@@ -42948,6 +43426,24 @@
       "Pro": ""
     },
     "translation": null
+  },
+  "5415296940d1481c8c211fb420592210": {
+    "name": "P.Riso_Fishing_Rod",
+    "path": "Bundles/NPCs/Dialogues/P.Riso/P.Riso_Fishing_Rod/Asset.dat",
+    "data": {
+      "GUID": "5415296940d1481c8c211fb420592210",
+      "Type": "Dialogue",
+      "Messages": "1",
+      "Message_0_Pages": "2",
+      "Message_0_Rewards": "1",
+      "Message_0_Reward_0_Type": "Flag_Bool",
+      "Message_0_Reward_0_ID": "345",
+      "Message_0_Reward_0_Value": "True"
+    },
+    "translation": {
+      "Message_0_Page_0": "<color=epic>Upgraded Fishing Rod</color> huh?<pause> It's your lucky day! I photocopied Wallace's blueprint while he was napping!",
+      "Message_0_Page_1": "You can have a copy<pause>...<pause> for a price!"
+    }
   },
   "54203fed19c24493b6adac9d9045d63c": {
     "name": "California_Printer",
@@ -43701,6 +44197,21 @@
       "Name": "Arctic Ghillie Top",
       "Description": "Military snow stealth shirt."
     }
+  },
+  "555b7f0ff2ff4ecfbfaea0beca704779": {
+    "name": "Web",
+    "path": "Bundles/Skins/Masterkey/Web/Web.dat",
+    "data": {
+      "GUID": "555b7f0ff2ff4ecfbfaea0beca704779",
+      "Type": "Skin",
+      "ID": "308",
+      "Sight": "",
+      "Tactical": "",
+      "Grip": "",
+      "Barrel": "",
+      "Magazine": ""
+    },
+    "translation": null
   },
   "555f180070ad45b1b51300dac0675d9a": {
     "name": "Mystery_Box_12",
@@ -44622,7 +45133,7 @@
       "Explosion": "34",
       "Explosive": "",
       "Sticky": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "4",
       "Blueprint_0_Supply_0_ID": "70",
@@ -44635,7 +45146,16 @@
       "Blueprint_0_Supply_3_Amount": "1",
       "Blueprint_0_Level": "2",
       "Blueprint_0_Skill": "Craft",
-      "Blueprint_0_Build": "32"
+      "Blueprint_0_Build": "32",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Product": "73",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Level": "2",
+      "Blueprint_1_Skill": "Craft",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Sticky Grenade",
@@ -45452,7 +45972,7 @@
       "Quality_Max": "100",
       "Ballistic_Drop": "1.1",
       "Paintable": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Repair",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "67",
@@ -45460,7 +45980,13 @@
       "Blueprint_0_Tool": "76",
       "Blueprint_0_Level": "1",
       "Blueprint_0_Skill": "Repair",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "2",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Ranger Suppressor",
@@ -46003,7 +46529,7 @@
       "Size_X": "2",
       "Size_Y": "2",
       "Size_Z": "0.55",
-      "Health": "75",
+      "Health": "300",
       "Range": "4",
       "Radius": "0.5",
       "Offset": "1",
@@ -46183,6 +46709,17 @@
         "GUID": "3626e5d3a2164322b181b50093775be7"
       },
       "Obstruction_Radius": "4"
+    },
+    "translation": null
+  },
+  "5abb1d913ea84107969b0143cddbcb39": {
+    "name": "HW2_Eye",
+    "path": "Bundles/Items/Halloween2024/HW2_Eye/HW2_Eye.dat",
+    "data": {
+      "GUID": "5abb1d913ea84107969b0143cddbcb39",
+      "Type": "Mask",
+      "Hair_Override": "Model_3",
+      "Pro": ""
     },
     "translation": null
   },
@@ -46546,7 +47083,14 @@
       "Spread": "0.7",
       "Zoom": "20",
       "ThirdPerson_Zoom": "2",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Shadowstalker Mk. II Scope",
@@ -47509,8 +48053,6 @@
       "Reward_XP": "6",
       "Reset": "750",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -47735,6 +48277,18 @@
     },
     "translation": null
   },
+  "5d908c15c53e44a8ae37d9c130b17254": {
+    "name": "Molt_Hair",
+    "path": "Bundles/Items/Hats/Molt_Hair/Molt_Hair.dat",
+    "data": {
+      "GUID": "5d908c15c53e44a8ae37d9c130b17254",
+      "Type": "Hat",
+      "Pro": "",
+      "Beard": "",
+      "Hair_Override": "Model_0"
+    },
+    "translation": null
+  },
   "5d9fd9b13a37409dadfe7e04df4d999b": {
     "name": "Hole_Birch",
     "path": "Bundles/Items/Structures/Hole_Birch/Hole_Birch.dat",
@@ -47796,8 +48350,6 @@
       "Reward_Max": "8",
       "Reset": "750",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Christmas_Redirect": "99848480a28f41ebb3d752a47fd5b023",
       "Has_Clip_Prefab": "false"
     },
@@ -49266,12 +49818,20 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.45",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Gear",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "66",
       "Blueprint_0_Supply_0_Amount": "4",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Gear",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Outputs": "1",
+      "Blueprint_1_Output_0_ID": "66",
+      "Blueprint_1_Output_0_Amount": "3",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Rope",
@@ -51171,8 +51731,6 @@
       "Reward_Max": "9",
       "Reset": "600",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Christmas_Redirect": "99848480a28f41ebb3d752a47fd5b023",
       "Has_Clip_Prefab": "false"
     },
@@ -52252,8 +52810,6 @@
       "Reward_Max": "9",
       "Reset": "600",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -52714,7 +53270,14 @@
       "Size_Y": "1",
       "Size_Z": "0.075",
       "Rangefinder": "",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Rangefinder",
@@ -53849,7 +54412,17 @@
       "Size_Z": "0.225",
       "Amount": "1",
       "Calibers": "1",
-      "Caliber_0": "29"
+      "Caliber_0": "29",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Product": "73",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Level": "2",
+      "Blueprint_0_Skill": "Craft",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Missile",
@@ -54138,7 +54711,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Sabertooth Iron Sights",
@@ -56295,7 +56875,7 @@
       "Explosion": "168",
       "Explosive": "",
       "Fuse_Length": "1.0",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "65",
@@ -56309,7 +56889,16 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1691",
       "Blueprint_1_Supply_0_Amount": "1",
-      "Blueprint_1_Build": "32"
+      "Blueprint_1_Build": "32",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_Amount": "1",
+      "Blueprint_2_Product": "73",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Level": "2",
+      "Blueprint_2_Skill": "Craft",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Bounce Grenade",
@@ -56347,6 +56936,42 @@
       "Description": "Cold weather parka."
     }
   },
+  "6d6dd20805fc435da70096ec3ae69a70": {
+    "name": "Halloween2024_Box",
+    "path": "Bundles/Items/Boxes/Halloween2024_Box/Halloween2024_Box.dat",
+    "data": {
+      "GUID": "6d6dd20805fc435da70096ec3ae69a70",
+      "Type": "Box",
+      "Size_X": "1",
+      "Size_Y": "1",
+      "Generate": "21072",
+      "Probability_Model": "Equalized",
+      "Contains_Bonus_Items": "false",
+      "Drops": "20",
+      "Drop_0": "-1",
+      "Drop_1": "101700",
+      "Drop_2": "101800",
+      "Drop_3": "101900",
+      "Drop_4": "102000",
+      "Drop_5": "102100",
+      "Drop_6": "102200",
+      "Drop_7": "102300",
+      "Drop_8": "102400",
+      "Drop_9": "102500",
+      "Drop_10": "102600",
+      "Drop_11": "102700",
+      "Drop_12": "102800",
+      "Drop_13": "102900",
+      "Drop_14": "103000",
+      "Drop_15": "103100",
+      "Drop_16": "103200",
+      "Drop_17": "103300",
+      "Drop_18": "103400",
+      "Drop_19": "103500",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "6d707b97f508407cb8124188b624a110": {
     "name": "Russia_Gas",
     "path": "Bundles/Spawns/Items/Russia_Gas/Russia_Gas.dat",
@@ -56383,6 +57008,31 @@
       "Ignore_NPOT": ""
     },
     "translation": null
+  },
+  "6d8472d1b94e48eeba8149483e7936f1": {
+    "name": "Vehicle_Spraypaint_WinterScorpion",
+    "path": "Bundles/Items/Tools/Vehicle_Spraypaint_WinterScorpion/Vehicle_Spraypaint_WinterScorpion.dat",
+    "data": {
+      "GUID": "6d8472d1b94e48eeba8149483e7936f1",
+      "Type": "Vehicle_Paint_Tool",
+      "Rarity": "Rare",
+      "Useable": "Vehicle_Paint",
+      "ID": "1877",
+      "Size_X": "1",
+      "Size_Y": "2",
+      "UseAudioClip": "Sounds/Vehicle_Spraypaint.wav",
+      "PaintColor": "#e58834",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supply_0_ID": "1877",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Scorpion-7 Vehicle Spraypaint",
+      "Description": "Refreshes most vehicles with a beautiful new coat of paint."
+    }
   },
   "6d881d394b3746039805adbdbf2b33a4": {
     "name": "Cooler_Beach_0",
@@ -56961,8 +57611,6 @@
       "Reward_Max": "9",
       "Reset": "600",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -56984,7 +57632,7 @@
       "Durability": "10",
       "Ballistic_Drop": "1.2",
       "Ballistic_Damage_Multiplier": "0.8",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "72",
@@ -57004,7 +57652,13 @@
       "Blueprint_1_Tool": "76",
       "Blueprint_1_Level": "1",
       "Blueprint_1_Skill": "Repair",
-      "Blueprint_1_Build": "27"
+      "Blueprint_1_Build": "27",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Makeshift Muffler",
@@ -57311,6 +57965,19 @@
       "Table_5_Weight": "25"
     },
     "translation": null
+  },
+  "6f0db8760dd7497f90782c13a89c9dda": {
+    "name": "Pilot_More_Jets_Authorization",
+    "path": "Bundles/NPCs/Dialogues/Pilot/Pilot_More_Jets_Authorization/Asset.dat",
+    "data": {
+      "GUID": "6f0db8760dd7497f90782c13a89c9dda",
+      "Type": "Dialogue",
+      "Messages": "1",
+      "Message_0_Pages": "1"
+    },
+    "translation": {
+      "Message_0_Page_0": "You've got the go ahead?<pause> Alright.<pause> Just let me know and I'll hook you up!"
+    }
   },
   "6f1db95a321747bab4fc844a428e2489": {
     "name": "Placard_Birch",
@@ -58355,8 +59022,6 @@
       "Reward_Max": "9",
       "Reset": "600",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Christmas_Redirect": "ba311a4ddbe34121acd6899fd424813b",
       "Has_Clip_Prefab": "false"
     },
@@ -60325,7 +60990,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Viper Iron Sights",
@@ -60703,7 +61375,7 @@
       "Buying": "1",
       "Buying_0_ID": "1353",
       "Buying_0_Cost": "25",
-      "Selling": "5",
+      "Selling": "6",
       "Selling_0_ID": "1046",
       "Selling_0_Cost": "60",
       "Selling_1_ID": "1048",
@@ -60714,6 +61386,13 @@
       "Selling_3_Cost": "90",
       "Selling_4_ID": "1132",
       "Selling_4_Cost": "160",
+      "Selling_5_ID": "1c47939b50344c79852e1b4376debbfc",
+      "Selling_5_Cost": "100",
+      "Selling_5_Conditions": "1",
+      "Selling_5_Condition_0_Type": "Flag_Bool",
+      "Selling_5_Condition_0_Logic": "Equal",
+      "Selling_5_Condition_0_ID": "345",
+      "Selling_5_Condition_0_Value": "True",
       "Currency": "5150ca8f765d4a68bfe54912146da410"
     },
     "translation": {
@@ -61024,8 +61703,6 @@
       "Reward_Max": "8",
       "Reset": "750",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Christmas_Redirect": "99848480a28f41ebb3d752a47fd5b023",
       "Has_Clip_Prefab": "false"
     },
@@ -61179,7 +61856,22 @@
       "ID": "256",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.45"
+      "Size_Z": "0.45",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supply_0_ID": "1273",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "3",
+      "Blueprint_1_Product": "75",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Level": "2",
+      "Blueprint_1_Skill": "Craft",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Green Flare",
@@ -63225,6 +63917,7 @@
       "Size_Z": "0.5",
       "Magazine": "381",
       "Hook_Tactical": "",
+      "Shared_Skin_Lookup_ID": "380",
       "Ammo_Min": "1",
       "Ammo_Max": "2",
       "Safety": "",
@@ -65955,7 +66648,15 @@
       "ID": "1051",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.25"
+      "Size_Z": "0.25",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Supply_0_Amount": "3",
+      "Blueprint_0_Product": "66",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "$5 Note",
@@ -66115,7 +66816,7 @@
       "Message_2_Condition_0_Logic": "Greater_Than_Or_Equal_To",
       "Message_2_Condition_1_Type": "Flag_Bool",
       "Message_2_Condition_1_ID": "228",
-      "Message_2_Condition_1_Value": "False ",
+      "Message_2_Condition_1_Value": "False",
       "Message_2_Condition_1_Logic": "Equal",
       "Message_2_Condition_1_Allow_Unset": "",
       "Message_3_Pages": "1",
@@ -66133,7 +66834,7 @@
       "Message_3_Condition_1_Logic": "Equal",
       "Message_3_Condition_1_Allow_Unset": "",
       "Message_4_Pages": "1",
-      "Responses": "13",
+      "Responses": "15",
       "Response_0_Dialogue": "225",
       "Response_0_Messages": "1",
       "Response_0_Message_0": "0",
@@ -66244,7 +66945,29 @@
       "Response_11_Condition_0_Value": "True",
       "Response_11_Condition_0_Logic": "Equal",
       "Response_11_Condition_1_Type": "Holiday",
-      "Response_11_Condition_1_Value": "Christmas"
+      "Response_11_Condition_1_Value": "Christmas",
+      "Response_12_Dialogue": "d44e4c2ba4dc4f419c6762f4435a77ba",
+      "Response_12_Conditions": "1",
+      "Response_12_Condition_0_Type": "Flag_Short",
+      "Response_12_Condition_0_ID": "346",
+      "Response_12_Condition_0_Value": "1",
+      "Response_12_Condition_0_Logic": "Equal",
+      "Response_12_Rewards": "1",
+      "Response_12_Reward_0_Type": "Flag_Short",
+      "Response_12_Reward_0_ID": "346",
+      "Response_12_Reward_0_Value": "2",
+      "Response_12_Reward_0_Modification": "Assign",
+      "Response_13_Dialogue": "4494c5e6b54b45e5a3748834d0a0847d",
+      "Response_13_Conditions": "1",
+      "Response_13_Condition_0_Type": "Flag_Short",
+      "Response_13_Condition_0_ID": "347",
+      "Response_13_Condition_0_Value": "1",
+      "Response_13_Condition_0_Logic": "Equal",
+      "Response_13_Rewards": "1",
+      "Response_13_Reward_0_Type": "Flag_Short",
+      "Response_13_Reward_0_ID": "347",
+      "Response_13_Reward_0_Value": "2",
+      "Response_13_Reward_0_Modification": "Assign"
     },
     "translation": {
       "Message_0_Page_0": "Have you ever wondered why you can't put a silencer on a shotgun?",
@@ -66264,7 +66987,9 @@
       "Response_9": "What can I use the saw for?",
       "Response_10": "Done and dusted.",
       "Response_11": "Can I get a new saw?",
-      "Response_12": "Goodbye"
+      "Response_12": "<color=rare>Lieutenant Kyle</color> wants your scoped pistol!",
+      "Response_13": "<color=rare>Lieutenant Kyle</color> wants your suppressed shotgun!",
+      "Response_14": "Goodbye"
     }
   },
   "7ff210e4653844bbaf08765c11274822": {
@@ -66596,7 +67321,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Rocket Iron Sights",
@@ -66670,7 +67402,7 @@
       "Size_Z": "0.2",
       "Spread": "0.8",
       "Zoom": "6",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "333",
@@ -66680,6 +67412,12 @@
       "Blueprint_0_Level": "1",
       "Blueprint_0_Skill": "Craft",
       "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Offset_Scope_Overlay_By_One_Texel": "true",
       "DistanceMarkers": [
         {
@@ -67171,6 +67909,21 @@
       "Name": "Present #3"
     }
   },
+  "8184505a8388476e9a1750b1fd7d816a": {
+    "name": "Web",
+    "path": "Bundles/Skins/Zubeknakov/Web/Web.dat",
+    "data": {
+      "GUID": "8184505a8388476e9a1750b1fd7d816a",
+      "Type": "Skin",
+      "ID": "309",
+      "Sight": "",
+      "Tactical": "",
+      "Grip": "",
+      "Barrel": "",
+      "Magazine": ""
+    },
+    "translation": null
+  },
   "819982d7a2b6453488a8c4c5d9efe67f": {
     "name": "ExampleWeather",
     "path": "Bundles/Assets/Weather/ExampleWeather.asset",
@@ -67618,8 +68371,6 @@
       "Reward_Max": "8",
       "Reset": "750",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -68215,8 +68966,6 @@
       "Reward_Max": "10",
       "Reset": "450",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Christmas_Redirect": "ba311a4ddbe34121acd6899fd424813b",
       "Has_Clip_Prefab": "false"
     },
@@ -70254,7 +71003,7 @@
       "ID": "87",
       "Messages": "1",
       "Message_0_Pages": "1",
-      "Responses": "4",
+      "Responses": "7",
       "Response_0_Dialogue": "88",
       "Response_0_Conditions": "1",
       "Response_0_Condition_0_Type": "Quest",
@@ -70283,14 +71032,52 @@
       "Response_2_Condition_0_Logic": "Equal",
       "Response_2_Condition_0_ID": "240",
       "Response_2_Condition_0_Status": "Ready",
-      "Response_2_Condition_0_Reset": ""
+      "Response_2_Condition_0_Reset": "",
+      "Response_3_Dialogue": "cdc36e0305184e35b99dff3425d4f40a",
+      "Response_3_Conditions": "2",
+      "Response_3_Condition_0_Type": "Quest",
+      "Response_3_Condition_0_Logic": "Equal",
+      "Response_3_Condition_0_ID": "240",
+      "Response_3_Condition_0_Status": "Completed",
+      "Response_3_Condition_1_Type": "Flag_Short",
+      "Response_3_Condition_1_Logic": "Equal",
+      "Response_3_Condition_1_ID": "348",
+      "Response_3_Condition_1_Value": "0",
+      "Response_3_Condition_1_Allow_Unset": "",
+      "Response_3_Rewards": "1",
+      "Response_3_Reward_0_Type": "Flag_Short",
+      "Response_3_Reward_0_Logic": "Equal",
+      "Response_3_Reward_0_ID": "348",
+      "Response_3_Reward_0_Value": "1",
+      "Response_3_Reward_0_Modification": "Assign",
+      "Response_4_Dialogue": "6f0db8760dd7497f90782c13a89c9dda",
+      "Response_4_Conditions": "1",
+      "Response_4_Condition_0_Type": "Flag_Short",
+      "Response_4_Condition_0_Logic": "Equal",
+      "Response_4_Condition_0_ID": "348",
+      "Response_4_Condition_0_Value": "2",
+      "Response_4_Rewards": "1",
+      "Response_4_Reward_0_Type": "Flag_Short",
+      "Response_4_Reward_0_Logic": "Equal",
+      "Response_4_Reward_0_ID": "348",
+      "Response_4_Reward_0_Value": "3",
+      "Response_4_Reward_0_Modification": "Assign",
+      "Response_5_Vendor": "d98e2980ad3d47518c08b9e1df98f7ef",
+      "Response_5_Conditions": "1",
+      "Response_5_Condition_0_Type": "Flag_Short",
+      "Response_5_Condition_0_Logic": "Equal",
+      "Response_5_Condition_0_ID": "348",
+      "Response_5_Condition_0_Value": "3"
     },
     "translation": {
       "Message_0_Page_0": "Hey hey!",
       "Response_0": "Do you need any pilots?",
       "Response_1": "I've got this note for you",
       "Response_2": "I'm ready to fly the jet!",
-      "Response_3": "Goodbye"
+      "Response_3": "Are there more jets?",
+      "Response_4": "<color=legendary>Captain Sydney</color> gave authorization",
+      "Response_5": "I'd like to request an aircraft",
+      "Response_6": "Goodbye"
     }
   },
   "877dab357a044f4f8bfd1b78fb2f41ee": {
@@ -71273,7 +72060,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Nykorev Iron Sights",
@@ -71721,7 +72515,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Swissgewehr Iron Sights",
@@ -71943,7 +72744,22 @@
       "ID": "259",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.45"
+      "Size_Z": "0.45",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supply_0_ID": "1276",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "3",
+      "Blueprint_1_Product": "75",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Level": "2",
+      "Blueprint_1_Skill": "Craft",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Red Flare",
@@ -72748,7 +73564,7 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.25",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Gear",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "66",
@@ -72762,7 +73578,15 @@
       "Blueprint_1_Supply_0_Amount": "4",
       "Blueprint_1_Supply_1_ID": "70",
       "Blueprint_1_Supply_1_Amount": "1",
-      "Blueprint_1_Build": "27"
+      "Blueprint_1_Build": "27",
+      "Blueprint_2_Type": "Gear",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_Amount": "1",
+      "Blueprint_2_Outputs": "1",
+      "Blueprint_2_Output_0_ID": "66",
+      "Blueprint_2_Output_0_Amount": "3",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Tape",
@@ -73063,7 +73887,8 @@
     "data": {
       "GUID": "8c7525aa18ee437ab97329c782b7baed",
       "Type": "Shirt",
-      "Pro": ""
+      "Pro": "",
+      "Ignore_Hand": ""
     },
     "translation": null
   },
@@ -73467,7 +74292,14 @@
       "ID": "267",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.4"
+      "Size_Z": "0.4",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "White Smoke",
@@ -73709,8 +74541,6 @@
       "Reward_Max": "10",
       "Reset": "450",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Christmas_Redirect": "99848480a28f41ebb3d752a47fd5b023",
       "Has_Clip_Prefab": "false"
     },
@@ -73749,6 +74579,16 @@
       "Name": "Military Bottom",
       "Description": "Standard beige colored military bottom."
     }
+  },
+  "8d4b3420925b45d39a18c79e90f77dc8": {
+    "name": "HW2_Pillow",
+    "path": "Bundles/Items/Halloween2024/HW2_Pillow/HW2_Pillow.dat",
+    "data": {
+      "GUID": "8d4b3420925b45d39a18c79e90f77dc8",
+      "Type": "Backpack",
+      "Pro": ""
+    },
+    "translation": null
   },
   "8d555f1cd12e4709a2a14b5dc098eec9": {
     "name": "CJ_Selfvester",
@@ -74082,7 +74922,14 @@
       "ID": "266",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.4"
+      "Size_Z": "0.4",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Red Smoke",
@@ -74445,7 +75292,7 @@
       "Size_X": "2",
       "Size_Y": "2",
       "Size_Z": "0.55",
-      "Health": "75",
+      "Health": "150",
       "Range": "4",
       "Radius": "0.5",
       "Offset": "1",
@@ -76564,7 +77411,14 @@
       "Caliber_7": "39",
       "Caliber_8": "41",
       "Spread": "0.6",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Military Barrel",
@@ -76983,7 +77837,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Bluntforce Iron Sights",
@@ -77390,7 +78251,7 @@
       "Recoil_Y": "0.6",
       "Ballistic_Drop": "0.9",
       "Paintable": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Repair",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "67",
@@ -77398,7 +78259,13 @@
       "Blueprint_0_Tool": "76",
       "Blueprint_0_Level": "2",
       "Blueprint_0_Skill": "Repair",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "2",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Military Muzzle",
@@ -78010,7 +78877,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Ekho Iron Sights",
@@ -78138,6 +79012,31 @@
       "Table_3_Weight": "10"
     },
     "translation": null
+  },
+  "95d2e8dfeb444e0cbc09a50d8aeb4113": {
+    "name": "Vehicle_Spraypaint_Military_Forest",
+    "path": "Bundles/Items/Tools/Vehicle_Spraypaint_Military_Forest/Vehicle_Spraypaint_Military_Forest.dat",
+    "data": {
+      "GUID": "95d2e8dfeb444e0cbc09a50d8aeb4113",
+      "Type": "Vehicle_Paint_Tool",
+      "Rarity": "Rare",
+      "Useable": "Vehicle_Paint",
+      "ID": "1875",
+      "Size_X": "1",
+      "Size_Y": "2",
+      "UseAudioClip": "Sounds/Vehicle_Spraypaint.wav",
+      "PaintColor": "#437c44",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supply_0_ID": "1875",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Forest Military Spraypaint",
+      "Description": "Refreshes most vehicles with a beautiful new coat of paint."
+    }
   },
   "95e9255648874dffbdd8c9315c2d0a72": {
     "name": "Mystery_Box_8",
@@ -79438,7 +80337,14 @@
           "LineWidth": "0.01",
           "HasLabel": "false"
         }
-      ]
+      ],
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "8x Scope",
@@ -79478,7 +80384,7 @@
       "Range": "4",
       "Offset": "0.15",
       "Explosion": "36",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Utilities",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "65",
@@ -79489,6 +80395,16 @@
       "Blueprint_0_Level": "3",
       "Blueprint_0_Skill": "Craft",
       "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Utilities",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Outputs": "2",
+      "Blueprint_1_Output_0_ID": "65",
+      "Blueprint_1_Output_0_Amount": "2",
+      "Blueprint_1_Output_1_ID": "285",
+      "Blueprint_1_Output_1_Amount": "2",
+      "Blueprint_1_Build": "27",
       "PlacementAudioClip": "Sounds/MetalPlacement.mp3",
       "Has_Clip_Prefab": "false"
     },
@@ -79722,8 +80638,6 @@
       "Reward_Max": "8",
       "Reset": "750",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -79740,7 +80654,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Timberwolf Iron Sights",
@@ -79920,7 +80841,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.375",
-      "Flash": ""
+      "Flash": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Flashbang",
@@ -81468,7 +82396,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Snayperskya Iron Sights",
@@ -81740,7 +82675,16 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.125",
-      "Firerate": "1"
+      "Firerate": "1",
+      "Recoil_X": "1.2",
+      "Recoil_Y": "1.3",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Adaptive Chambering",
@@ -82282,7 +83226,14 @@
       "Spread": "0.7",
       "Zoom": "6",
       "ThirdPerson_Zoom": "1.5",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Shadowstalker Scope",
@@ -82333,11 +83284,17 @@
       "Size_Y": "2",
       "Size_Z": "0.35",
       "Clean_Water": "35",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Repair",
       "Blueprint_0_Supply_0_ID": "392",
       "Blueprint_0_Supply_0_Amount": "1",
       "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "2",
+      "Blueprint_1_Build": "27",
       "ConsumeAudioClip": "Sounds/DrinkSwallow.mp3"
     },
     "translation": {
@@ -84948,23 +85905,44 @@
       "GUID": "a50581098b2944e5918379ac055a0767",
       "Type": "Spawn",
       "ID": "682",
-      "Tables": "8",
-      "Table_0_Spawn_ID": "790",
-      "Table_0_Weight": "175",
-      "Table_1_Spawn_ID": "123",
-      "Table_1_Weight": "86",
-      "Table_2_Spawn_ID": "649",
-      "Table_2_Weight": "75",
-      "Table_3_Spawn_ID": "792",
-      "Table_3_Weight": "50",
-      "Table_4_Spawn_ID": "789",
-      "Table_4_Weight": "25",
-      "Table_5_Spawn_ID": "791",
-      "Table_5_Weight": "25",
-      "Table_6_Spawn_ID": "648",
-      "Table_6_Weight": "10",
-      "Table_7_Spawn_ID": "651",
-      "Table_7_Weight": "10"
+      "Tables": [
+        {
+          "LegacySpawnId": "790",
+          "Weight": "175"
+        },
+        {
+          "LegacySpawnId": "123",
+          "Weight": "86"
+        },
+        {
+          "LegacySpawnId": "649",
+          "Weight": "75"
+        },
+        {
+          "LegacySpawnId": "792",
+          "Weight": "50"
+        },
+        {
+          "LegacySpawnId": "789",
+          "Weight": "25"
+        },
+        {
+          "LegacySpawnId": "791",
+          "Weight": "25"
+        },
+        {
+          "LegacySpawnId": "648",
+          "Weight": "10"
+        },
+        {
+          "LegacySpawnId": "651",
+          "Weight": "10"
+        },
+        {
+          "Guid": "eae61af155e1460481ed4dd575dfcd9d",
+          "Weight": "5"
+        }
+      ]
     },
     "translation": null
   },
@@ -86698,7 +87676,15 @@
       "ID": "1056",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.15"
+      "Size_Z": "0.15",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Supply_0_Amount": "3",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Loonie",
@@ -88129,6 +89115,19 @@
     },
     "translation": null
   },
+  "ab9b1166931741e083347c3aeeeddf24": {
+    "name": "Captain_Aircraft_Requisition",
+    "path": "Bundles/NPCs/Dialogues/Captain/Captain_Aircraft_Requisition/Asset.dat",
+    "data": {
+      "GUID": "ab9b1166931741e083347c3aeeeddf24",
+      "Type": "Dialogue",
+      "Messages": "1",
+      "Message_0_Pages": "1"
+    },
+    "translation": {
+      "Message_0_Page_0": "You've proven yourself many times over.<pause> Resources permitting, you may sign out whichever aircraft you need.<pause> Good luck out there!"
+    }
+  },
   "ab9e79fca4de4a42a2aca94d44d5ff59": {
     "name": "Note_3",
     "path": "Bundles/Objects/Medium/Furniture/Note_3/Note_3.dat",
@@ -88816,8 +89815,6 @@
       "Reward_Max": "8",
       "Reset": "750",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Christmas_Redirect": "99848480a28f41ebb3d752a47fd5b023",
       "Has_Clip_Prefab": "false"
     },
@@ -89046,7 +90043,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Empire Iron Sights",
@@ -89363,6 +90367,17 @@
       "Name": "California Chair #10"
     }
   },
+  "adee99f10a3042a29544f0cae73ce7c1": {
+    "name": "HW2_Tinfoil_Hat",
+    "path": "Bundles/Items/Halloween2024/HW2_Tinfoil_Hat/HW2_Tinfoil_Hat.dat",
+    "data": {
+      "GUID": "adee99f10a3042a29544f0cae73ce7c1",
+      "Type": "Hat",
+      "Beard": "",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "adff0dc372c548d68be569b8e93c88ea": {
     "name": "CA_Maple_1",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/1905768396/California/Bundles/Assets/Landscapes/Foliage/Resources/CA_Maple_1.asset",
@@ -89494,6 +90509,16 @@
       "Food": "5",
       "Water": "5",
       "Vision": "10",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Supply_0_Amount": "5",
+      "Blueprint_0_Product": "75",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Level": "2",
+      "Blueprint_0_Skill": "Craft",
+      "Blueprint_0_Build": "27",
       "ConsumeAudioClip": "Sounds/DrinkSwallow.mp3"
     },
     "translation": {
@@ -90231,8 +91256,6 @@
       "Reward_Max": "9",
       "Reset": "600",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -90657,7 +91680,14 @@
       "Size_Z": "0.1",
       "Spread": "0.8",
       "Zoom": "6",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Cross Scope",
@@ -93570,6 +94600,18 @@
       "Description": "Tasty grilled cheese in a blanket of bread."
     }
   },
+  "b51bfe2a60364b31a404e4d3f956f022": {
+    "name": "HW2_Spike_Collar",
+    "path": "Bundles/Items/Halloween2024/HW2_Spike_Collar/HW2_Spike_Collar.dat",
+    "data": {
+      "GUID": "b51bfe2a60364b31a404e4d3f956f022",
+      "Type": "Mask",
+      "Hair": "",
+      "Beard": "",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "b52e85f41c1f49888846d3a20aad536b": {
     "name": "Rainbow",
     "path": "Bundles/Skins/Canned_Beans/Rainbow/Rainbow.dat",
@@ -94145,7 +95187,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Hawkhound Iron Sights",
@@ -94348,7 +95397,15 @@
       "ID": "1052",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.25"
+      "Size_Z": "0.25",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Supply_0_Amount": "3",
+      "Blueprint_0_Product": "66",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "$10 Note",
@@ -94840,7 +95897,15 @@
       "ID": "1054",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.25"
+      "Size_Z": "0.25",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Supply_0_Amount": "3",
+      "Blueprint_0_Product": "66",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "$50 Note",
@@ -95603,7 +96668,14 @@
           "Color": "ffff00",
           "HasLabel": "false"
         }
-      ]
+      ],
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Military Nightvision Scope",
@@ -96492,8 +97564,6 @@
       "Reward_Max": "8",
       "Reset": "750",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -96617,12 +97687,18 @@
       "Radius": "0.4",
       "Offset": "0.5",
       "Explosion": "35",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Barricade",
       "Blueprint_0_Supply_0_ID": "285",
       "Blueprint_0_Supply_0_Amount": "7",
       "Blueprint_0_Tool": "76",
       "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Barricade",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "285",
+      "Blueprint_1_Products": "4",
+      "Blueprint_1_Build": "27",
       "Armor_Tier": "High",
       "PlacementAudioClip": "Sounds/MetalPlacement.mp3",
       "Has_Clip_Prefab": "false"
@@ -96760,7 +97836,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Heartbreaker Iron Sights",
@@ -97124,6 +98207,22 @@
     },
     "translation": {
       "Name": "California Cooler #5"
+    }
+  },
+  "bb68d4ae7de34b6e869e62ce33247c31": {
+    "name": "TestDialogueObject",
+    "path": "Bundles/Objects/Medium/Quests/TestDialogueObject/TestDialogueObject.dat",
+    "data": {
+      "GUID": "bb68d4ae7de34b6e869e62ce33247c31",
+      "Type": "Medium",
+      "Interactability": "Dialogue",
+      "Interactability_Dialogue": "3e3c0c6acf26448b81d68da505d95765",
+      "Has_Clip_Prefab": "false",
+      "Bundle_Override_Path": "Objects/Medium/Parks/Bench_Wood_1"
+    },
+    "translation": {
+      "Name": "Test Dialogue Object",
+      "Interact": "Use Radio [{0}]"
     }
   },
   "bb753dbc475e4a6aa0aa113f8acbe425": {
@@ -97501,7 +98600,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Yuri Iron Sights",
@@ -97932,7 +99038,7 @@
       "Explosion": "36",
       "Vulnerable": "",
       "Unrepairable": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "4",
       "Blueprint_0_Supply_0_ID": "72",
@@ -97946,6 +99052,15 @@
       "Blueprint_0_Level": "1",
       "Blueprint_0_Skill": "Craft",
       "Blueprint_0_Build": "32",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Product": "73",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Level": "2",
+      "Blueprint_1_Skill": "Craft",
+      "Blueprint_1_Build": "27",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -98139,7 +99254,7 @@
       "Vulnerable": "",
       "Unrepairable": "",
       "Proof_Explosion": "",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "65",
@@ -98154,6 +99269,15 @@
       "Blueprint_1_Supply_0_ID": "1838",
       "Blueprint_1_Supply_0_Amount": "1",
       "Blueprint_1_Build": "32",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_Amount": "1",
+      "Blueprint_2_Product": "73",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Level": "2",
+      "Blueprint_2_Skill": "Craft",
+      "Blueprint_2_Build": "27",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -98271,7 +99395,14 @@
       "Size_Z": "0.1",
       "Spread": "0.8",
       "Zoom": "4",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Chevron Scope",
@@ -99351,6 +100482,19 @@
     },
     "translation": null
   },
+  "bf7a621cf6ff4a61a51648edc9b984b0": {
+    "name": "Armory_Ace",
+    "path": "Bundles/NPCs/Dialogues/Armory/Armory_Ace/Asset.dat",
+    "data": {
+      "GUID": "bf7a621cf6ff4a61a51648edc9b984b0",
+      "Type": "Dialogue",
+      "Messages": "1",
+      "Message_0_Pages": "1"
+    },
+    "translation": {
+      "Message_0_Page_0": "Did he really? I've always wanted a scoped pistol.<pause> Next time you see him, let him know that if it works well we'd like some for our armory."
+    }
+  },
   "bf972576b31a40bc86dbaa398b7f2ac6": {
     "name": "PEI_Police_Boat",
     "path": "Bundles/Spawns/Vehicles/PEI_Police_Boat/PEI_Police_Boat.dat",
@@ -99470,7 +100614,14 @@
           "LineOffset": "-0.01",
           "LineWidth": "0.03"
         }
-      ]
+      ],
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "16x Scope",
@@ -100027,12 +101178,20 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.35",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Gear",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "67",
       "Blueprint_0_Supply_0_Amount": "4",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Gear",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Outputs": "1",
+      "Blueprint_1_Output_0_ID": "67",
+      "Blueprint_1_Output_0_Amount": "3",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Metal Can",
@@ -100101,7 +101260,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Sportshot Iron Sights",
@@ -100844,8 +102010,6 @@
       "Reward_Max": "10",
       "Reset": "450",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Christmas_Redirect": "ba311a4ddbe34121acd6899fd424813b",
       "Has_Clip_Prefab": "false"
     },
@@ -101866,7 +103030,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Crossbow Iron Sights",
@@ -102720,7 +103891,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Calling Card Iron Sights",
@@ -103004,6 +104182,16 @@
       "Tables": "1",
       "Table_0_Spawn_ID": "155",
       "Table_0_Weight": "100"
+    },
+    "translation": null
+  },
+  "c66645d5b97a41b79cd560b3b61fb6c4": {
+    "name": "HW2_Candy_Corn_Bag",
+    "path": "Bundles/Items/Halloween2024/HW2_Candy_Corn_Bag/HW2_Candy_Corn_Bag.dat",
+    "data": {
+      "GUID": "c66645d5b97a41b79cd560b3b61fb6c4",
+      "Type": "Backpack",
+      "Pro": ""
     },
     "translation": null
   },
@@ -103793,6 +104981,18 @@
     },
     "translation": null
   },
+  "c86b913198f749d5af1508ad9167170d": {
+    "name": "HW2_Scars",
+    "path": "Bundles/Items/Halloween2024/HW2_Scars/HW2_Scars.dat",
+    "data": {
+      "GUID": "c86b913198f749d5af1508ad9167170d",
+      "Type": "Glasses",
+      "Hair": "",
+      "Beard": "",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "c86e0200510a44e2893c4c60ddc86a0a": {
     "name": "PBS_Ponytail_Hair",
     "path": "Bundles/Items/PBS/PBS_Ponytail_Hair/PBS_Ponytail_Hair.dat",
@@ -103936,23 +105136,44 @@
       "GUID": "c8e47533e3f245c1a45402d81092380b",
       "Type": "Spawn",
       "ID": "685",
-      "Tables": "8",
-      "Table_0_Spawn_ID": "772",
-      "Table_0_Weight": "175",
-      "Table_1_Spawn_ID": "123",
-      "Table_1_Weight": "86",
-      "Table_2_Spawn_ID": "649",
-      "Table_2_Weight": "75",
-      "Table_3_Spawn_ID": "775",
-      "Table_3_Weight": "50",
-      "Table_4_Spawn_ID": "773",
-      "Table_4_Weight": "25",
-      "Table_5_Spawn_ID": "774",
-      "Table_5_Weight": "25",
-      "Table_6_Spawn_ID": "651",
-      "Table_6_Weight": "10",
-      "Table_7_Spawn_ID": "648",
-      "Table_7_Weight": "10"
+      "Tables": [
+        {
+          "LegacySpawnId": "772",
+          "Weight": "175"
+        },
+        {
+          "LegacySpawnId": "123",
+          "Weight": "86"
+        },
+        {
+          "LegacySpawnId": "649",
+          "Weight": "75"
+        },
+        {
+          "LegacySpawnId": "775",
+          "Weight": "50"
+        },
+        {
+          "LegacySpawnId": "773",
+          "Weight": "25"
+        },
+        {
+          "LegacySpawnId": "774",
+          "Weight": "25"
+        },
+        {
+          "LegacySpawnId": "651",
+          "Weight": "10"
+        },
+        {
+          "LegacySpawnId": "648",
+          "Weight": "10"
+        },
+        {
+          "Guid": "e322656746a045a98eb6e5a6650a104e",
+          "Weight": "5"
+        }
+      ]
     },
     "translation": null
   },
@@ -104328,7 +105549,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Peacemaker Iron Sights",
@@ -104557,6 +105785,15 @@
       "Blueprint_0_Level": "2",
       "Blueprint_0_Skill": "Craft",
       "Blueprint_0_Build": "32",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Product": "73",
+      "Blueprint_1_Products": "2",
+      "Blueprint_1_Level": "2",
+      "Blueprint_1_Skill": "Craft",
+      "Blueprint_1_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -106508,11 +107745,19 @@
       "Explosion": "36",
       "Vulnerable": "",
       "Unrepairable": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Barricade",
       "Blueprint_0_Supply_0_ID": "71",
       "Blueprint_0_Supply_0_Amount": "2",
       "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Barricade",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Outputs": "1",
+      "Blueprint_1_Output_0_ID": "71",
+      "Blueprint_1_Output_0_Amount": "1",
+      "Blueprint_1_Build": "27",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -107075,6 +108320,19 @@
       "Description": "Communicate by voice regardless of distance."
     }
   },
+  "cdc36e0305184e35b99dff3425d4f40a": {
+    "name": "Pilot_More_Jets_Request",
+    "path": "Bundles/NPCs/Dialogues/Pilot/Pilot_More_Jets_Request/Asset.dat",
+    "data": {
+      "GUID": "cdc36e0305184e35b99dff3425d4f40a",
+      "Type": "Dialogue",
+      "Messages": "1",
+      "Message_0_Pages": "1"
+    },
+    "translation": {
+      "Message_0_Page_0": "What?!<pause> Already?!<pause> If you want to submit an aircraft requisition I'll need authorization from <color=legendary>Captain Sydney</color>."
+    }
+  },
   "cdc4535e76db4da895649be269cdacbe": {
     "name": "Rifle_Birch",
     "path": "Bundles/Items/Guns/Rifle_Birch/Rifle_Birch.dat",
@@ -107235,6 +108493,18 @@
     },
     "translation": null
   },
+  "cdd336641114486ba67e91828f74534f": {
+    "name": "HW2_Halo_White",
+    "path": "Bundles/Items/Halloween2024/HW2_Halo_White/HW2_Halo_White.dat",
+    "data": {
+      "GUID": "cdd336641114486ba67e91828f74534f",
+      "Type": "Glasses",
+      "Hair": "",
+      "Beard": "",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "cdd5bf025c8d4eedb5fb04005c741b94": {
     "name": "Pilot_Fly",
     "path": "Bundles/NPCs/Dialogues/Pilot/Pilot_Fly/Asset.dat",
@@ -107275,6 +108545,31 @@
       "Message_1_Page_0": "Yes, you'd be a perfect match! We just need a few things to get started, are you interested?",
       "Response_0": "I'll take a look!",
       "Response_1": "Not quite yet"
+    }
+  },
+  "cddcbeabbf8747b7be723df428e1f0a6": {
+    "name": "Vehicle_Spraypaint_Military_Desert",
+    "path": "Bundles/Items/Tools/Vehicle_Spraypaint_Military_Desert/Vehicle_Spraypaint_Military_Desert.dat",
+    "data": {
+      "GUID": "cddcbeabbf8747b7be723df428e1f0a6",
+      "Type": "Vehicle_Paint_Tool",
+      "Rarity": "Rare",
+      "Useable": "Vehicle_Paint",
+      "ID": "1874",
+      "Size_X": "1",
+      "Size_Y": "2",
+      "UseAudioClip": "Sounds/Vehicle_Spraypaint.wav",
+      "PaintColor": "#a69884",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supply_0_ID": "1874",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Desert Military Vehicle Spraypaint",
+      "Description": "Refreshes most vehicles with a beautiful new coat of paint."
     }
   },
   "cddccf8299f0490fbff24e75a8308da5": {
@@ -108018,7 +109313,14 @@
       "ID": "264",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.4"
+      "Size_Z": "0.4",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Orange Smoke",
@@ -110456,8 +111758,6 @@
       "Reward_Max": "9",
       "Reset": "600",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -110714,6 +112014,20 @@
     },
     "translation": {
       "Name": "California Glass Shards Small #3"
+    }
+  },
+  "d44e4c2ba4dc4f419c6762f4435a77ba": {
+    "name": "Scientist_Ace_Armory_Request",
+    "path": "Bundles/NPCs/Dialogues/Scientist/Scientist_Ace_Armory_Request/Asset.dat",
+    "data": {
+      "GUID": "d44e4c2ba4dc4f419c6762f4435a77ba",
+      "Type": "Dialogue",
+      "Messages": "1",
+      "Message_0_Pages": "2"
+    },
+    "translation": {
+      "Message_0_Page_0": "It's working well?<pause> Recoil hasn't hit you in the eye?<pause> Splendid!",
+      "Message_0_Page_1": "I'll get my assistant here working on some for the armory right away."
     }
   },
   "d45edefbe7554d5fbb21b67f4bd09771": {
@@ -112375,7 +113689,15 @@
       "ID": "1055",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.25"
+      "Size_Z": "0.25",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Supply_0_Amount": "3",
+      "Blueprint_0_Product": "66",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "$100 Note",
@@ -112864,7 +114186,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Compound Iron Sights",
@@ -113146,7 +114475,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Zubeknakov Iron Sights",
@@ -113240,6 +114576,48 @@
     "translation": {
       "Name": "Blue Daypack",
       "Description": "Medium sized synthetic backpack."
+    }
+  },
+  "d98e2980ad3d47518c08b9e1df98f7ef": {
+    "name": "Aircraft_Hangar",
+    "path": "Bundles/NPCs/Vendors/Aircraft_Hangar/Asset.dat",
+    "data": {
+      "GUID": "d98e2980ad3d47518c08b9e1df98f7ef",
+      "Type": "Vendor",
+      "Selling": "6",
+      "Selling_0_Type": "Vehicle",
+      "Selling_0_ID": "500a4bf5048648a6b1bad8c78874fe13",
+      "Selling_0_Spawnpoint": "Liberator_Jet",
+      "Selling_0_Cost": "13000",
+      "Selling_1_Type": "Vehicle",
+      "Selling_1_ID": "d8811bc349b14d808b713b6e87dcdd70",
+      "Selling_1_Spawnpoint": "Liberator_Jet",
+      "Selling_1_Cost": "10000",
+      "Selling_1_PaintColor": "#475e83",
+      "Selling_2_Type": "Vehicle",
+      "Selling_2_ID": "5f150e4d56194f5cb478317651b476b5",
+      "Selling_2_Spawnpoint": "Liberator_Jet",
+      "Selling_2_Cost": "10000",
+      "Selling_2_PaintColor": "#475e83",
+      "Selling_3_Type": "Vehicle",
+      "Selling_3_ID": "0999953ab4b846f0990b7a4ae3a51d9e",
+      "Selling_3_Spawnpoint": "Liberator_Jet",
+      "Selling_3_Cost": "13000",
+      "Selling_3_PaintColor": "#475e83",
+      "Selling_4_Type": "Vehicle",
+      "Selling_4_ID": "e2850722c85c4871afbb94c670f56c20",
+      "Selling_4_Spawnpoint": "Liberator_Jet",
+      "Selling_4_Cost": "10000",
+      "Selling_4_PaintColor": "#475e83",
+      "Selling_5_Type": "Vehicle",
+      "Selling_5_ID": "d5efeb331b40409c9ef6df1f24174dc9",
+      "Selling_5_Spawnpoint": "Liberator_Jet",
+      "Selling_5_Cost": "10000",
+      "Selling_5_PaintColor": "#475e83"
+    },
+    "translation": {
+      "Name": "<color=legendary>Coalition</color> Aircraft Hangar",
+      "Description": "Air vehicles available for delivery."
     }
   },
   "d98faa18572542e8943dbb80536f157e": {
@@ -113553,29 +114931,56 @@
       "GUID": "da1b9f0842e4486c968073ec70b8ecee",
       "Type": "Spawn",
       "ID": "334",
-      "Tables": "11",
-      "Table_0_Spawn_ID": "335",
-      "Table_0_Weight": "34",
-      "Table_1_Spawn_ID": "336",
-      "Table_1_Weight": "66",
-      "Table_2_Spawn_ID": "337",
-      "Table_2_Weight": "45",
-      "Table_3_Spawn_ID": "338",
-      "Table_3_Weight": "45",
-      "Table_4_Spawn_ID": "339",
-      "Table_4_Weight": "37",
-      "Table_5_Spawn_ID": "340",
-      "Table_5_Weight": "30",
-      "Table_6_Spawn_ID": "341",
-      "Table_6_Weight": "26",
-      "Table_7_Spawn_ID": "342",
-      "Table_7_Weight": "36",
-      "Table_8_Spawn_ID": "123",
-      "Table_8_Weight": "84",
-      "Table_9_Spawn_ID": "343",
-      "Table_9_Weight": "10",
-      "Table_10_Spawn_ID": "344",
-      "Table_10_Weight": "10"
+      "Tables": [
+        {
+          "LegacySpawnId": "123",
+          "Weight": "84"
+        },
+        {
+          "LegacySpawnId": "336",
+          "Weight": "66"
+        },
+        {
+          "LegacySpawnId": "337",
+          "Weight": "45"
+        },
+        {
+          "LegacySpawnId": "338",
+          "Weight": "45"
+        },
+        {
+          "LegacySpawnId": "339",
+          "Weight": "37"
+        },
+        {
+          "LegacySpawnId": "342",
+          "Weight": "36"
+        },
+        {
+          "LegacySpawnId": "335",
+          "Weight": "34"
+        },
+        {
+          "LegacySpawnId": "340",
+          "Weight": "30"
+        },
+        {
+          "LegacySpawnId": "341",
+          "Weight": "26"
+        },
+        {
+          "LegacySpawnId": "343",
+          "Weight": "10"
+        },
+        {
+          "LegacySpawnId": "344",
+          "Weight": "10"
+        },
+        {
+          "Guid": "cddcbeabbf8747b7be723df428e1f0a6",
+          "Weight": "4"
+        }
+      ]
     },
     "translation": null
   },
@@ -113639,7 +115044,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.05",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Schofield Iron Sights",
@@ -115010,23 +116422,44 @@
       "GUID": "dcb0974543f240b9aaddabe9d880e506",
       "Type": "Spawn",
       "ID": "551",
-      "Tables": "8",
-      "Table_0_Spawn_ID": "646",
-      "Table_0_Weight": "175",
-      "Table_1_Spawn_ID": "123",
-      "Table_1_Weight": "86",
-      "Table_2_Spawn_ID": "649",
-      "Table_2_Weight": "75",
-      "Table_3_Spawn_ID": "650",
-      "Table_3_Weight": "50",
-      "Table_4_Spawn_ID": "645",
-      "Table_4_Weight": "25",
-      "Table_5_Spawn_ID": "654",
-      "Table_5_Weight": "25",
-      "Table_6_Spawn_ID": "648",
-      "Table_6_Weight": "10",
-      "Table_7_Spawn_ID": "651",
-      "Table_7_Weight": "10"
+      "Tables": [
+        {
+          "LegacySpawnId": "646",
+          "Weight": "175"
+        },
+        {
+          "LegacySpawnId": "123",
+          "Weight": "86"
+        },
+        {
+          "LegacySpawnId": "649",
+          "Weight": "75"
+        },
+        {
+          "LegacySpawnId": "650",
+          "Weight": "50"
+        },
+        {
+          "LegacySpawnId": "645",
+          "Weight": "25"
+        },
+        {
+          "LegacySpawnId": "654",
+          "Weight": "25"
+        },
+        {
+          "LegacySpawnId": "648",
+          "Weight": "10"
+        },
+        {
+          "LegacySpawnId": "651",
+          "Weight": "10"
+        },
+        {
+          "Guid": "e322656746a045a98eb6e5a6650a104e",
+          "Weight": "5"
+        }
+      ]
     },
     "translation": null
   },
@@ -115185,6 +116618,18 @@
     },
     "translation": null
   },
+  "dd216a38150a476aacf54888294859a9": {
+    "name": "HW2_Devil_Horns",
+    "path": "Bundles/Items/Halloween2024/HW2_Devil_Horns/HW2_Devil_Horns.dat",
+    "data": {
+      "GUID": "dd216a38150a476aacf54888294859a9",
+      "Type": "Glasses",
+      "Hair": "",
+      "Beard": "",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "dd46a434410e4b14b0796c473c13c159": {
     "name": "FranceHistorical_Shield",
     "path": "Bundles/Items/Backpacks/FranceHistorical_Shield/FranceHistorical_Shield.dat",
@@ -115209,6 +116654,16 @@
       "Tables": "1",
       "Table_0_Spawn_ID": "169",
       "Table_0_Weight": "100"
+    },
+    "translation": null
+  },
+  "dd74bbec75874ff89812441098a270a6": {
+    "name": "HW2_Skull_Shirt",
+    "path": "Bundles/Items/Halloween2024/HW2_Skull_Shirt/HW2_Skull_Shirt.dat",
+    "data": {
+      "GUID": "dd74bbec75874ff89812441098a270a6",
+      "Type": "Shirt",
+      "Pro": ""
     },
     "translation": null
   },
@@ -116034,7 +117489,7 @@
       "Quality_Max": "100",
       "Ballistic_Drop": "1.1",
       "Paintable": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Repair",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "67",
@@ -116042,7 +117497,13 @@
       "Blueprint_0_Tool": "76",
       "Blueprint_0_Level": "2",
       "Blueprint_0_Skill": "Repair",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "2",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Military Suppressor",
@@ -116588,6 +118049,19 @@
       "Description": "Birch wall. Beware of termites."
     }
   },
+  "e0214d958038413a9b46eb673210da93": {
+    "name": "Armory_Bluntforce",
+    "path": "Bundles/NPCs/Dialogues/Armory/Armory_Bluntforce/Asset.dat",
+    "data": {
+      "GUID": "e0214d958038413a9b46eb673210da93",
+      "Type": "Dialogue",
+      "Messages": "1",
+      "Message_0_Pages": "1"
+    },
+    "translation": {
+      "Message_0_Page_0": "A suppressed shotgun?!<pause> Genius.<pause> Next time you see him, let him know that if it works well we'd like some for our armory."
+    }
+  },
   "e028fce70a3343c8be7837421318b847": {
     "name": "Grenade_Makeshift",
     "path": "Bundles/Items/Throwables/Grenade_Makeshift/Grenade_Makeshift.dat",
@@ -116607,7 +118081,7 @@
       "Range": "6",
       "Explosion": "34",
       "Explosive": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "3",
       "Blueprint_0_Supply_0_ID": "72",
@@ -116618,7 +118092,16 @@
       "Blueprint_0_Supply_2_Amount": "1",
       "Blueprint_0_Level": "1",
       "Blueprint_0_Skill": "Craft",
-      "Blueprint_0_Build": "32"
+      "Blueprint_0_Build": "32",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Product": "73",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Level": "2",
+      "Blueprint_1_Skill": "Craft",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Makeshift Grenade",
@@ -117029,7 +118512,22 @@
       "ID": "260",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.45"
+      "Size_Z": "0.45",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supply_0_ID": "1277",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "3",
+      "Blueprint_1_Product": "75",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Level": "2",
+      "Blueprint_1_Skill": "Craft",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Yellow Flare",
@@ -117667,11 +119165,18 @@
       "Explosion": "36",
       "Vulnerable": "",
       "Unrepairable": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Barricade",
       "Blueprint_0_Supply_0_ID": "65",
       "Blueprint_0_Supply_0_Amount": "2",
       "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Barricade",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Product": "65",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -118043,6 +119548,31 @@
       "LoadPaintColor": "#2e642e"
     },
     "translation": null
+  },
+  "e322656746a045a98eb6e5a6650a104e": {
+    "name": "Vehicle_Spraypaint_Military_Russia",
+    "path": "Bundles/Items/Tools/Vehicle_Spraypaint_Military_Russia/Vehicle_Spraypaint_Military_Russia.dat",
+    "data": {
+      "GUID": "e322656746a045a98eb6e5a6650a104e",
+      "Type": "Vehicle_Paint_Tool",
+      "Rarity": "Rare",
+      "Useable": "Vehicle_Paint",
+      "ID": "1876",
+      "Size_X": "1",
+      "Size_Y": "2",
+      "UseAudioClip": "Sounds/Vehicle_Spraypaint.wav",
+      "PaintColor": "#495631",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supply_0_ID": "1876",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Olive Green Military Vehicle Spraypaint",
+      "Description": "Refreshes most vehicles with a beautiful new coat of paint."
+    }
   },
   "e3226d1d2fa443c0a8e04615fa1b869b": {
     "name": "Bridge_Turn_1",
@@ -118750,7 +120280,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Bulldog Iron Sights",
@@ -119665,7 +121202,22 @@
       "ID": "257",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.45"
+      "Size_Z": "0.45",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supply_0_ID": "1274",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "3",
+      "Blueprint_1_Product": "75",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Level": "2",
+      "Blueprint_1_Skill": "Craft",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Orange Flare",
@@ -120584,7 +122136,14 @@
       "Size_Z": "0.075",
       "Spread": "0.8",
       "Laser": "",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Tactical Laser",
@@ -121116,6 +122675,18 @@
       "Type": "Effect",
       "ID": "41",
       "Preload": "4"
+    },
+    "translation": null
+  },
+  "e8791ad26c8b48448f3d8e0b0fc1943c": {
+    "name": "HW2_Halo_Black",
+    "path": "Bundles/Items/Halloween2024/HW2_Halo_Black/HW2_Halo_Black.dat",
+    "data": {
+      "GUID": "e8791ad26c8b48448f3d8e0b0fc1943c",
+      "Type": "Glasses",
+      "Hair": "",
+      "Beard": "",
+      "Pro": ""
     },
     "translation": null
   },
@@ -122135,6 +123706,31 @@
     },
     "translation": null
   },
+  "eae61af155e1460481ed4dd575dfcd9d": {
+    "name": "Vehicle_Spraypaint_Military_Coalition",
+    "path": "Bundles/Items/Tools/Vehicle_Spraypaint_Military_Coalition/Vehicle_Spraypaint_Military_Coalition.dat",
+    "data": {
+      "GUID": "eae61af155e1460481ed4dd575dfcd9d",
+      "Type": "Vehicle_Paint_Tool",
+      "Rarity": "Rare",
+      "Useable": "Vehicle_Paint",
+      "ID": "1873",
+      "Size_X": "1",
+      "Size_Y": "2",
+      "UseAudioClip": "Sounds/Vehicle_Spraypaint.wav",
+      "PaintColor": "#475e83",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supply_0_ID": "1873",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Coalition Military Vehicle Spraypaint",
+      "Description": "Refreshes most vehicles with a beautiful new coat of paint."
+    }
+  },
   "eb0210e690c34e4397b5722714e71305": {
     "name": "Tank_Russia",
     "path": "Bundles/Vehicles/Redirectors/Tank/Tank_Russia.asset",
@@ -122735,7 +124331,14 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.1",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Eaglefire Iron Sights",
@@ -124557,8 +126160,6 @@
       "Reward_XP": "6",
       "Reset": "750",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Holiday_Restriction": "CHRISTMAS",
       "Bundle_Override_Path": "/Trees/Ornament_0",
       "Has_Clip_Prefab": "false"
@@ -124670,8 +126271,6 @@
       "Reward_Max": "10",
       "Reset": "450",
       "Auto_Skybox": "",
-      "SpeedTree": "",
-      "SpeedTree_Default_LOD_Weights": "",
       "Christmas_Redirect": "99848480a28f41ebb3d752a47fd5b023",
       "Has_Clip_Prefab": "false"
     },
@@ -126933,7 +128532,14 @@
           "HasLabel": "false",
           "Side": "Left"
         }
-      ]
+      ],
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "7x Scope",
@@ -128248,6 +129854,18 @@
     },
     "translation": null
   },
+  "f70f09c4cf3d41eea3e0d837bf24087c": {
+    "name": "HW2_Freckles",
+    "path": "Bundles/Items/Halloween2024/HW2_Freckles/HW2_Freckles.dat",
+    "data": {
+      "GUID": "f70f09c4cf3d41eea3e0d837bf24087c",
+      "Type": "Mask",
+      "Hair": "",
+      "Beard": "",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "f7132e632eca40b5b8f6044d8b133d37": {
     "name": "Downtown",
     "path": "Bundles/Assets/Material_Palettes/Downtown.asset",
@@ -128551,6 +130169,16 @@
       "Name": "Socketwrench ",
       "Description": "Tool for removing tires."
     }
+  },
+  "f7589ba200ef4d028cc75efb90ff840d": {
+    "name": "Molt_Wings",
+    "path": "Bundles/Items/Backpacks/Molt_Wings/Molt_Wings.dat",
+    "data": {
+      "GUID": "f7589ba200ef4d028cc75efb90ff840d",
+      "Type": "Backpack",
+      "Pro": ""
+    },
+    "translation": null
   },
   "f75c7d76a81a4388b1419ab070e10bbe": {
     "name": "Parka_Red",
@@ -129104,6 +130732,18 @@
     },
     "translation": null
   },
+  "f86cb4f51513412a924e2c489b5d0121": {
+    "name": "Sugar_Rush",
+    "path": "Bundles/Mythics/Sugar_Rush/Sugar_Rush.dat",
+    "data": {
+      "GUID": "f86cb4f51513412a924e2c489b5d0121",
+      "Type": "Mythic",
+      "ID": "57"
+    },
+    "translation": {
+      "Particle_Tag_Name": "Sugar Rush"
+    }
+  },
   "f885d1409b2147ee8d05277f3a95b53c": {
     "name": "Racecar_Yellow",
     "path": "Bundles/Objects/Large/Vehicles/Racecar_Yellow/Racecar_Yellow.dat",
@@ -129363,7 +131003,14 @@
       "ID": "261",
       "Size_X": "1",
       "Size_Y": "1",
-      "Size_Z": "0.4"
+      "Size_Z": "0.4",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "1",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Black Smoke",
@@ -129646,7 +131293,7 @@
       "Reward_1_Value": "20"
     },
     "translation": {
-      "Name": "<color=mythical>Erruption</color>",
+      "Name": "<color=mythical>Eruption</color>",
       "Description": "???",
       "Condition_0": "Defeat {0}/{1} <color=mythical>Magma Zombie Boss</color>"
     }
@@ -129671,7 +131318,14 @@
       "Caliber_5": "31",
       "Caliber_6": "34",
       "Spread": "0.6",
-      "Paintable": ""
+      "Paintable": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "67",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
     },
     "translation": {
       "Name": "Ranger Barrel",
@@ -129943,7 +131597,7 @@
       "Explosion": "36",
       "Vulnerable": "",
       "Unrepairable": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Barricade",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "67",
@@ -129951,6 +131605,13 @@
       "Blueprint_0_Supply_1_ID": "65",
       "Blueprint_0_Supply_1_Amount": "2",
       "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Barricade",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_Amount": "1",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "3",
+      "Blueprint_1_Build": "27",
       "Has_Clip_Prefab": "false"
     },
     "translation": {

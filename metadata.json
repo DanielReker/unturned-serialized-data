@@ -1,9 +1,9 @@
 {
-    "timestamp": 1729174874,
+    "timestamp": 1729183417,
     "gameVersion": {
         "major": 24,
-        "minor": 5,
-        "patch": 1
+        "minor": 6,
+        "patch": 0
     },
     "availableMaps": [
         "PEI",
