@@ -1,5 +1,5 @@
 {
-  "Available_Instance_ID": 386,
+  "Available_Instance_ID": 387,
   "Items": [
     {
       "Type": "Landscape",
@@ -8542,9 +8542,9 @@
       "Instance_ID": 329,
       "Item": {
         "Position": {
-          "x": 8.045009,
-          "y": 107.4689,
-          "z": 34.13334
+          "x": 0.6185271,
+          "y": 801.1588,
+          "z": -2959.053
         },
         "Rotation": {
           "x": 0.0,
@@ -8560,7 +8560,7 @@
         "Scale": {
           "x": 1.0,
           "y": 1.0,
-          "z": 1.0
+          "z": 1.073244
         },
         "LocationName": "MidnightArena1",
         "IsVisibleOnMap": false
@@ -9146,9 +9146,9 @@
           }
         },
         "Scale": {
-          "x": 69.84528,
-          "y": 41.25359,
-          "z": 97.54427
+          "x": 78.3194,
+          "y": 46.84778,
+          "z": 112.0829
         },
         "Shape": 0,
         "AssetGuid": "5fb38f86e94c43dab888f928617a42dd"
@@ -10297,6 +10297,35 @@
         },
         "Shape": 0,
         "Id": "Midnight fall protect"
+      }
+    },
+    {
+      "Type": "LocationDevkitNode",
+      "Instance_ID": 386,
+      "Item": {
+        "Position": {
+          "x": -26.30508,
+          "y": 801.3174,
+          "z": -2999.966
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.073244
+        },
+        "LocationName": "MidnightArena2",
+        "IsVisibleOnMap": false
       }
     }
   ]
