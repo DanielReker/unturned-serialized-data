@@ -91,6 +91,18 @@
       "Description": "High caliber ranger grade <color=legendary>Matamorez</color> magazine. Designed to fit 17 rounds."
     }
   },
+  "003ad9d37ab94c72b61a395a69bcb65b": {
+    "name": "Kuwait_Sedan_Green",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Sedans/Kuwait_Sedan_Green.asset",
+    "data": {
+      "GUID": "003ad9d37ab94c72b61a395a69bcb65b",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5015",
+      "TargetVehicle": "db1b8f5d627d46e1a160669c71770c50",
+      "LoadPaintColor": "#336A33"
+    },
+    "translation": null
+  },
   "00590a1ab0f34cb4a5ef7cbb8c3f1c7b": {
     "name": "Muzzle_1",
     "path": "Bundles/Effects/Guns/Muzzle_1/Muzzle_1.dat",
@@ -404,6 +416,18 @@
     "translation": {
       "Name": "Snow Pile #1"
     }
+  },
+  "00d148a01757478a93aecdf0cae664d2": {
+    "name": "Kuwait_Truck_Black",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Trucks/Kuwait_Truck_Black.asset",
+    "data": {
+      "GUID": "00d148a01757478a93aecdf0cae664d2",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5031",
+      "TargetVehicle": "32a7407eb9774662b12be6d3faf4ab7f",
+      "LoadPaintColor": "#353535"
+    },
+    "translation": null
   },
   "00da28433229473e96cf8585563ae9ca": {
     "name": "Boulder_05",
@@ -1848,8 +1872,8 @@
     }
   },
   "0219c72c6dbd43aa88758afafd7b5000": {
-    "name": "Kuwait_Police_Truck",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Police_Truck/Kuwait_Police_Truck.dat",
+    "name": "Kuwait_Police_Pickup",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Police_Pickup/Kuwait_Police_Pickup.dat",
     "data": {
       "GUID": "0219c72c6dbd43aa88758afafd7b5000",
       "Type": "Vehicle",
@@ -1878,6 +1902,67 @@
       "Has_Clip_Prefab": "False",
       "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
       "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
+      "PaintableSections": [
+        {
+          "Path": "Model_0",
+          "MaterialIndex": "0"
+        },
+        {
+          "Path": "Model_1",
+          "MaterialIndex": "0"
+        }
+      ],
+      "DefaultPaintColors": [
+        "#D8B422"
+      ],
+      "WheelConfigurations": [
+        {
+          "WheelColliderPath": "Tires/Tire_0",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_0",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_1",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_1",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_2",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_2",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_3",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_3",
+          "ModelUseColliderPose": "true"
+        }
+      ],
+      "ReverseGearRatio": "10",
+      "ForwardGearRatios": [
+        "20",
+        "13.7"
+      ],
+      "GearShift_UpThresholdRPM": "5000",
+      "GearShift_Duration": "0.2",
+      "GearShift_Interval": "0.5",
+      "EngineIdleRPM": "1000",
+      "EngineMaxRPM": "6000",
+      "EngineMaxTorque": "2.8",
+      "EngineSound_Type": "EngineRPMSimple",
+      "EngineSound": {
+        "IdlePitch": "1.0",
+        "IdleVolume": "0.75",
+        "MaxPitch": "2",
+        "MaxVolume": "1.0"
+      },
       "Asset_Bundle_Version": "3"
     },
     "translation": {
@@ -6310,6 +6395,18 @@
       "Name": "Dish Washer #1"
     }
   },
+  "086e4113266b4143b54230e759d37a0b": {
+    "name": "Kuwait_SUV_Olive",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_SUVs/Kuwait_SUV_Olive.asset",
+    "data": {
+      "GUID": "086e4113266b4143b54230e759d37a0b",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5021",
+      "TargetVehicle": "1b5a872db58a48288c3293c7532633e8",
+      "LoadPaintColor": "#627342"
+    },
+    "translation": null
+  },
   "0878ccd3d09a4b89b54b50a255e38ce9": {
     "name": "Broadcast_Repair",
     "path": "Bundles/NPCs/Quests/Broadcast_Repair/Asset.dat",
@@ -10188,8 +10285,39 @@
       "ShouldExplosionCauseDamage": "True",
       "ShouldExplosionBurnMaterials": "True",
       "Has_Clip_Prefab": "False",
-      "Asset_Bundle_Version": "3",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996"
+      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
+      "PaintableSections": [
+        {
+          "Path": "Model_0",
+          "MaterialIndex": "0"
+        },
+        {
+          "Path": "Model_1",
+          "MaterialIndex": "0"
+        }
+      ],
+      "DefaultPaintColors": [
+        "#AF9275"
+      ],
+      "ReverseGearRatio": "10",
+      "ForwardGearRatios": [
+        "20",
+        "13.7"
+      ],
+      "GearShift_UpThresholdRPM": "5000",
+      "GearShift_Duration": "0.2",
+      "GearShift_Interval": "0.5",
+      "EngineIdleRPM": "1000",
+      "EngineMaxRPM": "6000",
+      "EngineMaxTorque": "2.8",
+      "EngineSound_Type": "EngineRPMSimple",
+      "EngineSound": {
+        "IdlePitch": "1.0",
+        "IdleVolume": "0.75",
+        "MaxPitch": "2",
+        "MaxVolume": "1.0"
+      },
+      "Asset_Bundle_Version": "3"
     },
     "translation": {
       "Name": "Duneslayer"
@@ -13377,7 +13505,7 @@
       "Mask": "418",
       "Face": "18",
       "Hair": "7",
-      "Color_Skin": "#4b3d31",
+      "Color_Skin": "#706049",
       "Color_Hair": "#191919",
       "Primary": "5000",
       "Secondary": "5009",
@@ -14620,37 +14748,6 @@
     },
     "translation": {
       "Name": "Kuwait ATM Screen #5-1"
-    }
-  },
-  "122c6c6444524eed948568ec88df2cb1": {
-    "name": "29090KC6",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/3/C/29090KC6/Asset.dat",
-    "data": {
-      "GUID": "122c6c6444524eed948568ec88df2cb1",
-      "Type": "NPC",
-      "ID": "29090",
-      "Shirt": "155",
-      "Pants": "226",
-      "Glasses": "",
-      "Hair": "7",
-      "Face": "20",
-      "Color_Skin": "#bea582",
-      "Color_Hair": "#cdc08c",
-      "Dialogue": "29091",
-      "Conditions": "2",
-      "Condition_0_Type": "Flag_Bool",
-      "Condition_0_ID": "27031",
-      "Condition_0_Value": "True",
-      "Condition_0_Logic": "Equal",
-      "Condition_1_Type": "Flag_Bool",
-      "Condition_1_ID": "25050",
-      "Condition_1_Value": "False",
-      "Condition_1_Logic": "Equal",
-      "Condition_1_Allow_Unset": ""
-    },
-    "translation": {
-      "Name": "KuwaitCivi6",
-      "Character": "Habiba"
     }
   },
   "123158bc937c4a6f99d6e8371776781f": {
@@ -20589,44 +20686,6 @@
     },
     "translation": null
   },
-  "1a5ea88fada641e0bccd15170ba9d058": {
-    "name": "Kuwait_Stallion_Green",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Stallion_Green/Kuwait_Stallion_Green.dat",
-    "data": {
-      "GUID": "1a5ea88fada641e0bccd15170ba9d058",
-      "Type": "Vehicle",
-      "Rarity": "Rare",
-      "ID": "5003",
-      "Speed_Min": "-6",
-      "Speed_Max": "24",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "3",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "c6d835a711994c0cafb332b1106f2311",
-      "Valid_Speed_Horizontal": "200",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Pitch_Drive": "0.015",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Green Stallion"
-    }
-  },
   "1a724bc5927c45a8814c212ff250227c": {
     "name": "Cargo_Shorts",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Clothes/Pants/Cargo_Shorts/Cargo_Shorts.dat",
@@ -21748,8 +21807,8 @@
     }
   },
   "1b5a872db58a48288c3293c7532633e8": {
-    "name": "Kuwait_Suv_Black",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Suv_Black/Kuwait_Suv_Black.dat",
+    "name": "Kuwait_SUV",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_SUV/Kuwait_SUV.dat",
     "data": {
       "GUID": "1b5a872db58a48288c3293c7532633e8",
       "Type": "Vehicle",
@@ -21779,10 +21838,79 @@
       "Has_Clip_Prefab": "False",
       "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
       "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
+      "PaintableSections": [
+        {
+          "Path": "Model_0",
+          "MaterialIndex": "0"
+        },
+        {
+          "Path": "Model_1",
+          "MaterialIndex": "0"
+        }
+      ],
+      "DefaultPaintColors": [
+        "#353535",
+        "#627342",
+        "#A32929",
+        "#DFDFDF",
+        "#C7752B",
+        "#3C6B94",
+        "#D8B422",
+        "#714B74",
+        "#336A33"
+      ],
+      "WheelConfigurations": [
+        {
+          "WheelColliderPath": "Tires/Tire_0",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_0",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_1",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_1",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_2",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_2",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_3",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_3",
+          "ModelUseColliderPose": "true"
+        }
+      ],
+      "ReverseGearRatio": "10",
+      "ForwardGearRatios": [
+        "20",
+        "13.7"
+      ],
+      "GearShift_UpThresholdRPM": "5000",
+      "GearShift_Duration": "0.2",
+      "GearShift_Interval": "0.5",
+      "EngineIdleRPM": "1000",
+      "EngineMaxRPM": "6000",
+      "EngineMaxTorque": "2.8",
+      "EngineSound_Type": "EngineRPMSimple",
+      "EngineSound": {
+        "IdlePitch": "1.0",
+        "IdleVolume": "0.75",
+        "MaxPitch": "2",
+        "MaxVolume": "1.0"
+      },
       "Asset_Bundle_Version": "3"
     },
     "translation": {
-      "Name": "Black Land Explorer"
+      "Name": "Land Explorer"
     }
   },
   "1b5aa8edf0534a959fa821aa1de59590": {
@@ -25953,7 +26081,7 @@
       "GUID": "1ff0d339c4994aab988c1476590a1083",
       "Type": "NPC",
       "ID": "28410",
-      "Shirt": "536",
+      "Shirt": "1663",
       "Pants": "226",
       "Face": "6",
       "Hair": "15",
@@ -27536,43 +27664,6 @@
     },
     "translation": null
   },
-  "21e14bf9de91402791cc8881942cac7c": {
-    "name": "Kuwait_Sedan_Red",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Sedan_Red/Kuwait_Sedan_Red.dat",
-    "data": {
-      "GUID": "21e14bf9de91402791cc8881942cac7c",
-      "Type": "Vehicle",
-      "Rarity": "Common",
-      "ID": "5028",
-      "Speed_Min": "-6",
-      "Speed_Max": "16.5",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1500",
-      "Health_Min": "350",
-      "Health_Max": "450",
-      "Health": "600",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Red Sedan"
-    }
-  },
   "21e4827e94b94512af16b78d6e31df18": {
     "name": "Crate_2",
     "path": "Bundles/Objects/Medium/Military/Crate_2/Crate_2.dat",
@@ -28133,43 +28224,6 @@
       "ID": "102"
     },
     "translation": null
-  },
-  "22b166f6cabb48808007b3e000e67bcf": {
-    "name": "Kuwait_Sedan_Blue",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Sedan_Blue/Kuwait_Sedan_Blue.dat",
-    "data": {
-      "GUID": "22b166f6cabb48808007b3e000e67bcf",
-      "Type": "Vehicle",
-      "Rarity": "Common",
-      "ID": "5024",
-      "Speed_Min": "-6",
-      "Speed_Max": "16.5",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1500",
-      "Health_Min": "350",
-      "Health_Max": "450",
-      "Health": "600",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Blue Sedan"
-    }
   },
   "22b50b3e3bfb45bc9fe26802873a25da": {
     "name": "Frame_Large_Pine",
@@ -32319,44 +32373,6 @@
     },
     "translation": null
   },
-  "2771da78d15a44c0aa1c1cbeea115c0c": {
-    "name": "Kuwait_Pickup_White",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Pickup_White/Kuwait_Pickup_White.dat",
-    "data": {
-      "GUID": "2771da78d15a44c0aa1c1cbeea115c0c",
-      "Type": "Vehicle",
-      "Rarity": "Rare",
-      "ID": "5034",
-      "Speed_Min": "-6",
-      "Speed_Max": "13",
-      "Steer_Min": "12",
-      "Steer_Max": "24",
-      "Brake": "40",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "2000",
-      "Health_Min": "350",
-      "Health_Max": "450",
-      "Health": "550",
-      "Can_Be_Locked": "False",
-      "Traction": "",
-      "Trunk_Storage_X": "6",
-      "Trunk_Storage_Y": "6",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "130",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "White Truck"
-    }
-  },
   "277eb9851d9c498e8e2415fa21b118de": {
     "name": "Quarantine_0",
     "path": "Bundles/Objects/Medium/Signs/Quarantine_0/Quarantine_0.dat",
@@ -33570,6 +33586,18 @@
       "Message_0_Page_0": "There's a difference between hearing and listening."
     }
   },
+  "28abf2ebed7444d08c2d272af0dcfcd1": {
+    "name": "Kuwait_Sedan_Blue",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Sedans/Kuwait_Sedan_Blue.asset",
+    "data": {
+      "GUID": "28abf2ebed7444d08c2d272af0dcfcd1",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5014",
+      "TargetVehicle": "db1b8f5d627d46e1a160669c71770c50",
+      "LoadPaintColor": "#3C6B94"
+    },
+    "translation": null
+  },
   "28ad1797938146c78faeb8d1dcde7add": {
     "name": "Snake",
     "path": "Bundles/Items/Vests/Snake/Snake.dat",
@@ -34017,6 +34045,38 @@
     },
     "translation": null
   },
+  "292076db5f8e482d8a5b2fcff172f6c9": {
+    "name": "Kuwait_SMG_Mag_20",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Magazines/Kuwait_SMG_Mag_20/Kuwait_SMG_Mag_20.dat",
+    "data": {
+      "GUID": "292076db5f8e482d8a5b2fcff172f6c9",
+      "Type": "Magazine",
+      "Rarity": "Rare",
+      "ID": "5154",
+      "Size_X": "1",
+      "Size_Y": "2",
+      "Size_Z": "0.25",
+      "Amount": "20",
+      "Count_Min": "4",
+      "Count_Max": "20",
+      "Calibers": "1",
+      "Caliber_0": "25",
+      "Tracer": "48",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Ammo",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "44",
+      "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Ammo",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "5154",
+      "Blueprint_1_Build": "30"
+    },
+    "translation": {
+      "Name": "SMG Magazine",
+      "Description": "Low caliber civilian grade magazine designed to hold 20 rounds. "
+    }
+  },
   "2920aa0597c94bc0999a9cf884591bad": {
     "name": "Kuwait_Organic",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Kuwait_Organic/Kuwait_Organic.dat",
@@ -34047,36 +34107,6 @@
       "Table_9_Weight": "1"
     },
     "translation": null
-  },
-  "29280131e5f944f5ab957dc1e76bde15": {
-    "name": "29445KJW",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/Q/29445KJW/Asset.dat",
-    "data": {
-      "GUID": "29280131e5f944f5ab957dc1e76bde15",
-      "Type": "Quest",
-      "ID": "29445",
-      "Conditions": "1",
-      "Condition_0_Type": "Item",
-      "Condition_0_ID": "5531",
-      "Condition_0_Amount": "1",
-      "Condition_0_Reset": "",
-      "Rewards": "3",
-      "Reward_0_Type": "Experience",
-      "Reward_0_Value": "50",
-      "Reward_1_Type": "Reputation",
-      "Reward_1_Value": "5",
-      "Reward_2_Type": "Flag_Short",
-      "Reward_2_ID": "29300",
-      "Reward_2_Value": "1",
-      "Reward_2_Modification": "Increment"
-    },
-    "translation": {
-      "Name": "<color=#FF69B4>Survivors: </color>Synthesize Another Strain",
-      "Description": "Jamie needs you to find some medicine to combat infections for survivors.",
-      "Condition_0": "Find {0}/{1} {2}",
-      "Reward_0": "50 Experience",
-      "Reward_1": "5 Reputation"
-    }
   },
   "292ff03d344141a1acb1d7a23691ceed": {
     "name": "Tray_01_Off",
@@ -34220,44 +34250,6 @@
       ]
     },
     "translation": null
-  },
-  "29625bd8287445eba75c751b27425a05": {
-    "name": "Kuwait_Pickup_Olive",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Pickup_Olive/Kuwait_Pickup_Olive.dat",
-    "data": {
-      "GUID": "29625bd8287445eba75c751b27425a05",
-      "Type": "Vehicle",
-      "Rarity": "Rare",
-      "ID": "5032",
-      "Speed_Min": "-6",
-      "Speed_Max": "13",
-      "Steer_Min": "12",
-      "Steer_Max": "24",
-      "Brake": "40",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "2000",
-      "Health_Min": "350",
-      "Health_Max": "450",
-      "Health": "550",
-      "Can_Be_Locked": "False",
-      "Traction": "",
-      "Trunk_Storage_X": "6",
-      "Trunk_Storage_Y": "6",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "130",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Olive Truck"
-    }
   },
   "2969ed12d1984d59b5e3b61a5f3e8a9f": {
     "name": "Train_Car_2",
@@ -34475,45 +34467,6 @@
       "Description": "Bulky, reinforced with steel plates.<br><color=#FF69B4>+12 Slots</color><br><color=#b8b188>+15% Armour</color>"
     }
   },
-  "29dadd99f3714f6da63d11d336cdddaa": {
-    "name": "29695KGZ",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/3/C/29695KGZ/Asset.dat",
-    "data": {
-      "GUID": "29dadd99f3714f6da63d11d336cdddaa",
-      "Type": "NPC",
-      "ID": "29695",
-      "Hat": "1607 ",
-      "Glasses": "975",
-      "Mask": "974",
-      "Vest": "968",
-      "Shirt": "973",
-      "Pants": "972",
-      "Face": "1",
-      "Hair": "4",
-      "Beard": "0",
-      "Color_Skin": "#BEA582",
-      "Color_Hair": "#373737",
-      "Primary": "5000",
-      "Equipped": "Primary",
-      "Pose": "Crouch",
-      "Pose_Head_Offset": "0.1",
-      "Dialogue": "29696",
-      "Conditions": "2",
-      "Condition_0_Type": "Flag_Bool",
-      "Condition_0_ID": "29321",
-      "Condition_0_Value": "True",
-      "Condition_0_Logic": "Equal",
-      "Condition_1_Type": "Flag_Bool",
-      "Condition_1_ID": "25050",
-      "Condition_1_Value": "False",
-      "Condition_1_Logic": "Equal",
-      "Condition_1_Allow_Unset": ""
-    },
-    "translation": {
-      "Name": "KuwaitSurvivorGuardZavah",
-      "Character": "Zavah"
-    }
-  },
   "29deae9db4e64e0e90ed734595363daf": {
     "name": "Scout_Silo",
     "path": "Bundles/NPCs/Quests/Scout_Silo/Asset.dat",
@@ -34590,6 +34543,18 @@
     "translation": {
       "Name": "Lamp #1"
     }
+  },
+  "29ee80c561284105a58b420314a20ebf": {
+    "name": "Kuwait_SUV_Blue",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_SUVs/Kuwait_SUV_Blue.asset",
+    "data": {
+      "GUID": "29ee80c561284105a58b420314a20ebf",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5014",
+      "TargetVehicle": "1b5a872db58a48288c3293c7532633e8",
+      "LoadPaintColor": "#3C6B94"
+    },
+    "translation": null
   },
   "29f40a3a3bbb416da5488399dc4f3c73": {
     "name": "UMarine",
@@ -35224,6 +35189,18 @@
       "Name": "Purple Bandana",
       "Description": "Tablecloth for your neck."
     }
+  },
+  "2ac85e579f3949f58cdacdbf93c07024": {
+    "name": "Kuwait_Truck_Olive",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Trucks/Kuwait_Truck_Olive.asset",
+    "data": {
+      "GUID": "2ac85e579f3949f58cdacdbf93c07024",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5032",
+      "TargetVehicle": "32a7407eb9774662b12be6d3faf4ab7f",
+      "LoadPaintColor": "#627342"
+    },
+    "translation": null
   },
   "2ac95ec5af2b4db2b2f678f840704f1c": {
     "name": "Kuwait_Oceanics_0",
@@ -36486,6 +36463,18 @@
       "Name": "Present",
       "Description": "A colorful box for storing gifts."
     }
+  },
+  "2c389be75f39469c944973a308103022": {
+    "name": "Kuwait_Sedan_Orange",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Sedans/Kuwait_Sedan_Orange.asset",
+    "data": {
+      "GUID": "2c389be75f39469c944973a308103022",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5016",
+      "TargetVehicle": "db1b8f5d627d46e1a160669c71770c50",
+      "LoadPaintColor": "#C7752B"
+    },
+    "translation": null
   },
   "2c473159cbc345c1bc3a4828661126aa": {
     "name": "Kuwait_Phantom_Shelf",
@@ -39072,6 +39061,130 @@
       "Name": "Kuwait Sadu #1"
     }
   },
+  "2f7ad42c991b47d69699e85feefb85af": {
+    "name": "Kuwait_Atakovat",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Guns/Kuwait_Atakovat/Kuwait_Atakovat.dat",
+    "data": {
+      "GUID": "2f7ad42c991b47d69699e85feefb85af",
+      "Type": "Gun",
+      "Rarity": "Epic",
+      "Useable": "Gun",
+      "Slot": "Primary",
+      "ID": "5155",
+      "Size_X": "4",
+      "Size_Y": "2",
+      "Size_Z": "0.35",
+      "Magazine": "5013",
+      "Hook_Sight": "",
+      "Hook_Tactical": "",
+      "Hook_Grip": "",
+      "Hook_Barrel": "",
+      "Ammo_Min": "13",
+      "Ammo_Max": "30",
+      "Safety": "",
+      "Semi": "",
+      "Auto": "",
+      "Attachment_Calibers": "1",
+      "Attachment_Caliber_0": "9",
+      "Magazine_Calibers": "1",
+      "Magazine_Caliber_0": "5001",
+      "Range": "200",
+      "Firerate": "8",
+      "Action": "Trigger",
+      "Player_Damage": "32",
+      "Player_Leg_Multiplier": "0.5",
+      "Player_Arm_Multiplier": "0.5",
+      "Player_Spine_Multiplier": "0.6",
+      "Player_Skull_Multiplier": "1.1",
+      "Zombie_Damage": "95",
+      "Zombie_Leg_Multiplier": "0.3",
+      "Zombie_Arm_Multiplier": "0.3",
+      "Zombie_Spine_Multiplier": "0.5",
+      "Zombie_Skull_Multiplier": "1.1",
+      "Animal_Damage": "48",
+      "Animal_Leg_Multiplier": "0.7",
+      "Animal_Spine_Multiplier": "0.8",
+      "Animal_Skull_Multiplier": "1.1",
+      "Barricade_Damage": "20",
+      "Structure_Damage": "15",
+      "Vehicle_Damage": "35",
+      "Resource_Damage": "15",
+      "Object_Damage": "25",
+      "Durability": ".2",
+      "Spread_Aim": "0.05",
+      "Spread_Hip": "0.25",
+      "Recoil_Min_X": "3.5",
+      "Recoil_Min_Y": "2.5",
+      "Recoil_Max_X": "4.5",
+      "Recoil_Max_Y": "4.5",
+      "Recoil_Crouch": "0.9",
+      "Recoil_Prone": ".85",
+      "Spread_Prone": "0.85",
+      "Spread_Crouch": "0.9",
+      "Recover_X": "-0.5",
+      "Recover_Y": "-0.7",
+      "Shake_Min_X": "-0.002",
+      "Shake_Min_Y": "0.004",
+      "Shake_Min_Z": "-0.010",
+      "Shake_Max_X": "0.005",
+      "Shake_Max_Y": "-0.01",
+      "Shake_Max_Z": "-0.04",
+      "Muzzle": "3",
+      "Gunshot_Rolloff_Distance": "1250",
+      "Blueprints": "3",
+      "Blueprint_0_Type": "Repair",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "67",
+      "Blueprint_0_Supply_0_Amount": "2",
+      "Blueprint_0_Tool": "76",
+      "Blueprint_0_Level": "1",
+      "Blueprint_0_Skill": "Repair",
+      "Blueprint_0_Build": "27",
+      "Blueprint_0_Conditions": "1",
+      "Blueprint_0_Condition_0_Type": "Item",
+      "Blueprint_0_Condition_0_ID": "5112",
+      "Blueprint_0_Condition_0_Amount": "0",
+      "Blueprint_0_Condition_0_Logic": "Equal",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "5012",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "3",
+      "Blueprint_1_Build": "27",
+      "Blueprint_2_Type": "Repair",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "67",
+      "Blueprint_2_Supply_0_Amount": "1",
+      "Blueprint_2_Tool": "5112",
+      "Blueprint_2_Tool_Critical": "",
+      "Blueprint_2_Level": "1",
+      "Blueprint_2_Skill": "Repair",
+      "Blueprint_2_Build": "27",
+      "Actions": "3",
+      "Action_0_Type": "Blueprint",
+      "Action_0_Source": "5012",
+      "Action_0_Blueprints": "1",
+      "Action_0_Blueprint_0_Index": "0",
+      "Action_0_Text": "Torch Repair",
+      "Action_0_Tooltip": "Repair to 100% using a Blowtorch.",
+      "Action_1_Type": "Blueprint",
+      "Action_1_Source": "5012",
+      "Action_1_Blueprints": "1",
+      "Action_1_Blueprint_0_Index": "2",
+      "Action_1_Text": "Arc Repair",
+      "Action_1_Tooltip": "Repair to 100% using an Arc Welder.",
+      "Action_2_Type": "Blueprint",
+      "Action_2_Source": "5012",
+      "Action_2_Blueprints": "1",
+      "Action_2_Blueprint_0_Index": "1",
+      "Action_2_Text": "Salvage",
+      "Action_2_Tooltip": "Scrap into base components."
+    },
+    "translation": {
+      "Name": "Atakovat",
+      "Description": "Russian assault rifle chambered in Ranger ammunition. <br><color=#b8b188>32 Player Damage</color>, <color=#738769>95 Zombie Damage</color>"
+    }
+  },
   "2f99f02e90d8407d8f167b8649e8dd32": {
     "name": "Crate_France_1",
     "path": "Bundles/Objects/Medium/Military/Crate_France_1/Crate_France_1.dat",
@@ -39961,8 +40074,8 @@
     }
   },
   "3098e54d58f445d8a62a6ef9484df677": {
-    "name": "Kuwait_RC_Stallion_Navy",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_RC_Stallion_Navy/Kuwait_RC_Stallion_Navy.dat",
+    "name": "Kuwait_RColt",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_RColt/Kuwait_RColt.dat",
     "data": {
       "GUID": "3098e54d58f445d8a62a6ef9484df677",
       "Type": "Vehicle",
@@ -39994,10 +40107,77 @@
       "Has_Clip_Prefab": "False",
       "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
       "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
+      "PaintableSections": [
+        {
+          "Path": "Model_0",
+          "MaterialIndex": "0"
+        },
+        {
+          "Path": "Model_1",
+          "MaterialIndex": "0"
+        },
+        {
+          "Path": "Siren_Model",
+          "MaterialIndex": "0"
+        }
+      ],
+      "DefaultPaintColors": [
+        "#D13387",
+        "#2F3387",
+        "#FF9700"
+      ],
+      "WheelConfigurations": [
+        {
+          "WheelColliderPath": "Tires/Tire_0",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_0",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_1",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_1",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_2",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_2",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_3",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_3",
+          "ModelUseColliderPose": "true"
+        }
+      ],
+      "ReverseGearRatio": "10",
+      "ForwardGearRatios": [
+        "20",
+        "13.7"
+      ],
+      "GearShift_UpThresholdRPM": "5000",
+      "GearShift_Duration": "0.2",
+      "GearShift_Interval": "0.5",
+      "EngineIdleRPM": "1000",
+      "EngineMaxRPM": "6000",
+      "EngineMaxTorque": "20",
+      "EngineSound_Type": "EngineRPMSimple",
+      "EngineSound": {
+        "IdlePitch": "1.0",
+        "IdleVolume": "0.75",
+        "MaxPitch": "1.25",
+        "MaxVolume": "1.0"
+      },
       "Asset_Bundle_Version": "3"
     },
     "translation": {
-      "Name": "Stallion RC"
+      "Name": "Colt R"
     }
   },
   "30aab7ebf68344f7abbfacf463d5d8c9": {
@@ -41941,8 +42121,8 @@
     }
   },
   "32a7407eb9774662b12be6d3faf4ab7f": {
-    "name": "Kuwait_Pickup_Black",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Pickup_Black/Kuwait_Pickup_Black.dat",
+    "name": "Kuwait_Pickup",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Pickup/Kuwait_Pickup.dat",
     "data": {
       "GUID": "32a7407eb9774662b12be6d3faf4ab7f",
       "Type": "Vehicle",
@@ -41972,10 +42152,74 @@
       "Has_Clip_Prefab": "False",
       "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
       "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
+      "PaintableSections": [
+        {
+          "Path": "Model_0",
+          "MaterialIndex": "0"
+        },
+        {
+          "Path": "Model_1",
+          "MaterialIndex": "0"
+        }
+      ],
+      "DefaultPaintColors": [
+        "#353535",
+        "#627342",
+        "#A32929",
+        "#DFDFDF"
+      ],
+      "WheelConfigurations": [
+        {
+          "WheelColliderPath": "Tires/Tire_0",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_0",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_1",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_1",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_2",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_2",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_3",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_3",
+          "ModelUseColliderPose": "true"
+        }
+      ],
+      "ReverseGearRatio": "10",
+      "ForwardGearRatios": [
+        "20",
+        "13.7"
+      ],
+      "GearShift_UpThresholdRPM": "5000",
+      "GearShift_Duration": "0.2",
+      "GearShift_Interval": "0.5",
+      "EngineIdleRPM": "1000",
+      "EngineMaxRPM": "6000",
+      "EngineMaxTorque": "2.8",
+      "EngineSound_Type": "EngineRPMSimple",
+      "EngineSound": {
+        "IdlePitch": "1.0",
+        "IdleVolume": "0.75",
+        "MaxPitch": "2",
+        "MaxVolume": "1.0"
+      },
       "Asset_Bundle_Version": "3"
     },
     "translation": {
-      "Name": "Black Truck"
+      "Name": "Truck"
     }
   },
   "32aafa9fb02646f4ba0351b28429983f": {
@@ -44209,44 +44453,6 @@
     },
     "translation": null
   },
-  "360c2a8045d44fdcb9086b12b132c7a2": {
-    "name": "Kuwait_Stallion_Orange",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Stallion_Orange/Kuwait_Stallion_Orange.dat",
-    "data": {
-      "GUID": "360c2a8045d44fdcb9086b12b132c7a2",
-      "Type": "Vehicle",
-      "Rarity": "Rare",
-      "ID": "5004",
-      "Speed_Min": "-6",
-      "Speed_Max": "24",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "3",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "c6d835a711994c0cafb332b1106f2311",
-      "Valid_Speed_Horizontal": "200",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Pitch_Drive": "0.015",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Orange Stallion"
-    }
-  },
   "36123d35e0ce48d9b5da2f6f2b34f707": {
     "name": "Frost_Overalls_Jeans",
     "path": "Bundles/Items/Frost/Frost_Overalls_Jeans/Frost_Overalls_Jeans.dat",
@@ -44464,7 +44670,8 @@
       "Type": "Large",
       "Has_Clip_Prefab": "False",
       "ID": "5161",
-      "Chart": "Medium"
+      "Chart": "Medium",
+      "Material_Palette": "7dc6bbdf7b9c42a3821e1b8b111845be"
     },
     "translation": {
       "Name": "Kuwait Container #1"
@@ -44675,7 +44882,7 @@
       "Response_1_Condition_0_Reset": ""
     },
     "translation": {
-      "Message_0_Page_0": "Hello.",
+      "Message_0_Page_0": "Hello there. Can't see you too well. Is something in my eye? Something's definitely in my eye.",
       "Response_0": "Do you need help?",
       "Response_1": "I've defeated the zombie!",
       "Response_2": "Goodbye."
@@ -46501,6 +46708,18 @@
     },
     "translation": null
   },
+  "3874b9337be148d09bb6418bb15fbd9a": {
+    "name": "Kuwait_SUV_Green",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_SUVs/Kuwait_SUV_Green.asset",
+    "data": {
+      "GUID": "3874b9337be148d09bb6418bb15fbd9a",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5015",
+      "TargetVehicle": "1b5a872db58a48288c3293c7532633e8",
+      "LoadPaintColor": "#336A33"
+    },
+    "translation": null
+  },
   "3889316602f0424ebc7f3fb50f9361c3": {
     "name": "Boss_Fire_Completed",
     "path": "Bundles/NPCs/Dialogues/Fire/Boss_Fire_Completed/Asset.dat",
@@ -47233,44 +47452,6 @@
       "Name": "<color=#b8b188>Concord: </color><color=legendary>Pillow Project</color>",
       "Description": "<color=#FF69B4>Repeating Quest</color><br><color=#FF69B4>Kyra</color> needs you to get some supplies to make a pillow?",
       "Reward_3": "???"
-    }
-  },
-  "394475f45edc41969588fb79c28c5475": {
-    "name": "29441KJW",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29440KJD/29441KJW/Asset.dat",
-    "data": {
-      "GUID": "394475f45edc41969588fb79c28c5475",
-      "Type": "Dialogue",
-      "ID": "29441",
-      "Messages": "1",
-      "Message_0_Pages": "1",
-      "Responses": "4",
-      "Response_0_Dialogue": "29444",
-      "Response_1_Dialogue": "29442",
-      "Response_1_Quest": "29445",
-      "Response_1_Conditions": "1",
-      "Response_1_Condition_0_Type": "Quest",
-      "Response_1_Condition_0_Logic": "Equal",
-      "Response_1_Condition_0_ID": "29445",
-      "Response_1_Condition_0_Status": "None",
-      "Response_1_Rewards": "1",
-      "Response_1_Reward_0_Type": "Quest",
-      "Response_1_Reward_0_ID": "29445",
-      "Response_2_Dialogue": "29443",
-      "Response_2_Quest": "29445",
-      "Response_2_Conditions": "1",
-      "Response_2_Condition_0_Type": "Quest",
-      "Response_2_Condition_0_Logic": "Equal",
-      "Response_2_Condition_0_ID": "29445",
-      "Response_2_Condition_0_Status": "Ready",
-      "Response_2_Condition_0_Reset": ""
-    },
-    "translation": {
-      "Message_0_Page_0": "Seems like things are changing for the worse.",
-      "Response_0": "What are you doing?",
-      "Response_1": "Do you need any help?",
-      "Response_2": "I've brought the medicine.",
-      "Response_3": "Goodbye."
     }
   },
   "3949e5ee511c42d98758088e6b300fd0": {
@@ -48135,6 +48316,22 @@
     },
     "translation": null
   },
+  "3ab93be7f7c04ed187093465dae52902": {
+    "name": "Kuwait_Industrial_Loading_Bay",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Buildings/Kuwait_Industrial_Loading_Bay/Kuwait_Industrial_Loading_Bay.dat",
+    "data": {
+      "GUID": "3ab93be7f7c04ed187093465dae52902",
+      "Type": "Large",
+      "Has_Clip_Prefab": "False",
+      "ID": "1",
+      "LOD": "Area",
+      "Exclude_From_Level_Batching": "",
+      "Asset_Bundle_Version": "2"
+    },
+    "translation": {
+      "Name": "Kuwait Loading Bay #1"
+    }
+  },
   "3abb821bba574481b3bebe211a6e19ff": {
     "name": "Queen_Guard_Top",
     "path": "Bundles/Items/Shirts/Queen_Guard_Top/Queen_Guard_Top.dat",
@@ -48404,12 +48601,12 @@
       "Size_X": "4",
       "Size_Y": "2",
       "Size_Z": "0.3",
-      "Magazine": "1029",
+      "Magazine": "5154",
       "Hook_Sight": "",
       "Hook_Tactical": "",
       "Hook_Grip": "",
       "Ammo_Min": "10",
-      "Ammo_Max": "25",
+      "Ammo_Max": "20",
       "Safety": "",
       "Semi": "",
       "Auto": "",
@@ -48502,7 +48699,7 @@
     },
     "translation": {
       "Name": "Viper",
-      "Description": "German submachine gun chambered in Viper ammunition.<br><color=#b8b188>15 Player Damage</color>, <color=#738769>90 Zombie Damage</color>"
+      "Description": "German submachine gun chambered in civilian ammunition.<br><color=#b8b188>15 Player Damage</color>, <color=#738769>90 Zombie Damage</color>"
     }
   },
   "3afcb0c3a0744afa8617c38c22459f20": {
@@ -52344,44 +52541,6 @@
       "Name": "Kuwait Dynamite Placed #3 (QUEST)"
     }
   },
-  "4013e94b04e242be8f9b00c7a953f266": {
-    "name": "Kuwait_Stallion_Blue",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Stallion_Blue/Kuwait_Stallion_Blue.dat",
-    "data": {
-      "GUID": "4013e94b04e242be8f9b00c7a953f266",
-      "Type": "Vehicle",
-      "Rarity": "Rare",
-      "ID": "5002",
-      "Speed_Min": "-6",
-      "Speed_Max": "24",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "3",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "c6d835a711994c0cafb332b1106f2311",
-      "Valid_Speed_Horizontal": "200",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Pitch_Drive": "0.015",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Blue Stallion"
-    }
-  },
   "401dac92e1a845cca9dcbe6d1e48fe69": {
     "name": "Can",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Supplies/Can/Can.dat",
@@ -52930,44 +53089,6 @@
     },
     "translation": {
       "Name": "Kuwait Greenhouse #2"
-    }
-  },
-  "40ccffe11b29416fb962e7e44f335c58": {
-    "name": "Kuwait_Suv_Yellow",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Suv_Yellow/Kuwait_Suv_Yellow.dat",
-    "data": {
-      "GUID": "40ccffe11b29416fb962e7e44f335c58",
-      "Type": "Vehicle",
-      "Rarity": "Uncommon",
-      "ID": "5020",
-      "Speed_Min": "-5",
-      "Speed_Max": "12",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "4",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "Traction": "",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Yellow Land Explorer"
     }
   },
   "40cea9c052934435909942582758a147": {
@@ -54101,43 +54222,6 @@
       "Description": "Low caliber civilian grade <color=uncommon>Hawkhound</color> magazine. Designed to fit 8 rounds."
     }
   },
-  "42065da4ee124e42a1e7aff16340ea12": {
-    "name": "Kuwait_Sedan_Yellow",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Sedan_Yellow/Kuwait_Sedan_Yellow.dat",
-    "data": {
-      "GUID": "42065da4ee124e42a1e7aff16340ea12",
-      "Type": "Vehicle",
-      "Rarity": "Common",
-      "ID": "5030",
-      "Speed_Min": "-6",
-      "Speed_Max": "16.5",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1500",
-      "Health_Min": "350",
-      "Health_Max": "450",
-      "Health": "600",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Yellow Sedan"
-    }
-  },
   "420a2fddeafa4f8b88f7b8d6c956e4aa": {
     "name": "Research_Ammo",
     "path": "Bundles/Spawns/Items/Research_Ammo/Research_Ammo.dat",
@@ -54657,17 +54741,18 @@
     }
   },
   "429960246f0a4f4eac944d07f9d0b797": {
-    "name": "Kuwait_Container_Open_0",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Business/Kuwait_Container_Open_0/Kuwait_Container_Open_0.dat",
+    "name": "Kuwait_Container_1",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Business/Kuwait_Container_1/Kuwait_Container_1.dat",
     "data": {
       "GUID": "429960246f0a4f4eac944d07f9d0b797",
       "Type": "Large",
       "Has_Clip_Prefab": "False",
       "ID": "5163",
-      "Chart": "Medium"
+      "Chart": "Medium",
+      "Material_Palette": "7dc6bbdf7b9c42a3821e1b8b111845be"
     },
     "translation": {
-      "Name": "Kuwait Container #3"
+      "Name": "Kuwait Container #2"
     }
   },
   "429dc4134dfd45b8890c8220bafed4ac": {
@@ -56322,7 +56407,7 @@
       "Size_Y": "1",
       "Size_Z": "0.4",
       "Health": "10",
-      "Water": "50",
+      "Water": "40",
       "Blueprints": "1",
       "Blueprint_0_Type": "Repair",
       "Blueprint_0_Supply_0_ID": "5528",
@@ -56338,7 +56423,7 @@
     },
     "translation": {
       "Name": "Bottled Coconut",
-      "Description": "Water from the center of the coconut.<br><color=#BF1F1F>+10 HP</color><br><color=#3298C8>+50 Water</color>"
+      "Description": "Water from the center of the coconut.<br><color=#BF1F1F>+10 HP</color><br><color=#3298C8>+40 Water</color>"
     }
   },
   "452a9471a7294ba984a3a44944b1f884": {
@@ -56783,8 +56868,8 @@
     "translation": null
   },
   "45d35b925ad8466196a4b237a3feb63c": {
-    "name": "Kuwait_Radio_Tower",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Utilities/Kuwait_Radio_Tower/Kuwait_Radio_Tower.dat",
+    "name": "Kuwait_Radiostation_1",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Buildings/Kuwait_Radiostation_1/Kuwait_Radiostation_1.dat",
     "data": {
       "GUID": "45d35b925ad8466196a4b237a3feb63c",
       "Type": "Large",
@@ -56795,7 +56880,7 @@
       "LOD_Size_Z": "-1"
     },
     "translation": {
-      "Name": "Kuwait Radio Tower #1"
+      "Name": "Kuwait Radiostation #2"
     }
   },
   "45d64bc217bc45d592b41bbdebea3735": {
@@ -57244,18 +57329,30 @@
       "GUID": "46e1f3e3ae994783a33eb52a1251d0e5",
       "Type": "Quest",
       "ID": "28655",
-      "Conditions": "1",
+      "Conditions": "3",
       "Condition_0_Type": "Kills_Zombie",
       "Condition_0_ID": "28656",
       "Condition_0_Value": "1",
       "Condition_0_Zombie": "Boss_Electric",
       "Condition_0_Spawn": "",
       "Condition_0_Nav": "17",
+      "Condition_1_Type": "Kills_Zombie",
+      "Condition_1_ID": "28706",
+      "Condition_1_Value": "1",
+      "Condition_1_Zombie": "Boss_Fire",
+      "Condition_1_Spawn": "",
+      "Condition_1_Nav": "8",
+      "Condition_2_Type": "Kills_Zombie",
+      "Condition_2_ID": "28606",
+      "Condition_2_Value": "1",
+      "Condition_2_Zombie": "Boss_Wind",
+      "Condition_2_Spawn": "",
+      "Condition_2_Nav": "1",
       "Rewards": "3",
       "Reward_0_Type": "Experience",
-      "Reward_0_Value": "200",
+      "Reward_0_Value": "500",
       "Reward_1_Type": "Reputation",
-      "Reward_1_Value": "20",
+      "Reward_1_Value": "60",
       "Reward_2_Type": "Flag_Short_Random",
       "Reward_2_ID": "27000",
       "Reward_2_Min_Value": "2",
@@ -57263,9 +57360,11 @@
       "Reward_2_Modification": "Increment"
     },
     "translation": {
-      "Name": "<color=#b8b188>Concord: </color><color=mythical>Jump Start</color>",
-      "Description": "While Yousef was escaping through Jahra Industrial, a zombie sent powerful electrical shocks into his car, killing the battery. He wants you to get rid of this zombie.",
-      "Condition_0": "Defeat {0}/{1} <color=mythical>Electric Boss</color>"
+      "Name": "<color=#b8b188>Concord: </color><color=mythical>Uncommon Occurances</color>",
+      "Description": "Yousef's route to safety was not a safe one. He ran into three different mutated zombies on his way to Icarus! One was in Hawally, another was in Burgan, and the last was at the Jahra port.",
+      "Condition_0": "Defeat {0}/{1} <color=mythical>Electric Boss</color>",
+      "Condition_1": "Defeat {0}/{1} <color=mythical>Flamethrower Boss </color>",
+      "Condition_2": "Defeat {0}/{1} <color=mythical>Earthquake Boss </color>"
     }
   },
   "46e4e351fab648eab6662e150f7ae1dd": {
@@ -58029,34 +58128,6 @@
     },
     "translation": {
       "Message_0_Page_0": "Pleasure doing business, survivor! Oh, and no refunds."
-    }
-  },
-  "47ae87fb4bd24177b7afe64f60354b0f": {
-    "name": "29450KJH",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/C/29450KJH/Asset.dat",
-    "data": {
-      "GUID": "47ae87fb4bd24177b7afe64f60354b0f",
-      "Type": "NPC",
-      "ID": "29450",
-      "Shirt": "167 ",
-      "Vest": "413",
-      "Pants": "208",
-      "Face": "22",
-      "Hair": "21",
-      "Beard": "0",
-      "Color_Skin": "#9D886B",
-      "Color_Hair": "#191919",
-      "Dialogue": "29451",
-      "Conditions": "1",
-      "Condition_0_Type": "Flag_Bool",
-      "Condition_0_ID": "25050",
-      "Condition_0_Value": "False",
-      "Condition_0_Logic": "Equal",
-      "Condition_0_Allow_Unset": ""
-    },
-    "translation": {
-      "Name": "KuwaitSurvivorJimmy",
-      "Character": "Jimmy"
     }
   },
   "47b7aac3471c497796152418008f5cdc": {
@@ -60238,7 +60309,7 @@
         "Name": "",
         "Path": ""
       },
-      "Physics_Material": "SAND_STATIC",
+      "Physics_Material": "PEI_Sand_00",
       "Foliage": {
         "GUID": "00000000000000000000000000000000"
       },
@@ -62475,6 +62546,18 @@
       "Description": "What doesn't kill you makes you stronger.  <br><color=#BF1F1F>+10 HP</color><br><color=#AB8019>+20 Food</color>"
     }
   },
+  "4df0677eb05641d8bbe28c20da28822d": {
+    "name": "Kuwait_Colt_Black",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Colt/Kuwait_Colt_Black.asset",
+    "data": {
+      "GUID": "4df0677eb05641d8bbe28c20da28822d",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5001",
+      "TargetVehicle": "e19145bfb0924964bf6a1fa6818b9d24",
+      "LoadPaintColor": "#14141C"
+    },
+    "translation": null
+  },
   "4df14ace84a34e18810cb3918341db1c": {
     "name": "Thief_Bottom",
     "path": "Bundles/Items/Pants/Thief_Bottom/Thief_Bottom.dat",
@@ -63645,6 +63728,18 @@
       "Name": "KuwaitNPCLiberatorMGrantBreakfast",
       "Character": "<color=epic>Major Grant</color>"
     }
+  },
+  "4f90694bd12345ab9fcc92013f09bcee": {
+    "name": "Kuwait_Truck_White",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Trucks/Kuwait_Truck_White.asset",
+    "data": {
+      "GUID": "4f90694bd12345ab9fcc92013f09bcee",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5034",
+      "TargetVehicle": "32a7407eb9774662b12be6d3faf4ab7f",
+      "LoadPaintColor": "#DFDFDF"
+    },
+    "translation": null
   },
   "4fa10a95f582495f9680ff4484ace350": {
     "name": "Cap_Green",
@@ -67891,6 +67986,18 @@
       "Description": "Pine counter cupboard for storing items."
     }
   },
+  "54c0ea04ce264439bd248d6dcc336532": {
+    "name": "Kuwait_SUV_Black",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_SUVs/Kuwait_SUV_Black.asset",
+    "data": {
+      "GUID": "54c0ea04ce264439bd248d6dcc336532",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5013",
+      "TargetVehicle": "1b5a872db58a48288c3293c7532633e8",
+      "LoadPaintColor": "#353535"
+    },
+    "translation": null
+  },
   "54c4ffae01d14bab8dd8bfdfe00953ce": {
     "name": "Sombrero",
     "path": "Bundles/Items/Hats/Sombrero/Sombrero.dat",
@@ -70112,7 +70219,7 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.4",
-      "Water": "50",
+      "Water": "30",
       "Energy": "75",
       "Blueprints": "1",
       "Blueprint_0_Type": "Repair",
@@ -70129,7 +70236,7 @@
     },
     "translation": {
       "Name": "Bottled Energy",
-      "Description": "Questionable blend of chemicals and water.<br><color=#3298C8>+50 Water</color><br><color=#DCB413>+75 Energy</color>"
+      "Description": "Questionable blend of chemicals and water.<br><color=#3298C8>+30 Water</color><br><color=#DCB413>+75 Energy</color>"
     }
   },
   "582ef98fb76c49c7b57013a7b929e8f6": {
@@ -78114,34 +78221,6 @@
       "Name": "Kuwait Mall #1"
     }
   },
-  "6152ce6cbaa54210bca128032dca1b0a": {
-    "name": "29440KJI",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/C/29440KJI/Asset.dat",
-    "data": {
-      "GUID": "6152ce6cbaa54210bca128032dca1b0a",
-      "Type": "NPC",
-      "ID": "29440",
-      "Hat": "27 ",
-      "Shirt": "173",
-      "Pants": "207",
-      "Face": "16",
-      "Hair": "1",
-      "Beard": "3",
-      "Color_Skin": "#BEA582",
-      "Color_Hair": "#473928",
-      "Dialogue": "29441",
-      "Conditions": "1",
-      "Condition_0_Type": "Flag_Bool",
-      "Condition_0_ID": "25050",
-      "Condition_0_Value": "False",
-      "Condition_0_Logic": "Equal",
-      "Condition_0_Allow_Unset": ""
-    },
-    "translation": {
-      "Name": "KuwaitSurvivorJamie",
-      "Character": "Jamie"
-    }
-  },
   "61677a2b134d428092947c2676c4d39b": {
     "name": "Guns_Russia_Guns",
     "path": "Bundles/Spawns/Items/Guns_Russia_Guns/Guns_Russia_Guns.dat",
@@ -80119,6 +80198,18 @@
       "Description": "Picked wildflowers, perfect for a bouquet. "
     }
   },
+  "63f92d28f36e42c58f023ae0edc5f2a1": {
+    "name": "Kuwait_Sedan_White",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Sedans/Kuwait_Sedan_White.asset",
+    "data": {
+      "GUID": "63f92d28f36e42c58f023ae0edc5f2a1",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5019",
+      "TargetVehicle": "db1b8f5d627d46e1a160669c71770c50",
+      "LoadPaintColor": "#DFDFDF"
+    },
+    "translation": null
+  },
   "6400e6b9b1e64ac8ad3cfd600003492c": {
     "name": "Boss_Pirate",
     "path": "Bundles/NPCs/Quests/Boss_Pirate/Asset.dat",
@@ -81601,24 +81692,6 @@
       "Table_0_Weight": "100"
     },
     "translation": null
-  },
-  "654595c472e44ed4909d7cf4c402f560": {
-    "name": "Kuwait_Container_Door_1",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Business/Kuwait_Container_Door_1/Kuwait_Container_Door_1.dat",
-    "data": {
-      "GUID": "654595c472e44ed4909d7cf4c402f560",
-      "Type": "Large",
-      "Has_Clip_Prefab": "False",
-      "ID": "5166",
-      "Interactability": "Rubble",
-      "Interactability_Reset": "300",
-      "Interactability_Health": "25",
-      "Interactability_Effect": "72",
-      "Asset_Bundle_Version": "2"
-    },
-    "translation": {
-      "Name": "Kuwait Container Door #2"
-    }
   },
   "6547520a23bf4e5287f9e70a156d35ed": {
     "name": "Kuwait_ParachutePack",
@@ -84394,6 +84467,108 @@
       "Message_0_Page_0": "That looks like proper base building material right there!"
     }
   },
+  "6911b43400084de589c3eccf276b6590": {
+    "name": "Kuwait_Guardian",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Guardian/Kuwait_Guardian.dat",
+    "data": {
+      "GUID": "6911b43400084de589c3eccf276b6590",
+      "Type": "Vehicle",
+      "Rarity": "Epic",
+      "ID": "5046",
+      "Speed_Min": "-6",
+      "Speed_Max": "24",
+      "Steer_Min": "14",
+      "Steer_Max": "28",
+      "Brake": "32",
+      "Fuel_Min": "200",
+      "Fuel_Max": "400",
+      "Fuel": "1250",
+      "Health_Min": "300",
+      "Health_Max": "400",
+      "Health": "500",
+      "Can_Be_Locked": "False",
+      "Trunk_Storage_X": "3",
+      "Trunk_Storage_Y": "3",
+      "Explosion": "20",
+      "Num_Steering_Tires": "2",
+      "Steering_Tire_0": "0",
+      "Steering_Tire_1": "1",
+      "Physics_Profile": "c6d835a711994c0cafb332b1106f2311",
+      "Valid_Speed_Horizontal": "200",
+      "ShouldExplosionCauseDamage": "True",
+      "ShouldExplosionBurnMaterials": "True",
+      "Pitch_Drive": "0.015",
+      "Bumper_Invulnerable": "",
+      "Has_Clip_Prefab": "False",
+      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
+      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
+      "PaintableSections": [
+        {
+          "Path": "Model_0",
+          "MaterialIndex": "0"
+        },
+        {
+          "Path": "Model_1",
+          "MaterialIndex": "0"
+        }
+      ],
+      "DefaultPaintColors": [
+        "#82319B"
+      ],
+      "WheelConfigurations": [
+        {
+          "WheelColliderPath": "Tires/Tire_0",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_0",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_1",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_1",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_2",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_2",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_3",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_3",
+          "ModelUseColliderPose": "true"
+        }
+      ],
+      "ReverseGearRatio": "10",
+      "ForwardGearRatios": [
+        "20",
+        "13.7"
+      ],
+      "GearShift_UpThresholdRPM": "5000",
+      "GearShift_Duration": "0.2",
+      "GearShift_Interval": "0.5",
+      "EngineIdleRPM": "1000",
+      "EngineMaxRPM": "6000",
+      "EngineMaxTorque": "20",
+      "EngineSound_Type": "EngineRPMSimple",
+      "EngineSound": {
+        "IdlePitch": "1.0",
+        "IdleVolume": "0.75",
+        "MaxPitch": "1.25",
+        "MaxVolume": "1.0"
+      },
+      "Asset_Bundle_Version": "3"
+    },
+    "translation": {
+      "Name": "The Classic"
+    }
+  },
   "692b634a42c64dcb81d7e0f9c999316f": {
     "name": "LuBu",
     "path": "Bundles/Items/Outfits/LuBu/LuBu.asset",
@@ -84705,8 +84880,8 @@
     "translation": null
   },
   "69bacb4f546e45cb9e05a8ed381e16ce": {
-    "name": "Kuwait_Radio_Shack_0",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Buildings/Kuwait_Radio_Shack_0/Kuwait_Radio_Shack_0.dat",
+    "name": "Kuwait_Radiostation_0",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Buildings/Kuwait_Radiostation_0/Kuwait_Radiostation_0.dat",
     "data": {
       "GUID": "69bacb4f546e45cb9e05a8ed381e16ce",
       "Type": "Large",
@@ -84716,7 +84891,7 @@
       "Asset_Bundle_Version": "2"
     },
     "translation": {
-      "Name": "Kuwait Radio Shed"
+      "Name": "Kuwait Radiostation #1"
     }
   },
   "69c6c0602aa9464f986c8dd92662fb0a": {
@@ -84943,43 +85118,6 @@
       "Pro": ""
     },
     "translation": null
-  },
-  "6a059e6714bd40f5ac4af14ae2c83d5c": {
-    "name": "Kuwait_Sedan_Purple",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Sedan_Purple/Kuwait_Sedan_Purple.dat",
-    "data": {
-      "GUID": "6a059e6714bd40f5ac4af14ae2c83d5c",
-      "Type": "Vehicle",
-      "Rarity": "Common",
-      "ID": "5027",
-      "Speed_Min": "-6",
-      "Speed_Max": "16.5",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1500",
-      "Health_Min": "350",
-      "Health_Max": "450",
-      "Health": "600",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Purple Sedan"
-    }
   },
   "6a14c41da63b4cfd98ead39805804426": {
     "name": "Note_16",
@@ -85286,43 +85424,6 @@
     },
     "translation": {
       "Name": "Kuwait Cement #1"
-    }
-  },
-  "6aa901140de74ffb88a3bf4b4a04410f": {
-    "name": "Kuwait_Sedan_Orange",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Sedan_Orange/Kuwait_Sedan_Orange.dat",
-    "data": {
-      "GUID": "6aa901140de74ffb88a3bf4b4a04410f",
-      "Type": "Vehicle",
-      "Rarity": "Common",
-      "ID": "5026",
-      "Speed_Min": "-6",
-      "Speed_Max": "16.5",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1500",
-      "Health_Min": "350",
-      "Health_Max": "450",
-      "Health": "600",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Orange Sedan"
     }
   },
   "6aae450a632f4fee979af3b287a4cf24": {
@@ -87590,6 +87691,18 @@
       "Tables": "1",
       "Table_0_Asset_ID": "234",
       "Table_0_Weight": "10"
+    },
+    "translation": null
+  },
+  "6d7e8ad552214742b5caa2545342ecc8": {
+    "name": "Kuwait_SUV_Purple",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_SUVs/Kuwait_SUV_Purple.asset",
+    "data": {
+      "GUID": "6d7e8ad552214742b5caa2545342ecc8",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5017",
+      "TargetVehicle": "1b5a872db58a48288c3293c7532633e8",
+      "LoadPaintColor": "#714B74"
     },
     "translation": null
   },
@@ -91587,44 +91700,6 @@
       "Name": "Police Car"
     }
   },
-  "71daaab3b1ce4dffa1e3d22320411901": {
-    "name": "29451KJW",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29450KJD/29451KJW/Asset.dat",
-    "data": {
-      "GUID": "71daaab3b1ce4dffa1e3d22320411901",
-      "Type": "Dialogue",
-      "ID": "29451",
-      "Messages": "1",
-      "Message_0_Pages": "1",
-      "Responses": "4",
-      "Response_0_Dialogue": "29454",
-      "Response_1_Dialogue": "29452",
-      "Response_1_Quest": "29455",
-      "Response_1_Conditions": "1",
-      "Response_1_Condition_0_Type": "Quest",
-      "Response_1_Condition_0_Logic": "Equal",
-      "Response_1_Condition_0_ID": "29455",
-      "Response_1_Condition_0_Status": "None",
-      "Response_1_Rewards": "1",
-      "Response_1_Reward_0_Type": "Quest",
-      "Response_1_Reward_0_ID": "29455",
-      "Response_2_Dialogue": "29453",
-      "Response_2_Quest": "29455",
-      "Response_2_Conditions": "1",
-      "Response_2_Condition_0_Type": "Quest",
-      "Response_2_Condition_0_Logic": "Equal",
-      "Response_2_Condition_0_ID": "29455",
-      "Response_2_Condition_0_Status": "Ready",
-      "Response_2_Condition_0_Reset": ""
-    },
-    "translation": {
-      "Message_0_Page_0": "Is it the end of time?",
-      "Response_0": "Are you alright?",
-      "Response_1": "Do you need any help?",
-      "Response_2": "I've brought the berries.",
-      "Response_3": "Goodbye."
-    }
-  },
   "71e2b148984d4678abf9cc2c40bc6303": {
     "name": "PEI_Post",
     "path": "Bundles/Spawns/Items/PEI_Post/PEI_Post.dat",
@@ -91869,6 +91944,18 @@
     "translation": {
       "Name": "Cooler #1"
     }
+  },
+  "725ed7e1c8ad4841bc514ef85bca32ae": {
+    "name": "Kuwait_Truck_Red",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Trucks/Kuwait_Truck_Red.asset",
+    "data": {
+      "GUID": "725ed7e1c8ad4841bc514ef85bca32ae",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5033",
+      "TargetVehicle": "32a7407eb9774662b12be6d3faf4ab7f",
+      "LoadPaintColor": "#A32929"
+    },
+    "translation": null
   },
   "725fa4601c8841b6872441038ec78929": {
     "name": "Kuwait_Deadzone_Ambience_1",
@@ -92661,44 +92748,6 @@
       "Name": "Kuwait Graffiti #2"
     }
   },
-  "7320d30acc874f7187b1a3598ed754e7": {
-    "name": "Kuwait_Suv_Purple",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Suv_Purple/Kuwait_Suv_Purple.dat",
-    "data": {
-      "GUID": "7320d30acc874f7187b1a3598ed754e7",
-      "Type": "Vehicle",
-      "Rarity": "Uncommon",
-      "ID": "5017",
-      "Speed_Min": "-5",
-      "Speed_Max": "12",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "4",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "Traction": "",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Purple Land Explorer"
-    }
-  },
   "732ba20741984b0ea51892de8db41517": {
     "name": "Tank_Forest_Head",
     "path": "Bundles/Objects/Large/Vehicles/Tank_Forest_Head/Tank_Forest_Head.dat",
@@ -93349,6 +93398,18 @@
     "translation": {
       "Particle_Tag_Name": "Cryptic Runes"
     }
+  },
+  "74157dd4e58e4b8ba106f0bbe89ae9c3": {
+    "name": "Kuwait_Colt_Red",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Colt/Kuwait_Colt_Red.asset",
+    "data": {
+      "GUID": "74157dd4e58e4b8ba106f0bbe89ae9c3",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5006",
+      "TargetVehicle": "e19145bfb0924964bf6a1fa6818b9d24",
+      "LoadPaintColor": "#A32929"
+    },
+    "translation": null
   },
   "741bf2f031bd4e3a8138773fd4560540": {
     "name": "House_02_Burned",
@@ -95761,6 +95822,7 @@
       "ID": "29510",
       "Shirt": "311",
       "Pants": "312",
+      "Vest": "058be41124b94e8ab89dcf29c7777da3",
       "Face": "23",
       "Hair": "8",
       "Beard": "0",
@@ -96597,7 +96659,7 @@
       "Message_0_Pages": "1"
     },
     "translation": {
-      "Message_0_Page_0": "Good job. It will be much safer to pass through."
+      "Message_0_Page_0": "Good job. It'll be much safer to pass through if you ain't covered in oil now."
     }
   },
   "78ca4f5f6b2149968d22a6bdcb94c67f": {
@@ -97272,6 +97334,18 @@
       "Message_0_Page_0": "Enjoy the food! Have a nice day <name_char>!"
     }
   },
+  "79b040cfb1294bf0848ed3218bbf2657": {
+    "name": "Kuwait_SUV_Orange",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_SUVs/Kuwait_SUV_Orange.asset",
+    "data": {
+      "GUID": "79b040cfb1294bf0848ed3218bbf2657",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5016",
+      "TargetVehicle": "1b5a872db58a48288c3293c7532633e8",
+      "LoadPaintColor": "#C7752B"
+    },
+    "translation": null
+  },
   "79d02ea69be94c23b742a91a08b5bbd2": {
     "name": "Grass_4",
     "path": "Bundles/Objects/Large/Scenery/Grass_4/Grass_4.dat",
@@ -97519,6 +97593,18 @@
       "Name": "Bulletproof Glass",
       "Description": "Glass pane ideal for looking at and keeping out unwanted visitors.<br><color=#BF1F1F>900 HP</color>"
     }
+  },
+  "7a22400d387d4cbeb0a5335abb2ca774": {
+    "name": "Kuwait_Colt_Orange",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Colt/Kuwait_Colt_Orange.asset",
+    "data": {
+      "GUID": "7a22400d387d4cbeb0a5335abb2ca774",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5004",
+      "TargetVehicle": "e19145bfb0924964bf6a1fa6818b9d24",
+      "LoadPaintColor": "#EA9E60"
+    },
+    "translation": null
   },
   "7a232e064c184ac78658ce09806069ec": {
     "name": "Kuwait_Podium_0",
@@ -97931,20 +98017,6 @@
     "translation": {
       "Name": "Sawed-Off",
       "Description": "American shotgun chambered in 20 Gauge Shells."
-    }
-  },
-  "7a7f4e1151b9440fb78f80259e78beae": {
-    "name": "Kuwait_Container_1",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Business/Kuwait_Container_1/Kuwait_Container_1.dat",
-    "data": {
-      "GUID": "7a7f4e1151b9440fb78f80259e78beae",
-      "Type": "Large",
-      "Has_Clip_Prefab": "False",
-      "ID": "5162",
-      "Chart": "Medium"
-    },
-    "translation": {
-      "Name": "Kuwait Container #2"
     }
   },
   "7a8506f4222e4a81868b147f2b54f343": {
@@ -98980,45 +99052,6 @@
     },
     "translation": {
       "Name": "Kuwait Traditional #1"
-    }
-  },
-  "7bbe89efd7f94a498633d024380595f2": {
-    "name": "Kuwait_RC_Stallion_Pink",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_RC_Stallion_Pink/Kuwait_RC_Stallion_Pink.dat",
-    "data": {
-      "GUID": "7bbe89efd7f94a498633d024380595f2",
-      "Type": "Vehicle",
-      "Rarity": "Legendary",
-      "ID": "5022",
-      "Speed_Min": "-6",
-      "Speed_Max": "32",
-      "Steer_Min": "12",
-      "Steer_Max": "32",
-      "Brake": "42",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1750",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "True",
-      "Trunk_Storage_X": "3",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "c6d835a711994c0cafb332b1106f2311",
-      "Wheel_Collider_Mass_Override": "5",
-      "Valid_Speed_Horizontal": "350",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Pitch_Drive": "0.015",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Stallion RC"
     }
   },
   "7bdb4eba594b41b9983619558c6b2b06": {
@@ -100306,6 +100339,42 @@
       "Name": "Kuwait Phantom Table #1"
     }
   },
+  "7dc6bbdf7b9c42a3821e1b8b111845be": {
+    "name": "Kuwait_Containers",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Assets/Material_Palettes/Kuwait_Containers.asset",
+    "data": {
+      "GUID": "7dc6bbdf7b9c42a3821e1b8b111845be",
+      "Type": "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "0",
+      "Materials": [
+        {
+          "Name": "kuwait.masterbundle",
+          "Path": "Material_Palettes/Kuwait_Containers/Kuwait_Container_0.mat"
+        },
+        {
+          "Name": "kuwait.masterbundle",
+          "Path": "Material_Palettes/Kuwait_Containers/Kuwait_Container_1.mat"
+        },
+        {
+          "Name": "kuwait.masterbundle",
+          "Path": "Material_Palettes/Kuwait_Containers/Kuwait_Container_2.mat"
+        },
+        {
+          "Name": "kuwait.masterbundle",
+          "Path": "Material_Palettes/Kuwait_Containers/Kuwait_Container_3.mat"
+        },
+        {
+          "Name": "kuwait.masterbundle",
+          "Path": "Material_Palettes/Kuwait_Containers/Kuwait_Container_4.mat"
+        },
+        {
+          "Name": "kuwait.masterbundle",
+          "Path": "Material_Palettes/Kuwait_Containers/Kuwait_Container_5.mat"
+        }
+      ]
+    },
+    "translation": null
+  },
   "7dcb1a80a1ab46c3931d7a1ea4dd2833": {
     "name": "Kuwait_Palm_1",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Assets/Landscapes/Resources/Kuwait_Palm_1.asset",
@@ -100877,7 +100946,7 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.4",
-      "Water": "50",
+      "Water": "40",
       "Energy": "50",
       "Blueprints": "1",
       "Blueprint_0_Type": "Repair",
@@ -100894,7 +100963,7 @@
     },
     "translation": {
       "Name": "Bottled Soda",
-      "Description": "Water saturated with sugar.<br><color=#3298C8>+50 Water</color><br><color=#DCB413>+50 Energy</color>"
+      "Description": "Water saturated with sugar.<br><color=#3298C8>+40 Water</color><br><color=#DCB413>+50 Energy</color>"
     }
   },
   "7e59e5b40d6e4280a91941f667454dd3": {
@@ -101788,6 +101857,18 @@
       "Name": "White Umbrella",
       "Description": "Drift softly down from the heavens."
     }
+  },
+  "7f3a68581df54e6abf52c2adcb437b14": {
+    "name": "Kuwait_Colt_Green",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Colt/Kuwait_Colt_Green.asset",
+    "data": {
+      "GUID": "7f3a68581df54e6abf52c2adcb437b14",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5003",
+      "TargetVehicle": "e19145bfb0924964bf6a1fa6818b9d24",
+      "LoadPaintColor": "#67D367"
+    },
+    "translation": null
   },
   "7f3c89b1a27f404abc882cc2b924a244": {
     "name": "Roundabout_0",
@@ -103344,6 +103425,29 @@
     },
     "translation": null
   },
+  "80958f6ddac147769e75310679b5c06b": {
+    "name": "Kuwait_Hat_BossNPC",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Hats/Kuwait_Hat_BossNPC/Kuwait_Hat_BossNPC.dat",
+    "data": {
+      "GUID": "80958f6ddac147769e75310679b5c06b",
+      "Type": "Hat",
+      "Rarity": "Common",
+      "Useable": "Clothing",
+      "ID": "5395",
+      "Size_X": "1",
+      "Size_Y": "1",
+      "Size_Z": "0.45",
+      "Beard": "",
+      "Hair": "",
+      "Armor": "1",
+      "Unsaveable": "",
+      "Unobtainable": ""
+    },
+    "translation": {
+      "Name": "Injured Bandages",
+      "Description": "You shouldn't have this."
+    }
+  },
   "80b52515179b4ebb8f363285064dad5d": {
     "name": "26401KEIkehuBreakfast",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/M/3/C/259 LSE/26400KEIkehu/26401KEIkehuBreakfast/Asset.dat",
@@ -103644,6 +103748,29 @@
       "Table_0_Weight": "10"
     },
     "translation": null
+  },
+  "81081dd66069404fb8504f6ac4886316": {
+    "name": "Kuwait_Outfit_BossNPC",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Shirts/Kuwait_Outfit_BossNPC/Kuwait_Outfit_BossNPC.dat",
+    "data": {
+      "GUID": "81081dd66069404fb8504f6ac4886316",
+      "Type": "Shirt",
+      "Rarity": "Common",
+      "Useable": "Clothing",
+      "ID": "5394",
+      "Size_X": "1",
+      "Size_Y": "1",
+      "Size_Z": "0.6",
+      "Width": "1",
+      "Height": "1",
+      "Armor": "1",
+      "Unsaveable": "",
+      "Unobtainable": ""
+    },
+    "translation": {
+      "Name": "Injured Outfit",
+      "Description": "You shouldn't have this."
+    }
   },
   "8113a5ac6b5a41bfa740f148038703e0": {
     "name": "Oven_1",
@@ -104811,8 +104938,8 @@
     }
   },
   "829127c071c148d9b4333e1ae5665537": {
-    "name": "Kuwait_Police_Stallion",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Police_Stallion/Kuwait_Police_Stallion.dat",
+    "name": "Kuwait_Police_Colt",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Police_Colt/Kuwait_Police_Colt.dat",
     "data": {
       "GUID": "829127c071c148d9b4333e1ae5665537",
       "Type": "Vehicle",
@@ -104842,6 +104969,67 @@
       "Has_Clip_Prefab": "False",
       "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
       "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
+      "PaintableSections": [
+        {
+          "Path": "Model_0",
+          "MaterialIndex": "0"
+        },
+        {
+          "Path": "Model_1",
+          "MaterialIndex": "0"
+        }
+      ],
+      "DefaultPaintColors": [
+        "#E8EF58"
+      ],
+      "WheelConfigurations": [
+        {
+          "WheelColliderPath": "Tires/Tire_0",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_0",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_1",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_1",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_2",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_2",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_3",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_3",
+          "ModelUseColliderPose": "true"
+        }
+      ],
+      "ReverseGearRatio": "10",
+      "ForwardGearRatios": [
+        "20",
+        "13.7"
+      ],
+      "GearShift_UpThresholdRPM": "5000",
+      "GearShift_Duration": "0.2",
+      "GearShift_Interval": "0.5",
+      "EngineIdleRPM": "1000",
+      "EngineMaxRPM": "6000",
+      "EngineMaxTorque": "20",
+      "EngineSound_Type": "EngineRPMSimple",
+      "EngineSound": {
+        "IdlePitch": "1.0",
+        "IdleVolume": "0.75",
+        "MaxPitch": "1.25",
+        "MaxVolume": "1.0"
+      },
       "Asset_Bundle_Version": "3"
     },
     "translation": {
@@ -106656,7 +106844,7 @@
       "Message_0_Prev": "28651"
     },
     "translation": {
-      "Message_0_Page_0": "Stay safe, and watch out."
+      "Message_0_Page_0": "Stay safe, and watch out. Thank whatever power is out there that I was covered in oil or else I wouldn't be talkin' to yeah. "
     }
   },
   "84f5c0f4a6e04cc69d3af307c7fdf093": {
@@ -111966,6 +112154,18 @@
     },
     "translation": null
   },
+  "8bfe67d18f5d40df85dd60aa0ae30006": {
+    "name": "Kuwait_Sedan_Red",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Sedans/Kuwait_Sedan_Red.asset",
+    "data": {
+      "GUID": "8bfe67d18f5d40df85dd60aa0ae30006",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5018",
+      "TargetVehicle": "db1b8f5d627d46e1a160669c71770c50",
+      "LoadPaintColor": "#A32929"
+    },
+    "translation": null
+  },
   "8c05d039f62a4e40a3e448fcaeb31efd": {
     "name": "Files_1",
     "path": "Bundles/Objects/Medium/Business/Files_1/Files_1.dat",
@@ -113619,6 +113819,16 @@
       "Name": "Wheel #3"
     }
   },
+  "8de0cd28b0a2457c9811e4403f522f29": {
+    "name": "Kuwait_TireMotion_Sand_00",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Effects/TireMotion/Kuwait_TireMotion_Sand_00/Kuwait_TireMotion_Sand_00.dat",
+    "data": {
+      "GUID": "8de0cd28b0a2457c9811e4403f522f29",
+      "Type": "Effect",
+      "Preload": "8"
+    },
+    "translation": null
+  },
   "8de22582a81345e8b01eaa6000a50a85": {
     "name": "Aviators_Gold",
     "path": "Bundles/Items/Glasses/Aviators_Gold/Aviators_Gold.dat",
@@ -113749,7 +113959,7 @@
       "Interactability_Condition_0_Reset": "",
       "Interactability_Rewards": "1",
       "Interactability_Reward_0_Type": "Item_Random",
-      "Interactability_Reward_0_ID": "7014",
+      "Interactability_Reward_0_ID": "7119",
       "Interactability_Reward_0_Amount": "1",
       "Asset_Bundle_Version": "2"
     },
@@ -117126,44 +117336,6 @@
       "Description": "American revolver chambered in Ace ammunition."
     }
   },
-  "92bdf5b4ec4447e08c4083b57e5dda56": {
-    "name": "Kuwait_Suv_Blue",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Suv_Blue/Kuwait_Suv_Blue.dat",
-    "data": {
-      "GUID": "92bdf5b4ec4447e08c4083b57e5dda56",
-      "Type": "Vehicle",
-      "Rarity": "Uncommon",
-      "ID": "5014",
-      "Speed_Min": "-5",
-      "Speed_Max": "19",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "4",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "Traction": "",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Blue Land Explorer"
-    }
-  },
   "92cb5a3afd534054a64eb320b50c48de": {
     "name": "PEI_Dirt_01_Material",
     "path": "Bundles/Assets/Landscapes/Materials/PEI/PEI_Dirt_01_Material.asset",
@@ -117367,7 +117539,7 @@
       "GUID": "93052410fe16465e8a0726e6de13c7e3",
       "Type": "NPC",
       "ID": "29500",
-      "Shirt": "165",
+      "Shirt": "be728372025f4faab7ab38e23e2a46b1",
       "Pants": "207",
       "Backpack": "603",
       "Face": "1",
@@ -119399,7 +119571,7 @@
       "Interactability_Condition_0_Reset": "",
       "Interactability_Rewards": "1",
       "Interactability_Reward_0_Type": "Item_Random",
-      "Interactability_Reward_0_ID": "7014",
+      "Interactability_Reward_0_ID": "7119",
       "Interactability_Reward_0_Amount": "1",
       "Asset_Bundle_Version": "2"
     },
@@ -120725,6 +120897,60 @@
       "ShouldExplosionCauseDamage": "True",
       "ShouldExplosionBurnMaterials": "True",
       "Has_Clip_Prefab": "False",
+      "PaintableSections": [
+        {
+          "Path": "Model_0",
+          "MaterialIndex": "0"
+        },
+        {
+          "Path": "Model_1",
+          "MaterialIndex": "0"
+        }
+      ],
+      "DefaultPaintColors": [
+        "#AF9275"
+      ],
+      "WheelConfigurations": [
+        {
+          "WheelColliderPath": "Tires/Tire_0",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_0",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_1",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_1",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_2",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_2",
+          "ModelUseColliderPose": "true"
+        }
+      ],
+      "ReverseGearRatio": "10",
+      "ForwardGearRatios": [
+        "20",
+        "13.7"
+      ],
+      "GearShift_UpThresholdRPM": "5000",
+      "GearShift_Duration": "0.2",
+      "GearShift_Interval": "0.5",
+      "EngineIdleRPM": "1000",
+      "EngineMaxRPM": "6000",
+      "EngineMaxTorque": "2.8",
+      "EngineSound_Type": "EngineRPMSimple",
+      "EngineSound": {
+        "IdlePitch": "1.0",
+        "IdleVolume": "0.75",
+        "MaxPitch": "2",
+        "MaxVolume": "1.0"
+      },
       "Asset_Bundle_Version": "3"
     },
     "translation": {
@@ -121120,7 +121346,7 @@
       "GUID": "9839e33bb894420f8237f36e071c3809",
       "Type": "NPC",
       "ID": "28360 ",
-      "Shirt": "540 ",
+      "Shirt": "1662",
       "Pants": "227 ",
       "Face": "6",
       "Hair": "3",
@@ -125390,44 +125616,6 @@
       "Message_2_Page_0": "I recall mostly about helping people. That sounds right."
     }
   },
-  "9e6fabedc4584a60bef54d878f18312d": {
-    "name": "Kuwait_Stallion_Purple",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Stallion_Purple/Kuwait_Stallion_Purple.dat",
-    "data": {
-      "GUID": "9e6fabedc4584a60bef54d878f18312d",
-      "Type": "Vehicle",
-      "Rarity": "Rare",
-      "ID": "5005",
-      "Speed_Min": "-6",
-      "Speed_Max": "24",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "3",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "c6d835a711994c0cafb332b1106f2311",
-      "Valid_Speed_Horizontal": "200",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Pitch_Drive": "0.015",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Purple Stallion"
-    }
-  },
   "9e728063b8314eeb8d26dab630113f42": {
     "name": "Russia_Leaves_PhysicsMaterial",
     "path": "Bundles/Assets/PhysicsMaterials/Russia_Leaves_PhysicsMaterial.asset",
@@ -129093,7 +129281,7 @@
       "Sprinter_Chance": "0.2",
       "Flanker_Chance": "0.05",
       "Burner_Chance": "0.15",
-      "Acid_Chance": "0.1",
+      "Acid_Chance": "0.05",
       "Boss_Electric_Chance": "0",
       "Boss_Wind_Chance": "0",
       "Boss_Fire_Chance": "0",
@@ -130394,6 +130582,18 @@
       "Name": "Kyle's Smuggled Supplies",
       "Description": "Hurry up, I ain't got all day. Err, night."
     }
+  },
+  "a5a3b93826434887bc33b3f0dd6a7911": {
+    "name": "Kuwait_SUV_Red",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_SUVs/Kuwait_SUV_Red.asset",
+    "data": {
+      "GUID": "a5a3b93826434887bc33b3f0dd6a7911",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5018",
+      "TargetVehicle": "1b5a872db58a48288c3293c7532633e8",
+      "LoadPaintColor": "#A32929"
+    },
+    "translation": null
   },
   "a5a481145d364690808babe05b8698ae": {
     "name": "House_09",
@@ -134287,6 +134487,18 @@
       "Name": "Icicle #1"
     }
   },
+  "aa692cda7dc04dad816a1925355b1d04": {
+    "name": "Kuwait_SUV_Yellow",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_SUVs/Kuwait_SUV_Yellow.asset",
+    "data": {
+      "GUID": "aa692cda7dc04dad816a1925355b1d04",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5020",
+      "TargetVehicle": "1b5a872db58a48288c3293c7532633e8",
+      "LoadPaintColor": "#D8B422"
+    },
+    "translation": null
+  },
   "aa70220055454fed8c0d7d6a1defcccb": {
     "name": "Buak_Wizard_Hat",
     "path": "Bundles/Items/Buak/Buak_Wizard_Hat/Buak_Wizard_Hat.dat",
@@ -134699,24 +134911,6 @@
       "Name": "House #05"
     }
   },
-  "ab37e709fb4c462f960f277d9209a6ee": {
-    "name": "CW",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/3/D/29090KC6D/CW/Asset.dat",
-    "data": {
-      "GUID": "ab37e709fb4c462f960f277d9209a6ee",
-      "Type": "Dialogue",
-      "ID": "29091",
-      "Messages": "1",
-      "Message_0_Pages": "1",
-      "Responses": "2",
-      "Response_0_Dialogue": "29093"
-    },
-    "translation": {
-      "Message_0_Page_0": "Hiya!",
-      "Response_0": "Anything for sale?",
-      "Response_1": "Hello!"
-    }
-  },
   "ab3c8d49b58a4215a09d1dec3ab59c07": {
     "name": "28350KAC",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/1/C/28350KAC/Asset.dat",
@@ -134724,7 +134918,7 @@
       "GUID": "ab3c8d49b58a4215a09d1dec3ab59c07",
       "Type": "NPC",
       "ID": "28350 ",
-      "Shirt": "540 ",
+      "Shirt": "1662",
       "Pants": "227 ",
       "Face": "21",
       "Hair": "3",
@@ -134754,8 +134948,8 @@
     }
   },
   "ab581bc1d7464ea49309d058c599b1c1": {
-    "name": "Kuwait_Container_Door_0",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Business/Kuwait_Container_Door_0/Kuwait_Container_Door_0.dat",
+    "name": "Kuwait_Container_2",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Business/Kuwait_Container_2/Kuwait_Container_2.dat",
     "data": {
       "GUID": "ab581bc1d7464ea49309d058c599b1c1",
       "Type": "Large",
@@ -134765,10 +134959,11 @@
       "Interactability_Reset": "300",
       "Interactability_Health": "25",
       "Interactability_Effect": "72",
-      "Asset_Bundle_Version": "2"
+      "Asset_Bundle_Version": "2",
+      "Material_Palette": "7dc6bbdf7b9c42a3821e1b8b111845be"
     },
     "translation": {
-      "Name": "Kuwait Container Door #1"
+      "Name": "Kuwait Container #3"
     }
   },
   "ab5aa489ac4b445fa7a8fb432e6c5b34": {
@@ -134988,7 +135183,7 @@
       "Sprinter_Chance": "0.25",
       "Flanker_Chance": "0.15",
       "Burner_Chance": "0.3",
-      "Acid_Chance": "0.1",
+      "Acid_Chance": "0.05",
       "Boss_Electric_Chance": "0",
       "Boss_Wind_Chance": "0",
       "Boss_Fire_Chance": "0",
@@ -135162,20 +135357,6 @@
     },
     "translation": {
       "Name": "Winery #3"
-    }
-  },
-  "ac27bab8facb4e8ca263c21e4b93915a": {
-    "name": "29443KJC",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29440KJD/29443KJC/Asset.dat",
-    "data": {
-      "GUID": "ac27bab8facb4e8ca263c21e4b93915a",
-      "Type": "Dialogue",
-      "ID": "29443",
-      "Messages": "1",
-      "Message_0_Pages": "1"
-    },
-    "translation": {
-      "Message_0_Page_0": "This infection has become big when it should be small. Hopefully this will help combat that, else no more will we be."
     }
   },
   "ac2d741d6dce40bab06115325be65118": {
@@ -135812,44 +135993,6 @@
     },
     "translation": null
   },
-  "aca88da4a9db4079bcef2666bcaaf063": {
-    "name": "Kuwait_Suv_White",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Suv_White/Kuwait_Suv_White.dat",
-    "data": {
-      "GUID": "aca88da4a9db4079bcef2666bcaaf063",
-      "Type": "Vehicle",
-      "Rarity": "Uncommon",
-      "ID": "5019",
-      "Speed_Min": "-5",
-      "Speed_Max": "12",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "4",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "Traction": "",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "White Land Explorer"
-    }
-  },
   "acac37be404b44ac98af0145bcd6b303": {
     "name": "Scout_Airport_Accepted",
     "path": "Bundles/NPCs/Dialogues/Scout/Scout_Airport_Accepted/Asset.dat",
@@ -136477,20 +136620,6 @@
     },
     "translation": null
   },
-  "ad6cbc65fe8443a7b22531cbdcd64d38": {
-    "name": "29452KJA",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29450KJD/29452KJA/Asset.dat",
-    "data": {
-      "GUID": "ad6cbc65fe8443a7b22531cbdcd64d38",
-      "Type": "Dialogue",
-      "ID": "29452",
-      "Messages": "1",
-      "Message_0_Pages": "1"
-    },
-    "translation": {
-      "Message_0_Page_0": "Lately things don't seem the same. Hopefully these can calm me down."
-    }
-  },
   "ad6e0bea17104665a04205f1fa265db7": {
     "name": "Harvest_512x512",
     "path": "Bundles/Skins/Patterns/Harvest_512x512/Harvest_512x512.dat",
@@ -136997,6 +137126,18 @@
       "Name": "Galvanizer Battery",
       "Description": "High-Voltage <color=mythical>Galvanizer</color> battery. Recharged with <color=epic>Ionized Seaweed.</color><br>"
     }
+  },
+  "addb0a96f6b54d4d9dcbc4fbeb11f1e6": {
+    "name": "Kuwait_Colt_Blue",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Colt/Kuwait_Colt_Blue.asset",
+    "data": {
+      "GUID": "addb0a96f6b54d4d9dcbc4fbeb11f1e6",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5002",
+      "TargetVehicle": "e19145bfb0924964bf6a1fa6818b9d24",
+      "LoadPaintColor": "#68BBFF"
+    },
+    "translation": null
   },
   "adde7bdeb0814586b0d3de02b05a810a": {
     "name": "Hoodie_Squid",
@@ -137574,44 +137715,6 @@
       "Name": "Kuwait Umbrella #1"
     }
   },
-  "ae9f82a966234972b5d20588a2704e53": {
-    "name": "Kuwait_Suv_Olive",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Suv_Olive/Kuwait_Suv_Olive.dat",
-    "data": {
-      "GUID": "ae9f82a966234972b5d20588a2704e53",
-      "Type": "Vehicle",
-      "Rarity": "Uncommon",
-      "ID": "5021",
-      "Speed_Min": "-5",
-      "Speed_Max": "12",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "4",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "Traction": "",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Olive Land Explorer"
-    }
-  },
   "aea685e9808e4487bd9f33d4c1a38602": {
     "name": "Gas_1",
     "path": "Bundles/Objects/Large/Buildings/Gas_1/Gas_1.dat",
@@ -137823,7 +137926,7 @@
       "Christmas_Hat": "278",
       "Face": "18",
       "Hair": "7",
-      "Color_Skin": "#4b3d31",
+      "Color_Skin": "#706049",
       "Color_Hair": "#191919",
       "Primary": "5000",
       "Secondary": "5009",
@@ -138990,20 +139093,6 @@
     },
     "translation": {
       "Message_0_Page_0": "Thanks for the help! Hope to see you soon."
-    }
-  },
-  "affc0e9618524acdb7733745176c1f32": {
-    "name": "Kuwait_Container_Open_1",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Business/Kuwait_Container_Open_1/Kuwait_Container_Open_1.dat",
-    "data": {
-      "GUID": "affc0e9618524acdb7733745176c1f32",
-      "Type": "Large",
-      "Has_Clip_Prefab": "False",
-      "ID": "5164",
-      "Chart": "Medium"
-    },
-    "translation": {
-      "Name": "Kuwait Container #4"
     }
   },
   "b007a5254f944da59b62a22947510928": {
@@ -140885,7 +140974,7 @@
       "Christmas_Hat": "278",
       "Face": "18",
       "Hair": "7",
-      "Color_Skin": "#4b3d31",
+      "Color_Skin": "#706049",
       "Color_Hair": "#191919",
       "Primary": "5000",
       "Secondary": "5009",
@@ -140929,44 +141018,6 @@
       "Pro": ""
     },
     "translation": null
-  },
-  "b1fa158e910244f1b9428a8969cdf1e8": {
-    "name": "Kuwait_Stallion_White",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Stallion_White/Kuwait_Stallion_White.dat",
-    "data": {
-      "GUID": "b1fa158e910244f1b9428a8969cdf1e8",
-      "Type": "Vehicle",
-      "Rarity": "Rare",
-      "ID": "5007",
-      "Speed_Min": "-6",
-      "Speed_Max": "24",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "3",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "c6d835a711994c0cafb332b1106f2311",
-      "Valid_Speed_Horizontal": "200",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Pitch_Drive": "0.015",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "White Stallion"
-    }
   },
   "b211e52ce31041468ead8de7766ca997": {
     "name": "Bridge_Line_Cap_0",
@@ -142464,20 +142515,6 @@
       "Secondary_0": "1485"
     },
     "translation": null
-  },
-  "b4841f56a48d40bba1895883f67e5dea": {
-    "name": "29453KJC",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29450KJD/29453KJC/Asset.dat",
-    "data": {
-      "GUID": "b4841f56a48d40bba1895883f67e5dea",
-      "Type": "Dialogue",
-      "ID": "29453",
-      "Messages": "1",
-      "Message_0_Pages": "1"
-    },
-    "translation": {
-      "Message_0_Page_0": "Don't know if it's day or night, but I know I'm thankful to you."
-    }
   },
   "b489a8a63fca4d179fd315cbae8b6ed7": {
     "name": "Television_0",
@@ -144427,44 +144464,6 @@
     },
     "translation": {
       "Particle_Tag_Name": "Dazzling"
-    }
-  },
-  "b6a51696e24c413ba38d06599628c30a": {
-    "name": "Kuwait_Suv_Orange",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Suv_Orange/Kuwait_Suv_Orange.dat",
-    "data": {
-      "GUID": "b6a51696e24c413ba38d06599628c30a",
-      "Type": "Vehicle",
-      "Rarity": "Uncommon",
-      "ID": "5016",
-      "Speed_Min": "-5",
-      "Speed_Max": "12",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "4",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "Traction": "",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Orange Land Explorer"
     }
   },
   "b6a6be4c75b544b382b9a4f8c71f216e": {
@@ -146483,21 +146482,6 @@
       "Description": "Beach shorts.<br><color=#FF69B4>+10 Slots</color><br><color=#b8b188>+5% Armour</color>"
     }
   },
-  "b87491446be943389c84dad6197b4f10": {
-    "name": "29444KJQ",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29440KJD/29444KJQ/Asset.dat",
-    "data": {
-      "GUID": "b87491446be943389c84dad6197b4f10",
-      "Type": "Dialogue",
-      "ID": "29444",
-      "Messages": "1",
-      "Message_0_Pages": "1",
-      "Message_0_Prev": "29441"
-    },
-    "translation": {
-      "Message_0_Page_0": "Just thinking about what a mess we're in. It's hard to even know where this all began."
-    }
-  },
   "b87c3c5b0d3143f187bc9ba4b97b1a2d": {
     "name": "Militia_Special",
     "path": "Bundles/Spawns/Items/Militia_Special/Militia_Special.dat",
@@ -148377,7 +148361,6 @@
       "Type": "Large",
       "Has_Clip_Prefab": "False",
       "ID": "5037",
-      "LOD": "Area",
       "Asset_Bundle_Version": "2"
     },
     "translation": {
@@ -150909,6 +150892,18 @@
     },
     "translation": null
   },
+  "be9f6d19dbec4f6a969f06a9fdf6ec0a": {
+    "name": "Kuwait_Colt_Purple",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Colt/Kuwait_Colt_Purple.asset",
+    "data": {
+      "GUID": "be9f6d19dbec4f6a969f06a9fdf6ec0a",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5005",
+      "TargetVehicle": "e19145bfb0924964bf6a1fa6818b9d24",
+      "LoadPaintColor": "#82319B"
+    },
+    "translation": null
+  },
   "bea7b3b8a0b84915964f60d10bfbc243": {
     "name": "Kuwait_Radio_Click",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Effects/General/Kuwait_Radio_Click/Kuwait_Radio_Click.dat",
@@ -151779,7 +151774,7 @@
       "Blueprint_2_Level": "1",
       "Blueprint_2_Skill": "Repair",
       "Blueprint_2_Build": "27",
-      "Actions": "2",
+      "Actions": "3",
       "Action_0_Type": "Blueprint",
       "Action_0_Source": "5012",
       "Action_0_Blueprints": "1",
@@ -151791,7 +151786,13 @@
       "Action_1_Blueprints": "1",
       "Action_1_Blueprint_0_Index": "2",
       "Action_1_Text": "Arc Repair",
-      "Action_1_Tooltip": "Repair to 100% using an Arc Welder."
+      "Action_1_Tooltip": "Repair to 100% using an Arc Welder.",
+      "Action_2_Type": "Blueprint",
+      "Action_2_Source": "5012",
+      "Action_2_Blueprints": "1",
+      "Action_2_Blueprint_0_Index": "1",
+      "Action_2_Text": "Salvage",
+      "Action_2_Tooltip": "Scrap into base components."
     },
     "translation": {
       "Name": "Duststorm",
@@ -152851,6 +152852,18 @@
       "Character": "Tina"
     }
   },
+  "c1015963950c4207b588db0aeb6083fb": {
+    "name": "Kuwait_Colt_White",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Colt/Kuwait_Colt_White.asset",
+    "data": {
+      "GUID": "c1015963950c4207b588db0aeb6083fb",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5007",
+      "TargetVehicle": "e19145bfb0924964bf6a1fa6818b9d24",
+      "LoadPaintColor": "#DFDFDF"
+    },
+    "translation": null
+  },
   "c1097b8d25734e9c93d63ad8d7849ad1": {
     "name": "TireMotion_Foliage",
     "path": "Bundles/Effects/TireMotion/TireMotion_Foliage/TireMotion_Foliage.dat",
@@ -152985,10 +152998,10 @@
       "GUID": "c1604c6e6d54422c9e478c3cef297e8a",
       "Type": "NPC",
       "ID": "28650",
-      "Shirt": "664 ",
-      "Pants": "212",
+      "Shirt": "5394",
+      "Hat": "5395",
       "Face": "5",
-      "Hair": "2",
+      "Hair": "1",
       "Beard": "0",
       "Color_Skin": "#9D886B",
       "Color_Hair": "#352C22",
@@ -155308,44 +155321,6 @@
     },
     "translation": null
   },
-  "c40eda9b6f3147809943d0ce95fd6069": {
-    "name": "Kuwait_Pickup_Red",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Pickup_Red/Kuwait_Pickup_Red.dat",
-    "data": {
-      "GUID": "c40eda9b6f3147809943d0ce95fd6069",
-      "Type": "Vehicle",
-      "Rarity": "Rare",
-      "ID": "5033",
-      "Speed_Min": "-6",
-      "Speed_Max": "13",
-      "Steer_Min": "12",
-      "Steer_Max": "24",
-      "Brake": "40",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "2000",
-      "Health_Min": "350",
-      "Health_Max": "450",
-      "Health": "550",
-      "Can_Be_Locked": "False",
-      "Traction": "",
-      "Trunk_Storage_X": "6",
-      "Trunk_Storage_Y": "6",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "130",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Red Truck"
-    }
-  },
   "c4108867d8814af59f63a9ac8312a6dc": {
     "name": "Crossbow_Iron_Sights",
     "path": "Bundles/Items/Sights/Crossbow_Iron_Sights/Crossbow_Iron_Sights.dat",
@@ -156878,8 +156853,8 @@
     "translation": null
   },
   "c603175f6ce04a82a3da202acb610184": {
-    "name": "Kuwait_Firetruck_0",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Firetruck_0/Kuwait_Firetruck_0.dat",
+    "name": "Kuwait_Firetruck",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Firetruck/Kuwait_Firetruck.dat",
     "data": {
       "GUID": "c603175f6ce04a82a3da202acb610184",
       "Type": "Vehicle",
@@ -156906,7 +156881,82 @@
       "Valid_Speed_Horizontal": "180",
       "Has_Clip_Prefab": "False",
       "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3"
+      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
+      "PaintableSections": [
+        {
+          "Path": "Model_0",
+          "MaterialIndex": "0"
+        },
+        {
+          "Path": "Model_1",
+          "MaterialIndex": "0"
+        }
+      ],
+      "DefaultPaintColors": [
+        "#A32929"
+      ],
+      "WheelConfigurations": [
+        {
+          "WheelColliderPath": "Tires/Tire_0",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_0",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_1",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_1",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_2",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_2",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_3",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_3",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_4",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_3",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_5",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_3",
+          "ModelUseColliderPose": "true"
+        }
+      ],
+      "ReverseGearRatio": "10",
+      "ForwardGearRatios": [
+        "20",
+        "13.7"
+      ],
+      "GearShift_UpThresholdRPM": "5000",
+      "GearShift_Duration": "0.2",
+      "GearShift_Interval": "0.5",
+      "EngineIdleRPM": "1000",
+      "EngineMaxRPM": "6000",
+      "EngineMaxTorque": "2.8",
+      "EngineSound_Type": "EngineRPMSimple",
+      "EngineSound": {
+        "IdlePitch": "1.0",
+        "IdleVolume": "0.75",
+        "MaxPitch": "2",
+        "MaxVolume": "1.0"
+      }
     },
     "translation": {
       "Name": "Firetruck"
@@ -157434,13 +157484,15 @@
       "Root_Angular_Drag_Multiplier": "1.25",
       "Wheel_Drive_Model": "All",
       "Wheel_Damping_Rate": "1",
-      "Wheel_Mass_Multiplier": "2",
-      "Wheel_Suspension_Damper": "10",
+      "Wheel_Mass_Multiplier": "10",
+      "Wheel_Suspension_Force": "2",
+      "Wheel_Suspension_Damper": "1.5",
       "Root_Drag_Multiplier": ".5",
       "Root_Mass_Multiplier": "2",
       "Motor_Torque_Multiplier": "5",
-      "Wheel_Brake_Model": "All",
-      "Carjack_Force_Multiplier": "2",
+      "Wheel_Brake_Model": "Front",
+      "Brake_Torque_Multiplier": "2",
+      "Carjack_Force_Multiplier": "25",
       "Root_Mass": "10",
       "Wheel_Friction_Sideways": {
         "Extremum_Slip": ".8",
@@ -159405,6 +159457,20 @@
       "Draw_Distance": "-1"
     },
     "translation": null
+  },
+  "c95d54f48f2749a88d1ca240b09f1d17": {
+    "name": "Kuwait_Flag_6",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Parks/Kuwait_Flag_6/Kuwait_Flag_6.dat",
+    "data": {
+      "GUID": "c95d54f48f2749a88d1ca240b09f1d17",
+      "Type": "Medium",
+      "Has_Clip_Prefab": "False",
+      "ID": "5465",
+      "Asset_Bundle_Version": "2"
+    },
+    "translation": {
+      "Name": "Kuwait Flag #7"
+    }
   },
   "c9658747dce44787a6ea11b93fa6f448": {
     "name": "PirateCaptainOutfit",
@@ -161729,6 +161795,18 @@
       "Interactability_Text_Line_0": "Today I got word other breweries in the region are also picking up on berry mixes. I've started a trend!"
     }
   },
+  "cbd536224234484d9e9c910a64b7b3b0": {
+    "name": "Kuwait_Sedan_Purple",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Sedans/Kuwait_Sedan_Purple.asset",
+    "data": {
+      "GUID": "cbd536224234484d9e9c910a64b7b3b0",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5017",
+      "TargetVehicle": "db1b8f5d627d46e1a160669c71770c50",
+      "LoadPaintColor": "#714B74"
+    },
+    "translation": null
+  },
   "cbe683e0c03f44e98fcce2671c117879": {
     "name": "Machete",
     "path": "Bundles/Items/Melee/Machete/Machete.dat",
@@ -161783,44 +161861,6 @@
     "translation": {
       "Name": "Machete",
       "Description": "High quality bushwhacking tool."
-    }
-  },
-  "cbf4770a3ece4a9a9eb91129bd1c3b14": {
-    "name": "Kuwait_Suv_Green",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Suv_Green/Kuwait_Suv_Green.dat",
-    "data": {
-      "GUID": "cbf4770a3ece4a9a9eb91129bd1c3b14",
-      "Type": "Vehicle",
-      "Rarity": "Uncommon",
-      "ID": "5015",
-      "Speed_Min": "-5",
-      "Speed_Max": "12",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "4",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "Traction": "",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Green Land Explorer"
     }
   },
   "cc0ca54b54a3433d91dbe2813b108f3a": {
@@ -166952,7 +166992,7 @@
       "ID": "3051",
       "Health": "750",
       "Radius": "3",
-      "Scale": "1",
+      "Scale": ".25",
       "Explosion": "5258",
       "Reward_ID": "7143",
       "Reward_XP": "4",
@@ -169657,7 +169697,7 @@
       "Size_X": "1",
       "Size_Y": "1",
       "Size_Z": "0.4",
-      "Water": "50",
+      "Water": "40",
       "Energy": "50",
       "Blueprints": "1",
       "Blueprint_0_Type": "Repair",
@@ -169674,7 +169714,7 @@
     },
     "translation": {
       "Name": "Bottled Cola",
-      "Description": "Water saturated with sugar.<br><color=#3298C8>+50 Water</color><br><color=#DCB413>+50 Energy</color>"
+      "Description": "Water saturated with sugar.<br><color=#3298C8>+40 Water</color><br><color=#DCB413>+50 Energy</color>"
     }
   },
   "d2f50c38a7484ed0a4d2f083eb56f616": {
@@ -170216,42 +170256,118 @@
       "Name": "Kuwait Dynamite Placed #1 (QUEST)"
     }
   },
-  "d389eefc3e604b61ae53c1608760f7f6": {
-    "name": "Kuwait_Suv_Red",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Suv_Red/Kuwait_Suv_Red.dat",
+  "d38fd035f2d24cf68c63654f771525ed": {
+    "name": "Kuwait_Regensturm",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Guns/Kuwait_Regensturm/Kuwait_Regensturm.dat",
     "data": {
-      "GUID": "d389eefc3e604b61ae53c1608760f7f6",
-      "Type": "Vehicle",
-      "Rarity": "Uncommon",
-      "ID": "5018",
-      "Speed_Min": "-5",
-      "Speed_Max": "12",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "4",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "Traction": "",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "kuwait.masterbundle:Audio/Kuwait_Ignition_Heavy.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_03.mp3",
-      "Asset_Bundle_Version": "3"
+      "GUID": "d38fd035f2d24cf68c63654f771525ed",
+      "Type": "Gun",
+      "Rarity": "Rare",
+      "Useable": "Gun",
+      "Slot": "Primary",
+      "ID": "5153",
+      "Size_X": "4",
+      "Size_Y": "2",
+      "Size_Z": "0.3",
+      "Magazine": "5154",
+      "Hook_Sight": "",
+      "Hook_Tactical": "",
+      "Hook_Grip": "",
+      "Ammo_Min": "10",
+      "Ammo_Max": "20",
+      "Safety": "",
+      "Semi": "",
+      "Auto": "",
+      "Caliber": "25",
+      "Range": "200",
+      "Firerate": "7",
+      "Action": "Trigger",
+      "Player_Damage": "12",
+      "Player_Leg_Multiplier": "0.6",
+      "Player_Arm_Multiplier": "0.6",
+      "Player_Spine_Multiplier": "0.8",
+      "Player_Skull_Multiplier": "1.1",
+      "Zombie_Damage": "95",
+      "Zombie_Leg_Multiplier": "0.3",
+      "Zombie_Arm_Multiplier": "0.3",
+      "Zombie_Spine_Multiplier": "0.6",
+      "Zombie_Skull_Multiplier": "1.1",
+      "Animal_Damage": "20",
+      "Animal_Leg_Multiplier": "0.6",
+      "Animal_Spine_Multiplier": "0.8",
+      "Animal_Skull_Multiplier": "1.1",
+      "Barricade_Damage": "15",
+      "Structure_Damage": "15",
+      "Vehicle_Damage": "25",
+      "Resource_Damage": "15",
+      "Object_Damage": "15",
+      "Durability": "0.3",
+      "Spread_Aim": "0.1",
+      "Spread_Hip": "0.2",
+      "Recoil_Min_X": "5",
+      "Recoil_Min_Y": "15",
+      "Recoil_Max_X": "0",
+      "Recoil_Max_Y": "3",
+      "Recoil_Crouch": "0.9",
+      "Recoil_Prone": ".85",
+      "Spread_Prone": "0.85",
+      "Spread_Crouch": "0.9",
+      "Recover_X": "0.9",
+      "Recover_Y": "0.5",
+      "Shake_Min_X": "-0.005",
+      "Shake_Min_Y": "0.001",
+      "Shake_Min_Z": "-0.0125",
+      "Shake_Max_X": "0.005",
+      "Shake_Max_Y": "-0.005",
+      "Shake_Max_Z": "-0.05",
+      "Muzzle": "3",
+      "Gunshot_Rolloff_Distance": "500",
+      "Blueprints": "3",
+      "Blueprint_0_Type": "Repair",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "67",
+      "Blueprint_0_Supply_0_Amount": "3",
+      "Blueprint_0_Tool": "76",
+      "Blueprint_0_Level": "1",
+      "Blueprint_0_Skill": "Repair",
+      "Blueprint_0_Build": "27",
+      "Blueprint_0_Conditions": "1",
+      "Blueprint_0_Condition_0_Type": "Item",
+      "Blueprint_0_Condition_0_ID": "5112",
+      "Blueprint_0_Condition_0_Amount": "0",
+      "Blueprint_0_Condition_0_Logic": "Equal",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "5022",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "3",
+      "Blueprint_1_Build": "27",
+      "Blueprint_2_Type": "Repair",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "67",
+      "Blueprint_2_Supply_0_Amount": "2",
+      "Blueprint_2_Tool": "5112",
+      "Blueprint_2_Tool_Critical": "",
+      "Blueprint_2_Level": "1",
+      "Blueprint_2_Skill": "Repair",
+      "Blueprint_2_Build": "27",
+      "Actions": "2",
+      "Action_0_Type": "Blueprint",
+      "Action_0_Source": "5022",
+      "Action_0_Blueprints": "1",
+      "Action_0_Blueprint_0_Index": "0",
+      "Action_0_Text": "Torch Repair",
+      "Action_0_Tooltip": "Repair to 100% using a Blowtorch.",
+      "Action_1_Type": "Blueprint",
+      "Action_1_Source": "5022",
+      "Action_1_Blueprints": "1",
+      "Action_1_Blueprint_0_Index": "2",
+      "Action_1_Text": "Arc Repair",
+      "Action_1_Tooltip": "Repair to 100% using an Arc Welder."
     },
     "translation": {
-      "Name": "Red Land Explorer"
+      "Name": "Regensturm",
+      "Description": "German submachine gun chambered in civilian ammunition.<br><color=#b8b188>12 Player Damage</color>, <color=#738769>95 Zombie Damage</color>"
     }
   },
   "d3937cbda2654d62b8929624cb7944c5": {
@@ -172001,22 +172117,6 @@
     },
     "translation": null
   },
-  "d5f803a0fd5044af8219778d54e09044": {
-    "name": "29696KGAZ",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/3/D/29696KGAZ/Asset.dat",
-    "data": {
-      "GUID": "d5f803a0fd5044af8219778d54e09044",
-      "Type": "Dialogue",
-      "ID": "29696",
-      "Messages": "1",
-      "Message_0_Pages": "1",
-      "Responses": "1"
-    },
-    "translation": {
-      "Message_0_Page_0": ":]",
-      "Response_0": ":]"
-    }
-  },
   "d5fbd1794f04439cbb2f9a03f3eadd18": {
     "name": "Van_Purple",
     "path": "Bundles/Objects/Large/Vehicles/Van_Purple/Van_Purple.dat",
@@ -172967,8 +173067,8 @@
     }
   },
   "d71484b0543d4accbf954d3b458df8d2": {
-    "name": "SandPile_Kuwait",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/SandPile_Kuwait/SandPile_Kuwait.dat",
+    "name": "Kuwait_Sand_Pile",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Kuwait_Sand_Pile/Kuwait_Sand_Pile.dat",
     "data": {
       "GUID": "d71484b0543d4accbf954d3b458df8d2",
       "Type": "Spawn",
@@ -175263,7 +175363,7 @@
       "GUID": "da0a4690870f4416a7c4548686a8267e",
       "Type": "NPC",
       "ID": "28400",
-      "Shirt": "536",
+      "Shirt": "1663",
       "Pants": "226",
       "Face": "21",
       "Hair": "15",
@@ -176016,43 +176116,6 @@
     },
     "translation": null
   },
-  "dae34c488c194613863eb07052cfe051": {
-    "name": "Kuwait_Sedan_Green",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Sedan_Green/Kuwait_Sedan_Green.dat",
-    "data": {
-      "GUID": "dae34c488c194613863eb07052cfe051",
-      "Type": "Vehicle",
-      "Rarity": "Common",
-      "ID": "5025",
-      "Speed_Min": "-6",
-      "Speed_Max": "16.5",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1500",
-      "Health_Min": "350",
-      "Health_Max": "450",
-      "Health": "600",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Green Sedan"
-    }
-  },
   "dae7c2f58a7c4ff0be26a61fd95a8117": {
     "name": "Kuwait_Telescope_Complete",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Small/Quests/Kuwait_Telescope_Complete/Kuwait_Telescope_Complete.dat",
@@ -176231,8 +176294,8 @@
     }
   },
   "db1b8f5d627d46e1a160669c71770c50": {
-    "name": "Kuwait_Sedan_Black",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Sedan_Black/Kuwait_Sedan_Black.dat",
+    "name": "Kuwait_Sedan",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Sedan/Kuwait_Sedan.dat",
     "data": {
       "GUID": "db1b8f5d627d46e1a160669c71770c50",
       "Type": "Vehicle",
@@ -176261,10 +176324,78 @@
       "Has_Clip_Prefab": "False",
       "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
       "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
+      "PaintableSections": [
+        {
+          "Path": "Model_0",
+          "MaterialIndex": "0"
+        },
+        {
+          "Path": "Model_1",
+          "MaterialIndex": "0"
+        }
+      ],
+      "DefaultPaintColors": [
+        "#353535",
+        "#A32929",
+        "#DFDFDF",
+        "#C7752B",
+        "#3C6B94",
+        "#D8B422",
+        "#714B74",
+        "#336A33"
+      ],
+      "WheelConfigurations": [
+        {
+          "WheelColliderPath": "Tires/Tire_0",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_0",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_1",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_1",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_2",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_2",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_3",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_3",
+          "ModelUseColliderPose": "true"
+        }
+      ],
+      "ReverseGearRatio": "10",
+      "ForwardGearRatios": [
+        "20",
+        "13.7"
+      ],
+      "GearShift_UpThresholdRPM": "5000",
+      "GearShift_Duration": "0.2",
+      "GearShift_Interval": "0.5",
+      "EngineIdleRPM": "1000",
+      "EngineMaxRPM": "6000",
+      "EngineMaxTorque": "2.8",
+      "EngineSound_Type": "EngineRPMSimple",
+      "EngineSound": {
+        "IdlePitch": "1.0",
+        "IdleVolume": "0.75",
+        "MaxPitch": "2",
+        "MaxVolume": "1.0"
+      },
       "Asset_Bundle_Version": "3"
     },
     "translation": {
-      "Name": "Black Sedan"
+      "Name": "Sedan"
     }
   },
   "db2e01aaf099465d97c0e6dc4c8c749d": {
@@ -177230,6 +177361,18 @@
       "Name": "House #02"
     }
   },
+  "dc61f1dc261b41018be92c35f3f66f97": {
+    "name": "Kuwait_Sedan_Black",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Sedans/Kuwait_Sedan_Black.asset",
+    "data": {
+      "GUID": "dc61f1dc261b41018be92c35f3f66f97",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5013",
+      "TargetVehicle": "db1b8f5d627d46e1a160669c71770c50",
+      "LoadPaintColor": "#353535"
+    },
+    "translation": null
+  },
   "dc657bba39da4dae9e30e04ef97bdcf0": {
     "name": "Mechanic_Top",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Items/Item Overrides/Clothes/Shirts/Mechanic_Top/Mechanic_Top.dat",
@@ -177639,6 +177782,18 @@
       "Tables": "1",
       "Table_0_Spawn_ID": "80",
       "Table_0_Weight": "100"
+    },
+    "translation": null
+  },
+  "dd0b9ae0ccb64a9ba315db5c808e0ec0": {
+    "name": "Kuwait_Colt_Yellow",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Colt/Kuwait_Colt_Yellow.asset",
+    "data": {
+      "GUID": "dd0b9ae0ccb64a9ba315db5c808e0ec0",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5008",
+      "TargetVehicle": "e19145bfb0924964bf6a1fa6818b9d24",
+      "LoadPaintColor": "#E8EF58"
     },
     "translation": null
   },
@@ -180065,33 +180220,6 @@
     },
     "translation": null
   },
-  "e0b54a276e11479c90625788b7599dd7": {
-    "name": "29455KJB",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/Q/29455KJB/Asset.dat",
-    "data": {
-      "GUID": "e0b54a276e11479c90625788b7599dd7",
-      "Type": "Quest",
-      "ID": "29455",
-      "Conditions": "1",
-      "Condition_0_Type": "Item",
-      "Condition_0_ID": "5251",
-      "Condition_0_Amount": "5",
-      "Condition_0_Reset": "",
-      "Rewards": "2",
-      "Reward_0_Type": "Experience",
-      "Reward_0_Value": "300",
-      "Reward_1_Type": "Flag_Short",
-      "Reward_1_ID": "29300",
-      "Reward_1_Value": "1",
-      "Reward_1_Modification": "Increment"
-    },
-    "translation": {
-      "Name": "<color=#FF69B4>Survivors: </color><color=epic>Indigo Cloud</color>",
-      "Description": "Jimmy wants you to acquire some berries for him to get his mind off the apocalypse. Apparently, there's a seller on Icarus who sells them at night.",
-      "Condition_0": "Find {0}/{1} {2}",
-      "Reward_0": "300 Experience"
-    }
-  },
   "e0bc1e176d324801ab61b09215629134": {
     "name": "Kuwait_Destroyed_Police_Pickup",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Large/Vehicles/Kuwait_Destroyed_Police_Pickup/Kuwait_Destroyed_Police_Pickup.dat",
@@ -180784,8 +180912,8 @@
     }
   },
   "e19145bfb0924964bf6a1fa6818b9d24": {
-    "name": "Kuwait_Stallion_Black",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Stallion_Black/Kuwait_Stallion_Black.dat",
+    "name": "Kuwait_Colt",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Colt/Kuwait_Colt.dat",
     "data": {
       "GUID": "e19145bfb0924964bf6a1fa6818b9d24",
       "Type": "Vehicle",
@@ -180815,10 +180943,78 @@
       "Has_Clip_Prefab": "False",
       "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
       "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
+      "PaintableSections": [
+        {
+          "Path": "Model_0",
+          "MaterialIndex": "0"
+        },
+        {
+          "Path": "Model_1",
+          "MaterialIndex": "0"
+        }
+      ],
+      "DefaultPaintColors": [
+        "#14141C",
+        "#A32929",
+        "#DFDFDF",
+        "#EA9E60",
+        "#68BBFF",
+        "#E8EF58",
+        "#82319B",
+        "#67D367"
+      ],
+      "WheelConfigurations": [
+        {
+          "WheelColliderPath": "Tires/Tire_0",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_0",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_1",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_1",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_2",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_2",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_3",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_3",
+          "ModelUseColliderPose": "true"
+        }
+      ],
+      "ReverseGearRatio": "10",
+      "ForwardGearRatios": [
+        "20",
+        "13.7"
+      ],
+      "GearShift_UpThresholdRPM": "5000",
+      "GearShift_Duration": "0.2",
+      "GearShift_Interval": "0.5",
+      "EngineIdleRPM": "1000",
+      "EngineMaxRPM": "6000",
+      "EngineMaxTorque": "20",
+      "EngineSound_Type": "EngineRPMSimple",
+      "EngineSound": {
+        "IdlePitch": "1.0",
+        "IdleVolume": "0.75",
+        "MaxPitch": "1.25",
+        "MaxVolume": "1.0"
+      },
       "Asset_Bundle_Version": "3"
     },
     "translation": {
-      "Name": "Black Stallion"
+      "Name": "Colt"
     }
   },
   "e1919597ce3944568724e3e1d0b2f385": {
@@ -182258,6 +182454,18 @@
       "Table_1_Weight": "10",
       "Table_2_Spawn_ID": "957",
       "Table_2_Weight": "10"
+    },
+    "translation": null
+  },
+  "e356aee5e2b44b3ba0df2c610e02b151": {
+    "name": "Kuwait_SUV_White",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_SUVs/Kuwait_SUV_White.asset",
+    "data": {
+      "GUID": "e356aee5e2b44b3ba0df2c610e02b151",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5019",
+      "TargetVehicle": "1b5a872db58a48288c3293c7532633e8",
+      "LoadPaintColor": "#DFDFDF"
     },
     "translation": null
   },
@@ -184800,6 +185008,68 @@
       "Has_Clip_Prefab": "False",
       "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
       "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
+      "PaintableSections": [
+        {
+          "Path": "Model_0",
+          "MaterialIndex": "0"
+        },
+        {
+          "Path": "Model_1",
+          "MaterialIndex": "0"
+        }
+      ],
+      "DefaultPaintColors": [
+        "#14141C",
+        "#DFDFDF"
+      ],
+      "WheelConfigurations": [
+        {
+          "WheelColliderPath": "Tires/Tire_0",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_0",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_1",
+          "IsColliderSteered": "true",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_1",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_2",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_2",
+          "ModelUseColliderPose": "true"
+        },
+        {
+          "WheelColliderPath": "Tires/Tire_3",
+          "IsColliderSteered": "false",
+          "IsColliderPowered": "true",
+          "ModelPath": "Wheels/Wheel_3",
+          "ModelUseColliderPose": "true"
+        }
+      ],
+      "ReverseGearRatio": "10",
+      "ForwardGearRatios": [
+        "20",
+        "13.7"
+      ],
+      "GearShift_UpThresholdRPM": "5000",
+      "GearShift_Duration": "0.2",
+      "GearShift_Interval": "0.5",
+      "EngineIdleRPM": "1000",
+      "EngineMaxRPM": "6000",
+      "EngineMaxTorque": "20",
+      "EngineSound_Type": "EngineRPMSimple",
+      "EngineSound": {
+        "IdlePitch": "1.0",
+        "IdleVolume": "0.1",
+        "MaxPitch": "1.25",
+        "MaxVolume": "1"
+      },
       "Asset_Bundle_Version": "3"
     },
     "translation": {
@@ -185310,7 +185580,7 @@
         "Name": "",
         "Path": ""
       },
-      "Physics_Material": "SAND_STATIC",
+      "Physics_Material": "PEI_Sand_01",
       "Foliage": {
         "GUID": "00000000000000000000000000000000"
       },
@@ -186767,44 +187037,6 @@
       "Description": "Ready for planting and eating."
     }
   },
-  "e7ba8a7542944d63915f60c741de5f91": {
-    "name": "Kuwait_Stallion_Red",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Stallion_Red/Kuwait_Stallion_Red.dat",
-    "data": {
-      "GUID": "e7ba8a7542944d63915f60c741de5f91",
-      "Type": "Vehicle",
-      "Rarity": "Rare",
-      "ID": "5006",
-      "Speed_Min": "-6",
-      "Speed_Max": "24",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "3",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "c6d835a711994c0cafb332b1106f2311",
-      "Valid_Speed_Horizontal": "200",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Pitch_Drive": "0.015",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Red Stallion"
-    }
-  },
   "e7cb487d526c4410aeae25dbf935a204": {
     "name": "Scientist_Vendor_Completed",
     "path": "Bundles/NPCs/Dialogues/Scientist/Scientist_Vendor_Completed/Asset.dat",
@@ -187844,21 +188076,6 @@
       "Character": "<color=legendary>Commander Laurence</color>"
     }
   },
-  "e956a218b1c848f2a263da84181eb420": {
-    "name": "SD",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/C/3/D/29090KC6D/SD/Asset.dat",
-    "data": {
-      "GUID": "e956a218b1c848f2a263da84181eb420",
-      "Type": "Dialogue",
-      "ID": "29093",
-      "Messages": "1",
-      "Message_0_Pages": "1",
-      "Message_0_Prev": ""
-    },
-    "translation": {
-      "Message_0_Page_0": "Nothing, sorry!"
-    }
-  },
   "e97565ee9bf74fd494f29058ef3dfa79": {
     "name": "Military_Vest_Russia",
     "path": "Bundles/Items/Vests/Military_Vest_Russia/Military_Vest_Russia.dat",
@@ -188604,7 +188821,7 @@
       "Size_Y": "2",
       "Size_Z": "0.4",
       "Quality_Max": "50",
-      "Water": "60",
+      "Water": "40",
       "Blueprints": "1",
       "Blueprint_0_Type": "Repair",
       "Blueprint_0_Supply_0_ID": "5528",
@@ -188616,7 +188833,7 @@
     },
     "translation": {
       "Name": "Milk Box",
-      "Description": "Cow milk perfect for cookies.<br><color=#3298C8>+60 Water</color>"
+      "Description": "Cow milk perfect for cookies.<br><color=#3298C8>+40 Water</color>"
     }
   },
   "eaba37cdf5b04907b5f4c4edf9f6657e": {
@@ -189147,8 +189364,8 @@
     }
   },
   "ebbbb31e193f4d1a9b1b2d1cda4497ce": {
-    "name": "Kuwait_PalmTree_Drops",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Kuwait_PalmTree_Drops/Kuwait_PalmTree_Drops.dat",
+    "name": "Kuwait_Palm_Tree_Drops",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Spawns/Kuwait_Palm_Tree_Drops/Kuwait_Palm_Tree_Drops.dat",
     "data": {
       "GUID": "ebbbb31e193f4d1a9b1b2d1cda4497ce",
       "Type": "Spawn",
@@ -190828,20 +191045,6 @@
       "Description": "Military uniform shirt."
     }
   },
-  "edaec3ec6f4e4cf1a9d43e820e5b2e14": {
-    "name": "29442KJA",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29440KJD/29442KJA/Asset.dat",
-    "data": {
-      "GUID": "edaec3ec6f4e4cf1a9d43e820e5b2e14",
-      "Type": "Dialogue",
-      "ID": "29442",
-      "Messages": "1",
-      "Message_0_Pages": "1"
-    },
-    "translation": {
-      "Message_0_Page_0": "Quite a crazy world we're living in. Be careful."
-    }
-  },
   "edb95d1841814b0e9a80845c9adb005b": {
     "name": "Kuwait_Plants_0",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Objects/Medium/Parks/Kuwait_Plants_0/Kuwait_Plants_0.dat",
@@ -191450,21 +191653,6 @@
       "Name": "Quest Present #4 Placed"
     }
   },
-  "eeb11267ffbd4f0d9417b737ae390729": {
-    "name": "29454KJQ",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/NPCs/S/1/D/29450KJD/29454KJQ/Asset.dat",
-    "data": {
-      "GUID": "eeb11267ffbd4f0d9417b737ae390729",
-      "Type": "Dialogue",
-      "ID": "29454",
-      "Messages": "1",
-      "Message_0_Pages": "1",
-      "Message_0_Prev": "29451"
-    },
-    "translation": {
-      "Message_0_Page_0": "Am I happy or in misery? I have no idea. I can't get no relief with what's happening."
-    }
-  },
   "eec9aa3ae5a44c75b764a72327f0df85": {
     "name": "Cooler_Beach_1",
     "path": "Bundles/Objects/Medium/Parks/Cooler_Beach_1/Cooler_Beach_1.dat",
@@ -191866,6 +192054,53 @@
     },
     "translation": null
   },
+  "ef267706cc054f43973282b0e615e0b8": {
+    "name": "Kuwait_Bush_1",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Assets/Landscapes/Resources/Kuwait_Bush_1.asset",
+    "data": {
+      "GUID": "ef267706cc054f43973282b0e615e0b8",
+      "Type": "SDG.Framework.Foliage.FoliageResourceInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "0",
+      "Density": "3000",
+      "Min_Normal_Position_Offset": "0.5",
+      "Max_Normal_Position_Offset": "1",
+      "Normal_Rotation_Offset": {
+        "X": "0",
+        "Y": "0",
+        "Z": "0"
+      },
+      "Normal_Rotation_Alignment": "0",
+      "Min_Weight": "0.5",
+      "Max_Weight": "1",
+      "Min_Angle": "0",
+      "Max_Angle": "60",
+      "Min_Rotation": {
+        "X": "0",
+        "Y": "0",
+        "Z": "0"
+      },
+      "Max_Rotation": {
+        "X": "0",
+        "Y": "0",
+        "Z": "0"
+      },
+      "Min_Scale": {
+        "X": "1",
+        "Y": "1",
+        "Z": "1"
+      },
+      "Max_Scale": {
+        "X": "1",
+        "Y": "1",
+        "Z": "1"
+      },
+      "Resource": {
+        "GUID": "e6368a3de61f48b5aea968d954072d8c"
+      },
+      "Obstruction_Radius": "4"
+    },
+    "translation": null
+  },
   "ef284b4753724a38bd9daf35c98ad9f8": {
     "name": "Beach_Average",
     "path": "Bundles/Spawns/Items/Beach_Average/Beach_Average.dat",
@@ -191990,43 +192225,6 @@
     },
     "translation": {
       "Name": "Bridge Ramp #2 Europe"
-    }
-  },
-  "ef4dea37b58e4a96bce334dcfaed39c1": {
-    "name": "Kuwait_Sedan_White",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Sedan_White/Kuwait_Sedan_White.dat",
-    "data": {
-      "GUID": "ef4dea37b58e4a96bce334dcfaed39c1",
-      "Type": "Vehicle",
-      "Rarity": "Common",
-      "ID": "5029",
-      "Speed_Min": "-6",
-      "Speed_Max": "16.5",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1500",
-      "Health_Min": "350",
-      "Health_Max": "450",
-      "Health": "600",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "5",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "0be1cede92404d57999e4a848fc8f996",
-      "Valid_Speed_Horizontal": "150",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "White Sedan"
     }
   },
   "ef50b4155ded471284377c2b199d0409": {
@@ -194435,6 +194633,18 @@
       "Name": "Devil's Bane Magazine",
       "Description": "Military grade <color=epic>Bane</color> magazine. Designed to fit 21 shells."
     }
+  },
+  "f1f62b199972442a8b3db38e180815c1": {
+    "name": "Kuwait_Sedan_Yellow",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Vehicle_Colour_Redirects/Kuwait_Sedans/Kuwait_Sedan_Yellow.asset",
+    "data": {
+      "GUID": "f1f62b199972442a8b3db38e180815c1",
+      "Type": "SDG.Unturned.VehicleRedirectorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "ID": "5020",
+      "TargetVehicle": "db1b8f5d627d46e1a160669c71770c50",
+      "LoadPaintColor": "#D8B422"
+    },
+    "translation": null
   },
   "f1fdcb83248b40a8aab68d70911d5a37": {
     "name": "Bottled_Cola",
@@ -199071,45 +199281,6 @@
     },
     "translation": null
   },
-  "f7b8bb740b344fc5bb9cc4b746e9ea88": {
-    "name": "Kuwait_RC_Stallion_Orange",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_RC_Stallion_Orange/Kuwait_RC_Stallion_Orange.dat",
-    "data": {
-      "GUID": "f7b8bb740b344fc5bb9cc4b746e9ea88",
-      "Type": "Vehicle",
-      "Rarity": "Legendary",
-      "ID": "5042",
-      "Speed_Min": "-6",
-      "Speed_Max": "32",
-      "Steer_Min": "12",
-      "Steer_Max": "32",
-      "Brake": "42",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1750",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "True",
-      "Trunk_Storage_X": "3",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "c6d835a711994c0cafb332b1106f2311",
-      "Wheel_Collider_Mass_Override": "5",
-      "Valid_Speed_Horizontal": "350",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Pitch_Drive": "0.015",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Stallion RC"
-    }
-  },
   "f7c745496e724e049943e127f9c6db84": {
     "name": "Mafia_Zombie",
     "path": "Bundles/Spawns/Items/Mafia_Zombie/Mafia_Zombie.dat",
@@ -202218,7 +202389,7 @@
       "Size_Y": "2",
       "Size_Z": "0.4",
       "Quality_Max": "50",
-      "Water": "60",
+      "Water": "40",
       "Blueprints": "1",
       "Blueprint_0_Type": "Repair",
       "Blueprint_0_Supply_0_ID": "5528",
@@ -202230,7 +202401,7 @@
     },
     "translation": {
       "Name": "Orange Juice",
-      "Description": "Tasty orange juice extract.<br><color=#3298C8>+60 Water</color>"
+      "Description": "Tasty orange juice extract.<br><color=#3298C8>+40 Water</color>"
     }
   },
   "fbb2178b37d64fcebed163c7fdcc50cc": {
@@ -202955,44 +203126,6 @@
       "Table_3_Weight": "1"
     },
     "translation": null
-  },
-  "fcfcec5ce2f3447db51425385334473b": {
-    "name": "Kuwait_Stallion_Yellow",
-    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/2483365750/Kuwait/Bundles/Vehicles/Kuwait_Stallion_Yellow/Kuwait_Stallion_Yellow.dat",
-    "data": {
-      "GUID": "fcfcec5ce2f3447db51425385334473b",
-      "Type": "Vehicle",
-      "Rarity": "Rare",
-      "ID": "5008",
-      "Speed_Min": "-6",
-      "Speed_Max": "24",
-      "Steer_Min": "14",
-      "Steer_Max": "28",
-      "Brake": "32",
-      "Fuel_Min": "200",
-      "Fuel_Max": "400",
-      "Fuel": "1250",
-      "Health_Min": "300",
-      "Health_Max": "400",
-      "Health": "500",
-      "Can_Be_Locked": "False",
-      "Trunk_Storage_X": "3",
-      "Trunk_Storage_Y": "3",
-      "Explosion": "20",
-      "Physics_Profile": "c6d835a711994c0cafb332b1106f2311",
-      "Valid_Speed_Horizontal": "200",
-      "ShouldExplosionCauseDamage": "True",
-      "ShouldExplosionBurnMaterials": "True",
-      "Pitch_Drive": "0.015",
-      "Bumper_Invulnerable": "",
-      "Has_Clip_Prefab": "False",
-      "IgnitionAudioClip": "core.masterbundle:Sounds/CarIgnition.mp3",
-      "HornAudioClip": "core.masterbundle:Sounds/CarHorn_01.mp3",
-      "Asset_Bundle_Version": "3"
-    },
-    "translation": {
-      "Name": "Yellow Stallion"
-    }
   },
   "fcfe74fe2e8748a69813539f7dbc5738": {
     "name": "Birch_0",
