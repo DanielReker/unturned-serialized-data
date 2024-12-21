@@ -462,7 +462,7 @@
         "chance": 1.0,
         "table": [
           {
-            "item": 51102
+            "item": 52375
           }
         ]
       },
@@ -470,7 +470,7 @@
         "chance": 1.0,
         "table": [
           {
-            "item": 51103
+            "item": 52376
           }
         ]
       },
@@ -478,7 +478,7 @@
         "chance": 1.0,
         "table": [
           {
-            "item": 51116
+            "item": 52381
           }
         ]
       },
@@ -486,7 +486,7 @@
         "chance": 1.0,
         "table": [
           {
-            "item": 51117
+            "item": 52383
           }
         ]
       }
@@ -726,10 +726,7 @@
         "chance": 1.0,
         "table": [
           {
-            "item": 52055
-          },
-          {
-            "item": 52054
+            "item": 52384
           }
         ]
       },
@@ -761,7 +758,7 @@
         "chance": 0.75,
         "table": [
           {
-            "item": 51101
+            "item": 52385
           }
         ]
       }
@@ -1175,7 +1172,7 @@
         "chance": 1.0,
         "table": [
           {
-            "item": 51104
+            "item": 52375
           }
         ]
       },
@@ -1183,7 +1180,7 @@
         "chance": 1.0,
         "table": [
           {
-            "item": 51105
+            "item": 52376
           }
         ]
       },
@@ -1191,7 +1188,7 @@
         "chance": 0.75,
         "table": [
           {
-            "item": 51113
+            "item": 52378
           }
         ]
       },
@@ -1199,10 +1196,10 @@
         "chance": 0.75,
         "table": [
           {
-            "item": 51114
+            "item": 52379
           },
           {
-            "item": 51112
+            "item": 52377
           }
         ]
       }
@@ -1234,7 +1231,7 @@
         "chance": 1.0,
         "table": [
           {
-            "item": 51102
+            "item": 52375
           }
         ]
       },
@@ -1242,7 +1239,7 @@
         "chance": 1.0,
         "table": [
           {
-            "item": 51103
+            "item": 52376
           }
         ]
       },
@@ -1250,7 +1247,7 @@
         "chance": 0.75,
         "table": [
           {
-            "item": 51113
+            "item": 52378
           }
         ]
       },
@@ -1258,10 +1255,10 @@
         "chance": 0.75,
         "table": [
           {
-            "item": 51114
+            "item": 52377
           },
           {
-            "item": 51115
+            "item": 52379
           }
         ]
       }
@@ -1480,6 +1477,62 @@
       "b": 0.298039228
     },
     "tableUniqueId": 25,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
+  },
+  {
+    "name": "Riot",
+    "isMega": false,
+    "health": 130,
+    "damage": 16,
+    "lootIndex": 0,
+    "lootID": 51035,
+    "xp": 5,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 51127
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 51128
+          }
+        ]
+      },
+      {
+        "chance": 0.8,
+        "table": [
+          {
+            "item": 51125
+          }
+        ]
+      },
+      {
+        "chance": 0.8,
+        "table": [
+          {
+            "item": 51126
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0392156877,
+      "g": 0.0392156877,
+      "b": 0.431372553
+    },
+    "tableUniqueId": 26,
     "difficultyGUID": "",
     "difficulty": {
       "GUID": "00000000000000000000000000000000",
