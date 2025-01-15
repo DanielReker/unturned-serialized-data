@@ -18160,7 +18160,7 @@
         "Name": "",
         "Path": ""
       },
-      "Physics_Material": "SNOW_STATIC",
+      "Physics_Material": "FOLIAGE_STATIC",
       "Foliage": {
         "GUID": "3de1894b8d424edd8e8c55b5f8b6d160"
       },
@@ -19326,7 +19326,7 @@
         "Name": "",
         "Path": ""
       },
-      "Physics_Material": "SNOW_STATIC",
+      "Physics_Material": "FOLIAGE_STATIC",
       "Foliage": {
         "GUID": "3984c5886e3aa4b20bb63e0bcb21d325e"
       },
@@ -31645,16 +31645,6 @@
       "Blueprint_2_Supply_0_ID": "51035",
       "Blueprint_2_Supply_0_Amount": "3",
       "Blueprint_2_Build": "27",
-      "Actions": "2",
-      "Action_0_Type": "Blueprint",
-      "Action_0_Blueprints": "1",
-      "Action_0_Blueprint_0_Index": "0",
-      "Action_0_Key": "Salvage",
-      "Action_1_Type": "Blueprint",
-      "Action_1_Blueprints": "1",
-      "Action_1_Blueprint_0_Index": "1",
-      "Action_1_Text": "Suppress «",
-      "Action_1_Tooltip": "Use a Baffle Kit to suppress this weapon.",
       "Shoot_Quest_Rewards": "1",
       "Shoot_Quest_Reward_0_Type": "Rewards_List_Asset",
       "Shoot_Quest_Reward_0_GUID": "ae7724167039492fb3bd8aeef222fcfa"
@@ -35974,7 +35964,7 @@
           "Weight": "3"
         },
         {
-          "Guid": "5af0c88471da4a4b8e270423e169a6f8",
+          "Guid": "894c019cdbad47a5b9149561d041bb61",
           "Weight": "3"
         },
         {
@@ -39762,10 +39752,6 @@
         {
           "Guid": "2f31123007014cf4a896d5d0a88997bd",
           "Weight": "39"
-        },
-        {
-          "Guid": "8ca8e3ea67564470b04f4c63fa01839b",
-          "Weight": "30"
         },
         {
           "Guid": "133ddd558e744e9bad2201a5713d3099",
@@ -52200,11 +52186,11 @@
       "Tables": [
         {
           "Guid": "8298d5448d8f4f859f24609e63d294b2",
-          "Weight": "24"
+          "Weight": "30"
         },
         {
           "Guid": "a199629a627c4959ad293fac0b266cab",
-          "Weight": "24"
+          "Weight": "30"
         },
         {
           "Guid": "ac9106ab23804fbc9e85e2cd02c57991",
@@ -52217,14 +52203,6 @@
         {
           "Guid": "c63c77e3be934bddaebf1c85a2079ff3",
           "Weight": "10"
-        },
-        {
-          "Guid": "ca543d93d4da493ba12eb3b9a0ef294e",
-          "Weight": "6"
-        },
-        {
-          "Guid": "5403419fa1984d4f80e132c2f63920ee",
-          "Weight": "6"
         }
       ]
     },
@@ -64184,9 +64162,9 @@
       "GUID": "46d21ed8f1a04d029f50c9cc2e2eaa4d",
       "Type": "NPC",
       "ID": "52240",
-      "Shirt": "52375",
-      "Pants": "52376",
-      "Vest": "52377",
+      "Shirt": "51104",
+      "Pants": "51105",
+      "Vest": "51114",
       "Face": "1",
       "Hair": "20",
       "Beard": "0",
@@ -65597,7 +65575,11 @@
       "Color_Skin": "#F4E6D2",
       "Color_Hair": "#D7D7D7",
       "Dialogue": "52961",
-      "Has_Clip_Prefab": "false"
+      "Has_Clip_Prefab": "false",
+      "Conditions": "1",
+      "Condition_0_Type": "Is_Full_Moon",
+      "Condition_0_Value": "True",
+      "Condition_0_Logic": "Equal"
     },
     "translation": {
       "Name": "PBS NPC Visitor Santa",
@@ -74141,19 +74123,19 @@
         },
         {
           "Guid": "8298d5448d8f4f859f24609e63d294b2",
-          "Weight": "5"
+          "Weight": "6"
         },
         {
           "Guid": "36ff575ca22e4970a11823af7513a5cd",
-          "Weight": "5"
+          "Weight": "6"
         },
         {
           "Guid": "a199629a627c4959ad293fac0b266cab",
-          "Weight": "5"
+          "Weight": "6"
         },
         {
           "Guid": "a529e8cbeb134a36806224e6e036602b",
-          "Weight": "5"
+          "Weight": "6"
         },
         {
           "Guid": "855ad7c1a74f4d18a0f8d54fdfe1675c",
@@ -74176,6 +74158,10 @@
           "Weight": "5"
         },
         {
+          "Guid": "68d21a7bbcf84a7997db9ed85e83f4e3",
+          "Weight": "4"
+        },
+        {
           "Guid": "0b54ee1c68df4cd6800d52a9c86e1a93",
           "Weight": "4"
         },
@@ -74184,19 +74170,7 @@
           "Weight": "3"
         },
         {
-          "Guid": "68d21a7bbcf84a7997db9ed85e83f4e3",
-          "Weight": "3"
-        },
-        {
           "Guid": "62932823a746482abfe2775c27e48218",
-          "Weight": "2"
-        },
-        {
-          "Guid": "ca543d93d4da493ba12eb3b9a0ef294e",
-          "Weight": "2"
-        },
-        {
-          "Guid": "5403419fa1984d4f80e132c2f63920ee",
           "Weight": "2"
         },
         {
@@ -74229,10 +74203,6 @@
         },
         {
           "Guid": "c7b398d4f5d04c9e94327d4664034d88",
-          "Weight": "1"
-        },
-        {
-          "Guid": "7166feb0b50f439690e72a2ef4777514",
           "Weight": "1"
         }
       ]
@@ -74558,7 +74528,8 @@
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "51947",
       "Blueprint_2_Build": "30",
-      "Invulnerable": "true"
+      "Invulnerable": "true",
+      "Ballistic_Drop": "0.8"
     },
     "translation": {
       "Name": "Armor Piercing Rifle Clip",
@@ -83712,7 +83683,7 @@
         "Name": "",
         "Path": ""
       },
-      "Physics_Material": "SNOW_STATIC",
+      "Physics_Material": "FOLIAGE_STATIC",
       "Foliage": {
         "GUID": "e544fa307ce147f491b77c104f7158e5"
       },
@@ -91291,7 +91262,7 @@
       "Resource_Damage": "0",
       "Object_Damage": "0",
       "Range": "1",
-      "Explosion": "51085",
+      "Explosion": "51095",
       "Explosive": "",
       "Fuse_Length": "10",
       "Explode_On_Impact": "",
@@ -102903,12 +102874,12 @@
       "GUID": "7029b36b59a54752a73e9a8493a20a7a",
       "Type": "NPC",
       "ID": "52330",
-      "Hat": "52381",
-      "Mask": "52382",
-      "Shirt": "52375",
-      "Pants": "52376",
-      "Vest": "52383",
-      "Backpack": "52380",
+      "Hat": "51116",
+      "Mask": "51100",
+      "Shirt": "51102",
+      "Pants": "51103",
+      "Vest": "51117",
+      "Backpack": "51115",
       "Face": "4",
       "Hair": "2",
       "Beard": "0",
@@ -113189,7 +113160,10 @@
       "Interactability_Condition_0_ID": "51328",
       "Interactability_Condition_0_Amount": "1",
       "Interactability_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Interactability_Condition_0_Reset": ""
+      "Interactability_Condition_0_Reset": "",
+      "Interactability_Rewards": "1",
+      "Interactability_Reward_0_Type": "Achievement",
+      "Interactability_Reward_0_ID": "PBS_ForcefulAcquisition"
     },
     "translation": {
       "Name": "PBS ADATSCONTROLLER",
@@ -115218,15 +115192,19 @@
           "Weight": "45"
         },
         {
-          "Guid": "3f22967fcd4248b794ec559f736b66ff",
-          "Weight": "30"
+          "Guid": "7cb7faee6dd84369841e46edc3698c95",
+          "Weight": "15"
+        },
+        {
+          "Guid": "efc09f8a9ea54dd483ee932c66083a9d",
+          "Weight": "15"
         },
         {
           "Guid": "e782549dda8e4de09e03c748163f82e0",
           "Weight": "15"
         },
         {
-          "Guid": "420953e9b7b64179a9af19ee44f9230a",
+          "Guid": "72c6d5718cfb4e4290b1034afa1b1ec0",
           "Weight": "10"
         }
       ]
@@ -118301,7 +118279,7 @@
         "Name": "",
         "Path": ""
       },
-      "Physics_Material": "SNOW_STATIC",
+      "Physics_Material": "FOLIAGE_STATIC",
       "Foliage": {
         "GUID": "3984c5886e3aa4b20bb63e0bcb21d325e"
       },
@@ -120801,7 +120779,8 @@
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "51947",
       "Blueprint_2_Build": "30",
-      "Invulnerable": "true"
+      "Invulnerable": "true",
+      "Ballistic_Drop": "0.8"
     },
     "translation": {
       "Name": "Armor Piercing Marksman Magazine",
@@ -162473,6 +162452,10 @@
           "Weight": "204"
         },
         {
+          "Guid": "8ca8e3ea67564470b04f4c63fa01839b",
+          "Weight": "200"
+        },
+        {
           "Guid": "46c6db37785d4cd19ee70a21de7afa1a",
           "Weight": "120"
         },
@@ -164892,7 +164875,7 @@
       "Tables": [
         {
           "Guid": "8298d5448d8f4f859f24609e63d294b2",
-          "Weight": "16"
+          "Weight": "20"
         },
         {
           "Guid": "2316fd2a2d5641c790c0197ce7ff4274",
@@ -164911,20 +164894,12 @@
           "Weight": "5"
         },
         {
-          "Guid": "de21ee84017a4b4197e0b7ad0dc8010b",
-          "Weight": "4"
-        },
-        {
-          "Guid": "ca543d93d4da493ba12eb3b9a0ef294e",
+          "Guid": "a199629a627c4959ad293fac0b266cab",
           "Weight": "4"
         },
         {
           "Guid": "ebff26ddc7e344bcb05e9ee253ec83d3",
           "Weight": "3"
-        },
-        {
-          "Guid": "a199629a627c4959ad293fac0b266cab",
-          "Weight": "1"
         },
         {
           "Guid": "45bd93425f9e494e8d82cad9785ff7fa",
@@ -164936,10 +164911,6 @@
         },
         {
           "Guid": "d05228818f204fe79286c11a5b7ba549",
-          "Weight": "1"
-        },
-        {
-          "Guid": "5403419fa1984d4f80e132c2f63920ee",
           "Weight": "1"
         }
       ]
@@ -164986,8 +164957,8 @@
       "Type": "NPC",
       "ID": "52600",
       "Glasses": "113f8b84f86f4ee597064150807fb68a",
-      "Shirt": "52384",
-      "Pants": "52376",
+      "Shirt": "52320 ",
+      "Pants": "52321 ",
       "Face": "1",
       "Hair": "20",
       "Beard": "5",
@@ -164995,8 +164966,8 @@
       "Color_Hair": "#352C22",
       "Dialogue": "52601",
       "Has_Clip_Prefab": "false",
-      "Primary": "51346",
-      "Secondary": "52074"
+      "Primary": "52430",
+      "Secondary": "52393"
     },
     "translation": {
       "Name": "PBS NPC Newman",
@@ -169237,12 +169208,12 @@
           "Weight": "10"
         },
         {
-          "Guid": "856e0b67cefb4419acbc63a0c539138d",
-          "Weight": "5"
+          "Guid": "68d21a7bbcf84a7997db9ed85e83f4e3",
+          "Weight": "6"
         },
         {
-          "Guid": "68d21a7bbcf84a7997db9ed85e83f4e3",
-          "Weight": "4"
+          "Guid": "856e0b67cefb4419acbc63a0c539138d",
+          "Weight": "5"
         },
         {
           "Guid": "cc283a092cd5496a86c2447229eaef03",
@@ -169253,16 +169224,12 @@
           "Weight": "2"
         },
         {
-          "Guid": "7166feb0b50f439690e72a2ef4777514",
+          "Guid": "a199629a627c4959ad293fac0b266cab",
           "Weight": "2"
         },
         {
-          "Guid": "a199629a627c4959ad293fac0b266cab",
-          "Weight": "1"
-        },
-        {
           "Guid": "8298d5448d8f4f859f24609e63d294b2",
-          "Weight": "1"
+          "Weight": "2"
         },
         {
           "Guid": "2f55d3d29ccc44b0824954ebaf5dd17b",
@@ -169274,14 +169241,6 @@
         },
         {
           "Guid": "36ff575ca22e4970a11823af7513a5cd",
-          "Weight": "1"
-        },
-        {
-          "Guid": "ca543d93d4da493ba12eb3b9a0ef294e",
-          "Weight": "1"
-        },
-        {
-          "Guid": "5403419fa1984d4f80e132c2f63920ee",
           "Weight": "1"
         }
       ]
@@ -169325,14 +169284,6 @@
       "ID": "51006",
       "Tables": [
         {
-          "Guid": "a95660b712544865be52277c111b49a9",
-          "Weight": "16"
-        },
-        {
-          "Guid": "683cb0d71c2a42f683d9d4480aaf8815",
-          "Weight": "16"
-        },
-        {
           "Guid": "90afde6ef16c4253b5a9c70ceee17ab3",
           "Weight": "11"
         },
@@ -169341,20 +169292,40 @@
           "Weight": "11"
         },
         {
+          "Guid": "2e3dc32fd6974f6a9e08f1b24668407e",
+          "Weight": "8"
+        },
+        {
+          "Guid": "a103c640a9b048e385d4b470cc352ea8",
+          "Weight": "8"
+        },
+        {
+          "Guid": "abd0541ee89e4759ba32a99205d17e4b",
+          "Weight": "8"
+        },
+        {
+          "Guid": "0839bfa73fac433aba4d636a2aece7f4",
+          "Weight": "8"
+        },
+        {
+          "Guid": "a82887832f1347b8a3d4745e3d2fcbc4",
+          "Weight": "8"
+        },
+        {
+          "Guid": "8253891f7e95412396eeb6f4efd48528",
+          "Weight": "8"
+        },
+        {
           "Guid": "cb42fbea61234390952c6bd2bcbddc8d",
           "Weight": "8"
         },
         {
-          "Guid": "5d2d16eea4b94c44bc80f34288d62f4d",
-          "Weight": "8"
+          "Guid": "b63136598c7c4c3186fcc6b9deeb54e6",
+          "Weight": "3"
         },
         {
-          "Guid": "8e086741d9bb40f6b4a37a9569fd5d3d",
-          "Weight": "8"
-        },
-        {
-          "Guid": "069001930f67487d8c41fa1af01d0a8a",
-          "Weight": "6"
+          "Guid": "b0fb6820add7495b98e18a013f5d7c9a",
+          "Weight": "3"
         }
       ]
     },
@@ -178864,10 +178835,6 @@
           "Weight": "194"
         },
         {
-          "Guid": "8ca8e3ea67564470b04f4c63fa01839b",
-          "Weight": "150"
-        },
-        {
           "Guid": "2f31123007014cf4a896d5d0a88997bd",
           "Weight": "145"
         },
@@ -184537,7 +184504,7 @@
         "Name": "",
         "Path": ""
       },
-      "Physics_Material": "SNOW_STATIC",
+      "Physics_Material": "FOLIAGE_STATIC",
       "Foliage": {
         "GUID": "e544fa307ce147f491b77c104f7158e5"
       },
@@ -185008,10 +184975,10 @@
       "Quality_Min": "100",
       "Quality_Max": "100",
       "Aim_In_Duration": "0.15",
-      "Recoil_Min_X": "2",
-      "Recoil_Max_X": "-2",
-      "Recoil_Min_Y": "4",
-      "Recoil_Max_Y": "5",
+      "Recoil_Min_X": "1.75",
+      "Recoil_Max_X": "-1.75",
+      "Recoil_Min_Y": "3",
+      "Recoil_Max_Y": "4",
       "Spread_Aim": "0.05",
       "Spread_Hip": "0.2",
       "Remove": "0",
@@ -200965,6 +200932,7 @@
       "Amount": "20",
       "Count_Min": "8",
       "Count_Max": "20",
+      "Firerate": "-1",
       "Calibers": "1",
       "Caliber_0": "51005",
       "Ballistic_Damage_Multiplier": "0.9",
@@ -200983,6 +200951,7 @@
       "Spread": "1.1",
       "Recoil_X": "1.1",
       "Recoil_Y": "1.1",
+      "Ballistic_Drop": "1.2",
       "Blueprints": "1",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
@@ -201754,22 +201723,6 @@
           "Id": "Engineer",
           "Default_Level": "3",
           "Max_Unlockable_Level": "3"
-        }
-      ],
-      "Weather_Types": [
-        {
-          "Asset": "657e026b19cb41e1a440cbcbbe354012",
-          "Min_Frequency": "1.5",
-          "Max_Frequency": "3",
-          "Min_Duration": ".375",
-          "Max_Duration": ".75"
-        },
-        {
-          "Asset": "480342df5abb427f87c98b8a4811b376",
-          "Min_Frequency": "3",
-          "Max_Frequency": "5",
-          "Min_Duration": ".25",
-          "Max_Duration": ".5"
         }
       ]
     },
@@ -209227,16 +209180,6 @@
       "Blueprint_2_Supply_0_Amount": "2",
       "Blueprint_2_Build": "27",
       "Muzzle": "",
-      "Actions": "2",
-      "Action_0_Type": "Blueprint",
-      "Action_0_Blueprints": "1",
-      "Action_0_Blueprint_0_Index": "0",
-      "Action_0_Key": "Salvage",
-      "Action_1_Type": "Blueprint",
-      "Action_1_Blueprints": "1",
-      "Action_1_Blueprint_0_Index": "1",
-      "Action_1_Text": "Suppress «",
-      "Action_1_Tooltip": "Use a Baffle Kit to suppress this weapon.",
       "Shoot_Quest_Rewards": "1",
       "Shoot_Quest_Reward_0_Type": "Rewards_List_Asset",
       "Shoot_Quest_Reward_0_GUID": "ae7724167039492fb3bd8aeef222fcfa"
@@ -215221,11 +215164,11 @@
         },
         {
           "Guid": "a199629a627c4959ad293fac0b266cab",
-          "Weight": "25"
+          "Weight": "30"
         },
         {
           "Guid": "68d21a7bbcf84a7997db9ed85e83f4e3",
-          "Weight": "24"
+          "Weight": "30"
         },
         {
           "Guid": "ebff26ddc7e344bcb05e9ee253ec83d3",
@@ -215233,7 +215176,7 @@
         },
         {
           "Guid": "8298d5448d8f4f859f24609e63d294b2",
-          "Weight": "15"
+          "Weight": "20"
         },
         {
           "Guid": "d05228818f204fe79286c11a5b7ba549",
@@ -215241,18 +215184,10 @@
         },
         {
           "Guid": "36ff575ca22e4970a11823af7513a5cd",
-          "Weight": "10"
-        },
-        {
-          "Guid": "ca543d93d4da493ba12eb3b9a0ef294e",
           "Weight": "5"
         },
         {
-          "Guid": "5403419fa1984d4f80e132c2f63920ee",
-          "Weight": "5"
-        },
-        {
-          "Guid": "7166feb0b50f439690e72a2ef4777514",
+          "Guid": "a529e8cbeb134a36806224e6e036602b",
           "Weight": "5"
         }
       ]
@@ -228824,6 +228759,22 @@
       "Tables": [
         {
           "Guid": "8298d5448d8f4f859f24609e63d294b2",
+          "Weight": "7"
+        },
+        {
+          "Guid": "36ff575ca22e4970a11823af7513a5cd",
+          "Weight": "7"
+        },
+        {
+          "Guid": "a199629a627c4959ad293fac0b266cab",
+          "Weight": "6"
+        },
+        {
+          "Guid": "a529e8cbeb134a36806224e6e036602b",
+          "Weight": "6"
+        },
+        {
+          "Guid": "855ad7c1a74f4d18a0f8d54fdfe1675c",
           "Weight": "5"
         },
         {
@@ -228831,19 +228782,11 @@
           "Weight": "5"
         },
         {
-          "Guid": "e17a99f39e9446899d184eb78e736833",
-          "Weight": "5"
-        },
-        {
           "Guid": "19a07f4199f04995b62cd4e25e280ec5",
           "Weight": "5"
         },
         {
-          "Guid": "45bd93425f9e494e8d82cad9785ff7fa",
-          "Weight": "5"
-        },
-        {
-          "Guid": "855ad7c1a74f4d18a0f8d54fdfe1675c",
+          "Guid": "e17a99f39e9446899d184eb78e736833",
           "Weight": "5"
         },
         {
@@ -228851,19 +228794,11 @@
           "Weight": "5"
         },
         {
-          "Guid": "a529e8cbeb134a36806224e6e036602b",
-          "Weight": "5"
-        },
-        {
-          "Guid": "a199629a627c4959ad293fac0b266cab",
-          "Weight": "5"
-        },
-        {
-          "Guid": "36ff575ca22e4970a11823af7513a5cd",
-          "Weight": "5"
-        },
-        {
           "Guid": "cd6275ba582b47509581114b5fbeee35",
+          "Weight": "5"
+        },
+        {
+          "Guid": "45bd93425f9e494e8d82cad9785ff7fa",
           "Weight": "5"
         },
         {
@@ -228871,15 +228806,11 @@
           "Weight": "4"
         },
         {
-          "Guid": "ca543d93d4da493ba12eb3b9a0ef294e",
+          "Guid": "68d21a7bbcf84a7997db9ed85e83f4e3",
           "Weight": "4"
         },
         {
-          "Guid": "68d21a7bbcf84a7997db9ed85e83f4e3",
-          "Weight": "3"
-        },
-        {
-          "Guid": "5403419fa1984d4f80e132c2f63920ee",
+          "Guid": "de21ee84017a4b4197e0b7ad0dc8010b",
           "Weight": "2"
         },
         {
@@ -228891,15 +228822,7 @@
           "Weight": "2"
         },
         {
-          "Guid": "de21ee84017a4b4197e0b7ad0dc8010b",
-          "Weight": "2"
-        },
-        {
           "Guid": "92df9551782e4cb4a7143f64e2222aa4",
-          "Weight": "1"
-        },
-        {
-          "Guid": "7166feb0b50f439690e72a2ef4777514",
           "Weight": "1"
         }
       ]
