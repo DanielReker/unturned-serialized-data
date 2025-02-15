@@ -236,5 +236,25 @@
       "g": 0.0,
       "b": 0.0
     }
+  },
+  {
+    "name": "Technical",
+    "tableID": 0,
+    "tiers": [
+      {
+        "name": "Technical",
+        "chance": 1.0,
+        "table": [
+          {
+            "vehicle": 51037
+          }
+        ]
+      }
+    ],
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    }
   }
 ]
