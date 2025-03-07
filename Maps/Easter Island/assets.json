@@ -123,7 +123,7 @@
       "Calibers": "1",
       "Caliber_0": "21",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1193",
@@ -136,6 +136,12 @@
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "1005",
       "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -2203,7 +2209,7 @@
       "Calibers": "1",
       "Caliber_0": "41",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -2211,7 +2217,13 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1483",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Empire Magazine",
@@ -2568,7 +2580,7 @@
       "Calibers": "1",
       "Caliber_0": "36",
       "Tracer": "51",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1193",
@@ -2577,6 +2589,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1384",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -3308,7 +3326,7 @@
       "Aim_Duration_Multiplier": "1.25",
       "Tracer": "48",
       "Speed": "0.9",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -3321,6 +3339,12 @@
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "125",
       "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -6452,11 +6476,17 @@
       "Caliber_0": "30",
       "Tracer": "114",
       "Impact": "115",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1343",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -6482,7 +6512,7 @@
       "Calibers": "1",
       "Caliber_0": "21",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1193",
@@ -6495,6 +6525,12 @@
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "1003",
       "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -6545,11 +6581,17 @@
       "Object_Damage": "125",
       "Explosion": "136",
       "Explosive": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1443",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "285",
+      "Blueprint_1_Products": "5",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -8327,14 +8369,20 @@
       "Caliber_0": "15",
       "Tracer": "48",
       "Stuck": "10",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "42",
       "Blueprint_0_Supply_0_Amount": "3",
       "Blueprint_0_Supply_1_ID": "71",
       "Blueprint_0_Products": "3",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "42",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Pine Arrow",
@@ -12894,7 +12942,7 @@
       "Caliber_0": "33",
       "Pellets": "6",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "113",
@@ -12903,6 +12951,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1368",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -16893,6 +16947,8 @@
       "Rarity": "Legendary",
       "Speed_Min": "-4",
       "Speed_Max": "8",
+      "Steer_Min": "24",
+      "Steer_Max": "48",
       "CrawlerTrackSteering_Torque": "6",
       "CrawlerTrackSteering_SidewaysFrictionMultiplier": "1.0",
       "CrawlerTrackSteering_MaxSpeedScale": "0.6",
@@ -18798,7 +18854,7 @@
       "Calibers": "1",
       "Caliber_0": "6",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -18806,7 +18862,13 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "108",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Ace Clip",
@@ -19111,7 +19173,7 @@
       "Calibers": "1",
       "Caliber_0": "34",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -19120,6 +19182,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1371",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -19909,6 +19977,7 @@
       "Size_X": "2",
       "Size_Y": "2",
       "Size_Z": "0.4",
+      "Beard": "",
       "Pro": ""
     },
     "translation": null
@@ -22196,11 +22265,17 @@
       "Caliber_0": "30",
       "Tracer": "108",
       "Impact": "109",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1340",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -22398,7 +22473,7 @@
       "Calibers": "1",
       "Caliber_0": "43",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -22406,7 +22481,13 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1487",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Luger Magazine",
@@ -28584,7 +28665,7 @@
       "Calibers": "1",
       "Caliber_0": "27",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -28593,6 +28674,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1042",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -35551,7 +35638,7 @@
       "Calibers": "1",
       "Caliber_0": "1",
       "Tracer": "48",
-      "Blueprints": "4",
+      "Blueprints": "5",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -35568,6 +35655,12 @@
       "Blueprint_3_Supplies": "1",
       "Blueprint_3_Supply_0_ID": "1490",
       "Blueprint_3_Build": "30",
+      "Blueprint_4_Type": "Tool",
+      "Blueprint_4_Supplies": "1",
+      "Blueprint_4_Supply_0_ID": "this",
+      "Blueprint_4_Product": "67",
+      "Blueprint_4_Products": "1",
+      "Blueprint_4_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -35698,7 +35791,7 @@
       "Calibers": "1",
       "Caliber_0": "7",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -35707,6 +35800,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "111",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -38239,6 +38338,16 @@
     "translation": {
       "Name": "Sewer Line #1"
     }
+  },
+  "473c2aa5c9564fa6b5cecebbf8893f11": {
+    "name": "InstantCamera",
+    "path": "Bundles/Items/Vests/InstantCamera/InstantCamera.dat",
+    "data": {
+      "GUID": "473c2aa5c9564fa6b5cecebbf8893f11",
+      "Type": "Vest",
+      "Pro": ""
+    },
+    "translation": null
   },
   "473f4b597ec64a099a930ad77dcf14a2": {
     "name": "Bomb_5",
@@ -44052,7 +44161,7 @@
       "Calibers": "1",
       "Caliber_0": "31",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -44061,6 +44170,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1361",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -50417,7 +50532,7 @@
       "Object_Damage": "40",
       "Explosion": "53",
       "Explosive": "",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1193",
@@ -50429,11 +50544,17 @@
       "Blueprint_2_Type": "Ammo",
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "1192",
-      "Blueprint_2_Build": "30"
+      "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27"
     },
     "translation": {
       "Name": "HMG Box",
-      "Description": "Low caliber military grade <color=epic>HMG</color> box. Designed to fit 50 rounds."
+      "Description": "Military grade <color=epic>HMG</color> box. Designed to fit 50 rounds."
     }
   },
   "5df19bcaab414101b559e2a002c1cc92": {
@@ -57148,7 +57269,7 @@
       "Calibers": "1",
       "Caliber_0": "19",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1192",
@@ -57156,7 +57277,13 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "489",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Desert Falcon Magazine",
@@ -59569,11 +59696,17 @@
       "Object_Damage": "15",
       "Explosion": "53",
       "Explosive": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1200",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -60536,11 +60669,17 @@
       "Caliber_0": "1",
       "Tracer": "49",
       "Spread": "0.85",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1177",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -62237,6 +62376,7 @@
       "Rubble_Reset": "300",
       "Rubble_Health": "275",
       "Rubble_Effect": "73",
+      "Rubble_All_Sections_Destroyed_Alert_Radius": "24",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -63202,7 +63342,7 @@
       "Calibers": "1",
       "Caliber_0": "25",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -63210,7 +63350,13 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1029",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Viper Magazine",
@@ -63871,7 +64017,7 @@
       "Calibers": "1",
       "Caliber_0": "28",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1166",
@@ -63881,6 +64027,12 @@
       "Blueprint_1_Supply_0_ID": "71",
       "Blueprint_1_Supply_0_Amount": "4",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -64790,7 +64942,7 @@
       "Calibers": "1",
       "Caliber_0": "40",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -64798,7 +64950,13 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1479",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Maschinengewehr Magazine",
@@ -66710,11 +66868,17 @@
       "Caliber_0": "30",
       "Tracer": "106",
       "Impact": "107",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1339",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -68920,11 +69084,17 @@
       "Caliber_0": "8",
       "Pellets": "6",
       "Tracer": "48",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "113",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -68960,14 +69130,20 @@
       "Caliber_0": "15",
       "Tracer": "48",
       "Stuck": "20",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "40",
       "Blueprint_0_Supply_0_Amount": "3",
       "Blueprint_0_Supply_1_ID": "71",
       "Blueprint_0_Products": "3",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "40",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Maple Arrow",
@@ -72614,7 +72790,7 @@
       "Tracer": "48",
       "Speed": "0.85",
       "Aim_Duration_Multiplier": "1.25",
-      "Blueprints": "4",
+      "Blueprints": "5",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -72631,6 +72807,12 @@
       "Blueprint_3_Supplies": "1",
       "Blueprint_3_Supply_0_ID": "1490",
       "Blueprint_3_Build": "30",
+      "Blueprint_4_Type": "Tool",
+      "Blueprint_4_Supplies": "1",
+      "Blueprint_4_Supply_0_ID": "this",
+      "Blueprint_4_Product": "67",
+      "Blueprint_4_Products": "1",
+      "Blueprint_4_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -74823,11 +75005,17 @@
       "Caliber_0": "30",
       "Tracer": "110",
       "Impact": "111",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1341",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -77327,7 +77515,7 @@
       "Calibers": "1",
       "Caliber_0": "18",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -77336,6 +77524,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "485",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -79314,7 +79508,7 @@
       "Calibers": "1",
       "Caliber_0": "5",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -79322,7 +79516,13 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "103",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Schofield Clip",
@@ -81691,7 +81891,7 @@
       "Calibers": "1",
       "Caliber_0": "4",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -81703,7 +81903,13 @@
       "Blueprint_2_Type": "Ammo",
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "100",
-      "Blueprint_2_Build": "30"
+      "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27"
     },
     "translation": {
       "Name": "Cobra Box",
@@ -84132,11 +84338,17 @@
       "Caliber_0": "16",
       "Pellets": "8",
       "Tracer": "48",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "381",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -88753,6 +88965,9 @@
       "Size_Y": "2",
       "Size_Z": "0.4",
       "Barrel": "1338",
+      "Magazine": "4ad809bed5ba4422a6eade724d2f1427",
+      "Ammo_Min": "15",
+      "Ammo_Max": "30",
       "Hook_Sight": "",
       "Hook_Tactical": "",
       "Hook_Grip": "",
@@ -89571,7 +89786,7 @@
       "Calibers": "1",
       "Caliber_0": "22",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -89580,6 +89795,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1020",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -91359,7 +91580,7 @@
       "Calibers": "1",
       "Caliber_0": "39",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -91367,7 +91588,13 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1449",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Scalar Magazine",
@@ -96756,7 +96983,7 @@
       "Calibers": "1",
       "Caliber_0": "23",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -96764,7 +96991,13 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1022",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Avenger Magazine",
@@ -96909,12 +97142,18 @@
       "Caliber_0": "15",
       "Tracer": "48",
       "Stuck": "5",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Repair",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "67",
       "Blueprint_0_Supply_0_Amount": "1",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Arrow",
@@ -100882,6 +101121,18 @@
       "Description": "Military snow stealth hood."
     }
   },
+  "bd0c88c5503d410198f6f4a0899265ae": {
+    "name": "Shutterbug",
+    "path": "Bundles/Mythics/Shutterbug/Shutterbug.dat",
+    "data": {
+      "GUID": "bd0c88c5503d410198f6f4a0899265ae",
+      "Type": "Mythic",
+      "ID": "58"
+    },
+    "translation": {
+      "Particle_Tag_Name": "Shutterbug"
+    }
+  },
   "bd1554d0c8564890a852dd34932d16d3": {
     "name": "Ladder_Wood_0",
     "path": "Bundles/Objects/Medium/Furniture/Ladder_Wood_0/Ladder_Wood_0.dat",
@@ -102685,7 +102936,7 @@
       "Calibers": "1",
       "Caliber_0": "35",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -102694,6 +102945,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1381",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -104179,7 +104436,7 @@
       "Caliber_0": "10",
       "Pellets": "3",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -104187,7 +104444,13 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "127",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Nykorev Box",
@@ -104584,11 +104847,17 @@
       "Caliber_0": "30",
       "Tracer": "116",
       "Impact": "117",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1344",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -104720,6 +104989,13 @@
       "Object_Damage": "75",
       "Explosion": "54",
       "Explosive": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Product": "285",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27",
       "Tracer": "50"
     },
     "translation": {
@@ -105167,7 +105443,7 @@
       "Object_Damage": "200",
       "Explosion": "34",
       "Explosive": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Gear",
       "Blueprint_0_Supplies": "3",
       "Blueprint_0_Supply_0_ID": "347",
@@ -105178,7 +105454,13 @@
       "Blueprint_0_Supply_2_Amount": "2",
       "Blueprint_0_Level": "2",
       "Blueprint_0_Skill": "Craft",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "73",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Explosive Arrow",
@@ -106938,7 +107220,7 @@
       "Calibers": "1",
       "Caliber_0": "2",
       "Tracer": "51",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1192",
@@ -106947,6 +107229,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "20",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -107694,7 +107982,7 @@
       "Calibers": "1",
       "Caliber_0": "13",
       "Tracer": "51",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1192",
@@ -107703,6 +107991,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "298",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -110450,7 +110744,7 @@
       "Caliber_0": "32",
       "Pellets": "4",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -110463,6 +110757,12 @@
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "119",
       "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -114119,7 +114419,7 @@
       "Calibers": "1",
       "Caliber_0": "9",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -114132,6 +114432,12 @@
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "125",
       "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -114849,7 +115155,7 @@
       "Calibers": "1",
       "Caliber_0": "3",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -114857,7 +115163,13 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "98",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "1911 Magazine",
@@ -115409,7 +115721,7 @@
       "Caliber_0": "12",
       "Pellets": "3",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1192",
@@ -115417,7 +115729,13 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "133",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Dragonfang Box",
@@ -115625,7 +115943,7 @@
       "Calibers": "1",
       "Caliber_0": "4",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -115637,7 +115955,13 @@
       "Blueprint_2_Type": "Ammo",
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "1006",
-      "Blueprint_2_Build": "30"
+      "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27"
     },
     "translation": {
       "Name": "Cobra Magazine",
@@ -117427,7 +117751,7 @@
       "Calibers": "1",
       "Caliber_0": "11",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -117436,6 +117760,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "130",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -118129,7 +118459,7 @@
       "Calibers": "1",
       "Caliber_0": "1",
       "Tracer": "48",
-      "Blueprints": "4",
+      "Blueprints": "5",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -118146,6 +118476,12 @@
       "Blueprint_3_Supplies": "1",
       "Blueprint_3_Supply_0_ID": "1490",
       "Blueprint_3_Build": "30",
+      "Blueprint_4_Type": "Tool",
+      "Blueprint_4_Supplies": "1",
+      "Blueprint_4_Supply_0_ID": "this",
+      "Blueprint_4_Product": "67",
+      "Blueprint_4_Products": "1",
+      "Blueprint_4_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -122603,6 +122939,8 @@
       "ID": "58",
       "Speed_Min": "-6",
       "Speed_Max": "13",
+      "Steer_Min": "24",
+      "Steer_Max": "48",
       "CrawlerTrackSteering_Torque": "10",
       "CrawlerTrackSteering_SidewaysFrictionMultiplier": "1.0",
       "CrawlerTrackSteering_MaxSpeedScale": "0.3",
@@ -122996,7 +123334,7 @@
       "Calibers": "1",
       "Caliber_0": "17",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -123011,7 +123349,13 @@
       "Blueprint_2_Supply_0_Amount": "6",
       "Blueprint_2_Level": "1",
       "Blueprint_2_Skill": "Craft",
-      "Blueprint_2_Build": "27"
+      "Blueprint_2_Build": "27",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27"
     },
     "translation": {
       "Name": "Rifle Clip",
@@ -126939,14 +127283,20 @@
       "Caliber_0": "15",
       "Tracer": "48",
       "Stuck": "25",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "38",
       "Blueprint_0_Supply_0_Amount": "3",
       "Blueprint_0_Supply_1_ID": "71",
       "Blueprint_0_Products": "3",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Product": "38",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Birch Arrow",
@@ -128404,7 +128754,7 @@
       "Calibers": "1",
       "Caliber_0": "26",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -128412,7 +128762,13 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1040",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Kryzkarek Magazine",
@@ -129607,7 +129963,7 @@
       "Caliber_0": "42",
       "Pellets": "6",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "113",
@@ -129616,6 +129972,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1485",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -132936,7 +133298,7 @@
       "Calibers": "1",
       "Caliber_0": "24",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -132945,6 +133307,12 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1026",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
