@@ -16887,7 +16887,7 @@
     },
     "translation": {
       "Name": "Dual Queen's Weebleys",
-      "Description": "Pawns when the reach the other side of the board:"
+      "Description": "Pawns when they reach the other side of the board:"
     }
   },
   "1265c25538664fc0960aa4f4b1bc5ff7": {
@@ -24566,7 +24566,7 @@
       "Traction": "",
       "Trunk_Storage_X": "9",
       "Trunk_Storage_Y": "9",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -25646,7 +25646,7 @@
       "Traction": "",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -34594,7 +34594,7 @@
       "Traction": "",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -35220,7 +35220,7 @@
       "Should_Spawn_Seat_Capsules": "True",
       "Trunk_Storage_X": "9",
       "Trunk_Storage_Y": "9",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -46070,7 +46070,7 @@
       "Buying_2_Rewards": "1",
       "Buying_2_Reward_0_Type": "Rewards_List_Asset",
       "Buying_2_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Selling": "10",
+      "Selling": "12",
       "Selling_0_ID": "52207",
       "Selling_0_Cost": "600",
       "Selling_0_Rewards": "3",
@@ -49641,7 +49641,7 @@
       "Traction": "",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -49835,7 +49835,7 @@
       "Traction": "",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -51316,7 +51316,7 @@
       "Traction": "",
       "Trunk_Storage_X": "9",
       "Trunk_Storage_Y": "9",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -51816,7 +51816,7 @@
       "Traction": "",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -58199,7 +58199,7 @@
       "Traction": "",
       "Trunk_Storage_X": "10",
       "Trunk_Storage_Y": "10",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -58310,10 +58310,10 @@
       "Condition_1_Reset": "",
       "Rewards": "5",
       "Reward_0_Type": "Currency",
-      "Reward_0_Value": "50",
+      "Reward_0_Value": "500",
       "Reward_0_GUID": "561f74cdccdf48abaa6d49343b56aab0",
       "Reward_1_Type": "Reputation",
-      "Reward_1_Value": "5",
+      "Reward_1_Value": "25",
       "Reward_2_Type": "Flag_Short_Random",
       "Reward_2_ID": "52319",
       "Reward_2_Min_Value": "0",
@@ -64481,7 +64481,7 @@
       "Traction": "",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -69778,7 +69778,7 @@
       "Traction": "",
       "Trunk_Storage_X": "9",
       "Trunk_Storage_Y": "9",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -71101,7 +71101,7 @@
       "Traction": "",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -72696,7 +72696,7 @@
       "Traction": "",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -75430,7 +75430,7 @@
       "Traction": "",
       "Trunk_Storage_X": "9",
       "Trunk_Storage_Y": "9",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -79143,7 +79143,7 @@
       "Type": "Vendor",
       "ID": "52742",
       "Disable_Sorting": "",
-      "Buying": "10",
+      "Buying": "11",
       "Buying_0_ID": "51115",
       "Buying_0_Cost": "200",
       "Buying_0_Rewards": "1",
@@ -79194,6 +79194,11 @@
       "Buying_9_Rewards": "1",
       "Buying_9_Reward_0_Type": "Rewards_List_Asset",
       "Buying_9_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_10_ID": "51129",
+      "Buying_10_Cost": "25",
+      "Buying_10_Rewards": "1",
+      "Buying_10_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_10_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Currency": "561f74cdccdf48abaa6d49343b56aab0"
     },
     "translation": {
@@ -79275,7 +79280,7 @@
       "Engine": "Helicopter",
       "Trunk_Storage_X": "5",
       "Trunk_Storage_Y": "5",
-      "Explosion": "51008",
+      "Explosion": "51044",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51104",
       "IgnitionAudioClip": "core.masterbundle:Sounds/HelicopterIgnition.mp3",
@@ -79823,11 +79828,11 @@
           "Weight": "5"
         },
         {
-          "Guid": "3a2c0cdeb2f74773b85da9655f9093e7",
+          "Guid": "acaa1de3e2f44a1a895ea0bc2da40361",
           "Weight": "5"
         },
         {
-          "Guid": "aa318a1a467144eea3c2482c1bec2dca",
+          "Guid": "3a2c0cdeb2f74773b85da9655f9093e7",
           "Weight": "5"
         },
         {
@@ -79855,7 +79860,7 @@
           "Weight": "5"
         },
         {
-          "Guid": "acaa1de3e2f44a1a895ea0bc2da40361",
+          "Guid": "aa318a1a467144eea3c2482c1bec2dca",
           "Weight": "5"
         },
         {
@@ -79895,39 +79900,19 @@
           "Weight": "5"
         },
         {
+          "Guid": "c934328c0f1b44c1b0e1627c1aef223b",
+          "Weight": "4"
+        },
+        {
           "Guid": "3ca169532e564cde855b3384369f0ca5",
           "Weight": "2"
         },
         {
-          "Guid": "0beb9f3f9d01404582086fd411c2f550",
+          "Guid": "1bfcb5b700d84e5ab6db5fa5523fde08",
           "Weight": "1"
         },
         {
-          "Guid": "2ed1c78a6d0f47bfb821fe0d5ac573ec",
-          "Weight": "1"
-        },
-        {
-          "Guid": "6cddb7f2591b477c823d69d9428d90f3",
-          "Weight": "1"
-        },
-        {
-          "Guid": "e2ab10826729470aabf668fd1deb165d",
-          "Weight": "1"
-        },
-        {
-          "Guid": "6470ba3d88b64c00bbb2b6fc3b8754e0",
-          "Weight": "1"
-        },
-        {
-          "Guid": "57b4608ef7464246aae86f11388a0dd1",
-          "Weight": "1"
-        },
-        {
-          "Guid": "a75504ebc5b94817be0dae43717f3e2b",
-          "Weight": "1"
-        },
-        {
-          "Guid": "2f092d41e1274f3592035f785e3fa723",
+          "Guid": "a7a6924437344891a7a98dc926463150",
           "Weight": "1"
         },
         {
@@ -79935,11 +79920,31 @@
           "Weight": "1"
         },
         {
-          "Guid": "456a060c876c4a8cb1d4c956939bbd3f",
+          "Guid": "2f092d41e1274f3592035f785e3fa723",
           "Weight": "1"
         },
         {
-          "Guid": "1bfcb5b700d84e5ab6db5fa5523fde08",
+          "Guid": "a75504ebc5b94817be0dae43717f3e2b",
+          "Weight": "1"
+        },
+        {
+          "Guid": "2ed1c78a6d0f47bfb821fe0d5ac573ec",
+          "Weight": "1"
+        },
+        {
+          "Guid": "6470ba3d88b64c00bbb2b6fc3b8754e0",
+          "Weight": "1"
+        },
+        {
+          "Guid": "e2ab10826729470aabf668fd1deb165d",
+          "Weight": "1"
+        },
+        {
+          "Guid": "6cddb7f2591b477c823d69d9428d90f3",
+          "Weight": "1"
+        },
+        {
+          "Guid": "0beb9f3f9d01404582086fd411c2f550",
           "Weight": "1"
         },
         {
@@ -79947,7 +79952,11 @@
           "Weight": "1"
         },
         {
-          "Guid": "a7a6924437344891a7a98dc926463150",
+          "Guid": "57b4608ef7464246aae86f11388a0dd1",
+          "Weight": "1"
+        },
+        {
+          "Guid": "456a060c876c4a8cb1d4c956939bbd3f",
           "Weight": "1"
         }
       ]
@@ -83750,11 +83759,11 @@
           "Weight": "6"
         },
         {
-          "Guid": "acaa1de3e2f44a1a895ea0bc2da40361",
+          "Guid": "aa318a1a467144eea3c2482c1bec2dca",
           "Weight": "6"
         },
         {
-          "Guid": "3a2c0cdeb2f74773b85da9655f9093e7",
+          "Guid": "acaa1de3e2f44a1a895ea0bc2da40361",
           "Weight": "6"
         },
         {
@@ -83782,7 +83791,7 @@
           "Weight": "6"
         },
         {
-          "Guid": "aa318a1a467144eea3c2482c1bec2dca",
+          "Guid": "3a2c0cdeb2f74773b85da9655f9093e7",
           "Weight": "6"
         },
         {
@@ -83822,39 +83831,19 @@
           "Weight": "6"
         },
         {
+          "Guid": "c934328c0f1b44c1b0e1627c1aef223b",
+          "Weight": "5"
+        },
+        {
           "Guid": "3ca169532e564cde855b3384369f0ca5",
           "Weight": "4"
         },
         {
-          "Guid": "31d31085ac9a4f79866781e193f82ab9",
+          "Guid": "57b4608ef7464246aae86f11388a0dd1",
           "Weight": "3"
         },
         {
-          "Guid": "0beb9f3f9d01404582086fd411c2f550",
-          "Weight": "3"
-        },
-        {
-          "Guid": "6cddb7f2591b477c823d69d9428d90f3",
-          "Weight": "3"
-        },
-        {
-          "Guid": "e2ab10826729470aabf668fd1deb165d",
-          "Weight": "3"
-        },
-        {
-          "Guid": "6470ba3d88b64c00bbb2b6fc3b8754e0",
-          "Weight": "3"
-        },
-        {
-          "Guid": "456a060c876c4a8cb1d4c956939bbd3f",
-          "Weight": "3"
-        },
-        {
-          "Guid": "a75504ebc5b94817be0dae43717f3e2b",
-          "Weight": "3"
-        },
-        {
-          "Guid": "2f092d41e1274f3592035f785e3fa723",
+          "Guid": "a7a6924437344891a7a98dc926463150",
           "Weight": "3"
         },
         {
@@ -83862,11 +83851,31 @@
           "Weight": "3"
         },
         {
-          "Guid": "1bfcb5b700d84e5ab6db5fa5523fde08",
+          "Guid": "2f092d41e1274f3592035f785e3fa723",
           "Weight": "3"
         },
         {
-          "Guid": "57b4608ef7464246aae86f11388a0dd1",
+          "Guid": "a75504ebc5b94817be0dae43717f3e2b",
+          "Weight": "3"
+        },
+        {
+          "Guid": "0beb9f3f9d01404582086fd411c2f550",
+          "Weight": "3"
+        },
+        {
+          "Guid": "6470ba3d88b64c00bbb2b6fc3b8754e0",
+          "Weight": "3"
+        },
+        {
+          "Guid": "e2ab10826729470aabf668fd1deb165d",
+          "Weight": "3"
+        },
+        {
+          "Guid": "6cddb7f2591b477c823d69d9428d90f3",
+          "Weight": "3"
+        },
+        {
+          "Guid": "31d31085ac9a4f79866781e193f82ab9",
           "Weight": "3"
         },
         {
@@ -83874,7 +83883,11 @@
           "Weight": "3"
         },
         {
-          "Guid": "a7a6924437344891a7a98dc926463150",
+          "Guid": "456a060c876c4a8cb1d4c956939bbd3f",
+          "Weight": "3"
+        },
+        {
+          "Guid": "1bfcb5b700d84e5ab6db5fa5523fde08",
           "Weight": "3"
         }
       ]
@@ -90794,15 +90807,19 @@
       "Tables": [
         {
           "Guid": "e2d1bca9ff7f46bcb997430a1694b6cd",
-          "Weight": "6"
+          "Weight": "40"
         },
         {
           "Guid": "5cbe1c506e1a4d2f906f80b4ba8c05e4",
-          "Weight": "5"
+          "Weight": "33"
         },
         {
           "Guid": "e5e1ba68d74449248e0df38924ffdd33",
-          "Weight": "4"
+          "Weight": "26"
+        },
+        {
+          "Guid": "e1e5e4ea08b445c4bd1ad49ff1d33548",
+          "Weight": "1"
         }
       ]
     },
@@ -96645,7 +96662,7 @@
       "ID": "51093",
       "Spawn_On_Dedicated_Server": "True",
       "Relevant_Distance": "5000",
-      "Lifetime": "15",
+      "Lifetime": "12",
       "Lifetime_Spread": "0",
       "Should_Play_Anims_On_Dedicated_Server": "True"
     },
@@ -99832,7 +99849,7 @@
       "Traction": "",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -116663,6 +116680,10 @@
           "Weight": "1"
         },
         {
+          "Guid": "57b4608ef7464246aae86f11388a0dd1",
+          "Weight": "1"
+        },
+        {
           "Guid": "31d31085ac9a4f79866781e193f82ab9",
           "Weight": "1"
         },
@@ -116687,11 +116708,11 @@
           "Weight": "1"
         },
         {
-          "Guid": "a75504ebc5b94817be0dae43717f3e2b",
+          "Guid": "a7a6924437344891a7a98dc926463150",
           "Weight": "1"
         },
         {
-          "Guid": "2f092d41e1274f3592035f785e3fa723",
+          "Guid": "a75504ebc5b94817be0dae43717f3e2b",
           "Weight": "1"
         },
         {
@@ -116723,11 +116744,11 @@
           "Weight": "1"
         },
         {
-          "Guid": "57b4608ef7464246aae86f11388a0dd1",
+          "Guid": "2f092d41e1274f3592035f785e3fa723",
           "Weight": "1"
         },
         {
-          "Guid": "a7a6924437344891a7a98dc926463150",
+          "Guid": "c934328c0f1b44c1b0e1627c1aef223b",
           "Weight": "1"
         }
       ]
@@ -119587,10 +119608,10 @@
       "Condition_1_Reset": "",
       "Rewards": "5",
       "Reward_0_Type": "Currency",
-      "Reward_0_Value": "50",
+      "Reward_0_Value": "500",
       "Reward_0_GUID": "561f74cdccdf48abaa6d49343b56aab0",
       "Reward_1_Type": "Reputation",
-      "Reward_1_Value": "5",
+      "Reward_1_Value": "25",
       "Reward_2_Type": "Flag_Short_Random",
       "Reward_2_ID": "52319",
       "Reward_2_Min_Value": "0",
@@ -121205,6 +121226,10 @@
         {
           "Guid": "c5942245c8e94d42b5ef800547bdc6f5",
           "Weight": "4"
+        },
+        {
+          "Guid": "c934328c0f1b44c1b0e1627c1aef223b",
+          "Weight": "2"
         }
       ]
     },
@@ -128882,7 +128907,7 @@
       "Should_Spawn_Seat_Capsules": "True",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -136308,7 +136333,7 @@
       "Durability": "0",
       "Quality_Min": "100",
       "Quality_Max": "100",
-      "Player_Damage": "25",
+      "Player_Damage": "80",
       "Player_Leg_Multiplier": ".75",
       "Player_Arm_Multiplier": ".75",
       "Player_Spine_Multiplier": "1",
@@ -140117,7 +140142,7 @@
       "Traction": "",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -144602,7 +144627,7 @@
       "Traction": "",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -152420,7 +152445,7 @@
       "Traction": "",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -160289,7 +160314,7 @@
       "Traction": "",
       "Trunk_Storage_X": "9",
       "Trunk_Storage_Y": "9",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -164704,6 +164729,10 @@
           "Weight": "4"
         },
         {
+          "Guid": "3a2c0cdeb2f74773b85da9655f9093e7",
+          "Weight": "4"
+        },
+        {
           "Guid": "aa318a1a467144eea3c2482c1bec2dca",
           "Weight": "4"
         },
@@ -164728,11 +164757,11 @@
           "Weight": "4"
         },
         {
-          "Guid": "cc68517accce4c099c70583fe18f93d7",
+          "Guid": "e2de24995caf46c582331d126de3a1bf",
           "Weight": "4"
         },
         {
-          "Guid": "acaa1de3e2f44a1a895ea0bc2da40361",
+          "Guid": "cc68517accce4c099c70583fe18f93d7",
           "Weight": "4"
         },
         {
@@ -164764,12 +164793,12 @@
           "Weight": "4"
         },
         {
-          "Guid": "3a2c0cdeb2f74773b85da9655f9093e7",
+          "Guid": "acaa1de3e2f44a1a895ea0bc2da40361",
           "Weight": "4"
         },
         {
-          "Guid": "e2de24995caf46c582331d126de3a1bf",
-          "Weight": "4"
+          "Guid": "c934328c0f1b44c1b0e1627c1aef223b",
+          "Weight": "3"
         }
       ]
     },
@@ -165679,11 +165708,10 @@
       "Blueprint_0_Supply_1_ID": "51018 ",
       "Blueprint_0_Supply_1_Amount": "1",
       "Blueprint_0_Supply_2_ID": "51034 ",
-      "Blueprint_0_Supply_2_Amount": "2",
+      "Blueprint_0_Supply_2_Amount": "1",
       "Blueprint_0_Outputs": "1",
       "Blueprint_0_Output_0_ID": "52480",
       "Blueprint_0_Output_0_Amount": "1",
-      "Blueprint_0_State_Transfer": "",
       "Blueprint_0_Build": "27",
       "Blueprint_1_Type": "Tool",
       "Blueprint_1_Supplies": "1",
@@ -172216,10 +172244,10 @@
       "Condition_1_Reset": "",
       "Rewards": "5",
       "Reward_0_Type": "Currency",
-      "Reward_0_Value": "50",
+      "Reward_0_Value": "500",
       "Reward_0_GUID": "561f74cdccdf48abaa6d49343b56aab0",
       "Reward_1_Type": "Reputation",
-      "Reward_1_Value": "5",
+      "Reward_1_Value": "25",
       "Reward_2_Type": "Flag_Short_Random",
       "Reward_2_ID": "52319",
       "Reward_2_Min_Value": "0",
@@ -173160,7 +173188,7 @@
       "Traction": "",
       "Trunk_Storage_X": "9",
       "Trunk_Storage_Y": "9",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -174750,7 +174778,7 @@
       "Traction": "",
       "Trunk_Storage_X": "12",
       "Trunk_Storage_Y": "12",
-      "Explosion": "20",
+      "Explosion": "51008",
       "Tires_Invulnerable": "",
       "Drops_Table_ID": "51003",
       "Has_Clip_Prefab": "false",
@@ -188012,7 +188040,7 @@
       "Type": "Vendor",
       "ID": "52783",
       "Disable_Sorting": "",
-      "Buying": "12",
+      "Buying": "14",
       "Buying_0_ID": "51226 ",
       "Buying_0_Cost": "750",
       "Buying_0_Rewards": "1",
@@ -188073,6 +188101,16 @@
       "Buying_11_Rewards": "1",
       "Buying_11_Reward_0_Type": "Rewards_List_Asset",
       "Buying_11_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_12_ID": "51607 ",
+      "Buying_12_Cost": "750",
+      "Buying_12_Rewards": "1",
+      "Buying_12_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_12_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_13_ID": "51232  ",
+      "Buying_13_Cost": "1000",
+      "Buying_13_Rewards": "1",
+      "Buying_13_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_13_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Selling": "5",
       "Selling_0_ID": "52095",
       "Selling_0_Cost": "1000",
@@ -189782,10 +189820,10 @@
       "Condition_1_Reset": "",
       "Rewards": "5",
       "Reward_0_Type": "Currency",
-      "Reward_0_Value": "50",
+      "Reward_0_Value": "500",
       "Reward_0_GUID": "561f74cdccdf48abaa6d49343b56aab0",
       "Reward_1_Type": "Reputation",
-      "Reward_1_Value": "5",
+      "Reward_1_Value": "25",
       "Reward_2_Type": "Flag_Short_Random",
       "Reward_2_ID": "52319",
       "Reward_2_Min_Value": "0",
@@ -214260,8 +214298,6 @@
       "EquipableModelParent": "SpineHook",
       "Sight": "52487 ",
       "Tactical": "1008",
-      "Ammo_Min": "1",
-      "Ammo_Max": "1",
       "Range_Rangefinder": "500",
       "Semi": "",
       "Caliber": "29",
@@ -214746,11 +214782,15 @@
       "Tables": [
         {
           "Guid": "5cbe1c506e1a4d2f906f80b4ba8c05e4",
-          "Weight": "5"
+          "Weight": "48"
         },
         {
           "Guid": "e2d1bca9ff7f46bcb997430a1694b6cd",
-          "Weight": "5"
+          "Weight": "48"
+        },
+        {
+          "Guid": "e1e5e4ea08b445c4bd1ad49ff1d33548",
+          "Weight": "2"
         }
       ]
     },
@@ -239062,10 +239102,10 @@
       "Quality_Min": "100",
       "Quality_Max": "100",
       "Aim_In_Duration": "0.15",
-      "Recoil_Min_X": "-1",
-      "Recoil_Max_X": "1",
-      "Recoil_Min_Y": "2",
-      "Recoil_Max_Y": "2",
+      "Recoil_Min_X": "-2.5",
+      "Recoil_Max_X": "2.5",
+      "Recoil_Min_Y": "3.5",
+      "Recoil_Max_Y": "3.5",
       "Spread_Aim": "0.15",
       "Spread_Hip": "0.11",
       "Remove": "0",
