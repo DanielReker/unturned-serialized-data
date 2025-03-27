@@ -1,8 +1,8 @@
 {
-    "timestamp": 1743046022,
+    "timestamp": 1743050464,
     "gameVersion": {
-        "major": 25,
-        "minor": 3,
+        "major": 24,
+        "minor": 7,
         "patch": 1
     },
     "availableMaps": [

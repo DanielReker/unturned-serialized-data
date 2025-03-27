@@ -6552,8 +6552,7 @@
           "z": 10.25756
         },
         "Shape": 1,
-        "AssetGuid": "089f00d933e84600b83f2e15ecff9818",
-        "ShouldAffectVehiclePassengers": false
+        "AssetGuid": "089f00d933e84600b83f2e15ecff9818"
       }
     },
     {
@@ -9152,8 +9151,7 @@
           "z": 112.0829
         },
         "Shape": 0,
-        "AssetGuid": "5fb38f86e94c43dab888f928617a42dd",
-        "ShouldAffectVehiclePassengers": false
+        "AssetGuid": "5fb38f86e94c43dab888f928617a42dd"
       }
     },
     {
@@ -9182,8 +9180,7 @@
           "z": 11.14833
         },
         "Shape": 0,
-        "AssetGuid": "b47f4f21aeeb44b0a0e9923ce5c6d22f",
-        "ShouldAffectVehiclePassengers": false
+        "AssetGuid": "b47f4f21aeeb44b0a0e9923ce5c6d22f"
       }
     },
     {
