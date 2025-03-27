@@ -299,7 +299,7 @@
       "Calibers": "1",
       "Caliber_0": "21",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1193",
@@ -312,6 +312,14 @@
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "1005",
       "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Supply_0_AllowEmpty": "true",
+      "Blueprint_3_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -1088,6 +1096,17 @@
     "translation": {
       "Name": "Crystal #1"
     }
+  },
+  "0115361a857c416e93bec4b1b1d62cf3": {
+    "name": "Rio_Tank_Top_Yellow",
+    "path": "Bundles/Items/RioRemastered/Free/Tank_Top/Rio_Tank_Top_Yellow.asset",
+    "data": {
+      "GUID": "0115361a857c416e93bec4b1b1d62cf3",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "011b1ee7ca5f47178c4b28f76d76b92a": {
     "name": "FarmerWeapons",
@@ -3007,11 +3026,10 @@
         "MasterBundle": "core.masterbundle",
         "AssetPath": "Music/Washington_Loop.ogg"
       },
-      "Link_URL": "https://www.youtube.com/watch?v=Dahxcuufnn8",
       "Is_Loop": "true"
     },
     "translation": {
-      "Name": "The Bridge Where It Rains by staswalle"
+      "Name": "Washington Loading Screen Theme"
     }
   },
   "0308d447479b4a8ea21ccbea228d1993": {
@@ -3440,7 +3458,7 @@
       "Calibers": "1",
       "Caliber_0": "41",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -3448,7 +3466,15 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1483",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Empire Magazine",
@@ -4015,7 +4041,7 @@
       "Calibers": "1",
       "Caliber_0": "36",
       "Tracer": "51",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1193",
@@ -4024,6 +4050,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1384",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -5247,7 +5281,7 @@
       "Aim_Duration_Multiplier": "1.25",
       "Tracer": "48",
       "Speed": "0.9",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -5260,6 +5294,14 @@
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "125",
       "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Supply_0_AllowEmpty": "true",
+      "Blueprint_3_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -6375,6 +6417,17 @@
       "Name": "Birch Garage",
       "Description": "Birch garage. Beware of termites."
     }
+  },
+  "07674f73121949beb63239d476f99959": {
+    "name": "Rio_Soccer_Top_Brazil",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Brazil.asset",
+    "data": {
+      "GUID": "07674f73121949beb63239d476f99959",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "0782b08fa3ac4482981aa970e9d27121": {
     "name": "Silo_Grain_0",
@@ -8966,6 +9019,17 @@
     },
     "translation": null
   },
+  "0a4750eb5c6b4e3aa1446312441dfb96": {
+    "name": "Rio_Soccer_Top_Russia",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Russia.asset",
+    "data": {
+      "GUID": "0a4750eb5c6b4e3aa1446312441dfb96",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "0a4d769e049540109777d5fbadead9c5": {
     "name": "Semi_0",
     "path": "Bundles/Objects/Large/Vehicles/Semi_0/Semi_0.dat",
@@ -10030,6 +10094,17 @@
       "Description": "Tactical uniform pants."
     }
   },
+  "0b895bb678c4412aae97060aad8228f8": {
+    "name": "Rio_Soccer_Top_Italy",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Italy.asset",
+    "data": {
+      "GUID": "0b895bb678c4412aae97060aad8228f8",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "0b8a8ec794da4ef088dbcb0b2aa803c6": {
     "name": "PBS_SpringsBoxR",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Consolidator/PBS_M/R/PBS_SpringsBoxR/PBS_SpringsBoxR.dat",
@@ -10761,11 +10836,19 @@
       "Caliber_0": "30",
       "Tracer": "114",
       "Impact": "115",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1343",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -10791,7 +10874,7 @@
       "Calibers": "1",
       "Caliber_0": "21",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1193",
@@ -10804,6 +10887,14 @@
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "1003",
       "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Supply_0_AllowEmpty": "true",
+      "Blueprint_3_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -10899,11 +10990,19 @@
       "Object_Damage": "125",
       "Explosion": "136",
       "Explosive": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1443",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "285",
+      "Blueprint_1_Products": "5",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -11410,6 +11509,19 @@
     "translation": {
       "Message_0_Page_0": "A well oiled machine keeps working!"
     }
+  },
+  "0d29fbc3c0ca465e826ee6bf44749997": {
+    "name": "Rio_Mirrored_Green",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Mirrored_Green.asset",
+    "data": {
+      "GUID": "0d29fbc3c0ca465e826ee6bf44749997",
+      "Type": "Glasses",
+      "Hair": "",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "0d429d31c4534cdca445d444972ff9b9": {
     "name": "Elver_Raccoon",
@@ -13374,14 +13486,22 @@
       "Caliber_0": "15",
       "Tracer": "48",
       "Stuck": "10",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "42",
       "Blueprint_0_Supply_0_Amount": "3",
       "Blueprint_0_Supply_1_ID": "71",
       "Blueprint_0_Products": "3",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "42",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Pine Arrow",
@@ -18097,6 +18217,18 @@
     },
     "translation": null
   },
+  "13336deadc8542e78f988fa15e8b2821": {
+    "name": "Rio_Silly_Pan",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Silly_Pan.asset",
+    "data": {
+      "GUID": "13336deadc8542e78f988fa15e8b2821",
+      "Type": "Hat",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "133bc2f5e603498a81df3c20eb4007e3": {
     "name": "ATMNumber2-6",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/ATMObjects2/6/ATMNumber2-6/ATMNumber2-6.dat",
@@ -19169,6 +19301,18 @@
       "Table_10_Weight": "5",
       "Table_11_Asset_ID": "42",
       "Table_11_Weight": "5"
+    },
+    "translation": null
+  },
+  "140e054badd948d39f84d4b9580cd6bb": {
+    "name": "Rio_Sproutheads",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Sproutheads.asset",
+    "data": {
+      "GUID": "140e054badd948d39f84d4b9580cd6bb",
+      "Type": "Vest",
+      "Skin_Override": "Model_0",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
     },
     "translation": null
   },
@@ -21295,6 +21439,18 @@
     },
     "translation": null
   },
+  "16f004acd249422bbf1b6ef76f27963f": {
+    "name": "Dead Tree",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Dead Tree/Dead Tree.dat",
+    "data": {
+      "GUID": "16f004acd249422bbf1b6ef76f27963f",
+      "Type": "Large",
+      "ID": "51000"
+    },
+    "translation": {
+      "Name": "PBS Dead Tree"
+    }
+  },
   "16f179f07ae24cdc8878023d130ab760": {
     "name": "Kuwait_Assorted_Range_Specs",
     "path": "Bundles/Items/Kuwait2/Kuwait_Assorted_Range_Specs/Kuwait_Assorted_Range_Specs.dat",
@@ -22507,7 +22663,7 @@
       "Caliber_0": "33",
       "Pellets": "6",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "113",
@@ -22516,6 +22672,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1368",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -22901,6 +23065,17 @@
     "translation": {
       "Name": "Debris #1"
     }
+  },
+  "184f07ad04154718a427000fff1de4d4": {
+    "name": "Rio_Street_Jacket",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Street_Jacket.asset",
+    "data": {
+      "GUID": "184f07ad04154718a427000fff1de4d4",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "1856243e2fa540d1b49c33ffa984fe79": {
     "name": "Anvil_Mask_Arctic",
@@ -25214,6 +25389,17 @@
       "Name": "Limited Edition What Soda",
       "Description": "Water saturated with syrup and carbonated.<br><color=#bf1c1c>10 Health</color> | <color=#3298c8>40 Water</color> | <color=#dcb416>50 Energy</color><br><color=#dcb416>15 Seconds Energy</color>"
     }
+  },
+  "1b483c6697eb4bddb079da2a7ae382d8": {
+    "name": "Rio_Soccer_Top_Canada",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Canada.asset",
+    "data": {
+      "GUID": "1b483c6697eb4bddb079da2a7ae382d8",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "1b5aa8edf0534a959fa821aa1de59590": {
     "name": "Asclepius_Staff",
@@ -28142,6 +28328,17 @@
       "Name": "House #03"
     }
   },
+  "1e99699abee249cc8a860b11c0f3907e": {
+    "name": "Rio_Tank_Top_White",
+    "path": "Bundles/Items/RioRemastered/Free/Tank_Top/Rio_Tank_Top_White.asset",
+    "data": {
+      "GUID": "1e99699abee249cc8a860b11c0f3907e",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "1eb31b0aedeb4d468a0a98450d32dd63": {
     "name": "TrophyAward_Gold",
     "path": "Bundles/Skins/Patterns/TrophyAward_Gold/TrophyAward_Gold.dat",
@@ -29480,6 +29677,8 @@
       "Rarity": "Legendary",
       "Speed_Min": "-4",
       "Speed_Max": "8",
+      "Steer_Min": "24",
+      "Steer_Max": "48",
       "CrawlerTrackSteering_Torque": "6",
       "CrawlerTrackSteering_SidewaysFrictionMultiplier": "1.0",
       "CrawlerTrackSteering_MaxSpeedScale": "0.6",
@@ -30027,6 +30226,18 @@
       "Response_3": "How do dead drops work?",
       "Response_4": "Goodbye."
     }
+  },
+  "20477760f2a34f8dbcc8f434b47d09a7": {
+    "name": "Rio_SergeantSkull_Beret",
+    "path": "Bundles/Items/RioRemastered/Rio_SergeantSkull/Rio_SergeantSkull_Beret.asset",
+    "data": {
+      "GUID": "20477760f2a34f8dbcc8f434b47d09a7",
+      "Type": "Hat",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "2047f537c56442b5aabe535caf819bda": {
     "name": "Bluntforce",
@@ -30704,6 +30915,17 @@
     "translation": {
       "Name": "PBS Midnight Screen #7-0"
     }
+  },
+  "20f6f683bcb64d218c779c8e48c0b202": {
+    "name": "Rio_Tank_Top_Orange",
+    "path": "Bundles/Items/RioRemastered/Free/Tank_Top/Rio_Tank_Top_Orange.asset",
+    "data": {
+      "GUID": "20f6f683bcb64d218c779c8e48c0b202",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "20ff6405a6e442a3b12205de11f403e8": {
     "name": "Hospital_Bench",
@@ -32506,7 +32728,7 @@
       "Calibers": "1",
       "Caliber_0": "6",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -32514,7 +32736,15 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "108",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Ace Clip",
@@ -32981,7 +33211,7 @@
       "Calibers": "1",
       "Caliber_0": "34",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -32990,6 +33220,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1371",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -33873,6 +34111,7 @@
       "Size_X": "2",
       "Size_Y": "2",
       "Size_Z": "0.4",
+      "Beard": "",
       "Pro": ""
     },
     "translation": null
@@ -36072,6 +36311,17 @@
       "Name": "PBS ATM #1"
     }
   },
+  "27c869b1a08545dfb35c54608df0bf23": {
+    "name": "Rio_Vaulted",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Vaulted.asset",
+    "data": {
+      "GUID": "27c869b1a08545dfb35c54608df0bf23",
+      "Type": "Backpack",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "27cce22153404832968d24f436a3dbf9": {
     "name": "Washington_Military_America",
     "path": "Bundles/Spawns/Vehicles/Washington_Military_America/Washington_Military_America.dat",
@@ -36298,6 +36548,17 @@
       "Type": "Shirt",
       "Pro": "",
       "Ignore_Hand": ""
+    },
+    "translation": null
+  },
+  "283100fd9fa8447ebc56556d8d2453ad": {
+    "name": "Rio_Soccer_Bottom_Yellow",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Bottom_Yellow.asset",
+    "data": {
+      "GUID": "283100fd9fa8447ebc56556d8d2453ad",
+      "Type": "Pants",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
     },
     "translation": null
   },
@@ -37146,6 +37407,17 @@
     },
     "translation": null
   },
+  "291426626a6f4bdda15258cf8da73bfa": {
+    "name": "Rio_Anchor_Pick",
+    "path": "Bundles/Skins/Axe_Pick/Rio_Anchor_Pick/Rio_Anchor_Pick.dat",
+    "data": {
+      "GUID": "291426626a6f4bdda15258cf8da73bfa",
+      "Type": "Skin",
+      "ID": "328",
+      "Override_Meshes": "1"
+    },
+    "translation": null
+  },
   "291b50acaafa419fb50973eddddaae9e": {
     "name": "Jersey_Germany",
     "path": "Bundles/Items/Shirts/Jersey_Germany/Jersey_Germany.dat",
@@ -37453,11 +37725,19 @@
       "Caliber_0": "30",
       "Tracer": "108",
       "Impact": "109",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1340",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -38034,7 +38314,7 @@
       "Calibers": "1",
       "Caliber_0": "43",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -38042,7 +38322,15 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1487",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Luger Magazine",
@@ -38095,6 +38383,17 @@
       "Secondary_13": "296",
       "Secondary_14": "1004",
       "Secondary_15": "1201"
+    },
+    "translation": null
+  },
+  "29f9544f2a6648558f8baaaf04be63d4": {
+    "name": "Rio_Soccer_Top_Japan",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Japan.asset",
+    "data": {
+      "GUID": "29f9544f2a6648558f8baaaf04be63d4",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
     },
     "translation": null
   },
@@ -38737,6 +39036,19 @@
       "Description": "Tablecloth for your neck."
     }
   },
+  "2abe34b7ff1f40d88b6dbe08ef403735": {
+    "name": "Rio_MagicButterflies",
+    "path": "Bundles/Mythics/Rio_MagicButterflies/Rio_MagicButterflies.dat",
+    "data": {
+      "GUID": "2abe34b7ff1f40d88b6dbe08ef403735",
+      "Type": "Mythic",
+      "ID": "66",
+      "Body_Cosmetics_Use_System_Area": "true"
+    },
+    "translation": {
+      "Particle_Tag_Name": "Magic Butterflies"
+    }
+  },
   "2ac6b6ee6e49481796f0ba2e256a8556": {
     "name": "CC24_StrawberrySweater",
     "path": "Bundles/Items/ComboCrate2024/CC24_StrawberrySweater/CC24_StrawberrySweater.dat",
@@ -38764,6 +39076,19 @@
       "Secondary_1": "298"
     },
     "translation": null
+  },
+  "2addf77f8a4a4cc9ad28c54549c0f2ca": {
+    "name": "Rio_Toxic",
+    "path": "Bundles/Mythics/Rio_Toxic/Rio_Toxic.dat",
+    "data": {
+      "GUID": "2addf77f8a4a4cc9ad28c54549c0f2ca",
+      "Type": "Mythic",
+      "ID": "61",
+      "Body_Cosmetics_Use_System_Area": "true"
+    },
+    "translation": {
+      "Particle_Tag_Name": "Toxic"
+    }
   },
   "2ae113b262e3422da9adb0a8a6cef060": {
     "name": "FunkyGray",
@@ -38948,6 +39273,17 @@
     "translation": {
       "Name": "Dumpster #9"
     }
+  },
+  "2b20b15bf2354a5c9ba860266cfb5bdc": {
+    "name": "Rio_Crop_Blue",
+    "path": "Bundles/Items/RioRemastered/Free/Crop_Top/Rio_Crop_Blue.asset",
+    "data": {
+      "GUID": "2b20b15bf2354a5c9ba860266cfb5bdc",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "2b3a119efaf44c4ca4dc7cd0c52c214d": {
     "name": "Era",
@@ -40838,6 +41174,17 @@
       "Name": "PBS ATM Screen #1-9"
     }
   },
+  "2d7b4a76b1114f93914ad56bc6fab077": {
+    "name": "Rio_Bucket_Detonator",
+    "path": "Bundles/Skins/Detonator/Rio_Bucket_Detonator/Rio_Bucket_Detonator.dat",
+    "data": {
+      "GUID": "2d7b4a76b1114f93914ad56bc6fab077",
+      "Type": "Skin",
+      "ID": "330",
+      "Override_Meshes": "1"
+    },
+    "translation": null
+  },
   "2d7b9e35b87d40099e677a131cb84a78": {
     "name": "Dirtbike",
     "path": "Bundles/Spawns/Vehicles/Dirtbike/Dirtbike.dat",
@@ -42398,6 +42745,17 @@
       "GUID": "2ed8965a67174b22975663da75a93d5d",
       "Type": "Effect",
       "ID": "72"
+    },
+    "translation": null
+  },
+  "2ed969789f71434fbd60ee3d33cb0794": {
+    "name": "Rio_Soccer_Top_Sweden",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Sweden.asset",
+    "data": {
+      "GUID": "2ed969789f71434fbd60ee3d33cb0794",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
     },
     "translation": null
   },
@@ -44317,6 +44675,17 @@
       "Name": "Present #4"
     }
   },
+  "308ca4c2f3b24cd18db76edfb783e457": {
+    "name": "Rio_Soccer_Bottom_White",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Bottom_White.asset",
+    "data": {
+      "GUID": "308ca4c2f3b24cd18db76edfb783e457",
+      "Type": "Pants",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "30aab7ebf68344f7abbfacf463d5d8c9": {
     "name": "Coalition_Crew_0",
     "path": "Bundles/NPCs/Characters/Coalition_Crew_0/Asset.dat",
@@ -45624,6 +45993,19 @@
     },
     "translation": null
   },
+  "322665af37b44088981dc5b41615b7ad": {
+    "name": "Rio_Mirrored_Orange",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Mirrored_Orange.asset",
+    "data": {
+      "GUID": "322665af37b44088981dc5b41615b7ad",
+      "Type": "Glasses",
+      "Hair": "",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "3234dad657f44d1ba05a2a4fb23bce7b": {
     "name": "Singer_Pants",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Vendors/Singer_Pants/Asset.dat",
@@ -45923,6 +46305,19 @@
     },
     "translation": {
       "Name": "Tent #3"
+    }
+  },
+  "3240e3668e87489385e9d2353e810e76": {
+    "name": "Rio_PrettyIpe",
+    "path": "Bundles/Mythics/Rio_PrettyIpe/Rio_PrettyIpe.dat",
+    "data": {
+      "GUID": "3240e3668e87489385e9d2353e810e76",
+      "Type": "Mythic",
+      "ID": "59",
+      "Body_Cosmetics_Use_System_Area": "true"
+    },
+    "translation": {
+      "Particle_Tag_Name": "Pretty Ipê"
     }
   },
   "32489f4b774d4262876b3df9536197d6": {
@@ -46244,6 +46639,17 @@
       "GUID": "326fc5b8ba5a4c6c8ae184947f7dd715",
       "Type": "Effect",
       "ID": "22"
+    },
+    "translation": null
+  },
+  "327042dba2884567be0129f2e65ec42d": {
+    "name": "Rio_Soccer_Bottom_Blue",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Bottom_Blue.asset",
+    "data": {
+      "GUID": "327042dba2884567be0129f2e65ec42d",
+      "Type": "Pants",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
     },
     "translation": null
   },
@@ -49145,7 +49551,7 @@
       "Calibers": "1",
       "Caliber_0": "27",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -49154,6 +49560,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1042",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -49456,6 +49870,16 @@
       "Tables": "1",
       "Table_0_Asset_ID": "54",
       "Table_0_Weight": "10"
+    },
+    "translation": null
+  },
+  "3501341aef5e4afa8dbb0577032add8c": {
+    "name": "Rio_Spicy_Bat",
+    "path": "Bundles/Skins/Bat/Rio_Spicy_Bat/Rio_Spicy_Bat.dat",
+    "data": {
+      "GUID": "3501341aef5e4afa8dbb0577032add8c",
+      "Type": "Skin",
+      "ID": "326"
     },
     "translation": null
   },
@@ -50138,6 +50562,17 @@
       "GUID": "35bb8e79961a45c08e71e304202a6ad8",
       "Type": "Effect",
       "ID": "55"
+    },
+    "translation": null
+  },
+  "35c01ed20133476286c0daa84e006f82": {
+    "name": "Rio_Sporty_Shoes",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Sporty_Shoes.asset",
+    "data": {
+      "GUID": "35c01ed20133476286c0daa84e006f82",
+      "Type": "Pants",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
     },
     "translation": null
   },
@@ -56413,6 +56848,43 @@
       "Description": "Rifle is fine. Comes with magazines."
     }
   },
+  "3cd2709abb21497681ba43631e169543": {
+    "name": "Rio_Box",
+    "path": "Bundles/Items/Boxes/Rio_Box/Rio_Box.dat",
+    "data": {
+      "GUID": "3cd2709abb21497681ba43631e169543",
+      "Type": "Box",
+      "Size_X": "1",
+      "Size_Y": "1",
+      "Generate": "21082",
+      "Probability_Model": "Equalized",
+      "Contains_Bonus_Items": "True",
+      "Drops": "21",
+      "Drop_0": "-1",
+      "Drop_1": "107601",
+      "Drop_2": "107701",
+      "Drop_3": "107801",
+      "Drop_4": "107901",
+      "Drop_5": "108001",
+      "Drop_6": "108101",
+      "Drop_7": "108201",
+      "Drop_8": "108301",
+      "Drop_9": "108401",
+      "Drop_10": "108501",
+      "Drop_11": "108601",
+      "Drop_12": "108701",
+      "Drop_13": "108801",
+      "Drop_14": "108901",
+      "Drop_15": "109001",
+      "Drop_16": "109101",
+      "Drop_17": "109201",
+      "Drop_18": "109301",
+      "Drop_19": "109401",
+      "Drop_20": "109501",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "3cd9fafd4a724c90968a5d6e7789f3d2": {
     "name": "Cali_Mercenary_Bottom",
     "path": "Bundles/Items/Outfits/Cali_Mercenary/Cali_Mercenary_Bottom/Cali_Mercenary_Bottom.dat",
@@ -57410,6 +57882,17 @@
     "translation": {
       "Name": "PBS Boulder 3"
     }
+  },
+  "3e320cc71cdf4147a8ab852345df5a93": {
+    "name": "Rio_Crop_Purple",
+    "path": "Bundles/Items/RioRemastered/Free/Crop_Top/Rio_Crop_Purple.asset",
+    "data": {
+      "GUID": "3e320cc71cdf4147a8ab852345df5a93",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "3e3c0c6acf26448b81d68da505d95765": {
     "name": "Captain_Welcome",
@@ -58748,6 +59231,17 @@
       "Name": "Ensign Coalition Top",
       "Description": "Coalition Ensign rank uniform shirt."
     }
+  },
+  "3f97c04cdee04076a1a6b10f41f648a7": {
+    "name": "Rio_Soccer_Top_Poland",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Poland.asset",
+    "data": {
+      "GUID": "3f97c04cdee04076a1a6b10f41f648a7",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "3fa28910c030448fb5f8f2cebc121d59": {
     "name": "Food_Bars",
@@ -61140,7 +61634,7 @@
       "Calibers": "1",
       "Caliber_0": "1",
       "Tracer": "48",
-      "Blueprints": "4",
+      "Blueprints": "5",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -61157,6 +61651,14 @@
       "Blueprint_3_Supplies": "1",
       "Blueprint_3_Supply_0_ID": "1490",
       "Blueprint_3_Build": "30",
+      "Blueprint_4_Type": "Tool",
+      "Blueprint_4_Supplies": "1",
+      "Blueprint_4_Supply_0_ID": "this",
+      "Blueprint_4_Supply_0_AllowEmpty": "true",
+      "Blueprint_4_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_4_Product": "67",
+      "Blueprint_4_Products": "1",
+      "Blueprint_4_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -61379,7 +61881,7 @@
       "Calibers": "1",
       "Caliber_0": "7",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -61388,6 +61890,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "111",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -66667,6 +67177,16 @@
       "Name": "PBS Midnight Screen #3-3"
     }
   },
+  "473c2aa5c9564fa6b5cecebbf8893f11": {
+    "name": "InstantCamera",
+    "path": "Bundles/Items/Vests/InstantCamera/InstantCamera.dat",
+    "data": {
+      "GUID": "473c2aa5c9564fa6b5cecebbf8893f11",
+      "Type": "Vest",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "473f4b597ec64a099a930ad77dcf14a2": {
     "name": "Bomb_5",
     "path": "Bundles/Effects/Explosions/Bomb_5/Bomb_5.dat",
@@ -67111,6 +67631,17 @@
       "Name": "50 Grubby",
       "Description": "Worth ¤50 GRB."
     }
+  },
+  "47b8e69d5de644b4bb36d8b8af75981c": {
+    "name": "Rio_Pearl_Necklace",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Pearl_Necklace.asset",
+    "data": {
+      "GUID": "47b8e69d5de644b4bb36d8b8af75981c",
+      "Type": "Vest",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "47bc4a9721534efdb4538c2828ce4233": {
     "name": "Carrot",
@@ -67717,6 +68248,17 @@
       "ID": "154",
       "TargetVehicle": "c3617378ce484cdea50d6b3b6ee105aa",
       "LoadPaintColor": "#9a2525"
+    },
+    "translation": null
+  },
+  "4848401b6119420cbba1ecd85744d136": {
+    "name": "Rio_Crop_Red",
+    "path": "Bundles/Items/RioRemastered/Free/Crop_Top/Rio_Crop_Red.asset",
+    "data": {
+      "GUID": "4848401b6119420cbba1ecd85744d136",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
     },
     "translation": null
   },
@@ -71676,6 +72218,17 @@
       "Name": "Jade Berry Seed",
       "Description": "Ready for planting and eating."
     }
+  },
+  "4c6b565ca81747338556270bee05e4cd": {
+    "name": "Rio_Tank_Top_Red",
+    "path": "Bundles/Items/RioRemastered/Free/Tank_Top/Rio_Tank_Top_Red.asset",
+    "data": {
+      "GUID": "4c6b565ca81747338556270bee05e4cd",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "4c71ef12e88741aea23c5bca9d355b14": {
     "name": "DI4",
@@ -76247,7 +76800,7 @@
       "Calibers": "1",
       "Caliber_0": "31",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -76256,6 +76809,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1361",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -80094,6 +80655,17 @@
       "Description": "Warm weather tee."
     }
   },
+  "5564e815dcd947d7b2c6951d724d9df6": {
+    "name": "Rio_Crop_Green",
+    "path": "Bundles/Items/RioRemastered/Free/Crop_Top/Rio_Crop_Green.asset",
+    "data": {
+      "GUID": "5564e815dcd947d7b2c6951d724d9df6",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "556b3e55c33e42d1b895a79e31670779": {
     "name": "Research",
     "path": "Bundles/Spawns/Animals/Research/Research.dat",
@@ -83487,6 +84059,18 @@
       "Name": "PBS Ice Boulder 3"
     }
   },
+  "5956e0e0f59d43208f7ce99394acd571": {
+    "name": "Rio_Jaguar_Mask",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Jaguar_Mask.asset",
+    "data": {
+      "GUID": "5956e0e0f59d43208f7ce99394acd571",
+      "Type": "Mask",
+      "Hair": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "595a04bb76d84ed2a95710586e05907e": {
     "name": "Magic_Bottom",
     "path": "Bundles/Items/Pants/Magic_Bottom/Magic_Bottom.dat",
@@ -84081,6 +84665,19 @@
       "Secondary_10": "148",
       "Secondary_11": "151",
       "Secondary_12": "1004"
+    },
+    "translation": null
+  },
+  "59b22474f1184ac6b770f5ea85809353": {
+    "name": "Rio_Starry_Glasses",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Starry_Glasses.asset",
+    "data": {
+      "GUID": "59b22474f1184ac6b770f5ea85809353",
+      "Type": "Glasses",
+      "Hair": "",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
     },
     "translation": null
   },
@@ -85051,6 +85648,17 @@
     "translation": {
       "Name": "PBS Graffiti Nosey"
     }
+  },
+  "5abacfe2b2884370a0c9899ab68aed11": {
+    "name": "Rio_Crop_Yellow",
+    "path": "Bundles/Items/RioRemastered/Free/Crop_Top/Rio_Crop_Yellow.asset",
+    "data": {
+      "GUID": "5abacfe2b2884370a0c9899ab68aed11",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "5abb1d913ea84107969b0143cddbcb39": {
     "name": "HW2_Eye",
@@ -86965,6 +87573,19 @@
     },
     "translation": null
   },
+  "5cdaf43a559d49468d65e137ffaea30b": {
+    "name": "Rio_Chewing_Gum",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Chewing_Gum.asset",
+    "data": {
+      "GUID": "5cdaf43a559d49468d65e137ffaea30b",
+      "Type": "Mask",
+      "Hair": "",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "5ce08f11557744e497af7ea7fd0adc22": {
     "name": "Chuck_Guns_Long",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Vendors/Chuck/Chuck_Guns_Long/Asset.dat",
@@ -87586,6 +88207,17 @@
       "Table_1_Weight": "10",
       "Table_2_Asset_ID": "340",
       "Table_2_Weight": "10"
+    },
+    "translation": null
+  },
+  "5d4ea9bcab034a9f92c2f8315e4a55f0": {
+    "name": "Rio_Crop_Orange",
+    "path": "Bundles/Items/RioRemastered/Free/Crop_Top/Rio_Crop_Orange.asset",
+    "data": {
+      "GUID": "5d4ea9bcab034a9f92c2f8315e4a55f0",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
     },
     "translation": null
   },
@@ -88375,7 +89007,7 @@
       "Object_Damage": "40",
       "Explosion": "53",
       "Explosive": "",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1193",
@@ -88387,11 +89019,19 @@
       "Blueprint_2_Type": "Ammo",
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "1192",
-      "Blueprint_2_Build": "30"
+      "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Supply_0_AllowEmpty": "true",
+      "Blueprint_3_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27"
     },
     "translation": {
       "Name": "HMG Box",
-      "Description": "Low caliber military grade <color=epic>HMG</color> box. Designed to fit 50 rounds."
+      "Description": "Military grade <color=epic>HMG</color> box. Designed to fit 50 rounds."
     }
   },
   "5df19bcaab414101b559e2a002c1cc92": {
@@ -90538,6 +91178,19 @@
     "translation": {
       "Name": "Barbecue #2"
     }
+  },
+  "5ff39cd3605a464d9b9784f80ee8c141": {
+    "name": "Rio_Mirrored_Blue",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Mirrored_Blue.asset",
+    "data": {
+      "GUID": "5ff39cd3605a464d9b9784f80ee8c141",
+      "Type": "Glasses",
+      "Hair": "",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "5ff4bcf752554990bf06e103b996cef2": {
     "name": "Rope",
@@ -95952,6 +96605,18 @@
       "Description": "Birch doorframe. Beware of termites."
     }
   },
+  "657714cead8c49329667c241a0d32ca5": {
+    "name": "Rio_Bionic",
+    "path": "Bundles/Skins/Sledgehammer/Rio_Bionic/Rio_Bionic.dat",
+    "data": {
+      "GUID": "657714cead8c49329667c241a0d32ca5",
+      "Type": "Skin",
+      "ID": "327",
+      "Override_Meshes": "2",
+      "SpecialAudioOverrideDef": "Skins/Sledgehammer/Rio_Bionic/HitAudio.asset"
+    },
+    "translation": null
+  },
   "657e026b19cb41e1a440cbcbbe354012": {
     "name": "LightSnow",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Assets/Weather/LightSnow.asset",
@@ -96588,7 +97253,8 @@
     "data": {
       "GUID": "664a9e1370da49d68fa5d81611d0368b",
       "Type": "Skin",
-      "ID": "197"
+      "ID": "197",
+      "Hide_Magazine": "true"
     },
     "translation": null
   },
@@ -99287,6 +99953,8 @@
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
       "Blueprint_0_Supply_0_Amount": "1",
       "Blueprint_0_Product": "73",
       "Blueprint_0_Products": "2",
@@ -99722,6 +100390,17 @@
     "translation": {
       "Message_0_Page_0": "Thanks! See you soon!"
     }
+  },
+  "6929c83a4b45475e858943ac463084e0": {
+    "name": "Rio_Tank_Top_Blue",
+    "path": "Bundles/Items/RioRemastered/Free/Tank_Top/Rio_Tank_Top_Blue.asset",
+    "data": {
+      "GUID": "6929c83a4b45475e858943ac463084e0",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "692b634a42c64dcb81d7e0f9c999316f": {
     "name": "LuBu",
@@ -101242,7 +101921,7 @@
       "Calibers": "1",
       "Caliber_0": "19",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1192",
@@ -101250,7 +101929,15 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "489",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Desert Falcon Magazine",
@@ -103268,6 +103955,17 @@
       "Description": "A box of springs."
     }
   },
+  "6cdde03c40834c8fb1753f232a167705": {
+    "name": "Rio_Warhead_Billy",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Warhead_Billy.asset",
+    "data": {
+      "GUID": "6cdde03c40834c8fb1753f232a167705",
+      "Type": "Mask",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "6ce99109b6e94ddeb5ef925a2de6730a": {
     "name": "Computer_2",
     "path": "Bundles/Objects/Medium/Business/Computer_2/Computer_2.dat",
@@ -104159,6 +104857,19 @@
     },
     "translation": {
       "Name": "Cooler Beach #1"
+    }
+  },
+  "6d8fcb9ec9844dd2a8a31db0dc026422": {
+    "name": "Rio_ThornyRoses",
+    "path": "Bundles/Mythics/Rio_ThornyRoses/Rio_ThornyRoses.dat",
+    "data": {
+      "GUID": "6d8fcb9ec9844dd2a8a31db0dc026422",
+      "Type": "Mythic",
+      "ID": "60",
+      "Body_Cosmetics_Use_System_Area": "true"
+    },
+    "translation": {
+      "Particle_Tag_Name": "Thorny Roses"
     }
   },
   "6d90a0cc6db9406a8e6daa5b9fe7947b": {
@@ -105161,11 +105872,19 @@
       "Object_Damage": "15",
       "Explosion": "53",
       "Explosive": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1200",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -106739,11 +107458,19 @@
       "Caliber_0": "1",
       "Tracer": "49",
       "Spread": "0.85",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1177",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -108987,6 +109714,7 @@
       "Rubble_Reset": "300",
       "Rubble_Health": "275",
       "Rubble_Effect": "73",
+      "Rubble_All_Sections_Destroyed_Alert_Radius": "24",
       "Has_Clip_Prefab": "false"
     },
     "translation": {
@@ -110782,7 +111510,7 @@
       "Calibers": "1",
       "Caliber_0": "25",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -110790,7 +111518,15 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1029",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Viper Magazine",
@@ -111793,7 +112529,7 @@
       "Calibers": "1",
       "Caliber_0": "28",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1166",
@@ -111803,6 +112539,14 @@
       "Blueprint_1_Supply_0_ID": "71",
       "Blueprint_1_Supply_0_Amount": "4",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -112574,6 +113318,17 @@
       "Size_X": "3",
       "Size_Y": "2",
       "Size_Z": "0.6",
+      "Pro": ""
+    },
+    "translation": null
+  },
+  "77b367ff0e5541e78e5839a36a2af659": {
+    "name": "Rio_Soccer_Top_Spain",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Spain.asset",
+    "data": {
+      "GUID": "77b367ff0e5541e78e5839a36a2af659",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
       "Pro": ""
     },
     "translation": null
@@ -113952,6 +114707,17 @@
       "Name": "PBS Midnight Screen #4-1"
     }
   },
+  "78401364e9ed46f481d91bd17394c17d": {
+    "name": "Rio_Sporty_Hoodie",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Sporty_Hoodie.asset",
+    "data": {
+      "GUID": "78401364e9ed46f481d91bd17394c17d",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "7851316b777b4bbfb19bfaffac4c200d": {
     "name": "Wardrobe_Birch",
     "path": "Bundles/Items/Barricades/Wardrobe_Birch/Wardrobe_Birch.dat",
@@ -114251,7 +115017,7 @@
       "Calibers": "1",
       "Caliber_0": "40",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -114259,7 +115025,15 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1479",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Maschinengewehr Magazine",
@@ -117623,11 +118397,19 @@
       "Caliber_0": "30",
       "Tracer": "106",
       "Impact": "107",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1339",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -118098,6 +118880,17 @@
     "translation": {
       "Name": "PBS Sign Speed 100"
     }
+  },
+  "7da565bcfa524b0c8d62794c92c315c6": {
+    "name": "Rio_Horde_Control",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Horde_Control.asset",
+    "data": {
+      "GUID": "7da565bcfa524b0c8d62794c92c315c6",
+      "Type": "Backpack",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "7dadef4f145745b1a2f7fadb66e8dd0b": {
     "name": "PBS_Arthur_VendComp",
@@ -120937,11 +121730,19 @@
       "Caliber_0": "8",
       "Pellets": "6",
       "Tracer": "48",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "113",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -120977,14 +121778,22 @@
       "Caliber_0": "15",
       "Tracer": "48",
       "Stuck": "20",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "40",
       "Blueprint_0_Supply_0_Amount": "3",
       "Blueprint_0_Supply_1_ID": "71",
       "Blueprint_0_Products": "3",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "40",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Maple Arrow",
@@ -121639,6 +122448,19 @@
       "Name": "Forest Humvee"
     }
   },
+  "812ed152e04844389eece16686f2df35": {
+    "name": "Rio_Froggy_Hat",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Froggy_Hat.asset",
+    "data": {
+      "GUID": "812ed152e04844389eece16686f2df35",
+      "Type": "Hat",
+      "Hair_Override": "Model_2",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "81389fcb3a6c49efa36e8a888b206abd": {
     "name": "Planter",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Planter/Planter.dat",
@@ -122171,6 +122993,17 @@
       "ID": "1631",
       "Size_X": "1",
       "Size_Y": "2",
+      "Pro": ""
+    },
+    "translation": null
+  },
+  "81ba94ee185d4c5d93c20831e155e0d2": {
+    "name": "Rio_Soccer_Top_Korea",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Korea.asset",
+    "data": {
+      "GUID": "81ba94ee185d4c5d93c20831e155e0d2",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
       "Pro": ""
     },
     "translation": null
@@ -123829,6 +124662,18 @@
     },
     "translation": null
   },
+  "83789fb2a65448febb42137b887e757b": {
+    "name": "Rio_DizzyBirds",
+    "path": "Bundles/Mythics/Rio_DizzyBirds/Rio_DizzyBirds.dat",
+    "data": {
+      "GUID": "83789fb2a65448febb42137b887e757b",
+      "Type": "Mythic",
+      "ID": "63"
+    },
+    "translation": {
+      "Particle_Tag_Name": "Dizzy Birds"
+    }
+  },
   "83842f81003349a995b8c262938ad460": {
     "name": "PEI Arena_Arena_Ghillie_Hood",
     "path": "Bundles/Spawns/Items/PEI Arena_Arena_Ghillie_Hood/PEI Arena_Arena_Ghillie_Hood.dat",
@@ -123860,6 +124705,19 @@
     "translation": {
       "Name": "Wardrobe #1"
     }
+  },
+  "8396fd41690d4e76acd21cecee6dfcb6": {
+    "name": "Rio_Paper_Plane",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Paper_Plane.asset",
+    "data": {
+      "GUID": "8396fd41690d4e76acd21cecee6dfcb6",
+      "Type": "Hat",
+      "Hair": "",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "83a149230e9c4a77b1538b3b276abcc7": {
     "name": "Seed_Corn",
@@ -125883,6 +126741,17 @@
       "Description": "Preboiled in carton.<br><color=#ab8016>30 Food</color> | <color=#3298c8>20 Water</color><br>"
     }
   },
+  "85fb28449a8349eeb095ebda2ba3af10": {
+    "name": "Rio_Tank_Top_Purple",
+    "path": "Bundles/Items/RioRemastered/Free/Tank_Top/Rio_Tank_Top_Purple.asset",
+    "data": {
+      "GUID": "85fb28449a8349eeb095ebda2ba3af10",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "85fcf2685966474db7ee75c763a6c264": {
     "name": "CC24_ColorfulHat",
     "path": "Bundles/Items/ComboCrate2024/CC24_ColorfulHat/CC24_ColorfulHat.dat",
@@ -127039,7 +127908,7 @@
       "Tracer": "48",
       "Speed": "0.85",
       "Aim_Duration_Multiplier": "1.25",
-      "Blueprints": "4",
+      "Blueprints": "5",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -127056,6 +127925,14 @@
       "Blueprint_3_Supplies": "1",
       "Blueprint_3_Supply_0_ID": "1490",
       "Blueprint_3_Build": "30",
+      "Blueprint_4_Type": "Tool",
+      "Blueprint_4_Supplies": "1",
+      "Blueprint_4_Supply_0_ID": "this",
+      "Blueprint_4_Supply_0_AllowEmpty": "true",
+      "Blueprint_4_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_4_Product": "67",
+      "Blueprint_4_Products": "1",
+      "Blueprint_4_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -128745,6 +129622,17 @@
       "Name": "Metal Ramp",
       "Description": "Metal ramp. Beware of robotic termites."
     }
+  },
+  "8901f9406f8d4617b964ca993bcbd431": {
+    "name": "Rio_Soccer_Bottom_Black",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Bottom_Black.asset",
+    "data": {
+      "GUID": "8901f9406f8d4617b964ca993bcbd431",
+      "Type": "Pants",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "8908bffadc7246d0a93a94b0cf089358": {
     "name": "Worksite",
@@ -130691,6 +131579,18 @@
       "Name": "PBS House 8"
     }
   },
+  "8b0741eeb0b847e7947d6eb877708a9a": {
+    "name": "Rio_DizzyStars",
+    "path": "Bundles/Mythics/Rio_DizzyStars/Rio_DizzyStars.dat",
+    "data": {
+      "GUID": "8b0741eeb0b847e7947d6eb877708a9a",
+      "Type": "Mythic",
+      "ID": "64"
+    },
+    "translation": {
+      "Particle_Tag_Name": "Dizzy Stars"
+    }
+  },
   "8b13c5683de049ff88110c7a06390db8": {
     "name": "Bush_Teal",
     "path": "Bundles/Trees/Bush_Teal/Bush_Teal.dat",
@@ -130748,11 +131648,19 @@
       "Caliber_0": "30",
       "Tracer": "110",
       "Impact": "111",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1341",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -130823,6 +131731,19 @@
       }
     },
     "translation": null
+  },
+  "8b345c6d9c514b82ad3370c8c80ec717": {
+    "name": "Rio_GoldenButterflies",
+    "path": "Bundles/Mythics/Rio_GoldenButterflies/Rio_GoldenButterflies.dat",
+    "data": {
+      "GUID": "8b345c6d9c514b82ad3370c8c80ec717",
+      "Type": "Mythic",
+      "ID": "65",
+      "Body_Cosmetics_Use_System_Area": "true"
+    },
+    "translation": {
+      "Particle_Tag_Name": "Golden Butterflies"
+    }
   },
   "8b4c6b6c994b4f5eb825b3a496dc8aac": {
     "name": "Camp_Arctic_Pants",
@@ -132374,6 +133295,17 @@
       "Name": "Civilian Nightvision",
       "Description": "Brightness enhancing civilian grade goggles."
     }
+  },
+  "8c82b795b9e5432cbdbb805a0dd349da": {
+    "name": "Rio_Crop_White",
+    "path": "Bundles/Items/RioRemastered/Free/Crop_Top/Rio_Crop_White.asset",
+    "data": {
+      "GUID": "8c82b795b9e5432cbdbb805a0dd349da",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "8c8abae1961341238012c519f148ffaf": {
     "name": "Pumpkin_0",
@@ -134592,7 +135524,7 @@
       "Calibers": "1",
       "Caliber_0": "18",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -134601,6 +135533,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "485",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -139016,7 +139956,8 @@
       "Tactical": "",
       "Grip": "",
       "Barrel": "",
-      "Magazine": ""
+      "Magazine": "",
+      "Hide_Magazine": "true"
     },
     "translation": null
   },
@@ -139047,7 +139988,7 @@
       "Calibers": "1",
       "Caliber_0": "5",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -139055,7 +139996,15 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "103",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Schofield Clip",
@@ -140764,11 +141713,19 @@
       "Caliber_0": "30",
       "Tracer": "112",
       "Impact": "113",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1342",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -142877,7 +143834,7 @@
       "Calibers": "1",
       "Caliber_0": "4",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -142889,7 +143846,15 @@
       "Blueprint_2_Type": "Ammo",
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "100",
-      "Blueprint_2_Build": "30"
+      "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Supply_0_AllowEmpty": "true",
+      "Blueprint_3_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27"
     },
     "translation": {
       "Name": "Cobra Box",
@@ -146421,6 +147386,17 @@
       "Description": "Wooden upper rampart. Beware of termites."
     }
   },
+  "9b104ae712394554bd0d3b491d4fc9f8": {
+    "name": "Rio_Chaos_Pendant",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Chaos_Pendant.asset",
+    "data": {
+      "GUID": "9b104ae712394554bd0d3b491d4fc9f8",
+      "Type": "Vest",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "9b1332a9dca3402eb777a2d07d8219b2": {
     "name": "12GEXP",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/12GEXP/12GEXP.dat",
@@ -147025,6 +148001,17 @@
       "Name": "PBS Glutton Screen #4-4"
     }
   },
+  "9bece894f52e448eb798f6b62b16af34": {
+    "name": "Rio_Soccer_Top_Uruguay",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Uruguay.asset",
+    "data": {
+      "GUID": "9bece894f52e448eb798f6b62b16af34",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "9bf1981e59f94199aa5c93eee5968a1c": {
     "name": "Military_America_Jeep",
     "path": "Bundles/Spawns/Vehicles/Military_America_Jeep/Military_America_Jeep.dat",
@@ -147405,11 +148392,19 @@
       "Caliber_0": "16",
       "Pellets": "8",
       "Tracer": "48",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "381",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -153955,6 +154950,17 @@
     },
     "translation": null
   },
+  "a44db08b4f074b08a24f9a45ff2c9abb": {
+    "name": "Rio_Soccer_Top_Ukraine",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Ukraine.asset",
+    "data": {
+      "GUID": "a44db08b4f074b08a24f9a45ff2c9abb",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "a454c5c73cb14796acc9419effe5ae34": {
     "name": "PlaneCannon",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Weapons/Guns/PlaneCannon/PlaneCannon.dat",
@@ -155110,6 +156116,19 @@
     "translation": {
       "Name": "PBS Plushie Honkler"
     }
+  },
+  "a566cde016624e5fa4c5714de30fefb3": {
+    "name": "Rio_Winged_Headband",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Winged_Headband.asset",
+    "data": {
+      "GUID": "a566cde016624e5fa4c5714de30fefb3",
+      "Type": "Hat",
+      "Hair": "",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "a56fc1c3993a4d1ea8fdaa158d9afb47": {
     "name": "PBS_Taylor_Welcome",
@@ -156404,6 +157423,17 @@
     },
     "translation": null
   },
+  "a648d1ef38f5469aba2bae0b15e3e349": {
+    "name": "Rio_Soccer_Top_Germany",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Germany.asset",
+    "data": {
+      "GUID": "a648d1ef38f5469aba2bae0b15e3e349",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "a64a9a24af3e4613afb715c8e1fd6d62": {
     "name": "Clint",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/NPC/Clint/Clint.dat",
@@ -156783,6 +157813,9 @@
       "Size_Y": "2",
       "Size_Z": "0.4",
       "Barrel": "1338",
+      "Magazine": "4ad809bed5ba4422a6eade724d2f1427",
+      "Ammo_Min": "15",
+      "Ammo_Max": "30",
       "Hook_Sight": "",
       "Hook_Tactical": "",
       "Hook_Grip": "",
@@ -157107,6 +158140,19 @@
       "Name": "Birch Floor",
       "Description": "Birch floor. Beware of termites."
     }
+  },
+  "a7673061626d49e6a484708e52c0f9fd": {
+    "name": "Rio_Catphones",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Catphones.asset",
+    "data": {
+      "GUID": "a7673061626d49e6a484708e52c0f9fd",
+      "Type": "Hat",
+      "Hair": "",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "a76975ae022b439b9ee0e52c28bfd7d4": {
     "name": "Plastic_Shelter_Blue",
@@ -158379,7 +159425,7 @@
       "Calibers": "1",
       "Caliber_0": "22",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -158388,6 +159434,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1020",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -158488,6 +159542,17 @@
     "translation": {
       "Name": "PBS ADATS"
     }
+  },
+  "a89a377ec8db4a99861692e169907310": {
+    "name": "Rio_Soccer_Top_Croatia",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Croatia.asset",
+    "data": {
+      "GUID": "a89a377ec8db4a99861692e169907310",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "a89e4c12cfbd4817acf7f0789013fb95": {
     "name": "Destroyed_Vehicle_Default",
@@ -160451,6 +161516,17 @@
       "Description": "Metal garage. Beware of robotic termites."
     }
   },
+  "aa7ea4df84804efeb16c10d557ee850b": {
+    "name": "Rio_Crop_Black",
+    "path": "Bundles/Items/RioRemastered/Free/Crop_Top/Rio_Crop_Black.asset",
+    "data": {
+      "GUID": "aa7ea4df84804efeb16c10d557ee850b",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "aa7fd5bc5e634a0c846770a28ff6cd65": {
     "name": "Container_0",
     "path": "Bundles/Objects/Large/Business/Container_0/Container_0.dat",
@@ -160740,6 +161816,19 @@
       "Table_13_Weight": "19",
       "Table_14_Spawn_ID": "276",
       "Table_14_Weight": "26"
+    },
+    "translation": null
+  },
+  "aad8d1aaad84408790c0f9d40b150ec7": {
+    "name": "Rio_Heart_Glasses",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Heart_Glasses.asset",
+    "data": {
+      "GUID": "aad8d1aaad84408790c0f9d40b150ec7",
+      "Type": "Glasses",
+      "Hair": "",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
     },
     "translation": null
   },
@@ -161497,7 +162586,7 @@
       "Calibers": "1",
       "Caliber_0": "39",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -161505,7 +162594,15 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1449",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Scalar Magazine",
@@ -162196,6 +163293,17 @@
       "Name": "Ghillie Hood",
       "Description": "Military foliage stealth hood."
     }
+  },
+  "accea1f6929345d0881853dfbb8cd4bd": {
+    "name": "Rio_Soccer_Bottom_Green",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Bottom_Green.asset",
+    "data": {
+      "GUID": "accea1f6929345d0881853dfbb8cd4bd",
+      "Type": "Pants",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "acd28d2ae45d402a97e3cb9d344e6777": {
     "name": "Jetski_Green",
@@ -163873,6 +164981,17 @@
       "Name": "Survivor Bottom",
       "Description": "Some torn up shorts.  Not very useful."
     }
+  },
+  "ae3fa2d24b1f40899c437d4f40ff21b2": {
+    "name": "Rio_Brazil_Scarf",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Brazil_Scarf.asset",
+    "data": {
+      "GUID": "ae3fa2d24b1f40899c437d4f40ff21b2",
+      "Type": "Vest",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "ae404a32ae1941588d9c11c33c254800": {
     "name": "Table_Sqr_Maple",
@@ -170666,6 +171785,21 @@
     },
     "translation": null
   },
+  "b51acc861c0d4cfda4243f5fbd7c4fcc": {
+    "name": "Rio_SergeantSkull_Outfit",
+    "path": "Bundles/Items/RioRemastered/Rio_SergeantSkull/Rio_SergeantSkull_Outfit.asset",
+    "data": {
+      "GUID": "b51acc861c0d4cfda4243f5fbd7c4fcc",
+      "Type": "SDG.Unturned.OutfitAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Items": [
+        "20477760f2a34f8dbcc8f434b47d09a7",
+        "d84ca8e97c8a48e5ab6b6bf0306be0ec",
+        "e4e9c1c53b5841728eb65e8da3686ed5",
+        "e4247ff8c3b54d6ab03db784dda524ae"
+      ]
+    },
+    "translation": null
+  },
   "b51b4d6f720640b88bd1459f0739572d": {
     "name": "Sandwich_Cheese",
     "path": "Bundles/Items/Food/Sandwich_Cheese/Sandwich_Cheese.dat",
@@ -170992,7 +172126,7 @@
       "Calibers": "1",
       "Caliber_0": "23",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -171000,7 +172134,15 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1022",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Avenger Magazine",
@@ -171217,12 +172359,20 @@
       "Caliber_0": "15",
       "Tracer": "48",
       "Stuck": "5",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Repair",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "67",
       "Blueprint_0_Supply_0_Amount": "1",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Arrow",
@@ -178320,6 +179470,17 @@
     },
     "translation": null
   },
+  "bcf295d2b60042cb8aada1f5c633c39c": {
+    "name": "Rio_Stop_Pan",
+    "path": "Bundles/Skins/Pan/Rio_Stop_Pan/Rio_Stop_Pan.dat",
+    "data": {
+      "GUID": "bcf295d2b60042cb8aada1f5c633c39c",
+      "Type": "Skin",
+      "ID": "329",
+      "Override_Meshes": "1"
+    },
+    "translation": null
+  },
   "bcfcfde086ed49fc98525a70c7a50c5d": {
     "name": "Dawn",
     "path": "Bundles/Skins/Patterns/Dawn/Dawn.dat",
@@ -178451,6 +179612,18 @@
     "translation": {
       "Name": "Arctic Ghillie Hood",
       "Description": "Military snow stealth hood."
+    }
+  },
+  "bd0c88c5503d410198f6f4a0899265ae": {
+    "name": "Shutterbug",
+    "path": "Bundles/Mythics/Shutterbug/Shutterbug.dat",
+    "data": {
+      "GUID": "bd0c88c5503d410198f6f4a0899265ae",
+      "Type": "Mythic",
+      "ID": "58"
+    },
+    "translation": {
+      "Particle_Tag_Name": "Shutterbug"
     }
   },
   "bd1554d0c8564890a852dd34932d16d3": {
@@ -181426,7 +182599,7 @@
       "Calibers": "1",
       "Caliber_0": "35",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -181435,6 +182608,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1381",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -182766,6 +183947,17 @@
     },
     "translation": null
   },
+  "c1f0e40681f246a48c42afd4654ff12a": {
+    "name": "Rio_Soccer_Top_Mexico",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Mexico.asset",
+    "data": {
+      "GUID": "c1f0e40681f246a48c42afd4654ff12a",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "c1fdeccfa1d6466b81aa2613a9285630": {
     "name": "School_1",
     "path": "Bundles/Objects/Large/Buildings/School_1/School_1.dat",
@@ -183011,6 +184203,17 @@
       "Size_X": "2",
       "Size_Y": "2",
       "Size_Z": "0.55",
+      "Pro": ""
+    },
+    "translation": null
+  },
+  "c240b4e3ecfb41a4aa0bfc07ba714820": {
+    "name": "Rio_Soccer_Top_Belgium",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Belgium.asset",
+    "data": {
+      "GUID": "c240b4e3ecfb41a4aa0bfc07ba714820",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
       "Pro": ""
     },
     "translation": null
@@ -184008,7 +185211,7 @@
       "Caliber_0": "10",
       "Pellets": "3",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -184016,7 +185219,15 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "127",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Nykorev Box",
@@ -184627,11 +185838,19 @@
       "Caliber_0": "30",
       "Tracer": "116",
       "Impact": "117",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1344",
       "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "67",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27",
       "Delete_Empty": ""
     },
     "translation": {
@@ -184966,6 +186185,15 @@
       "Object_Damage": "75",
       "Explosion": "54",
       "Explosive": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "this",
+      "Blueprint_0_Supply_0_AllowEmpty": "true",
+      "Blueprint_0_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_0_Product": "285",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27",
       "Tracer": "50"
     },
     "translation": {
@@ -185709,7 +186937,7 @@
       "Object_Damage": "200",
       "Explosion": "34",
       "Explosive": "",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Gear",
       "Blueprint_0_Supplies": "3",
       "Blueprint_0_Supply_0_ID": "347",
@@ -185720,7 +186948,15 @@
       "Blueprint_0_Supply_2_Amount": "2",
       "Blueprint_0_Level": "2",
       "Blueprint_0_Skill": "Craft",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "73",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Explosive Arrow",
@@ -187492,6 +188728,17 @@
     },
     "translation": null
   },
+  "c6e67f4ee2de40a482b3e608d4c5a7db": {
+    "name": "Rio_Soda_Bandolier",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Soda_Bandolier.asset",
+    "data": {
+      "GUID": "c6e67f4ee2de40a482b3e608d4c5a7db",
+      "Type": "Vest",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "c6ea0e0c72da44c3874e95e8f867e330": {
     "name": "Bush_1",
     "path": "Bundles/Trees/Bush_1/Bush_1.dat",
@@ -188451,6 +189698,17 @@
     },
     "translation": null
   },
+  "c81bb643e1cd4bccbb82cb8fc0c4ca4a": {
+    "name": "Rio_Soccer_Bottom_Red",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Bottom_Red.asset",
+    "data": {
+      "GUID": "c81bb643e1cd4bccbb82cb8fc0c4ca4a",
+      "Type": "Pants",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "c82407baf2cf410fa4123489381b3925": {
     "name": "Research_Capsule_0",
     "path": "Bundles/Objects/Medium/Quests/Research_Capsule/Research_Capsule_0/Research_Capsule_0.dat",
@@ -189013,7 +190271,7 @@
       "Calibers": "1",
       "Caliber_0": "2",
       "Tracer": "51",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1192",
@@ -189022,6 +190280,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "20",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -189890,6 +191156,8 @@
       "Blueprint_1_Type": "Tool",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
       "Blueprint_1_Supply_0_Amount": "1",
       "Blueprint_1_Product": "73",
       "Blueprint_1_Products": "2",
@@ -190151,7 +191419,7 @@
       "Calibers": "1",
       "Caliber_0": "13",
       "Tracer": "51",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1192",
@@ -190160,6 +191428,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "298",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -194293,7 +195569,7 @@
       "Caliber_0": "32",
       "Pellets": "4",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -194306,6 +195582,14 @@
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "119",
       "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Supply_0_AllowEmpty": "true",
+      "Blueprint_3_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -197805,6 +199089,17 @@
     },
     "translation": null
   },
+  "d24258d869fa4962b8e6864af9e32992": {
+    "name": "Rio_Soccer_Top_Argentina",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Argentina.asset",
+    "data": {
+      "GUID": "d24258d869fa4962b8e6864af9e32992",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "d24723f15bfe4544bc9ee689c0d8d611": {
     "name": "Paintball_Orange_Dynamic",
     "path": "Bundles/Effects/Impacts/Paintball_Orange_Dynamic/Paintball_Orange_Dynamic.dat",
@@ -200496,7 +201791,7 @@
       "Calibers": "1",
       "Caliber_0": "9",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -200509,6 +201804,14 @@
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "125",
       "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Supply_0_AllowEmpty": "true",
+      "Blueprint_3_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -201847,7 +203150,7 @@
       "Calibers": "1",
       "Caliber_0": "3",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -201855,7 +203158,15 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "98",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "1911 Magazine",
@@ -202057,6 +203368,18 @@
       "ID": "105",
       "TargetVehicle": "66261510c9b04cbab68fd28789122632",
       "LoadPaintColor": "#cdaa1e"
+    },
+    "translation": null
+  },
+  "d6980583f6c241acbbc1c57f652f1430": {
+    "name": "Rio_Brazilian_Panama",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Brazilian_Panama.asset",
+    "data": {
+      "GUID": "d6980583f6c241acbbc1c57f652f1430",
+      "Type": "Hat",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
     },
     "translation": null
   },
@@ -202750,7 +204073,7 @@
       "Caliber_0": "12",
       "Pellets": "3",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "1192",
@@ -202758,7 +204081,15 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "133",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Dragonfang Box",
@@ -203126,7 +204457,7 @@
       "Calibers": "1",
       "Caliber_0": "4",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -203138,7 +204469,15 @@
       "Blueprint_2_Type": "Ammo",
       "Blueprint_2_Supplies": "1",
       "Blueprint_2_Supply_0_ID": "1006",
-      "Blueprint_2_Build": "30"
+      "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Supply_0_AllowEmpty": "true",
+      "Blueprint_3_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27"
     },
     "translation": {
       "Name": "Cobra Magazine",
@@ -203254,11 +204593,10 @@
         "MasterBundle": "core.masterbundle",
         "AssetPath": "Music/PEI_Loop.ogg"
       },
-      "Link_URL": "https://www.youtube.com/watch?v=Rxki2vxbAEA",
       "Is_Loop": "true"
     },
     "translation": {
-      "Name": "Haven Across by staswalle"
+      "Name": "PEI Loading Screen Theme"
     }
   },
   "d7f3d6e4c05f4ec9abd9c0f87f9f0788": {
@@ -203450,6 +204788,17 @@
       "Name": "Painting - Dango",
       "Description": "Yui sends their regards."
     }
+  },
+  "d84ca8e97c8a48e5ab6b6bf0306be0ec": {
+    "name": "Rio_SergeantSkull_Pants",
+    "path": "Bundles/Items/RioRemastered/Rio_SergeantSkull/Rio_SergeantSkull_Pants.asset",
+    "data": {
+      "GUID": "d84ca8e97c8a48e5ab6b6bf0306be0ec",
+      "Type": "Pants",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "d84da356bc764ef5b8a342e6c2f0db8c": {
     "name": "BBMarkings 2",
@@ -204015,6 +205364,17 @@
     "translation": {
       "Name": "Flour #2"
     }
+  },
+  "d8b8aa42a6f54d0d8179df879454c94b": {
+    "name": "Rio_Soccer_Top_USA",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_USA.asset",
+    "data": {
+      "GUID": "d8b8aa42a6f54d0d8179df879454c94b",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "d8bb1a883aee4a6bbd6a30ba9bf4aebe": {
     "name": "GlacierArenaMiscOutfit",
@@ -205793,7 +207153,7 @@
       "Calibers": "1",
       "Caliber_0": "11",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "119",
@@ -205802,6 +207162,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "130",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -206764,7 +208132,7 @@
       "Calibers": "1",
       "Caliber_0": "1",
       "Tracer": "48",
-      "Blueprints": "4",
+      "Blueprints": "5",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -206781,6 +208149,14 @@
       "Blueprint_3_Supplies": "1",
       "Blueprint_3_Supply_0_ID": "1490",
       "Blueprint_3_Build": "30",
+      "Blueprint_4_Type": "Tool",
+      "Blueprint_4_Supplies": "1",
+      "Blueprint_4_Supply_0_ID": "this",
+      "Blueprint_4_Supply_0_AllowEmpty": "true",
+      "Blueprint_4_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_4_Product": "67",
+      "Blueprint_4_Products": "1",
+      "Blueprint_4_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -215985,6 +217361,8 @@
       "ID": "58",
       "Speed_Min": "-6",
       "Speed_Max": "13",
+      "Steer_Min": "24",
+      "Steer_Max": "48",
       "CrawlerTrackSteering_Torque": "10",
       "CrawlerTrackSteering_SidewaysFrictionMultiplier": "1.0",
       "CrawlerTrackSteering_MaxSpeedScale": "0.3",
@@ -216193,6 +217571,17 @@
     "translation": {
       "Name": "PBS Gas Pump 2"
     }
+  },
+  "e4247ff8c3b54d6ab03db784dda524ae": {
+    "name": "Rio_SergeantSkull_Vest",
+    "path": "Bundles/Items/RioRemastered/Rio_SergeantSkull/Rio_SergeantSkull_Vest.asset",
+    "data": {
+      "GUID": "e4247ff8c3b54d6ab03db784dda524ae",
+      "Type": "Vest",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "e427d3577eea4a4fad6bacb7d09b16c4": {
     "name": "Propaganda_Coalition_2_On",
@@ -216441,7 +217830,7 @@
       "Calibers": "1",
       "Caliber_0": "17",
       "Tracer": "48",
-      "Blueprints": "3",
+      "Blueprints": "4",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -216456,7 +217845,15 @@
       "Blueprint_2_Supply_0_Amount": "6",
       "Blueprint_2_Level": "1",
       "Blueprint_2_Skill": "Craft",
-      "Blueprint_2_Build": "27"
+      "Blueprint_2_Build": "27",
+      "Blueprint_3_Type": "Tool",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "this",
+      "Blueprint_3_Supply_0_AllowEmpty": "true",
+      "Blueprint_3_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_3_Product": "67",
+      "Blueprint_3_Products": "1",
+      "Blueprint_3_Build": "27"
     },
     "translation": {
       "Name": "Rifle Clip",
@@ -216764,6 +218161,17 @@
     "translation": {
       "Message_0_Page_0": "Thanks for your business."
     }
+  },
+  "e4e9c1c53b5841728eb65e8da3686ed5": {
+    "name": "Rio_SergeantSkull_Top",
+    "path": "Bundles/Items/RioRemastered/Rio_SergeantSkull/Rio_SergeantSkull_Top.asset",
+    "data": {
+      "GUID": "e4e9c1c53b5841728eb65e8da3686ed5",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "e4f33bd5aafb4204904ea375c00de967": {
     "name": "Counter_3",
@@ -222235,6 +223643,19 @@
     },
     "translation": null
   },
+  "eb4a4bcf45884c38ae7d7d80ef0dc65b": {
+    "name": "Rio_Mirrored_Purple",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Mirrored_Purple.asset",
+    "data": {
+      "GUID": "eb4a4bcf45884c38ae7d7d80ef0dc65b",
+      "Type": "Glasses",
+      "Hair": "",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "eb4da9c2c9794a03b94bfcad3155d8e5": {
     "name": "Knitted_Sweater",
     "path": "Bundles/Skins/Timberwolf/Knitted_Sweater/Knitted_Sweater.dat",
@@ -222370,6 +223791,17 @@
       "Name": "Short Gun Crate Storage",
       "Description": "An opened short gun crate that can be used for storage now."
     }
+  },
+  "eb88b70204ab41ac88ebbff8101a89da": {
+    "name": "Rio_Soccer_Top_France",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_France.asset",
+    "data": {
+      "GUID": "eb88b70204ab41ac88ebbff8101a89da",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "eb8d957611194d64b79fcd411a3521aa": {
     "name": "Tired2",
@@ -223627,14 +225059,22 @@
       "Caliber_0": "15",
       "Tracer": "48",
       "Stuck": "25",
-      "Blueprints": "1",
+      "Blueprints": "2",
       "Blueprint_0_Type": "Tool",
       "Blueprint_0_Supplies": "2",
       "Blueprint_0_Supply_0_ID": "38",
       "Blueprint_0_Supply_0_Amount": "3",
       "Blueprint_0_Supply_1_ID": "71",
       "Blueprint_0_Products": "3",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Tool",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "this",
+      "Blueprint_1_Supply_0_AllowEmpty": "true",
+      "Blueprint_1_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_1_Product": "38",
+      "Blueprint_1_Products": "1",
+      "Blueprint_1_Build": "27"
     },
     "translation": {
       "Name": "Birch Arrow",
@@ -224249,6 +225689,19 @@
     "translation": {
       "Name": "Plastic Chair (Orange)",
       "Description": "A simple plastic chair."
+    }
+  },
+  "ed69eeb68cd940a0a9f2508cd1dd4d58": {
+    "name": "Rio_CasinoChips",
+    "path": "Bundles/Mythics/Rio_CasinoChips/Rio_CasinoChips.dat",
+    "data": {
+      "GUID": "ed69eeb68cd940a0a9f2508cd1dd4d58",
+      "Type": "Mythic",
+      "ID": "62",
+      "Body_Cosmetics_Use_System_Area": "true"
+    },
+    "translation": {
+      "Particle_Tag_Name": "Cascading Chips"
     }
   },
   "ed7242cfb6bf4ec180d4fcd360da3b41": {
@@ -226192,7 +227645,7 @@
       "Calibers": "1",
       "Caliber_0": "26",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "44",
@@ -226200,7 +227653,15 @@
       "Blueprint_1_Type": "Ammo",
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1040",
-      "Blueprint_1_Build": "30"
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27"
     },
     "translation": {
       "Name": "Kryzkarek Magazine",
@@ -226445,7 +227906,8 @@
       "Tactical": "",
       "Grip": "",
       "Barrel": "",
-      "Magazine": ""
+      "Magazine": "",
+      "Hide_Magazine": "true"
     },
     "translation": null
   },
@@ -227985,7 +229447,7 @@
       "Caliber_0": "42",
       "Pellets": "6",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "113",
@@ -227994,6 +229456,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1485",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -231180,7 +232650,7 @@
       "Table_0_Weight": "60",
       "Table_1_Asset_ID": "141",
       "Table_1_Weight": "30",
-      "Table_2_Asset_ID": "957",
+      "Table_2_Spawn_ID": "957",
       "Table_2_Weight": "30"
     },
     "translation": null
@@ -233345,7 +234815,7 @@
       "Calibers": "1",
       "Caliber_0": "24",
       "Tracer": "48",
-      "Blueprints": "2",
+      "Blueprints": "3",
       "Blueprint_0_Type": "Ammo",
       "Blueprint_0_Supplies": "1",
       "Blueprint_0_Supply_0_ID": "43",
@@ -233354,6 +234824,14 @@
       "Blueprint_1_Supplies": "1",
       "Blueprint_1_Supply_0_ID": "1026",
       "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Tool",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "this",
+      "Blueprint_2_Supply_0_AllowEmpty": "true",
+      "Blueprint_2_Supply_0_Prioritization": "LowestAmount",
+      "Blueprint_2_Product": "67",
+      "Blueprint_2_Products": "1",
+      "Blueprint_2_Build": "27",
       "Paintable": ""
     },
     "translation": {
@@ -233750,6 +235228,17 @@
       "ID": "150",
       "Secondary_Skins": "1",
       "Secondary_0": "1384"
+    },
+    "translation": null
+  },
+  "f81ba74f116e4eb794890ed76bd63397": {
+    "name": "Rio_Soccer_Top_Portugal",
+    "path": "Bundles/Items/RioRemastered/Free/Rio_Soccer_Top_Portugal.asset",
+    "data": {
+      "GUID": "f81ba74f116e4eb794890ed76bd63397",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
     },
     "translation": null
   },
@@ -234238,6 +235727,19 @@
       "Tables": "1",
       "Table_0_Spawn_ID": "278",
       "Table_0_Weight": "100"
+    },
+    "translation": null
+  },
+  "f8bcb98e6f2e4f209735fd8b4a48dcfa": {
+    "name": "Rio_Keyhead",
+    "path": "Bundles/Items/RioRemastered/Premium/Rio_Keyhead.asset",
+    "data": {
+      "GUID": "f8bcb98e6f2e4f209735fd8b4a48dcfa",
+      "Type": "Glasses",
+      "Hair": "",
+      "Beard": "",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
     },
     "translation": null
   },
@@ -236491,6 +237993,17 @@
     },
     "translation": null
   },
+  "fb8294dfbebc4cef94e700f1cb9e9377": {
+    "name": "Rio_Tank_Top_Green",
+    "path": "Bundles/Items/RioRemastered/Free/Tank_Top/Rio_Tank_Top_Green.asset",
+    "data": {
+      "GUID": "fb8294dfbebc4cef94e700f1cb9e9377",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
+  },
   "fb8710bd6c7142aeaee2f494ac572cac": {
     "name": "Djungelskog",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Djungelskog/Djungelskog.dat",
@@ -238469,6 +239982,17 @@
       "Name": "Green Beach Chair",
       "Description": "Comfy spot to relax in the shade."
     }
+  },
+  "fe0d0b93525d4f559c3d47ac26f16a72": {
+    "name": "Rio_Tank_Top_Black",
+    "path": "Bundles/Items/RioRemastered/Free/Tank_Top/Rio_Tank_Top_Black.asset",
+    "data": {
+      "GUID": "fe0d0b93525d4f559c3d47ac26f16a72",
+      "Type": "Shirt",
+      "Bundle_Path_Include_Filename": "true",
+      "Pro": ""
+    },
+    "translation": null
   },
   "fe0e98b2924d497a8da3bc6f22785c6e": {
     "name": "Elver2_Tie_Fish",
