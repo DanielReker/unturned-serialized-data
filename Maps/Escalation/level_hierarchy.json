@@ -1,5 +1,5 @@
 {
-  "Available_Instance_ID": 388,
+  "Available_Instance_ID": 389,
   "Items": [
     {
       "Type": "Landscape",
@@ -8014,7 +8014,7 @@
       "Instance_ID": 304,
       "Item": {
         "Position": {
-          "x": 601.0777,
+          "x": 609.133,
           "y": 193.3628,
           "z": -974.348
         },
@@ -8030,7 +8030,7 @@
           }
         },
         "Scale": {
-          "x": 268.4174,
+          "x": 284.528,
           "y": 884.2078,
           "z": 634.4507
         },
@@ -9646,24 +9646,13 @@
         },
         "Rotation": {
           "x": 0.0,
-          "y": 0.420876533,
+          "y": 0.4208765,
           "z": 0.0,
-          "w": 0.9071179,
+          "w": 0.907118,
           "eulerAngles": {
             "x": 0.0,
-            "y": 49.77988,
+            "y": 49.77987,
             "z": 0.0
-          },
-          "normalized": {
-            "x": 0.0,
-            "y": 0.420876563,
-            "z": 0.0,
-            "w": 0.907117963,
-            "eulerAngles": {
-              "x": 0.0,
-              "y": 49.77988,
-              "z": 0.0
-            }
           }
         },
         "Scale": {
@@ -10020,12 +10009,12 @@
         },
         "Rotation": {
           "x": 0.0,
-          "y": 0.243211776,
+          "y": 0.2432118,
           "z": 0.0,
           "w": 0.9699732,
           "eulerAngles": {
             "x": 0.0,
-            "y": 28.15236,
+            "y": 28.1523666,
             "z": 0.0
           }
         },
@@ -10207,9 +10196,9 @@
       "Instance_ID": 383,
       "Item": {
         "Position": {
-          "x": -171.8521,
+          "x": -173.4081,
           "y": 33.27314,
-          "z": -1128.079
+          "z": -1129.539
         },
         "Rotation": {
           "x": 0.0,
@@ -10348,6 +10337,39 @@
         "Kill_Animals": true,
         "Kill_Vehicles": false,
         "Death_Cause": 11
+      }
+    },
+    {
+      "Type": "DeadzoneVolume",
+      "Instance_ID": 388,
+      "Item": {
+        "Position": {
+          "x": 652.3992,
+          "y": 392.4111,
+          "z": -831.6343
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 225.879,
+          "y": 454.3425,
+          "z": 224.0051
+        },
+        "Shape": 0,
+        "Deadzone_Type": 1,
+        "UnprotectedDamagePerSecond": 0.0,
+        "ProtectedDamagePerSecond": 0.0,
+        "UnprotectedRadiationPerSecond": 0.5,
+        "MaskFilterDamagePerSecond": 0.4
       }
     }
   ]

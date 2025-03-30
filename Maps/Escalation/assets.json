@@ -270,6 +270,22 @@
       "Description": "American civilian rifle, uses <color=rare>Assault Rifle Magazines</color>.<br><br><color=#DB871A>Suppressed Variant</color>"
     }
   },
+  "0019619498a0420080fe6198ae29188f": {
+    "name": "PaintingJustice",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingJustice/PaintingJustice.dat",
+    "data": {
+      "GUID": "0019619498a0420080fe6198ae29188f",
+      "Type": "Spawn",
+      "ID": "51376",
+      "Tables": [
+        {
+          "Guid": "098370b5515f4d55847ba03e136ff2a9",
+          "Weight": "100"
+        }
+      ]
+    },
+    "translation": null
+  },
   "001bb61075364a1f8d892741920557d7": {
     "name": "Freezer",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Freezer/Freezer.dat",
@@ -4291,7 +4307,7 @@
     "data": {
       "GUID": "04a823e816a34d059ce67186dbda5592",
       "Type": "NPC",
-      "ID": "52090",
+      "ID": "53200",
       "Shirt": "51962",
       "Glasses": "66f41b434cf6418d938abfd75cbf37e2",
       "Face": "26",
@@ -4299,7 +4315,7 @@
       "Beard": "0",
       "Color_Skin": "#4B3D31",
       "Color_Hair": "#191919",
-      "Dialogue": "52091",
+      "Dialogue": "53201",
       "Has_Clip_Prefab": "false",
       "Pose": "Asleep"
     },
@@ -4754,6 +4770,35 @@
     },
     "translation": {
       "Name": "Counter #1"
+    }
+  },
+  "050f7e9e3c7244f18f9ad549800a9673": {
+    "name": "PSGScope",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Attachments/PSGScope/PSGScope.dat",
+    "data": {
+      "GUID": "050f7e9e3c7244f18f9ad549800a9673",
+      "Type": "Sight",
+      "Rarity": "Epic",
+      "ID": "52531",
+      "Aim_Duration_Multiplier": "1.2",
+      "Spread": "0.7",
+      "Zoom": "6",
+      "Size_X": "2",
+      "Size_Y": "1",
+      "Size_Z": "0.1",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52531",
+      "Blueprint_0_Outputs": "1",
+      "Blueprint_0_Output_0_ID": "51017",
+      "Blueprint_0_Output_0_Amount": "3",
+      "Blueprint_0_Build": "27",
+      "Offset_Scope_Overlay_By_One_Texel": "false"
+    },
+    "translation": {
+      "Name": "6x Scope",
+      "Description": "Rail mounted optic with 6x zoom."
     }
   },
   "052098fcc6fa4577b7af33a4896415b4": {
@@ -6447,6 +6492,24 @@
       "Description": "Maple roof. Beware of termites."
     }
   },
+  "0798f4d3c68240d8bfa774adf84bf7fb": {
+    "name": "Zeppelin",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/NPC/Zeppelin/Zeppelin.dat",
+    "data": {
+      "GUID": "0798f4d3c68240d8bfa774adf84bf7fb",
+      "Rarity": "Legendary",
+      "Type": "Supply",
+      "ID": "52512",
+      "Pro": "",
+      "Size_X": "5",
+      "Size_Y": "5",
+      "Size_Z": "3.5"
+    },
+    "translation": {
+      "Name": "Zeppelin",
+      "Description": "Oh the zombanity!  This massive airship has a increased carrying capacity, has a bombadier dropping <color=legendary>HE Shells</color>, 3 heavy machine guns firing <color=legendary>HMG Boxes</color>, and 2 autocannons firing <color=epic>Marksman Magazines</color>."
+    }
+  },
   "079b931f9f90400fa06e567ce05098f7": {
     "name": "PosterTrident",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Pictures/PosterTrident/PosterTrident.dat",
@@ -8051,6 +8114,43 @@
       ]
     },
     "translation": null
+  },
+  "098370b5515f4d55847ba03e136ff2a9": {
+    "name": "PaintingJustice",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Pictures/PaintingJustice/PaintingJustice.dat",
+    "data": {
+      "GUID": "098370b5515f4d55847ba03e136ff2a9",
+      "Type": "Barricade",
+      "Useable": "Barricade",
+      "Build": "Barricade_Wall",
+      "Rarity": "Rare",
+      "ID": "52574",
+      "SalvageItem": "098370b5515f4d55847ba03e136ff2a9",
+      "Size_X": "1",
+      "Size_Y": "1",
+      "Size_Z": "0.6",
+      "Health": "40",
+      "Range": "4",
+      "Radius": "0.02",
+      "Offset": "0.1",
+      "Explosion": "58",
+      "Vulnerable": "",
+      "Salvage_Duration_Multiplier": "0.25",
+      "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+      "Bypass_Pickup_Ownership": "True",
+      "Has_Clip_Prefab": "False",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52574",
+      "Blueprint_0_Product": "51020",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Painting - Truth",
+      "Description": "60 seconds to MIDNIGHT."
+    }
   },
   "098a94261ee844abb16844934c7951f2": {
     "name": "MA_WC_Bottom",
@@ -10743,6 +10843,27 @@
     },
     "translation": null
   },
+  "0c5cb137a42e4276ad3bb21dc99c24b2": {
+    "name": "PBS_SharkSetup2",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/Deadzone/PBS_SharkSetup2/PBS_SharkSetup2.dat",
+    "data": {
+      "GUID": "0c5cb137a42e4276ad3bb21dc99c24b2",
+      "Type": "RewardsList",
+      "Conditions": "0",
+      "Rewards": "2",
+      "Reward_0_Type": "Item",
+      "Reward_0_ID": "52536",
+      "Reward_0_Amount": "1",
+      "Reward_0_Barrel": "51090",
+      "Reward_0_Grip": "51087",
+      "Reward_0_Tactical": "51076",
+      "Reward_0_Magazine": "51909",
+      "Reward_1_Type": "Item",
+      "Reward_1_ID": "51909",
+      "Reward_1_Amount": "3"
+    },
+    "translation": null
+  },
   "0c69d1f3918845b3ac338c12fb45f385": {
     "name": "Paintballs_Red_35",
     "path": "Bundles/Items/Magazines/Paintballs_Red_35/Paintballs_Red_35.dat",
@@ -12810,6 +12931,30 @@
       "Pro": ""
     },
     "translation": null
+  },
+  "0e6f2fedc5c247e99547eb7ac0be8497": {
+    "name": "Tactical_LaserAthena",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Attachments/Tactical_LaserAthena/Tactical_LaserAthena.dat",
+    "data": {
+      "GUID": "0e6f2fedc5c247e99547eb7ac0be8497",
+      "Type": "Tactical",
+      "Rarity": "Mythical",
+      "ID": "52551",
+      "Size_X": "1",
+      "Size_Y": "1",
+      "Size_Z": "0.075",
+      "Recoil_X": "1.25",
+      "Recoil_Y": "1.25",
+      "Spread": "1.25",
+      "Ballistic_Damage_Multiplier": "0.75",
+      "Firerate": "1",
+      "Laser": "",
+      "Laser_Color": "#00FFFF"
+    },
+    "translation": {
+      "Name": "Athena Laser",
+      "Description": "Special laser used on the Athena.<br><br><color=red>Increases Firerate</color>"
+    }
   },
   "0e80322a5de246408670f9d460f6972a": {
     "name": "PBS_T8Money",
@@ -16442,6 +16587,18 @@
       "Name": "Booth #1"
     }
   },
+  "1208b8ca5a3749738d6f9cb2d2428d61": {
+    "name": "29",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Graffitis/29/29.dat",
+    "data": {
+      "GUID": "1208b8ca5a3749738d6f9cb2d2428d61",
+      "Type": "Large",
+      "ID": "51000"
+    },
+    "translation": {
+      "Name": "PBS Graffiti Au"
+    }
+  },
   "121013cb3c45404f8996ea6657750188": {
     "name": "MilitaryRifle",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardListSpawns/MilitaryRifle/MilitaryRifle.dat",
@@ -16452,43 +16609,47 @@
       "Tables": [
         {
           "Guid": "f2e34fcb0e154865b89123a32195e507",
-          "Weight": "10"
+          "Weight": "9"
         },
         {
           "Guid": "026618566ec444ce88641bc604e7c4d3",
-          "Weight": "10"
+          "Weight": "9"
         },
         {
           "Guid": "88c90e472853413ead4aa14f2b9e43aa",
-          "Weight": "10"
+          "Weight": "9"
         },
         {
           "Guid": "bad32e8a5f5f4e91a2597c57bc0b1bb5",
-          "Weight": "10"
+          "Weight": "9"
         },
         {
           "Guid": "1aa8b31dd9964c19b8cb8cc1123864ff",
-          "Weight": "10"
+          "Weight": "9"
         },
         {
           "Guid": "7ece209e17314bf8847b3ffe79d06d04",
-          "Weight": "10"
+          "Weight": "9"
         },
         {
           "Guid": "16bdf8ff78d044d1a6e8cb3f051dcfe8",
-          "Weight": "10"
+          "Weight": "9"
         },
         {
           "Guid": "77ab3c13f3e646ffbb981caeb01035ce",
-          "Weight": "10"
+          "Weight": "9"
         },
         {
           "Guid": "e23e05c47f0c4acd9b532f59f07d63d0",
-          "Weight": "10"
+          "Weight": "9"
+        },
+        {
+          "Guid": "c3861d91fa6d4c2a97917b329108a0c8",
+          "Weight": "9"
         },
         {
           "Guid": "14cb011c5c174acbbd84c6112429de45",
-          "Weight": "6"
+          "Weight": "2"
         },
         {
           "Guid": "afb026d4481b43a29724d45f1ff4c6ac",
@@ -16496,6 +16657,14 @@
         },
         {
           "Guid": "75f01ca198084dd2a1c8429afed94b71",
+          "Weight": "2"
+        },
+        {
+          "Guid": "2b6a87007c1940578ef9217410dfcf08",
+          "Weight": "2"
+        },
+        {
+          "Guid": "ce92bd67e1c049759dc033a78087463a",
           "Weight": "2"
         }
       ]
@@ -16973,6 +17142,10 @@
           "Weight": "415"
         },
         {
+          "Guid": "96f354e1b12344f99538a4ad64514fb6",
+          "Weight": "400"
+        },
+        {
           "Guid": "46c6db37785d4cd19ee70a21de7afa1a",
           "Weight": "300"
         },
@@ -16981,12 +17154,12 @@
           "Weight": "250"
         },
         {
-          "Guid": "96670dd3c7a34c6d89098bf71aed8a73",
+          "Guid": "4e09c02a28224f74b2c490f3c63cda4b",
           "Weight": "200"
         },
         {
-          "Guid": "1d54bb1bcf0647fc92015c5ff04c4e59",
-          "Weight": "195"
+          "Guid": "96670dd3c7a34c6d89098bf71aed8a73",
+          "Weight": "200"
         },
         {
           "Guid": "e3dd91edb4de411ca4386689357fa060",
@@ -16994,6 +17167,10 @@
         },
         {
           "Guid": "13686590317e4873a99962a18fe8737e",
+          "Weight": "195"
+        },
+        {
+          "Guid": "1d54bb1bcf0647fc92015c5ff04c4e59",
           "Weight": "195"
         },
         {
@@ -17017,11 +17194,11 @@
           "Weight": "5"
         },
         {
-          "Guid": "ae6b3e8281fb4f31a01d5e6641831806",
+          "Guid": "de656abd2edb4333adec4855631754b1",
           "Weight": "5"
         },
         {
-          "Guid": "de656abd2edb4333adec4855631754b1",
+          "Guid": "ae6b3e8281fb4f31a01d5e6641831806",
           "Weight": "5"
         }
       ]
@@ -18894,6 +19071,41 @@
       "Description": "Lean and juicy.<br><color=#bf1c1c>5 Health</color> | <color=#ab8016>35 Food</color> | <color=#1c871c>-40 Virus</color>"
     }
   },
+  "13b524cc09ed4a6ca6dc733d1efff2c6": {
+    "name": "Jennifer_Small_Pictures",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Vendors/Jennifer/Jennifer_Small_Pictures/Asset.dat",
+    "data": {
+      "GUID": "13b524cc09ed4a6ca6dc733d1efff2c6",
+      "Type": "Vendor",
+      "ID": "53203",
+      "Disable_Sorting": "",
+      "Buying": "6",
+      "Buying_0_ID": "52102",
+      "Buying_0_Cost": "25",
+      "Buying_0_Rewards": "2",
+      "Buying_0_Reward_0_Type": "Flag_Bool",
+      "Buying_0_Reward_0_ID": "53211",
+      "Buying_0_Reward_0_Value": "True",
+      "Buying_0_Reward_1_Type": "Rewards_List_Asset",
+      "Buying_0_Reward_1_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Selling": "3",
+      "Selling_0_ID": "52102",
+      "Selling_0_Cost": "50",
+      "Selling_0_Conditions": "1",
+      "Selling_0_Condition_0_Type": "Flag_Bool",
+      "Selling_0_Condition_0_ID": "53211",
+      "Selling_0_Condition_0_Value": "True",
+      "Selling_0_Condition_0_Logic": "Equal",
+      "Selling_0_Rewards": "1",
+      "Selling_0_Reward_0_Type": "Rewards_List_Asset",
+      "Selling_0_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
+      "Currency": "561f74cdccdf48abaa6d49343b56aab0"
+    },
+    "translation": {
+      "Name": "Attachments",
+      "Description": "Mods for weapons."
+    }
+  },
   "13c1b1509e2642a0a8cfc80ed89c9ec9": {
     "name": "MidnightNumber6-7",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Midnight/Numbers/Display/MidnightNumber6-7/MidnightNumber6-7.dat",
@@ -19171,6 +19383,24 @@
       "Table_11_Weight": "5"
     },
     "translation": null
+  },
+  "14010883bc5a4fa582f8f1b1a467c317": {
+    "name": "PaintingJustice",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PaintingJustice/PaintingJustice.dat",
+    "data": {
+      "GUID": "14010883bc5a4fa582f8f1b1a467c317",
+      "Type": "Medium",
+      "ID": "51000",
+      "Has_Clip_Prefab": "false",
+      "Rubble": "Destroy",
+      "Rubble_Reset": "300",
+      "Rubble_Health": "1",
+      "Rubble_Effect": "58",
+      "Rubble_Reward_ID": "51376"
+    },
+    "translation": {
+      "Name": "PBS Painting Justice"
+    }
   },
   "14261616097e4ce98fb0f771cce2fee0": {
     "name": "Offroader",
@@ -20762,47 +20992,15 @@
           "Weight": "1"
         },
         {
-          "Guid": "3abb83545ac7470b8ff93b0b21afae72",
+          "Guid": "56d856eba1d446148ce7d1077bb6ab8b",
           "Weight": "1"
         },
         {
-          "Guid": "30e9bd9d0af0422d964ac9eb92d69464",
+          "Guid": "7a83f9c15271460a8a085c6efe85c245",
           "Weight": "1"
         },
         {
-          "Guid": "0499c81d12f4456097564e1ea5fb222b",
-          "Weight": "1"
-        },
-        {
-          "Guid": "cac349ca78784e35a37dbd5a994df85f",
-          "Weight": "1"
-        },
-        {
-          "Guid": "6c88cbfd8d90451dbcd6e01444571f41",
-          "Weight": "1"
-        },
-        {
-          "Guid": "7475592f0de94c5cafcdf58cd88f035f",
-          "Weight": "1"
-        },
-        {
-          "Guid": "3bdbe8ca373247bc8aabbf0fcd2a1430",
-          "Weight": "1"
-        },
-        {
-          "Guid": "54b49446c07545378bd1fa3dfc00fbef",
-          "Weight": "1"
-        },
-        {
-          "Guid": "82d8414477234110b5ea34738d09f3fb",
-          "Weight": "1"
-        },
-        {
-          "Guid": "e43bb658b8fa47589ef2067170e708af",
-          "Weight": "1"
-        },
-        {
-          "Guid": "55a369297bb546e0b697819d50a9a8d8",
+          "Guid": "955648c712c74a8680eaa1aa6514a664",
           "Weight": "1"
         },
         {
@@ -20810,7 +21008,55 @@
           "Weight": "1"
         },
         {
-          "Guid": "955648c712c74a8680eaa1aa6514a664",
+          "Guid": "55a369297bb546e0b697819d50a9a8d8",
+          "Weight": "1"
+        },
+        {
+          "Guid": "e43bb658b8fa47589ef2067170e708af",
+          "Weight": "1"
+        },
+        {
+          "Guid": "82d8414477234110b5ea34738d09f3fb",
+          "Weight": "1"
+        },
+        {
+          "Guid": "54b49446c07545378bd1fa3dfc00fbef",
+          "Weight": "1"
+        },
+        {
+          "Guid": "3bdbe8ca373247bc8aabbf0fcd2a1430",
+          "Weight": "1"
+        },
+        {
+          "Guid": "7475592f0de94c5cafcdf58cd88f035f",
+          "Weight": "1"
+        },
+        {
+          "Guid": "6c88cbfd8d90451dbcd6e01444571f41",
+          "Weight": "1"
+        },
+        {
+          "Guid": "cac349ca78784e35a37dbd5a994df85f",
+          "Weight": "1"
+        },
+        {
+          "Guid": "0499c81d12f4456097564e1ea5fb222b",
+          "Weight": "1"
+        },
+        {
+          "Guid": "30e9bd9d0af0422d964ac9eb92d69464",
+          "Weight": "1"
+        },
+        {
+          "Guid": "3abb83545ac7470b8ff93b0b21afae72",
+          "Weight": "1"
+        },
+        {
+          "Guid": "ba1c616d654546e9ae72c091a8dbee8e",
+          "Weight": "1"
+        },
+        {
+          "Guid": "0c5cb137a42e4276ad3bb21dc99c24b2",
           "Weight": "1"
         }
       ]
@@ -25292,6 +25538,44 @@
       "Name": "PBS TRAILER Enemy Combatant"
     }
   },
+  "1b63dd3b8ad24c64b9557bb20c10a112": {
+    "name": "Bike_Helmet_Black",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Hats/Bike_Helmet_Black/Bike_Helmet_Black.dat",
+    "data": {
+      "GUID": "1b63dd3b8ad24c64b9557bb20c10a112",
+      "Type": "Hat",
+      "Rarity": "Rare",
+      "Useable": "Clothing",
+      "ID": "52546",
+      "Size_X": "2",
+      "Size_Y": "2",
+      "Size_Z": "0.3",
+      "Armor": ".75",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52546",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Outputs": "2",
+      "Blueprint_0_Output_0_ID": "51017",
+      "Blueprint_0_Output_0_Amount": "2",
+      "Blueprint_0_Output_1_ID": "51028",
+      "Blueprint_0_Output_1_Amount": "2",
+      "Blueprint_0_Build": "32",
+      "Blueprint_1_Type": "Repair",
+      "Blueprint_1_Searchable": "False",
+      "Blueprint_1_Supplies": "2",
+      "Blueprint_1_Supply_0_ID": "51017",
+      "Blueprint_1_Supply_0_Amount": "2",
+      "Blueprint_1_Supply_1_ID": "51028",
+      "Blueprint_1_Supply_1_Amount": "2",
+      "Blueprint_1_Build": "32"
+    },
+    "translation": {
+      "Name": "Black Biker Helmet",
+      "Description": "Protects your head from any nasty impacts."
+    }
+  },
   "1b7034184634492c9f78e11b42c651db": {
     "name": "Minnow_Raw",
     "path": "Bundles/Items/Food/Minnow_Raw/Minnow_Raw.dat",
@@ -26184,7 +26468,7 @@
     "data": {
       "GUID": "1c40b4e2322146fa84d532562129174a",
       "Type": "Magazine",
-      "Rarity": "Legendary",
+      "Rarity": "Mythical",
       "ID": "52028",
       "Size_X": "2",
       "Size_Y": "2",
@@ -26267,6 +26551,109 @@
       "Pro": ""
     },
     "translation": null
+  },
+  "1c5633d00a864fa2a484069f42220a78": {
+    "name": "M14",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Weapons/Guns/M14/M14.dat",
+    "data": {
+      "GUID": "1c5633d00a864fa2a484069f42220a78",
+      "Type": "Gun",
+      "Rarity": "Legendary",
+      "Useable": "Gun",
+      "Slot": "Primary",
+      "ID": "52538",
+      "Instantiated_Item_Name_Override": "51242",
+      "Size_X": "5",
+      "Size_Y": "2",
+      "Size_Z": "0.35",
+      "Magazine": "52088",
+      "Magazine_Calibers": "1",
+      "Magazine_Caliber_0": "51005",
+      "Attachment_Calibers": "2",
+      "Attachment_Caliber_0": "51205",
+      "Attachment_Caliber_1": "0",
+      "Hook_Barrel": "",
+      "Hook_Sight": "",
+      "Hook_Tactical": "",
+      "Shell": "51051",
+      "Ammo_Min": "10",
+      "Ammo_Max": "20",
+      "Auto": "",
+      "Semi": "",
+      "Range": "400",
+      "Firerate": "6",
+      "Action": "Trigger",
+      "Player_Damage": "27",
+      "Player_Leg_Multiplier": ".75",
+      "Player_Arm_Multiplier": ".75",
+      "Player_Spine_Multiplier": "1",
+      "Player_Skull_Multiplier": "1.25",
+      "Zombie_Damage": "125",
+      "Zombie_Leg_Multiplier": "0.75",
+      "Zombie_Arm_Multiplier": "0.75",
+      "Zombie_Spine_Multiplier": "0.9",
+      "Zombie_Skull_Multiplier": "3",
+      "Animal_Damage": "125",
+      "Animal_Leg_Multiplier": "0.6",
+      "Animal_Spine_Multiplier": "0.8",
+      "Animal_Skull_Multiplier": "1.1",
+      "Barricade_Damage": "5",
+      "Structure_Damage": "5",
+      "Vehicle_Damage": "30",
+      "Resource_Damage": "20",
+      "Object_Damage": "100",
+      "Durability": "0",
+      "Quality_Min": "100",
+      "Quality_Max": "100",
+      "Aim_In_Duration": "0.15",
+      "Recoil_Min_X": "3",
+      "Recoil_Max_X": "-3",
+      "Recoil_Min_Y": "4",
+      "Recoil_Max_Y": "4",
+      "Spread_Aim": "0.025",
+      "Spread_Hip": "0.15",
+      "Remove": "0",
+      "Replace": "0",
+      "Recover_X": "0.1",
+      "Recover_Y": "0.1",
+      "Shake_Min_X": ".0075",
+      "Shake_Min_Y": "0",
+      "Shake_Min_Z": "-.02",
+      "Shake_Max_X": "-.0075",
+      "Shake_Max_Y": "0",
+      "Shake_Max_Z": "-.04",
+      "Muzzle": "",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52538",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Outputs": "4",
+      "Blueprint_0_Output_0_ID": "51036",
+      "Blueprint_0_Output_0_Amount": "1",
+      "Blueprint_0_Output_1_ID": "51035",
+      "Blueprint_0_Output_1_Amount": "1",
+      "Blueprint_0_Output_2_ID": "51017",
+      "Blueprint_0_Output_2_Amount": "3",
+      "Blueprint_0_Output_3_ID": "51023 ",
+      "Blueprint_0_Output_3_Amount": "3",
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Repair",
+      "Blueprint_1_Searchable": "False",
+      "Blueprint_1_Supplies": "2",
+      "Blueprint_1_Supply_0_ID": "51036",
+      "Blueprint_1_Supply_0_Amount": "2",
+      "Blueprint_1_Supply_1_ID": "51035",
+      "Blueprint_1_Supply_1_Amount": "1",
+      "Blueprint_1_Build": "27",
+      "Shoot_Quest_Rewards": "1",
+      "Shoot_Quest_Reward_0_Type": "Rewards_List_Asset",
+      "Shoot_Quest_Reward_0_GUID": "ae7724167039492fb3bd8aeef222fcfa"
+    },
+    "translation": {
+      "Name": "Sergeant",
+      "Description": "American battle rifle, uses <color=rare>Marksman Magazines</color>. This is my rifle! There are many like it, but this one is mine!"
+    }
   },
   "1c5ee529afb54ad9b3f978d185287d7b": {
     "name": "MechanicTools",
@@ -30717,6 +31104,22 @@
       "Name": "PBS Hospital Bench"
     }
   },
+  "210ecaa655d14ae79754083d8190bd26": {
+    "name": "PaintingShotgun",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingShotgun/PaintingShotgun.dat",
+    "data": {
+      "GUID": "210ecaa655d14ae79754083d8190bd26",
+      "Type": "Spawn",
+      "ID": "51377",
+      "Tables": [
+        {
+          "Guid": "6ee334713b524691a6c94f620348f8a8",
+          "Weight": "100"
+        }
+      ]
+    },
+    "translation": null
+  },
   "211c0e142df44eb4a4f3f1d3255dcac0": {
     "name": "ATMNumber7-9",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/ATMObjects2/9/ATMNumber7-9/ATMNumber7-9.dat",
@@ -30997,6 +31400,22 @@
       "Size_Y": "2",
       "Size_Z": "0.6",
       "Pro": ""
+    },
+    "translation": null
+  },
+  "218fbdc9f42e4055bd7ea9f07e463eef": {
+    "name": "PaintingGNX",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingGNX/PaintingGNX.dat",
+    "data": {
+      "GUID": "218fbdc9f42e4055bd7ea9f07e463eef",
+      "Type": "Spawn",
+      "ID": "51374",
+      "Tables": [
+        {
+          "Guid": "9f1389166c224626ad5f5d35c8eab275",
+          "Weight": "100"
+        }
+      ]
     },
     "translation": null
   },
@@ -32635,6 +33054,47 @@
       "Name": "Bush Russet Snow"
     }
   },
+  "233cb46d235a4944be9e0855c3026962": {
+    "name": "AthenaDrum",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/AthenaDrum/AthenaDrum.dat",
+    "data": {
+      "GUID": "233cb46d235a4944be9e0855c3026962",
+      "Type": "Magazine",
+      "Rarity": "Mythical",
+      "ID": "52552",
+      "Size_X": "2",
+      "Size_Y": "2",
+      "Size_Z": "0.325",
+      "Use_Auto_Icon_Measurements": "false",
+      "Amount": "200",
+      "Count_Min": "100",
+      "Count_Max": "200",
+      "Calibers": "1",
+      "Caliber_0": "52550",
+      "Tracer": "51000",
+      "Blueprints": "4",
+      "Blueprint_0_Type": "Ammo",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52552",
+      "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Ammo",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "52085",
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Ammo",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "52086",
+      "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Ammo",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "52087",
+      "Blueprint_3_Build": "30"
+    },
+    "translation": {
+      "Name": "Athena Drum",
+      "Description": "Holds 200 rounds of <color=#DB871A>Precision</color> ammo. Compatible with <color=mythical>Athena</color>."
+    }
+  },
   "233ccb5a653b47a08ed8316b0cc45b46": {
     "name": "Nothing",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Effects/Sounds/Nothing/Nothing.dat",
@@ -33499,6 +33959,35 @@
       "Name": "PBS Table"
     }
   },
+  "246b672ff2e74b5db48889d5a40a4a83": {
+    "name": "M60_Iron",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Attachments/M60_Iron/M60_Iron.dat",
+    "data": {
+      "GUID": "246b672ff2e74b5db48889d5a40a4a83",
+      "Type": "Sight",
+      "Rarity": "Rare",
+      "ID": "52533",
+      "Zoom_Using_Eyes": "True",
+      "Zoom": "1.1",
+      "Size_X": "1",
+      "Size_Y": "1",
+      "Size_Z": "0.15",
+      "Calibers": "1",
+      "Caliber_0": "52532",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52533",
+      "Blueprint_0_Outputs": "1",
+      "Blueprint_0_Output_0_ID": "51017",
+      "Blueprint_0_Output_0_Amount": "1",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Pig Iron Sights",
+      "Description": "Rail mounted iron sights."
+    }
+  },
   "246ed7b7c9444bdfbfd861ebf379139a": {
     "name": "Dogfighter",
     "path": "Bundles/Skins/Bluntforce/Dogfighter/Dogfighter.dat",
@@ -33743,6 +34232,18 @@
       "Table_3_Weight": "5"
     },
     "translation": null
+  },
+  "24f5f2dc3ac44b9f9f5bf3873d355ff0": {
+    "name": "33",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Graffitis/33/33.dat",
+    "data": {
+      "GUID": "24f5f2dc3ac44b9f9f5bf3873d355ff0",
+      "Type": "Large",
+      "ID": "51000"
+    },
+    "translation": {
+      "Name": "PBS Graffiti Repo"
+    }
   },
   "24f73ee7b51949f287f7e522bdd0d9d9": {
     "name": "50_cal_unbreakable",
@@ -35190,6 +35691,22 @@
       "Description": "Can be used upgrade two rods to a better rod."
     }
   },
+  "269af80ad20e40d58353ed7ea625092e": {
+    "name": "PaintingDepress",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingDepress/PaintingDepress.dat",
+    "data": {
+      "GUID": "269af80ad20e40d58353ed7ea625092e",
+      "Type": "Spawn",
+      "ID": "51373",
+      "Tables": [
+        {
+          "Guid": "b2d9a2123c3b477e9b4fc8d28b689ae0",
+          "Weight": "100"
+        }
+      ]
+    },
+    "translation": null
+  },
   "269f92d3c7cd443886b743626e6ce699": {
     "name": "Forklift",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Vehicles/Forklift/Forklift.dat",
@@ -35504,6 +36021,43 @@
     "translation": {
       "Name": "Painting - Liveopen",
       "Description": "Beta available today!"
+    }
+  },
+  "26e9982b9e8941c6a09292b98861e448": {
+    "name": "PaintingPinky",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Pictures/PaintingPinky/PaintingPinky.dat",
+    "data": {
+      "GUID": "26e9982b9e8941c6a09292b98861e448",
+      "Type": "Barricade",
+      "Useable": "Barricade",
+      "Build": "Barricade_Wall",
+      "Rarity": "Rare",
+      "ID": "52578",
+      "SalvageItem": "26e9982b9e8941c6a09292b98861e448",
+      "Size_X": "2",
+      "Size_Y": "1",
+      "Size_Z": "0.6",
+      "Health": "40",
+      "Range": "4",
+      "Radius": "0.02",
+      "Offset": "0.1",
+      "Explosion": "58",
+      "Vulnerable": "",
+      "Salvage_Duration_Multiplier": "0.25",
+      "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+      "Bypass_Pickup_Ownership": "True",
+      "Has_Clip_Prefab": "False",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52578",
+      "Blueprint_0_Product": "51020",
+      "Blueprint_0_Products": "3",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Painting - On Trial",
+      "Description": "Pinky is up to no good."
     }
   },
   "26f703ed61f442b5ae492a95354eba23": {
@@ -37931,7 +38485,7 @@
       "Shoot_Quest_Reward_0_GUID": "ae7724167039492fb3bd8aeef222fcfa"
     },
     "translation": {
-      "Name": "Váli PRW-1",
+      "Name": "Váli PRW-0",
       "Description": "Prototype technological demonstrator, uses proprietary <color=legendary>SABOT slugs</color>. Possesses extreme projectile velocity and damage, but requires charging up."
     }
   },
@@ -38737,6 +39291,24 @@
       "Description": "Tablecloth for your neck."
     }
   },
+  "2aaf4e54f8f64512851774f4f7253264": {
+    "name": "PaintingMortis",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PaintingMortis/PaintingMortis.dat",
+    "data": {
+      "GUID": "2aaf4e54f8f64512851774f4f7253264",
+      "Type": "Medium",
+      "ID": "51000",
+      "Has_Clip_Prefab": "false",
+      "Rubble": "Destroy",
+      "Rubble_Reset": "300",
+      "Rubble_Health": "1",
+      "Rubble_Effect": "58",
+      "Rubble_Reward_ID": "51383"
+    },
+    "translation": {
+      "Name": "PBS Painting Mortis"
+    }
+  },
   "2ac6b6ee6e49481796f0ba2e256a8556": {
     "name": "CC24_StrawberrySweater",
     "path": "Bundles/Items/ComboCrate2024/CC24_StrawberrySweater/CC24_StrawberrySweater.dat",
@@ -38781,6 +39353,44 @@
     },
     "translation": {
       "Name": "PBS Carpet Funky Gray"
+    }
+  },
+  "2aedb2ee23c94edbaf128146abe02d94": {
+    "name": "Bike_Helmet_Red",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Hats/Bike_Helmet_Red/Bike_Helmet_Red.dat",
+    "data": {
+      "GUID": "2aedb2ee23c94edbaf128146abe02d94",
+      "Type": "Hat",
+      "Rarity": "Rare",
+      "Useable": "Clothing",
+      "ID": "52542",
+      "Size_X": "2",
+      "Size_Y": "2",
+      "Size_Z": "0.3",
+      "Armor": ".75",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52542",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Outputs": "2",
+      "Blueprint_0_Output_0_ID": "51017",
+      "Blueprint_0_Output_0_Amount": "2",
+      "Blueprint_0_Output_1_ID": "51028",
+      "Blueprint_0_Output_1_Amount": "2",
+      "Blueprint_0_Build": "32",
+      "Blueprint_1_Type": "Repair",
+      "Blueprint_1_Searchable": "False",
+      "Blueprint_1_Supplies": "2",
+      "Blueprint_1_Supply_0_ID": "51017",
+      "Blueprint_1_Supply_0_Amount": "2",
+      "Blueprint_1_Supply_1_ID": "51028",
+      "Blueprint_1_Supply_1_Amount": "2",
+      "Blueprint_1_Build": "32"
+    },
+    "translation": {
+      "Name": "Red Biker Helmet",
+      "Description": "Protects your head from any nasty impacts."
     }
   },
   "2b063985fa464e5a996dfb28d395a7d0": {
@@ -39125,6 +39735,24 @@
       "GUID": "2b605aa3581447169b80734a04cec0e9",
       "Type": "Skin",
       "ID": "131"
+    },
+    "translation": null
+  },
+  "2b6a87007c1940578ef9217410dfcf08": {
+    "name": "PBS_SergeantSetup",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/PBS_SergeantSetup/PBS_SergeantSetup.dat",
+    "data": {
+      "GUID": "2b6a87007c1940578ef9217410dfcf08",
+      "Type": "RewardsList",
+      "Rewards": "2",
+      "Reward_0_Type": "Item",
+      "Reward_0_ID": "52491",
+      "Reward_0_Amount": "1",
+      "Reward_0_Barrel": "51077",
+      "Reward_0_Tactical": "52267",
+      "Reward_1_Type": "Item",
+      "Reward_1_ID": "52088",
+      "Reward_1_Amount": "3"
     },
     "translation": null
   },
@@ -40296,7 +40924,7 @@
       "Size_X": "5",
       "Size_Y": "2",
       "Size_Z": "0.35",
-      "Magazine": "52088",
+      "Magazine": "52388",
       "Shell": "51051",
       "Ammo_Min": "20",
       "Ammo_Max": "20",
@@ -45752,11 +46380,7 @@
           "Weight": "52"
         },
         {
-          "Guid": "d05228818f204fe79286c11a5b7ba549",
-          "Weight": "50"
-        },
-        {
-          "Guid": "bb560f56ca2b4f638df93460f674b42d",
+          "Guid": "8ca8e3ea67564470b04f4c63fa01839b",
           "Weight": "50"
         },
         {
@@ -45768,19 +46392,15 @@
           "Weight": "50"
         },
         {
-          "Guid": "8ca8e3ea67564470b04f4c63fa01839b",
+          "Guid": "d05228818f204fe79286c11a5b7ba549",
           "Weight": "50"
         },
         {
-          "Guid": "a62738bd703f4578ab4e77923bf40cf2",
-          "Weight": "30"
+          "Guid": "bb560f56ca2b4f638df93460f674b42d",
+          "Weight": "50"
         },
         {
-          "Guid": "3ca169532e564cde855b3384369f0ca5",
-          "Weight": "30"
-        },
-        {
-          "Guid": "ef2f901cade64c939220ce2da5c6ab22",
+          "Guid": "ee0530de710b411c962b2673489aa875",
           "Weight": "30"
         },
         {
@@ -45788,7 +46408,15 @@
           "Weight": "30"
         },
         {
-          "Guid": "0b54ee1c68df4cd6800d52a9c86e1a93",
+          "Guid": "a62738bd703f4578ab4e77923bf40cf2",
+          "Weight": "30"
+        },
+        {
+          "Guid": "ef2f901cade64c939220ce2da5c6ab22",
+          "Weight": "30"
+        },
+        {
+          "Guid": "3ca169532e564cde855b3384369f0ca5",
           "Weight": "30"
         },
         {
@@ -45796,11 +46424,7 @@
           "Weight": "30"
         },
         {
-          "Guid": "96670dd3c7a34c6d89098bf71aed8a73",
-          "Weight": "30"
-        },
-        {
-          "Guid": "ee0530de710b411c962b2673489aa875",
+          "Guid": "0b54ee1c68df4cd6800d52a9c86e1a93",
           "Weight": "30"
         },
         {
@@ -45808,31 +46432,23 @@
           "Weight": "25"
         },
         {
+          "Guid": "4e09c02a28224f74b2c490f3c63cda4b",
+          "Weight": "25"
+        },
+        {
+          "Guid": "96670dd3c7a34c6d89098bf71aed8a73",
+          "Weight": "25"
+        },
+        {
           "Guid": "0995731f2adb4152bf0153b1801cf853",
           "Weight": "23"
         },
         {
-          "Guid": "cd6275ba582b47509581114b5fbeee35",
+          "Guid": "249fe1c36cfa4714862b0fc0aabfc6b1",
           "Weight": "20"
         },
         {
-          "Guid": "e17a99f39e9446899d184eb78e736833",
-          "Weight": "20"
-        },
-        {
-          "Guid": "f6f946744fac49e68e9cdee020887dca",
-          "Weight": "20"
-        },
-        {
-          "Guid": "ed7e698462a642899b609881a6ebff28",
-          "Weight": "20"
-        },
-        {
-          "Guid": "4ed0ec85a53e4fadaf1a49189fa24dc1",
-          "Weight": "20"
-        },
-        {
-          "Guid": "1e8c8e166efb4357b321e11f3103d02f",
+          "Guid": "1c5633d00a864fa2a484069f42220a78",
           "Weight": "20"
         },
         {
@@ -45840,12 +46456,40 @@
           "Weight": "20"
         },
         {
+          "Guid": "e17a99f39e9446899d184eb78e736833",
+          "Weight": "20"
+        },
+        {
+          "Guid": "cd6275ba582b47509581114b5fbeee35",
+          "Weight": "20"
+        },
+        {
           "Guid": "c2bc13c65b664a76aba53e1a2ef228dc",
           "Weight": "20"
         },
         {
-          "Guid": "249fe1c36cfa4714862b0fc0aabfc6b1",
+          "Guid": "ed7e698462a642899b609881a6ebff28",
           "Weight": "20"
+        },
+        {
+          "Guid": "1e8c8e166efb4357b321e11f3103d02f",
+          "Weight": "20"
+        },
+        {
+          "Guid": "4ed0ec85a53e4fadaf1a49189fa24dc1",
+          "Weight": "20"
+        },
+        {
+          "Guid": "f6f946744fac49e68e9cdee020887dca",
+          "Weight": "20"
+        },
+        {
+          "Guid": "6b24fef08e5044dc81571b2f7c09a70d",
+          "Weight": "15"
+        },
+        {
+          "Guid": "ba818789052c41d689b986775740d393",
+          "Weight": "15"
         },
         {
           "Guid": "583bc4f0284047c3964b46a44e60fd33",
@@ -45856,15 +46500,11 @@
           "Weight": "15"
         },
         {
-          "Guid": "ba818789052c41d689b986775740d393",
-          "Weight": "15"
+          "Guid": "9fe3e904c65a41c086ef082bded6fa94",
+          "Weight": "10"
         },
         {
-          "Guid": "6b24fef08e5044dc81571b2f7c09a70d",
-          "Weight": "15"
-        },
-        {
-          "Guid": "6d7677d8761d4d7ab9e9cf6fd90c7741",
+          "Guid": "093ec67248fc406eb66e1d0c070b09d1",
           "Weight": "10"
         },
         {
@@ -45872,7 +46512,7 @@
           "Weight": "10"
         },
         {
-          "Guid": "9fe3e904c65a41c086ef082bded6fa94",
+          "Guid": "6d7677d8761d4d7ab9e9cf6fd90c7741",
           "Weight": "10"
         },
         {
@@ -45894,10 +46534,6 @@
         {
           "Guid": "171663bacecf437899224e2ecb2a1bcf",
           "Weight": "5"
-        },
-        {
-          "Guid": "093ec67248fc406eb66e1d0c070b09d1",
-          "Weight": "3"
         },
         {
           "Guid": "3349a35d28bf4d5faaa375a4d840bb11",
@@ -46012,6 +46648,10 @@
         {
           "Guid": "88c90e472853413ead4aa14f2b9e43aa",
           "Weight": "1"
+        },
+        {
+          "Guid": "c3861d91fa6d4c2a97917b329108a0c8",
+          "Weight": "1"
         }
       ]
     },
@@ -46070,7 +46710,7 @@
       "Buying_2_Rewards": "1",
       "Buying_2_Reward_0_Type": "Rewards_List_Asset",
       "Buying_2_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Selling": "12",
+      "Selling": "14",
       "Selling_0_ID": "52207",
       "Selling_0_Cost": "600",
       "Selling_0_Rewards": "3",
@@ -46137,7 +46777,7 @@
       "Selling_4_Reward_2_Type": "Rewards_List_Asset",
       "Selling_4_Reward_2_GUID": "d424d1658c214b4c938c022f9c2eaace",
       "Selling_5_ID": "52491",
-      "Selling_5_Cost": "1000",
+      "Selling_5_Cost": "1250",
       "Selling_5_Rewards": "2",
       "Selling_5_Reward_0_Type": "Item",
       "Selling_5_Reward_0_ID": "51041",
@@ -46148,40 +46788,61 @@
       "Selling_5_Condition_0_Type": "Is_Full_Moon",
       "Selling_5_Condition_0_Value": "True",
       "Selling_5_Condition_0_Logic": "Equal",
-      "Selling_6_ID": "51910",
-      "Selling_6_Cost": "40",
-      "Selling_6_Rewards": "1",
-      "Selling_6_Reward_0_Type": "Rewards_List_Asset",
-      "Selling_6_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_7_ID": "51912",
-      "Selling_7_Cost": "125",
+      "Selling_6_ID": "52538",
+      "Selling_6_Cost": "1250",
+      "Selling_6_Rewards": "2",
+      "Selling_6_Reward_0_Type": "Item",
+      "Selling_6_Reward_0_ID": "52088 ",
+      "Selling_6_Reward_0_Amount": "2",
+      "Selling_6_Reward_1_Type": "Rewards_List_Asset",
+      "Selling_6_Reward_1_GUID": "d424d1658c214b4c938c022f9c2eaace",
+      "Selling_6_Conditions": "1",
+      "Selling_6_Condition_0_Type": "Is_Full_Moon",
+      "Selling_6_Condition_0_Value": "True",
+      "Selling_6_Condition_0_Logic": "Equal",
+      "Selling_7_ID": "51910",
+      "Selling_7_Cost": "40",
       "Selling_7_Rewards": "1",
       "Selling_7_Reward_0_Type": "Rewards_List_Asset",
       "Selling_7_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_8_ID": "51039",
-      "Selling_8_Cost": "40",
+      "Selling_8_ID": "51912",
+      "Selling_8_Cost": "125",
       "Selling_8_Rewards": "1",
       "Selling_8_Reward_0_Type": "Rewards_List_Asset",
       "Selling_8_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_9_ID": "51040",
+      "Selling_9_ID": "51039",
       "Selling_9_Cost": "40",
       "Selling_9_Rewards": "1",
       "Selling_9_Reward_0_Type": "Rewards_List_Asset",
       "Selling_9_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_10_ID": "51041",
-      "Selling_10_Cost": "125",
+      "Selling_10_ID": "51040",
+      "Selling_10_Cost": "40",
       "Selling_10_Rewards": "1",
       "Selling_10_Reward_0_Type": "Rewards_List_Asset",
       "Selling_10_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_10_Conditions": "1",
-      "Selling_10_Condition_0_Type": "Is_Full_Moon",
-      "Selling_10_Condition_0_Value": "True",
-      "Selling_10_Condition_0_Logic": "Equal",
-      "Selling_11_ID": "51077 ",
-      "Selling_11_Cost": "150",
+      "Selling_11_ID": "51041",
+      "Selling_11_Cost": "125",
       "Selling_11_Rewards": "1",
       "Selling_11_Reward_0_Type": "Rewards_List_Asset",
       "Selling_11_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
+      "Selling_11_Conditions": "1",
+      "Selling_11_Condition_0_Type": "Is_Full_Moon",
+      "Selling_11_Condition_0_Value": "True",
+      "Selling_11_Condition_0_Logic": "Equal",
+      "Selling_12_ID": "52088",
+      "Selling_12_Cost": "200",
+      "Selling_12_Rewards": "1",
+      "Selling_12_Reward_0_Type": "Rewards_List_Asset",
+      "Selling_12_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
+      "Selling_12_Conditions": "1",
+      "Selling_12_Condition_0_Type": "Is_Full_Moon",
+      "Selling_12_Condition_0_Value": "True",
+      "Selling_12_Condition_0_Logic": "Equal",
+      "Selling_13_ID": "51077 ",
+      "Selling_13_Cost": "150",
+      "Selling_13_Rewards": "1",
+      "Selling_13_Reward_0_Type": "Rewards_List_Asset",
+      "Selling_13_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
       "Currency": "561f74cdccdf48abaa6d49343b56aab0"
     },
     "translation": {
@@ -48414,6 +49075,18 @@
     },
     "translation": null
   },
+  "33ea3727bc0141c8ab3e39a2aa80a2f7": {
+    "name": "32",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Graffitis/32/32.dat",
+    "data": {
+      "GUID": "33ea3727bc0141c8ab3e39a2aa80a2f7",
+      "Type": "Large",
+      "ID": "51000"
+    },
+    "translation": {
+      "Name": "PBS Graffiti X"
+    }
+  },
   "33f461e74c9c46479c8477b0b687a6b0": {
     "name": "Tired2",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Pictures/Tired2/Tired2.dat",
@@ -48672,6 +49345,18 @@
     "translation": {
       "Name": "Metal Upper Triangular Ramp",
       "Description": "Metal upper triangular ramp. Beware of robotic termites."
+    }
+  },
+  "3418f2991706413a8ecb6d113b1d720d": {
+    "name": "39",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Graffitis/39/39.dat",
+    "data": {
+      "GUID": "3418f2991706413a8ecb6d113b1d720d",
+      "Type": "Large",
+      "ID": "51000"
+    },
+    "translation": {
+      "Name": "PBS Graffiti Cecilia"
     }
   },
   "341a12e4ec1d424ca56876b4e9a722ac": {
@@ -51621,6 +52306,94 @@
     },
     "translation": null
   },
+  "37450a90c5b74a19ad1557051ea728b3": {
+    "name": "Athena",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Weapons/Guns/Athena/Athena.dat",
+    "data": {
+      "GUID": "37450a90c5b74a19ad1557051ea728b3",
+      "Type": "Gun",
+      "Rarity": "Mythical",
+      "Useable": "Gun",
+      "Slot": "Primary",
+      "ID": "52550",
+      "Instantiated_Item_Name_Override": "51202",
+      "Size_X": "5",
+      "Size_Y": "2",
+      "Size_Z": "0.475",
+      "Magazine": "52552",
+      "Tactical": "52551",
+      "Durability": "0",
+      "Quality_Min": "100",
+      "Quality_Max": "100",
+      "Ammo_Min": "100",
+      "Ammo_Max": "200",
+      "Auto": "",
+      "Backward": "",
+      "Caliber": "52550",
+      "Shell": "51057",
+      "Equipable_Movement_Speed_Multiplier": "0.9",
+      "Range": "400",
+      "Firerate": "4",
+      "Replace": "0.625",
+      "Action": "Minigun",
+      "Player_Damage": "20",
+      "Player_Leg_Multiplier": ".75",
+      "Player_Arm_Multiplier": ".75",
+      "Player_Spine_Multiplier": "1",
+      "Player_Skull_Multiplier": "1.25",
+      "Zombie_Damage": "150",
+      "Zombie_Leg_Multiplier": "0.45",
+      "Zombie_Arm_Multiplier": "0.45",
+      "Zombie_Spine_Multiplier": "0.8",
+      "Zombie_Skull_Multiplier": "1.2",
+      "Animal_Damage": "150",
+      "Animal_Leg_Multiplier": "0.6",
+      "Animal_Spine_Multiplier": "0.8",
+      "Animal_Skull_Multiplier": "1.1",
+      "Barricade_Damage": "10",
+      "Structure_Damage": "10",
+      "Vehicle_Damage": "25",
+      "Resource_Damage": "20",
+      "Object_Damage": "30",
+      "Aim_In_Duration": "0.5",
+      "Spread_Aim": "0.15",
+      "Spread_Hip": "0.2",
+      "Recoil_Min_Y": "0.375",
+      "Recoil_Max_Y": "0.75",
+      "Shake_Min_X": "-0.02",
+      "Shake_Min_Y": "0.02",
+      "Shake_Min_Z": "-0.05",
+      "Shake_Max_X": "0.02",
+      "Shake_Max_Y": "-0.02",
+      "Shake_Max_Z": "-0.1",
+      "Muzzle": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52550",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Outputs": "3",
+      "Blueprint_0_Output_0_ID": "51950",
+      "Blueprint_0_Output_0_Amount": "3",
+      "Blueprint_0_Output_1_ID": "51030",
+      "Blueprint_0_Output_1_Amount": "4",
+      "Blueprint_0_Output_2_ID": "51017",
+      "Blueprint_0_Output_2_Amount": "8",
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Repair",
+      "Blueprint_1_Searchable": "False",
+      "Blueprint_1_Supply_0_ID": "51950",
+      "Blueprint_1_Supply_0_Amount": "3",
+      "Blueprint_1_Build": "27",
+      "Shoot_Quest_Rewards": "1",
+      "Shoot_Quest_Reward_0_Type": "Rewards_List_Asset",
+      "Shoot_Quest_Reward_0_GUID": "ae7724167039492fb3bd8aeef222fcfa"
+    },
+    "translation": {
+      "Name": "Athena",
+      "Description": "High-caliber, makeshift machine gun, uses <color=mythical>Minigun Drums</color>."
+    }
+  },
   "374ead87adec4984b5710503c864411d": {
     "name": "PBS_EOD_Radio_Comp",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_EOD_Radio/PBS_EOD_Radio_Comp/Asset.dat",
@@ -53194,7 +53967,7 @@
       "Type": "Vendor",
       "ID": "52060",
       "Disable_Sorting": "",
-      "Buying": "21",
+      "Buying": "22",
       "Buying_0_ID": "51039",
       "Buying_0_Cost": "15",
       "Buying_0_Amount": "8",
@@ -53313,6 +54086,12 @@
       "Buying_20_Rewards": "1",
       "Buying_20_Reward_0_Type": "Rewards_List_Asset",
       "Buying_20_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_21_ID": "52057",
+      "Buying_21_Cost": "1000",
+      "Buying_21_Amount": "200",
+      "Buying_21_Rewards": "1",
+      "Buying_21_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_21_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Currency": "561f74cdccdf48abaa6d49343b56aab0"
     },
     "translation": {
@@ -56438,6 +57217,22 @@
       "Size_Y": "2",
       "Size_Z": "0.65",
       "Pro": ""
+    },
+    "translation": null
+  },
+  "3ce31f8bd7a340d6883ee152d81319b0": {
+    "name": "PaintingPinky",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingPinky/PaintingPinky.dat",
+    "data": {
+      "GUID": "3ce31f8bd7a340d6883ee152d81319b0",
+      "Type": "Spawn",
+      "ID": "51384",
+      "Tables": [
+        {
+          "Guid": "26e9982b9e8941c6a09292b98861e448",
+          "Weight": "100"
+        }
+      ]
     },
     "translation": null
   },
@@ -62794,6 +63589,44 @@
     },
     "translation": null
   },
+  "43482cd72c5f48f99c5452a3773ec731": {
+    "name": "Bike_Helmet_Blue",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Hats/Bike_Helmet_Blue/Bike_Helmet_Blue.dat",
+    "data": {
+      "GUID": "43482cd72c5f48f99c5452a3773ec731",
+      "Type": "Hat",
+      "Rarity": "Rare",
+      "Useable": "Clothing",
+      "ID": "52544",
+      "Size_X": "2",
+      "Size_Y": "2",
+      "Size_Z": "0.3",
+      "Armor": ".75",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52544",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Outputs": "2",
+      "Blueprint_0_Output_0_ID": "51017",
+      "Blueprint_0_Output_0_Amount": "2",
+      "Blueprint_0_Output_1_ID": "51028",
+      "Blueprint_0_Output_1_Amount": "2",
+      "Blueprint_0_Build": "32",
+      "Blueprint_1_Type": "Repair",
+      "Blueprint_1_Searchable": "False",
+      "Blueprint_1_Supplies": "2",
+      "Blueprint_1_Supply_0_ID": "51017",
+      "Blueprint_1_Supply_0_Amount": "2",
+      "Blueprint_1_Supply_1_ID": "51028",
+      "Blueprint_1_Supply_1_Amount": "2",
+      "Blueprint_1_Build": "32"
+    },
+    "translation": {
+      "Name": "Blue Biker Helmet",
+      "Description": "Protects your head from any nasty impacts."
+    }
+  },
   "4353c4da6b0a4441ae6f39305b20cb36": {
     "name": "Washington Arena_Arena_Bonus",
     "path": "Bundles/Spawns/Items/Washington Arena_Arena_Bonus/Washington Arena_Arena_Bonus.dat",
@@ -63884,6 +64717,21 @@
       "Name": "Purple Flare",
       "Description": "Road flare for quickly lighting up an area."
     }
+  },
+  "447d9cc76ec140db972424ffb66cfeab": {
+    "name": "AirdropGatling",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Effects/Test/AirdropGatling/AirdropGatling.dat",
+    "data": {
+      "GUID": "447d9cc76ec140db972424ffb66cfeab",
+      "Type": "Effect",
+      "ID": "51058",
+      "Spawn_On_Dedicated_Server": "",
+      "Relevant_Distance": "5000",
+      "Lifetime": "31",
+      "Lifetime_Spread": "0",
+      "Should_Play_Anims_On_Dedicated_Server": "true"
+    },
+    "translation": null
   },
   "4492cbde8fa74c6b898d3b032d1f4835": {
     "name": "PBS_Hard_Hat",
@@ -71870,6 +72718,24 @@
     },
     "translation": null
   },
+  "4cbc427efa7c4df092cd88b1df3747f5": {
+    "name": "Bike_Helmet_Special",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Hats/Bike_Helmet_Special/Bike_Helmet_Special.dat",
+    "data": {
+      "GUID": "4cbc427efa7c4df092cd88b1df3747f5",
+      "Type": "Hat",
+      "Rarity": "Mythical",
+      "Useable": "Clothing",
+      "ID": "52548",
+      "Size_X": "2",
+      "Size_Y": "2",
+      "Size_Z": "0.3"
+    },
+    "translation": {
+      "Name": "Cat Rider Helmet",
+      "Description": "This kitten's got claws. She'll continue to ride on into the night."
+    }
+  },
   "4cc18cc25435443593e4e94cd1f82e88": {
     "name": "Bush_Teal_Snow_Foliage",
     "path": "Bundles/Assets/Landscapes/Foliage/Resources/Bush_Teal_Snow_Foliage.asset",
@@ -71948,6 +72814,20 @@
     },
     "translation": {
       "Name": "Russia Boulder #05"
+    }
+  },
+  "4cc49b2ba7f4484ca3e3bf2cca6f043f": {
+    "name": "PBS_Jennifer_Vend",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Jennifer/PBS_Jennifer_Vend/Asset.dat",
+    "data": {
+      "GUID": "4cc49b2ba7f4484ca3e3bf2cca6f043f",
+      "Type": "Dialogue",
+      "ID": "53202",
+      "Messages": "1",
+      "Message_0_Pages": "1"
+    },
+    "translation": {
+      "Message_0_Page_0": "Treat 'em well!"
     }
   },
   "4cc9e7f90ce948a5b9a3ec39b8ad6fac": {
@@ -72864,6 +73744,109 @@
     "translation": {
       "Name": "Throwing Axe",
       "Description": "Small throwable hatchet."
+    }
+  },
+  "4e09c02a28224f74b2c490f3c63cda4b": {
+    "name": "Shark",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Weapons/Guns/Shark/Shark.dat",
+    "data": {
+      "GUID": "4e09c02a28224f74b2c490f3c63cda4b",
+      "Type": "Gun",
+      "Rarity": "Legendary",
+      "Useable": "Gun",
+      "Slot": "Primary",
+      "ID": "52536",
+      "Instantiated_Item_Name_Override": "51322",
+      "Size_X": "4",
+      "Size_Y": "2",
+      "Size_Z": "0.35",
+      "Magazine": "52088",
+      "Attachment_Calibers": "1",
+      "Attachment_Caliber_0": "0",
+      "Magazine_Calibers": "1",
+      "Magazine_Caliber_0": "51005",
+      "Hook_Barrel": "",
+      "Hook_Sight": "",
+      "Hook_Grip": "",
+      "Hook_Tactical": "",
+      "Shell": "51051",
+      "Ammo_Min": "10",
+      "Ammo_Max": "20",
+      "Auto": "",
+      "Semi": "",
+      "Sight": "51084",
+      "Caliber": "51005",
+      "Range": "400",
+      "Firerate": "9",
+      "Action": "Trigger",
+      "Player_Damage": "37",
+      "Player_Leg_Multiplier": ".75",
+      "Player_Arm_Multiplier": ".75",
+      "Player_Spine_Multiplier": "1",
+      "Player_Skull_Multiplier": "1.25",
+      "Zombie_Damage": "125",
+      "Zombie_Leg_Multiplier": "0.75",
+      "Zombie_Arm_Multiplier": "0.75",
+      "Zombie_Spine_Multiplier": "0.9",
+      "Zombie_Skull_Multiplier": "2",
+      "Animal_Damage": "125",
+      "Animal_Leg_Multiplier": "0.6",
+      "Animal_Spine_Multiplier": "0.8",
+      "Animal_Skull_Multiplier": "1.1",
+      "Barricade_Damage": "5",
+      "Structure_Damage": "5",
+      "Vehicle_Damage": "30",
+      "Resource_Damage": "20",
+      "Object_Damage": "100",
+      "Durability": "0",
+      "Quality_Min": "100",
+      "Quality_Max": "100",
+      "Aim_In_Duration": "0.15",
+      "Recoil_Min_X": "4",
+      "Recoil_Max_X": "-4",
+      "Recoil_Min_Y": "8",
+      "Recoil_Max_Y": "8",
+      "Spread_Aim": "0.0625",
+      "Spread_Hip": "0.25",
+      "Remove": "0",
+      "Replace": "0",
+      "Recover_X": "0.1",
+      "Recover_Y": "0.1",
+      "Shake_Min_X": ".01",
+      "Shake_Min_Y": "0",
+      "Shake_Min_Z": "-.1",
+      "Shake_Max_X": "-.01",
+      "Shake_Max_Y": "0",
+      "Shake_Max_Z": "-.1.3",
+      "Muzzle": "",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52536",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Outputs": "3",
+      "Blueprint_0_Output_0_ID": "51036",
+      "Blueprint_0_Output_0_Amount": "2",
+      "Blueprint_0_Output_1_ID": "51035",
+      "Blueprint_0_Output_1_Amount": "1",
+      "Blueprint_0_Output_2_ID": "51017",
+      "Blueprint_0_Output_2_Amount": "4",
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Repair",
+      "Blueprint_1_Searchable": "False",
+      "Blueprint_1_Supplies": "2",
+      "Blueprint_1_Supply_0_ID": "51036",
+      "Blueprint_1_Supply_0_Amount": "2",
+      "Blueprint_1_Supply_1_ID": "51035",
+      "Blueprint_1_Supply_1_Amount": "1",
+      "Blueprint_1_Build": "27",
+      "Shoot_Quest_Rewards": "1",
+      "Shoot_Quest_Reward_0_Type": "Rewards_List_Asset",
+      "Shoot_Quest_Reward_0_GUID": "ae7724167039492fb3bd8aeef222fcfa"
+    },
+    "translation": {
+      "Name": "Shark",
+      "Description": "Close quarters battle rifle, uses <color=rare>Marksman Magazines</color>."
     }
   },
   "4e138f97565d480b86457ddb0b89510a": {
@@ -75638,6 +76621,43 @@
     },
     "translation": null
   },
+  "514ce7442fc1476eab23b13f15b20623": {
+    "name": "PaintingHUT",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Pictures/PaintingHUT/PaintingHUT.dat",
+    "data": {
+      "GUID": "514ce7442fc1476eab23b13f15b20623",
+      "Type": "Barricade",
+      "Useable": "Barricade",
+      "Build": "Barricade_Wall",
+      "Rarity": "Rare",
+      "ID": "52573",
+      "SalvageItem": "514ce7442fc1476eab23b13f15b20623",
+      "Size_X": "1",
+      "Size_Y": "1",
+      "Size_Z": "0.6",
+      "Health": "40",
+      "Range": "4",
+      "Radius": "0.02",
+      "Offset": "0.1",
+      "Explosion": "58",
+      "Vulnerable": "",
+      "Salvage_Duration_Multiplier": "0.25",
+      "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+      "Bypass_Pickup_Ownership": "True",
+      "Has_Clip_Prefab": "False",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52573",
+      "Blueprint_0_Product": "51020",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Painting - Hurry Up",
+      "Description": "Ever since I was a jit, I was a jit."
+    }
+  },
   "5150ca8f765d4a68bfe54912146da410": {
     "name": "CanadianCurrency",
     "path": "Bundles/Items/Supplies/CanadianCurrency.asset",
@@ -77559,6 +78579,92 @@
     },
     "translation": {
       "Name": "PBS Glutton Screen #9-6"
+    }
+  },
+  "53542a1ab7844d8484e2aba05a0f28a5": {
+    "name": "Krieger_Exakt",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Visitors/Setups/Krieger_Exakt/Krieger_Exakt.dat",
+    "data": {
+      "GUID": "53542a1ab7844d8484e2aba05a0f28a5",
+      "Type": "Gun",
+      "Rarity": "Epic",
+      "Useable": "Gun",
+      "Slot": "Primary",
+      "ID": "52516",
+      "Instantiated_Item_Name_Override": "51220",
+      "Pro": "",
+      "Master_Bundle_Override": "pbs.masterbundle",
+      "Bundle_Override_Path": "/Items/Weapons/Guns/Exakt",
+      "Size_X": "5",
+      "Size_Y": "2",
+      "Size_Z": "0.35",
+      "Magazine": "52089",
+      "Hook_Barrel": "",
+      "Hook_Sight": "",
+      "Hook_Grip": "",
+      "Hook_Tactical": "",
+      "Shell": "51051",
+      "Ammo_Min": "4",
+      "Ammo_Max": "8",
+      "Semi": "",
+      "Sight": "52531",
+      "Grip": "51088",
+      "Barrel": "51089",
+      "Tactical": "51076",
+      "Caliber": "51004",
+      "Range": "500",
+      "Firerate": "9",
+      "Action": "Trigger",
+      "Player_Damage": "55",
+      "Player_Leg_Multiplier": ".75",
+      "Player_Arm_Multiplier": ".75",
+      "Player_Spine_Multiplier": "1",
+      "Player_Skull_Multiplier": "1.25",
+      "Zombie_Damage": "99",
+      "Zombie_Leg_Multiplier": "0.35",
+      "Zombie_Arm_Multiplier": "0.35",
+      "Zombie_Spine_Multiplier": "0.6",
+      "Zombie_Skull_Multiplier": "1.2",
+      "Animal_Damage": "50",
+      "Animal_Leg_Multiplier": "0.6",
+      "Animal_Spine_Multiplier": "0.8",
+      "Animal_Skull_Multiplier": "1.1",
+      "Barricade_Damage": "5",
+      "Structure_Damage": "5",
+      "Vehicle_Damage": "30",
+      "Resource_Damage": "20",
+      "Object_Damage": "25",
+      "Durability": "0",
+      "Quality_Min": "100",
+      "Quality_Max": "100",
+      "Ballistic_Steps": "40",
+      "Ballistic_Travel": "12.5",
+      "Bullet_Gravity_Multiplier": "3",
+      "Aim_In_Duration": "0.15",
+      "Recoil_Min_X": "4",
+      "Recoil_Max_X": "0",
+      "Recoil_Min_Y": "8",
+      "Recoil_Max_Y": "12",
+      "Spread_Aim": "0.01",
+      "Spread_Hip": "0.2",
+      "Remove": "0",
+      "Replace": "0",
+      "Recover_X": "0.1",
+      "Recover_Y": "0.1",
+      "Shake_Min_X": ".01",
+      "Shake_Min_Y": "0",
+      "Shake_Min_Z": "-.03",
+      "Shake_Max_X": "-.01",
+      "Shake_Max_Y": "0",
+      "Shake_Max_Z": "-.05",
+      "Muzzle": "",
+      "Shoot_Quest_Rewards": "1",
+      "Shoot_Quest_Reward_0_Type": "Rewards_List_Asset",
+      "Shoot_Quest_Reward_0_GUID": "ae7724167039492fb3bd8aeef222fcfa"
+    },
+    "translation": {
+      "Name": "Schützin",
+      "Description": "No compromise for precision and power.  This <color=epic>Exakt</color> comes with the standard <color=epic>6x Scope</color>, accurized <color=rare>Precision Barrel</color>, <color=rare>Tactical Laser</color>, <color=epic>Bipod</color>, and rounds ready to fire."
     }
   },
   "5357a38c3242452d854eb7d836c19360": {
@@ -80719,10 +81825,6 @@
           "Weight": "200"
         },
         {
-          "Guid": "96670dd3c7a34c6d89098bf71aed8a73",
-          "Weight": "200"
-        },
-        {
           "Guid": "662ea163263d4f01a9bc41283e3a97b9",
           "Weight": "195"
         },
@@ -80737,6 +81839,14 @@
         {
           "Guid": "e3dd91edb4de411ca4386689357fa060",
           "Weight": "195"
+        },
+        {
+          "Guid": "96670dd3c7a34c6d89098bf71aed8a73",
+          "Weight": "150"
+        },
+        {
+          "Guid": "4e09c02a28224f74b2c490f3c63cda4b",
+          "Weight": "150"
         },
         {
           "Guid": "a62738bd703f4578ab4e77923bf40cf2",
@@ -80775,11 +81885,11 @@
           "Weight": "5"
         },
         {
-          "Guid": "fa222d97e10e4bdb9407611f9055f16c",
+          "Guid": "3349a35d28bf4d5faaa375a4d840bb11",
           "Weight": "3"
         },
         {
-          "Guid": "3349a35d28bf4d5faaa375a4d840bb11",
+          "Guid": "fa222d97e10e4bdb9407611f9055f16c",
           "Weight": "3"
         }
       ]
@@ -81280,6 +82390,26 @@
           "Weight": "100"
         }
       ]
+    },
+    "translation": null
+  },
+  "56d856eba1d446148ce7d1077bb6ab8b": {
+    "name": "PBS_PigSetup",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/Deadzone/PBS_PigSetup/PBS_PigSetup.dat",
+    "data": {
+      "GUID": "56d856eba1d446148ce7d1077bb6ab8b",
+      "Type": "RewardsList",
+      "Conditions": "0",
+      "Rewards": "2",
+      "Reward_0_Type": "Item",
+      "Reward_0_ID": "52532",
+      "Reward_0_Amount": "1",
+      "Reward_0_Barrel": "51077",
+      "Reward_0_Tactical": "51076",
+      "Reward_0_Magazine": "52534",
+      "Reward_1_Type": "Item",
+      "Reward_1_ID": "52534",
+      "Reward_1_Amount": "1"
     },
     "translation": null
   },
@@ -82040,6 +83170,78 @@
     },
     "translation": null
   },
+  "57f9af5cd953445cb0087439b75f89ec": {
+    "name": "Blimp",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Vehicles/Blimp/Blimp.dat",
+    "data": {
+      "GUID": "57f9af5cd953445cb0087439b75f89ec",
+      "Type": "Vehicle",
+      "Rarity": "Legendary",
+      "ID": "51038",
+      "Speed_Min": "-12",
+      "Speed_Max": "12",
+      "Steer_Min": "8",
+      "Steer_Max": "32",
+      "Brake": "32",
+      "Fuel": "5000",
+      "Health_Min": "1500",
+      "Health_Max": "1700",
+      "Health": "20000",
+      "LockMouse": "",
+      "Engine": "Blimp",
+      "Trunk_Storage_X": "10",
+      "Trunk_Storage_Y": "20",
+      "Cam_Follow_Distance": "90",
+      "Explosion": "51045",
+      "Tires_Invulnerable": "",
+      "Exit": "4",
+      "Override_Center_Of_Mass": "True",
+      "Center_Of_Mass_Y": "-50",
+      "Has_Clip_Prefab": "false",
+      "Turrets": "6",
+      "Turret_0_Seat_Index": "5",
+      "Turret_0_Item_ID": "51288",
+      "Turret_0_Yaw_Min": "0",
+      "Turret_0_Yaw_Max": "0",
+      "Turret_0_Pitch_Min": "90",
+      "Turret_0_Pitch_Max": "90",
+      "Turret_1_Seat_Index": "6",
+      "Turret_1_Item_ID": "51299",
+      "Turret_1_Yaw_Min": "-50",
+      "Turret_1_Yaw_Max": "50",
+      "Turret_1_Pitch_Min": "45",
+      "Turret_1_Pitch_Max": "160",
+      "Turret_2_Seat_Index": "7",
+      "Turret_2_Item_ID": "51299",
+      "Turret_2_Yaw_Min": "-50",
+      "Turret_2_Yaw_Max": "50",
+      "Turret_2_Pitch_Min": "45",
+      "Turret_2_Pitch_Max": "160",
+      "Turret_3_Seat_Index": "8",
+      "Turret_3_Item_ID": "52476",
+      "Turret_3_Yaw_Min": "-50",
+      "Turret_3_Yaw_Max": "50",
+      "Turret_3_Pitch_Min": "45",
+      "Turret_3_Pitch_Max": "160",
+      "Turret_4_Seat_Index": "9",
+      "Turret_4_Item_ID": "52476",
+      "Turret_4_Yaw_Min": "-50",
+      "Turret_4_Yaw_Max": "50",
+      "Turret_4_Pitch_Min": "45",
+      "Turret_4_Pitch_Max": "160",
+      "Turret_5_Seat_Index": "10",
+      "Turret_5_Item_ID": "52476",
+      "Turret_5_Yaw_Min": "-50",
+      "Turret_5_Yaw_Max": "50",
+      "Turret_5_Pitch_Min": "45",
+      "Turret_5_Pitch_Max": "160",
+      "Drops_Table_ID": "51003",
+      "Default_Battery": "c934328c0f1b44c1b0e1627c1aef223b"
+    },
+    "translation": {
+      "Name": "Zeppelin"
+    }
+  },
   "580e622efb784d7cbcb51ebad02fa1b5": {
     "name": "Debug_Food_4",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Food/Debug_Food_4/Debug_Food_4.dat",
@@ -82406,6 +83608,43 @@
       "Description": "A heavily armed fighter, this biplane provides some serious fire support.  Crew consists of a pilot equipped with a high velocity gun that fires either <color=legendary>Rockets</color> or <color=legendary>Grenade Rounds</color>, and a back gunner with a LMG firing <color=legendary>LMG drums</color> or <color=rare>Assault Rifle magazines</color>."
     }
   },
+  "58453004946541cbae8aa6d71e58d6b2": {
+    "name": "PaintingDiary",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Pictures/PaintingDiary/PaintingDiary.dat",
+    "data": {
+      "GUID": "58453004946541cbae8aa6d71e58d6b2",
+      "Type": "Barricade",
+      "Useable": "Barricade",
+      "Build": "Barricade_Wall",
+      "Rarity": "Rare",
+      "ID": "52579",
+      "SalvageItem": "58453004946541cbae8aa6d71e58d6b2",
+      "Size_X": "1",
+      "Size_Y": "1",
+      "Size_Z": "0.6",
+      "Health": "40",
+      "Range": "4",
+      "Radius": "0.02",
+      "Offset": "0.1",
+      "Explosion": "58",
+      "Vulnerable": "",
+      "Salvage_Duration_Multiplier": "0.25",
+      "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+      "Bypass_Pickup_Ownership": "True",
+      "Has_Clip_Prefab": "False",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52579",
+      "Blueprint_0_Product": "51020",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Painting - Diary 000",
+      "Description": "Hi?"
+    }
+  },
   "584641f35e8540ec85ed88f3aca40622": {
     "name": "Lamp_1",
     "path": "Bundles/Objects/Medium/Furniture/Lamp_1/Lamp_1.dat",
@@ -82573,10 +83812,10 @@
       "Quality_Min": "100",
       "Quality_Max": "100",
       "Aim_In_Duration": "0.15",
-      "Recoil_Min_X": "4",
-      "Recoil_Max_X": "-4",
-      "Recoil_Min_Y": "8",
-      "Recoil_Max_Y": "8",
+      "Recoil_Min_X": "3.5",
+      "Recoil_Max_X": "-3.5",
+      "Recoil_Min_Y": "6.25",
+      "Recoil_Max_Y": "6.25",
       "Spread_Aim": "0.05",
       "Spread_Hip": "0.2",
       "Remove": "0",
@@ -84373,6 +85612,24 @@
     },
     "translation": null
   },
+  "5a24875ea35b4d2fb8a3cdec19332f70": {
+    "name": "PaintingHUT",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PaintingHUT/PaintingHUT.dat",
+    "data": {
+      "GUID": "5a24875ea35b4d2fb8a3cdec19332f70",
+      "Type": "Medium",
+      "ID": "51000",
+      "Has_Clip_Prefab": "false",
+      "Rubble": "Destroy",
+      "Rubble_Reset": "300",
+      "Rubble_Health": "1",
+      "Rubble_Effect": "58",
+      "Rubble_Reward_ID": "51375"
+    },
+    "translation": {
+      "Name": "PBS Painting Hurry Up Tomorrow"
+    }
+  },
   "5a2c04a03e0143179cefbe91e2de2156": {
     "name": "Turnstile_0",
     "path": "Bundles/Objects/Medium/Business/Turnstile_0/Turnstile_0.dat",
@@ -85518,6 +86775,18 @@
     "translation": {
       "Name": "Ingredients #3 Off",
       "Interact": "Place [{0}]"
+    }
+  },
+  "5b28380d4b0e4493a8ec6984f4e1c08f": {
+    "name": "30",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Graffitis/30/30.dat",
+    "data": {
+      "GUID": "5b28380d4b0e4493a8ec6984f4e1c08f",
+      "Type": "Large",
+      "ID": "51000"
+    },
+    "translation": {
+      "Name": "PBS Graffiti Nui"
     }
   },
   "5b2abf699b634f8298f72946efbb5e8d": {
@@ -86973,7 +88242,7 @@
       "Type": "Vendor",
       "ID": "52413",
       "Disable_Sorting": "",
-      "Buying": "36",
+      "Buying": "41",
       "Buying_0_ID": "51200",
       "Buying_0_Cost": "125",
       "Buying_0_Rewards": "1",
@@ -87034,201 +88303,231 @@
       "Buying_11_Rewards": "1",
       "Buying_11_Reward_0_Type": "Rewards_List_Asset",
       "Buying_11_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_12_ID": "52430",
+      "Buying_12_ID": "52530",
       "Buying_12_Cost": "400",
       "Buying_12_Rewards": "1",
       "Buying_12_Reward_0_Type": "Rewards_List_Asset",
       "Buying_12_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_13_ID": "52237",
-      "Buying_13_Cost": "300",
+      "Buying_13_ID": "52430",
+      "Buying_13_Cost": "400",
       "Buying_13_Rewards": "1",
       "Buying_13_Reward_0_Type": "Rewards_List_Asset",
       "Buying_13_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_14_ID": "51235",
-      "Buying_14_Cost": "500",
+      "Buying_14_ID": "52237",
+      "Buying_14_Cost": "300",
       "Buying_14_Rewards": "1",
       "Buying_14_Reward_0_Type": "Rewards_List_Asset",
       "Buying_14_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_15_ID": "51233",
+      "Buying_15_ID": "52536",
       "Buying_15_Cost": "500",
       "Buying_15_Rewards": "1",
       "Buying_15_Reward_0_Type": "Rewards_List_Asset",
       "Buying_15_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_16_ID": "51219",
-      "Buying_16_Cost": "600",
+      "Buying_16_ID": "51235",
+      "Buying_16_Cost": "500",
       "Buying_16_Rewards": "1",
       "Buying_16_Reward_0_Type": "Rewards_List_Asset",
       "Buying_16_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_17_ID": "51322",
-      "Buying_17_Cost": "600",
+      "Buying_17_ID": "51233",
+      "Buying_17_Cost": "500",
       "Buying_17_Rewards": "1",
       "Buying_17_Reward_0_Type": "Rewards_List_Asset",
       "Buying_17_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_18_ID": "51237",
-      "Buying_18_Cost": "500",
+      "Buying_18_ID": "51219",
+      "Buying_18_Cost": "600",
       "Buying_18_Rewards": "1",
       "Buying_18_Reward_0_Type": "Rewards_List_Asset",
       "Buying_18_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_19_ID": "51282",
-      "Buying_19_Cost": "5000",
+      "Buying_19_ID": "52532",
+      "Buying_19_Cost": "750",
       "Buying_19_Rewards": "1",
       "Buying_19_Reward_0_Type": "Rewards_List_Asset",
       "Buying_19_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_20_ID": "52300",
-      "Buying_20_Cost": "5000",
+      "Buying_20_ID": "51322",
+      "Buying_20_Cost": "600",
       "Buying_20_Rewards": "1",
       "Buying_20_Reward_0_Type": "Rewards_List_Asset",
       "Buying_20_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_21_ID": "52063",
-      "Buying_21_Cost": "300",
+      "Buying_21_ID": "51237",
+      "Buying_21_Cost": "500",
       "Buying_21_Rewards": "1",
       "Buying_21_Reward_0_Type": "Rewards_List_Asset",
       "Buying_21_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_21_Conditions": "1",
-      "Buying_21_Condition_0_Type": "Item",
-      "Buying_21_Condition_0_ID": "52063",
-      "Buying_21_Condition_0_Amount": "1",
-      "Buying_21_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_22_ID": "51294",
-      "Buying_22_Cost": "250",
+      "Buying_22_ID": "51282",
+      "Buying_22_Cost": "5000",
       "Buying_22_Rewards": "1",
       "Buying_22_Reward_0_Type": "Rewards_List_Asset",
       "Buying_22_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_22_Conditions": "1",
-      "Buying_22_Condition_0_Type": "Item",
-      "Buying_22_Condition_0_ID": "51294",
-      "Buying_22_Condition_0_Amount": "1",
-      "Buying_22_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_23_ID": "52065",
-      "Buying_23_Cost": "250",
+      "Buying_23_ID": "52300",
+      "Buying_23_Cost": "5000",
       "Buying_23_Rewards": "1",
       "Buying_23_Reward_0_Type": "Rewards_List_Asset",
       "Buying_23_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_23_Conditions": "1",
-      "Buying_23_Condition_0_Type": "Item",
-      "Buying_23_Condition_0_ID": "52065",
-      "Buying_23_Condition_0_Amount": "1",
-      "Buying_23_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_24_ID": "52363",
-      "Buying_24_Cost": "250",
+      "Buying_24_ID": "52550",
+      "Buying_24_Cost": "5000",
       "Buying_24_Rewards": "1",
       "Buying_24_Reward_0_Type": "Rewards_List_Asset",
       "Buying_24_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_24_Conditions": "1",
-      "Buying_24_Condition_0_Type": "Item",
-      "Buying_24_Condition_0_ID": "52363",
-      "Buying_24_Condition_0_Amount": "1",
-      "Buying_24_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_25_ID": "52061",
+      "Buying_25_ID": "52063",
       "Buying_25_Cost": "300",
       "Buying_25_Rewards": "1",
       "Buying_25_Reward_0_Type": "Rewards_List_Asset",
       "Buying_25_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_25_Conditions": "1",
       "Buying_25_Condition_0_Type": "Item",
-      "Buying_25_Condition_0_ID": "52061",
+      "Buying_25_Condition_0_ID": "52063",
       "Buying_25_Condition_0_Amount": "1",
       "Buying_25_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_26_ID": "52068",
-      "Buying_26_Cost": "350",
+      "Buying_26_ID": "51294",
+      "Buying_26_Cost": "250",
       "Buying_26_Rewards": "1",
       "Buying_26_Reward_0_Type": "Rewards_List_Asset",
       "Buying_26_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_26_Conditions": "1",
       "Buying_26_Condition_0_Type": "Item",
-      "Buying_26_Condition_0_ID": "52068",
+      "Buying_26_Condition_0_ID": "51294",
       "Buying_26_Condition_0_Amount": "1",
       "Buying_26_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_27_ID": "52432",
-      "Buying_27_Cost": "350",
+      "Buying_27_ID": "52065",
+      "Buying_27_Cost": "250",
       "Buying_27_Rewards": "1",
       "Buying_27_Reward_0_Type": "Rewards_List_Asset",
       "Buying_27_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_27_Conditions": "1",
       "Buying_27_Condition_0_Type": "Item",
-      "Buying_27_Condition_0_ID": "52432",
+      "Buying_27_Condition_0_ID": "52065",
       "Buying_27_Condition_0_Amount": "1",
       "Buying_27_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_28_ID": "52445",
-      "Buying_28_Cost": "500",
+      "Buying_28_ID": "52363",
+      "Buying_28_Cost": "250",
       "Buying_28_Rewards": "1",
       "Buying_28_Reward_0_Type": "Rewards_List_Asset",
       "Buying_28_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_28_Conditions": "1",
       "Buying_28_Condition_0_Type": "Item",
-      "Buying_28_Condition_0_ID": "52445",
+      "Buying_28_Condition_0_ID": "52363",
       "Buying_28_Condition_0_Amount": "1",
       "Buying_28_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_29_ID": "52070",
-      "Buying_29_Cost": "600",
+      "Buying_29_ID": "52061",
+      "Buying_29_Cost": "300",
       "Buying_29_Rewards": "1",
       "Buying_29_Reward_0_Type": "Rewards_List_Asset",
       "Buying_29_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_29_Conditions": "1",
       "Buying_29_Condition_0_Type": "Item",
-      "Buying_29_Condition_0_ID": "52070",
+      "Buying_29_Condition_0_ID": "52061",
       "Buying_29_Condition_0_Amount": "1",
       "Buying_29_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_30_ID": "51289",
-      "Buying_30_Cost": "500",
+      "Buying_30_ID": "52068",
+      "Buying_30_Cost": "350",
       "Buying_30_Rewards": "1",
       "Buying_30_Reward_0_Type": "Rewards_List_Asset",
       "Buying_30_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_30_Conditions": "1",
       "Buying_30_Condition_0_Type": "Item",
-      "Buying_30_Condition_0_ID": "51289",
+      "Buying_30_Condition_0_ID": "52068",
       "Buying_30_Condition_0_Amount": "1",
       "Buying_30_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_31_ID": "52509",
-      "Buying_31_Cost": "750",
+      "Buying_31_ID": "52432",
+      "Buying_31_Cost": "350",
       "Buying_31_Rewards": "1",
       "Buying_31_Reward_0_Type": "Rewards_List_Asset",
       "Buying_31_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_31_Conditions": "1",
       "Buying_31_Condition_0_Type": "Item",
-      "Buying_31_Condition_0_ID": "52509",
+      "Buying_31_Condition_0_ID": "52432",
       "Buying_31_Condition_0_Amount": "1",
       "Buying_31_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_32_ID": "52491",
-      "Buying_32_Cost": "750",
+      "Buying_32_ID": "52445",
+      "Buying_32_Cost": "500",
       "Buying_32_Rewards": "1",
       "Buying_32_Reward_0_Type": "Rewards_List_Asset",
       "Buying_32_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_32_Conditions": "1",
       "Buying_32_Condition_0_Type": "Item",
-      "Buying_32_Condition_0_ID": "52491",
+      "Buying_32_Condition_0_ID": "52445",
       "Buying_32_Condition_0_Amount": "1",
       "Buying_32_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_33_ID": "52076",
-      "Buying_33_Cost": "750",
+      "Buying_33_ID": "52070",
+      "Buying_33_Cost": "600",
       "Buying_33_Rewards": "1",
       "Buying_33_Reward_0_Type": "Rewards_List_Asset",
       "Buying_33_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_33_Conditions": "1",
       "Buying_33_Condition_0_Type": "Item",
-      "Buying_33_Condition_0_ID": "52076",
+      "Buying_33_Condition_0_ID": "52070",
       "Buying_33_Condition_0_Amount": "1",
       "Buying_33_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_34_ID": "52448",
-      "Buying_34_Cost": "750",
+      "Buying_34_ID": "51289",
+      "Buying_34_Cost": "500",
       "Buying_34_Rewards": "1",
       "Buying_34_Reward_0_Type": "Rewards_List_Asset",
       "Buying_34_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_34_Conditions": "1",
       "Buying_34_Condition_0_Type": "Item",
-      "Buying_34_Condition_0_ID": "52448",
+      "Buying_34_Condition_0_ID": "51289",
       "Buying_34_Condition_0_Amount": "1",
       "Buying_34_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_35_ID": "52302",
-      "Buying_35_Cost": "6250",
+      "Buying_35_ID": "52509",
+      "Buying_35_Cost": "750",
       "Buying_35_Rewards": "1",
       "Buying_35_Reward_0_Type": "Rewards_List_Asset",
       "Buying_35_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_35_Conditions": "1",
       "Buying_35_Condition_0_Type": "Item",
-      "Buying_35_Condition_0_ID": "52448",
+      "Buying_35_Condition_0_ID": "52509",
       "Buying_35_Condition_0_Amount": "1",
       "Buying_35_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+      "Buying_36_ID": "52491",
+      "Buying_36_Cost": "750",
+      "Buying_36_Rewards": "1",
+      "Buying_36_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_36_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_36_Conditions": "1",
+      "Buying_36_Condition_0_Type": "Item",
+      "Buying_36_Condition_0_ID": "52491",
+      "Buying_36_Condition_0_Amount": "1",
+      "Buying_36_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+      "Buying_37_ID": "52538",
+      "Buying_37_Cost": "750",
+      "Buying_37_Rewards": "1",
+      "Buying_37_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_37_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_37_Conditions": "1",
+      "Buying_37_Condition_0_Type": "Item",
+      "Buying_37_Condition_0_ID": "52538",
+      "Buying_37_Condition_0_Amount": "1",
+      "Buying_37_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+      "Buying_38_ID": "52076",
+      "Buying_38_Cost": "750",
+      "Buying_38_Rewards": "1",
+      "Buying_38_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_38_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_38_Conditions": "1",
+      "Buying_38_Condition_0_Type": "Item",
+      "Buying_38_Condition_0_ID": "52076",
+      "Buying_38_Condition_0_Amount": "1",
+      "Buying_38_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+      "Buying_39_ID": "52448",
+      "Buying_39_Cost": "750",
+      "Buying_39_Rewards": "1",
+      "Buying_39_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_39_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_39_Conditions": "1",
+      "Buying_39_Condition_0_Type": "Item",
+      "Buying_39_Condition_0_ID": "52448",
+      "Buying_39_Condition_0_Amount": "1",
+      "Buying_39_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+      "Buying_40_ID": "52302",
+      "Buying_40_Cost": "6250",
+      "Buying_40_Rewards": "1",
+      "Buying_40_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_40_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_40_Conditions": "1",
+      "Buying_40_Condition_0_Type": "Item",
+      "Buying_40_Condition_0_ID": "52448",
+      "Buying_40_Condition_0_Amount": "1",
+      "Buying_40_Condition_0_Logic": "Greater_Than_Or_Equal_To",
       "Selling": "9",
       "Selling_0_ID": "51200",
       "Selling_0_Cost": "250",
@@ -90226,7 +91525,7 @@
       "Type": "Vendor",
       "ID": "52643",
       "Disable_Sorting": "",
-      "Selling": "14",
+      "Selling": "16",
       "Selling_0_ID": "52503",
       "Selling_0_Cost": "1000",
       "Selling_0_Rewards": "3",
@@ -90303,55 +91602,75 @@
       "Selling_4_Reward_1_Amount": "2",
       "Selling_4_Reward_2_Type": "Rewards_List_Asset",
       "Selling_4_Reward_2_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_5_ID": "51041 ",
-      "Selling_5_Cost": "125",
-      "Selling_5_Rewards": "1",
-      "Selling_5_Reward_0_Type": "Rewards_List_Asset",
-      "Selling_5_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_6_ID": "51048 ",
-      "Selling_6_Cost": "150",
+      "Selling_5_ID": "52516",
+      "Selling_5_Cost": "800",
+      "Selling_5_Rewards": "3",
+      "Selling_5_Reward_0_Type": "Item",
+      "Selling_5_Reward_0_ID": "52530",
+      "Selling_5_Reward_0_Grip": "51088",
+      "Selling_5_Reward_0_Tactical": "51076",
+      "Selling_5_Reward_0_Barrel": "51089",
+      "Selling_5_Reward_0_Sight": "52531",
+      "Selling_5_Reward_0_Amount": "1",
+      "Selling_5_Reward_1_Type": "Item",
+      "Selling_5_Reward_1_ID": "52089",
+      "Selling_5_Reward_1_Amount": "3",
+      "Selling_5_Reward_2_Type": "Rewards_List_Asset",
+      "Selling_5_Reward_2_GUID": "d424d1658c214b4c938c022f9c2eaace",
+      "Selling_6_ID": "51041 ",
+      "Selling_6_Cost": "125",
       "Selling_6_Rewards": "1",
       "Selling_6_Reward_0_Type": "Rewards_List_Asset",
       "Selling_6_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_7_ID": "51912",
-      "Selling_7_Cost": "125",
+      "Selling_7_ID": "51048 ",
+      "Selling_7_Cost": "150",
       "Selling_7_Rewards": "1",
       "Selling_7_Reward_0_Type": "Rewards_List_Asset",
       "Selling_7_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_8_ID": "51913",
-      "Selling_8_Cost": "150",
+      "Selling_8_ID": "51912",
+      "Selling_8_Cost": "125",
       "Selling_8_Rewards": "1",
       "Selling_8_Reward_0_Type": "Rewards_List_Asset",
       "Selling_8_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_9_ID": "51915",
-      "Selling_9_Cost": "500",
+      "Selling_9_ID": "51913",
+      "Selling_9_Cost": "150",
       "Selling_9_Rewards": "1",
       "Selling_9_Reward_0_Type": "Rewards_List_Asset",
       "Selling_9_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_10_ID": "52387",
-      "Selling_10_Cost": "1000",
+      "Selling_10_ID": "51915",
+      "Selling_10_Cost": "500",
       "Selling_10_Rewards": "1",
       "Selling_10_Reward_0_Type": "Rewards_List_Asset",
       "Selling_10_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_10_Conditions": "1",
-      "Selling_10_Condition_0_Type": "Is_Full_Moon",
-      "Selling_10_Condition_0_Value": "True",
-      "Selling_10_Condition_0_Logic": "Equal",
-      "Selling_11_ID": "51084",
-      "Selling_11_Cost": "100",
+      "Selling_11_ID": "52089",
+      "Selling_11_Cost": "80",
       "Selling_11_Rewards": "1",
       "Selling_11_Reward_0_Type": "Rewards_List_Asset",
       "Selling_11_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_12_ID": "51089 ",
-      "Selling_12_Cost": "150",
+      "Selling_12_ID": "52387",
+      "Selling_12_Cost": "1000",
       "Selling_12_Rewards": "1",
       "Selling_12_Reward_0_Type": "Rewards_List_Asset",
       "Selling_12_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_13_ID": "51076",
+      "Selling_12_Conditions": "1",
+      "Selling_12_Condition_0_Type": "Is_Full_Moon",
+      "Selling_12_Condition_0_Value": "True",
+      "Selling_12_Condition_0_Logic": "Equal",
+      "Selling_13_ID": "51084",
       "Selling_13_Cost": "100",
       "Selling_13_Rewards": "1",
       "Selling_13_Reward_0_Type": "Rewards_List_Asset",
       "Selling_13_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
+      "Selling_14_ID": "51089 ",
+      "Selling_14_Cost": "150",
+      "Selling_14_Rewards": "1",
+      "Selling_14_Reward_0_Type": "Rewards_List_Asset",
+      "Selling_14_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
+      "Selling_15_ID": "51076",
+      "Selling_15_Cost": "100",
+      "Selling_15_Rewards": "1",
+      "Selling_15_Reward_0_Type": "Rewards_List_Asset",
+      "Selling_15_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
       "Currency": "561f74cdccdf48abaa6d49343b56aab0"
     },
     "translation": {
@@ -103293,7 +104612,7 @@
       "Type": "Vendor",
       "ID": "52763",
       "Disable_Sorting": "",
-      "Selling": "6",
+      "Selling": "7",
       "Selling_0_ID": "52277",
       "Selling_0_Cost": "500",
       "Selling_0_Rewards": "3",
@@ -103358,10 +104677,26 @@
       "Selling_4_Reward_1_Amount": "3",
       "Selling_4_Reward_2_Type": "Rewards_List_Asset",
       "Selling_4_Reward_2_GUID": "d424d1658c214b4c938c022f9c2eaace",
-      "Selling_5_ID": "52313",
-      "Selling_5_Cost": "2500",
+      "Selling_5_ID": "52515",
+      "Selling_5_Cost": "1250",
+      "Selling_5_Rewards": "3",
+      "Selling_5_Reward_0_Type": "Item",
+      "Selling_5_Reward_0_ID": "52536",
+      "Selling_5_Reward_0_Sight": "51084",
+      "Selling_5_Reward_0_Barrel": "51090",
+      "Selling_5_Reward_0_Magazine": "51909",
+      "Selling_5_Reward_0_Tactical": "51076",
+      "Selling_5_Reward_0_Grip": "51086",
+      "Selling_5_Reward_0_Amount": "1",
+      "Selling_5_Reward_1_Type": "Item",
+      "Selling_5_Reward_1_ID": "51909",
+      "Selling_5_Reward_1_Amount": "2",
       "Selling_5_Reward_2_Type": "Rewards_List_Asset",
       "Selling_5_Reward_2_GUID": "d424d1658c214b4c938c022f9c2eaace",
+      "Selling_6_ID": "52313",
+      "Selling_6_Cost": "2500",
+      "Selling_6_Reward_2_Type": "Rewards_List_Asset",
+      "Selling_6_Reward_2_GUID": "d424d1658c214b4c938c022f9c2eaace",
       "Currency": "561f74cdccdf48abaa6d49343b56aab0"
     },
     "translation": {
@@ -104240,6 +105575,79 @@
       "Description": "you shouldnt have this!!"
     }
   },
+  "6dd9f5cf13914f718c15c5e1bbb2722f": {
+    "name": "AutocannonGatling",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Weapons/Guns/AutocannonGatling/AutocannonGatling.dat",
+    "data": {
+      "GUID": "6dd9f5cf13914f718c15c5e1bbb2722f",
+      "Type": "Gun",
+      "Rarity": "Legendary",
+      "Useable": "Gun",
+      "Slot": "Primary",
+      "ID": "51396",
+      "Size_X": "10",
+      "Size_Y": "10",
+      "Size_Z": "0.35",
+      "Magazine": "51914",
+      "Shell": "51051",
+      "Ammo_Min": "80",
+      "Ammo_Max": "100",
+      "Can_Player_Equip": "False",
+      "Infinite_Ammo": "True",
+      "Allow_Magazine_Change": "False",
+      "Auto": "",
+      "Range": "300",
+      "Firerate": "3",
+      "Action": "Trigger",
+      "Player_Damage": "10",
+      "Player_Leg_Multiplier": "1",
+      "Player_Arm_Multiplier": "1",
+      "Player_Spine_Multiplier": "1",
+      "Player_Skull_Multiplier": "1",
+      "Zombie_Damage": "40",
+      "Zombie_Leg_Multiplier": "1",
+      "Zombie_Arm_Multiplier": "1",
+      "Zombie_Spine_Multiplier": "1",
+      "Zombie_Skull_Multiplier": "1",
+      "Animal_Damage": "250",
+      "Animal_Leg_Multiplier": "1",
+      "Animal_Spine_Multiplier": "1",
+      "Animal_Skull_Multiplier": "1",
+      "Barricade_Damage": "0",
+      "Structure_Damage": "0",
+      "Vehicle_Damage": "60",
+      "Resource_Damage": "0",
+      "Object_Damage": "25",
+      "Durability": "0",
+      "Quality_Min": "100",
+      "Quality_Max": "100",
+      "Aim_In_Duration": "0.15",
+      "Spread_Aim": "0.05",
+      "Spread_Hip": "0.1",
+      "Recoil_Min_X": "1",
+      "Recoil_Min_Y": "1",
+      "Recoil_Max_X": "0",
+      "Recoil_Max_Y": "2",
+      "Remove": "0",
+      "Replace": "0",
+      "Recover_X": "0.1",
+      "Recover_Y": "0.1",
+      "Shake_Min_X": ".01",
+      "Shake_Min_Y": "0",
+      "Shake_Min_Z": "-.03",
+      "Shake_Max_X": "-.01",
+      "Shake_Max_Y": "0",
+      "Shake_Max_Z": "-.05",
+      "Muzzle": "",
+      "Shoot_Quest_Rewards": "1",
+      "Shoot_Quest_Reward_0_Type": "Rewards_List_Asset",
+      "Shoot_Quest_Reward_0_GUID": "ae7724167039492fb3bd8aeef222fcfa"
+    },
+    "translation": {
+      "Name": "Sentry Autocannon",
+      "Description": "Large cumbersome autocannon, can only be used by the <color=epic>Sentry Engine</color>.<br><br><color=#DB871A>Infinite Ammo</color>"
+    }
+  },
   "6de064a753004f3ba82ebfed680ac217": {
     "name": "Hoodie_Offbrand",
     "path": "Bundles/Items/Shirts/Hoodie_Offbrand/Hoodie_Offbrand.dat",
@@ -105098,6 +106506,43 @@
     "translation": {
       "Name": "Plastic Shelter (Green)",
       "Description": "Plastic shelter. Provides basic cover from the elements."
+    }
+  },
+  "6ee334713b524691a6c94f620348f8a8": {
+    "name": "PaintingShotgun",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Pictures/PaintingShotgun/PaintingShotgun.dat",
+    "data": {
+      "GUID": "6ee334713b524691a6c94f620348f8a8",
+      "Type": "Barricade",
+      "Useable": "Barricade",
+      "Build": "Barricade_Wall",
+      "Rarity": "Rare",
+      "ID": "52575",
+      "SalvageItem": "6ee334713b524691a6c94f620348f8a8",
+      "Size_X": "2",
+      "Size_Y": "1",
+      "Size_Z": "0.6",
+      "Health": "40",
+      "Range": "4",
+      "Radius": "0.02",
+      "Offset": "0.1",
+      "Explosion": "58",
+      "Vulnerable": "",
+      "Salvage_Duration_Multiplier": "0.25",
+      "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+      "Bypass_Pickup_Ownership": "True",
+      "Has_Clip_Prefab": "False",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52575",
+      "Blueprint_0_Product": "51020",
+      "Blueprint_0_Products": "3",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Painting - Shotgun",
+      "Description": "A master of scoliosis with the key to success. "
     }
   },
   "6ee78588bdc04ff9a24819d93cf6bfa8": {
@@ -115790,6 +117235,26 @@
       "Description": "Experimental next generation weapon platform, uses proprietary <color=legendary>SABOT slugs</color>. Possesses extreme projectile velocity and damage."
     }
   },
+  "7a83f9c15271460a8a085c6efe85c245": {
+    "name": "PBS_SharkSetup",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/Deadzone/PBS_SharkSetup/PBS_SharkSetup.dat",
+    "data": {
+      "GUID": "7a83f9c15271460a8a085c6efe85c245",
+      "Type": "RewardsList",
+      "Conditions": "0",
+      "Rewards": "2",
+      "Reward_0_Type": "Item",
+      "Reward_0_ID": "52536",
+      "Reward_0_Amount": "1",
+      "Reward_0_Barrel": "51077",
+      "Reward_0_Grip": "51086",
+      "Reward_0_Tactical": "51076",
+      "Reward_1_Type": "Item",
+      "Reward_1_ID": "52088",
+      "Reward_1_Amount": "3"
+    },
+    "translation": null
+  },
   "7a8506f4222e4a81868b147f2b54f343": {
     "name": "Wild_Arctic_Passive",
     "path": "Bundles/Spawns/Animals/Wild_Arctic_Passive/Wild_Arctic_Passive.dat",
@@ -118021,6 +119486,18 @@
     },
     "translation": null
   },
+  "7d8400d476e844139bab0437aac6a49f": {
+    "name": "35",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Graffitis/35/35.dat",
+    "data": {
+      "GUID": "7d8400d476e844139bab0437aac6a49f",
+      "Type": "Large",
+      "ID": "51000"
+    },
+    "translation": {
+      "Name": "PBS Graffiti Stinks"
+    }
+  },
   "7d8cee8f7ce143d5819629c761fbe861": {
     "name": "Billboard_14",
     "path": "Bundles/Objects/Large/Utilities/Billboard_14/Billboard_14.dat",
@@ -118543,6 +120020,24 @@
     },
     "translation": {
       "Name": "PBS Glutton Screen #1-1"
+    }
+  },
+  "7e11317361fc42a7a1d23db40547de4c": {
+    "name": "PaintingGNX",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PaintingGNX/PaintingGNX.dat",
+    "data": {
+      "GUID": "7e11317361fc42a7a1d23db40547de4c",
+      "Type": "Medium",
+      "ID": "51000",
+      "Has_Clip_Prefab": "false",
+      "Rubble": "Destroy",
+      "Rubble_Reset": "300",
+      "Rubble_Health": "1",
+      "Rubble_Effect": "58",
+      "Rubble_Reward_ID": "51374"
+    },
+    "translation": {
+      "Name": "PBS Painting GNX"
     }
   },
   "7e1730cbe8734063929528af25eb60a0": {
@@ -119644,7 +121139,7 @@
       "Tables": [
         {
           "Guid": "ccdd0da5764b43d293c72a256ceb042d",
-          "Weight": "45"
+          "Weight": "37"
         },
         {
           "Guid": "7cb7faee6dd84369841e46edc3698c95",
@@ -119661,6 +121156,30 @@
         {
           "Guid": "72c6d5718cfb4e4290b1034afa1b1ec0",
           "Weight": "10"
+        },
+        {
+          "Guid": "1b63dd3b8ad24c64b9557bb20c10a112",
+          "Weight": "3"
+        },
+        {
+          "Guid": "2aedb2ee23c94edbaf128146abe02d94",
+          "Weight": "1"
+        },
+        {
+          "Guid": "a5c7ea6b3b8542c6a43fecca2c9a3a71",
+          "Weight": "1"
+        },
+        {
+          "Guid": "43482cd72c5f48f99c5452a3773ec731",
+          "Weight": "1"
+        },
+        {
+          "Guid": "c449e3e7649b46d28e15ac35e3262b66",
+          "Weight": "1"
+        },
+        {
+          "Guid": "932f67ccb2ca4f0ba92217bc77030c70",
+          "Weight": "1"
         }
       ]
     },
@@ -124625,8 +126144,16 @@
           "Weight": "80"
         },
         {
+          "Guid": "84ff875f13d14bc6a569c48fdc072d60",
+          "Weight": "80"
+        },
+        {
           "Guid": "662ea163263d4f01a9bc41283e3a97b9",
           "Weight": "78"
+        },
+        {
+          "Guid": "1c5633d00a864fa2a484069f42220a78",
+          "Weight": "10"
         },
         {
           "Guid": "8bffdadd5cef4d56bce1d4e572127163",
@@ -124684,6 +126211,103 @@
     },
     "translation": {
       "Name": "Trailer #3"
+    }
+  },
+  "84ff875f13d14bc6a569c48fdc072d60": {
+    "name": "Exakt",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Weapons/Guns/Exakt/Exakt.dat",
+    "data": {
+      "GUID": "84ff875f13d14bc6a569c48fdc072d60",
+      "Type": "Gun",
+      "Rarity": "Epic",
+      "Useable": "Gun",
+      "Slot": "Primary",
+      "ID": "52530",
+      "Instantiated_Item_Name_Override": "51220",
+      "Size_X": "5",
+      "Size_Y": "2",
+      "Size_Z": "0.35",
+      "Magazine": "52089",
+      "Hook_Barrel": "",
+      "Hook_Sight": "",
+      "Hook_Grip": "",
+      "Hook_Tactical": "",
+      "Shell": "51051",
+      "Ammo_Min": "4",
+      "Ammo_Max": "8",
+      "Semi": "",
+      "Sight": "52531",
+      "Caliber": "51004",
+      "Range": "500",
+      "Firerate": "9",
+      "Action": "Trigger",
+      "Player_Damage": "55",
+      "Player_Leg_Multiplier": ".75",
+      "Player_Arm_Multiplier": ".75",
+      "Player_Spine_Multiplier": "1",
+      "Player_Skull_Multiplier": "1.25",
+      "Zombie_Damage": "99",
+      "Zombie_Leg_Multiplier": "0.35",
+      "Zombie_Arm_Multiplier": "0.35",
+      "Zombie_Spine_Multiplier": "0.6",
+      "Zombie_Skull_Multiplier": "1.2",
+      "Animal_Damage": "50",
+      "Animal_Leg_Multiplier": "0.6",
+      "Animal_Spine_Multiplier": "0.8",
+      "Animal_Skull_Multiplier": "1.1",
+      "Barricade_Damage": "5",
+      "Structure_Damage": "5",
+      "Vehicle_Damage": "30",
+      "Resource_Damage": "20",
+      "Object_Damage": "25",
+      "Durability": "0",
+      "Quality_Min": "100",
+      "Quality_Max": "100",
+      "Ballistic_Steps": "40",
+      "Ballistic_Travel": "12.5",
+      "Bullet_Gravity_Multiplier": "3",
+      "Aim_In_Duration": "0.15",
+      "Recoil_Min_X": "4",
+      "Recoil_Max_X": "0",
+      "Recoil_Min_Y": "8",
+      "Recoil_Max_Y": "12",
+      "Spread_Aim": "0.01",
+      "Spread_Hip": "0.2",
+      "Remove": "0",
+      "Replace": "0",
+      "Recover_X": "0.1",
+      "Recover_Y": "0.1",
+      "Shake_Min_X": ".01",
+      "Shake_Min_Y": "0",
+      "Shake_Min_Z": "-.03",
+      "Shake_Max_X": "-.01",
+      "Shake_Max_Y": "0",
+      "Shake_Max_Z": "-.05",
+      "Muzzle": "",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52530",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Outputs": "2",
+      "Blueprint_0_Output_0_ID": "51035",
+      "Blueprint_0_Output_0_Amount": "2",
+      "Blueprint_0_Output_1_ID": "51017",
+      "Blueprint_0_Output_1_Amount": "3",
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Repair",
+      "Blueprint_1_Searchable": "False",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "51035",
+      "Blueprint_1_Supply_0_Amount": "2",
+      "Blueprint_1_Build": "27",
+      "Shoot_Quest_Rewards": "1",
+      "Shoot_Quest_Reward_0_Type": "Rewards_List_Asset",
+      "Shoot_Quest_Reward_0_GUID": "ae7724167039492fb3bd8aeef222fcfa"
+    },
+    "translation": {
+      "Name": "Exakt",
+      "Description": "German precision rifle, chambered in <color=rare>Rifle Clips</color>."
     }
   },
   "8515890b052a4fac872dd26c8f9ce937": {
@@ -126415,7 +128039,7 @@
       "Tables": [
         {
           "Guid": "47be61f114864027b3175d001a12518f",
-          "Weight": "75"
+          "Weight": "80"
         },
         {
           "Guid": "e016f79696bc46f59e5168d0bef498dc",
@@ -126434,15 +128058,19 @@
           "Weight": "45"
         },
         {
+          "Guid": "f1a7572c557a4c0cbbb7fe5e4f02f2e9",
+          "Weight": "40"
+        },
+        {
+          "Guid": "96f354e1b12344f99538a4ad64514fb6",
+          "Weight": "40"
+        },
+        {
           "Guid": "46c6db37785d4cd19ee70a21de7afa1a",
           "Weight": "40"
         },
         {
           "Guid": "e9d146cdb29449159e7efc35fac13d6c",
-          "Weight": "40"
-        },
-        {
-          "Guid": "f1a7572c557a4c0cbbb7fe5e4f02f2e9",
           "Weight": "40"
         },
         {
@@ -126458,22 +128086,6 @@
           "Weight": "30"
         },
         {
-          "Guid": "96670dd3c7a34c6d89098bf71aed8a73",
-          "Weight": "30"
-        },
-        {
-          "Guid": "0b54ee1c68df4cd6800d52a9c86e1a93",
-          "Weight": "30"
-        },
-        {
-          "Guid": "4bb8496f288346ccb869a5cc93f9b31d",
-          "Weight": "30"
-        },
-        {
-          "Guid": "df2b41f51ad94ec69948619b8d5f0e3b",
-          "Weight": "30"
-        },
-        {
           "Guid": "424cafbc2c454076a5fa989377281a45",
           "Weight": "30"
         },
@@ -126482,8 +128094,28 @@
           "Weight": "30"
         },
         {
+          "Guid": "0b54ee1c68df4cd6800d52a9c86e1a93",
+          "Weight": "30"
+        },
+        {
           "Guid": "135d1651d9d940e580c5610ab276941a",
           "Weight": "30"
+        },
+        {
+          "Guid": "df2b41f51ad94ec69948619b8d5f0e3b",
+          "Weight": "30"
+        },
+        {
+          "Guid": "4bb8496f288346ccb869a5cc93f9b31d",
+          "Weight": "30"
+        },
+        {
+          "Guid": "f6fbe7e8963448f89385ad86a174117c",
+          "Weight": "25"
+        },
+        {
+          "Guid": "37450a90c5b74a19ad1557051ea728b3",
+          "Weight": "25"
         },
         {
           "Guid": "1377acfe277e462dbc52dd2758531ded",
@@ -126494,15 +128126,47 @@
           "Weight": "25"
         },
         {
-          "Guid": "f6fbe7e8963448f89385ad86a174117c",
-          "Weight": "25"
-        },
-        {
-          "Guid": "ee0530de710b411c962b2673489aa875",
+          "Guid": "92df9551782e4cb4a7143f64e2222aa4",
           "Weight": "20"
         },
         {
-          "Guid": "ed7e698462a642899b609881a6ebff28",
+          "Guid": "c2bc13c65b664a76aba53e1a2ef228dc",
+          "Weight": "20"
+        },
+        {
+          "Guid": "13686590317e4873a99962a18fe8737e",
+          "Weight": "20"
+        },
+        {
+          "Guid": "1d54bb1bcf0647fc92015c5ff04c4e59",
+          "Weight": "20"
+        },
+        {
+          "Guid": "4ed0ec85a53e4fadaf1a49189fa24dc1",
+          "Weight": "20"
+        },
+        {
+          "Guid": "0995731f2adb4152bf0153b1801cf853",
+          "Weight": "20"
+        },
+        {
+          "Guid": "52a43d9cf72843a7b6d2410885f001ef",
+          "Weight": "20"
+        },
+        {
+          "Guid": "3ca169532e564cde855b3384369f0ca5",
+          "Weight": "20"
+        },
+        {
+          "Guid": "662ea163263d4f01a9bc41283e3a97b9",
+          "Weight": "20"
+        },
+        {
+          "Guid": "cd6275ba582b47509581114b5fbeee35",
+          "Weight": "20"
+        },
+        {
+          "Guid": "4e09c02a28224f74b2c490f3c63cda4b",
           "Weight": "20"
         },
         {
@@ -126510,7 +128174,19 @@
           "Weight": "20"
         },
         {
-          "Guid": "cd6275ba582b47509581114b5fbeee35",
+          "Guid": "ed7e698462a642899b609881a6ebff28",
+          "Weight": "20"
+        },
+        {
+          "Guid": "ee0530de710b411c962b2673489aa875",
+          "Weight": "20"
+        },
+        {
+          "Guid": "1c40b4e2322146fa84d532562129174a",
+          "Weight": "20"
+        },
+        {
+          "Guid": "855ad7c1a74f4d18a0f8d54fdfe1675c",
           "Weight": "20"
         },
         {
@@ -126522,71 +128198,19 @@
           "Weight": "20"
         },
         {
-          "Guid": "92df9551782e4cb4a7143f64e2222aa4",
+          "Guid": "96670dd3c7a34c6d89098bf71aed8a73",
           "Weight": "20"
         },
         {
-          "Guid": "855ad7c1a74f4d18a0f8d54fdfe1675c",
+          "Guid": "233cb46d235a4944be9e0855c3026962",
           "Weight": "20"
         },
         {
-          "Guid": "1c40b4e2322146fa84d532562129174a",
-          "Weight": "20"
-        },
-        {
-          "Guid": "1d54bb1bcf0647fc92015c5ff04c4e59",
-          "Weight": "20"
-        },
-        {
-          "Guid": "662ea163263d4f01a9bc41283e3a97b9",
-          "Weight": "20"
-        },
-        {
-          "Guid": "0995731f2adb4152bf0153b1801cf853",
-          "Weight": "20"
-        },
-        {
-          "Guid": "3ca169532e564cde855b3384369f0ca5",
-          "Weight": "20"
-        },
-        {
-          "Guid": "13686590317e4873a99962a18fe8737e",
-          "Weight": "20"
-        },
-        {
-          "Guid": "c2bc13c65b664a76aba53e1a2ef228dc",
-          "Weight": "20"
-        },
-        {
-          "Guid": "4ed0ec85a53e4fadaf1a49189fa24dc1",
-          "Weight": "20"
-        },
-        {
-          "Guid": "52a43d9cf72843a7b6d2410885f001ef",
-          "Weight": "20"
-        },
-        {
-          "Guid": "894c019cdbad47a5b9149561d041bb61",
-          "Weight": "15"
-        },
-        {
-          "Guid": "9fe3e904c65a41c086ef082bded6fa94",
-          "Weight": "15"
-        },
-        {
-          "Guid": "c94b91bd79954f1f9fa0df44300ec494",
-          "Weight": "15"
-        },
-        {
-          "Guid": "fa222d97e10e4bdb9407611f9055f16c",
-          "Weight": "15"
+          "Guid": "ce95df21846048f8a7bf7b01abe3e6f5",
+          "Weight": "16"
         },
         {
           "Guid": "6d7677d8761d4d7ab9e9cf6fd90c7741",
-          "Weight": "15"
-        },
-        {
-          "Guid": "85ff39e793b44d699ef3ed61ccb296be",
           "Weight": "15"
         },
         {
@@ -126594,11 +128218,59 @@
           "Weight": "15"
         },
         {
-          "Guid": "ce95df21846048f8a7bf7b01abe3e6f5",
-          "Weight": "12"
+          "Guid": "fa222d97e10e4bdb9407611f9055f16c",
+          "Weight": "15"
+        },
+        {
+          "Guid": "9fe3e904c65a41c086ef082bded6fa94",
+          "Weight": "15"
+        },
+        {
+          "Guid": "85ff39e793b44d699ef3ed61ccb296be",
+          "Weight": "15"
+        },
+        {
+          "Guid": "894c019cdbad47a5b9149561d041bb61",
+          "Weight": "15"
+        },
+        {
+          "Guid": "c94b91bd79954f1f9fa0df44300ec494",
+          "Weight": "15"
+        },
+        {
+          "Guid": "ae6b3e8281fb4f31a01d5e6641831806",
+          "Weight": "10"
+        },
+        {
+          "Guid": "ba818789052c41d689b986775740d393",
+          "Weight": "10"
+        },
+        {
+          "Guid": "f68166a2d8e348baa28957f176b3fb12",
+          "Weight": "10"
+        },
+        {
+          "Guid": "3349a35d28bf4d5faaa375a4d840bb11",
+          "Weight": "10"
+        },
+        {
+          "Guid": "6b24fef08e5044dc81571b2f7c09a70d",
+          "Weight": "10"
+        },
+        {
+          "Guid": "d4c7f7df0a164eb4b0c70ca032523f67",
+          "Weight": "10"
         },
         {
           "Guid": "171663bacecf437899224e2ecb2a1bcf",
+          "Weight": "10"
+        },
+        {
+          "Guid": "f0e3df4236fd458b9807164d479931f2",
+          "Weight": "10"
+        },
+        {
+          "Guid": "8839267d869d4bba86f706e70117ded0",
           "Weight": "10"
         },
         {
@@ -126607,38 +128279,6 @@
         },
         {
           "Guid": "005f766f74dd420390a85f382e3db3b0",
-          "Weight": "10"
-        },
-        {
-          "Guid": "ba818789052c41d689b986775740d393",
-          "Weight": "10"
-        },
-        {
-          "Guid": "f0e3df4236fd458b9807164d479931f2",
-          "Weight": "10"
-        },
-        {
-          "Guid": "6b24fef08e5044dc81571b2f7c09a70d",
-          "Weight": "10"
-        },
-        {
-          "Guid": "f68166a2d8e348baa28957f176b3fb12",
-          "Weight": "10"
-        },
-        {
-          "Guid": "d4c7f7df0a164eb4b0c70ca032523f67",
-          "Weight": "10"
-        },
-        {
-          "Guid": "ae6b3e8281fb4f31a01d5e6641831806",
-          "Weight": "10"
-        },
-        {
-          "Guid": "3349a35d28bf4d5faaa375a4d840bb11",
-          "Weight": "10"
-        },
-        {
-          "Guid": "8839267d869d4bba86f706e70117ded0",
           "Weight": "10"
         },
         {
@@ -127887,7 +129527,7 @@
     "data": {
       "GUID": "8839267d869d4bba86f706e70117ded0",
       "Type": "Magazine",
-      "Rarity": "Legendary",
+      "Rarity": "Mythical",
       "ID": "51049",
       "Size_X": "3",
       "Size_Y": "2",
@@ -139176,6 +140816,44 @@
       "Description": "Military grade barrel. Increases accuracy."
     }
   },
+  "932f67ccb2ca4f0ba92217bc77030c70": {
+    "name": "Bike_Helmet_White",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Hats/Bike_Helmet_White/Bike_Helmet_White.dat",
+    "data": {
+      "GUID": "932f67ccb2ca4f0ba92217bc77030c70",
+      "Type": "Hat",
+      "Rarity": "Rare",
+      "Useable": "Clothing",
+      "ID": "52547",
+      "Size_X": "2",
+      "Size_Y": "2",
+      "Size_Z": "0.3",
+      "Armor": ".7",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52547",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Outputs": "2",
+      "Blueprint_0_Output_0_ID": "51017",
+      "Blueprint_0_Output_0_Amount": "2",
+      "Blueprint_0_Output_1_ID": "51028",
+      "Blueprint_0_Output_1_Amount": "2",
+      "Blueprint_0_Build": "32",
+      "Blueprint_1_Type": "Repair",
+      "Blueprint_1_Searchable": "False",
+      "Blueprint_1_Supplies": "2",
+      "Blueprint_1_Supply_0_ID": "51017",
+      "Blueprint_1_Supply_0_Amount": "2",
+      "Blueprint_1_Supply_1_ID": "51028",
+      "Blueprint_1_Supply_1_Amount": "2",
+      "Blueprint_1_Build": "32"
+    },
+    "translation": {
+      "Name": "White Biker Helmet",
+      "Description": "Protects your head from any nasty impacts."
+    }
+  },
   "933092f08ad44d3fbb55f1ff0fce12ee": {
     "name": "Eagle_Beak",
     "path": "Bundles/Skins/Scythe/Eagle_Beak/Eagle_Beak.dat",
@@ -142859,6 +144537,104 @@
     },
     "translation": null
   },
+  "96f354e1b12344f99538a4ad64514fb6": {
+    "name": "Pig",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Weapons/Guns/Pig/Pig.dat",
+    "data": {
+      "GUID": "96f354e1b12344f99538a4ad64514fb6",
+      "Type": "Gun",
+      "Rarity": "Legendary",
+      "Useable": "Gun",
+      "Slot": "Primary",
+      "ID": "52532",
+      "Instantiated_Item_Name_Override": "51219",
+      "Size_X": "5",
+      "Size_Y": "2",
+      "Size_Z": "0.35",
+      "Magazine": "52534",
+      "Hook_Barrel": "",
+      "Hook_Sight": "",
+      "Hook_Tactical": "",
+      "Shell": "51051",
+      "Ammo_Min": "80",
+      "Ammo_Max": "100",
+      "Auto": "",
+      "Semi": "",
+      "Sight": "52533",
+      "Attachment_Calibers": "2",
+      "Attachment_Caliber_0": "0",
+      "Attachment_Caliber_1": "52532",
+      "Magazine_Calibers": "2",
+      "Magazine_Caliber_0": "51010",
+      "Magazine_Caliber_1": "51001",
+      "Range": "300",
+      "Firerate": "5",
+      "Action": "Trigger",
+      "Player_Damage": "21",
+      "Player_Leg_Multiplier": ".75",
+      "Player_Arm_Multiplier": ".75",
+      "Player_Spine_Multiplier": "1",
+      "Player_Skull_Multiplier": "1.25",
+      "Zombie_Damage": "135",
+      "Zombie_Leg_Multiplier": "0.35",
+      "Zombie_Arm_Multiplier": "0.35",
+      "Zombie_Spine_Multiplier": "0.6",
+      "Zombie_Skull_Multiplier": "1.2",
+      "Animal_Damage": "50",
+      "Animal_Leg_Multiplier": "0.6",
+      "Animal_Spine_Multiplier": "0.8",
+      "Animal_Skull_Multiplier": "1.1",
+      "Barricade_Damage": "10",
+      "Structure_Damage": "5",
+      "Vehicle_Damage": "40",
+      "Resource_Damage": "30",
+      "Object_Damage": "35",
+      "Durability": "0",
+      "Quality_Min": "100",
+      "Quality_Max": "100",
+      "Aim_In_Duration": "0.25",
+      "Recoil_Min_X": "-1.25",
+      "Recoil_Max_X": "1.25",
+      "Recoil_Max_Y": "3.5",
+      "Recoil_Min_Y": "1.25",
+      "Spread_Aim": "0.05",
+      "Spread_Hip": "0.1",
+      "Remove": "0",
+      "Replace": "0",
+      "Recover_X": "0.1",
+      "Recover_Y": "0.1",
+      "Shake_Min_X": ".01",
+      "Shake_Min_Y": "0",
+      "Shake_Min_Z": "-.03",
+      "Shake_Max_X": "-.01",
+      "Shake_Max_Y": "0",
+      "Shake_Max_Z": "-.05",
+      "Muzzle": "",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52532",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Outputs": "2",
+      "Blueprint_0_Output_0_ID": "51036",
+      "Blueprint_0_Output_0_Amount": "3",
+      "Blueprint_0_Output_1_ID": "51017",
+      "Blueprint_0_Output_1_Amount": "6",
+      "Blueprint_0_Build": "27",
+      "Blueprint_1_Type": "Repair",
+      "Blueprint_1_Searchable": "False",
+      "Blueprint_1_Supply_0_ID": "51036",
+      "Blueprint_1_Supply_0_Amount": "3",
+      "Blueprint_1_Build": "27",
+      "Shoot_Quest_Rewards": "1",
+      "Shoot_Quest_Reward_0_Type": "Rewards_List_Asset",
+      "Shoot_Quest_Reward_0_GUID": "ae7724167039492fb3bd8aeef222fcfa"
+    },
+    "translation": {
+      "Name": "Pig",
+      "Description": "American medium machine gun chambered <color=legendary>LMG Boxes</color>."
+    }
+  },
   "96faae0331094d17916d9625f72f7daf": {
     "name": "Cobra_40",
     "path": "Bundles/Items/Magazines/Cobra_40/Cobra_40.dat",
@@ -144170,27 +145946,7 @@
           "Weight": "40"
         },
         {
-          "Guid": "0b54ee1c68df4cd6800d52a9c86e1a93",
-          "Weight": "30"
-        },
-        {
           "Guid": "e3dd91edb4de411ca4386689357fa060",
-          "Weight": "30"
-        },
-        {
-          "Guid": "135d1651d9d940e580c5610ab276941a",
-          "Weight": "30"
-        },
-        {
-          "Guid": "df2b41f51ad94ec69948619b8d5f0e3b",
-          "Weight": "30"
-        },
-        {
-          "Guid": "0995731f2adb4152bf0153b1801cf853",
-          "Weight": "30"
-        },
-        {
-          "Guid": "13686590317e4873a99962a18fe8737e",
           "Weight": "30"
         },
         {
@@ -144198,48 +145954,32 @@
           "Weight": "30"
         },
         {
-          "Guid": "ee0530de710b411c962b2673489aa875",
-          "Weight": "20"
+          "Guid": "13686590317e4873a99962a18fe8737e",
+          "Weight": "30"
         },
         {
-          "Guid": "1d54bb1bcf0647fc92015c5ff04c4e59",
-          "Weight": "20"
+          "Guid": "0995731f2adb4152bf0153b1801cf853",
+          "Weight": "30"
         },
         {
-          "Guid": "52a43d9cf72843a7b6d2410885f001ef",
-          "Weight": "20"
+          "Guid": "b89f47823e164658b49beb9805a66ab9",
+          "Weight": "30"
         },
         {
-          "Guid": "855ad7c1a74f4d18a0f8d54fdfe1675c",
-          "Weight": "20"
+          "Guid": "135d1651d9d940e580c5610ab276941a",
+          "Weight": "30"
         },
         {
-          "Guid": "1377acfe277e462dbc52dd2758531ded",
-          "Weight": "20"
+          "Guid": "0b54ee1c68df4cd6800d52a9c86e1a93",
+          "Weight": "30"
         },
         {
-          "Guid": "894c019cdbad47a5b9149561d041bb61",
-          "Weight": "20"
+          "Guid": "df2b41f51ad94ec69948619b8d5f0e3b",
+          "Weight": "30"
         },
         {
-          "Guid": "ed7e698462a642899b609881a6ebff28",
-          "Weight": "20"
-        },
-        {
-          "Guid": "ef2f901cade64c939220ce2da5c6ab22",
-          "Weight": "20"
-        },
-        {
-          "Guid": "4ed0ec85a53e4fadaf1a49189fa24dc1",
-          "Weight": "20"
-        },
-        {
-          "Guid": "e17a99f39e9446899d184eb78e736833",
-          "Weight": "20"
-        },
-        {
-          "Guid": "c2bc13c65b664a76aba53e1a2ef228dc",
-          "Weight": "20"
+          "Guid": "96f354e1b12344f99538a4ad64514fb6",
+          "Weight": "30"
         },
         {
           "Guid": "92df9551782e4cb4a7143f64e2222aa4",
@@ -144254,7 +145994,7 @@
           "Weight": "20"
         },
         {
-          "Guid": "1c40b4e2322146fa84d532562129174a",
+          "Guid": "ef2f901cade64c939220ce2da5c6ab22",
           "Weight": "20"
         },
         {
@@ -144266,27 +146006,51 @@
           "Weight": "20"
         },
         {
-          "Guid": "6d7677d8761d4d7ab9e9cf6fd90c7741",
-          "Weight": "15"
+          "Guid": "c2bc13c65b664a76aba53e1a2ef228dc",
+          "Weight": "20"
         },
         {
-          "Guid": "85ff39e793b44d699ef3ed61ccb296be",
-          "Weight": "15"
+          "Guid": "1c40b4e2322146fa84d532562129174a",
+          "Weight": "20"
+        },
+        {
+          "Guid": "4ed0ec85a53e4fadaf1a49189fa24dc1",
+          "Weight": "20"
+        },
+        {
+          "Guid": "ed7e698462a642899b609881a6ebff28",
+          "Weight": "20"
+        },
+        {
+          "Guid": "894c019cdbad47a5b9149561d041bb61",
+          "Weight": "20"
+        },
+        {
+          "Guid": "1377acfe277e462dbc52dd2758531ded",
+          "Weight": "20"
+        },
+        {
+          "Guid": "855ad7c1a74f4d18a0f8d54fdfe1675c",
+          "Weight": "20"
+        },
+        {
+          "Guid": "52a43d9cf72843a7b6d2410885f001ef",
+          "Weight": "20"
+        },
+        {
+          "Guid": "1d54bb1bcf0647fc92015c5ff04c4e59",
+          "Weight": "20"
+        },
+        {
+          "Guid": "ee0530de710b411c962b2673489aa875",
+          "Weight": "20"
+        },
+        {
+          "Guid": "e17a99f39e9446899d184eb78e736833",
+          "Weight": "20"
         },
         {
           "Guid": "9fe3e904c65a41c086ef082bded6fa94",
-          "Weight": "15"
-        },
-        {
-          "Guid": "f1a7572c557a4c0cbbb7fe5e4f02f2e9",
-          "Weight": "15"
-        },
-        {
-          "Guid": "49163d9e098749688d87fa187a721084",
-          "Weight": "15"
-        },
-        {
-          "Guid": "6b24fef08e5044dc81571b2f7c09a70d",
           "Weight": "15"
         },
         {
@@ -144294,11 +146058,7 @@
           "Weight": "15"
         },
         {
-          "Guid": "c94b91bd79954f1f9fa0df44300ec494",
-          "Weight": "15"
-        },
-        {
-          "Guid": "fa222d97e10e4bdb9407611f9055f16c",
+          "Guid": "49163d9e098749688d87fa187a721084",
           "Weight": "15"
         },
         {
@@ -144306,20 +146066,28 @@
           "Weight": "15"
         },
         {
-          "Guid": "8839267d869d4bba86f706e70117ded0",
-          "Weight": "10"
+          "Guid": "fa222d97e10e4bdb9407611f9055f16c",
+          "Weight": "15"
         },
         {
-          "Guid": "f0e3df4236fd458b9807164d479931f2",
-          "Weight": "10"
+          "Guid": "85ff39e793b44d699ef3ed61ccb296be",
+          "Weight": "15"
         },
         {
-          "Guid": "005f766f74dd420390a85f382e3db3b0",
-          "Weight": "10"
+          "Guid": "f1a7572c557a4c0cbbb7fe5e4f02f2e9",
+          "Weight": "15"
         },
         {
-          "Guid": "dd73d6ff2f534cdbb40e65d1c5b34374",
-          "Weight": "10"
+          "Guid": "6d7677d8761d4d7ab9e9cf6fd90c7741",
+          "Weight": "15"
+        },
+        {
+          "Guid": "6b24fef08e5044dc81571b2f7c09a70d",
+          "Weight": "15"
+        },
+        {
+          "Guid": "c94b91bd79954f1f9fa0df44300ec494",
+          "Weight": "15"
         },
         {
           "Guid": "de656abd2edb4333adec4855631754b1",
@@ -144330,7 +146098,23 @@
           "Weight": "10"
         },
         {
+          "Guid": "dd73d6ff2f534cdbb40e65d1c5b34374",
+          "Weight": "10"
+        },
+        {
           "Guid": "c3b5432ab18a40b4b7742d004dd7323c",
+          "Weight": "10"
+        },
+        {
+          "Guid": "f0e3df4236fd458b9807164d479931f2",
+          "Weight": "10"
+        },
+        {
+          "Guid": "8839267d869d4bba86f706e70117ded0",
+          "Weight": "10"
+        },
+        {
+          "Guid": "005f766f74dd420390a85f382e3db3b0",
           "Weight": "10"
         },
         {
@@ -146540,6 +148324,22 @@
       "Name": "PBS Midnight Screen #0-4"
     }
   },
+  "9b431a6cb374450d9ec1c2d8090f9e87": {
+    "name": "PaintingHUT",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingHUT/PaintingHUT.dat",
+    "data": {
+      "GUID": "9b431a6cb374450d9ec1c2d8090f9e87",
+      "Type": "Spawn",
+      "ID": "51375",
+      "Tables": [
+        {
+          "Guid": "514ce7442fc1476eab23b13f15b20623",
+          "Weight": "100"
+        }
+      ]
+    },
+    "translation": null
+  },
   "9b4665ab214048bba6cd359e23b50b07": {
     "name": "Doorway_Birch",
     "path": "Bundles/Items/Structures/Doorway_Birch/Doorway_Birch.dat",
@@ -147057,6 +148857,24 @@
     },
     "translation": null
   },
+  "9bfb8111ac494912aa2aa2c4ca70f911": {
+    "name": "PaintingPinky",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PaintingPinky/PaintingPinky.dat",
+    "data": {
+      "GUID": "9bfb8111ac494912aa2aa2c4ca70f911",
+      "Type": "Medium",
+      "ID": "51000",
+      "Has_Clip_Prefab": "false",
+      "Rubble": "Destroy",
+      "Rubble_Reset": "300",
+      "Rubble_Health": "1",
+      "Rubble_Effect": "58",
+      "Rubble_Reward_ID": "51384"
+    },
+    "translation": {
+      "Name": "PBS Painting Pinky"
+    }
+  },
   "9c0f0ea6b6d04446ab40fb60d22be718": {
     "name": "Bridge_Ramp_0",
     "path": "Bundles/Objects/Large/Roads/Bridge_Ramp_0/Bridge_Ramp_0.dat",
@@ -147495,6 +149313,22 @@
       "Name": "Round Glasses",
       "Description": "Classy."
     }
+  },
+  "9cb45dfa4d9d45dfa725471edde0251f": {
+    "name": "PaintingMortis",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingMortis/PaintingMortis.dat",
+    "data": {
+      "GUID": "9cb45dfa4d9d45dfa725471edde0251f",
+      "Type": "Spawn",
+      "ID": "51383",
+      "Tables": [
+        {
+          "Guid": "e72ee2cf489f4068a916df6a9ee52def",
+          "Weight": "100"
+        }
+      ]
+    },
+    "translation": null
   },
   "9cb94145e1a64d3e9812488744948c5e": {
     "name": "PBS_RedFilamentR",
@@ -149014,6 +150848,43 @@
     },
     "translation": null
   },
+  "9f1389166c224626ad5f5d35c8eab275": {
+    "name": "PaintingGNX",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Pictures/PaintingGNX/PaintingGNX.dat",
+    "data": {
+      "GUID": "9f1389166c224626ad5f5d35c8eab275",
+      "Type": "Barricade",
+      "Useable": "Barricade",
+      "Build": "Barricade_Wall",
+      "Rarity": "Rare",
+      "ID": "52572",
+      "SalvageItem": "9f1389166c224626ad5f5d35c8eab275",
+      "Size_X": "1",
+      "Size_Y": "1",
+      "Size_Z": "0.6",
+      "Health": "40",
+      "Range": "4",
+      "Radius": "0.02",
+      "Offset": "0.1",
+      "Explosion": "58",
+      "Vulnerable": "",
+      "Salvage_Duration_Multiplier": "0.25",
+      "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+      "Bypass_Pickup_Ownership": "True",
+      "Has_Clip_Prefab": "False",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52572",
+      "Blueprint_0_Product": "51020",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Painting - BMX",
+      "Description": "CASTERRRRRRRRRRR"
+    }
+  },
   "9f15eaff39a7401fb7569197893f02ae": {
     "name": "Boat_3",
     "path": "Bundles/Objects/Medium/Parks/Boat_3/Boat_3.dat",
@@ -149640,6 +151511,49 @@
     "translation": {
       "Name": "Coalition Soldier Calvin",
       "Character": "<color=uncommon>Ensign Calvin</color>"
+    }
+  },
+  "9f99bb8efebc4b65b2ec562fbebff0d2": {
+    "name": "AirdropSentry",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/AirdropSentry/AirdropSentry.dat",
+    "data": {
+      "GUID": "9f99bb8efebc4b65b2ec562fbebff0d2",
+      "Type": "Sentry",
+      "Useable": "Barricade",
+      "Rarity": "Epic",
+      "Build": "Sentry",
+      "ID": "51608",
+      "SalvageItem": "671c3673e600471499f6b669afd65220",
+      "Size_X": "2",
+      "Size_Y": "2",
+      "Size_Z": "0.67",
+      "Health": "950",
+      "Range": "4",
+      "Radius": "0.75",
+      "Offset": "1",
+      "Detection_Radius": "40",
+      "Storage_X": "10",
+      "Storage_Y": "10",
+      "Target_Loss_Radius": "50",
+      "Explosion": "51053",
+      "Requires_Power": "false",
+      "Display": "",
+      "Locked": "",
+      "Unpickupable": "",
+      "Unrepairable": "",
+      "Unsalvageable": "",
+      "Unsaveable": "",
+      "Vulnerable": "",
+      "Mode": "Hostile",
+      "Bypass_Pickup_Ownership": "False",
+      "Infinite_Ammo": "",
+      "Should_Close_When_Outside_Range": "true",
+      "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3",
+      "Has_Clip_Prefab": "false"
+    },
+    "translation": {
+      "Name": "PBS AirdropSentry",
+      "Description": "you should not have this"
     }
   },
   "9f9a147fa3354585b461aea7597c738b": {
@@ -155941,6 +157855,44 @@
       "Description": "The zombies can huff and puff, but they aren't getting in."
     }
   },
+  "a5c7ea6b3b8542c6a43fecca2c9a3a71": {
+    "name": "Bike_Helmet_Orange",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Hats/Bike_Helmet_Orange/Bike_Helmet_Orange.dat",
+    "data": {
+      "GUID": "a5c7ea6b3b8542c6a43fecca2c9a3a71",
+      "Type": "Hat",
+      "Rarity": "Rare",
+      "Useable": "Clothing",
+      "ID": "52543",
+      "Size_X": "2",
+      "Size_Y": "2",
+      "Size_Z": "0.3",
+      "Armor": ".75",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52543",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Outputs": "2",
+      "Blueprint_0_Output_0_ID": "51017",
+      "Blueprint_0_Output_0_Amount": "2",
+      "Blueprint_0_Output_1_ID": "51028",
+      "Blueprint_0_Output_1_Amount": "2",
+      "Blueprint_0_Build": "32",
+      "Blueprint_1_Type": "Repair",
+      "Blueprint_1_Searchable": "False",
+      "Blueprint_1_Supplies": "2",
+      "Blueprint_1_Supply_0_ID": "51017",
+      "Blueprint_1_Supply_0_Amount": "2",
+      "Blueprint_1_Supply_1_ID": "51028",
+      "Blueprint_1_Supply_1_Amount": "2",
+      "Blueprint_1_Build": "32"
+    },
+    "translation": {
+      "Name": "Orange Biker Helmet",
+      "Description": "Protects your head from any nasty impacts."
+    }
+  },
   "a5c8424a0d1c45bba479b91689e761ca": {
     "name": "Space_Shuttle_1",
     "path": "Bundles/Objects/Large/Vehicles/Space_Shuttle_1/Space_Shuttle_1.dat",
@@ -160014,6 +161966,18 @@
     },
     "translation": {
       "Name": "Jail Door #1"
+    }
+  },
+  "a9ffedfa4daa4a92b192b0197ceb6e17": {
+    "name": "37",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Graffitis/37/37.dat",
+    "data": {
+      "GUID": "a9ffedfa4daa4a92b192b0197ceb6e17",
+      "Type": "Large",
+      "ID": "51000"
+    },
+    "translation": {
+      "Name": "PBS Graffiti Polish"
     }
   },
   "aa02dc315b2e474189d7ab6d6c204377": {
@@ -168166,6 +170130,58 @@
     },
     "translation": null
   },
+  "b2372614134c4c4d91041eb7e819db65": {
+    "name": "StrikeGatling",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/StrikeGatling/StrikeGatling.dat",
+    "data": {
+      "GUID": "b2372614134c4c4d91041eb7e819db65",
+      "Type": "Magazine",
+      "Rarity": "Mythical",
+      "ID": "51037",
+      "Size_X": "2",
+      "Size_Y": "2",
+      "Size_Z": "0.1",
+      "Amount": "1",
+      "Count_Min": "1",
+      "Count_Max": "1",
+      "Spawn_Explosion_On_Dedicated_Server": "True",
+      "Calibers": "1",
+      "Caliber_0": "51050",
+      "Tracer": "55",
+      "Range": "3",
+      "Player_Damage": "0",
+      "Zombie_Damage": "0",
+      "Animal_Damage": "0",
+      "Barricade_Damage": "0",
+      "Structure_Damage": "0",
+      "Vehicle_Damage": "0",
+      "Resource_Damage": "0",
+      "Object_Damage": "0",
+      "Explosion": "51058",
+      "Explosive": "",
+      "Use_Auto_Stat_Descriptions": "False",
+      "Delete_Empty": "",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Tool",
+      "Blueprint_0_Supplies": "4",
+      "Blueprint_0_Supply_0_ID": "51329",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Supply_0_Critical": "",
+      "Blueprint_0_Supply_1_ID": "51308",
+      "Blueprint_0_Supply_1_Amount": "1",
+      "Blueprint_0_Supply_2_ID": "51061",
+      "Blueprint_0_Supply_2_Amount": "1",
+      "Blueprint_0_Supply_3_ID": "52310",
+      "Blueprint_0_Supply_3_Amount": "1",
+      "Blueprint_0_Product": "51037",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Strike Call - Gatling Sentry",
+      "Description": "Prosperity! Liberty! Democracy!",
+      "This": "strike calls in a sentry gun that is hostile to everyone. Has a <br><br>50 second battery.<br>"
+    }
+  },
   "b2463dfbeefb4f1bb72f8705d05924d1": {
     "name": "Rainbow_Vertical",
     "path": "Bundles/Skins/Patterns/Rainbow_Vertical/Rainbow_Vertical.dat",
@@ -168683,6 +170699,43 @@
       "LoadPaintColor": "#9a2525"
     },
     "translation": null
+  },
+  "b2d9a2123c3b477e9b4fc8d28b689ae0": {
+    "name": "PaintingDepress",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Pictures/PaintingDepress/PaintingDepress.dat",
+    "data": {
+      "GUID": "b2d9a2123c3b477e9b4fc8d28b689ae0",
+      "Type": "Barricade",
+      "Useable": "Barricade",
+      "Build": "Barricade_Wall",
+      "Rarity": "Rare",
+      "ID": "52571",
+      "SalvageItem": "b2d9a2123c3b477e9b4fc8d28b689ae0",
+      "Size_X": "1",
+      "Size_Y": "1",
+      "Size_Z": "0.6",
+      "Health": "40",
+      "Range": "4",
+      "Radius": "0.02",
+      "Offset": "0.1",
+      "Explosion": "58",
+      "Vulnerable": "",
+      "Salvage_Duration_Multiplier": "0.25",
+      "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+      "Bypass_Pickup_Ownership": "True",
+      "Has_Clip_Prefab": "False",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52571",
+      "Blueprint_0_Product": "51020",
+      "Blueprint_0_Products": "2",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Painting - Sadness Strawberry",
+      "Description": "By Ocean Home."
+    }
   },
   "b2de96633f1948d7b318dbdd90a7f411": {
     "name": "Van_Blue",
@@ -169807,7 +171860,7 @@
       "Type": "Vendor",
       "ID": "52420",
       "Disable_Sorting": "",
-      "Buying": "16",
+      "Buying": "17",
       "Buying_0_ID": "51032 ",
       "Buying_0_Cost": "40",
       "Buying_0_Amount": "8",
@@ -169886,24 +171939,30 @@
       "Buying_12_Rewards": "1",
       "Buying_12_Reward_0_Type": "Rewards_List_Asset",
       "Buying_12_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_13_ID": "51050  ",
-      "Buying_13_Cost": "750",
-      "Buying_13_Amount": "150",
+      "Buying_13_ID": "52534  ",
+      "Buying_13_Cost": "500",
+      "Buying_13_Amount": "125",
       "Buying_13_Rewards": "1",
       "Buying_13_Reward_0_Type": "Rewards_List_Asset",
       "Buying_13_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_14_ID": "52470  ",
-      "Buying_14_Cost": "1000",
-      "Buying_14_Amount": "5",
+      "Buying_14_ID": "51050  ",
+      "Buying_14_Cost": "750",
+      "Buying_14_Amount": "150",
       "Buying_14_Rewards": "1",
       "Buying_14_Reward_0_Type": "Rewards_List_Asset",
       "Buying_14_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_15_ID": "52471",
+      "Buying_15_ID": "52470  ",
       "Buying_15_Cost": "1000",
       "Buying_15_Amount": "5",
       "Buying_15_Rewards": "1",
       "Buying_15_Reward_0_Type": "Rewards_List_Asset",
       "Buying_15_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_16_ID": "52471",
+      "Buying_16_Cost": "1000",
+      "Buying_16_Amount": "5",
+      "Buying_16_Rewards": "1",
+      "Buying_16_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_16_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Selling": "5",
       "Selling_0_ID": "51032 ",
       "Selling_0_Cost": "125",
@@ -170393,6 +172452,24 @@
     },
     "translation": null
   },
+  "b4d2a4024fda404cb2a01773e6c52828": {
+    "name": "PaintingDepress",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PaintingDepress/PaintingDepress.dat",
+    "data": {
+      "GUID": "b4d2a4024fda404cb2a01773e6c52828",
+      "Type": "Medium",
+      "ID": "51000",
+      "Has_Clip_Prefab": "false",
+      "Rubble": "Destroy",
+      "Rubble_Reset": "300",
+      "Rubble_Health": "1",
+      "Rubble_Effect": "58",
+      "Rubble_Reward_ID": "51373"
+    },
+    "translation": {
+      "Name": "PBS Painting Depression Cherry"
+    }
+  },
   "b4d3e065e96a4828b3176195fe7cb63f": {
     "name": "Blackburn_Flight",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Vendors/Blackburn_Flight/Asset.dat",
@@ -170401,7 +172478,7 @@
       "Type": "Vendor",
       "ID": "52753",
       "Disable_Sorting": "",
-      "Selling": "7",
+      "Selling": "8",
       "Selling_0_ID": "52350",
       "Selling_0_Cost": "15000",
       "Selling_0_Rewards": "2",
@@ -170458,6 +172535,14 @@
       "Selling_6_Reward_1_Type": "Vehicle",
       "Selling_6_Reward_1_ID": "51033",
       "Selling_6_Reward_1_Spawnpoint": "Plane_Water",
+      "Selling_7_ID": "52512",
+      "Selling_7_Cost": "25000",
+      "Selling_7_Rewards": "2",
+      "Selling_7_Reward_0_Type": "Rewards_List_Asset",
+      "Selling_7_Reward_0_GUID": "d424d1658c214b4c938c022f9c2eaace",
+      "Selling_7_Reward_1_Type": "Vehicle",
+      "Selling_7_Reward_1_ID": "51038",
+      "Selling_7_Reward_1_Spawnpoint": "AurumHeliSpawn",
       "Currency": "561f74cdccdf48abaa6d49343b56aab0"
     },
     "translation": {
@@ -170949,6 +173034,10 @@
         },
         {
           "Guid": "19a07f4199f04995b62cd4e25e280ec5",
+          "Weight": "5"
+        },
+        {
+          "Guid": "856e0b67cefb4419acbc63a0c539138d",
           "Weight": "5"
         },
         {
@@ -173369,6 +175458,113 @@
       "Name": "PBS Gas Pump 1"
     }
   },
+  "b7946584b1d9499585be3bcad5ac8dc5": {
+    "name": "PBS_Jennifer_Welcome",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Dialogues/PBS_Jennifer/PBS_Jennifer_Welcome/Asset.dat",
+    "data": {
+      "GUID": "b7946584b1d9499585be3bcad5ac8dc5",
+      "Type": "Dialogue",
+      "ID": "53201",
+      "Messages": "4",
+      "Message_0_Pages": "1",
+      "Message_0_Conditions": "2",
+      "Message_0_Condition_0_Type": "Flag_Short",
+      "Message_0_Condition_0_ID": "52009",
+      "Message_0_Condition_0_Value": "0",
+      "Message_0_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+      "Message_0_Condition_0_Allow_Unset": "",
+      "Message_0_Condition_1_Type": "Flag_Short",
+      "Message_0_Condition_1_ID": "52009",
+      "Message_0_Condition_1_Value": "333",
+      "Message_0_Condition_1_Logic": "Less_Than",
+      "Message_0_Condition_1_Allow_Unset": "",
+      "Message_0_Rewards": "1",
+      "Message_0_Reward_0_Type": "Flag_Short_Random",
+      "Message_0_Reward_0_ID": "52009",
+      "Message_0_Reward_0_Min_Value": "0",
+      "Message_0_Reward_0_Max_Value": "999",
+      "Message_0_Reward_0_Modification": "Assign",
+      "Message_1_Pages": "1",
+      "Message_1_Conditions": "2",
+      "Message_1_Condition_0_Type": "Flag_Short",
+      "Message_1_Condition_0_ID": "52009",
+      "Message_1_Condition_0_Value": "333",
+      "Message_1_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+      "Message_1_Condition_1_Type": "Flag_Short",
+      "Message_1_Condition_1_ID": "52009",
+      "Message_1_Condition_1_Value": "666",
+      "Message_1_Condition_1_Logic": "Less_Than",
+      "Message_1_Rewards": "1",
+      "Message_1_Reward_0_Type": "Flag_Short_Random",
+      "Message_1_Reward_0_ID": "52009",
+      "Message_1_Reward_0_Min_Value": "0",
+      "Message_1_Reward_0_Max_Value": "999",
+      "Message_1_Reward_0_Modification": "Assign",
+      "Message_2_Pages": "1",
+      "Message_2_Conditions": "2",
+      "Message_2_Condition_0_Type": "Flag_Short",
+      "Message_2_Condition_0_ID": "52009",
+      "Message_2_Condition_0_Value": "666",
+      "Message_2_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+      "Message_2_Condition_1_Type": "Flag_Short",
+      "Message_2_Condition_1_ID": "52009",
+      "Message_2_Condition_1_Value": "999",
+      "Message_2_Condition_1_Logic": "Less_Than",
+      "Message_2_Rewards": "1",
+      "Message_2_Reward_0_Type": "Flag_Short_Random",
+      "Message_2_Reward_0_ID": "52009",
+      "Message_2_Reward_0_Min_Value": "0",
+      "Message_2_Reward_0_Max_Value": "999",
+      "Message_2_Reward_0_Modification": "Assign",
+      "Message_3_Pages": "1",
+      "Message_3_Conditions": "1",
+      "Message_3_Condition_0_Type": "Flag_Short",
+      "Message_3_Condition_0_ID": "52009",
+      "Message_3_Condition_0_Value": "999",
+      "Message_3_Condition_0_Logic": "Equal",
+      "Message_3_Rewards": "1",
+      "Message_3_Reward_0_Type": "Flag_Short_Random",
+      "Message_3_Reward_0_ID": "52009",
+      "Message_3_Reward_0_Min_Value": "0",
+      "Message_3_Reward_0_Max_Value": "999",
+      "Message_3_Reward_0_Modification": "Assign",
+      "Responses": "10",
+      "Response_0_Vendor": "52412",
+      "Response_0_Dialogue": "52417",
+      "Response_1_Vendor": "52413",
+      "Response_1_Dialogue": "52417",
+      "Response_2_Vendor": "52418",
+      "Response_2_Dialogue": "52417",
+      "Response_3_Vendor": "52414",
+      "Response_3_Dialogue": "52417",
+      "Response_4_Vendor": "52415",
+      "Response_4_Dialogue": "52417",
+      "Response_5_Vendor": "52420",
+      "Response_5_Dialogue": "52417",
+      "Response_6_Vendor": "52421",
+      "Response_6_Dialogue": "52417",
+      "Response_7_Vendor": "52419",
+      "Response_7_Dialogue": "52417",
+      "Response_8_Vendor": "52416",
+      "Response_8_Dialogue": "52417"
+    },
+    "translation": {
+      "Message_0_Page_0": "Hey there <name_char>, what can I do for ya?",
+      "Message_1_Page_0": "Nice to see all these things running smoothly.",
+      "Message_2_Page_0": "Gotta sort out all these spare parts.",
+      "Message_3_Page_0": "Shoot, my arm is acting up again...",
+      "Response_0": "Buy/Sell Small Guns",
+      "Response_1": "Buy/Sell Long Guns",
+      "Response_2": "Buy/Sell Launchers",
+      "Response_3": "Buy/Sell Attachments",
+      "Response_4": "Buy/Sell Magazines and Ammo",
+      "Response_5": "Buy/Sell Special Magazines and Ammo",
+      "Response_6": "Sell Explosives",
+      "Response_7": "Buy/Sell Gun Storages",
+      "Response_8": "Sell Gun Parts",
+      "Response_9": "Goodbye!"
+    }
+  },
   "b79da951cf3d42cf8de350b40711ad4e": {
     "name": "Beekeeper_Top",
     "path": "Bundles/Items/Outfits/Beekeeper/Beekeeper_Top/Beekeeper_Top.dat",
@@ -174163,6 +176359,53 @@
     "translation": {
       "Name": "Large Pine Plate",
       "Description": "Pine plate. Beware of termites."
+    }
+  },
+  "b89f47823e164658b49beb9805a66ab9": {
+    "name": "LMGPrec",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/Ammo/LMGPrec/LMGPrec.dat",
+    "data": {
+      "GUID": "b89f47823e164658b49beb9805a66ab9",
+      "Type": "Magazine",
+      "Rarity": "Legendary",
+      "ID": "52534",
+      "Size_X": "2",
+      "Size_Y": "1",
+      "Size_Z": "0.175",
+      "Use_Auto_Icon_Measurements": "false",
+      "Amount": "100",
+      "Count_Min": "15",
+      "Count_Max": "100",
+      "Calibers": "1",
+      "Caliber_0": "51010",
+      "Tracer": "51000",
+      "Blueprints": "4",
+      "Blueprint_0_Type": "Ammo",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52534",
+      "Blueprint_0_Build": "30",
+      "Blueprint_1_Type": "Ammo",
+      "Blueprint_1_Supplies": "1",
+      "Blueprint_1_Supply_0_ID": "52085",
+      "Blueprint_1_Build": "30",
+      "Blueprint_2_Type": "Ammo",
+      "Blueprint_2_Supplies": "1",
+      "Blueprint_2_Supply_0_ID": "52086",
+      "Blueprint_2_Build": "30",
+      "Blueprint_3_Type": "Ammo",
+      "Blueprint_3_Supplies": "1",
+      "Blueprint_3_Supply_0_ID": "52087",
+      "Blueprint_3_Build": "30",
+      "Firerate": "-1",
+      "Ballistic_Damage_Multiplier": "1.2",
+      "Spread": "0.8",
+      "Recoil_X": "1.25",
+      "Recoil_Y": "1.25",
+      "Ballistic_Drop": "0.8"
+    },
+    "translation": {
+      "Name": "LMG Full-Power Box",
+      "Description": "Higher pressure machine gun cartridges, increasing damage, accuracy, and ballistics at the cost of firerate and handling. Holds 100 rounds of <color=#DB871A>Precision</color> ammo. Compatible with <color=legendary>Pig</color>, <color=legendary>Nacht</color> and <color=legendary>Griffin</color>.<br><br><color=red>Decreases Firerate</color>"
     }
   },
   "b8a624cf69154b4b881d37fe573efb0d": {
@@ -175518,6 +177761,27 @@
     "translation": {
       "Name": "Garbage [Blue]"
     }
+  },
+  "ba1c616d654546e9ae72c091a8dbee8e": {
+    "name": "PBS_PigSetup2",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/Deadzone/PBS_PigSetup2/PBS_PigSetup2.dat",
+    "data": {
+      "GUID": "ba1c616d654546e9ae72c091a8dbee8e",
+      "Type": "RewardsList",
+      "Conditions": "0",
+      "Rewards": "2",
+      "Reward_0_Type": "Item",
+      "Reward_0_ID": "52532",
+      "Reward_0_Amount": "1",
+      "Reward_0_Barrel": "51077",
+      "Reward_0_Tactical": "51075",
+      "Reward_0_Magazine": "52387",
+      "Reward_0_Ammo": "125",
+      "Reward_1_Type": "Item",
+      "Reward_1_ID": "52387",
+      "Reward_1_Amount": "1"
+    },
+    "translation": null
   },
   "ba1cd9e03adf4a2091a3314a6a30eafb": {
     "name": "Car_Lift_0",
@@ -177842,6 +180106,24 @@
     },
     "translation": null
   },
+  "bc799dc2380247bfae01e778cce165e1": {
+    "name": "PaintingDiary",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PaintingDiary/PaintingDiary.dat",
+    "data": {
+      "GUID": "bc799dc2380247bfae01e778cce165e1",
+      "Type": "Medium",
+      "ID": "51000",
+      "Has_Clip_Prefab": "false",
+      "Rubble": "Destroy",
+      "Rubble_Reset": "300",
+      "Rubble_Health": "1",
+      "Rubble_Effect": "58",
+      "Rubble_Reward_ID": "51385"
+    },
+    "translation": {
+      "Name": "PBS Painting Diary"
+    }
+  },
   "bc985bbb6abf4681aaf2aeed5a7fa29a": {
     "name": "Tractor_1",
     "path": "Bundles/Vehicles/Tractor_1/Tractor_1.dat",
@@ -178671,6 +180953,38 @@
     },
     "translation": null
   },
+  "bd4861de448647a59e7518c08a9882cf": {
+    "name": "Plaque_Invisible",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Plaque_Invisible/Plaque_Invisible.dat",
+    "data": {
+      "GUID": "bd4861de448647a59e7518c08a9882cf",
+      "Type": "Storage",
+      "Rarity": "Mythical",
+      "Useable": "Barricade",
+      "Build": "Storage_Wall",
+      "ID": "52598",
+      "Size_X": "2",
+      "Size_Y": "1",
+      "Size_Z": "0.3",
+      "Health": "300",
+      "Range": "4",
+      "Offset": "0.125",
+      "Allow_Placement_Inside_Clip_Volumes": "True",
+      "Storage_X": "10",
+      "Storage_Y": "10",
+      "Display": "",
+      "Locked": "",
+      "Explosion": "36",
+      "Should_Close_When_Outside_Range": "true",
+      "PlacementAudioClip": "core.masterbundle:Sounds/MetalPlacement.mp3",
+      "Has_Clip_Prefab": "false",
+      "Armor_Tier": "Low"
+    },
+    "translation": {
+      "Name": "Invisible Plaque",
+      "Description": "Has the memory gone?  Are you feeling numb?"
+    }
+  },
   "bd52f64439cf44dba7d65380bff3f8b9": {
     "name": "ATMNumber0-7",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/ATMObjects2/7/ATMNumber0-7/ATMNumber0-7.dat",
@@ -179313,7 +181627,7 @@
       "Type": "Vendor",
       "ID": "52055",
       "Disable_Sorting": "",
-      "Buying": "36",
+      "Buying": "41",
       "Buying_0_ID": "51200",
       "Buying_0_Cost": "125",
       "Buying_0_Rewards": "1",
@@ -179374,201 +181688,231 @@
       "Buying_11_Rewards": "1",
       "Buying_11_Reward_0_Type": "Rewards_List_Asset",
       "Buying_11_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_12_ID": "52430",
+      "Buying_12_ID": "52530",
       "Buying_12_Cost": "400",
       "Buying_12_Rewards": "1",
       "Buying_12_Reward_0_Type": "Rewards_List_Asset",
       "Buying_12_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_13_ID": "52237",
-      "Buying_13_Cost": "300",
+      "Buying_13_ID": "52430",
+      "Buying_13_Cost": "400",
       "Buying_13_Rewards": "1",
       "Buying_13_Reward_0_Type": "Rewards_List_Asset",
       "Buying_13_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_14_ID": "51235",
-      "Buying_14_Cost": "500",
+      "Buying_14_ID": "52237",
+      "Buying_14_Cost": "300",
       "Buying_14_Rewards": "1",
       "Buying_14_Reward_0_Type": "Rewards_List_Asset",
       "Buying_14_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_15_ID": "51233",
+      "Buying_15_ID": "52536",
       "Buying_15_Cost": "500",
       "Buying_15_Rewards": "1",
       "Buying_15_Reward_0_Type": "Rewards_List_Asset",
       "Buying_15_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_16_ID": "51219",
-      "Buying_16_Cost": "600",
+      "Buying_16_ID": "51235",
+      "Buying_16_Cost": "500",
       "Buying_16_Rewards": "1",
       "Buying_16_Reward_0_Type": "Rewards_List_Asset",
       "Buying_16_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_17_ID": "51322",
-      "Buying_17_Cost": "600",
+      "Buying_17_ID": "51233",
+      "Buying_17_Cost": "500",
       "Buying_17_Rewards": "1",
       "Buying_17_Reward_0_Type": "Rewards_List_Asset",
       "Buying_17_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_18_ID": "51237",
-      "Buying_18_Cost": "500",
+      "Buying_18_ID": "51219",
+      "Buying_18_Cost": "600",
       "Buying_18_Rewards": "1",
       "Buying_18_Reward_0_Type": "Rewards_List_Asset",
       "Buying_18_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_19_ID": "51282",
-      "Buying_19_Cost": "5000",
+      "Buying_19_ID": "52532",
+      "Buying_19_Cost": "750",
       "Buying_19_Rewards": "1",
       "Buying_19_Reward_0_Type": "Rewards_List_Asset",
       "Buying_19_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_20_ID": "52300",
-      "Buying_20_Cost": "5000",
+      "Buying_20_ID": "51322",
+      "Buying_20_Cost": "600",
       "Buying_20_Rewards": "1",
       "Buying_20_Reward_0_Type": "Rewards_List_Asset",
       "Buying_20_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_21_ID": "52063",
-      "Buying_21_Cost": "300",
+      "Buying_21_ID": "51237",
+      "Buying_21_Cost": "500",
       "Buying_21_Rewards": "1",
       "Buying_21_Reward_0_Type": "Rewards_List_Asset",
       "Buying_21_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_21_Conditions": "1",
-      "Buying_21_Condition_0_Type": "Item",
-      "Buying_21_Condition_0_ID": "52063",
-      "Buying_21_Condition_0_Amount": "1",
-      "Buying_21_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_22_ID": "51294",
-      "Buying_22_Cost": "250",
+      "Buying_22_ID": "51282",
+      "Buying_22_Cost": "5000",
       "Buying_22_Rewards": "1",
       "Buying_22_Reward_0_Type": "Rewards_List_Asset",
       "Buying_22_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_22_Conditions": "1",
-      "Buying_22_Condition_0_Type": "Item",
-      "Buying_22_Condition_0_ID": "51294",
-      "Buying_22_Condition_0_Amount": "1",
-      "Buying_22_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_23_ID": "52065",
-      "Buying_23_Cost": "250",
+      "Buying_23_ID": "52300",
+      "Buying_23_Cost": "5000",
       "Buying_23_Rewards": "1",
       "Buying_23_Reward_0_Type": "Rewards_List_Asset",
       "Buying_23_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_23_Conditions": "1",
-      "Buying_23_Condition_0_Type": "Item",
-      "Buying_23_Condition_0_ID": "52065",
-      "Buying_23_Condition_0_Amount": "1",
-      "Buying_23_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_24_ID": "52363",
-      "Buying_24_Cost": "250",
+      "Buying_24_ID": "52550",
+      "Buying_24_Cost": "5000",
       "Buying_24_Rewards": "1",
       "Buying_24_Reward_0_Type": "Rewards_List_Asset",
       "Buying_24_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
-      "Buying_24_Conditions": "1",
-      "Buying_24_Condition_0_Type": "Item",
-      "Buying_24_Condition_0_ID": "52363",
-      "Buying_24_Condition_0_Amount": "1",
-      "Buying_24_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_25_ID": "52061",
+      "Buying_25_ID": "52063",
       "Buying_25_Cost": "300",
       "Buying_25_Rewards": "1",
       "Buying_25_Reward_0_Type": "Rewards_List_Asset",
       "Buying_25_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_25_Conditions": "1",
       "Buying_25_Condition_0_Type": "Item",
-      "Buying_25_Condition_0_ID": "52061",
+      "Buying_25_Condition_0_ID": "52063",
       "Buying_25_Condition_0_Amount": "1",
       "Buying_25_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_26_ID": "52068",
-      "Buying_26_Cost": "350",
+      "Buying_26_ID": "51294",
+      "Buying_26_Cost": "250",
       "Buying_26_Rewards": "1",
       "Buying_26_Reward_0_Type": "Rewards_List_Asset",
       "Buying_26_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_26_Conditions": "1",
       "Buying_26_Condition_0_Type": "Item",
-      "Buying_26_Condition_0_ID": "52068",
+      "Buying_26_Condition_0_ID": "51294",
       "Buying_26_Condition_0_Amount": "1",
       "Buying_26_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_27_ID": "52432",
-      "Buying_27_Cost": "350",
+      "Buying_27_ID": "52065",
+      "Buying_27_Cost": "250",
       "Buying_27_Rewards": "1",
       "Buying_27_Reward_0_Type": "Rewards_List_Asset",
       "Buying_27_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_27_Conditions": "1",
       "Buying_27_Condition_0_Type": "Item",
-      "Buying_27_Condition_0_ID": "52432",
+      "Buying_27_Condition_0_ID": "52065",
       "Buying_27_Condition_0_Amount": "1",
       "Buying_27_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_28_ID": "52445",
-      "Buying_28_Cost": "500",
+      "Buying_28_ID": "52363",
+      "Buying_28_Cost": "250",
       "Buying_28_Rewards": "1",
       "Buying_28_Reward_0_Type": "Rewards_List_Asset",
       "Buying_28_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_28_Conditions": "1",
       "Buying_28_Condition_0_Type": "Item",
-      "Buying_28_Condition_0_ID": "52445",
+      "Buying_28_Condition_0_ID": "52363",
       "Buying_28_Condition_0_Amount": "1",
       "Buying_28_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_29_ID": "52070",
-      "Buying_29_Cost": "600",
+      "Buying_29_ID": "52061",
+      "Buying_29_Cost": "300",
       "Buying_29_Rewards": "1",
       "Buying_29_Reward_0_Type": "Rewards_List_Asset",
       "Buying_29_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_29_Conditions": "1",
       "Buying_29_Condition_0_Type": "Item",
-      "Buying_29_Condition_0_ID": "52070",
+      "Buying_29_Condition_0_ID": "52061",
       "Buying_29_Condition_0_Amount": "1",
       "Buying_29_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_30_ID": "51289",
-      "Buying_30_Cost": "500",
+      "Buying_30_ID": "52068",
+      "Buying_30_Cost": "350",
       "Buying_30_Rewards": "1",
       "Buying_30_Reward_0_Type": "Rewards_List_Asset",
       "Buying_30_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_30_Conditions": "1",
       "Buying_30_Condition_0_Type": "Item",
-      "Buying_30_Condition_0_ID": "51289",
+      "Buying_30_Condition_0_ID": "52068",
       "Buying_30_Condition_0_Amount": "1",
       "Buying_30_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_31_ID": "52509",
-      "Buying_31_Cost": "750",
+      "Buying_31_ID": "52432",
+      "Buying_31_Cost": "350",
       "Buying_31_Rewards": "1",
       "Buying_31_Reward_0_Type": "Rewards_List_Asset",
       "Buying_31_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_31_Conditions": "1",
       "Buying_31_Condition_0_Type": "Item",
-      "Buying_31_Condition_0_ID": "52509",
+      "Buying_31_Condition_0_ID": "52432",
       "Buying_31_Condition_0_Amount": "1",
       "Buying_31_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_32_ID": "52491",
-      "Buying_32_Cost": "750",
+      "Buying_32_ID": "52445",
+      "Buying_32_Cost": "500",
       "Buying_32_Rewards": "1",
       "Buying_32_Reward_0_Type": "Rewards_List_Asset",
       "Buying_32_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_32_Conditions": "1",
       "Buying_32_Condition_0_Type": "Item",
-      "Buying_32_Condition_0_ID": "52491",
+      "Buying_32_Condition_0_ID": "52445",
       "Buying_32_Condition_0_Amount": "1",
       "Buying_32_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_33_ID": "52076",
-      "Buying_33_Cost": "750",
+      "Buying_33_ID": "52070",
+      "Buying_33_Cost": "600",
       "Buying_33_Rewards": "1",
       "Buying_33_Reward_0_Type": "Rewards_List_Asset",
       "Buying_33_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_33_Conditions": "1",
       "Buying_33_Condition_0_Type": "Item",
-      "Buying_33_Condition_0_ID": "52076",
+      "Buying_33_Condition_0_ID": "52070",
       "Buying_33_Condition_0_Amount": "1",
       "Buying_33_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_34_ID": "52448",
-      "Buying_34_Cost": "750",
+      "Buying_34_ID": "51289",
+      "Buying_34_Cost": "500",
       "Buying_34_Rewards": "1",
       "Buying_34_Reward_0_Type": "Rewards_List_Asset",
       "Buying_34_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_34_Conditions": "1",
       "Buying_34_Condition_0_Type": "Item",
-      "Buying_34_Condition_0_ID": "52448",
+      "Buying_34_Condition_0_ID": "51289",
       "Buying_34_Condition_0_Amount": "1",
       "Buying_34_Condition_0_Logic": "Greater_Than_Or_Equal_To",
-      "Buying_35_ID": "52302",
-      "Buying_35_Cost": "6250",
+      "Buying_35_ID": "52509",
+      "Buying_35_Cost": "750",
       "Buying_35_Rewards": "1",
       "Buying_35_Reward_0_Type": "Rewards_List_Asset",
       "Buying_35_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Buying_35_Conditions": "1",
       "Buying_35_Condition_0_Type": "Item",
-      "Buying_35_Condition_0_ID": "52448",
+      "Buying_35_Condition_0_ID": "52509",
       "Buying_35_Condition_0_Amount": "1",
       "Buying_35_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+      "Buying_36_ID": "52491",
+      "Buying_36_Cost": "750",
+      "Buying_36_Rewards": "1",
+      "Buying_36_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_36_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_36_Conditions": "1",
+      "Buying_36_Condition_0_Type": "Item",
+      "Buying_36_Condition_0_ID": "52491",
+      "Buying_36_Condition_0_Amount": "1",
+      "Buying_36_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+      "Buying_37_ID": "52538",
+      "Buying_37_Cost": "750",
+      "Buying_37_Rewards": "1",
+      "Buying_37_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_37_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_37_Conditions": "1",
+      "Buying_37_Condition_0_Type": "Item",
+      "Buying_37_Condition_0_ID": "52491",
+      "Buying_37_Condition_0_Amount": "1",
+      "Buying_37_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+      "Buying_38_ID": "52076",
+      "Buying_38_Cost": "750",
+      "Buying_38_Rewards": "1",
+      "Buying_38_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_38_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_38_Conditions": "1",
+      "Buying_38_Condition_0_Type": "Item",
+      "Buying_38_Condition_0_ID": "52076",
+      "Buying_38_Condition_0_Amount": "1",
+      "Buying_38_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+      "Buying_39_ID": "52448",
+      "Buying_39_Cost": "750",
+      "Buying_39_Rewards": "1",
+      "Buying_39_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_39_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_39_Conditions": "1",
+      "Buying_39_Condition_0_Type": "Item",
+      "Buying_39_Condition_0_ID": "52448",
+      "Buying_39_Condition_0_Amount": "1",
+      "Buying_39_Condition_0_Logic": "Greater_Than_Or_Equal_To",
+      "Buying_40_ID": "52302",
+      "Buying_40_Cost": "6250",
+      "Buying_40_Rewards": "1",
+      "Buying_40_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_40_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_40_Conditions": "1",
+      "Buying_40_Condition_0_Type": "Item",
+      "Buying_40_Condition_0_ID": "52448",
+      "Buying_40_Condition_0_Amount": "1",
+      "Buying_40_Condition_0_Logic": "Greater_Than_Or_Equal_To",
       "Currency": "561f74cdccdf48abaa6d49343b56aab0"
     },
     "translation": {
@@ -181659,6 +184003,24 @@
       "Name": "Tray #1"
     }
   },
+  "c0964d2ebe1a472d9da15dfb99f1008e": {
+    "name": "PaintingDeath",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PaintingDeath/PaintingDeath.dat",
+    "data": {
+      "GUID": "c0964d2ebe1a472d9da15dfb99f1008e",
+      "Type": "Medium",
+      "ID": "51000",
+      "Has_Clip_Prefab": "false",
+      "Rubble": "Destroy",
+      "Rubble_Reset": "300",
+      "Rubble_Health": "1",
+      "Rubble_Effect": "58",
+      "Rubble_Reward_ID": "51382"
+    },
+    "translation": {
+      "Name": "PBS Painting Death"
+    }
+  },
   "c09d2e4e79294d2ca2af742886ee01db": {
     "name": "Gun_Locker",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Gun_Locker/Gun_Locker.dat",
@@ -182900,6 +185262,43 @@
       ]
     },
     "translation": null
+  },
+  "c20f77f8950b47f3a353e319a367523a": {
+    "name": "PaintingDeath",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Pictures/PaintingDeath/PaintingDeath.dat",
+    "data": {
+      "GUID": "c20f77f8950b47f3a353e319a367523a",
+      "Type": "Barricade",
+      "Useable": "Barricade",
+      "Build": "Barricade_Wall",
+      "Rarity": "Rare",
+      "ID": "52576",
+      "SalvageItem": "c20f77f8950b47f3a353e319a367523a",
+      "Size_X": "2",
+      "Size_Y": "1",
+      "Size_Z": "0.6",
+      "Health": "40",
+      "Range": "4",
+      "Radius": "0.02",
+      "Offset": "0.1",
+      "Explosion": "58",
+      "Vulnerable": "",
+      "Salvage_Duration_Multiplier": "0.25",
+      "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+      "Bypass_Pickup_Ownership": "True",
+      "Has_Clip_Prefab": "False",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52576",
+      "Blueprint_0_Product": "51020",
+      "Blueprint_0_Products": "3",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Painting - Death",
+      "Description": "Sanely, smartly deceased."
+    }
   },
   "c225170860d1422a942a42ade8441907": {
     "name": "Buak_Scarf_Purple",
@@ -184465,6 +186864,25 @@
       "Message_0_Page_0": "Just drop stuff off here and we'll pay ya.  Can only drop some stuff though!"
     }
   },
+  "c3861d91fa6d4c2a97917b329108a0c8": {
+    "name": "PBS_ExaktSetup",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/PBS_ExaktSetup/PBS_ExaktSetup.dat",
+    "data": {
+      "GUID": "c3861d91fa6d4c2a97917b329108a0c8",
+      "Type": "RewardsList",
+      "Rewards": "2",
+      "Reward_0_Type": "Item",
+      "Reward_0_ID": "52530",
+      "Reward_0_Amount": "1",
+      "Reward_0_Barrel": "51090",
+      "Reward_0_Grip": "51088",
+      "Reward_0_Tactical": "51076",
+      "Reward_1_Type": "Item",
+      "Reward_1_ID": "52089",
+      "Reward_1_Amount": "3"
+    },
+    "translation": null
+  },
   "c387f10875af49cda3afdfe0985b2767": {
     "name": "Daypack_White",
     "path": "Bundles/Items/Backpacks/Daypack_White/Daypack_White.dat",
@@ -185260,6 +187678,44 @@
       ]
     },
     "translation": null
+  },
+  "c449e3e7649b46d28e15ac35e3262b66": {
+    "name": "Bike_Helmet_Purple",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Clothes/Hats/Bike_Helmet_Purple/Bike_Helmet_Purple.dat",
+    "data": {
+      "GUID": "c449e3e7649b46d28e15ac35e3262b66",
+      "Type": "Hat",
+      "Rarity": "Rare",
+      "Useable": "Clothing",
+      "ID": "52545",
+      "Size_X": "2",
+      "Size_Y": "2",
+      "Size_Z": "0.3",
+      "Armor": ".75",
+      "Blueprints": "2",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52545",
+      "Blueprint_0_Supply_0_Amount": "1",
+      "Blueprint_0_Outputs": "2",
+      "Blueprint_0_Output_0_ID": "51017",
+      "Blueprint_0_Output_0_Amount": "2",
+      "Blueprint_0_Output_1_ID": "51028",
+      "Blueprint_0_Output_1_Amount": "2",
+      "Blueprint_0_Build": "32",
+      "Blueprint_1_Type": "Repair",
+      "Blueprint_1_Searchable": "False",
+      "Blueprint_1_Supplies": "2",
+      "Blueprint_1_Supply_0_ID": "51017",
+      "Blueprint_1_Supply_0_Amount": "2",
+      "Blueprint_1_Supply_1_ID": "51028",
+      "Blueprint_1_Supply_1_Amount": "2",
+      "Blueprint_1_Build": "32"
+    },
+    "translation": {
+      "Name": "Purple Biker Helmet",
+      "Description": "Protects your head from any nasty impacts."
+    }
   },
   "c45861ecad084c489605b1cc1b352fb7": {
     "name": "PBS_Paatz_Quest_R",
@@ -186154,8 +188610,9 @@
       "Size_Y": "2",
       "Size_Z": "0.35",
       "Shell": "51051",
-      "Ammo_Min": "0",
-      "Ammo_Max": "0",
+      "Magazine": "51050",
+      "Ammo_Min": "150",
+      "Ammo_Max": "150",
       "Auto": "",
       "Sight": "51080",
       "Caliber": "51009",
@@ -186198,7 +188655,7 @@
       "Shoot_Quest_Reward_0_GUID": "ae7724167039492fb3bd8aeef222fcfa"
     },
     "translation": {
-      "Name": "Technical Gun",
+      "Name": "Mounted HMG",
       "Description": "you shouldnt have this"
     }
   },
@@ -191391,6 +193848,22 @@
       "Description": "Armored rampart. Beware of mechanized termites."
     }
   },
+  "cbbbf16e40f849cca44bbd0b2708ae39": {
+    "name": "GatlingAirdrop",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/GatlingAirdrop/GatlingAirdrop.dat",
+    "data": {
+      "GUID": "cbbbf16e40f849cca44bbd0b2708ae39",
+      "Type": "Spawn",
+      "ID": "51305",
+      "Tables": [
+        {
+          "Guid": "6dd9f5cf13914f718c15c5e1bbb2722f",
+          "Weight": "100"
+        }
+      ]
+    },
+    "translation": null
+  },
   "cbbebe5a009341bbb3c54d176ed41038": {
     "name": "Circuitboard",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Supplies/CraftingSupplies/Circuitboard/Circuitboard.dat",
@@ -192935,6 +195408,18 @@
     "translation": {
       "Name": "Blue Beach Chair",
       "Description": "Comfy spot to relax in the shade."
+    }
+  },
+  "cd1f04665ed944e3b3eb43fe36338c72": {
+    "name": "34",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Graffitis/34/34.dat",
+    "data": {
+      "GUID": "cd1f04665ed944e3b3eb43fe36338c72",
+      "Type": "Large",
+      "ID": "51000"
+    },
+    "translation": {
+      "Name": "PBS Graffiti Dih"
     }
   },
   "cd233f93d4e5484dbc6bcd8d20a68466": {
@@ -194776,6 +197261,25 @@
       "Table_3_Weight": "75",
       "Table_4_Spawn_ID": "643",
       "Table_4_Weight": "25"
+    },
+    "translation": null
+  },
+  "ce92bd67e1c049759dc033a78087463a": {
+    "name": "PBS_SergeantSetup2",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/RewardLists/PBS_SergeantSetup2/PBS_SergeantSetup2.dat",
+    "data": {
+      "GUID": "ce92bd67e1c049759dc033a78087463a",
+      "Type": "RewardsList",
+      "Rewards": "2",
+      "Reward_0_Type": "Item",
+      "Reward_0_ID": "52491",
+      "Reward_0_Amount": "1",
+      "Reward_0_Sight": "51085",
+      "Reward_0_Barrel": "51089",
+      "Reward_0_Tactical": "51076",
+      "Reward_1_Type": "Item",
+      "Reward_1_ID": "51909",
+      "Reward_1_Amount": "3"
     },
     "translation": null
   },
@@ -196993,6 +199497,24 @@
       "Name": "Hesco #3"
     }
   },
+  "d10aaee08d5843ccbcd66c50e727ec0a": {
+    "name": "PaintingShotgun",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Medium/Pictures/PaintingShotgun/PaintingShotgun.dat",
+    "data": {
+      "GUID": "d10aaee08d5843ccbcd66c50e727ec0a",
+      "Type": "Medium",
+      "ID": "51000",
+      "Has_Clip_Prefab": "false",
+      "Rubble": "Destroy",
+      "Rubble_Reset": "300",
+      "Rubble_Health": "1",
+      "Rubble_Effect": "58",
+      "Rubble_Reward_ID": "51377"
+    },
+    "translation": {
+      "Name": "PBS Painting Shotgun"
+    }
+  },
   "d10b73d95b8543838ac432260fd03659": {
     "name": "PBS_BlueFilament",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Consolidator/PBS_M/T/PBS_BlueFilament/PBS_BlueFilament.dat",
@@ -198986,6 +201508,18 @@
       "Table_7_Weight": "10"
     },
     "translation": null
+  },
+  "d343f94c961649faad1652bacc6b7063": {
+    "name": "36",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Graffitis/36/36.dat",
+    "data": {
+      "GUID": "d343f94c961649faad1652bacc6b7063",
+      "Type": "Large",
+      "ID": "51000"
+    },
+    "translation": {
+      "Name": "PBS Graffiti Poopbutt"
+    }
   },
   "d34aa11ac1b34c039eac984c0826cad9": {
     "name": "ATMNumber7",
@@ -206081,6 +208615,22 @@
     },
     "translation": null
   },
+  "db3a975a8d244a7b893cbda2c49c6e8a": {
+    "name": "PaintingDeath",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingDeath/PaintingDeath.dat",
+    "data": {
+      "GUID": "db3a975a8d244a7b893cbda2c49c6e8a",
+      "Type": "Spawn",
+      "ID": "51382",
+      "Tables": [
+        {
+          "Guid": "c20f77f8950b47f3a353e319a367523a",
+          "Weight": "100"
+        }
+      ]
+    },
+    "translation": null
+  },
   "db425d5841324eb58e47d31b213426c0": {
     "name": "Singer_Suits",
     "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Vendors/Singer_Suits/Asset.dat",
@@ -208948,6 +211498,18 @@
       "Table_1_Weight": "10"
     },
     "translation": null
+  },
+  "de418c2c5c46409b810d7a6c888a8a54": {
+    "name": "38",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Graffitis/38/38.dat",
+    "data": {
+      "GUID": "de418c2c5c46409b810d7a6c888a8a54",
+      "Type": "Large",
+      "ID": "51000"
+    },
+    "translation": {
+      "Name": "PBS Graffiti Russian"
+    }
   },
   "de4774520b434695b4ce388d7b82917a": {
     "name": "Elver2_Tank_Hat",
@@ -218677,6 +221239,43 @@
       "Description": "Rail mounted iron sights"
     }
   },
+  "e72ee2cf489f4068a916df6a9ee52def": {
+    "name": "PaintingMortis",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Items/Barricades/Pictures/PaintingMortis/PaintingMortis.dat",
+    "data": {
+      "GUID": "e72ee2cf489f4068a916df6a9ee52def",
+      "Type": "Barricade",
+      "Useable": "Barricade",
+      "Build": "Barricade_Wall",
+      "Rarity": "Rare",
+      "ID": "52577",
+      "SalvageItem": "e72ee2cf489f4068a916df6a9ee52def",
+      "Size_X": "2",
+      "Size_Y": "1",
+      "Size_Z": "0.6",
+      "Health": "40",
+      "Range": "4",
+      "Radius": "0.02",
+      "Offset": "0.1",
+      "Explosion": "58",
+      "Vulnerable": "",
+      "Salvage_Duration_Multiplier": "0.25",
+      "PlacementAudioClip": "core.masterbundle:Sounds/WoodenPlacement.mp3",
+      "Bypass_Pickup_Ownership": "True",
+      "Has_Clip_Prefab": "False",
+      "Blueprints": "1",
+      "Blueprint_0_Type": "Apparel",
+      "Blueprint_0_Supplies": "1",
+      "Blueprint_0_Supply_0_ID": "52577",
+      "Blueprint_0_Product": "51020",
+      "Blueprint_0_Products": "3",
+      "Blueprint_0_Build": "27"
+    },
+    "translation": {
+      "Name": "Painting - Mortis",
+      "Description": "Memento moldy."
+    }
+  },
   "e736722b10164d588321354375634df6": {
     "name": "Tank_Canada",
     "path": "Bundles/Spawns/Vehicles/Tank_Canada/Tank_Canada.dat",
@@ -219574,6 +222173,94 @@
       "Pro": ""
     },
     "translation": null
+  },
+  "e803b40cf700408d9fd49818ff4dc0ed": {
+    "name": "EKS_Shark",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/PBSNPCS/Visitors/Setups/EKS_Shark/EKS_Shark.dat",
+    "data": {
+      "GUID": "e803b40cf700408d9fd49818ff4dc0ed",
+      "Type": "Gun",
+      "Rarity": "Legendary",
+      "Useable": "Gun",
+      "Slot": "Primary",
+      "ID": "52515",
+      "Instantiated_Item_Name_Override": "51322",
+      "Pro": "",
+      "Master_Bundle_Override": "pbs.masterbundle",
+      "Bundle_Override_Path": "/Items/Weapons/Guns/Shark",
+      "Size_X": "4",
+      "Size_Y": "2",
+      "Size_Z": "0.35",
+      "Sight": "51084",
+      "Grip": "51086",
+      "Barrel": "51090",
+      "Tactical": "",
+      "Magazine": "51909",
+      "Attachment_Calibers": "1",
+      "Attachment_Caliber_0": "0",
+      "Magazine_Calibers": "1",
+      "Magazine_Caliber_0": "51005",
+      "Hook_Barrel": "",
+      "Hook_Sight": "",
+      "Hook_Grip": "",
+      "Hook_Tactical": "",
+      "Shell": "51051",
+      "Ammo_Min": "10",
+      "Ammo_Max": "20",
+      "Auto": "",
+      "Semi": "",
+      "Caliber": "51005",
+      "Range": "400",
+      "Firerate": "9",
+      "Action": "Trigger",
+      "Player_Damage": "37",
+      "Player_Leg_Multiplier": ".75",
+      "Player_Arm_Multiplier": ".75",
+      "Player_Spine_Multiplier": "1",
+      "Player_Skull_Multiplier": "1.25",
+      "Zombie_Damage": "125",
+      "Zombie_Leg_Multiplier": "0.75",
+      "Zombie_Arm_Multiplier": "0.75",
+      "Zombie_Spine_Multiplier": "0.9",
+      "Zombie_Skull_Multiplier": "2",
+      "Animal_Damage": "125",
+      "Animal_Leg_Multiplier": "0.6",
+      "Animal_Spine_Multiplier": "0.8",
+      "Animal_Skull_Multiplier": "1.1",
+      "Barricade_Damage": "5",
+      "Structure_Damage": "5",
+      "Vehicle_Damage": "30",
+      "Resource_Damage": "20",
+      "Object_Damage": "100",
+      "Durability": "0",
+      "Quality_Min": "100",
+      "Quality_Max": "100",
+      "Aim_In_Duration": "0.15",
+      "Recoil_Min_X": "4",
+      "Recoil_Max_X": "-4",
+      "Recoil_Min_Y": "8",
+      "Recoil_Max_Y": "8",
+      "Spread_Aim": "0.0625",
+      "Spread_Hip": "0.25",
+      "Remove": "0",
+      "Replace": "0",
+      "Recover_X": "0.1",
+      "Recover_Y": "0.1",
+      "Shake_Min_X": ".01",
+      "Shake_Min_Y": "0",
+      "Shake_Min_Z": "-.1",
+      "Shake_Max_X": "-.01",
+      "Shake_Max_Y": "0",
+      "Shake_Max_Z": "-.1.3",
+      "Muzzle": "",
+      "Shoot_Quest_Rewards": "1",
+      "Shoot_Quest_Reward_0_Type": "Rewards_List_Asset",
+      "Shoot_Quest_Reward_0_GUID": "ae7724167039492fb3bd8aeef222fcfa"
+    },
+    "translation": {
+      "Name": "Glasser",
+      "Description": "Kyra sends her regards.  This <color=legendary>Shark</color> has <color=epic>Cross Sight</color>, <color=rare>Max Pressure Barrel</color>, <color=rare>Tactical Laser</color>, <color=rare>Horizontal Grip</color> and hollow points."
+    }
   },
   "e81338d92fe4461998f9abd3189eb60a": {
     "name": "Pizza",
@@ -222701,15 +225388,15 @@
       "Tables": [
         {
           "Guid": "1275fb4a3be441958e438eb073f08697",
-          "Weight": "16"
+          "Weight": "12"
         },
         {
           "Guid": "52271ce09bea4954aebe77292d17c44a",
-          "Weight": "16"
+          "Weight": "12"
         },
         {
           "Guid": "d5b4594a27744938b9f48e1144583e15",
-          "Weight": "12"
+          "Weight": "10"
         },
         {
           "Guid": "84b40f1213be497a9bfd3a4566cc94c5",
@@ -222738,6 +225425,14 @@
         {
           "Guid": "4ed0ec85a53e4fadaf1a49189fa24dc1",
           "Weight": "6"
+        },
+        {
+          "Guid": "37450a90c5b74a19ad1557051ea728b3",
+          "Weight": "6"
+        },
+        {
+          "Guid": "233cb46d235a4944be9e0855c3026962",
+          "Weight": "4"
         },
         {
           "Guid": "f68166a2d8e348baa28957f176b3fb12",
@@ -222973,7 +225668,7 @@
     },
     "translation": {
       "Name": "Einwandfrei",
-      "Description": "The golden standard for any operation.  The <color=epic>Esdee</color> comes with a <color=epic>Cross Sight</color>, <color=rare>Precision Barrel</color>, <color=rare>Vertical Grip</color>, <color=rare>Tactical Laser</color>, and magazines.  Ready or not."
+      "Description": "The golden standard for any operation.  The <color=legendary>Esdee</color> comes with a <color=epic>Cross Sight</color>, <color=rare>Precision Barrel</color>, <color=rare>Vertical Grip</color>, <color=rare>Tactical Laser</color>, and magazines.  Ready or not."
     }
   },
   "ebff26ddc7e344bcb05e9ee253ec83d3": {
@@ -224058,6 +226753,18 @@
     "translation": {
       "Name": "Devil's Bane",
       "Description": "American shotgun chambered in Devil's Bane ammunition."
+    }
+  },
+  "ed33135724b8491ca57a70bc069f8614": {
+    "name": "31",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Objects/Large/Graffitis/31/31.dat",
+    "data": {
+      "GUID": "ed33135724b8491ca57a70bc069f8614",
+      "Type": "Large",
+      "ID": "51000"
+    },
+    "translation": {
+      "Name": "PBS Graffiti Monster Hunter"
     }
   },
   "ed47c2505e234ac6bdb427401adfe5e1": {
@@ -225978,7 +228685,7 @@
       "Type": "Vendor",
       "ID": "52415",
       "Disable_Sorting": "",
-      "Buying": "21",
+      "Buying": "22",
       "Buying_0_ID": "51039",
       "Buying_0_Cost": "15",
       "Buying_0_Amount": "8",
@@ -226097,6 +228804,12 @@
       "Buying_20_Rewards": "1",
       "Buying_20_Reward_0_Type": "Rewards_List_Asset",
       "Buying_20_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
+      "Buying_21_ID": "52057",
+      "Buying_21_Cost": "1000",
+      "Buying_21_Amount": "200",
+      "Buying_21_Rewards": "1",
+      "Buying_21_Reward_0_Type": "Rewards_List_Asset",
+      "Buying_21_Reward_0_GUID": "186465e40848448ead339c9f83aa7e70",
       "Selling": "14",
       "Selling_0_ID": "51039",
       "Selling_0_Cost": "50",
@@ -229322,6 +232035,22 @@
     },
     "translation": null
   },
+  "f38ad256c2e246a8a51c10fe69abfd68": {
+    "name": "PaintingDiary",
+    "path": "Servers/DataSerializing/Workshop/Steam/content/304930/3251926587/Escalation/Bundles/Spawns/PictureSpawns/PaintingDiary/PaintingDiary.dat",
+    "data": {
+      "GUID": "f38ad256c2e246a8a51c10fe69abfd68",
+      "Type": "Spawn",
+      "ID": "51385",
+      "Tables": [
+        {
+          "Guid": "58453004946541cbae8aa6d71e58d6b2",
+          "Weight": "100"
+        }
+      ]
+    },
+    "translation": null
+  },
   "f397719d35654b94846ce05a44f2f386": {
     "name": "CJ_Selfvester_Tundra_Top",
     "path": "Bundles/Items/Outfits/CJ_Selfvester/CJ_Selfvester_Tundra_Top/CJ_Selfvester_Tundra_Top.dat",
@@ -229594,11 +232323,11 @@
       "Durability": "0",
       "Quality_Min": "100",
       "Quality_Max": "100",
-      "Aim_In_Duration": "0.3",
-      "Recoil_Min_X": "-1.5",
-      "Recoil_Max_X": "1.5",
-      "Recoil_Max_Y": "3.5",
-      "Recoil_Min_Y": "1.5",
+      "Aim_In_Duration": "0.2",
+      "Recoil_Min_X": "-1.25",
+      "Recoil_Max_X": "1.25",
+      "Recoil_Max_Y": "3.25",
+      "Recoil_Min_Y": "1",
       "Spread_Aim": "0.04",
       "Spread_Hip": "0.175",
       "Remove": "0",
@@ -231369,11 +234098,13 @@
       "Blueprint_0_Outputs": "1",
       "Blueprint_0_Output_0_ID": "51017",
       "Blueprint_0_Output_0_Amount": "1",
-      "Blueprint_0_Build": "27"
+      "Blueprint_0_Build": "27",
+      "Calibers": "1",
+      "Caliber_0": "51211"
     },
     "translation": {
       "Name": "Walker Iron Sights",
-      "Description": "Rail mounted iron sights"
+      "Description": "Rail mounted iron sights."
     }
   },
   "f5f9597737424835800f02f451ffd771": {
@@ -232749,7 +235480,7 @@
     "data": {
       "GUID": "f6fbe7e8963448f89385ad86a174117c",
       "Type": "Gun",
-      "Rarity": "Legendary",
+      "Rarity": "Mythical",
       "Useable": "Gun",
       "Slot": "Primary",
       "ID": "51277",
@@ -232782,7 +235513,7 @@
       "Quality_Max": "100",
       "Spread_Aim": "0.05",
       "Spread_Hip": "0.1",
-      "Ballistic_Force": "1000",
+      "Ballistic_Force": "2000",
       "Recoil_Min_X": "-15",
       "Recoil_Min_Y": "25",
       "Recoil_Max_X": "15",
@@ -236965,23 +239696,19 @@
           "Weight": "6"
         },
         {
-          "Guid": "855ad7c1a74f4d18a0f8d54fdfe1675c",
-          "Weight": "5"
-        },
-        {
-          "Guid": "ed7e698462a642899b609881a6ebff28",
-          "Weight": "5"
-        },
-        {
           "Guid": "19a07f4199f04995b62cd4e25e280ec5",
           "Weight": "5"
         },
         {
-          "Guid": "e17a99f39e9446899d184eb78e736833",
+          "Guid": "855ad7c1a74f4d18a0f8d54fdfe1675c",
           "Weight": "5"
         },
         {
           "Guid": "52a43d9cf72843a7b6d2410885f001ef",
+          "Weight": "5"
+        },
+        {
+          "Guid": "ed7e698462a642899b609881a6ebff28",
           "Weight": "5"
         },
         {
@@ -236993,6 +239720,10 @@
           "Weight": "5"
         },
         {
+          "Guid": "e17a99f39e9446899d184eb78e736833",
+          "Weight": "5"
+        },
+        {
           "Guid": "0b54ee1c68df4cd6800d52a9c86e1a93",
           "Weight": "4"
         },
@@ -237001,15 +239732,19 @@
           "Weight": "4"
         },
         {
+          "Guid": "b89f47823e164658b49beb9805a66ab9",
+          "Weight": "4"
+        },
+        {
+          "Guid": "2316fd2a2d5641c790c0197ce7ff4274",
+          "Weight": "2"
+        },
+        {
           "Guid": "de21ee84017a4b4197e0b7ad0dc8010b",
           "Weight": "2"
         },
         {
           "Guid": "c7b398d4f5d04c9e94327d4664034d88",
-          "Weight": "2"
-        },
-        {
-          "Guid": "2316fd2a2d5641c790c0197ce7ff4274",
           "Weight": "2"
         },
         {
