@@ -1,5 +1,5 @@
 {
-  "Available_Instance_ID": 13,
+  "Available_Instance_ID": 15,
   "Items": [
     {
       "Type": "FoliageSystem",
@@ -824,6 +824,34 @@
         },
         "LocationName": "Off Limits",
         "IsVisibleOnMap": true
+      }
+    },
+    {
+      "Type": "UndergroundWhitelistVolume",
+      "Instance_ID": 14,
+      "Item": {
+        "Position": {
+          "x": -83.91171,
+          "y": 110.3566,
+          "z": -766.0694
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": -0.1305261,
+          "z": 0.0,
+          "w": 0.9914449,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 345.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 91.22565,
+          "y": 41.40336,
+          "z": 87.53786
+        },
+        "Shape": 0
       }
     }
   ]

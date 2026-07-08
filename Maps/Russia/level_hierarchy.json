@@ -1,5 +1,5 @@
 {
-  "Available_Instance_ID": 186,
+  "Available_Instance_ID": 218,
   "Items": [
     {
       "Type": "FoliageSystem",
@@ -2344,178 +2344,27 @@
           "z": 80.0
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 122,
         "No_Water": true,
         "No_Lighting": false,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
-      }
-    },
-    {
-      "Type": "AmbianceVolume",
-      "Instance_ID": 13,
-      "Item": {
-        "Position": {
-          "x": -140.348,
-          "y": 27.55434,
-          "z": 1382.112
-        },
-        "Rotation": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "w": 1.0,
-          "eulerAngles": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "Scale": {
-          "x": 146.88,
-          "y": 146.88,
-          "z": 146.88
-        },
-        "Shape": 1,
-        "Ambiance_ID": 0,
-        "No_Water": true,
-        "No_Lighting": false,
-        "Weather_Mask": 4294967295,
-        "Override_Fog": false,
-        "Fog_Color": {
-          "r": 1.0,
-          "g": 1.0,
-          "b": 1.0
-        },
-        "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
-      }
-    },
-    {
-      "Type": "AmbianceVolume",
-      "Instance_ID": 14,
-      "Item": {
-        "Position": {
-          "x": -60.28687,
-          "y": 30.59913,
-          "z": 1361.675
-        },
-        "Rotation": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "w": 1.0,
-          "eulerAngles": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "Scale": {
-          "x": 117.12,
-          "y": 117.12,
-          "z": 117.12
-        },
-        "Shape": 1,
-        "Ambiance_ID": 0,
-        "No_Water": true,
-        "No_Lighting": false,
-        "Weather_Mask": 4294967295,
-        "Override_Fog": false,
-        "Fog_Color": {
-          "r": 1.0,
-          "g": 1.0,
-          "b": 1.0
-        },
-        "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
-      }
-    },
-    {
-      "Type": "AmbianceVolume",
-      "Instance_ID": 15,
-      "Item": {
-        "Position": {
-          "x": -899.1122,
-          "y": 35.39513,
-          "z": 79.07465
-        },
-        "Rotation": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "w": 1.0,
-          "eulerAngles": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "Scale": {
-          "x": 200.0,
-          "y": 34.0,
-          "z": 240.0
-        },
-        "Shape": 0,
-        "Ambiance_ID": 122,
-        "No_Water": false,
-        "No_Lighting": true,
-        "Weather_Mask": 4294967295,
-        "Override_Fog": false,
-        "Fog_Color": {
-          "r": 1.0,
-          "g": 1.0,
-          "b": 1.0
-        },
-        "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
-      }
-    },
-    {
-      "Type": "AmbianceVolume",
-      "Instance_ID": 16,
-      "Item": {
-        "Position": {
-          "x": -845.3668,
-          "y": 56.81094,
-          "z": 135.2972
-        },
-        "Rotation": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "w": 1.0,
-          "eulerAngles": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "Scale": {
-          "x": 32.0,
-          "y": 12.0,
-          "z": 128.0
-        },
-        "Shape": 0,
-        "Ambiance_ID": 122,
-        "No_Water": false,
-        "No_Lighting": true,
-        "Weather_Mask": 4294967295,
-        "Override_Fog": false,
-        "Fog_Color": {
-          "r": 1.0,
-          "g": 1.0,
-          "b": 1.0
-        },
-        "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -2523,9 +2372,9 @@
       "Instance_ID": 17,
       "Item": {
         "Position": {
-          "x": -867.7432,
-          "y": 50.94229,
-          "z": 156.2462
+          "x": -871.506,
+          "y": 55.37219,
+          "z": 131.2215
         },
         "Rotation": {
           "x": 0.0,
@@ -2539,63 +2388,32 @@
           }
         },
         "Scale": {
-          "x": 16.0,
-          "y": 16.0,
-          "z": 6.0
+          "x": 32.83918,
+          "y": 24.85979,
+          "z": 34.82964
         },
         "Shape": 0,
+        "Falloff": 10.0,
         "Ambiance_ID": 122,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
-      }
-    },
-    {
-      "Type": "AmbianceVolume",
-      "Instance_ID": 18,
-      "Item": {
-        "Position": {
-          "x": -874.1393,
-          "y": 52.89513,
-          "z": 110.0927
-        },
-        "Rotation": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "w": 1.0,
-          "eulerAngles": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "Scale": {
-          "x": 32.0,
-          "y": 16.0,
-          "z": 61.0
-        },
-        "Shape": 0,
-        "Ambiance_ID": 122,
-        "No_Water": false,
-        "No_Lighting": true,
-        "Weather_Mask": 4294967295,
-        "Override_Fog": false,
-        "Fog_Color": {
-          "r": 1.0,
-          "g": 1.0,
-          "b": 1.0
-        },
-        "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": true,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -2624,18 +2442,27 @@
           "z": 64.0
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 122,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": true,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -2665,7 +2492,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -2694,18 +2522,27 @@
           "z": 37.76
         },
         "Shape": 1,
+        "Falloff": 0.0,
         "Ambiance_ID": 122,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": true,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -4752,7 +4589,8 @@
           "z": 6.643006
         },
         "Shape": 0,
-        "AssetGuid": "9b519d2df5af46f08830562aeb2f43d7"
+        "AssetGuid": "9b519d2df5af46f08830562aeb2f43d7",
+        "ShouldAffectVehiclePassengers": false
       }
     },
     {
@@ -5547,24 +5385,13 @@
         },
         "Rotation": {
           "x": 0.0,
-          "y": -0.382683426,
+          "y": -0.3826834,
           "z": 0.0,
-          "w": 0.9238795,
+          "w": 0.9238796,
           "eulerAngles": {
             "x": 0.0,
             "y": 315.0,
             "z": 0.0
-          },
-          "normalized": {
-            "x": 0.0,
-            "y": -0.382683456,
-            "z": 0.0,
-            "w": 0.923879564,
-            "eulerAngles": {
-              "x": 0.0,
-              "y": 315.0,
-              "z": 0.0
-            }
           }
         },
         "Scale": {
@@ -5591,24 +5418,13 @@
         },
         "Rotation": {
           "x": 0.0,
-          "y": -0.382683426,
+          "y": -0.3826834,
           "z": 0.0,
-          "w": 0.9238795,
+          "w": 0.9238796,
           "eulerAngles": {
             "x": 0.0,
             "y": 315.0,
             "z": 0.0
-          },
-          "normalized": {
-            "x": 0.0,
-            "y": -0.382683456,
-            "z": 0.0,
-            "w": 0.923879564,
-            "eulerAngles": {
-              "x": 0.0,
-              "y": 315.0,
-              "z": 0.0
-            }
           }
         },
         "Scale": {
@@ -5622,6 +5438,1025 @@
         "Kill_Animals": true,
         "Kill_Vehicles": false,
         "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 186,
+      "Item": {
+        "Position": {
+          "x": -923.6703,
+          "y": 38.03251,
+          "z": 68.4572
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 47.69636,
+          "y": 47.69636,
+          "z": 47.69636
+        },
+        "Shape": 1,
+        "Falloff": 18.0,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog_Mode": 0,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": true,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 187,
+      "Item": {
+        "Position": {
+          "x": -867.7526,
+          "y": 42.75124,
+          "z": 147.917
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 47.69636,
+          "y": 47.69636,
+          "z": 47.69636
+        },
+        "Shape": 1,
+        "Falloff": 20.0,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog_Mode": 0,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": true,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 190,
+      "Item": {
+        "Position": {
+          "x": -910.0809,
+          "y": 37.72694,
+          "z": 135.0374
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 194.5807,
+          "y": 29.09442,
+          "z": 78.02196
+        },
+        "Shape": 0,
+        "Falloff": 0.0,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog_Mode": 0,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": true,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 191,
+      "Item": {
+        "Position": {
+          "x": -858.346,
+          "y": 37.72694,
+          "z": 29.45559
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 95.7541,
+          "y": 29.09442,
+          "z": 135.1855
+        },
+        "Shape": 0,
+        "Falloff": 0.0,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog_Mode": 0,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": true,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 192,
+      "Item": {
+        "Position": {
+          "x": -922.5301,
+          "y": 31.87078,
+          "z": 72.41261
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 34.90319,
+          "y": 17.38209,
+          "z": 49.27148
+        },
+        "Shape": 0,
+        "Falloff": 0.0,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog_Mode": 0,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": true,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 193,
+      "Item": {
+        "Position": {
+          "x": -847.1519,
+          "y": 50.57793,
+          "z": 106.3193
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 17.26169,
+          "y": 18.96016,
+          "z": 113.0085
+        },
+        "Shape": 0,
+        "Falloff": 0.0,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog_Mode": 0,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": true,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 194,
+      "Item": {
+        "Position": {
+          "x": -876.8578,
+          "y": 50.57793,
+          "z": 157.7118
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 43.73106,
+          "y": 18.96016,
+          "z": 10.22349
+        },
+        "Shape": 0,
+        "Falloff": 0.0,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog_Mode": 0,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": true,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
+      }
+    },
+    {
+      "Type": "AmbianceVolume",
+      "Instance_ID": 195,
+      "Item": {
+        "Position": {
+          "x": -876.8578,
+          "y": 50.57793,
+          "z": 116.7906
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 43.73106,
+          "y": 18.96016,
+          "z": 22.04061
+        },
+        "Shape": 0,
+        "Falloff": 0.0,
+        "Ambiance_ID": 122,
+        "No_Water": false,
+        "No_Lighting": true,
+        "Weather_Mask": 4294967295,
+        "Override_Fog_Mode": 0,
+        "Fog_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "Fog_Intensity": 0.0,
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": true,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 196,
+      "Item": {
+        "Position": {
+          "x": -138.5264,
+          "y": 31.57079,
+          "z": 1494.687
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 68.07455,
+          "y": 11.56088,
+          "z": 38.10608
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 197,
+      "Item": {
+        "Position": {
+          "x": -170.858,
+          "y": 60.64853,
+          "z": 1486.032
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 11.4072,
+          "y": 48.75309,
+          "z": 87.53899
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 198,
+      "Item": {
+        "Position": {
+          "x": -101.0955,
+          "y": 60.64853,
+          "z": 1484.933
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 12.99978,
+          "y": 48.75309,
+          "z": 89.73669
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 199,
+      "Item": {
+        "Position": {
+          "x": -136.5606,
+          "y": 81.92659,
+          "z": 1450.607
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 73.42502,
+          "y": 5.355348,
+          "z": 32.36255
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 200,
+      "Item": {
+        "Position": {
+          "x": -136.7679,
+          "y": 82.79094,
+          "z": 1517.817
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 68.29786,
+          "y": 3.691961,
+          "z": 24.20105
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 201,
+      "Item": {
+        "Position": {
+          "x": -136.5081,
+          "y": 50.87885,
+          "z": 1451.081
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 68.66966,
+          "y": 18.80221,
+          "z": 23.4143
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 202,
+      "Item": {
+        "Position": {
+          "x": 649.0385,
+          "y": 105.3225,
+          "z": 1691.156
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 53.25826,
+          "y": 133.5912,
+          "z": 47.10082
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 204,
+      "Item": {
+        "Position": {
+          "x": 651.05,
+          "y": 179.1108,
+          "z": 1678.546
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 27.19884,
+          "y": 4.002635,
+          "z": 13.59259
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 205,
+      "Item": {
+        "Position": {
+          "x": 660.3029,
+          "y": 179.1108,
+          "z": 1694.036
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 8.693117,
+          "y": 4.002635,
+          "z": 17.50534
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 206,
+      "Item": {
+        "Position": {
+          "x": -915.4614,
+          "y": 19.85152,
+          "z": 66.08182
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 174.7009,
+          "y": 29.72186,
+          "z": 202.8607
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 207,
+      "Item": {
+        "Position": {
+          "x": -878.6083,
+          "y": 40.42376,
+          "z": 65.75935
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 34.22075,
+          "y": 11.05726,
+          "z": 69.1589
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 208,
+      "Item": {
+        "Position": {
+          "x": -877.2101,
+          "y": 57.18737,
+          "z": 9.870426
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 105.1689,
+          "y": 22.46479,
+          "z": 99.87231
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 209,
+      "Item": {
+        "Position": {
+          "x": -970.0911,
+          "y": 57.18737,
+          "z": 119.5823
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 85.94292,
+          "y": 22.46479,
+          "z": 120.3583
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 210,
+      "Item": {
+        "Position": {
+          "x": 197.4045,
+          "y": 37.38953,
+          "z": -130.594
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 66.57027,
+          "y": 2.569778,
+          "z": 69.36223
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 211,
+      "Item": {
+        "Position": {
+          "x": 221.7543,
+          "y": 41.30744,
+          "z": -139.2544
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 18.34564,
+          "y": 6.101943,
+          "z": 52.63831
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 212,
+      "Item": {
+        "Position": {
+          "x": 198.3628,
+          "y": 42.71972,
+          "z": -151.299
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 69.34185,
+          "y": 11.31982,
+          "z": 19.99278
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 213,
+      "Item": {
+        "Position": {
+          "x": 198.3628,
+          "y": 42.71972,
+          "z": -116.3195
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 69.34185,
+          "y": 11.31982,
+          "z": 32.04893
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 214,
+      "Item": {
+        "Position": {
+          "x": 176.8175,
+          "y": 42.71972,
+          "z": -136.7161
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 26.25124,
+          "y": 11.31982,
+          "z": 10.1582
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "WaterVolume",
+      "Instance_ID": 216,
+      "Item": {
+        "Position": {
+          "x": -425.5236,
+          "y": 12.24765,
+          "z": -1482.052
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 7344.343,
+          "y": 26.70581,
+          "z": 5235.209
+        },
+        "Shape": 0,
+        "Is_Surface_Visible": true,
+        "Is_Reflection_Visible": true,
+        "Is_Sea_Level": true,
+        "Water_Type": 2,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     }
   ]

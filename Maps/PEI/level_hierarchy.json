@@ -1,5 +1,5 @@
 {
-  "Available_Instance_ID": 71,
+  "Available_Instance_ID": 76,
   "Items": [
     {
       "Type": "FoliageSystem",
@@ -1982,7 +1982,7 @@
       "Item": {
         "Position": {
           "x": -777.9043,
-          "y": 49.27279,
+          "y": 50.52279,
           "z": -756.0379
         },
         "Rotation": {
@@ -1998,7 +1998,7 @@
         },
         "Scale": {
           "x": 11.68363,
-          "y": 5.415184,
+          "y": 7.915184,
           "z": 25.09689
         },
         "Shape": 0,
@@ -2082,7 +2082,7 @@
         "Position": {
           "x": -767.7644,
           "y": 49.27279,
-          "z": -791.6321
+          "z": -791.0211
         },
         "Rotation": {
           "x": 0.0,
@@ -2098,7 +2098,7 @@
         "Scale": {
           "x": 9.072645,
           "y": 5.415184,
-          "z": 17.74158
+          "z": 16.51968
         },
         "Shape": 0,
         "Kill_Players": true,
@@ -2114,8 +2114,8 @@
       "Item": {
         "Position": {
           "x": -778.0079,
-          "y": 49.27279,
-          "z": -786.02
+          "y": 50.52279,
+          "z": -782.6644
         },
         "Rotation": {
           "x": 0.0,
@@ -2130,8 +2130,8 @@
         },
         "Scale": {
           "x": 11.49456,
-          "y": 5.415184,
-          "z": 28.87351
+          "y": 7.915184,
+          "z": 22.16236
         },
         "Shape": 0,
         "Kill_Players": true,
@@ -2147,7 +2147,7 @@
       "Item": {
         "Position": {
           "x": -779.4368,
-          "y": 49.27279,
+          "y": 50.51577,
           "z": -770.1093
         },
         "Rotation": {
@@ -2163,7 +2163,7 @@
         },
         "Scale": {
           "x": 8.636699,
-          "y": 5.415184,
+          "y": 7.901146,
           "z": 3.447226
         },
         "Shape": 0,
@@ -2450,23 +2450,12 @@
         "Rotation": {
           "x": 0.0,
           "y": 0.0,
-          "z": 0.382683426,
-          "w": 0.9238795,
+          "z": 0.3826834,
+          "w": 0.9238796,
           "eulerAngles": {
             "x": 0.0,
             "y": 0.0,
-            "z": 45.0
-          },
-          "normalized": {
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.382683456,
-            "w": 0.923879564,
-            "eulerAngles": {
-              "x": 0.0,
-              "y": 0.0,
-              "z": 45.0
-            }
+            "z": 44.9999962
           }
         },
         "Scale": {
@@ -2546,6 +2535,161 @@
         "Kill_Animals": true,
         "Kill_Vehicles": false,
         "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 71,
+      "Item": {
+        "Position": {
+          "x": -764.1623,
+          "y": 29.6603,
+          "z": -772.1088
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 46.30334,
+          "y": 17.66608,
+          "z": 56.62005
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 72,
+      "Item": {
+        "Position": {
+          "x": -756.3688,
+          "y": 53.01677,
+          "z": -768.705
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 31.43263,
+          "y": 2.845621,
+          "z": 50.8303
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "UndergroundWhitelistVolume",
+      "Instance_ID": 73,
+      "Item": {
+        "Position": {
+          "x": 259.5056,
+          "y": 40.45668,
+          "z": 772.4139
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.2343208,
+          "z": 0.0,
+          "w": 0.9721594,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 27.10318,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 29.21474,
+          "y": 16.46304,
+          "z": 35.71407
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "UndergroundWhitelistVolume",
+      "Instance_ID": 74,
+      "Item": {
+        "Position": {
+          "x": 277.9109,
+          "y": 40.26699,
+          "z": 766.4461
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.2343208,
+          "z": 0.0,
+          "w": 0.9721593,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 27.10318,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 9.051153,
+          "y": 15.99242,
+          "z": 17.46428
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "WaterVolume",
+      "Instance_ID": 75,
+      "Item": {
+        "Position": {
+          "x": 155.5792,
+          "y": 10.30869,
+          "z": -0.5679925
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 3796.209,
+          "y": 30.58416,
+          "z": 4098.23
+        },
+        "Shape": 0,
+        "Is_Surface_Visible": true,
+        "Is_Reflection_Visible": true,
+        "Is_Sea_Level": true,
+        "Water_Type": 2,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     }
   ]

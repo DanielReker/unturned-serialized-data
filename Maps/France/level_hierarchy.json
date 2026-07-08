@@ -1,5 +1,5 @@
 {
-  "Available_Instance_ID": 180,
+  "Available_Instance_ID": 190,
   "Items": [
     {
       "Type": "WaterVolume",
@@ -30,7 +30,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 3
+        "Water_Type": 3,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -62,7 +63,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 3
+        "Water_Type": 3,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -94,7 +96,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 3
+        "Water_Type": 3,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -154,7 +157,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 1
+        "Water_Type": 1,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -183,18 +187,27 @@
           "z": 3540.586
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": false,
         "No_Lighting": false,
         "Weather_Mask": 4294967294,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -223,18 +236,27 @@
           "z": 2791.3
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": false,
         "No_Lighting": false,
         "Weather_Mask": 4294967293,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -263,18 +285,27 @@
           "z": 1327.101
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": false,
         "No_Lighting": false,
         "Weather_Mask": 4294967293,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -551,24 +582,13 @@
         },
         "Rotation": {
           "x": 0.0,
-          "y": -0.166011482,
+          "y": -0.166011512,
           "z": 0.0,
-          "w": 0.9861238,
+          "w": 0.98612386,
           "eulerAngles": {
             "x": 0.0,
             "y": 340.888,
             "z": 0.0
-          },
-          "normalized": {
-            "x": 0.0,
-            "y": -0.1660115,
-            "z": 0.0,
-            "w": 0.98612386,
-            "eulerAngles": {
-              "x": 0.0,
-              "y": 340.888,
-              "z": 0.0
-            }
           }
         },
         "Scale": {
@@ -678,24 +698,13 @@
         },
         "Rotation": {
           "x": 0.0,
-          "y": 0.388549954,
+          "y": 0.388550043,
           "z": 0.0,
-          "w": 0.9214276,
+          "w": 0.921427667,
           "eulerAngles": {
             "x": 0.0,
-            "y": 45.7286072,
+            "y": 45.7286148,
             "z": 0.0
-          },
-          "normalized": {
-            "x": 0.0,
-            "y": 0.388549984,
-            "z": 0.0,
-            "w": 0.921427667,
-            "eulerAngles": {
-              "x": 0.0,
-              "y": 45.7286072,
-              "z": 0.0
-            }
           }
         },
         "Scale": {
@@ -2450,7 +2459,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -2479,18 +2489,27 @@
           "z": 19.0
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -2519,18 +2538,27 @@
           "z": 5.0
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -2559,18 +2587,27 @@
           "z": 30.0
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -2599,18 +2636,27 @@
           "z": 52.0
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -2639,18 +2685,27 @@
           "z": 62.0
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -2679,18 +2734,27 @@
           "z": 40.0
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -2719,18 +2783,27 @@
           "z": 80.0
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -4407,6 +4480,258 @@
           "x": 26.02085,
           "y": 18.74216,
           "z": 100.0856
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 180,
+      "Item": {
+        "Position": {
+          "x": 701.9014,
+          "y": 59.68065,
+          "z": 949.3752
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 24.24007,
+          "y": 22.08899,
+          "z": 72.0918
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 181,
+      "Item": {
+        "Position": {
+          "x": 772.9014,
+          "y": 59.68065,
+          "z": 949.3752
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 24.24007,
+          "y": 22.08899,
+          "z": 72.0918
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 182,
+      "Item": {
+        "Position": {
+          "x": 737.4014,
+          "y": 59.68065,
+          "z": 925.8398
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 47.24004,
+          "y": 22.08899,
+          "z": 26.54053
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 183,
+      "Item": {
+        "Position": {
+          "x": 299.9843,
+          "y": 62.4636,
+          "z": 1523.118
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 30.42363,
+          "y": 14.7812,
+          "z": 82.62086
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 184,
+      "Item": {
+        "Position": {
+          "x": 299.9843,
+          "y": 62.4636,
+          "z": 1642.027
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 30.42363,
+          "y": 14.7812,
+          "z": 82.62086
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 185,
+      "Item": {
+        "Position": {
+          "x": 277.0205,
+          "y": 59.95028,
+          "z": 1582.677
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 27.55416,
+          "y": 9.752772,
+          "z": 80.04999
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 186,
+      "Item": {
+        "Position": {
+          "x": 617.844,
+          "y": 56.23867,
+          "z": 925.2437
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 48.90443,
+          "y": 16.24364,
+          "z": 24.20114
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 187,
+      "Item": {
+        "Position": {
+          "x": 606.0348,
+          "y": 56.23867,
+          "z": 949.8975
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 25.28603,
+          "y": 16.24364,
+          "z": 25.50867
+        },
+        "Shape": 0
+      }
+    },
+    {
+      "Type": "CullingVolume",
+      "Instance_ID": 189,
+      "Item": {
+        "Position": {
+          "x": -875.5873,
+          "y": 69.77591,
+          "z": 157.3596
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 27.50228,
+          "y": 10.76862,
+          "z": 98.02179
         },
         "Shape": 0
       }

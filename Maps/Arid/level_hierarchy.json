@@ -1486,7 +1486,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 1
+        "Water_Type": 1,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -1686,7 +1687,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 1
+        "Water_Type": 1,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -1801,18 +1803,27 @@
           "z": 45.55124
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 59033,
         "No_Water": false,
         "No_Lighting": false,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -1841,18 +1852,27 @@
           "z": 30.18603
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 59033,
         "No_Water": false,
         "No_Lighting": false,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -1881,18 +1901,27 @@
           "z": 47.46387
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 59033,
         "No_Water": false,
         "No_Lighting": false,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -1921,18 +1950,27 @@
           "z": 47.46387
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 59033,
         "No_Water": false,
         "No_Lighting": false,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -2017,18 +2055,27 @@
           "z": 36.15418
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 59034,
         "No_Water": true,
         "No_Lighting": false,
         "Weather_Mask": 4294967292,
-        "Override_Fog": true,
+        "Override_Fog_Mode": 1,
         "Fog_Color": {
           "r": 0.274509817,
           "g": 0.227450982,
           "b": 0.172549024
         },
         "Fog_Intensity": 0.5,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -3099,7 +3146,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 1
+        "Water_Type": 1,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -3937,18 +3985,27 @@
           "z": 355.9539
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 59034,
         "No_Water": true,
         "No_Lighting": false,
         "Weather_Mask": 4294967292,
-        "Override_Fog": true,
+        "Override_Fog_Mode": 1,
         "Fog_Color": {
           "r": 0.4509804,
           "g": 0.309803933,
           "b": 0.2
         },
         "Fog_Intensity": 0.9,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -4441,7 +4498,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 3
+        "Water_Type": 3,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -4651,18 +4709,27 @@
           "z": 355.9539
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 59034,
         "No_Water": true,
         "No_Lighting": false,
         "Weather_Mask": 4294967292,
-        "Override_Fog": true,
+        "Override_Fog_Mode": 1,
         "Fog_Color": {
           "r": 0.4509804,
           "g": 0.309803933,
           "b": 0.2
         },
         "Fog_Intensity": 0.9,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -4806,18 +4873,27 @@
           "z": 534.0287
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 59034,
         "No_Water": true,
         "No_Lighting": false,
         "Weather_Mask": 4294967292,
-        "Override_Fog": true,
+        "Override_Fog_Mode": 1,
         "Fog_Color": {
           "r": 0.4509804,
           "g": 0.309803933,
           "b": 0.2
         },
         "Fog_Intensity": 0.6,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -5073,7 +5149,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 2
+        "Water_Type": 2,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -5105,7 +5182,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 2
+        "Water_Type": 2,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -5135,7 +5213,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -5165,7 +5244,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -5195,7 +5275,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -5225,7 +5306,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -5255,7 +5337,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -5285,7 +5368,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -5315,7 +5399,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -5345,7 +5430,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -5705,7 +5791,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -5735,7 +5822,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -5797,18 +5885,27 @@
           "z": 190.4368
         },
         "Shape": 1,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": true,
         "No_Lighting": false,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -6838,18 +6935,27 @@
           "z": 877.5207
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 59034,
         "No_Water": true,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": true,
+        "Override_Fog_Mode": 1,
         "Fog_Color": {
           "r": 0.1882353,
           "g": 0.152941182,
           "b": 0.247058824
         },
         "Fog_Intensity": 0.35,
-        "Override_Atmospheric_Fog": true
+        "Override_Atmospheric_Fog": true,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -6910,7 +7016,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 1
+        "Water_Type": 1,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {

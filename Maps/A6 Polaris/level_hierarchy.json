@@ -933,7 +933,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 1
+        "Water_Type": 1,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -965,7 +966,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 1
+        "Water_Type": 1,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -1008,7 +1010,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 1
+        "Water_Type": 1,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -1540,18 +1543,27 @@
           "z": 84.64787
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": true,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": true,
+        "Override_Fog_Mode": 1,
         "Fog_Color": {
           "r": 0.2,
           "g": 0.2,
           "b": 0.2
         },
         "Fog_Intensity": 1.25,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -1580,18 +1592,27 @@
           "z": 33.12915
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": true,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": true,
+        "Override_Fog_Mode": 1,
         "Fog_Color": {
           "r": 0.2,
           "g": 0.2,
           "b": 0.2
         },
         "Fog_Intensity": 1.25,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -1620,18 +1641,27 @@
           "z": 108.2626
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": true,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": true,
+        "Override_Fog_Mode": 1,
         "Fog_Color": {
           "r": 0.2,
           "g": 0.2,
           "b": 0.2
         },
         "Fog_Intensity": 1.25,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -1660,18 +1690,27 @@
           "z": 145.5686
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": true,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": true,
+        "Override_Fog_Mode": 1,
         "Fog_Color": {
           "r": 0.2,
           "g": 0.2,
           "b": 0.2
         },
         "Fog_Intensity": 1.25,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -1975,7 +2014,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 1
+        "Water_Type": 1,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -2505,7 +2545,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": true,
         "Is_Sea_Level": true,
-        "Water_Type": 1
+        "Water_Type": 1,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -3083,18 +3124,27 @@
           "z": 132.8667
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 122,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -3123,18 +3173,27 @@
           "z": 23.49004
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 122,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -3192,18 +3251,27 @@
           "z": 88.78643
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 122,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -3290,18 +3358,27 @@
           "z": 105.1403
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 36013,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": true,
+        "Override_Fog_Mode": 1,
         "Fog_Color": {
           "r": 0.149019614,
           "g": 0.192156866,
           "b": 0.2509804
         },
         "Fog_Intensity": 3.0,
-        "Override_Atmospheric_Fog": true
+        "Override_Atmospheric_Fog": true,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -3603,18 +3680,27 @@
           "z": 32.36917
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": true,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": true,
+        "Override_Fog_Mode": 1,
         "Fog_Color": {
           "r": 0.2,
           "g": 0.2,
           "b": 0.2
         },
         "Fog_Intensity": 1.25,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -6088,7 +6174,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6151,7 +6238,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6181,7 +6269,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6211,7 +6300,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6241,7 +6331,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6271,7 +6362,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6301,7 +6393,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6331,7 +6424,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6394,7 +6488,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6536,7 +6631,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6566,7 +6662,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6596,7 +6693,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6626,7 +6724,8 @@
         },
         "Shape": 1,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6667,7 +6766,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6697,7 +6797,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6727,7 +6828,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6768,7 +6870,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6798,7 +6901,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6828,7 +6932,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6858,7 +6963,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -6945,18 +7051,27 @@
           "z": 59.62699
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 122,
         "No_Water": false,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -11792,7 +11907,8 @@
         "Is_Surface_Visible": true,
         "Is_Reflection_Visible": false,
         "Is_Sea_Level": false,
-        "Water_Type": 2
+        "Water_Type": 2,
+        "Fish_Spawn_Table": "00000000000000000000000000000000"
       }
     },
     {
@@ -11854,18 +11970,27 @@
           "z": 29.99503
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": true,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": true,
+        "Override_Fog_Mode": 1,
         "Fog_Color": {
           "r": 0.152941182,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 1.25,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -11894,18 +12019,27 @@
           "z": 5.656166
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": true,
         "No_Lighting": true,
         "Weather_Mask": 4294967295,
-        "Override_Fog": true,
+        "Override_Fog_Mode": 1,
         "Fog_Color": {
           "r": 0.152941182,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 1.25,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -12220,7 +12354,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -13738,7 +13873,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -13768,7 +13904,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -13798,7 +13935,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -13828,7 +13966,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -13919,18 +14058,27 @@
           "z": 41.51655
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": true,
         "No_Lighting": false,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -13959,18 +14107,27 @@
           "z": 46.59393
         },
         "Shape": 0,
+        "Falloff": 0.0,
         "Ambiance_ID": 0,
         "No_Water": true,
         "No_Lighting": false,
         "Weather_Mask": 4294967295,
-        "Override_Fog": false,
+        "Override_Fog_Mode": 0,
         "Fog_Color": {
           "r": 1.0,
           "g": 1.0,
           "b": 1.0
         },
         "Fog_Intensity": 0.0,
-        "Override_Atmospheric_Fog": false
+        "Override_Atmospheric_Fog": false,
+        "Enable_Falloff": false,
+        "Priority": 0,
+        "Audio_FadeIn": 2.0,
+        "Audio_FadeOut": 2.0,
+        "Fog_FadeIn": 20.0,
+        "Fog_FadeOut": 8.0,
+        "Lighting_FadeIn": 4.0,
+        "Lighting_FadeOut": 4.0
       }
     },
     {
@@ -14378,7 +14535,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -14408,7 +14566,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -14438,7 +14597,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -14468,7 +14628,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -14498,7 +14659,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -14528,7 +14690,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -14558,7 +14721,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {
@@ -14588,7 +14752,8 @@
         },
         "Shape": 0,
         "No_Weapons": true,
-        "No_Buildables": true
+        "No_Buildables": true,
+        "No_Incoming_Damage": true
       }
     },
     {

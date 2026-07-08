@@ -1157,5 +1157,57 @@
       "isValid": false,
       "isNull": true
     }
+  },
+  {
+    "name": "Lighthouse",
+    "isMega": false,
+    "health": 100,
+    "damage": 15,
+    "lootIndex": 31,
+    "lootID": 833,
+    "xp": 3,
+    "regen": 10.0,
+    "slots": [
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1994
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": [
+          {
+            "item": 1995
+          }
+        ]
+      },
+      {
+        "chance": 0.5,
+        "table": [
+          {
+            "item": 1996
+          }
+        ]
+      },
+      {
+        "chance": 1.0,
+        "table": []
+      }
+    ],
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 0.392156869
+    },
+    "tableUniqueId": 22,
+    "difficultyGUID": "",
+    "difficulty": {
+      "GUID": "00000000000000000000000000000000",
+      "isValid": false,
+      "isNull": true
+    }
   }
 ]
