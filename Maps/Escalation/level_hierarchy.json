@@ -1,5 +1,5 @@
 {
-  "Available_Instance_ID": 389,
+  "Available_Instance_ID": 399,
   "Items": [
     {
       "Type": "Landscape",
@@ -10503,6 +10503,303 @@
         "ProtectedDamagePerSecond": 0.0,
         "UnprotectedRadiationPerSecond": 0.5,
         "MaskFilterDamagePerSecond": 0.4
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 389,
+      "Item": {
+        "Position": {
+          "x": 331.2389,
+          "y": 23.26903,
+          "z": -334.726
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 28.08602,
+          "y": 2.229418,
+          "z": 33.48103
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 390,
+      "Item": {
+        "Position": {
+          "x": -642.3789,
+          "y": 45.43414,
+          "z": -347.1477
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 28.08602,
+          "y": 2.229418,
+          "z": 33.48103
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 391,
+      "Item": {
+        "Position": {
+          "x": -158.3358,
+          "y": 34.06678,
+          "z": -433.697
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 28.08602,
+          "y": 2.229418,
+          "z": 33.48103
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 392,
+      "Item": {
+        "Position": {
+          "x": -209.3288,
+          "y": 23.17919,
+          "z": 220.2822
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 28.08602,
+          "y": 2.229418,
+          "z": 33.48103
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 394,
+      "Item": {
+        "Position": {
+          "x": 1433.508,
+          "y": -3.675785,
+          "z": 856.6145
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.2432119,
+          "z": 0.0,
+          "w": 0.9699732,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 28.1523743,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 353.4521,
+          "y": 69.34234,
+          "z": 320.3186
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 395,
+      "Item": {
+        "Position": {
+          "x": 2001.229,
+          "y": -3.675785,
+          "z": 445.3581
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.2432119,
+          "z": 0.0,
+          "w": 0.9699732,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 28.1523743,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 353.4521,
+          "y": 69.34234,
+          "z": 320.3186
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 396,
+      "Item": {
+        "Position": {
+          "x": 2158.18,
+          "y": -3.675785,
+          "z": 42.56171
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.6875266,
+          "z": 0.0,
+          "w": 0.7261593,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 86.86926,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 353.4521,
+          "y": 69.34234,
+          "z": 320.3186
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 397,
+      "Item": {
+        "Position": {
+          "x": 2129.43,
+          "y": -3.675785,
+          "z": -426.8296
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.6875266,
+          "z": 0.0,
+          "w": 0.7261593,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 86.86926,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 353.4521,
+          "y": 69.34234,
+          "z": 320.3186
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
+      }
+    },
+    {
+      "Type": "KillVolume",
+      "Instance_ID": 398,
+      "Item": {
+        "Position": {
+          "x": 1646.471,
+          "y": -3.675785,
+          "z": -530.691
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 0.6875266,
+          "z": 0.0,
+          "w": 0.7261593,
+          "eulerAngles": {
+            "x": 0.0,
+            "y": 86.86926,
+            "z": 0.0
+          }
+        },
+        "Scale": {
+          "x": 353.4521,
+          "y": 69.34234,
+          "z": 320.3186
+        },
+        "Shape": 0,
+        "Kill_Players": true,
+        "Kill_Zombies": true,
+        "Kill_Animals": true,
+        "Kill_Vehicles": false,
+        "Death_Cause": 3
       }
     }
   ]
